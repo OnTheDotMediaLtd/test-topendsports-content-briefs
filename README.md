@@ -19,6 +19,17 @@ Claude Code Skill version of the content briefs system with:
 - Orchestrator configuration
 - Phase-based workflow documentation
 
+### mcp-server/
+MCP (Model Context Protocol) server providing programmatic access to:
+- Site structure lookup and search
+- Brand positioning rules and compliance requirements
+- Brief management (active/completed briefs)
+- Document conversion (markdown to docx)
+- Feedback submission system
+- Template information
+
+See [mcp-server/README.md](mcp-server/README.md) for installation and usage.
+
 ## Requirements
 
 - Claude Code CLI
