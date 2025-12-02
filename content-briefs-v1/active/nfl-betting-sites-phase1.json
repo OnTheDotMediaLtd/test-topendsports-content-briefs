@@ -1,0 +1,201 @@
+{
+  "url": "/sport/betting/nfl-betting-sites.htm",
+  "page_name": "Best NFL Betting Sites",
+  "target_keyword": "best nfl betting sites",
+  "writer": "Lewis Humphries",
+  "priority": "High",
+  "template": "Template 2 - Comparison",
+  "keyword_cluster": {
+    "primary": {
+      "keyword": "best nfl betting sites",
+      "volume": 900,
+      "difficulty": "High"
+    },
+    "secondary": [
+      {
+        "keyword": "nfl betting apps",
+        "volume": 1600,
+        "placement": "H2",
+        "title": "Best NFL Betting Apps"
+      },
+      {
+        "keyword": "nfl betting lines",
+        "volume": 28000,
+        "placement": "H2",
+        "title": "NFL Betting Lines and Odds"
+      },
+      {
+        "keyword": "nfl betting promos",
+        "volume": 850,
+        "placement": "H2",
+        "title": "Best NFL Betting Promos & Bonuses"
+      },
+      {
+        "keyword": "nfl prop bets",
+        "volume": 450,
+        "placement": "H3",
+        "title": "NFL Prop Betting Markets"
+      },
+      {
+        "keyword": "nfl live betting",
+        "volume": 350,
+        "placement": "H3",
+        "title": "Live NFL Betting Features"
+      },
+      {
+        "keyword": "nfl same game parlay",
+        "volume": 380,
+        "placement": "H3",
+        "title": "Same Game Parlay Options for NFL"
+      },
+      {
+        "keyword": "is nfl betting legal",
+        "volume": 220,
+        "placement": "FAQ",
+        "question": "Is NFL betting legal in my state?"
+      },
+      {
+        "keyword": "fanduel vs draftkings nfl",
+        "volume": 180,
+        "placement": "H3",
+        "title": "FanDuel vs DraftKings: Which is Better for NFL?"
+      },
+      {
+        "keyword": "nfl betting odds",
+        "volume": 2400,
+        "placement": "H3",
+        "title": "Understanding NFL Betting Odds"
+      },
+      {
+        "keyword": "nfl betting tips",
+        "volume": 320,
+        "placement": "FAQ",
+        "question": "What are the best NFL betting strategies?"
+      },
+      {
+        "keyword": "how to bet on nfl games",
+        "volume": 280,
+        "placement": "FAQ",
+        "question": "How do I bet on NFL games online?"
+      }
+    ],
+    "total_volume": 35930,
+    "increase_percentage": 3892
+  },
+  "brand_selection": {
+    "locked": [
+      {
+        "position": 1,
+        "brand": "FanDuel",
+        "usp": "Best mobile app, #1 rated by users (4.9/5), market leader"
+      },
+      {
+        "position": 2,
+        "brand": "BetMGM",
+        "usp": "Best market variety, MGM Rewards integration, Edit My Bet tool"
+      }
+    ],
+    "research_driven": [
+      {
+        "position": 3,
+        "brand": "DraftKings",
+        "reason": "Best for live betting with 'Flash Betting', every down betting, top odds boosts"
+      },
+      {
+        "position": 4,
+        "brand": "bet365",
+        "reason": "Best overall odds for NFL games, extensive markets (hundreds), reliable"
+      },
+      {
+        "position": 5,
+        "brand": "Caesars",
+        "reason": "Dynamic interface, generous bet boosts, solid customer service, quick payouts"
+      },
+      {
+        "position": 6,
+        "brand": "ESPN BET",
+        "reason": "ESPN integration, ideal for casual bettors"
+      },
+      {
+        "position": 7,
+        "brand": "Fanatics",
+        "reason": "Rewards program, merchandise integration"
+      }
+    ],
+    "excluded": []
+  },
+  "competitor_gaps": [
+    {
+      "gap": "No interactive promo code copy buttons",
+      "build_requirement": "Build copyable promo code buttons for each sportsbook"
+    },
+    {
+      "gap": "Limited bonus comparison carousel",
+      "build_requirement": "Build sliding bonus carousel with visual comparison"
+    },
+    {
+      "gap": "No live odds comparison widget",
+      "build_requirement": "Build real-time odds comparison table for NFL games"
+    },
+    {
+      "gap": "Limited FAQ schema (3-4 questions)",
+      "build_requirement": "Build 7-8 FAQs with complete FAQ schema markup"
+    },
+    {
+      "gap": "No sportsbook comparison calculator",
+      "build_requirement": "Build interactive odds/payout calculator"
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "FanDuel promo code",
+      "url": "/sport/betting/fanduel-promo-code.htm"
+    },
+    {
+      "anchor": "BetMGM bonus code",
+      "url": "/sport/betting/betmgm-bonus-code.htm"
+    },
+    {
+      "anchor": "DraftKings promo code",
+      "url": "/sport/betting/draftkings-promo-code.htm"
+    },
+    {
+      "anchor": "best sports betting apps",
+      "url": "/sport/betting/best-apps.htm"
+    },
+    {
+      "anchor": "best sportsbook bonuses",
+      "url": "/sport/betting/best-bonuses.htm"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting-tools/parlay-calculator.htm"
+    },
+    {
+      "anchor": "same game parlay sites",
+      "url": "/sport/betting/best-sgp-sites.htm"
+    },
+    {
+      "anchor": "best prop betting sites",
+      "url": "/sport/betting/best-prop-betting-sites.htm"
+    },
+    {
+      "anchor": "best live betting sites",
+      "url": "/sport/betting/best-live-betting-sites.htm"
+    },
+    {
+      "anchor": "FanDuel review",
+      "url": "/sport/betting/fanduel-review.htm"
+    },
+    {
+      "anchor": "DraftKings review",
+      "url": "/sport/betting/draftkings-review.htm"
+    },
+    {
+      "anchor": "BetMGM review",
+      "url": "/sport/betting/betmgm-review.htm"
+    }
+  ],
+  "strategic_direction": "Focus on NFL-specific features: live betting during games, prop markets depth, same game parlay builders, mobile app performance during NFL season. Leverage Reddit user feedback and real user ratings. Differentiate by providing actual user experience data (App Store ratings, Reddit comments) vs competitor generic descriptions. Address seasonal nature of NFL betting in strategy.",
+  "word_count_target": 2800
+}
