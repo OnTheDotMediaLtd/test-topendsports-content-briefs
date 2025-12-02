@@ -38,7 +38,6 @@ tes-content-briefs/
 │   ├── site-structure-english.csv
 │   └── site-structure-spanish.csv
 ├── templates/
-│   ├── phase-protocols.md
 │   ├── content-templates.md
 │   ├── verification-standards.md
 │   └── reference-library.md
