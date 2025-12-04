@@ -55,7 +55,7 @@ const BRAND_RULES = {
         }
     },
     tier_1_brands: ["FanDuel", "BetMGM", "DraftKings", "Caesars", "bet365"],
-    tier_2_brands: ["Fanatics", "ESPN BET", "BetRivers", "Bally Bet", "BetParx"],
+    tier_2_brands: ["Fanatics", "theScore BET", "BetRivers", "Bally Bet", "BetParx"], // Note: ESPN BET rebranded to theScore BET Dec 2025
     tier_3_brands: ["Golden Nugget", "Unibet", "Borgata", "Betfred", "WynnBet", "SI Sportsbook"],
     brand_guidelines: {
         FanDuel: {
@@ -82,6 +82,21 @@ const BRAND_RULES = {
             usp: "Best for Live Betting",
             key_features: ["Sharpest lines", "40+ props", "International reputation"],
             typical_position: 5
+        },
+        Fanatics: {
+            usp: "Best for Rewards Integration",
+            key_features: ["FanCash rewards", "Merchandise crossover", "Strong app experience"],
+            typical_position: 6,
+            badge_code: "FAN",
+            badge_color: "#0050c8"
+        },
+        "theScore BET": {
+            usp: "Best for Media Integration",
+            key_features: ["theScore app integration", "Penn Play rewards", "Beginner friendly"],
+            typical_position: 7,
+            badge_code: "SCR",
+            badge_color: "#6B2D5B",
+            notes: "Formerly ESPN BET - rebranded December 2025"
         }
     },
     compliance_rules: {

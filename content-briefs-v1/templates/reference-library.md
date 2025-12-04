@@ -40,13 +40,14 @@ Is it /es/ URL?
 | DraftKings | ❌ Pending | Odds, live betting, props |
 | Caesars | ❌ Pending | SGPs (12-leg leader) |
 | bet365 | ❌ Pending | Live streaming, international |
-| ESPN BET | ❌ Pending | ESPN integration, casual |
+| theScore BET | ❌ Pending | Formerly ESPN BET (rebranded Dec 2025) |
 | BetRivers | ❌ Pending | Tennis, soccer, alt markets |
 | Fanatics | ❌ Pending | Rewards, merchandise |
 
 ### Defunct - DO NOT USE
 - ❌ FOX Bet (shut down)
 - ❌ PointsBet (acquired by Fanatics)
+- ❌ ESPN BET (rebranded to theScore BET - December 2025)
 
 ---
 
