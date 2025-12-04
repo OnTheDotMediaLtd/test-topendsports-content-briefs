@@ -12,7 +12,7 @@ TOOL_NAME="${1:-}"
 ARGS="${2:-"{}"}"
 
 # Ahrefs API key
-API_KEY="${AHREFS_API_KEY:-tNIIrVi-SztNQj4HwOePs5i11SFjruiyqitGZZpr}"
+API_KEY="${AHREFS_API_KEY:-SjPt1JPhRgqMpi5UN8G7e8P3s57SjW86734J2r1Z}"
 
 if [ -z "$TOOL_NAME" ]; then
     echo "Usage: $0 <tool_name> [json_args]"
