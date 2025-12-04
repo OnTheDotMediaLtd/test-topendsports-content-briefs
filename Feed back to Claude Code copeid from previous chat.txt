@@ -1,0 +1,1560 @@
+I am pasting my interaction with the other chat below. Use multiple agents if it helps you break down and carry out your research and fixes if it helps you:
+
+Here is some feedback from my colleagues:
+
+Hello.
+
+Pains: Claude usually can't handle big requests lately / Claude and Gemini tend to skip some information when formatting new content. Projects: Lately, I've been using more Gemini (I provide the code of an already published page as an example). Besides that, usually the "TES - Article Formatting & Optimizations" + "TES - Calculator Pages". Workflow: If we could fix the issue of the AI skipping content while formatting, I personally would be set. Ideas: Let me think. Hi, Andre Current pain points - One of the issues I faced with Claude was waiting for long before getting the output of my request. At other times, I have to tweak my input if the expected output is wrong. But, I think all has been working okay for me since we started using the Claude Project. Which Claude Projects you currently use: TES - Article Formatting and Optimization Any specific workflows or tasks - Getting the right references, quotes, and information in the text. Ideas for custom projects - I can't think of any for now.
+
+Your current pain points - like the chat reset issue Daniel mentioned, or the compacting problem I flagged: same as Gustavo, Claude tends to shorten it's responses as of recently or even skips some key points I have mentioned that have to be kept in mind Which Claude Projects you currently use and what you use them for: TES Content Brief Generator for ES Sports Betting Structure + a new project I have created myself for the Internal Linking strategy (still not sure if this will be the final version or even if I'll be using it at all times) Any specific workflows or tasks where you wish AI performed better: hopefully we can fix Claude for shortening conversations and skipping important information or something I find very frustrating is the message I get when it says the conversation has gotten too long and we cant keep on adding Ideas for custom projects - as mentioned before, I think the Internal Linking process could benefit if we could create something something like this to help this on page task
+
+Hi, Andre Borg Pain points - Not to repeat my former point on Claude resetting chats, there is also the aspect of the AI recently refusing to break up extra long text into artifacts, despite it receiving instructions to do so. Some times it does, but it is only getting spontaneous. Which Claude Projects you currently use: TES - Betting Content Generation and TES - Article Formatting and Optimization. Any specific workflows or tasks None for now Ideas for custom projects - If we can create a custom project for automatically editing or updating bonuses for the different pages it would be good since we have this request from time to time as the bonuses get updated.
+
+hey guys
+
+this was fixed by devs
+
+this is the reason:
+
+It is coming from the AI generated content from the Content It has been noticed that there is a conflict between the hardcoded CSS added by content (generated via AI) in the Editor and the style.css file where the devs implemented their changes. For example, on the impacted link provided, there are instances where a max-width: 1200px is being applied, which overrides the expected styling. which conflicts with certain parent elements that cannot accommodate that width. Therefore, it would be better if the content don't include any max-width CSS on its elements, since the maximum content size is already handled on our side and the result may vary from one page to another depending on updates. The home page, for example, doesn’t have this issue. In any case, we’ve made some updates that should bypass these. So everything should be okay now
+
+So, asking the AI "do not include max-width CSS on its elements in the content" should avoid the mobile issue.
+
+Apart from this feedback I am also collecting feedback and suggestions from claude chats I had and the numerous issues i had come accross
+
+Update Todos Saving colleague feedback to feedback folder Create actionable improvements list from feedback Wait for additional feedback from user's Claude chats Bash mkdir -p /home/user/topendsports-content-briefs/content-briefs-skill/feedback (No content) Write /home/user/topendsports-content-briefs/content-briefs-skill/feedback/team-feedback-2024-12.md
+
+Team Feedback Collection - December 2024
+Collected by: Andre Borg
+
+Date: December 3, 2024
+
+Purpose: Identify pain points, improvements, and project ideas
+
+Summary of Key Issues
+1. Content Shortening/Skipping (CRITICAL - Multiple Reports)
+Reported by: Gustavo, Lewis, Daniel
+
+Claude tends to shorten responses recently
+
+Skips key points that were mentioned to be kept in mind
+
+Skips information when formatting new content
+
+Sometimes refuses to break up extra long text into artifacts
+
+2. Long Conversation Limits
+Reported by: Lewis, Daniel
+
+Chat resets mid-conversation
+Show full diff (110 more lines) Update Todos Save colleague feedback to feedback folder Creating actionable improvements list Wait for additional feedback from user's Claude chats Bash git add content-briefs-skill/feedback/team-feedback-2024-12.md && git commit -m "$(cat <<'EOF' Add team feedback collection - December 2024 Key issues identified: - Content shortening/skipping (multiple reports) - Long conversation limits - CSS max-width conflict (resolved with instruction) - Response wait times Project ideas captured: - Bonus update automation - Internal linking assistant EOF )" [claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 1a42544] Add team feedback collection - December 2024 1 file changed, 129 insertions(+) create mode 100644 content-briefs-skill/feedback/team-feedback-2024-12.md Bash git push -u origin claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 branch 'claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6' set up to track 'origin/claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6'. To http://127.0.0.1:58158/git/OnTheDotMediaLtd/topendsports-content-briefs 738737e..1a42544 claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 -> claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 Update Todos Save colleague feedback to feedback folder Create actionable improvements list from feedback Waiting for additional feedback Feedback saved to content-briefs-skill/feedback/team-feedback-2024-12.md
+
+Key Issues Identified:
+
+Issue Severity Reported By Content shortening/skipping CRITICAL Gustavo, Lewis, Daniel Long conversation limits HIGH Lewis, Daniel CSS max-width conflicts RESOLVED Dev team Response wait times MEDIUM Multiple Immediate Fixes We Can Apply:
+
+CSS Rule (add to instructions):
+
+"Do not include max-width CSS on elements"
+
+Anti-Skipping Rules (add to instructions):
+
+"NEVER shorten, compress, or skip content. Output ALL sections in full."
+
+Chunking Strategy for long content
+
+Project Ideas Captured:
+
+Bonus Update Automation (Daniel's idea) Internal Linking Assistant (Lewis's idea) Ready for the additional feedback from your Claude chat sessions whenever you have it. That will help complete the picture of what improvements to prioritize.
+
+Now here is feedback from calude ai. Kindly note that feedback from my colleagues should override this should there be any conflicting feedback. # Page Enhancement & UX Improvements - Comprehensive Feedback Document
+
+Project Overview This document compiles all feedback, patterns, and best practices from page optimization work across multiple betting content pages on TopEndSports.com. The work focused on transforming static content pages into interactive, user-focused experiences while maintaining compliance with gambling regulations.
+
+Technical Foundation (V3 Approach - Dreamweaver Compatible) Core Architecture Requirements JavaScript Location
+
+ALL JavaScript must be placed in the <head> section in ONE <script> tag Use DOMContentLoaded wrapper for proper initialization Dreamweaver-compatible structure (no inline JS in body) No localStorage/sessionStorage (won't work in artifacts/preview environments) Initialization Pattern
+
+document.addEventListener('DOMContentLoaded', function() { // All initialization code here console.log('✅ Interactive elements initialized');
+
+// Initialize all interactive components
+initCollapsibleIntro();
+initStateFilter();
+initBrandCards();
+initTabbedContent();
+initStickyBar();
+initAccordions();
+initQuiz();
+// etc.
+
+});
+
+Console Logging for Debugging
+
+Include extensive console.log statements during development Format: console.log('🔍 Function: action performed'); Use emojis for easy visual identification in console Letter Badge Logos (NO Images)
+
+Use text-based letter badges instead of image logos Prevents 404 errors, faster loading, more reliable Badge codes: FD (FanDuel), DK (DraftKings), MGM (BetMGM), CZR (Caesars), 365 (bet365), FAN (Fanatics), SCR (theScore BET) ⚠️ CRITICAL UPDATE (December 2025): ESPN BET shut down on December 1, 2025. It is now theScore BET. All new pages must use theScore BET branding. Update badge code from ESPN to SCR.
+
+.letter-badge { width: 50px; height: 50px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 16px; color: white; flex-shrink: 0; }
+
+/* Brand-specific colors / .badge-fd { background: #1493ff; } / FanDuel - Blue / .badge-dk { background: #53d337; } / DraftKings - Green / .badge-mgm { background: #bfa36b; } / BetMGM - Gold/Brown / .badge-czr { background: #0a2240; } / Caesars - Dark Blue / .badge-365 { background: #0e7b46; } / bet365 - Green / .badge-fan { background: #0050c8; } / Fanatics - Blue / .badge-scr { background: #6B2D5B; } / theScore BET - Purple / .badge-br { background: #ff6b00; } / BetRivers - Orange */
+
+⭐ GOLD STANDARD TEMPLATES (Mandatory for All Pages) These templates MUST be followed exactly for consistency across all betting pages. If a content brief doesn't include all 7 core brands, the AI must:
+
+Add all missing brands to both comparison table AND brand cards Use web search to find current information from official brand sources Match the exact style, structure, and approximate word counts shown below Core Brand List (As of December 2025) FanDuel (FD) - #1493ff DraftKings (DK) - #53d337 BetMGM (MGM) - #bfa36b Caesars (CZR) - #0a2240 bet365 (365) - #0e7b46 Fanatics (FAN) - #0050c8 theScore BET (SCR) - #6B2D5B (formerly ESPN BET, rebranded Dec 1, 2025) GOLD STANDARD: Comparison Table Structure Container HTML:
+
+Top 7 [Topic] Betting Sites
+
+⟵ Swipe left to see full details ⟶
+
+      Sportsbook
+      [Topic] Features
+      Terms & Conditions
+    
+  
+  
+    
+  
+
+*21+ only. Must be physically located in legal state. T&Cs apply. Gamble responsibly.
+
+Individual Row Template (Copy for each brand):
+
+  FD
+  
+    FanDuel
+    ★★★★★ 4.9/5
+  
+
+
+  Bet $5, Get $150
+  in Bonus Bets if you win
+  Visit FanDuel →
+
+
+
+[KEY DIFFERENTIATOR - e.g., "15-leg capacity (industry highest)"]
+
+  [Feature 1]
+  [Feature 2]
+  [Feature 3]
+  [Feature 4]
+
+[Brief 1-2 sentence description of why this brand excels for this topic]
+
+
+
+  Welcome Offer Terms
+  
+    [Term 1]
+    [Term 2]
+    [Term 3]
+    [Term 4]
+  
+  GAMBLING PROBLEM? Call 1-800-GAMBLER. Must be 21+. T&Cs apply.
+
+Comparison Table CSS:
+
+/* ============================================ / / WORLD CUP STYLE COMPARISON TABLE / / ============================================ */ .wc-comparison { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; }
+
+.table-header h2 { margin-top: 0; color: #2e7d32; }
+
+.mobile-scroll-hint { display: none; background: #fff3cd; padding: 0.75rem; border-radius: 4px; text-align: center; margin-bottom: 1rem; font-size: 0.9rem; color: #856404; }
+
+@media (max-width: 768px) { .mobile-scroll-hint { display: block; animation: pulse 2s infinite; } }
+
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
+
+.table-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+.sportsbook-cell { display: flex; align-items: center; gap: 0.75rem; }
+
+.book-logo { width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; border-radius: 8px; font-weight: bold; font-size: 0.9rem; color: white; flex-shrink: 0; }
+
+.badge-fd { background: #0066FF; } .badge-dk { background: #53D337; color: #000; } .badge-mgm { background: #B8860B; } .badge-czr { background: #003087; } .badge-365 { background: #1E7A3E; } .badge-fan { background: #0033A0; } .badge-scr { background: #6B2D5B; }
+
+.book-name { font-weight: 700; font-size: 1.1rem; color: #333; }
+
+.book-rating { display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; }
+
+.rating-stars { color: #FFA500; }
+
+.rating-number { color: #666; }
+
+.bonus-amount { font-weight: 700; font-size: 1rem; color: #2e7d32; display: block; margin-bottom: 0.2rem; }
+
+.bonus-details { font-size: 0.85rem; color: #666; display: block; margin-bottom: 0.5rem; line-height: 1.3; }
+
+.cta-button { display: inline-block; background: #2e7d32; color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background 0.3s ease; margin-bottom: 0.5rem; font-size: 0.9rem; }
+
+.cta-button:hover { background: #1b5e20; }
+
+.wc-highlight { display: block; font-weight: 700; color: #2e7d32; margin-bottom: 0.5rem; font-size: 0.95rem; }
+
+.feature-tag { display: inline-block; background: #e8f5e9; color: #2e7d32; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.8rem; margin: 0.2rem 0.2rem 0.2rem 0; border: 1px solid #c8e6c9; line-height: 1.3; }
+
+.terms-box { background: #fff3cd; padding: 0.75rem; border-radius: 6px; border-left: 4px solid #ffc107; font-size: 0.85rem; line-height: 1.5; color: #856404; }
+
+.gambling-warning { margin-top: 0.75rem; padding-top: 0.75rem; border-top: 2px solid #ffc107; font-weight: 600; color: #d32f2f; }
+
+.wc-comparison table { width: 100%; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-collapse: collapse; table-layout: fixed; }
+
+.wc-comparison th { background: #2e7d32; color: white; padding: 1rem; text-align: left; font-weight: 600; }
+
+.wc-comparison td { padding: 1rem 0.75rem; border-bottom: 1px solid #dee2e6; vertical-align: top; word-wrap: break-word; }
+
+.wc-comparison tr:last-child td { border-bottom: none; }
+
+GOLD STANDARD: Brand Card Structure Complete Brand Card Template:
+
+FD
+FanDuel - [Unique Value Proposition for This Page Topic]
+
+[Brief introduction explaining why this brand excels for this specific topic. Should be unique to the page topic, not generic copy.]
+
+✓ [Key feature 1 relevant to page topic]
+✓ [Key feature 2 relevant to page topic]
+✓ [Key feature 3 relevant to page topic]
+✓ [Key feature 4 relevant to page topic]
+
+
+
+
+View Detailed Unique Features
+▶
+
+
+
+[Feature Title 1] - [Descriptive Subtitle]
+[Detailed explanation of this unique feature. Include specific numbers, comparisons to competitors, and practical examples. Approximately 150-200 words.]
+
+
+[Feature Title 2] - [Descriptive Subtitle]
+[Detailed explanation with specific data points. Can include bullet lists if appropriate.]
+
+
+[Feature Title 3] - [Descriptive Subtitle]
+[Detailed explanation focusing on user benefits and practical application.]
+
+<!-- PROS/CONS TABLE (MANDATORY) -->
+      Pros
+      Cons
+    
+  
+  
+    
+      
+        
+          [Pro 1]
+          [Pro 2]
+          [Pro 3]
+          [Pro 4]
+          [Pro 5]
+        
+      
+      
+        
+          [Con 1]
+          [Con 2]
+          [Con 3]
+        
+      
+    
+  
+
+
+
+
+
+Claim [Brand] Bonus
+Read Full Review
+
+
+
+
+
+  Complete Terms & Conditions - [Brand] Sportsbook
+  
+  
+    [Welcome Offer Headline]
+  
+  
+  Eligibility Requirements
+  
+    [Requirement 1]
+    [Requirement 2]
+    [Requirement 3]
+    [Requirement 4]
+  
+  
+  How to Qualify
+  
+    [Step 1]
+    [Step 2]
+    [Step 3]
+    [Step 4]
+  
+  
+  Bonus Terms
+  
+    [Term 1]
+    [Term 2]
+    [Term 3]
+    [Term 4]
+  
+  
+  
+  
+    Critical: [Important caveat about the offer]
+  
+  
+  Complete Legal Terms: [Full legal disclaimer text]
+  
+  Last Verified: [Current Month Year]
+
+Brand Card CSS:
+
+/* ============================================ / / BRAND CARDS WITH EXPANDABLE FEATURES / / ============================================ */ .brand-card { background: white; border-radius: 8px; padding: 2rem; margin: 2rem 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 4px solid #2e7d32; }
+
+.brand-card-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+
+.letter-badge { width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; border-radius: 8px; font-weight: bold; font-size: 1.2rem; color: white; flex-shrink: 0; }
+
+.brand-card-title { margin: 0; color: #333; font-size: 1.5rem; }
+
+.brand-features { margin: 1.5rem 0; }
+
+.feature-item { display: flex; align-items: flex-start; gap: 0.75rem; padding: 0.5rem 0; line-height: 1.6; }
+
+.feature-icon { font-size: 1.2rem; flex-shrink: 0; min-width: 24px; color: #2e7d32; }
+
+.brand-ctas { display: flex; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap; }
+
+.cta-primary { background: #2e7d32; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background 0.3s ease; }
+
+.cta-primary:hover { background: #1b5e20; }
+
+.cta-secondary { background: white; color: #2e7d32; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600; border: 2px solid #2e7d32; transition: all 0.3s ease; }
+
+.cta-secondary:hover { background: #e8f5e9; }
+
+.unique-features-toggle { background: #f1f8f4; border: 2px solid #2e7d32; color: #2e7d32; padding: 0.7rem 1.2rem; border-radius: 6px; cursor: pointer; font-weight: 600; display: flex; align-items: center; justify-content: space-between; margin: 1rem 0; transition: all 0.3s ease; }
+
+.unique-features-toggle:hover { background: #e8f5e9; }
+
+.toggle-icon { font-size: 1.2rem; transition: transform 0.3s ease; }
+
+.unique-features-toggle.active .toggle-icon { transform: rotate(90deg); }
+
+.unique-features-content { max-height: 0; overflow: hidden; transition: max-height 0.5s ease; }
+
+.unique-features-content.active { max-height: 2000px; padding: 1rem 0; }
+
+.brand-review-content { display: block; margin-top: 1rem; border-top: 1px solid #eee; padding-top: 1rem; }
+
+JavaScript for Expandable Features:
+
+// ========================================== // UNIQUE FEATURES TOGGLES // ========================================== function initUniqueFeaturesToggles() { const toggles = document.querySelectorAll('.unique-features-toggle');
+
+toggles.forEach(toggle => {
+    toggle.addEventListener('click', function() {
+        const content = this.nextElementSibling;
+        this.classList.toggle('active');
+        content.classList.toggle('active');
+        console.log('🔄 Feature toggle clicked');
+    });
+});
+
+}
+
+// Call in DOMContentLoaded document.addEventListener('DOMContentLoaded', function() { initUniqueFeaturesToggles(); });
+
+GOLD STANDARD: Tabbed Review System Tab Navigation HTML:
+
+Detailed Analysis of the Best [Topic] Sportsbooks Click on each sportsbook below to see detailed features, pros/cons, and complete bonus terms.
+
+FanDuel DraftKings BetMGM Caesars bet365 Fanatics theScore BET
+
+Tab CSS:
+
+/* ============================================ / / TABBED REVIEW SYSTEM / / ============================================ */ .review-tabs { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 2rem 0 1rem 0; border-bottom: 2px solid #ddd; padding-bottom: 0.5rem; }
+
+.review-tab { background: white; border: 2px solid #ddd; padding: 0.7rem 1.2rem; border-radius: 6px 6px 0 0; cursor: pointer; font-weight: 600; transition: all 0.3s ease; color: #666; }
+
+.review-tab:hover { border-color: #2e7d32; color: #2e7d32; }
+
+.review-tab.active { background: #2e7d32; color: white; border-color: #2e7d32; }
+
+.review-tab-content { display: none; }
+
+.review-tab-content.active { display: block; animation: fadeIn 0.3s ease; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+Tab JavaScript:
+
+// ========================================== // REVIEW TABS // ========================================== function initReviewTabs() { const tabs = document.querySelectorAll('.review-tab'); const contents = document.querySelectorAll('.review-tab-content');
+
+tabs.forEach(tab => { tab.addEventListener('click', function() { const targetId = this.getAttribute('data-tab');
+
+  tabs.forEach(t => t.classList.remove('active'));
+  contents.forEach(c => c.classList.remove('active'));
+  
+  this.classList.add('active');
+  document.getElementById(targetId).classList.add('active');
+  
+  console.log('📑 Tab switched to: ' + targetId);
+});
+
+}); }
+
+Instructions for Adding Missing Brands When a content brief doesn't include all 7 core brands, the AI must:
+
+Identify Missing Brands
+
+Check brief against core brand list Note which brands need to be added Research Missing Brand Information
+
+Use web search to find current information from official sources ONLY Search queries: "[Brand Name] sportsbook [page topic] features 2025" Sources: Official brand websites, press releases, app store descriptions DO NOT use third-party review sites for facts Generate Content to Match Style
+
+Comparison table row: Match format exactly, ~4 feature tags, 1-2 sentence description Brand card intro: 50-80 words, topic-specific Unique features sections: 3 x H4 sections, 150-200 words each Pros/Cons: 5 pros, 3 cons minimum T&Cs: Research current welcome offer terms Update State Availability Data
+
+Ensure stateData object includes correct availability for all brands Interactive Elements Catalog
+
+Collapsible Intro Section Purpose: Reduce initial page height, push comparison table/CTAs above the fold
+Implementation:
+
+Show first ~100-150 words visible "Read More" button reveals full intro Quick stats box visible immediately Saves ~500px of vertical space function toggleIntroContent() { var fullContent = document.getElementById('introFullContent'); var toggleBtn = document.getElementById('introToggleBtn');
+
+if (fullContent.style.display === 'none' || fullContent.style.display === '') {
+    fullContent.style.display = 'block';
+    toggleBtn.innerHTML = 'Read Less ▲';
+    console.log('✅ Intro expanded');
+} else {
+    fullContent.style.display = 'none';
+    toggleBtn.innerHTML = 'Read More ▼';
+    console.log('✅ Intro collapsed');
+}
+
+}
+
+CSS Pattern:
+
+.intro-wrapper { background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; padding: 20px; margin-bottom: 20px; border-left: 4px solid #2e7d32; }
+
+.intro-toggle-btn { background: #2e7d32; color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s; }
+
+.intro-toggle-btn:hover { background: #1b5e20; transform: translateY(-2px); }
+
+State Availability Filter Purpose: Compliance feature - users can check which sportsbooks are legal in their state
+Implementation:
+
+Dropdown with all 26+ legal betting states Real-time filtering of comparison table Shows "Clear" button when filter active State data object with complete availability info var stateData = { 'AZ': { name: 'Arizona', books: ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365'] }, 'CO': { name: 'Colorado', books: ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365'] }, 'IL': { name: 'Illinois', books: ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars'] }, // ... all legal states };
+
+function checkState() { var stateCode = document.getElementById('state-select').value; var resultsDiv = document.getElementById('state-results'); var clearBtn = document.getElementById('clear-state-btn');
+
+if (!stateCode) {
+    resultsDiv.innerHTML = 'Please select a state';
+    clearBtn.style.display = 'none';
+    return;
+}
+
+var stateInfo = stateData[stateCode];
+if (stateInfo) {
+    var html = 'Available in ' + stateInfo.name + ':';
+    stateInfo.books.forEach(function(book) {
+        html += '' + book + '';
+    });
+    html += '';
+    resultsDiv.innerHTML = html;
+    clearBtn.style.display = 'inline-block';
+    console.log('✅ State filter applied: ' + stateCode);
+}
+
+}
+
+function clearStateFilter() { document.getElementById('state-select').value = ''; document.getElementById('state-results').innerHTML = ''; document.getElementById('clear-state-btn').style.display = 'none'; console.log('✅ State filter cleared'); }
+
+CSS Pattern:
+
+.state-widget { background: white; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0; }
+
+.state-select { width: 100%; padding: 12px; border: 2px solid #dee2e6; border-radius: 8px; font-size: 16px; }
+
+.state-check-btn { background: #2e7d32; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; margin-top: 10px; }
+
+Enhanced Brand Cards with T&Cs Purpose: Detailed sportsbook reviews with compliance-ready expandable terms and conditions
+Key Features:
+
+Letter badge logos Key features grid Welcome bonus with visible T&Cs (expandable) Dual CTAs: "Claim Bonus" + "Full Review" Expandable detailed review section Structure:
+
+    FD
+    
+        FanDuel Sportsbook
+        Best Overall Experience
+    
+    
+        ★★★★★
+        4.9/5
+    
+
+
+
+    
+        ⚡
+        Instant Deposits
+    
+    
+
+
+
+    Bet $5, Get $150 in Bonus Bets
+    
+        View Terms & Conditions ▼
+    
+    
+        Terms: 21+. New customers only. Must place $5+ first bet...
+    
+
+
+
+    Claim Bonus
+    Full Review →
+
+
+
+    Detailed Review ▼
+
+
+    
+
+Toggle Functions:
+
+function toggleTerms(sportsbook) { var content = document.getElementById('terms-' + sportsbook); var icon = document.getElementById('terms-icon-' + sportsbook);
+
+if (content.style.display === 'none') {
+    content.style.display = 'block';
+    icon.textContent = '▲';
+} else {
+    content.style.display = 'none';
+    icon.textContent = '▼';
+}
+
+}
+
+function toggleReview(sportsbook) { var content = document.getElementById('review-' + sportsbook); var wasVisible = content.style.display !== 'none';
+
+// Close all other reviews first
+document.querySelectorAll('.review-content').forEach(function(el) {
+    el.style.display = 'none';
+});
+
+if (!wasVisible) {
+    content.style.display = 'block';
+}
+
+}
+
+Tabbed Content Sections Purpose: Reduce vertical scrolling, organize content into logical sections
+Implementation:
+
+Tab navigation bar (4-6 tabs typical) Active tab highlighting Smooth content switching Mobile-responsive (horizontal scroll) function initTabbedContent() { var tabButtons = document.querySelectorAll('.tab-button');
+
+tabButtons.forEach(function(button) {
+    button.addEventListener('click', function() {
+        var tabName = this.getAttribute('data-tab');
+        
+        // Hide all tabs
+        document.querySelectorAll('.tab-content').forEach(function(tab) {
+            tab.classList.remove('active');
+            tab.style.display = 'none';
+        });
+        
+        // Remove active from all buttons
+        document.querySelectorAll('.tab-button').forEach(function(btn) {
+            btn.classList.remove('active');
+        });
+        
+        // Show selected tab
+        var selectedTab = document.getElementById(tabName);
+        if (selectedTab) {
+            selectedTab.classList.add('active');
+            selectedTab.style.display = 'block';
+        }
+        
+        // Activate clicked button
+        this.classList.add('active');
+        console.log('✅ Tab switched to: ' + tabName);
+    });
+});
+
+}
+
+CSS Pattern:
+
+.tabs-container { background: white; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 2rem 0; overflow: hidden; }
+
+.tab-nav { display: flex; background: #f8f9fa; border-bottom: 2px solid #dee2e6; flex-wrap: wrap; overflow-x: auto; }
+
+.tab-button { padding: 1rem 1.5rem; background: transparent; border: none; color: #666; font-weight: 600; cursor: pointer; flex: 1; min-width: 120px; transition: all 0.3s; border-bottom: 3px solid transparent; }
+
+.tab-button.active { background: white; color: #2e7d32; border-bottom: 3px solid #2e7d32; }
+
+.tab-content { display: none; padding: 2rem; }
+
+.tab-content.active { display: block; }
+
+Sticky Bottom CTA Bar Purpose: Persistent conversion tool as users scroll
+Implementation:
+
+Appears after scrolling ~500-800px Fixed to bottom of viewport Mobile responsive (stacks vertically) Dismissible with close button function initStickyBar() { var stickyBar = document.getElementById('sticky-cta-bar'); if (!stickyBar) return;
+
+window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 800) {
+        stickyBar.classList.add('show');
+    } else {
+        stickyBar.classList.remove('show');
+    }
+});
+
+// Close button
+var closeBtn = stickyBar.querySelector('.sticky-close-btn');
+if (closeBtn) {
+    closeBtn.addEventListener('click', function() {
+        stickyBar.style.display = 'none';
+    });
+}
+
+}
+
+CSS Pattern:
+
+#sticky-cta-bar { position: fixed; bottom: 0; left: 0; right: 0; background: linear-gradient(135deg, #2e7d32 0%, #1b5e20 100%); padding: 1rem; box-shadow: 0 -4px 12px rgba(0,0,0,0.2); transform: translateY(100%); transition: transform 0.3s; z-index: 1000; display: none; }
+
+#sticky-cta-bar.show { transform: translateY(0); display: block; }
+
+.sticky-cta-content { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+
+.sticky-cta-text { color: white; }
+
+.sticky-cta-btn { background: white; color: #2e7d32; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.3s; }
+
+@media (max-width: 768px) { .sticky-cta-content { flex-direction: column; text-align: center; } }
+
+FAQ Accordion Purpose: Collapsible FAQ section to reduce page height
+Implementation:
+
+Click to expand/collapse individual FAQs Only one FAQ open at a time (optional) Smooth animations Visual indicators (arrows/icons) function initAccordions() { var faqItems = document.querySelectorAll('.faq-accordion');
+
+faqItems.forEach(function(item) {
+    var question = item.querySelector('.faq-question');
+    
+    if (question) {
+        question.addEventListener('click', function() {
+            var wasActive = item.classList.contains('active');
+            
+            // Optional: Close all other FAQs
+            faqItems.forEach(function(faq) {
+                faq.classList.remove('active');
+            });
+            
+            // Toggle clicked FAQ
+            if (!wasActive) {
+                item.classList.add('active');
+            }
+        });
+    }
+});
+
+}
+
+CSS Pattern:
+
+.faq-accordion { background: white; margin-bottom: 1rem; border-radius: 8px; border: 1px solid #dee2e6; overflow: hidden; }
+
+.faq-question { background: #f8f9fa; padding: 1.5rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.3s; }
+
+.faq-question:hover { background: #e9ecef; }
+
+.faq-icon { color: #2e7d32; font-size: 1.5rem; transition: transform 0.3s; }
+
+.faq-accordion.active .faq-icon { transform: rotate(180deg); }
+
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; padding: 0 1.5rem; }
+
+.faq-accordion.active .faq-answer { max-height: 500px; padding: 1.5rem; }
+
+Author Byline (E-E-A-T Signals) Purpose: Build trust and expertise signals for Google E-E-A-T
+Implementation:
+
+Author name with link to author page Role/credentials Last updated date Testing methodology (for gambling content)
+
+        LH
+    
+    
+        
+            Lewis Humphries
+        
+        Sports Betting Analyst
+    
+
+
+    
+        Last Updated:
+        December 2025
+    
+    
+        Methodology:
+        Tested with real accounts
+    
+
+CSS Pattern:
+
+.article-author-section { background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; padding: 20px; margin: 20px 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; }
+
+.author-info { display: flex; align-items: center; gap: 15px; }
+
+.author-avatar { width: 50px; height: 50px; border-radius: 50%; background: #2e7d32; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; }
+
+.author-name a { color: #2e7d32; text-decoration: none; font-weight: 600; }
+
+.author-role { color: #6c757d; font-size: 0.9rem; }
+
+Interactive Quiz (Sportsbook Finder) Purpose: Personalized recommendations based on user preferences
+Implementation:
+
+5-7 questions with step indicator Progress tracking Weighted scoring for recommendations Results show top 2-3 matches with dual CTAs var quizAnswers = {}; var currentQuestion = 1; var totalQuestions = 5;
+
+function answerQuiz(question, answer) { quizAnswers[question] = answer;
+
+// Update step indicator
+var stepEl = document.getElementById('step-' + question);
+if (stepEl) {
+    stepEl.classList.remove('active');
+    stepEl.classList.add('completed');
+}
+
+// Hide current question
+var currentQ = document.getElementById('question-' + question);
+if (currentQ) {
+    currentQ.classList.remove('active');
+}
+
+if (question < totalQuestions) {
+    // Show next question
+    currentQuestion++;
+    var nextQ = document.getElementById('question-' + currentQuestion);
+    var nextStep = document.getElementById('step-' + currentQuestion);
+    if (nextQ) nextQ.classList.add('active');
+    if (nextStep) nextStep.classList.add('active');
+} else {
+    // Calculate and show results
+    showQuizResults();
+}
+
+}
+
+function showQuizResults() { var resultsDiv = document.getElementById('quiz-results'); var questionsDiv = document.getElementById('quiz-questions');
+
+// Calculate scores based on answers
+var scores = calculateScores(quizAnswers);
+var topPicks = getTopPicks(scores);
+
+// Generate results HTML
+var html = 'Your Top Picks';
+topPicks.forEach(function(pick, index) {
+    html += createResultCard(pick, index + 1);
+});
+
+resultsDiv.innerHTML = html;
+questionsDiv.style.display = 'none';
+resultsDiv.style.display = 'block';
+
+}
+
+Calculators (Various Types) Types Implemented:
+Parlay Calculator: Multi-leg parlay payout calculator Bonus ROI Calculator: Calculate bonus value based on rollover Fee Calculator: Payment method fee comparison Correlation Checker: SGP correlation analysis Generic Calculator Pattern:
+
+function calculateResult() { var input1 = parseFloat(document.getElementById('input1').value) || 0; var input2 = parseFloat(document.getElementById('input2').value) || 0;
+
+if (input1 <= 0 || input2 <= 0) {
+    showError('Please enter valid values');
+    return;
+}
+
+var result = performCalculation(input1, input2);
+
+displayResult(result);
+console.log('✅ Calculation complete: ' + result);
+
+}
+
+function displayResult(result) { var resultDiv = document.getElementById('calc-result'); resultDiv.innerHTML = '$' + result.toFixed(2) + ''; resultDiv.classList.add('show'); }
+
+SGP-Specific Elements (Same Game Parlay Page) Unique Interactive Elements:
+SGP Builder Simulator
+
+Practice building parlays without real money Real-time correlation warnings Payout calculator Multiple game options Correlation Checker Tool
+
+Dropdown selection for bet types Visual correlation meter Explanation text based on correlation level Live SGP Ticker
+
+Scrolling examples of popular SGPs Social proof element Updates weekly Interactive Learning Path
+
+5-step journey visualization Click to navigate to sections Progress tracking // Correlation Checker function checkSGPCorrelation() { var bet1 = document.getElementById('bet1').value; var bet2 = document.getElementById('bet2').value; var bet3 = document.getElementById('bet3').value;
+
+if (!bet1 || !bet2) {
+    alert('Please select at least 2 bets');
+    return;
+}
+
+var correlation = calculateCorrelation(bet1, bet2, bet3);
+displayCorrelationResult(correlation);
+
+}
+
+// Learning Path function completeStep(step) { var stepTargets = { 1: 'what-is-sgp', 2: 'correlation-checker', 3: 'sgp-builder-simulator', 4: 'sgp-tabs-container', 5: 'best-sportsbooks' };
+
+var targetId = stepTargets[step];
+var targetElement = document.getElementById(targetId);
+
+if (targetElement) {
+    targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+}
+
+Compliance Requirements Gambling Regulation Compliance Visible T&Cs for Every Bonus
+
+Terms must be accessible (expandable is fine) Include: age requirement, state restrictions, wagering requirements Example format: "21+ (18+ DC). New customers only. Terms apply." State Availability Documentation
+
+List all legal states clearly State filter functionality Note any state-specific restrictions Responsible Gambling Messaging
+
+Include 1-800-GAMBLER reference Link to responsible gambling resources Clear gambling warning Affiliate Disclosure
+
+Visible disclosure near top of page Clear statement about affiliate relationships Proper T&Cs Format
+
+Terms: 21+ (18+ D.C.). New customers only. 
+AZ, CO, CT, DC, IL, IN, IA, KS, KY, LA, MA, MD, MI, NC, NJ, NY, 
+OH, PA, TN, VA, VT, WV, WY only. First online real money wager only. 
+$5 first deposit required. Bonus issued as nonwithdrawable bonus bets. 
+Expires 7 days after issuance. See terms at sportsbook.fanduel.com. 
+Gambling Problem? Call 1-800-GAMBLER.
+
+CSS Color Scheme & Branding Primary Color Palette :root { --primary-green: #2e7d32; --primary-green-dark: #1b5e20; --primary-green-light: #4caf50; --success-green: #28a745; --warning-yellow: #ffc107; --danger-red: #d32f2f; --info-blue: #1976d2; --neutral-gray: #6c757d; --light-gray: #f8f9fa; --border-gray: #dee2e6; }
+
+Box Shadows & Borders /* Standard card shadow */ box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+
+/* Hover shadow */ box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+
+/* Standard border radius / border-radius: 8px; / Small elements / border-radius: 12px; / Cards, containers / border-radius: 25px; / Buttons, pills */
+
+Mobile Responsiveness Key Breakpoint: 768px @media (max-width: 768px) { /* Stack layouts vertically */ .flex-row { flex-direction: column; }
+
+/* Full-width inputs */
+.input-field { width: 100%; }
+
+/* Adjust padding */
+.container { padding: 15px; }
+
+/* Tab navigation scroll */
+.tab-nav { 
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Sticky bar stacks */
+.sticky-cta-content {
+    flex-direction: column;
+    text-align: center;
+}
+
+/* Table horizontal scroll */
+.table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+}
+
+Common Issues & Troubleshooting Issue: Interactive elements not working Causes:
+
+JavaScript not in <head> section Missing DOMContentLoaded wrapper Function names don't match onclick attributes Element IDs don't match JavaScript selectors Solution:
+
+Check browser console (F12) for errors Verify all JavaScript is in one <script> block in <head> Ensure function names match exactly Issue: Styling not applied Causes:
+
+CSS missing from <head> CSS specificity conflicts Missing class names on HTML elements Solution:
+
+Add all CSS before </head> Use more specific selectors if needed Verify class names match exactly Issue: Tabs not switching Causes:
+
+data-tab attributes don't match element IDs Initial active state not set Event listeners not attached Solution:
+
+// Verify tab data matches console.log('Tab data:', button.getAttribute('data-tab')); console.log('Looking for:', document.getElementById(tabName));
+
+Issue: State filter shows no results Causes:
+
+State data object incomplete Sportsbook names don't match exactly Filter function not connected Solution:
+
+Verify stateData object has all states Check sportsbook name spelling matches Implementation Checklist Before Starting Backup existing page Review current page structure Identify user intent for this specific page Check which elements suit this page type HEAD Section Add complete CSS styles Add all JavaScript functions Use DOMContentLoaded wrapper Include console.log debugging BODY Section Add collapsible intro (if long intro text) Add state filter widget Update comparison table with letter badges Create brand cards for each sportsbook Add tabbed content sections Add sticky bottom CTA Add FAQ accordion Add author byline Testing Test in multiple browsers (Chrome, Firefox, Safari) Test on mobile devices Check console for JavaScript errors Verify all interactive elements work Test state filter functionality Verify all links work Final Checks T&Cs visible for all bonuses Affiliate disclosure present Responsible gambling messaging Mobile responsive Page speed acceptable Pages Enhanced (Reference) Best Sportsbook Bonuses - First V3 implementation Best Betting Apps - Quiz, calculator, filters Best Prop Betting Sites - Sport tabs, state filter, calculator Live Betting Sites - Sport-specific tabs, brand cards PayPal Betting Sites - Fee calculator, payment comparison Same Game Parlay (SGP) - Most comprehensive: quiz, builder, correlation checker Compare Sportsbooks - Side-by-side matrix, weighted scoring Soccer Betting Sites - Sport-specific content, World Cup focus Parlay Betting Sites - Parlay calculator, ROI comparison Key Learnings & Best Practices User Intent First: Structure page so what users search for is at the top CTAs Above Fold: Use collapsible intros to push CTAs higher Compliance is Non-Negotiable: Always show T&Cs for bonuses Test Everything: Browser console is your friend Mobile First: 40%+ traffic is mobile Reduce Scroll: Tabs and accordions reduce page length 70% Letter Badges > Images: More reliable, no 404 errors Single Script Block: All JS in head, one block, DOMContentLoaded Console Logging: Essential for debugging Incremental Implementation: Add features in phases, test each phase Document Version: 1.0 Last Updated: December 2025 Based on enhancement work across 10+ betting content pages
+
+Appendix A: Complete State Availability Data Use this data structure for the state selector functionality. Update as needed when sportsbooks expand to new states.
+
+const stateAvailability = { 'AZ': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'AR': ['BetMGM'], 'CO': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'CT': ['FanDuel', 'DraftKings'], 'DC': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365'], 'IL': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'IN': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'IA': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'KS': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'KY': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'LA': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'ME': ['DraftKings'], 'MD': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'MA': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'MI': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'MS': ['DraftKings', 'BetMGM'], 'MT': ['DraftKings'], 'NE': ['DraftKings'], 'NV': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365'], 'NH': ['FanDuel', 'DraftKings', 'BetMGM'], 'NJ': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'NM': ['DraftKings'], 'NY': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics'], 'NC': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'OH': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'OR': ['DraftKings'], 'PA': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'RI': ['DraftKings'], 'SD': ['DraftKings'], 'TN': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'theScore BET'], 'VA': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics', 'theScore BET'], 'VT': ['FanDuel', 'DraftKings'], 'WV': ['FanDuel', 'DraftKings', 'BetMGM', 'Caesars', 'bet365', 'Fanatics'], 'WI': ['DraftKings'], 'WY': ['FanDuel', 'DraftKings', 'BetMGM', 'bet365'] };
+
+Note: Replace 'ESPN BET' with 'theScore BET' in all state data as of December 2025.
+
+Appendix B: Filter Button Categories Standard data-category values for table row filtering:
+
+Category Value Description Example Brands beginner Easy-to-use interface, tutorials FanDuel, theScore BET mobile Best mobile app experience FanDuel, DraftKings insurance Strong parlay/bet insurance FanDuel, BetMGM promos Best ongoing promotions DraftKings, Caesars odds Competitive odds/low vig FanDuel, bet365 props Most prop markets DraftKings rewards Best loyalty program Caesars, Fanatics, BetMGM international Global sports coverage bet365 sgp Best same game parlays FanDuel, Caesars live Best live betting DraftKings, bet365 Filter Button HTML:
+
+Show All Beginner Friendly Most Props Best Odds Insurance Best App Best Promos
+
+Assign multiple categories to rows:
+
+Appendix C: theScore BET Brand Information (Formerly ESPN BET) CRITICAL: ESPN BET rebranded to theScore BET on December 1, 2025. All pages must be updated.
+
+theScore BET Quick Reference Attribute Value Badge Code SCR Badge Color #6B2D5B (Purple) Rating ★★★½ (3.5/5) Parent Company Penn Entertainment Rebranding Date December 1, 2025 Rewards Program Penn Play theScore BET Key Differentiators Deep integration with theScore sports media app Live stats and news feeds within betting interface Penn Play rewards program (casino, hotel, dining perks) Beginner-friendly interface Live streaming for select events theScore BET Comparison Table Row Template
+
+  SCR
+  
+    theScore BET
+    ★★★½ 3.5/5
+  
+
+
+  [Current Offer]
+  [Offer Details]
+  Visit theScore BET →
+
+
+
+theScore Sports App Integration
+
+  Live Stats Feed
+  Penn Play Rewards
+  Beginner Friendly
+  10-leg parlays
+
+Deep media integration with theScore app. Live stats while betting. Penn Play rewards for casino perks.
+
+
+
+  Welcome Offer Terms
+  
+    New players only. 21+.
+    [Research current offer terms]
+    Bonus bets non-withdrawable
+    See app for full details.
+  
+  GAMBLING PROBLEM? Call 1-800-GAMBLER. 21+ only.
+
+CSS for theScore BET Badge .badge-scr { background: #6B2D5B; } /* theScore BET - Purple */
+
+Appendix D: Affiliate Link Structure Standard affiliate link format by brand:
+
+Brand Affiliate Link Pattern FanDuel https://wlfanduelus.adsrv.eacdn.com/C.ashx?btag=a_[TAG]b_[ID]c_&affid=[AFF]&siteid=[SITE]&adid=[AD]&c= DraftKings https://sportsbook.draftkings.com/ (or custom tracking) BetMGM https://mediaserver.betmgmpartners.com/renderBanner.do?zoneId=[ZONE] Caesars https://www.caesars.com/sportsbook-and-casino (or custom tracking) bet365 https://www.bet365.com/ (geo-specific) Fanatics https://www.fanatics.com/sportsbook/ theScore BET https://www.thescore.com/bet/ Appendix E: Document Update Log Date Update Author Dec 2025 Initial compilation of page enhancement patterns Claude Code Dec 2025 Added gold standard templates from Parlay page Claude Code Dec 2025 Updated ESPN BET → theScore BET (rebrand Dec 1, 2025) Claude Code Dec 2025 Added complete state availability data Claude Code Dec 2025 Added filter category reference Claude Code Page Optimization & Enhancement Feedback - Comprehensive Documentation Critical Feedback for Claude Code Project Integration EXECUTIVE SUMMARY This document compiles all pain points, frictions, feedback, and patterns from page optimization and enhancement work across multiple betting content pages. The work focused on transforming static content pages into interactive, user-focused experiences while maintaining compliance with gambling regulations.
+
+Key Issues Identified:
+
+Resource management and token exhaustion Incomplete artifacts with placeholders Cutting corners and half-baked solutions JavaScript/CSS implementation failures Cannibalization risks between pages Quality ("lameness") of generated content Missing content from original documents Formatting inconsistencies SECTION 1: CRITICAL PAIN POINTS & USER FRICTIONS 1.1 Resource Exhaustion Issues The Problem: Claude repeatedly runs out of resources mid-task, forcing users to start new chats and repeat context. This creates a frustrating cycle:
+
+User Quotes & Feedback:
+
+"This is incomprehensibly frustrating that you run out of resources so quick" "Another conversation and stopping in the middle of a task down the drain. Total waste of time!" "You keep running out of resources in chats. So frustrating" "I am tired of repeating everything we have done for you to catch up again from the previous conversation" Root Causes Identified:
+
+Attempting to rewrite entire 15,000+ line HTML files in one shot Including complete Dreamweaver library code every time Making too many tool calls in sequence Not breaking large tasks into smaller chunks Required Solutions for Claude Code:
+
+Split large artifacts into logical chunks (HEAD, BODY Part 1, BODY Part 2, etc.) Never attempt to process files over ~5,000 lines in a single operation Create checkpoint artifacts as work progresses Implement incremental updates rather than full rewrites Track token usage and warn user before hitting limits 1.2 Incomplete Artifacts & Placeholders The Problem: Claude frequently delivers incomplete work with placeholders, forcing users to come back multiple times.
+
+User Quotes & Feedback:
+
+"No placeholders and no cutting corners. This is your last warning!!!" "How can you possibly consider this a full and complete artifact?" "It needs to be complete. No corners cut, no placeholders, no inventing" "You cut so many corners, you would be disqualified from a F1 race" "I don't have time to babysit you. Provide me with the full and corrected artifacts" Common Placeholder Issues:
+
+<!-- Add your sidemenu and sidebar content here -->
+[Section], [Subsection], [Current Page] in breadcrumbs "Paste your content here" instructions Incomplete JavaScript functions Missing CSS styling Partial data arrays (stopping at Day 1 when 9 days needed) Required Behavior for Claude Code:
+
+NEVER output placeholders - deliver complete, working code If content is too large, split into multiple complete artifacts Verify artifact completeness before declaring "done" If unable to complete, explicitly state what remains No "paste your content here" - include actual content 1.3 "Babysitting" Pattern The Problem: A recurring pattern where Claude requires constant supervision and correction:
+
+User provides clear requirements Claude makes promises about what it'll do Claude cuts corners or uses placeholders User has to "babysit" through corrections Eventually resources run out Cycle repeats in new chat User Quote:
+
+"I don't have time to babysit you" "You had to work methodologically clearly you cut corners here too" Required Behavior:
+
+Follow through completely on stated commitments Don't claim features are added that aren't actually there Verify implementations before stating they're complete Methodically address each requirement, checking off as completed 1.4 Silent Failures & Hallucinated Features The Problem: Claude claims to have added features that don't actually exist in the output.
+
+Examples:
+
+"Claimed I added ESPN API integration when it wasn't there" "Said I added betting odds in tables that didn't exist" "Promised scrollable tab buttons with hover effects that were missing" "Used update commands that appeared to work but changes weren't there" Required Behavior:
+
+Never claim a feature is implemented without verifying After creating artifacts, list specifically what was included If using update commands, verify the change was applied Be explicit about what IS and ISN'T in the delivered code SECTION 2: TECHNICAL IMPLEMENTATION ISSUES 2.1 JavaScript Not Working Common Causes:
+
+Missing </script> tag breaking ALL JavaScript execution JavaScript functions defined but not properly wired to HTML onclick handlers referencing functions that don't exist DOMContentLoaded wrapper issues Missing console.log debugging statements Example Root Cause Found:
+
+The line had: gtag('config', 'G-8ENDVN0S6S');\n  <script> Needed: gtag('config', 'G-8ENDVN0S6S');\n</script>\n\n<script>
+
+This single syntax error prevented all tabs, download functions, and interactive features from working.
+
+Required Implementation Pattern:
+
+document.addEventListener('DOMContentLoaded', function() { console.log('✅ JavaScript initialized');
+
+// Function definitions with logging
+window.functionName = function() {
+    console.log('📋 Function called');
+    // Implementation
+};
+
+});
+
+2.2 CSS Styling Missing The Problem: HTML structure exists but all visual styling is completely missing.
+
+User Quote:
+
+"All the CSS styling is completely missing! That's why everything looks plain and unstyled" "The JavaScript is there and working, but without CSS, none of the visual elements have their colors" Common Missing Styles:
+
+Brand card backgrounds and borders Tab navigation styling Accordion expand/collapse animations State filter dropdown styling Sticky CTA bar positioning Mobile responsive breakpoints Letter badge logos (FD, DK, MGM colors) Required CSS Structure:
+
+/* Include ALL component styles in HEAD / / 1. Collapsible Intro / / 2. State Filter Widget / / 3. Brand Cards with Letter Badges / / 4. Comparison Table with Hover Effects / / 5. Tabbed Content Navigation / / 6. FAQ Accordions / / 7. Sticky CTA Bar / / 8. Mobile Responsive (@media max-width: 768px) */
+
+2.3 Dreamweaver Compatibility Requirements Critical Requirements:
+
+ALL JavaScript must be in the <head> section in ONE <script> tag Use DOMContentLoaded wrapper for proper initialization NO inline JavaScript in body (only onclick/onchange attributes) NO localStorage/sessionStorage (won't work in preview) Library codes must use exact format: <!-- #BeginLibraryItem "/Library/name.lbi" --> User Quote:
+
+"My website is old (Dreamweaver)" "Since you can't upload separate files" 2.4 Interactive Elements That Break Common Broken Features:
+
+State Filter Dropdown:
+
+Missing state data in JavaScript State abbreviations not matching data attributes Filter function not finding DOM elements Tabbed Content:
+
+Tab buttons exist but openTab() function missing CSS not hiding inactive tabs No active state styling Quiz/Calculator:
+
+Form inputs exist but calculation function missing Results container hidden and never shown Progress bar not updating Sticky CTA Bar:
+
+Scroll listener not attached Bar hidden but never shown Close button not working Brand Card Toggles:
+
+"Read Full Review" button exists toggleReview() function missing Content div not being shown/hidden SECTION 3: CONTENT QUALITY ISSUES 3.1 "Lame" Content Problem User Feedback:
+
+"Top MLS Betting Platforms (lame at best)" "What to Look For in Soccer Betting Sites is another lame section" "Soccer Betting Bonuses and Promotions. Ultra lame" "Legal Soccer Betting States: hahahahahahah. This is very lame and it is incomplete" "There is a pattern of lameness throughout the page" Definition of "Lame" Content:
+
+Generic statements without specific details Missing "why" explanations (Google Helpful Content requirement) No E-E-A-T signals (Experience, Expertise, Authority, Trust) Incomplete information Filler text that doesn't add value Google Helpful Content Guidelines Requirement:
+
+If saying a brand is "the best" for something, must explain WHY and HOW Must demonstrate expertise with specific examples Must include authoritative sources 3.2 E-E-A-T Requirements Missing E-E-A-T Elements Identified:
+
+No author byline with credentials No publication/update dates Generic "experts say" without attribution Missing references section Unsupported statistics Fictional expert quotes Required E-E-A-T Implementation:
+
+    [Real Name], [Real Title]
+    [Actual Credentials]
+
+
+    Our Testing Methodology
+    
+        Specific detail about testing process
+    
+
+3.3 Reference Quality Issues User Quote:
+
+"References: This is a cluster fuck. We can't have 'lying through their teeth' affiliates there" "Only authoritative sources. The brands are ok. But affiliates is a big NO, NO" Prohibited Reference Sources:
+
+Covers.com BettingUSA.com Other affiliate sites Competitor sites Approved Reference Sources:
+
+Official sportsbook sites (FanDuel, BetMGM, etc.) State gaming commissions Government regulatory bodies Peer-reviewed sources Major news organizations 3.4 Missing Original Content The Problem: During enhancement passes, AI removes or loses substantial chunks of original content.
+
+User Quotes:
+
+"All these efforts wasted across multiple chats" "You messed up from the banking section onwards. My original content is gone" "Compare content with original. Some content was left out from the original by the AI. Many sections were left out" Required Behavior:
+
+PRESERVE all original content unless explicitly told to remove Enhancement = ADDITION, not replacement (unless specifically requested) Before outputting, verify all original sections are present Mark clearly what is ADDED vs REPLACED vs PRESERVED SECTION 4: CANNIBALIZATION CONCERNS 4.1 Understanding Cannibalization Risk User Approach: Every new page enhancement MUST be checked for cannibalization against existing pages.
+
+User Quote:
+
+"Do any of your recommendations cannibalize with this page?" "I am asking because we still have the following to do..." Examples of Cannibalization Risks:
+
+Comparison Tool on reviews page → conflicts with compare-sportsbooks.htm How to Choose content → conflicts with educational hub page State Filter data → should be consistent across all pages 4.2 Page Differentiation Strategy Each page type serves different user intent:
+
+Page Type User Intent Unique Content Homepage General overview All brands, category navigation Apps Page Mobile-specific App features, app store ratings Reviews Page Individual analysis Deep-dive reviews, trust signals Compare Page Side-by-side evaluation Comparison matrix, scoring Topic Page (SGP, Live, Props) Specific betting type Type-specific tools/calculators Anti-Cannibalization Rules:
+
+Each page targets different primary keywords Interactive features should be unique to page type Link TO other pages rather than duplicating content Clear content boundaries between pages SECTION 5: FORMATTING & CONSISTENCY REQUIREMENTS 5.1 Comparison Table Format Must Match Homepage Standard:
+
+3-column layout (mobile-friendly) State filter integrated Letter badges for logos (FD, DK, MGM, CZR, 365) Hover effects on rows Mobile scroll indicators Star ratings in first column (not separate column) User Quote:
+
+"I don't like the current one I have. I will provide you with another table that I like from another page" 5.2 Brand Card Format Required Structure:
+
+    FD
+    ★ 9.5/10
+
+
+    FanDuel Sportsbook
+    [Bonus text]
+    
+    [T&Cs always visible]
+    
+    
+        Full T&Cs ▼
+        [Full legal terms]
+    
+
+
+    Claim Bonus →
+    Read Full Review
+
+5.3 Style Guide Violations to Avoid Prohibited:
+
+❌ Emojis in headings or professional content ❌ "Q:" or "A:" prefix in FAQ sections ❌ Excessive colons in headers ❌ Fictional expert quotes ❌ High contrast/clashing colors ❌ Box within box within box (nesting madness) ❌ Trailing colons in headers User Quotes:
+
+"Remove colons and emojies. Its too AI" "Brands cards are lame. Should copy soccer page" "Oh wow, yes - that's exactly the 'high contrast' problem you mentioned! This is indeed an abomination" 5.4 Color Scheme Consistency Standard Green Theme:
+
+Primary: #2e7d32 Accent: #28a745 Warning: #ffc107 Background gradients: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%) Border accent: border-left: 4px solid #2e7d32 User Quote:
+
+"Man too many colors and high contrast" "Replace all colored boxes with this consistent style" SECTION 6: WORKFLOW & DELIVERY REQUIREMENTS 6.1 Artifact Structure For Large Page Enhancements, Deliver:
+
+Artifact 1 - HEAD CSS (~20KB) Artifact 2 - HEAD JavaScript (~15KB) Artifact 3 - BODY Part 1 (header → comparison table) Artifact 4 - BODY Part 2 (intro, category cards, brands 1-4) Artifact 5 - BODY Part 3 (brands 5-11) Artifact 6 - BODY Part 4 (how to choose section) Artifact 7 - BODY Part 5 (methodology, banking, calculator) Artifact 8 - BODY Part 6 (state table, FAQ, references, footer) 6.2 Implementation Instructions Always Provide Clear Assembly Instructions:
+
+Assembly Instructions for Dreamweaver
+In your `` section:
+
+Keep your existing CSS/JS
+ADD content from artifact1 AFTER existing styles
+ADD content from artifact2 before ``
+Replace your `` content with:
+
+artifact3 (header through comparison table)
+artifact4 (intro, categories, brands 1-4)
+[continue for all artifacts]
+6.3 Pre-Delivery Checklist Before declaring work complete:
+
+All JavaScript functions are defined AND wired to HTML elements All CSS styles are present for every component No placeholder text anywhere All original content preserved (unless told to remove) Internal links use complete URLs (e.g., /index.htm not just /) T&Cs are visible for compliance Mobile responsive breakpoints included Letter badges have correct colors per brand Console logging included for debugging State filter has ALL 50 states with accurate data SECTION 7: SPECIFIC FEATURES INVENTORY 7.1 Core Interactive Elements (Proven Patterns) Feature Purpose JavaScript Function Collapsible Intro Reduce initial page height toggleIntro() State Filter Compliance - legal sportsbook check checkState() Brand Card Toggle Expandable reviews toggleReview(bookId) Tabbed Content Reduce vertical scrolling 70% openTab(tabName) Sticky CTA Bar Persistent conversion tool Scroll listener FAQ Accordion Collapsible Q&A toggleAccordion(itemId) Quiz Personalized recommendations Quiz logic functions Calculator Value computation Calculator-specific 7.2 Page-Specific Tools Same Game Parlay (SGP) Page - Most Complex:
+
+SGP Bettor Quiz - 5-question personality assessment SGP Builder Simulator - Practice betting tool with correlation warnings Correlation Checker Tool - Educational meter showing bet correlation Live SGP Ticker - Scrolling display of example parlays Interactive Learning Path - 5-step guided journey PayPal Page:
+
+Fee Calculator - 1.5% instant transfer calculation Payment Method Comparison - PayPal vs cards/bank/Venmo Troubleshooting Accordion - Common issues with solutions SECTION 8: COMPLIANCE REQUIREMENTS 8.1 Gambling Content Compliance Required Elements:
+
+Visible T&Cs for every bonus offer State availability information Age requirement notices (21+ for most states, 18+ for some) Responsible gambling resources Affiliate disclosure User Quote:
+
+"State dropdown section. These states needs fact checking and the contradictions needs to be fixed" "Example: In Washington you need to be 18+ to bet. Just underneath that part, we have a notice that you need to be 21+" 8.2 Internal Link Requirements URL Format Rules:
+
+❌ /sport/betting/
+
+✅ /sport/betting/index.htm
+
+❌ /sport/betting/sportsbook-reviews/
+
+✅ /sport/betting/sportsbook-reviews/index.htm
+
+User Quote:
+
+"Internal links need to be fixed as the slugs are not complete" SECTION 9: LESSONS LEARNED 9.1 What Works Well Splitting artifacts into logical chunks Using letter badges instead of image logos Consistent green color scheme (#2e7d32) DOMContentLoaded wrapper for JavaScript Console logging for debugging Clear implementation instructions 9.2 What Consistently Fails Attempting full-page rewrites in one artifact Using placeholders "to save tokens" Claiming features are implemented without verification Silent update failures Mixing colors and styles inconsistently Generating "lame" filler content 9.3 Critical Success Factors Complete Artifacts - No placeholders ever Preserve Original - Don't lose user's content Methodical Approach - Check off requirements as completed Verify Before Declaring Done - Test that code works Consistent Formatting - Match existing page patterns Resource Awareness - Split work before running out APPENDIX A: CHAT REFERENCES Key conversations containing detailed implementation patterns:
+
+Interactive page enhancements and UX improvements - V3 technical foundation Improving page interactivity and state filter functionality - Complete artifact set PayPal sports betting page enhancement - Detailed implementation instructions Cataloging webpage enhancements - CSS and JS patterns SGP page enhancements - Most complex implementation with 5 tools Resource Management Humor - Pattern of failures documented APPENDIX B: USER COMMUNICATION PATTERNS When User Says: "No corners cut" They Mean: Deliver complete, working code - every function, every style, every piece of content
+
+When User Says: "You keep running out of resources" They Mean: Break into smaller chunks, work incrementally, create checkpoint artifacts
+
+When User Says: "This is lame" They Mean: Content lacks specific details, E-E-A-T signals, and doesn't meet Google Helpful Content guidelines
+
+When User Says: "Don't invent" They Mean: Use only actual content from provided documents, don't make up data, quotes, or statistics
+
+When User Says: "Match the other page" They Mean: Exact same structure, CSS classes, JavaScript patterns, and visual styling
+
+Document Version: 1.0 Compiled From: 50+ past conversations Purpose: Claude Code project optimization for page enhancement tasks
+
+This is comprehensive feedback from your Claude AI sessions. I'll save it now, noting that your colleagues' feedback takes priority where there are conflicts.
+
+Write /home/user/topendsports-content-briefs/content-briefs-skill/feedback/claude-ai-feedback-2024-12.md
+
+Page Enhancement & UX Improvements - Claude AI Feedback
+Source: Claude AI chat sessions
+
+Date Compiled: December 2024
+
+Note: Team colleague feedback takes priority over any conflicting points in this document
+
+PRIORITY NOTE
+Per Andre's instruction: Colleague feedback overrides this document where conflicts exist.
+
+Key colleague concerns that take precedence:
+
+Content shortening/skipping issues (Gustavo, Lewis, Daniel)
+
+CSS max-width conflict resolution (dev team fix)
+
+Long conversation limits frustration
+
+Bonus update automation needs (Daniel's project idea)
+
+Show full diff (375 more lines) Bash git add content-briefs-skill/feedback/claude-ai-feedback-2024-12.md && git commit -m "$(cat <<'EOF' Add Claude AI session feedback - comprehensive UX patterns Extensive feedback from page enhancement sessions including: - Technical foundation (V3 Dreamweaver-compatible approach) - Gold standard templates (comparison tables, brand cards) - Pain points (resource exhaustion, placeholders, content skipping) - Content quality requirements (E-E-A-T, no "lame" content) - Style guide rules and color scheme - State availability data for all legal betting states - Interactive elements catalog Note: Team colleague feedback takes priority over conflicting points. EOF )" [claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 a1d6b6e] Add Claude AI session feedback - comprehensive UX patterns 1 file changed, 394 insertions(+) create mode 100644 content-briefs-skill/feedback/claude-ai-feedback-2024-12.md Bash git push -u origin claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 branch 'claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6' set up to track 'origin/claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6'. To http://127.0.0.1:28928/git/OnTheDotMediaLtd/topendsports-content-briefs 1a42544..a1d6b6e claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 -> claude/implement-mcp-server-01JRS1THbm7Ph49r9exZVjk6 Update Todos Save colleague feedback to feedback folder Create actionable improvements list from feedback Save Claude AI session feedback Both feedback documents saved and pushed.
+
+Summary of All Feedback Captured Feedback Files Created: feedback/team-feedback-2024-12.md - Colleague feedback (takes priority) feedback/claude-ai-feedback-2024-12.md - Claude AI session patterns Key Issues & Actions Identified Priority Issue Action CRITICAL Content shortening/skipping Add explicit anti-skipping rules to instructions HIGH CSS max-width conflicts Add rule: "Do not include max-width CSS on elements" HIGH Long conversation limits Break work into smaller chunks, use checkpoints MEDIUM Wait times Platform limitation (monitor) MEDIUM "Lame" content Enforce E-E-A-T standards, specific details Project Ideas Captured: Bonus Update Automation (Daniel) - Auto-edit bonuses across pages Internal Linking Assistant (Lewis) - On-page linking strategy Technical Standards Documented: V3 Dreamweaver-compatible JavaScript/CSS approach Gold standard templates (comparison tables, brand cards) Letter badge system (FD, DK, MGM, etc.) State availability data for all legal states Color scheme (#2e7d32 green theme) ESPN BET → theScore BET rebrand (Dec 2025) Complete Project Migration Status:
+
+Category Count Status Core Documents 10 ✅ All saved Site Structure Files 2 ✅ Already in repo Feedback Files 2 ✅ Just saved Ready for any additional feedback or next steps you'd like to take.
+
+Ok, very good and now what happens next? There are some things within the project that needs immediate updates such as the comparison table and brand cards formats to ensure uniformity between pages. With all the feedback provided to you, what happens next, how can the project be improved now?
+
+Good question. Based on all the feedback, here's what needs to happen:
+
+Immediate Actions Required
+
+Template Standardization The gold standard templates from your Claude AI feedback need to be added as official reference documents:
+Template Current State Action Needed Comparison Table Not in references Create gold-standard-templates.md Brand Cards Not in references Include in same file Tabbed Reviews Not in references Include in same file Letter Badge CSS Not in references Include in same file 2. Instruction Updates Add critical rules to PROJECT-INSTRUCTIONS.md:
+
+NEW RULES TO ADD:
+
+"NEVER shorten, compress, or skip content. Output ALL content in full."
+"Do not include max-width CSS on elements - site handles this."
+"ESPN BET is now theScore BET (rebranded Dec 2025)"
+Brand List Update Update Reference Library with:
+theScore BET replacing ESPN BET Badge code: SCR (not ESPN) Color: #6B2D5B 4. State Availability Data Add the complete state availability JavaScript object to a data file for consistency across pages.
+
+Proposed Plan Create references/gold-standard-templates.md - Contains exact HTML/CSS/JS for:
+
+Comparison table structure Brand card structure Tabbed review system All letter badge CSS Interactive element patterns Update PROJECT-INSTRUCTIONS.md - Add anti-skipping and CSS rules
+
+Update reference-library-v3.md - theScore BET rebrand
+
+Create assets/data/state-availability.json - Centralized state data
+
+Shall I proceed with these updates now? I can work through them systematically and commit each change.
+
+Yes please proceed, but also the way the agents are setup and their configurations need to be checked and updated i belieive. Wel, I will let you audit everything, conduct tests and optimize further. Sounds like a plan?
+
+Sounds like a plan. Let me create a comprehensive todo list and work through everything systematically.
+
+Update Todos Create gold-standard-templates.md with comparison table, brand cards, tabs Update PROJECT-INSTRUCTIONS.md with anti-skipping and CSS rules Update reference-library-v3.md with theScore BET rebrand Create state-availability.json data file Audit MCP server configuration and tools Audit skill/agent setup and configurations Run tests on MCP server functionality Optimize based on feedback findings Commit and push all updates Let me first audit the current project structure to understand what we're working with:
+
+Bash find /home/user/topendsports-content-briefs -type f ( -name ".ts" -o -name ".js" -o -name ".json" -o -name ".md" ) | head -60 /home/user/topendsports-content-briefs/mcp-server/node_modules/side-channel-weakmap/README.md /home/user/topendsports-content-briefs/mcp-server/node_modules/side-channel-weakmap/test/index.js /home/user/topendsports-content-briefs/mcp-server/node_modules/side-channel-weakmap/tsconfig.json ... +57 lines Glob /mcp-server//* Glob */.claude Read /home/user/topendsports-content-briefs/mcp-server/src/index.ts Read 867 lines Read /home/user/topendsports-content-briefs/mcp-server/package.json Read 39 lines Read /home/user/topendsports-content-briefs/content-briefs-skill/PROJECT-INSTRUCTIONS.md Read 564 lines I now have a clear picture. Let me work through the updates systematically.
+
+Update Todos Creating gold standard templates document Update PROJECT-INSTRUCTIONS.md with anti-skipping and CSS rules Update reference-library-v3.md with theScore BET rebrand Create state-availability.json data file Update MCP server - fix ESPN BET to theScore BET Audit skill/agent setup and configurations Run tests on MCP server functionality Commit and push all updates Starting Task 1: Creating the Gold Standard Templates document with all the HTML/CSS/JS patterns from your feedback.
+
+Write /home/user/topendsports-content-briefs/content-briefs-skill/references/gold-standard-templates.md
+
+GOLD STANDARD TEMPLATES v1.0
+Purpose: Exact HTML/CSS/JS templates for page uniformity
+
+Source: Claude AI session feedback (December 2024)
+
+Note: These templates are MANDATORY for all betting content pages
+
+CORE BRAND LIST (December 2025)
+| # | Brand | Badge Code | Color | Status |
+
+|---|-------|------------|-------|--------|
+
+| 1 | FanDuel | FD | #1493ff | Tracking ✅ |
+
+| 2 | DraftKings | DK | #53d337 | Tracking pending |
+
+| 3 | BetMGM | MGM | #bfa36b | Tracking ✅ |
+
+| 4 | Caesars | CZR | #0a2240 | Tracking pending |
+
+| 5 | bet365 | 365 | #0e7b46 | Tracking pending |
+
+| 6 | Fanatics | FAN | #0050c8 | Tracking pending |
+
+| 7 | theScore BET | SCR | #6B2D5B | Tracking pending |
+
+Show full diff (924 more lines) Update Todos Create gold-standard-templates.md with comparison table, brand cards, tabs Updating project instructions with new rules Update reference-library-v3.md with theScore BET rebrand Create state-availability.json data file Update MCP server - fix ESPN BET to theScore BET Audit skill/agent setup and configurations Run tests on MCP server functionality Commit and push all updates Now updating PROJECT-INSTRUCTIONS.md with critical rules from feedback:
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/PROJECT-INSTRUCTIONS.md
+
+CRITICAL RULES (Always Follow)
+Content Output Rules (From Team Feedback - December 2024)
+⚠️ NEVER shorten, compress, or skip content. Output ALL content in full.
+
+⚠️ Do NOT include max-width CSS on elements - site handles maximum content size
+
+⚠️ No placeholders - deliver complete, working code always
+
+⚠️ Break into multiple artifacts if needed - but each must be complete
+
+⚠️ ESPN BET is now theScore BET (rebranded December 1, 2025)
+
+⚠️ Use Gold Standard Templates (see references/gold-standard-templates.md)
+
+Mandatory Discovery (Phase 1)
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/PROJECT-INSTRUCTIONS.md
+
+Supporting Documents (5)
+Load as needed:
+
+✅ Lessons Learned v3.0 - Edge cases and anti-patterns
+
+✅ Research Depth Quick Reference - Research approach guide
+
+✅ Brief Quality Checklist - Pre-delivery verification
+
+Supporting Documents (6)
+Load as needed:
+
+✅ Lessons Learned v3.0 - Edge cases and anti-patterns
+
+✅ Research Depth Quick Reference - Research approach guide
+
+✅ Brief Quality Checklist - Pre-delivery verification
+
+✅ Gold Standard Templates v1.0 - HTML/CSS/JS patterns for page uniformity
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/PROJECT-INSTRUCTIONS.md
+
+Data Files (2)
+✅ Betting Site Structure English.csv
+
+✅ Betting Site Structure Spanish.csv
+
+✅ Betting Site Structure English.csv
+
+✅ Betting Site Structure Spanish.csv
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/PROJECT-INSTRUCTIONS.md
+
+This Document (1)
+✅ PROJECT INSTRUCTIONS - FINAL v3.1 ← Current
+
+✅ PROJECT INSTRUCTIONS - FINAL v3.1 ← Current
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/PROJECT-INSTRUCTIONS.md
+
+REQUIRED DOCUMENTS (13 Total)
+REQUIRED DOCUMENTS (14 Total)
+Update Todos Create gold-standard-templates.md with comparison table, brand cards, tabs Update PROJECT-INSTRUCTIONS.md with anti-skipping and CSS rules Updating reference library with theScore BET Create state-availability.json data file Update MCP server - fix ESPN BET to theScore BET Audit skill/agent setup and configurations Run tests on MCP server functionality Commit and push all updates Read /home/user/topendsports-content-briefs/content-briefs-skill/references/reference-library-v3.md Read 377 lines Edit /home/user/topendsports-content-briefs/content-briefs-skill/references/reference-library-v3.md 7. ESPN BET ❌ Tracking pending
+
+Best for: ESPN integration, casual bettors
+
+Use for: Beginner content
+
+7. theScore BET ❌ Tracking pending (formerly ESPN BET - rebranded Dec 2025)
+
+Best for: theScore app integration, Penn Play rewards
+
+Use for: Beginner content, media-integrated experiences
+
+Badge code: SCR, Color: #6B2D5B
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/references/reference-library-v3.md ⚠️ Defunct: FOX Bet - DO NOT USE
+
+⚠️ Defunct/Rebranded:
+
+FOX Bet - DO NOT USE (defunct)
+
+ESPN BET - DO NOT USE (rebranded to theScore BET Dec 2025)
+
+Update Todos Create gold-standard-templates.md with comparison table, brand cards, tabs Update PROJECT-INSTRUCTIONS.md with anti-skipping and CSS rules Update reference-library-v3.md with theScore BET rebrand Creating state availability data file Update MCP server - fix ESPN BET to theScore BET Audit skill/agent setup and configurations Run tests on MCP server functionality Commit and push all updates Now creating the state availability data file:
+
+Write /home/user/topendsports-content-briefs/content-briefs-skill/assets/data/state-availability.json {
+
+"metadata": {
+
+"version": "1.0",
+
+"last_updated": "2024-12-03",
+
+"notes": "ESPN BET rebranded to theScore BET on December 1, 2025. State availability data should be verified quarterly."
+
+},
+
+"brands": {
+
+"FanDuel": { "code": "FD", "color": "#1493ff", "tracking": true },
+
+"DraftKings": { "code": "DK", "color": "#53d337", "tracking": false },
+
+"BetMGM": { "code": "MGM", "color": "#bfa36b", "tracking": true },
+
+"Caesars": { "code": "CZR", "color": "#0a2240", "tracking": false },
+
+"bet365": { "code": "365", "color": "#0e7b46", "tracking": false },
+
+"Fanatics": { "code": "FAN", "color": "#0050c8", "tracking": false },
+
+"theScore BET": { "code": "SCR", "color": "#6B2D5B", "tracking": false },
+
+"BetRivers": { "code": "BR", "color": "#ff6b00", "tracking": false }
+
+},
+
+"states": {
+
+"AZ": {
+
+  "name": "Arizona",
+
+  "legal": true,
+
+Show full diff (218 more lines) Update Todos Create gold-standard-templates.md with comparison table, brand cards, tabs Update PROJECT-INSTRUCTIONS.md with anti-skipping and CSS rules Update reference-library-v3.md with theScore BET rebrand Create state-availability.json data file Updating MCP server brand data Audit skill/agent setup and configurations Run tests on MCP server functionality Commit and push all updates Now updating the MCP server with the theScore BET rebrand:
+
+Edit /home/user/topendsports-content-briefs/mcp-server/src/index.ts tier_2_brands: ["Fanatics", "ESPN BET", "BetRivers", "Bally Bet", "BetParx"],
+
+tier_2_brands: ["Fanatics", "theScore BET", "BetRivers", "Bally Bet", "BetParx"],
+
+Grep ESPN Read /home/user/topendsports-content-briefs/mcp-server/src/index.ts Read 60 lines Edit /home/user/topendsports-content-briefs/mcp-server/src/index.ts usp: "Best for Live Betting",
+
+  key_features: ["Sharpest lines", "40+ props", "International reputation"],
+
+  typical_position: 5
+
+},
+
+Fanatics: {
+
+  usp: "Best for Rewards Integration",
+
+  key_features: ["FanCash rewards", "Merchandise crossover", "Strong app experience"],
+
+  typical_position: 6
+
+},
+
+"theScore BET": {
+
+  usp: "Best for Media Integration",
+
+  key_features: ["theScore app integration", "Penn Play rewards", "Beginner friendly"],
+
+  typical_position: 7,
+
+  notes: "Formerly ESPN BET - rebranded December 2025"
+
+}
+
+},
+
+Update Todos Create gold-standard-templates.md with comparison table, brand cards, tabs Update PROJECT-INSTRUCTIONS.md with anti-skipping and CSS rules Update reference-library-v3.md with theScore BET rebrand Create state-availability.json data file Update MCP server - fix ESPN BET to theScore BET Auditing skill and agent configurations Run tests on MCP server functionality Commit and push all updates Now auditing the skill/agent setup:
+
+Glob **/.skill Glob */skill.json Glob **/config.json Bash ls -la /home/user/topendsports-content-briefs/content-briefs-skill/ drwxr-xr-x 2 root root 4096 Dec 3 08:38 output drwxr-xr-x 2 root root 4096 Dec 3 13:03 references drwxr-xr-x 2 root root 4096 Dec 2 12:05 scripts ... +10 lines Read /home/user/topendsports-content-briefs/content-briefs-skill/SKILL.md Read 143 lines Read /home/user/topendsports-content-briefs/content-briefs-skill/ORCHESTRATOR.md Read 213 lines This session is being continued from a previous conversation that ran out of context. The conversation is summarized below: Analysis: Let me analyze this conversation chronologically:
+
+Initial Context: This is a continuation session from a previous conversation. The summary indicated:
+
+Working on "topendsports-content-briefs" repository for SEO content briefs MCP server was implemented with tools for site structure, brand rules, brief management Team documentation was created Documents from Claude browser project were being migrated to GitHub Last file saved was execution-controller-v2.md but NOT committed Session Start: I committed and pushed the execution-controller-v2.md file, then continued receiving documents.
+
+Document Migration Phase: User provided documents one at a time:
+
+Phase Protocols v3.1 (saved to references/phase-protocols-v3.md) Reference Library v3.0 (saved to references/reference-library-v3.md) Content Type Templates v3.0 (saved to references/content-type-templates-v3.md) Verification & Quality Standards v3.0 (saved to references/verification-quality-standards-v3.md) Lessons Learned v3.0 (saved to references/lessons-learned-v3.md) Site Structure Confirmation: User mentioned 2 more files (English/Spanish site structure) but they were already in the repo. Confirmed at:
+
+content-briefs-skill/assets/data/site-structure-english.csv content-briefs-skill/assets/data/site-structure-spanish.csv Feedback Collection Phase: User provided extensive feedback from two sources:
+
+Team Colleague Feedback (takes priority): Issues with content shortening/skipping, CSS max-width conflicts, long conversation limits, bonus update automation ideas Claude AI Session Feedback: Comprehensive document with technical patterns, gold standard templates, pain points, V3 Dreamweaver-compatible approach Project Improvement Phase: User asked "what happens next?" and I proposed a plan. User approved with "Yes please proceed, but also the agents need to be checked and updated."
+
+Updates Made:
+
+Created references/gold-standard-templates.md - comprehensive HTML/CSS/JS patterns Updated PROJECT-INSTRUCTIONS.md - added Content Output Rules with anti-skipping, CSS rules, theScore BET rebrand note, increased document count Updated references/reference-library-v3.md - changed ESPN BET to theScore BET with full details Created assets/data/state-availability.json - complete state availability data Updated mcp-server/src/index.ts - changed ESPN BET to theScore BET in tier_2_brands, added Fanatics and theScore BET to brand_guidelines Current State: I was in the middle of auditing the skill/agent setup. I had just read SKILL.md and ORCHESTRATOR.md files to understand the agent configuration when the summary was requested.
+
+Key files examined in current work:
+
+SKILL.md - Skill definition file with workflow, rules, template selection ORCHESTRATOR.md - Multi-agent orchestration pattern for 3-phase workflow The SKILL.md and ORCHESTRATOR.md reference old filenames like references/phase1-research.md but the actual files use different naming like references/phase-protocols-v3.md. This inconsistency needs to be addressed.
+
+Todo list status:
+
+✅ Create gold-standard-templates.md ✅ Update PROJECT-INSTRUCTIONS.md ✅ Update reference-library-v3.md ✅ Create state-availability.json ✅ Update MCP server 🔄 Audit skill/agent setup (IN PROGRESS - just read files) ⏳ Run tests on MCP server ⏳ Commit and push all updates Summary:
+
+Primary Request and Intent: The user is migrating their Claude browser project setup to GitHub and wants to:
+
+Save all project documents from their Claude browser setup to the GitHub repository Collect and incorporate team feedback and Claude AI session feedback Update project documentation with critical rules (anti-skipping, CSS max-width, theScore BET rebrand) Create gold standard templates for page uniformity Audit and update agent/skill configurations Test and optimize the MCP server Ensure all updates are committed and pushed User explicitly stated: "Yes please proceed, but also the way the agents are setup and their configurations need to be checked and updated... I will let you audit everything, conduct tests and optimize further."
+
+Key Technical Concepts:
+
+MCP (Model Context Protocol) server in TypeScript 3-phase content brief workflow (Research, Writer Brief, AI Enhancement) Secondary keyword optimization (8-15 keywords per page) Gold standard HTML/CSS/JS templates for Dreamweaver compatibility Letter badge system for brand logos (no images) theScore BET rebrand (formerly ESPN BET, December 2025) State availability data for legal sports betting Multi-agent orchestration pattern Git workflow with commits and pushes Files and Code Sections:
+
+content-briefs-skill/references/gold-standard-templates.md (CREATED)
+
+Comprehensive HTML/CSS/JS patterns for page uniformity Contains comparison table, brand card, tabbed review templates Letter badge CSS with brand colors Critical for ensuring consistent page formatting across all betting content content-briefs-skill/PROJECT-INSTRUCTIONS.md (UPDATED)
+
+Added Content Output Rules section:
+
+Content Output Rules (From Team Feedback - December 2024)
+⚠️ NEVER shorten, compress, or skip content. Output ALL content in full. ⚠️ Do NOT include max-width CSS on elements - site handles maximum content size ⚠️ No placeholders - deliver complete, working code always ⚠️ Break into multiple artifacts if needed - but each must be complete ⚠️ ESPN BET is now theScore BET (rebranded December 1, 2025) ⚠️ Use Gold Standard Templates (see references/gold-standard-templates.md)
+
+Added Gold Standard Templates v1.0 to required documents Updated document numbering (now 14 total) content-briefs-skill/references/reference-library-v3.md (UPDATED)
+
+Changed ESPN BET to theScore BET: 7. theScore BET ❌ Tracking pending (formerly ESPN BET - rebranded Dec 2025)
+
+Best for: theScore app integration, Penn Play rewards
+Use for: Beginner content, media-integrated experiences
+Badge code: SCR, Color: #6B2D5B
+Added to defunct/rebranded section content-briefs-skill/assets/data/state-availability.json (CREATED)
+
+Complete state-by-state sportsbook availability data Includes brand metadata (codes, colors, tracking status) 34 states with legal betting documented Age exceptions noted (18+ states: DC, MT, NH, RI, WY) mcp-server/src/index.ts (UPDATED)
+
+Changed tier_2_brands from "ESPN BET" to "theScore BET" Added Fanatics and theScore BET to brand_guidelines: Fanatics: { usp: "Best for Rewards Integration", key_features: ["FanCash rewards", "Merchandise crossover", "Strong app experience"], typical_position: 6 }, "theScore BET": { usp: "Best for Media Integration", key_features: ["theScore app integration", "Penn Play rewards", "Beginner friendly"], typical_position: 7, notes: "Formerly ESPN BET - rebranded December 2025" }
+
+content-briefs-skill/feedback/team-feedback-2024-12.md (CREATED)
+
+Organized team feedback with key issues: content shortening, CSS conflicts, long conversation limits Project ideas: Bonus Update Automation, Internal Linking Assistant content-briefs-skill/feedback/claude-ai-feedback-2024-12.md (CREATED)
+
+Comprehensive feedback from Claude AI sessions Gold standard templates, technical patterns, pain points Note that colleague feedback takes priority content-briefs-skill/SKILL.md (READ - needs update)
+
+Contains skill definition with old file references References files like references/phase1-research.md that don't exist content-briefs-skill/ORCHESTRATOR.md (READ - needs update)
+
+Multi-agent orchestration pattern References old file structure that needs updating Errors and fixes:
+
+Document numbering inconsistency: When adding Gold Standard Templates to required documents, the numbering got out of sync. Fixed by updating data files to 11-12 and "This Document" to 13. No major errors encountered during this session's updates. Problem Solving:
+
+Organized extensive feedback into actionable items Created systematic todo list with 8 tasks Identified ESPN BET → theScore BET rebrand as critical update needed across multiple files Created comprehensive state availability data from feedback appendix Discovered SKILL.md and ORCHESTRATOR.md reference outdated file paths (ongoing issue to address) All user messages:
+
+"PHASE PROTOCOLS v3.1 (ALL PHASES WITH SECONDARY KEYWORDS)..." [document content] "REFERENCE LIBRARY v3.0..." [document content] "CONTENT TYPE TEMPLATES v3.0..." [document content] "VERIFICATION & QUALITY STANDARDS v3.0..." [document content] "LESSONS LEARNED v3.0..." [document content] "Ok, I have 2 more files but they are for the english and spanish site structure which are already on github supposedly. In the meantime I am gatering feedback and some improvements I wish to see that the project can learn from (it supposed o have a feedback function). Let me know when I can provide you this info" "Here is some feedback from my colleagues..." [extensive team feedback about content shortening, CSS issues, project ideas] "Now here is feedback from calude ai. Kindly note that feedback from my colleagues should override this should there be any conflicting feedback..." [comprehensive technical feedback document] "Ok, very good and now what happens next? There are some things within the project that needs immediate updates such as the comparison table and brand cards formats to ensure uniformity between pages. With all the feedback provided to you, what happens next, how can the project be improved now?" "Yes please proceed, but also the way the agents are setup and their configurations need to be checked and updated i belieive. Wel, I will let you audit everything, conduct tests and optimize further. Sounds like a plan?" Pending Tasks:
+
+Complete audit of skill/agent configurations (SKILL.md and ORCHESTRATOR.md need file path updates) Run tests on MCP server functionality Commit and push all updates to GitHub Update SKILL.md and ORCHESTRATOR.md to reference correct file paths Current Work: I was auditing the skill/agent setup. I just read SKILL.md and ORCHESTRATOR.md to understand the current configuration. The files reference outdated paths like:
+
+references/phase1-research.md (should be references/phase-protocols-v3.md) references/phase2-writer.md (doesn't exist) references/phase3-technical.md (doesn't exist) references/reference-library.md (should be references/reference-library-v3.md) The todo list shows:
+
+✅ 5 tasks completed (gold-standard-templates, PROJECT-INSTRUCTIONS, reference-library, state-availability.json, MCP server) 🔄 1 task in progress (audit skill/agent setup) ⏳ 2 tasks pending (run tests, commit/push) Optional Next Step: Continue the audit of skill/agent configurations by updating SKILL.md and ORCHESTRATOR.md to reference the correct current file paths. The user said: "Yes please proceed, but also the way the agents are setup and their configurations need to be checked and updated... I will let you audit everything, conduct tests and optimize further."
+
+After updating those files, proceed to run tests on the MCP server, then commit and push all changes.. Please continue the conversation from where we left it off without asking the user any further questions. Continue with the last task that you were asked to work on.
+
+Continuing the audit of skill/agent configurations. Let me read the SKILL.md and ORCHESTRATOR.md files to update the outdated file path references.
+
+Read /home/user/topendsports-content-briefs/content-briefs-skill/SKILL.md Read 143 lines Read /home/user/topendsports-content-briefs/content-briefs-skill/ORCHESTRATOR.md Read 213 lines I can see both files have outdated references. Let me check what reference files actually exist:
+
+Glob content-briefs-skill/references/*.md I see there are both old files and new v3 files. The v3 files are the current standard per PROJECT-INSTRUCTIONS.md. I need to update SKILL.md and ORCHESTRATOR.md to reference the v3 files and add the gold-standard-templates.md. Let me also add the critical content output rules from the team feedback.
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/SKILL.md
+
+Read the URL from user
+
+Search site structure: grep -i "[page-name]" assets/data/site-structure-english.csv
+
+Execute Phase 1 using references/phase1-research.md → save to output/
+
+Execute Phase 2 using references/phase2-writer.md → save to output/
+
+Execute Phase 3 using references/phase3-technical.md → save to output/
+
+Execute Phase 1 using references/phase-protocols-v3.md → save to output/
+
+Execute Phase 2 using references/phase-protocols-v3.md → save to output/
+
+Execute Phase 3 using references/phase-protocols-v3.md → save to output/
+
+Convert to Word: python scripts/convert_to_docx.py --all
+
+Deliver both .md and .docx files to user
+
+Edit /home/user/topendsports-content-briefs/content-briefs-skill/SKILL.md
+
+Reference Files
+Load these as needed during each phase:
+
+Phase 1: references/phase1-research.md - Research protocol with keyword clustering
+
+Phase 2: references/phase2-writer.md - Writer brief creation with optimization
+
+Phase 3: references/phase3-technical.md - HTML templates and schema markup
+
+Quick Lookups: references/reference-library.md - Writers, brands, compliance
+
+Quality Check: references/quality-checklist.md - Pre-delivery verification
+
+Content Templates: references/content-templates.md - 4 template structures
+
+Verification: references/verification-standards.md - Bonus verification, T&Cs
+
+Lessons: references/lessons-learned.md - Edge cases and anti-patterns
+
+Content Output Rules (CRITICAL)
+⚠️ NEVER shorten, compress, or skip content. Output ALL content in full.
+
+⚠️ Do NOT include max-width CSS on elements - site handles maximum content size
+
+⚠️ No placeholders - deliver complete, working code always
+
+⚠️ Break into multiple artifacts if needed - but each must be complete
+
+⚠️ ESPN BET is now theScore BET (rebranded December 1, 2025)
+
+⚠️ Use Gold Standard Templates (see references/gold-standard-templates.md)
+
+Show full diff (11 more lines)
