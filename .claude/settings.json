@@ -1,0 +1,73 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "mcp__topendsports-briefs__lookup_site_structure",
+      "mcp__topendsports-briefs__get_page_info",
+      "mcp__topendsports-briefs__get_brand_rules",
+      "mcp__topendsports-briefs__list_active_briefs",
+      "mcp__topendsports-briefs__list_completed_briefs",
+      "mcp__topendsports-briefs__read_phase_data",
+      "mcp__topendsports-briefs__convert_to_docx",
+      "mcp__topendsports-briefs__submit_feedback",
+      "mcp__topendsports-briefs__get_template_info",
+      "mcp__ahrefs__doc",
+      "mcp__ahrefs__rank-tracker-overview",
+      "mcp__ahrefs__rank-tracker-competitors-overview",
+      "mcp__ahrefs__batch-analysis-batch-analysis",
+      "mcp__ahrefs__keywords-explorer-overview",
+      "mcp__ahrefs__keywords-explorer-volume-history",
+      "mcp__ahrefs__keywords-explorer-volume-by-country",
+      "mcp__ahrefs__keywords-explorer-matching-terms",
+      "mcp__ahrefs__keywords-explorer-related-terms",
+      "mcp__ahrefs__keywords-explorer-search-suggestions",
+      "mcp__ahrefs__site-audit-projects",
+      "mcp__ahrefs__management-projects",
+      "mcp__ahrefs__management-project-keywords",
+      "mcp__ahrefs__management-locations",
+      "mcp__ahrefs__management-project-competitors",
+      "mcp__ahrefs__serp-overview-serp-overview",
+      "mcp__ahrefs__site-explorer-domain-rating",
+      "mcp__ahrefs__site-explorer-backlinks-stats",
+      "mcp__ahrefs__site-explorer-outlinks-stats",
+      "mcp__ahrefs__site-explorer-metrics",
+      "mcp__ahrefs__site-explorer-refdomains-history",
+      "mcp__ahrefs__site-explorer-domain-rating-history",
+      "mcp__ahrefs__site-explorer-url-rating-history",
+      "mcp__ahrefs__site-explorer-pages-history",
+      "mcp__ahrefs__site-explorer-metrics-history",
+      "mcp__ahrefs__site-explorer-keywords-history",
+      "mcp__ahrefs__site-explorer-metrics-by-country",
+      "mcp__ahrefs__site-explorer-pages-by-traffic",
+      "mcp__ahrefs__site-explorer-all-backlinks",
+      "mcp__ahrefs__site-explorer-broken-backlinks",
+      "mcp__ahrefs__site-explorer-refdomains",
+      "mcp__ahrefs__site-explorer-anchors",
+      "mcp__ahrefs__site-explorer-linkeddomains",
+      "mcp__ahrefs__site-explorer-linked-anchors-external",
+      "mcp__ahrefs__site-explorer-linked-anchors-internal",
+      "mcp__ahrefs__site-explorer-organic-keywords",
+      "mcp__ahrefs__site-explorer-organic-competitors",
+      "mcp__ahrefs__site-explorer-top-pages",
+      "mcp__ahrefs__site-explorer-paid-pages",
+      "mcp__ahrefs__site-explorer-best-by-external-links",
+      "mcp__ahrefs__site-explorer-best-by-internal-links",
+      "mcp__ahrefs__site-explorer-total-search-volume-history"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": ["topendsports-briefs", "ahrefs"]
+}
