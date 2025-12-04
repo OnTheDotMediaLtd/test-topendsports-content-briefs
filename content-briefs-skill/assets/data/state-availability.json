@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-12-04",
+    "notes": "ESPN BET rebranded to theScore BET on December 1, 2025. State availability data should be verified quarterly."
+  },
+  "brands": {
+    "FanDuel": { "code": "FD", "color": "#1493ff", "tracking": true },
+    "DraftKings": { "code": "DK", "color": "#53d337", "tracking": false },
+    "BetMGM": { "code": "MGM", "color": "#bfa36b", "tracking": true },
+    "Caesars": { "code": "CZR", "color": "#0a2240", "tracking": false },
+    "bet365": { "code": "365", "color": "#0e7b46", "tracking": false },
+    "Fanatics": { "code": "FAN", "color": "#0050c8", "tracking": false },
+    "theScore BET": { "code": "SCR", "color": "#6B2D5B", "tracking": false },
+    "BetRivers": { "code": "BR", "color": "#ff6b00", "tracking": false }
+  },
+  "states": {
+    "AZ": {
+      "name": "Arizona",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "AR": {
+      "name": "Arkansas",
+      "legal": true,
+      "age": 21,
+      "books": ["BetMGM"]
+    },
+    "CO": {
+      "name": "Colorado",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "CT": {
+      "name": "Connecticut",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings"]
+    },
+    "DC": {
+      "name": "District of Columbia",
+      "legal": true,
+      "age": 18,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365"]
+    },
+    "IL": {
+      "name": "Illinois",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "IN": {
+      "name": "Indiana",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "IA": {
+      "name": "Iowa",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "KS": {
+      "name": "Kansas",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "KY": {
+      "name": "Kentucky",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "LA": {
+      "name": "Louisiana",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "ME": {
+      "name": "Maine",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings"]
+    },
+    "MD": {
+      "name": "Maryland",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "MI": {
+      "name": "Michigan",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "MS": {
+      "name": "Mississippi",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings", "BetMGM"],
+      "notes": "In-person only at casinos"
+    },
+    "MT": {
+      "name": "Montana",
+      "legal": true,
+      "age": 18,
+      "books": ["DraftKings"]
+    },
+    "NE": {
+      "name": "Nebraska",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings"]
+    },
+    "NV": {
+      "name": "Nevada",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365"]
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "legal": true,
+      "age": 18,
+      "books": ["FanDuel", "DraftKings", "BetMGM"]
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "NM": {
+      "name": "New Mexico",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings"],
+      "notes": "Tribal casinos only"
+    },
+    "NY": {
+      "name": "New York",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics"]
+    },
+    "NC": {
+      "name": "North Carolina",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "OH": {
+      "name": "Ohio",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "OR": {
+      "name": "Oregon",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings"]
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "legal": true,
+      "age": 18,
+      "books": ["DraftKings"]
+    },
+    "SD": {
+      "name": "South Dakota",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings"],
+      "notes": "In-person at Deadwood casinos"
+    },
+    "TN": {
+      "name": "Tennessee",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "theScore BET"]
+    },
+    "VA": {
+      "name": "Virginia",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics", "theScore BET"]
+    },
+    "VT": {
+      "name": "Vermont",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings"]
+    },
+    "WV": {
+      "name": "West Virginia",
+      "legal": true,
+      "age": 21,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "Caesars", "bet365", "Fanatics"]
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "legal": true,
+      "age": 21,
+      "books": ["DraftKings"],
+      "notes": "Tribal casinos only"
+    },
+    "WY": {
+      "name": "Wyoming",
+      "legal": true,
+      "age": 18,
+      "books": ["FanDuel", "DraftKings", "BetMGM", "bet365"]
+    }
+  },
+  "age_exceptions": {
+    "18_plus_states": ["DC", "MT", "NH", "RI", "WY"],
+    "note": "Most states require 21+, these are exceptions"
+  }
+}

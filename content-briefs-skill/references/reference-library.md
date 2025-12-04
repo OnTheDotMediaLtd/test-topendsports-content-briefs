@@ -35,18 +35,21 @@ Not found:
 | 2 | BetMGM | ✅ Yes | Market variety, MGM Rewards |
 
 ### Tier 2: Research-Driven
-| Brand | Best For |
-|-------|----------|
-| DraftKings | Odds, live betting, props |
-| Caesars | SGPs (12-leg leader) |
-| bet365 | Live streaming, international |
-| ESPN BET | ESPN integration, casual bettors |
-| BetRivers | Tennis, soccer, alt markets |
-| Fanatics | Rewards, merchandise |
+| Brand | Badge Code | Best For |
+|-------|------------|----------|
+| DraftKings | DK | Odds, live betting, props |
+| Caesars | CZR | SGPs (12-leg leader) |
+| bet365 | 365 | Live streaming, international |
+| theScore BET | SCR | theScore app integration, Penn Play rewards |
+| BetRivers | BR | Tennis, soccer, alt markets |
+| Fanatics | FAN | FanCash rewards, merchandise |
 
-### Defunct - DO NOT USE
+> **CRITICAL UPDATE (December 2025):** ESPN BET shut down on December 1, 2025. It is now **theScore BET**. Badge code: SCR, Color: #6B2D5B
+
+### Defunct/Rebranded - DO NOT USE
 - ❌ FOX Bet (shut down)
 - ❌ PointsBet (acquired by Fanatics)
+- ❌ ESPN BET (rebranded to theScore BET - December 2025)
 
 ---
 

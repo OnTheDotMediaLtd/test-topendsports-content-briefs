@@ -2,6 +2,21 @@
 
 **Purpose:** Coordinate multiple specialized agents to generate content briefs efficiently with fresh context per phase.
 
+---
+
+## CRITICAL CONTENT OUTPUT RULES (Team Feedback - December 2024)
+
+> **ALL agents MUST follow these rules:**
+
+1. **NEVER shorten, compress, or skip content** - Output ALL content in full
+2. **Do NOT include max-width CSS** - Site handles maximum content size
+3. **No placeholders** - Deliver complete, working code always
+4. **ESPN BET is now theScore BET** - Rebranded December 1, 2025
+5. **Use Gold Standard Templates** - See `references/gold-standard-templates.md`
+6. **Use Letter Badges** - No image logos (FD, DK, MGM, CZR, 365, FAN, SCR)
+
+---
+
 ## Architecture
 
 ```
@@ -67,6 +82,12 @@ You are executing Phase 1 (Research & Discovery) for the TES betting content bri
 - references/phase1-research.md (YOUR MAIN INSTRUCTIONS)
 - references/reference-library.md (quick lookups)
 - references/lessons-learned.md (mistakes to avoid)
+- references/gold-standard-templates.md (HTML/CSS/JS patterns)
+
+**CRITICAL RULES:**
+- ESPN BET is now theScore BET (rebranded Dec 2025)
+- Use letter badges not images (FD, DK, MGM, CZR, 365, FAN, SCR)
+- NEVER shorten or skip content
 
 Execute Phase 1 now and report back when complete.
 """
@@ -144,6 +165,15 @@ You are executing Phase 3 (Technical Implementation) for the TES betting content
 - references/phase3-technical.md (YOUR MAIN INSTRUCTIONS)
 - references/reference-library.md (quick lookups)
 - references/verification-standards.md (T&Cs standards)
+- references/gold-standard-templates.md (MANDATORY HTML/CSS/JS patterns)
+- assets/data/state-availability.json (state-by-state data)
+
+**CRITICAL RULES:**
+- Use Gold Standard Templates for comparison tables and brand cards
+- ESPN BET is now theScore BET (badge: SCR, color: #6B2D5B)
+- Use letter badges not images
+- No max-width CSS on elements
+- NEVER shorten or skip content - output ALL code complete
 
 Execute Phase 3 now and report back when complete.
 """

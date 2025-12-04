@@ -31,6 +31,17 @@ User provides URL → Phase 1 → Phase 2 → Phase 3 → Complete Brief Package
 - Include compliance sections
 - Output: AI Enhancement Brief (5-8 pages with code)
 
+## CRITICAL CONTENT OUTPUT RULES (From Team Feedback - December 2024)
+
+> **These rules are MANDATORY and must be followed at all times:**
+
+- **NEVER shorten, compress, or skip content.** Output ALL content in full.
+- **Do NOT include max-width CSS on elements** - site handles maximum content size
+- **No placeholders** - deliver complete, working code always
+- **Break into multiple artifacts if needed** - but each must be complete
+- **ESPN BET is now theScore BET** (rebranded December 1, 2025)
+- **Use Gold Standard Templates** (see `references/gold-standard-templates.md`)
+
 ## Quick Start
 
 1. Read the URL from user
@@ -98,6 +109,8 @@ Load these as needed during each phase:
 - **Content Templates**: `references/content-templates.md` - 4 template structures
 - **Verification**: `references/verification-standards.md` - Bonus verification, T&Cs
 - **Lessons**: `references/lessons-learned.md` - Edge cases and anti-patterns
+- **Gold Standard Templates**: `references/gold-standard-templates.md` - HTML/CSS/JS patterns for page uniformity
+- **State Availability**: `assets/data/state-availability.json` - State-by-state sportsbook availability
 
 ## Data Files
 
