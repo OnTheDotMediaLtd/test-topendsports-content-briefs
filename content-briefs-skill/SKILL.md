@@ -111,6 +111,10 @@ Load these as needed during each phase:
 - **Lessons**: `references/lessons-learned.md` - Edge cases and anti-patterns
 - **Gold Standard Templates**: `references/gold-standard-templates.md` - HTML/CSS/JS patterns for page uniformity
 - **State Availability**: `assets/data/state-availability.json` - State-by-state sportsbook availability
+- **HTML Validation**: `references/html-validation-checklist.md` - Pre-output HTML structure validation
+- **Compliance Standards**: `references/compliance-standards.md` - Banned language, accessibility, AI/LLM schema optimization
+- **Ahrefs Workflow**: `references/ahrefs-keyword-workflow.md` - Mandatory keyword research workflow
+- **Calculator UX**: `references/calculator-ux-standards.md` - Interactive element standards (add/remove, validation, mobile)
 
 ## Data Files
 
