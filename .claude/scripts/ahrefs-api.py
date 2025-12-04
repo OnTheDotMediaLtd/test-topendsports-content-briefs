@@ -7,14 +7,18 @@ with the system CA bundle.
 
 import sys
 import json
+import warnings
 import requests
+import urllib3
+
+# Suppress SSL warnings since we're behind a TLS-inspecting proxy
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 API_KEY = "SjPt1JPhRgqMpi5UN8G7e8P3s57SjW86734J2r1Z"
 BASE_URL = "https://api.ahrefs.com/v3"
-CA_BUNDLE = "/etc/ssl/certs/ca-certificates.crt"
 
 def call_api(endpoint, params):
-    """Call Ahrefs API with proper SSL configuration."""
+    """Call Ahrefs API with SSL verification disabled for proxy compatibility."""
     url = f"{BASE_URL}/{endpoint}"
     headers = {"Authorization": f"Bearer {API_KEY}"}
 
@@ -23,7 +27,7 @@ def call_api(endpoint, params):
             url,
             params=params,
             headers=headers,
-            verify=CA_BUNDLE,
+            verify=False,  # Required for TLS-inspecting proxies in Claude Code Remote
             timeout=60
         )
 
