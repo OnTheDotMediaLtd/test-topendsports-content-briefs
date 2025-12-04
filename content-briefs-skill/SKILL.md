@@ -97,6 +97,21 @@ Not found? → Lewis (high priority) or Tom (supporting)
 | `how-to-[action].htm` | Template 3 (How-To) | 1,500-2,500 | Brief only |
 | `legal-states/[state].htm` | Template 4 (State) | 2,000-2,800 | Complete (state ops) |
 
+## Document Priority Hierarchy
+
+When guidance overlaps, follow this precedence (highest to lowest):
+
+| Priority | Document | Authority |
+|----------|----------|-----------|
+| 1 | **SKILL.md Critical Rules** (this file, lines 34-44) | ABSOLUTE - Never override |
+| 2 | **gold-standard-templates.md** | HTML/CSS/JS patterns - Use exactly |
+| 3 | **compliance-standards.md** | Legal requirements - Mandatory |
+| 4 | **Phase-specific docs** (phase1/2/3-*.md) | Workflow instructions |
+| 5 | **Validation checklists** | Pre-output verification |
+| 6 | **Other reference docs** | Supporting information |
+
+> **Rule:** If a newer document contradicts a higher-priority document, the higher-priority document wins. Higher-priority standards are more professionally vetted.
+
 ## Reference Files
 
 Load these as needed during each phase:
