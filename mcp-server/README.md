@@ -170,7 +170,7 @@ The server also exposes the following resources:
 
 ### Brand Tiers
 - **Tier 1**: FanDuel, BetMGM, DraftKings, Caesars, bet365
-- **Tier 2**: Fanatics, ESPN BET, BetRivers, Bally Bet, BetParx
+- **Tier 2**: Fanatics, theScore BET, BetRivers, Bally Bet, BetParx
 - **Tier 3**: Golden Nugget, Unibet, Borgata, Betfred, WynnBet, SI Sportsbook
 
 ### Compliance Rules
