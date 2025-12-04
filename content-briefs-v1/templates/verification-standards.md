@@ -14,7 +14,7 @@ Protocols for bonus verification, source hierarchy, and T&Cs.
 - DraftKings: `sportsbook.draftkings.com/promos`
 - BetMGM: `sports.betmgm.com/promotions`
 - Caesars: `caesars.com/sportsbook-and-casino/promotions`
-- ESPN BET: `espnbet.com/promotions`
+- theScore BET: `thescore.bet/promotions` (formerly ESPN BET - rebranded Dec 2025)
 
 ### 5-Step Process
 
