@@ -2,6 +2,22 @@
 
 This guide explains how to use the MCP (Model Context Protocol) tools in this project.
 
+> **Note**: This project is configured and ready to use. MCP tools should work automatically when you open the project in Claude Code.
+
+---
+
+## Quick Verification
+
+Run these tests to confirm everything is working:
+
+```bash
+# Test TopEndSports MCP (should return brand tiers)
+# Ask Claude: "get brand rules tiers"
+
+# Test Ahrefs API (should return domain rating)
+python3 .claude/scripts/ahrefs-api.py site-explorer/domain-rating '{"target":"topendsports.com","date":"2025-12-01"}'
+```
+
 ---
 
 ## Quick Status Check
@@ -140,14 +156,20 @@ Automatically installs dependencies when running in Claude Code Remote (web):
 
 ### Ahrefs API Returns 403
 
-The Ahrefs API requires a valid API key with appropriate permissions:
+**If you're in Claude Code Remote (web)**, the 403 is likely a proxy/SSL issue, not your API key. Use the Python wrapper instead:
+
+```bash
+python3 .claude/scripts/ahrefs-api.py site-explorer/domain-rating '{"target":"example.com","date":"2025-12-01"}'
+```
+
+**If the Python wrapper also fails**, check your API key:
 
 1. Log into your Ahrefs account
 2. Go to API settings
-3. Generate a new API key (not MCP key)
+3. Generate a new **API key** (not MCP key)
 4. Update `.mcp.json` with the new key
 
-**Note:** The API key must have access to the specific endpoints you're using. Different Ahrefs plans have different API access levels.
+**Technical details:** See `AHREFS_MCP_PROXY_FIX.md` for the full root cause analysis.
 
 ### TopEndSports MCP Not Working
 
