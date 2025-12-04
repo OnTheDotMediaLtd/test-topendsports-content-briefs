@@ -1,4 +1,7 @@
 {
+  "env": {
+    "ENABLE_MCP_CLI": "true"
+  },
   "hooks": {
     "SessionStart": [
       {
