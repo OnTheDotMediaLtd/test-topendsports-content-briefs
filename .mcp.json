@@ -2,14 +2,11 @@
   "mcpServers": {
     "topendsports-briefs": {
       "command": "node",
-      "args": ["/home/user/topendsports-content-briefs/mcp-server/dist/index.js"]
+      "args": ["./mcp-server/dist/index.js"]
     },
     "ahrefs": {
       "command": "npx",
-      "args": [
-        "--prefix=/root/.global-node-modules",
-        "@ahrefs/mcp"
-      ],
+      "args": ["@ahrefs/mcp"],
       "env": {
         "API_KEY": "SjPt1JPhRgqMpi5UN8G7e8P3s57SjW86734J2r1Z"
       }
