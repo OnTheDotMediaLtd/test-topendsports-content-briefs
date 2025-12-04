@@ -210,8 +210,45 @@ See `.claude/scripts/mcp-functions.sh` for helper functions.
 | SessionStart Hook | Skipped | Runs automatically |
 | Dependencies | Pre-installed | Installed on session start |
 | Performance | Faster | Initial delay for install |
+| **Ahrefs Native MCP** | **Works** | **Broken (use Python wrapper)** |
+| TopEndSports MCP | Works | Works |
 
 The SessionStart hook only runs in web environments (detected via `CLAUDE_CODE_REMOTE=true`).
+
+### Important: Ahrefs in Web Environment
+
+The native Ahrefs MCP tools (`mcp__ahrefs__*`) **do not work** in Claude Code Remote (web) due to a TLS proxy issue with the axios library. You will see 403 errors.
+
+**Use the Python wrapper instead:**
+```bash
+python3 .claude/scripts/ahrefs-api.py site-explorer/organic-keywords '{"target":"example.com","date":"2025-12-01","country":"us","select":"keyword,volume,best_position"}'
+```
+
+Common endpoints:
+- `site-explorer/domain-rating` - Domain authority
+- `site-explorer/organic-keywords` - Keywords a site ranks for
+- `site-explorer/metrics` - Traffic metrics
+- `keywords-explorer/overview` - Keyword research
+
+See `AHREFS_API_QUICK_REFERENCE.md` for full endpoint list.
+
+---
+
+## Desktop Setup (Prerequisites)
+
+To use Claude Code Desktop with this project, you need:
+
+1. **Node.js** (v18 or higher) - [Download](https://nodejs.org/)
+2. **Git** - [Download](https://git-scm.com/)
+3. **Python 3** (optional, for document conversion)
+
+After installing Node.js:
+```bash
+cd topendsports-content-briefs
+cd mcp-server && npm install && cd ..
+```
+
+On desktop, native Ahrefs MCP tools (`mcp__ahrefs__*`) work directly - no Python wrapper needed.
 
 ---
 
