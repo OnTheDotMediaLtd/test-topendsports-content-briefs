@@ -17,6 +17,36 @@ You are about to generate a content brief. **You MUST follow EVERY step below.**
 
 ---
 
+## MULTI-AGENT EXECUTION (RECOMMENDED)
+
+Use the Task tool to spawn separate agents for each phase. This ensures fresh context and prevents shortcuts.
+
+```
+ORCHESTRATOR (you)
+    │
+    ├──► Task: "Phase 1 Research for [page-name]"
+    │    subagent_type: "general-purpose"
+    │    prompt: [Include Phase 1 instructions below + page URL]
+    │    → WAIT for completion
+    │    → VALIDATE: bash scripts/validate-phase.sh 1 [page-name]
+    │
+    ├──► Task: "Phase 2 Writer Brief for [page-name]"
+    │    subagent_type: "general-purpose"
+    │    prompt: [Include Phase 2 instructions + "Read active/[page]-phase1.json first"]
+    │    → WAIT for completion
+    │    → VALIDATE: bash scripts/validate-phase.sh 2 [page-name]
+    │
+    └──► Task: "Phase 3 Technical for [page-name]"
+         subagent_type: "general-purpose"
+         prompt: [Include Phase 3 instructions + "Read both phase1.json and phase2.json first"]
+         → WAIT for completion
+         → VALIDATE: bash scripts/validate-phase.sh 3 [page-name]
+```
+
+**CRITICAL:** Each agent MUST read and follow the phase instructions below. Copy the relevant phase section into each agent's prompt.
+
+---
+
 ## PHASE 0: PRE-FLIGHT (DO THIS FIRST)
 
 ### Step 0.1: Extract Page Name
