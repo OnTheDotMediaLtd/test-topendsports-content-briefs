@@ -78,35 +78,56 @@ python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview \
 
 ---
 
-## 📁 REQUIRED OUTPUT FILES (6 Total)
+## 📁 OUTPUT FILES
 
-For any brief (e.g., `best-sports-betting-apps`):
+### 3 Main Deliverables (in `output/`)
+| File | Phase | Description |
+|------|-------|-------------|
+| `[page]-brief-control-sheet.md` | Phase 1 | Research findings, keyword cluster, brand selection |
+| `[page]-writer-brief.md` | Phase 2 | Content outline, H2/H3 optimization, FAQs |
+| `[page]-ai-enhancement.md` | Phase 3 | Complete HTML/CSS/JS code, schema markup |
 
-```
-content-briefs-skill/
-├── active/
-│   ├── best-sports-betting-apps-phase1.json  ← Phase 1 data
-│   └── best-sports-betting-apps-phase2.json  ← Phase 2 data
-└── output/
-    ├── best-sports-betting-apps-brief-control-sheet.md   ← Phase 1 output
-    ├── best-sports-betting-apps-brief-control-sheet.docx
-    ├── best-sports-betting-apps-writer-brief.md          ← Phase 2 output
-    ├── best-sports-betting-apps-writer-brief.docx
-    ├── best-sports-betting-apps-ai-enhancement.md        ← Phase 3 output
-    └── best-sports-betting-apps-ai-enhancement.docx
-```
+### 2 Intermediate Files (in `active/`)
+| File | Purpose |
+|------|---------|
+| `[page]-phase1.json` | Structured data passed to Phase 2 |
+| `[page]-phase2.json` | Structured data passed to Phase 3 |
+
+These JSON files are working files for data exchange between phases.
+
+### Optional: DOCX Conversion
+Run `mcp__topendsports-briefs__convert_to_docx` to create Word versions for writers.
 
 ---
 
 ## 📚 REFERENCE DOCUMENTS
 
-Before generating any brief, read:
+### MUST Read Before Starting
+| Document | Path | Purpose |
+|----------|------|---------|
+| **Orchestrator** | `content-briefs-skill/ORCHESTRATOR.md` | Multi-agent workflow |
+| **Ahrefs Workflow** | `content-briefs-skill/references/ahrefs-keyword-workflow.md` | **CRITICAL** - Keyword research steps |
+| **Guardrails** | `content-briefs-skill/GUARDRAILS.md` | Anti-patterns to avoid |
 
-1. **Orchestration:** `content-briefs-skill/ORCHESTRATOR.md`
-2. **Guardrails:** `content-briefs-skill/GUARDRAILS.md`
-3. **Phase 1:** `content-briefs-skill/references/phase1-research.md`
-4. **Phase 2:** `content-briefs-skill/references/phase2-writer.md`
-5. **Phase 3:** `content-briefs-skill/references/phase3-technical.md`
+### Phase-Specific Instructions
+| Phase | Document |
+|-------|----------|
+| Phase 1 | `references/phase1-research.md` |
+| Phase 2 | `references/phase2-writer.md` |
+| Phase 3 | `references/phase3-technical.md` |
+
+### Supporting References (consult as needed)
+| Document | Purpose |
+|----------|---------|
+| `gold-standard-templates.md` | HTML/CSS/JS patterns for tables, cards |
+| `reference-library.md` | Quick lookups (bonuses, states, contacts) |
+| `lessons-learned.md` | Past mistakes to avoid |
+| `content-templates.md` | Outline structures by template type |
+| `verification-standards.md` | T&Cs verification requirements |
+| `quality-checklist.md` | Pre-delivery quality checks |
+| `html-validation-checklist.md` | HTML validation rules |
+| `compliance-standards.md` | Legal/gambling compliance |
+| `calculator-ux-standards.md` | Interactive calculator patterns |
 
 ---
 

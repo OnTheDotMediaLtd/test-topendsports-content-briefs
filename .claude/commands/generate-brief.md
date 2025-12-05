@@ -7,9 +7,10 @@ Generate a complete 3-phase content brief for: $ARGUMENTS
 You MUST execute ALL 3 phases in order. Skipping any phase makes the brief INCOMPLETE.
 
 ### Pre-Flight Checklist
-- [ ] Read `content-briefs-skill/ORCHESTRATOR.md`
+- [ ] Read `content-briefs-skill/ORCHESTRATOR.md` (multi-agent workflow)
+- [ ] Read `content-briefs-skill/references/ahrefs-keyword-workflow.md` (CRITICAL - keyword research)
 - [ ] Lookup URL in site structure (use MCP tool: `mcp__topendsports-briefs__get_page_info`)
-- [ ] Test Ahrefs connectivity
+- [ ] Test Ahrefs connectivity (MCP or Python fallback)
 
 ### Phase 1: Research & Discovery
 **Reference:** `content-briefs-skill/references/phase1-research.md`
@@ -58,18 +59,25 @@ Convert all 3 markdown files to Word documents.
 
 ## VERIFICATION
 
-Before finishing, confirm ALL 6 files exist:
-1. `[page-name]-phase1.json`
-2. `[page-name]-phase2.json`
-3. `[page-name]-brief-control-sheet.md` + `.docx`
-4. `[page-name]-writer-brief.md` + `.docx`
-5. `[page-name]-ai-enhancement.md` + `.docx`
+Before finishing, confirm these files exist:
+
+### 3 Main Deliverables (REQUIRED)
+1. `output/[page-name]-brief-control-sheet.md` - Phase 1 output
+2. `output/[page-name]-writer-brief.md` - Phase 2 output
+3. `output/[page-name]-ai-enhancement.md` - Phase 3 output
+
+### 2 Intermediate Files (in active/)
+4. `active/[page-name]-phase1.json` - Data for Phase 2
+5. `active/[page-name]-phase2.json` - Data for Phase 3
+
+### Optional DOCX (run converter)
+- `.docx` versions of the 3 markdown files for writers
 
 ## ANTI-PATTERNS (NEVER DO)
 
 - ❌ Skip Phase 1 and go straight to writer brief
 - ❌ Use estimated/guessed keyword data instead of Ahrefs
-- ❌ Create only 1 file instead of 6
+- ❌ Create only 1 deliverable instead of 3
 - ❌ Skip Phase 3 AI Enhancement
 - ❌ Give up when Ahrefs MCP returns 403 (use Python fallback!)
 

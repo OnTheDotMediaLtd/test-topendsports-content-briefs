@@ -53,7 +53,7 @@ echo "╠═══════════════════════�
 echo "║  When generating briefs, you MUST:                               ║"
 echo "║    1. Execute ALL 3 PHASES (Research → Writer → AI Enhancement)  ║"
 echo "║    2. Use REAL Ahrefs data (MCP or Python fallback)              ║"
-echo "║    3. Create ALL 6 output files (JSON + MD + DOCX)               ║"
+echo "║    3. Create ALL 3 deliverables (control sheet, writer, AI)      ║"
 echo "║    4. NEVER skip keyword research or use estimated data          ║"
 echo "║                                                                  ║"
 echo "║  If Ahrefs MCP fails with 403:                                   ║"
