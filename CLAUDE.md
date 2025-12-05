@@ -186,3 +186,66 @@ When user says "generate brief for [URL]":
 6. **Verify** all 6 files exist
 
 **INCOMPLETE = Any phase skipped or any file missing**
+
+---
+
+## 🔒 VALIDATION GATES
+
+**Run after each phase:**
+```bash
+bash content-briefs-skill/scripts/validate-phase.sh [phase] [page-name]
+```
+
+**DO NOT proceed to next phase until validation PASSES.**
+
+---
+
+## 📋 MINIMUM REQUIREMENTS
+
+### Phase 1 Minimums
+- [ ] Primary keyword with REAL volume from Ahrefs
+- [ ] 8+ secondary keywords with REAL volume
+- [ ] 3 competitor analyses (actionnetwork, covers, thelines)
+- [ ] 5-7 brands with rationale
+- [ ] Content gaps identified
+
+### Phase 2 Minimums
+- [ ] Every secondary keyword mapped to H2/H3/FAQ
+- [ ] 7+ FAQs targeting keywords
+- [ ] Source requirements (TIER 1: App Store, Reddit)
+- [ ] Word count targets per section
+- [ ] 12 internal links
+
+### Phase 3 Minimums
+- [ ] Complete meta tags (title, description, keywords)
+- [ ] Last Updated badge HTML
+- [ ] Comparison table with ALL brands
+- [ ] T&Cs for ALL brands (not just top 3)
+- [ ] Schema markup (Article + FAQ + Breadcrumb)
+- [ ] Interactive element with working code
+- [ ] Compliance sections (disclosure + responsible gambling)
+- [ ] **ZERO placeholders** (no "...", no "[Insert]")
+
+---
+
+## 💀 FAILURE CONDITIONS
+
+You have **FAILED** the task if ANY of these are true:
+
+1. Created fewer than 3 deliverable files
+2. Skipped Ahrefs research (MCP error is NOT an excuse - use Python)
+3. Used estimated/guessed keyword volumes instead of real data
+4. Fewer than 8 secondary keywords
+5. Fewer than 7 FAQs
+6. AI Enhancement contains "..." or "[Insert]" placeholders
+7. Missing T&Cs for some brands
+8. Missing schema markup
+9. Skipped any validation step
+
+---
+
+## 🏁 USE THE SLASH COMMAND
+
+For brief generation, use: `/generate-brief [URL]`
+
+This command contains ALL steps embedded directly - follow it exactly.
