@@ -1,0 +1,1165 @@
+{
+  "page_name": "best-sports-betting-apps",
+  "phase": 2,
+  "writer": "Lewis Humphries",
+  "template": 2,
+  "template_name": "Comparison",
+  "word_count_target": 3500,
+  "priority": "Critical",
+  "brief_date": "2025-12-05",
+
+  "page_metadata": {
+    "url": "https://www.topendsports.com/sport/betting/best-apps.htm",
+    "h1": "Best Sports Betting Apps: Top Mobile Sportsbooks Ranked",
+    "h1_note": "NO dated language - use Last Updated badge after H1",
+    "meta_title": "Best Sports Betting Apps: Top 7 Mobile Sportsbooks Ranked",
+    "meta_description": "Compare the best sports betting apps including FanDuel (4.9/5 rating), BetMGM, and DraftKings. App Store ratings, download guides, and exclusive bonuses for iOS and Android.",
+    "primary_keyword": "sports betting apps",
+    "total_search_volume": 100100
+  },
+
+  "keyword_strategy": {
+    "primary_keyword": {
+      "keyword": "sports betting apps",
+      "volume": 20000,
+      "difficulty": 83,
+      "placement": "H1, intro (3-4 mentions), naturally throughout"
+    },
+    "secondary_keywords_mapped": [
+      {
+        "keyword": "betting apps",
+        "volume": 21000,
+        "difficulty": 87,
+        "placement": "H2: What Are Sports Betting Apps?",
+        "priority": "HIGH",
+        "target_density": "8-10 mentions"
+      },
+      {
+        "keyword": "best sports betting apps",
+        "volume": 2000,
+        "difficulty": 81,
+        "placement": "H2: Top Sports Betting Apps Ranked",
+        "priority": "HIGH",
+        "target_density": "5-6 mentions"
+      },
+      {
+        "keyword": "top sports betting apps",
+        "volume": 2100,
+        "difficulty": 77,
+        "placement": "Natural mention in intro and rankings section",
+        "priority": "MEDIUM",
+        "target_density": "3-4 mentions"
+      },
+      {
+        "keyword": "fanduel app",
+        "volume": 6300,
+        "difficulty": 73,
+        "placement": "H3: FanDuel Sportsbook App Review",
+        "priority": "HIGH",
+        "target_density": "6-8 mentions in FanDuel section"
+      },
+      {
+        "keyword": "draftkings app",
+        "volume": 5300,
+        "difficulty": 75,
+        "placement": "H3: DraftKings Sportsbook App Review",
+        "priority": "HIGH",
+        "target_density": "6-8 mentions in DraftKings section"
+      },
+      {
+        "keyword": "betmgm app",
+        "volume": 2500,
+        "difficulty": 83,
+        "placement": "H3: BetMGM Sportsbook App Review",
+        "priority": "HIGH",
+        "target_density": "5-6 mentions in BetMGM section"
+      },
+      {
+        "keyword": "bet365 app",
+        "volume": 59000,
+        "difficulty": 85,
+        "placement": "H3: bet365 Sportsbook App Review",
+        "priority": "CRITICAL",
+        "note": "MASSIVE volume - 59K/mo. Feature prominently.",
+        "target_density": "6-8 mentions in bet365 section"
+      },
+      {
+        "keyword": "caesars app",
+        "volume": 600,
+        "difficulty": 53,
+        "placement": "H3: Caesars Sportsbook App Review",
+        "priority": "MEDIUM",
+        "target_density": "4-5 mentions in Caesars section"
+      },
+      {
+        "keyword": "mobile sports betting",
+        "volume": 600,
+        "difficulty": 88,
+        "placement": "H2: Mobile Sports Betting Features",
+        "priority": "MEDIUM",
+        "target_density": "5-6 mentions"
+      },
+      {
+        "keyword": "sportsbook apps",
+        "volume": 600,
+        "difficulty": 82,
+        "placement": "Natural mentions throughout (synonym variation)",
+        "priority": "MEDIUM",
+        "target_density": "4-5 mentions"
+      },
+      {
+        "keyword": "online sports betting apps",
+        "volume": 250,
+        "difficulty": 83,
+        "placement": "H3: Online Sports Betting Apps vs Retail",
+        "priority": "LOW",
+        "target_density": "2-3 mentions"
+      },
+      {
+        "keyword": "legal sports betting apps",
+        "volume": 200,
+        "difficulty": 84,
+        "placement": "H2: Legal Sports Betting Apps by State",
+        "priority": "MEDIUM",
+        "target_density": "4-5 mentions"
+      },
+      {
+        "keyword": "best app for sports betting",
+        "volume": 200,
+        "difficulty": 71,
+        "placement": "Natural mention in rankings and winner summaries",
+        "priority": "LOW",
+        "target_density": "2-3 mentions"
+      },
+      {
+        "keyword": "sports betting apps android",
+        "volume": 150,
+        "difficulty": 80,
+        "placement": "H3: Best Android Betting Apps",
+        "priority": "MEDIUM",
+        "target_density": "4-5 mentions"
+      },
+      {
+        "keyword": "what is the best sports betting app",
+        "volume": 900,
+        "difficulty": 77,
+        "placement": "FAQ #1",
+        "priority": "HIGH",
+        "note": "Question format - perfect for FAQ"
+      },
+      {
+        "keyword": "sports betting apps real money",
+        "volume": 200,
+        "difficulty": 85,
+        "placement": "FAQ #2",
+        "priority": "MEDIUM",
+        "note": "Address real money vs free play"
+      },
+      {
+        "keyword": "free sports betting apps",
+        "volume": 100,
+        "difficulty": 79,
+        "placement": "FAQ #3",
+        "priority": "LOW",
+        "note": "Clarify free download vs free play"
+      }
+    ]
+  },
+
+  "meta_keywords": "sports betting apps, best sports betting apps, betting apps, top sports betting apps, fanduel app, draftkings app, betmgm app, bet365 app, caesars app, mobile sports betting, sportsbook apps, legal sports betting apps, sports betting apps real money, free sports betting apps, sports betting apps android, ios sports betting apps",
+
+  "outline": [
+    {
+      "level": "H1",
+      "title": "Best Sports Betting Apps: Top Mobile Sportsbooks Ranked",
+      "note": "NO dated language in H1 (no '2025')"
+    },
+    {
+      "level": "BADGE",
+      "title": "Last Updated: [Current Date]",
+      "note": "Display immediately after H1"
+    },
+    {
+      "level": "SECTION",
+      "title": "Introduction",
+      "word_count": 150,
+      "structure": "Opening (40-50w) + Affiliate Disclosure (50-75w)",
+      "requirements": [
+        "Direct answer first sentence naming FanDuel, BetMGM, DraftKings",
+        "Mention 4.9/5 App Store rating for FanDuel",
+        "Authority statement about testing",
+        "Standard affiliate disclosure",
+        "MAXIMUM 150 words total"
+      ],
+      "forbidden": [
+        "Welcome to...",
+        "Looking for...",
+        "Rhetorical questions",
+        "Over 150 words"
+      ]
+    },
+    {
+      "level": "TABLE",
+      "title": "Interactive Comparison Table",
+      "criteria": [
+        "App Store Rating",
+        "Google Play Rating",
+        "Best For (USP)",
+        "Welcome Bonus",
+        "Key Features",
+        "Payout Speed",
+        "Download Size",
+        "States Available",
+        "CTA Button"
+      ],
+      "requirements": [
+        "Sortable by any column",
+        "Filterable by criteria",
+        "Mobile-responsive",
+        "Links to full reviews"
+      ]
+    },
+    {
+      "level": "SECTION",
+      "title": "Quick Answer Box",
+      "word_count": 100,
+      "content": "Summary of top 3 apps with key differentiators"
+    },
+    {
+      "level": "H2",
+      "title": "Top Sports Betting Apps Ranked",
+      "keyword": "best sports betting apps (2,000/mo)",
+      "word_count": 700,
+      "subsections": [
+        {
+          "level": "H3",
+          "title": "FanDuel - Best Overall Sports Betting App",
+          "word_count": 100,
+          "key_points": [
+            "4.9/5 App Store rating (1.7M+ reviews)",
+            "Cleanest interface",
+            "Best SGP builder",
+            "40+ player props per game"
+          ]
+        },
+        {
+          "level": "H3",
+          "title": "BetMGM - Best for Fast Payouts",
+          "word_count": 100,
+          "key_points": [
+            "2-hour withdrawals",
+            "Edit My Bet feature",
+            "MGM Rewards integration",
+            "Most props in industry"
+          ]
+        },
+        {
+          "level": "H3",
+          "title": "DraftKings - Best for Props & Features",
+          "word_count": 100,
+          "key_points": [
+            "Flash Betting",
+            "29.9% best underdog prices",
+            "Deep markets",
+            "Crown Rewards"
+          ]
+        },
+        {
+          "level": "H3",
+          "title": "bet365 - Best for Live Betting",
+          "word_count": 100,
+          "key_points": [
+            "Sharpest lines",
+            "Live streaming",
+            "40+ props per game",
+            "International reputation"
+          ],
+          "note": "bet365 app = 59K/mo search volume - HUGE opportunity"
+        },
+        {
+          "level": "H3",
+          "title": "Caesars - Best for Odds Boosts",
+          "word_count": 100,
+          "key_points": [
+            "Daily odds boosts",
+            "Live streaming",
+            "Best spread prices",
+            "VIP rewards"
+          ]
+        },
+        {
+          "level": "H3",
+          "title": "Fanatics - Best for Merchandise Rewards",
+          "word_count": 100,
+          "key_points": [
+            "10% FanCash back",
+            "Earn merchandise",
+            "Fair Play Protection",
+            "Strong performance"
+          ]
+        },
+        {
+          "level": "H3",
+          "title": "theScore BET - Best for Media Integration",
+          "word_count": 100,
+          "key_points": [
+            "Scores + betting in one app",
+            "Penn Play rewards",
+            "Beginner-friendly",
+            "Media content integration"
+          ],
+          "note": "CRITICAL: Mention rebranded from ESPN BET (Dec 2025)"
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "FanDuel Sportsbook App Review",
+      "keyword": "fanduel app (6,300/mo)",
+      "word_count": 500,
+      "requirements": [
+        "MUST cite 4.9/5 App Store rating from 1.7M+ reviews",
+        "MUST cite Google Play rating (4.6/5)",
+        "Mobile-specific features emphasized",
+        "Link to FanDuel full review"
+      ],
+      "key_sections": [
+        "App Store ratings proof",
+        "Interface and navigation",
+        "SGP builder functionality",
+        "Live betting performance",
+        "Security features (FaceID/TouchID)",
+        "Payout speed",
+        "Download requirements"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "BetMGM Sportsbook App Review",
+      "keyword": "betmgm app (2,500/mo)",
+      "word_count": 450,
+      "requirements": [
+        "Emphasize 2-hour payout speed",
+        "Edit My Bet mobile feature",
+        "MGM Rewards integration",
+        "Link to BetMGM full review"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "DraftKings Sportsbook App Review",
+      "keyword": "draftkings app (5,300/mo)",
+      "word_count": 400,
+      "requirements": [
+        "Flash Betting feature highlighted",
+        "29.9% best underdog prices",
+        "Props organization",
+        "DFS integration",
+        "Link to DraftKings full review"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "bet365 Sportsbook App Review",
+      "keyword": "bet365 app (59,000/mo)",
+      "word_count": 400,
+      "requirements": [
+        "MASSIVE keyword volume - feature prominently",
+        "Live betting and streaming focus",
+        "Sharp lines reputation",
+        "International credibility",
+        "Link to bet365 full review"
+      ],
+      "note": "59K monthly searches - highest volume brand keyword"
+    },
+    {
+      "level": "H2",
+      "title": "Caesars Sportsbook App Review",
+      "keyword": "caesars app (600/mo)",
+      "word_count": 350,
+      "requirements": [
+        "Odds boosts emphasis",
+        "Live streaming capability",
+        "VIP rewards program",
+        "Link to Caesars full review"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Fanatics Sportsbook App Review",
+      "word_count": 300,
+      "requirements": [
+        "FanCash rewards system",
+        "Merchandise integration",
+        "Fair Play Protection",
+        "Link to Fanatics full review"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "theScore BET App Review",
+      "word_count": 300,
+      "requirements": [
+        "MUST mention rebrand from ESPN BET (December 2025)",
+        "Media integration with theScore",
+        "Penn Play rewards",
+        "Beginner-friendly focus",
+        "Link to ESPN BET review (legacy URL)"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "What Are Sports Betting Apps?",
+      "keyword": "betting apps (21,000/mo)",
+      "word_count": 300,
+      "content": [
+        "Definition and functionality",
+        "Mobile vs desktop advantages",
+        "Real money vs free play",
+        "Licensing and regulation",
+        "How they work technically"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Mobile Sports Betting Features",
+      "keyword": "mobile sports betting (600/mo)",
+      "word_count": 450,
+      "subsections": [
+        {
+          "level": "H3",
+          "title": "User Interface Comparison",
+          "content": "FanDuel cleanest, DraftKings feature-rich, etc."
+        },
+        {
+          "level": "H3",
+          "title": "Speed & Performance",
+          "content": "Load times, responsiveness, stability"
+        },
+        {
+          "level": "H3",
+          "title": "Unique Mobile Features",
+          "content": "Flash Betting, Edit My Bet, streaming, etc."
+        },
+        {
+          "level": "H3",
+          "title": "Security Features",
+          "content": "FaceID, TouchID, 2FA, encryption"
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "How to Download Sports Betting Apps",
+      "keyword": "sports betting app download (1,500/mo)",
+      "word_count": 400,
+      "subsections": [
+        {
+          "level": "H3",
+          "title": "Best iOS Sports Betting Apps",
+          "keyword": "ios sports betting apps (1,200/mo)",
+          "word_count": 200,
+          "content": [
+            "Step-by-step App Store download",
+            "iOS requirements (14.0+)",
+            "Device compatibility",
+            "Storage requirements",
+            "Location services setup"
+          ]
+        },
+        {
+          "level": "H3",
+          "title": "Best Android Betting Apps",
+          "keyword": "sports betting apps android (150/mo)",
+          "word_count": 200,
+          "content": [
+            "Google Play Store process",
+            "APK download option",
+            "Android requirements (6.0+)",
+            "Permission settings",
+            "Storage needs"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Legal Sports Betting Apps by State",
+      "keyword": "legal sports betting apps (200/mo)",
+      "word_count": 350,
+      "content": [
+        "States where all 7 apps available",
+        "Limited availability states",
+        "Age requirements by state",
+        "Licensing information",
+        "Links to state-specific pages"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Sports Betting App Bonuses",
+      "keyword": "betting apps with bonuses (900/mo)",
+      "word_count": 400,
+      "content": [
+        "Current welcome offers for all 7 apps",
+        "Mobile-exclusive bonuses",
+        "Promo code requirements",
+        "Push notification promos",
+        "Link to best bonuses page"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Complete Bonus Terms & Conditions",
+      "word_count": 600,
+      "note": "Template 2 requires complete T&Cs for ALL 7 apps",
+      "content": [
+        "FanDuel complete terms",
+        "BetMGM complete terms",
+        "DraftKings complete terms",
+        "Caesars complete terms",
+        "bet365 complete terms",
+        "Fanatics complete terms",
+        "theScore BET complete terms"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "How We Test & Rank Sports Betting Apps",
+      "word_count": 450,
+      "methodology": [
+        {
+          "criteria": "App Store Ratings",
+          "weight": "25%",
+          "description": "Official ratings and user reviews"
+        },
+        {
+          "criteria": "Mobile User Experience",
+          "weight": "25%",
+          "description": "Interface design and navigation"
+        },
+        {
+          "criteria": "Mobile Features",
+          "weight": "20%",
+          "description": "Live betting, SGP builders, streaming"
+        },
+        {
+          "criteria": "Payout Speed",
+          "weight": "15%",
+          "description": "Mobile withdrawal processing"
+        },
+        {
+          "criteria": "Security & Reliability",
+          "weight": "10%",
+          "description": "Biometric login, app stability"
+        },
+        {
+          "criteria": "Customer Support",
+          "weight": "5%",
+          "description": "In-app chat and help"
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Frequently Asked Questions",
+      "note": "8-10 FAQs with schema markup",
+      "schema": "FAQPage"
+    },
+    {
+      "level": "H2",
+      "title": "Responsible Gambling",
+      "word_count": 200,
+      "requirements": [
+        "21+ age requirement (18+ in MT, NH, RI, WY, DC)",
+        "1-800-522-4700 hotline",
+        "Support resources links",
+        "Responsible gambling tools",
+        "Signs of problem gambling"
+      ]
+    }
+  ],
+
+  "faqs": [
+    {
+      "question": "What is the best sports betting app?",
+      "keyword": "what is the best sports betting app (900/mo)",
+      "priority": "HIGH",
+      "word_count": 100,
+      "answer_structure": "FanDuel is the best overall (4.9/5 rating) for ease of use. DraftKings best for features. BetMGM best for payouts. Recommend line shopping across multiple apps.",
+      "schema": true
+    },
+    {
+      "question": "Do sports betting apps pay real money?",
+      "keyword": "sports betting apps real money (200/mo)",
+      "priority": "MEDIUM",
+      "word_count": 80,
+      "answer_structure": "Yes, all 7 featured apps pay real money. Require identity verification, licensed by state gaming commissions, connected to bank accounts.",
+      "schema": true
+    },
+    {
+      "question": "Are sports betting apps free to download?",
+      "keyword": "free sports betting apps (100/mo)",
+      "priority": "MEDIUM",
+      "word_count": 80,
+      "answer_structure": "Yes, free to download from App Store/Google Play. No subscription fees. Must deposit real money to place bets. Clarify free download vs free play apps.",
+      "schema": true
+    },
+    {
+      "question": "Which app is better: FanDuel or DraftKings?",
+      "keyword": "fanduel vs draftkings app (600/mo)",
+      "priority": "HIGH",
+      "word_count": 100,
+      "answer_structure": "FanDuel has higher rating (4.9 vs 4.8), cleaner interface. DraftKings offers more features (Flash Betting, deeper markets). Both excellent - download both for line shopping.",
+      "schema": true
+    },
+    {
+      "question": "What are the safest sports betting apps?",
+      "keyword": "safest betting apps (500/mo)",
+      "priority": "MEDIUM",
+      "word_count": 90,
+      "answer_structure": "All 7 featured apps are licensed by state gaming commissions, use bank-level encryption, offer biometric login. Only download from official App Store or Google Play.",
+      "schema": true
+    },
+    {
+      "question": "How do I download sports betting apps?",
+      "keyword": "sports betting app download (1,500/mo)",
+      "priority": "HIGH",
+      "word_count": 90,
+      "answer_structure": "iOS: Open App Store, search sportsbook name, verify official app, download. Android: Use Google Play Store or sportsbook website. Enable location services.",
+      "schema": true
+    },
+    {
+      "question": "Which sports betting app has the fastest payouts?",
+      "keyword": "fastest betting apps (800/mo)",
+      "priority": "MEDIUM",
+      "word_count": 80,
+      "answer_structure": "BetMGM fastest at 2 hours (PayPal/Play+). Caesars 24-48 hours. FanDuel/DraftKings 48-72 hours. Use PayPal or Play+ for fastest results.",
+      "schema": true
+    },
+    {
+      "question": "What is the best sports betting app for beginners?",
+      "keyword": "best sports betting app (implied beginner search)",
+      "priority": "MEDIUM",
+      "word_count": 80,
+      "answer_structure": "FanDuel best for beginners (4.9/5 rating, intuitive interface). theScore BET also excellent for casual bettors with media integration and beginner-friendly design.",
+      "schema": true
+    },
+    {
+      "question": "Can I use multiple sports betting apps?",
+      "keyword": "line shopping (implied)",
+      "priority": "LOW",
+      "word_count": 80,
+      "answer_structure": "Yes, recommended. Most serious bettors use 3-5 apps for line shopping. Each offers different odds, bonuses, features. Can claim welcome bonuses at each. No subscription fees.",
+      "schema": true
+    },
+    {
+      "question": "Are sports betting apps legal?",
+      "keyword": "legal betting apps (2,000/mo)",
+      "priority": "HIGH",
+      "word_count": 90,
+      "answer_structure": "Legal in 30+ states plus DC. Major states: NY, NJ, PA, IL, MI, CO, AZ, VA, OH, MA. All featured apps licensed and regulated. Illegal in CA, TX, FL, GA.",
+      "schema": true
+    }
+  ],
+
+  "source_requirements": {
+    "tier_1_primary_must_use": [
+      {
+        "source": "Apple App Store",
+        "usage": "FanDuel 4.9/5 rating from 1.7M+ reviews - MUST CITE SPECIFICALLY",
+        "format": "\"According to the Apple App Store, FanDuel has a 4.9/5 rating from over 1.7 million user reviews...\""
+      },
+      {
+        "source": "Apple App Store",
+        "usage": "All app ratings with review counts"
+      },
+      {
+        "source": "Google Play Store",
+        "usage": "Android ratings and user feedback"
+      },
+      {
+        "source": "Reddit r/sportsbook",
+        "usage": "User experiences and feedback (DO NOT cite specific usernames)",
+        "format": "\"Reddit users consistently report that...\" or \"According to r/sportsbook community feedback...\""
+      }
+    ],
+    "tier_2_verification": [
+      {
+        "source": "Brand official websites",
+        "usage": "Feature verification only (not pros/cons)"
+      },
+      {
+        "source": "State gaming commissions",
+        "usage": "Licensing information and legality"
+      },
+      {
+        "source": "Penn Entertainment",
+        "usage": "theScore BET rebrand announcement"
+      }
+    ],
+    "tier_3_facts": [
+      {
+        "source": "Action Network",
+        "usage": "Pricing data (spread prices, underdog percentages)"
+      },
+      {
+        "source": "Industry publications",
+        "usage": "Market share data, factual statistics"
+      }
+    ],
+    "tier_4_sparingly": [
+      {
+        "source": "Competitor affiliate sites",
+        "usage": "Research gaps ONLY - NEVER for subjective opinions or pros/cons",
+        "warning": "DO NOT cite for recommendations or rankings"
+      }
+    ],
+    "forbidden_practices": [
+      "Never cite affiliate sites for pros/cons",
+      "Never cite anonymous sources without verification",
+      "Never use competitor rankings as proof points",
+      "Never claim 'best' without supporting data"
+    ]
+  },
+
+  "brand_details": [
+    {
+      "position": 1,
+      "brand": "FanDuel",
+      "status": "LOCKED - Active commercial deal",
+      "word_count": 500,
+      "usp": "Best Overall Sports Betting App",
+      "app_rating_ios": "4.9/5",
+      "app_rating_android": "4.6/5",
+      "review_count_ios": "1.7M+",
+      "key_selling_points": [
+        "Highest App Store rating (4.9/5)",
+        "Cleanest, most intuitive interface",
+        "Industry-leading SGP builder on mobile",
+        "40+ player props per game",
+        "Market leader with largest share",
+        "PayPal/Play+ withdrawals in 48 hours"
+      ],
+      "mobile_specific_features": [
+        "iOS widget support",
+        "Bet tracking notifications",
+        "Live score integration",
+        "FaceID/TouchID login",
+        "Quick deposit options"
+      ],
+      "proof_points": [
+        "4.9/5 App Store rating from 1.7M+ reviews",
+        "4.6/5 Google Play rating",
+        "Controls largest US market share",
+        "Reddit users praise intuitive interface"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/fanduel-review.htm"
+    },
+    {
+      "position": 2,
+      "brand": "BetMGM",
+      "status": "LOCKED - Active commercial deal",
+      "word_count": 450,
+      "usp": "Best for Fast Payouts & Loyalty Rewards",
+      "app_rating_ios": "4.8/5",
+      "app_rating_android": "4.5/5",
+      "key_selling_points": [
+        "Fastest payouts: 2 hours via PayPal/Play+",
+        "Edit My Bet feature on mobile",
+        "MGM Rewards integration",
+        "Most props in industry",
+        "Welcome bonus up to $1,500"
+      ],
+      "mobile_specific_features": [
+        "MGM Rewards dashboard in app",
+        "Quick withdrawal access",
+        "Edit My Bet mobile optimization",
+        "Promotional hub"
+      ],
+      "proof_points": [
+        "4.8/5 App Store rating",
+        "Covers ranks as #1 app overall",
+        "2-hour payout verified",
+        "MGM Rewards cross-property benefits"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/betmgm-review.htm"
+    },
+    {
+      "position": 3,
+      "brand": "DraftKings",
+      "status": "RESEARCH-DRIVEN",
+      "word_count": 400,
+      "usp": "Best for Props Variety & Flash Betting",
+      "app_rating_ios": "4.8/5",
+      "app_rating_android": "4.4/5",
+      "key_selling_points": [
+        "29.9% best underdog prices in industry",
+        "Flash Betting feature (mobile exclusive)",
+        "Props organized by category",
+        "Most extensive markets",
+        "DFS integration same app"
+      ],
+      "mobile_specific_features": [
+        "Flash Betting interface",
+        "DFS/sportsbook toggle",
+        "Prop categories navigation",
+        "Crown Rewards tracking"
+      ],
+      "proof_points": [
+        "33.5% market share (second to FanDuel)",
+        "29.9% best underdog prices verified",
+        "4.8/5 App Store rating",
+        "Featured on all major competitor sites"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/draftkings-review.htm"
+    },
+    {
+      "position": 4,
+      "brand": "bet365",
+      "status": "RESEARCH-DRIVEN",
+      "word_count": 400,
+      "usp": "Best for Live Betting & In-Play Props",
+      "app_rating_ios": "4.7/5",
+      "app_rating_android": "4.3/5",
+      "keyword_opportunity": "bet365 app (59,000/mo) - HIGHEST brand volume",
+      "key_selling_points": [
+        "Sharpest lines in industry",
+        "Superior live betting experience",
+        "Live streaming with $1 minimum bet",
+        "40+ props per game",
+        "Responsive during peak traffic",
+        "International reputation for quality"
+      ],
+      "mobile_specific_features": [
+        "Seamless live streaming",
+        "Quick in-play bet placement",
+        "Deep markets navigation",
+        "Performance optimization"
+      ],
+      "proof_points": [
+        "59K monthly searches for 'bet365 app'",
+        "Covers: 'most immersive betting experience'",
+        "4.7/5 App Store rating",
+        "Global leader in sports betting"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/bet365-review.htm"
+    },
+    {
+      "position": 5,
+      "brand": "Caesars",
+      "status": "RESEARCH-DRIVEN",
+      "word_count": 350,
+      "usp": "Best Odds Boosts & VIP Rewards",
+      "app_rating_ios": "4.7/5",
+      "app_rating_android": "4.2/5",
+      "key_selling_points": [
+        "Best odds boosts in market",
+        "In-app live streaming",
+        "Best average spread prices (Action Network data)",
+        "Caesars Rewards VIP program",
+        "Daily boost frequency"
+      ],
+      "mobile_specific_features": [
+        "In-app live streaming",
+        "Rewards dashboard",
+        "Daily boost notifications",
+        "One-tap boosts"
+      ],
+      "proof_points": [
+        "Best average spread prices verified",
+        "Featured across all major sites",
+        "4.7/5 App Store rating",
+        "Industry-leading Caesars Rewards"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/caesars-review.htm"
+    },
+    {
+      "position": 6,
+      "brand": "Fanatics",
+      "status": "RESEARCH-DRIVEN",
+      "word_count": 300,
+      "usp": "Best Rewards for Merchandise",
+      "app_rating_ios": "4.6/5",
+      "app_rating_android": "4.1/5",
+      "key_selling_points": [
+        "Up to 10% FanCash back on bets",
+        "Earn official NFL/NBA merchandise",
+        "Fair Play Protection (injury refunds)",
+        "60+ alternative lines",
+        "Strong app performance"
+      ],
+      "mobile_specific_features": [
+        "FanCash rewards dashboard",
+        "Merchandise store integration",
+        "Fair Play Protection claims",
+        "Streaming quality"
+      ],
+      "proof_points": [
+        "FanCash program unique to market",
+        "Featured in CBS Missouri coverage",
+        "4.6/5 App Store rating",
+        "Strong brand recognition"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/fanatics-review.htm"
+    },
+    {
+      "position": 7,
+      "brand": "theScore BET",
+      "status": "RESEARCH-DRIVEN",
+      "word_count": 300,
+      "usp": "Best Media Integration (Scores + Betting)",
+      "app_rating_ios": "4.5/5",
+      "app_rating_android": "4.0/5",
+      "rebrand_note": "CRITICAL: Rebranded from ESPN BET in December 2025 (Penn Entertainment announcement)",
+      "key_selling_points": [
+        "theScore app integration (scores + betting)",
+        "Penn Play rewards program",
+        "Beginner-friendly interface",
+        "Media content ecosystem",
+        "News feed within app"
+      ],
+      "mobile_specific_features": [
+        "theScore media integration",
+        "Live scores in betting interface",
+        "News feed within app",
+        "Penn Play rewards tracking"
+      ],
+      "proof_points": [
+        "Featured in Missouri launch coverage",
+        "Media integration unique advantage",
+        "4.5/5 App Store rating",
+        "Beginner-friendly design praised"
+      ],
+      "internal_link": "https://www.topendsports.com/sport/betting/espn-bet-review.htm",
+      "internal_link_note": "Legacy ESPN BET review URL"
+    }
+  ],
+
+  "internal_links": [
+    {
+      "anchor": "best sports betting sites 2025",
+      "url": "https://www.topendsports.com/sport/betting/index.htm",
+      "context": "Parent category hub - link from intro",
+      "placement": "Introduction"
+    },
+    {
+      "anchor": "best sportsbook bonuses and promos",
+      "url": "https://www.topendsports.com/sport/betting/best-bonuses.htm",
+      "context": "Related comparison - app-exclusive bonuses",
+      "placement": "Bonuses section"
+    },
+    {
+      "anchor": "FanDuel sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/fanduel-review.htm",
+      "context": "Deep dive on #1 ranked app",
+      "placement": "FanDuel section"
+    },
+    {
+      "anchor": "BetMGM sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/betmgm-review.htm",
+      "context": "Deep dive on #2 ranked app",
+      "placement": "BetMGM section"
+    },
+    {
+      "anchor": "DraftKings sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/draftkings-review.htm",
+      "context": "Deep dive on #3 ranked app",
+      "placement": "DraftKings section"
+    },
+    {
+      "anchor": "bet365 sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/bet365-review.htm",
+      "context": "Deep dive on #4 ranked app",
+      "placement": "bet365 section"
+    },
+    {
+      "anchor": "Caesars sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/caesars-review.htm",
+      "context": "Deep dive on #5 ranked app",
+      "placement": "Caesars section"
+    },
+    {
+      "anchor": "Fanatics sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/fanatics-review.htm",
+      "context": "Deep dive on #6 ranked app",
+      "placement": "Fanatics section"
+    },
+    {
+      "anchor": "ESPN BET sportsbook review",
+      "url": "https://www.topendsports.com/sport/betting/espn-bet-review.htm",
+      "context": "Deep dive on #7 ranked app (now theScore BET)",
+      "placement": "theScore BET section"
+    },
+    {
+      "anchor": "best same game parlay sites",
+      "url": "https://www.topendsports.com/sport/betting/best-sgp-sites.htm",
+      "context": "Related feature - SGP builders in apps",
+      "placement": "Mobile features section"
+    },
+    {
+      "anchor": "best live betting sites",
+      "url": "https://www.topendsports.com/sport/betting/best-live-betting-sites.htm",
+      "context": "Related feature - live betting app functionality",
+      "placement": "Live betting discussion"
+    },
+    {
+      "anchor": "PayPal betting sites",
+      "url": "https://www.topendsports.com/sport/betting/paypal-betting-sites.htm",
+      "context": "Related feature - payment methods in apps",
+      "placement": "Payout speed section"
+    }
+  ],
+
+  "content_gaps_to_exploit": [
+    {
+      "gap": "No interactive comparison table with sortable/filterable features",
+      "opportunity": "Create best-in-class sortable table",
+      "priority": "HIGH"
+    },
+    {
+      "gap": "Limited FAQ coverage (competitors have 3-5, opportunity for 8-10)",
+      "opportunity": "10 comprehensive FAQs targeting long-tail keywords",
+      "priority": "HIGH"
+    },
+    {
+      "gap": "Missing iOS vs Android specific app comparison",
+      "opportunity": "Dedicated H3 sections for each platform with download guides",
+      "priority": "MEDIUM"
+    },
+    {
+      "gap": "No user rating aggregation across App Store and Google Play",
+      "opportunity": "Display both ratings for each app prominently",
+      "priority": "HIGH"
+    },
+    {
+      "gap": "Limited state-by-state app availability checker",
+      "opportunity": "Clear state availability section with links",
+      "priority": "MEDIUM"
+    },
+    {
+      "gap": "Missing app size/storage requirements comparison",
+      "opportunity": "Include download size in comparison table",
+      "priority": "LOW"
+    },
+    {
+      "gap": "Lack of bonus calculator integration",
+      "opportunity": "Link to parlay calculator and bonus pages",
+      "priority": "LOW"
+    },
+    {
+      "gap": "No payout speed comparison",
+      "opportunity": "Feature BetMGM's 2-hour payouts prominently",
+      "priority": "HIGH"
+    }
+  ],
+
+  "compliance_checklist": {
+    "age_requirements": {
+      "standard": "21+",
+      "exceptions": "18+ in Montana, New Hampshire, Rhode Island, Wyoming, Washington DC"
+    },
+    "gambling_hotline": "1-800-522-4700",
+    "affiliate_disclosure": "Must appear in introduction (50-75 words)",
+    "responsible_gambling_section": "Required H2 at bottom of page",
+    "forbidden_language": [
+      "Guaranteed wins",
+      "Can't lose",
+      "Risk-free (unless operator-specific offer)",
+      "Beat the house"
+    ],
+    "dating_language": {
+      "forbidden_in_h1": "2025, December 2025, Review 2025",
+      "required": "Last Updated badge after H1 with current date"
+    },
+    "state_availability": "Must include disclaimer about state-specific availability",
+    "licensing_disclaimer": "All apps licensed and regulated by state gaming commissions"
+  },
+
+  "technical_requirements": {
+    "schema_markup": [
+      {
+        "type": "FAQPage",
+        "location": "FAQ section",
+        "items": "All 10 FAQ questions"
+      },
+      {
+        "type": "Article",
+        "properties": [
+          "headline",
+          "author: TopEndSports",
+          "datePublished",
+          "dateModified",
+          "image"
+        ]
+      },
+      {
+        "type": "BreadcrumbList",
+        "path": "Home > Betting > Best Apps"
+      }
+    ],
+    "interactive_elements": [
+      "Sortable comparison table (7 apps x 9 criteria)",
+      "Filterable by criteria",
+      "Mobile-responsive design",
+      "CTA buttons for all 7 brands"
+    ],
+    "visual_elements": [
+      "Last Updated badge after H1",
+      "Quick Answer Box",
+      "App Store/Google Play rating badges",
+      "Brand logos in comparison table"
+    ]
+  },
+
+  "competitive_advantages": [
+    "Most comprehensive FAQ section (10 vs competitors' 3-5)",
+    "Interactive sortable comparison table",
+    "Detailed download guides for both iOS and Android",
+    "Complete T&Cs for all 7 apps in one place",
+    "Strong TIER 1 source emphasis (App Store/Google Play data)",
+    "Mobile-first focus vs general sportsbook reviews",
+    "Payout speed comparison (BetMGM 2-hour feature)",
+    "Current rebrand information (theScore BET)"
+  ],
+
+  "writer_notes": {
+    "target_audience": [
+      "First-time app downloaders seeking guidance",
+      "Experienced mobile bettors comparing options",
+      "Users searching from mobile devices",
+      "Mix of beginners and advanced bettors"
+    ],
+    "reading_level": "Assume basic smartphone proficiency but explain betting terminology",
+    "tone": "Authoritative but accessible, mobile-focused, data-driven",
+    "priority_emphasis": [
+      "App Store ratings as primary proof points (especially FanDuel 4.9/5)",
+      "Mobile-specific features over general sportsbook features",
+      "Download instructions are essential for searchers",
+      "theScore BET rebrand must be mentioned (Dec 2025)",
+      "BetMGM's 2-hour payouts are major mobile differentiator",
+      "Safety/security angle addresses real user concern",
+      "bet365 app keyword = 59K/mo searches - MASSIVE opportunity"
+    ],
+    "common_mistakes_to_avoid": [
+      "Don't focus on desktop features in app review",
+      "Don't skip App Store rating citations",
+      "Don't forget to mention theScore BET rebrand",
+      "Don't exceed 150 words in intro",
+      "Don't use dated language in H1",
+      "Don't cite affiliate sites for subjective opinions"
+    ]
+  },
+
+  "phase_1_reference": {
+    "research_date": "2025-12-05",
+    "primary_keyword_volume": 20000,
+    "total_cluster_volume": 100100,
+    "volume_increase": "400%",
+    "competitors_analyzed": 3,
+    "content_gaps_identified": 8,
+    "brands_selected": 7,
+    "internal_links_mapped": 12,
+    "template_assigned": 2
+  }
+}
