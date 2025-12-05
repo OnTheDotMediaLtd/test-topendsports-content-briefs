@@ -78,35 +78,56 @@ python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview \
 
 ---
 
-## 📁 REQUIRED OUTPUT FILES (6 Total)
+## 📁 OUTPUT FILES
 
-For any brief (e.g., `best-sports-betting-apps`):
+### 3 Main Deliverables (in `output/`)
+| File | Phase | Description |
+|------|-------|-------------|
+| `[page]-brief-control-sheet.md` | Phase 1 | Research findings, keyword cluster, brand selection |
+| `[page]-writer-brief.md` | Phase 2 | Content outline, H2/H3 optimization, FAQs |
+| `[page]-ai-enhancement.md` | Phase 3 | Complete HTML/CSS/JS code, schema markup |
 
-```
-content-briefs-skill/
-├── active/
-│   ├── best-sports-betting-apps-phase1.json  ← Phase 1 data
-│   └── best-sports-betting-apps-phase2.json  ← Phase 2 data
-└── output/
-    ├── best-sports-betting-apps-brief-control-sheet.md   ← Phase 1 output
-    ├── best-sports-betting-apps-brief-control-sheet.docx
-    ├── best-sports-betting-apps-writer-brief.md          ← Phase 2 output
-    ├── best-sports-betting-apps-writer-brief.docx
-    ├── best-sports-betting-apps-ai-enhancement.md        ← Phase 3 output
-    └── best-sports-betting-apps-ai-enhancement.docx
-```
+### 2 Intermediate Files (in `active/`)
+| File | Purpose |
+|------|---------|
+| `[page]-phase1.json` | Structured data passed to Phase 2 |
+| `[page]-phase2.json` | Structured data passed to Phase 3 |
+
+These JSON files are working files for data exchange between phases.
+
+### Optional: DOCX Conversion
+Run `mcp__topendsports-briefs__convert_to_docx` to create Word versions for writers.
 
 ---
 
 ## 📚 REFERENCE DOCUMENTS
 
-Before generating any brief, read:
+### MUST Read Before Starting
+| Document | Path | Purpose |
+|----------|------|---------|
+| **Orchestrator** | `content-briefs-skill/ORCHESTRATOR.md` | Multi-agent workflow |
+| **Ahrefs Workflow** | `content-briefs-skill/references/ahrefs-keyword-workflow.md` | **CRITICAL** - Keyword research steps |
+| **Guardrails** | `content-briefs-skill/GUARDRAILS.md` | Anti-patterns to avoid |
 
-1. **Orchestration:** `content-briefs-skill/ORCHESTRATOR.md`
-2. **Guardrails:** `content-briefs-skill/GUARDRAILS.md`
-3. **Phase 1:** `content-briefs-skill/references/phase1-research.md`
-4. **Phase 2:** `content-briefs-skill/references/phase2-writer.md`
-5. **Phase 3:** `content-briefs-skill/references/phase3-technical.md`
+### Phase-Specific Instructions
+| Phase | Document |
+|-------|----------|
+| Phase 1 | `references/phase1-research.md` |
+| Phase 2 | `references/phase2-writer.md` |
+| Phase 3 | `references/phase3-technical.md` |
+
+### Supporting References (consult as needed)
+| Document | Purpose |
+|----------|---------|
+| `gold-standard-templates.md` | HTML/CSS/JS patterns for tables, cards |
+| `reference-library.md` | Quick lookups (bonuses, states, contacts) |
+| `lessons-learned.md` | Past mistakes to avoid |
+| `content-templates.md` | Outline structures by template type |
+| `verification-standards.md` | T&Cs verification requirements |
+| `quality-checklist.md` | Pre-delivery quality checks |
+| `html-validation-checklist.md` | HTML validation rules |
+| `compliance-standards.md` | Legal/gambling compliance |
+| `calculator-ux-standards.md` | Interactive calculator patterns |
 
 ---
 
@@ -165,3 +186,66 @@ When user says "generate brief for [URL]":
 6. **Verify** all 6 files exist
 
 **INCOMPLETE = Any phase skipped or any file missing**
+
+---
+
+## 🔒 VALIDATION GATES
+
+**Run after each phase:**
+```bash
+bash content-briefs-skill/scripts/validate-phase.sh [phase] [page-name]
+```
+
+**DO NOT proceed to next phase until validation PASSES.**
+
+---
+
+## 📋 MINIMUM REQUIREMENTS
+
+### Phase 1 Minimums
+- [ ] Primary keyword with REAL volume from Ahrefs
+- [ ] 8+ secondary keywords with REAL volume
+- [ ] 3 competitor analyses (actionnetwork, covers, thelines)
+- [ ] 5-7 brands with rationale
+- [ ] Content gaps identified
+
+### Phase 2 Minimums
+- [ ] Every secondary keyword mapped to H2/H3/FAQ
+- [ ] 7+ FAQs targeting keywords
+- [ ] Source requirements (TIER 1: App Store, Reddit)
+- [ ] Word count targets per section
+- [ ] 12 internal links
+
+### Phase 3 Minimums
+- [ ] Complete meta tags (title, description, keywords)
+- [ ] Last Updated badge HTML
+- [ ] Comparison table with ALL brands
+- [ ] T&Cs for ALL brands (not just top 3)
+- [ ] Schema markup (Article + FAQ + Breadcrumb)
+- [ ] Interactive element with working code
+- [ ] Compliance sections (disclosure + responsible gambling)
+- [ ] **ZERO placeholders** (no "...", no "[Insert]")
+
+---
+
+## 💀 FAILURE CONDITIONS
+
+You have **FAILED** the task if ANY of these are true:
+
+1. Created fewer than 3 deliverable files
+2. Skipped Ahrefs research (MCP error is NOT an excuse - use Python)
+3. Used estimated/guessed keyword volumes instead of real data
+4. Fewer than 8 secondary keywords
+5. Fewer than 7 FAQs
+6. AI Enhancement contains "..." or "[Insert]" placeholders
+7. Missing T&Cs for some brands
+8. Missing schema markup
+9. Skipped any validation step
+
+---
+
+## 🏁 USE THE SLASH COMMAND
+
+For brief generation, use: `/generate-brief [URL]`
+
+This command contains ALL steps embedded directly - follow it exactly.
