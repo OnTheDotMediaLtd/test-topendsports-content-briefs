@@ -35,8 +35,8 @@ REQUEST="{\"jsonrpc\": \"2.0\", \"method\": \"tools/call\", \"params\": {\"name\
 # Export API key and call Ahrefs MCP server
 export API_KEY
 
-# Call MCP server and parse response
-echo "$REQUEST" | timeout 60 npx --prefix=/root/.global-node-modules @ahrefs/mcp 2>/dev/null | grep -E '^\{"' | tail -1 | python3 -c "
+# Call MCP server and parse response (direct node is 3x faster than npx)
+echo "$REQUEST" | timeout 60 node /root/.global-node-modules/lib/node_modules/@ahrefs/mcp/build/index.js 2>/dev/null | grep -E '^\{"' | tail -1 | python3 -c "
 import json, sys
 try:
     data = json.load(sys.stdin)
