@@ -124,7 +124,7 @@ Content to cover:
 - Quick preview of testing methodology
 - Mention that full reviews follow below
 
-Link: Compare full details at our [compare sportsbooks](#) page
+Link: Compare full details at our [compare sportsbooks](/sport/betting/compare.htm) page
 
 #### H3: How We Ranked These Apps
 **Target keyword:** top sports betting apps (2,100/mo)
@@ -175,7 +175,7 @@ Features to highlight:
 
 - Current welcome offer (e.g., "Bet $5, Get $150 in Bonus Bets")
 - Key terms summary (must be from official T&Cs)
-- Link to full [FanDuel review](#) for complete terms
+- Link to full [FanDuel review](/sport/betting/fanduel-review.htm) for complete terms
 
 ---
 
@@ -214,7 +214,7 @@ Features to highlight:
 
 - Current welcome offer (e.g., "$1,000 First Bet Offer")
 - Key terms summary
-- Link to full [BetMGM review](#)
+- Link to full [BetMGM review](/sport/betting/betmgm-review.htm)
 
 ---
 
@@ -253,7 +253,7 @@ Features to highlight:
 
 - Current welcome offer
 - Key terms
-- Link to full [Bet365 review](#)
+- Link to full [Bet365 review](/sport/betting/bet365-review.htm)
 
 ---
 
@@ -290,7 +290,7 @@ Features to highlight:
 
 - Current welcome offer
 - Key terms
-- Link to full [DraftKings review](#)
+- Link to full [DraftKings review](/sport/betting/draftkings-review.htm)
 
 ---
 
@@ -330,7 +330,7 @@ Features to highlight:
 
 - Current welcome offer
 - Key terms
-- Link to full [ESPN BET review](#) - note: URL may still reference ESPN BET
+- Link to full [theScore BET review](/sport/betting/espn-bet-review.htm) - note: URL may still reference ESPN BET
 
 ---
 
@@ -367,7 +367,7 @@ Features to highlight:
 
 - Current welcome offer
 - Key terms
-- Link to full [Caesars review](#)
+- Link to full [Caesars review](/sport/betting/caesars-review.htm)
 
 ---
 
@@ -404,7 +404,7 @@ Features to highlight:
 
 - Current welcome offer
 - Key terms
-- Link to full [Fanatics review](#)
+- Link to full [Fanatics review](/sport/betting/fanatics-review.htm)
 
 ---
 
@@ -451,7 +451,7 @@ Content to cover:
 - Loyalty rewards programs (MGM Rewards, Caesars Rewards, FanCash)
 - How to maximize app bonuses
 
-Link: Full bonus details at [best sportsbook bonuses](#)
+Link: Full bonus details at [best sportsbook bonuses](/sport/betting/best-bonuses.htm)
 
 **SOURCE REQUIREMENT:** Bonus amounts must be verified from official brand T&Cs
 
@@ -704,7 +704,7 @@ Each FAQ should be 100-150 words and directly target a keyword.
   - Loyalty programs: BetMGM Rewards, Caesars Rewards, FanCash
   - Profit boost tokens
   - Parlay insurance
-- Link to full bonus details: [best sportsbook bonuses](#)
+- Link to full bonus details: [best sportsbook bonuses](/sport/betting/best-bonuses.htm)
 - Recommendation: Sign up for multiple apps to take advantage of different promos
 
 ---
@@ -731,7 +731,7 @@ Each FAQ should be 100-150 words and directly target a keyword.
   - Identity verification (license, SSN)
   - Free to download for all major apps
 
-- Link to detailed guide: [How to Download Sports Betting Apps](#) section above
+- Link to detailed guide: [How to Download Sports Betting Apps](#how-to-download-sports-betting-apps) section above
 
 ---
 

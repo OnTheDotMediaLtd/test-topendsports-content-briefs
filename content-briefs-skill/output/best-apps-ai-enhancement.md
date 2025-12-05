@@ -1703,7 +1703,7 @@ table tr:hover {
 - [x] Meta tags optimized for SEO
 - [x] Mobile-first design principles applied
 
-# Phase 3B: Best Sportsbook Apps - Comparison Table
+## Phase 3B: Best Sportsbook Apps - Comparison Table
 
 ## Complete Comparison Table
 
@@ -1867,7 +1867,7 @@ table tr:hover {
 **File Generated**: 2025-12-05
 **Status**: Complete with all 7 brands
 **Next Steps**: Convert to DOCX or integrate into final content deliverable
-# Best Betting Apps - Phase 3C Brand Cards
+## Phase 3C: Brand Cards
 
 Complete HTML brand cards for all 7 featured sportsbooks with ratings, features, pros/cons, and current bonuses.
 
@@ -2264,7 +2264,7 @@ Complete HTML brand cards for all 7 featured sportsbooks with ratings, features,
   }
 }
 ```
-# Best Betting Apps - Phase 3D: Complete Terms & Conditions
+## Phase 3D:: Complete Terms & Conditions
 
 ## Brand T&Cs (Complete)
 
@@ -2572,7 +2572,7 @@ Offers may vary by:
 
 *File created: Phase 3D - Complete T&Cs*
 *Last Updated: December 5, 2025*
-# PHASE 3E: Terms & Conditions Sections
+## Phase 3E: Terms & Conditions Sections
 ## Best Sports Betting Apps 2025
 
 **Purpose:** Complete T&C sections for brands 5-7 to be integrated into Phase 3 AI Enhancement output
@@ -3088,7 +3088,7 @@ This document contains all three required schema markup sections for the "Best S
 - [x] All @type definitions correct
 - [x] Proper JSON formatting
 - [x] No placeholder text or incomplete values
-# Best Apps Phase 3G - Interactive Elements & Responsible Gambling
+## Phase 3G: - Interactive Elements & Responsible Gambling
 
 ## 1. Welcome Bonus Calculator
 
