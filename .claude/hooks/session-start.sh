@@ -46,3 +46,18 @@ else
 fi
 
 echo "=== Session Initialization Complete ==="
+echo ""
+echo "╔══════════════════════════════════════════════════════════════════╗"
+echo "║  🚨 GUARDRAILS REMINDER - READ CLAUDE.md BEFORE ANY BRIEF 🚨     ║"
+echo "╠══════════════════════════════════════════════════════════════════╣"
+echo "║  When generating briefs, you MUST:                               ║"
+echo "║    1. Execute ALL 3 PHASES (Research → Writer → AI Enhancement)  ║"
+echo "║    2. Use REAL Ahrefs data (MCP or Python fallback)              ║"
+echo "║    3. Create ALL 6 output files (JSON + MD + DOCX)               ║"
+echo "║    4. NEVER skip keyword research or use estimated data          ║"
+echo "║                                                                  ║"
+echo "║  If Ahrefs MCP fails with 403:                                   ║"
+echo "║    python3 .claude/scripts/ahrefs-api.py [endpoint] [params]     ║"
+echo "║                                                                  ║"
+echo "║  Quick start: Read CLAUDE.md and ORCHESTRATOR.md first           ║"
+echo "╚══════════════════════════════════════════════════════════════════╝"
