@@ -87,117 +87,103 @@ These keywords show user intent to download/use specific apps. Include app downl
 
 ## Competitor Analysis
 
-### 1. SportsHandle.com (Primary Competitor)
-**Domain Authority:** High
-**Est. Word Count:** 8,000 words
-**Ranking Position:** #1-3 for "sports betting apps"
-
-**Top Keywords They Rank For:**
-- sports betting apps (28K/mo)
-- betting apps (35K/mo)
-- best sports betting app (17K/mo)
-- best betting apps (4.4K/mo)
-- top betting apps (3.5K/mo)
-- sports gambling apps (1.6K/mo)
-- football betting apps (1.7K/mo)
-
-**Strengths:**
-- Comprehensive brand coverage (10+ apps)
-- Strong branded keyword rankings
-- Detailed promo code sections
-- State-by-state availability info
-
-**Weaknesses to Exploit:**
-- Limited mobile UX technical details (load times, performance metrics)
-- Missing payment method comparison table
-- No app download/installation guides
-- Outdated app store ratings
-- Limited info on biometric security features
-
-**How to Beat Them:**
-- Add app performance metrics (load time, crash rates, battery usage)
-- Create interactive comparison table with real-time data
-- Include step-by-step download guides (iOS & Android)
-- Add payment method matrix (which apps accept Venmo, PayPal, Apple Pay, etc.)
-- Feature app store ratings prominently with update dates
-
----
-
-### 2. ActionNetwork.com
-**Domain Authority:** Very High
-**Est. Word Count:** 3,000 words
-**Focus:** Calculator tools, real-time odds
-
-**Top Keywords:**
-- parlay calculator (78K/mo)
-- betting odds calculator (30K/mo)
-- odds calculator (58K/mo)
-- nba player props (42K/mo)
-- best bets today (31K/mo)
-
-**Strengths:**
-- Calculator tools dominance
-- Real-time data integration
-- Strong technical authority
-
-**Weaknesses:**
-- Not focused on app reviews/comparisons
-- Minimal app-specific content
-- No download guides or app store links
-
-**Opportunity:** Position as the app-focused alternative. Link to our parlay calculator from app comparison sections.
-
----
-
-### 3. Covers.com
-**Domain Authority:** Very High
-**Est. Word Count:** 4,000 words
-**Focus:** Community forums, picks/predictions
-
-**Top Keywords:**
-- nfl picks against the spread (33K/mo)
-- nba player props (42K/mo)
-- best bets today (31K/mo)
-- college football injury report (4.7K/mo)
-
-**Strengths:**
-- Active community forums
-- Injury reports and analysis
-- Picks and predictions content
-
-**Weaknesses:**
-- Forum-based (not app-specific)
-- No comprehensive app comparisons
-- Outdated app review content
-- No technical specs or UX analysis
-
-**Opportunity:** Differentiate with app-specific technical content, modern UI/UX analysis, and current app store data.
-
----
-
-### 4. TheLines.com
+### 1. TheLines.com (PRIMARY COMPETITOR - Position #27)
 **Domain Authority:** High
 **Est. Word Count:** 5,000 words
-**Focus:** Sportsbook brands, promo codes, player props
+**Current Ranking:** **Position #27 for "sports betting apps"** (28K estimated traffic)
 
-**Top Keywords:**
-- caesars sportsbook (73K/mo)
-- fanatics sportsbook (20K/mo)
-- barstool sportsbook (14K/mo)
-- anytime touchdown scorer (11K/mo)
+**Top Keywords (Real Ahrefs Data - Dec 2025):**
+- stake casino (454K vol, pos 10)
+- betmgm (141K vol, pos 32)
+- bet365 (129K vol, pos 15)
+- parlay (127K vol, pos 19)
+- caesars sportsbook (73K vol, pos 14)
+- betting apps (35K vol, **pos 60**)
+- **sports betting apps (28K vol, pos 27)** ← DIRECT COMPETITOR
 
 **Strengths:**
-- Sportsbook-specific content
-- Strong promo code focus
-- Player prop coverage
+- Currently ranking for our primary keyword (position 27)
+- Strong brand-specific content (bet365, betmgm, caesars)
+- Parlay education and calculator tools (127K volume)
+- Position 60 for 'betting apps' shows app coverage
+
+**Weaknesses to Exploit:**
+- Position 27 for primary keyword - **opportunity to outrank with better content**
+- Limited mobile app download guides with screenshots
+- Missing comprehensive app performance comparisons
+- No state-by-state app availability interactive matrix
+- Limited in-app payment methods comparison
+- No technical app specifications (battery, data usage, load times)
+
+**How to Beat Them:**
+- Create more comprehensive app-specific content (10 brands vs their 6-8)
+- Add interactive comparison table with real-time data
+- Include detailed download guides (iOS & Android) with screenshots
+- Build state availability matrix (visual map/table)
+- Add payment method comparison matrix
+- Include app performance metrics and technical specs
+
+---
+
+### 2. ActionNetwork.com (NOT RANKING - Focus on odds/tools)
+**Domain Authority:** Very High
+**Est. Word Count:** 3,000 words
+**Current Ranking:** Not ranking in top 50 for "sports betting apps"
+
+**Top Keywords (Real Ahrefs Data - Dec 2025):**
+- nfl odds (204K vol, pos 16)
+- nfl mvp odds (189K vol, pos 31)
+- nfl picks (145K vol, pos 32)
+- draftkings (531K vol, pos 23)
+- pulsz (821K vol, pos 25)
+- chumba casino login (253K vol, pos 6)
+- crown coins casino (720K vol, pos 41)
+
+**Strengths:**
+- Strong positions for NFL odds and betting lines
+- Real-time odds and line movement tracking
+- Calculator tools and betting utilities
+- DraftKings brand association (531K volume)
 
 **Weaknesses:**
-- Limited mobile app UX reviews
-- No app download guides
-- Missing app store rating comparisons
-- No technical performance data
+- **No dedicated 'sports betting apps' content** (not ranking for target keyword)
+- No app download/installation guides
+- Missing comprehensive mobile app UX comparisons
+- No payment methods comparison within apps
+- Limited app-specific feature analysis and screenshots
 
-**Opportunity:** Focus on mobile app experience, app-exclusive features, and technical performance to differentiate.
+**Opportunity:** They're not competing in our space. Position as the app-focused alternative. Link to our parlay calculator from app comparison sections.
+
+---
+
+### 3. Covers.com (NOT RANKING - Focus on scores/forums)
+**Domain Authority:** Very High
+**Est. Word Count:** 4,000 words
+**Current Ranking:** Not ranking in top 50 for "sports betting apps"
+
+**Top Keywords (Real Ahrefs Data - Dec 2025):**
+- nfl scores (34.25M vol, pos 18)
+- nba scores (10.39M vol, pos 22)
+- nfl standings (9.9M vol, pos 31)
+- scores and odds (415K vol, pos 3)
+- jets game (440K vol, **pos 1**)
+- nfl picks (145K vol, pos 32)
+- pulsz (821K vol, pos 22)
+
+**Strengths:**
+- Massive traffic from scores and standings pages
+- Community forums and user discussions
+- Strong brand recognition in sports betting space
+- #1 position for 'jets game' and team-specific content
+
+**Weaknesses:**
+- **No ranking for 'sports betting apps' or 'betting apps'** - not competing for our keywords
+- Outdated or minimal app-specific reviews
+- Missing iOS vs Android feature analysis
+- Limited payment methods coverage within apps
+- No app performance metrics or technical specifications
+
+**Opportunity:** Differentiate with app-specific technical content, modern UI/UX analysis, and current app store data. They're focused on scores/picks, not apps.
 
 ---
 
