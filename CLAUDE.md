@@ -190,6 +190,7 @@ When user says "generate brief for [URL]":
 4. **Execute** Phase 3 using Phase 1 + Phase 2 JSON
 5. **Convert** all outputs to DOCX
 6. **Verify** all 6 files exist
+7. **Ask for feedback** (see Feedback section below)
 
 **INCOMPLETE = Any phase skipped or any file missing**
 
@@ -258,3 +259,70 @@ You have **FAILED** the task if ANY of these are true:
 For brief generation, use: `/generate-brief [URL]`
 
 This command contains ALL steps embedded directly - follow it exactly.
+
+---
+
+## 📝 FEEDBACK & CONTINUOUS IMPROVEMENT
+
+### After EVERY Task Completion
+
+When you complete a brief or significant task, prompt the user:
+
+> **Task Complete!** Help us improve:
+> - `/submit-feedback` - Report issues, edge cases, or suggestions
+> - Quick rating: Was this brief generation smooth? (1-5)
+
+### Submit Feedback Command
+
+Use `/submit-feedback [category]` where category is:
+
+| Category | Use When |
+|----------|----------|
+| `keyword` | Missing keywords, cannibalization issues |
+| `writer` | Unclear instructions, missing info |
+| `technical` | HTML/code bugs, schema errors |
+| `template` | Outline structure problems |
+| `workflow` | Process bottlenecks, timing issues |
+| `edge-case` | Unusual scenarios not covered |
+
+### Feedback Routing
+
+Feedback automatically routes to the right documentation:
+
+| Issue Type | Updates |
+|------------|---------|
+| Keyword problems | `references/phase1-research.md` |
+| Writer confusion | `references/phase2-writer.md` |
+| Technical bugs | `references/phase3-technical.md` |
+| Recurring mistakes | `references/lessons-learned.md` |
+| Quality failures | `references/quality-checklist.md` |
+
+### How Feedback Improves the System
+
+```
+[User submits feedback]
+    ↓
+[Weekly validation review]
+    ↓
+[Extract lessons learned]
+    ↓
+[Update reference docs]
+    ↓
+[Next brief uses improved instructions]
+```
+
+### Run Feedback Ingestion
+
+To apply validated feedback to documentation:
+```bash
+python3 content-briefs-skill/scripts/ingest-feedback.py --update-lessons
+```
+
+### Feedback Files Location
+
+| Folder | Purpose |
+|--------|---------|
+| `feedback/submitted/` | New feedback awaiting review |
+| `feedback/validated/` | Reviewed and confirmed feedback |
+| `feedback/applied/` | Feedback that updated docs |
+| `feedback/FEEDBACK-LOG.md` | Changelog of all feedback |
