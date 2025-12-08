@@ -4,7 +4,7 @@
 # Testing different configurations, SSL settings, and TLS versions
 ###############################################################################
 
-API_KEY="SjPt1JPhRgqMpi5UN8G7e8P3s57SjW86734J2r1Z"
+API_KEY="${AHREFS_API_KEY:?API key required - set AHREFS_API_KEY environment variable}"
 BASE_URL_V3="https://api.ahrefs.com/v3"
 BASE_URL_V2="https://api.ahrefs.com/v2"
 ENDPOINT="/site-explorer/domain-rating?target=ahrefs.com&date=2025-12-01"

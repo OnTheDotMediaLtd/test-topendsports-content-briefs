@@ -6,7 +6,8 @@ set -euo pipefail
 
 PHASE="${1:-}"
 PAGE_NAME="${2:-}"
-BASE_DIR="/home/user/topendsports-content-briefs/content-briefs-skill"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BASE_DIR="$(dirname "$SCRIPT_DIR")"
 
 if [ -z "$PHASE" ] || [ -z "$PAGE_NAME" ]; then
     echo "Usage: $0 <phase> <page-name>"

@@ -7,9 +7,12 @@ Testing different SSL and configuration settings
 import requests
 import json
 import urllib3
+import os
 from datetime import datetime
 
-API_KEY = "SjPt1JPhRgqMpi5UN8G7e8P3s57SjW86734J2r1Z"
+API_KEY = os.getenv("AHREFS_API_KEY")
+if not API_KEY:
+    raise ValueError("AHREFS_API_KEY environment variable is required")
 BASE_URL_V3 = "https://api.ahrefs.com/v3"
 BASE_URL_V2 = "https://api.ahrefs.com/v2"
 

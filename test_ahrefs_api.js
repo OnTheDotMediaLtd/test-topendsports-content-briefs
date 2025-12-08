@@ -7,7 +7,11 @@
 const https = require('https');
 const http = require('http');
 
-const API_KEY = "SjPt1JPhRgqMpi5UN8G7e8P3s57SjW86734J2r1Z";
+const API_KEY = process.env.AHREFS_API_KEY;
+if (!API_KEY) {
+    console.error("Error: AHREFS_API_KEY environment variable is required");
+    process.exit(1);
+}
 const BASE_URL_V3 = "https://api.ahrefs.com/v3";
 const BASE_URL_V2 = "https://api.ahrefs.com/v2";
 

@@ -1,5 +1,7 @@
 # TopEndSports Content Briefs - AI Instructions
 
+**Last Updated:** December 8, 2025
+
 ## MANDATORY: READ BEFORE ANY BRIEF GENERATION
 
 **This file is automatically loaded at session start. Follow these instructions exactly.**
@@ -30,9 +32,12 @@ When asked to "generate a brief" for ANY URL, you MUST:
 
 **Requirements:**
 - All keywords mapped to H2/H3/FAQ sections
-- 8-10 FAQs targeting keywords
+- 7+ FAQs targeting keywords
 - Complete source requirements
 - Brand sections with word counts
+- Mobile Experience section per brand (100-150 words)
+- Payment methods comparison section
+- Calculator tool links
 
 ### Phase 3: AI Enhancement
 **Input:** Phase 1 + Phase 2 JSON
@@ -108,6 +113,7 @@ Run `mcp__topendsports-briefs__convert_to_docx` to create Word versions for writ
 | **Orchestrator** | `content-briefs-skill/ORCHESTRATOR.md` | Multi-agent workflow |
 | **Ahrefs Workflow** | `content-briefs-skill/references/ahrefs-keyword-workflow.md` | **CRITICAL** - Keyword research steps |
 | **Guardrails** | `content-briefs-skill/GUARDRAILS.md` | Anti-patterns to avoid |
+| **Competitor Analysis** | `references/competitor-content-analysis.md` | Match #1 ranking page structure |
 
 ### Phase-Specific Instructions
 | Phase | Document |
@@ -215,6 +221,9 @@ bash content-briefs-skill/scripts/validate-phase.sh [phase] [page-name]
 - [ ] Source requirements (TIER 1: App Store, Reddit)
 - [ ] Word count targets per section
 - [ ] 12 internal links
+- [ ] Mobile Experience section per brand
+- [ ] Payment methods comparison included
+- [ ] Calculator tool links
 
 ### Phase 3 Minimums
 - [ ] Complete meta tags (title, description, keywords)
