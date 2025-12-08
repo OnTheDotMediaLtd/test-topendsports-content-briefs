@@ -27,9 +27,7 @@ jobs:
         python -m py_compile content-briefs-skill/scripts/*.py
       continue-on-error: false
 
-    - name: Install dependencies (if requirements exist)
+    - name: Install dependencies
       run: |
-        if [ -f requirements.txt ]; then
-          pip install -r requirements.txt
-        fi
+        pip install python-docx requests urllib3
       continue-on-error: true

@@ -98,7 +98,7 @@ jobs:
       - name: Install dependencies
         run: |
           cd mcp-server && npm ci
-          pip install -r requirements.txt
+          pip install pytest pytest-cov pytest-mock python-docx requests urllib3
 
       - name: Run all tests
         run: |
