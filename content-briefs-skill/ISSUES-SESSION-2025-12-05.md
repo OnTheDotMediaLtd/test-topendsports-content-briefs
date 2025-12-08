@@ -160,9 +160,103 @@ npx markdownlint-cli2 "content-briefs-skill/output/*.md"
 
 ## Action Items for Setup Optimization
 
-- [ ] Update ORCHESTRATOR.md with Phase 3 multi-agent pattern
-- [ ] Update generate-brief slash command with Phase 3 split instructions
+- [x] Update ORCHESTRATOR.md with Phase 3 multi-agent pattern ✓
+- [x] Update generate-brief slash command with Phase 3 split instructions ✓
 - [ ] Add page-specific DOCX conversion option
 - [ ] Consider increasing CLAUDE_CODE_MAX_OUTPUT_TOKENS environment variable
 - [ ] Add pre-commit hook for markdown linting
-- [ ] Ensure Phase 3 sub-agent prompts specify H2 headings
+- [x] Ensure Phase 3 sub-agent prompts specify H2 headings ✓
+
+---
+
+## SERP Analysis Feedback (December 8, 2025)
+
+### Source
+User-provided SERP analysis comparing Brief 1 (old) vs Brief 2 (generated Dec 5)
+
+### Key Finding: Content Depth Insufficient
+
+**#1 Ranking Page (sportshandle.com):**
+- 10 brands covered (not 7)
+- ~8,000-9,000 words
+- 2 sections per brand: "Key Features" + "Mobile Experience"
+
+**Brief 2 (our output):**
+- 7 brands (30% fewer than competitor)
+- 6,200 words (25-30% below optimal)
+- Missing "Mobile Experience" section per brand
+
+### Verdict Summary
+
+| Metric | Brief 2 Status | Required |
+|--------|---------------|----------|
+| Brand count | 7 | 10 |
+| Word count | 6,200 | 8,000-9,000 |
+| Mobile Experience section | Missing | Required per brand |
+| Payment methods section | Missing | Required |
+| Calculator links | Missing | Include |
+
+### Content Gap Analysis
+
+| Section | Brief 2 | #1 Has It? |
+|---------|---------|------------|
+| "Mobile Experience" per app | Partial | ✓ |
+| State availability map | Mentioned | ✓ |
+| Calculator tool links | ✗ | ✗ (our advantage) |
+| iOS/Android app ratings table | ✓ | ✓ |
+| Payment methods comparison | ✗ | ✓ |
+| Sport-specific rankings (NFL/NBA) | ✓ | ✗ (our advantage) |
+
+### Action Items from SERP Feedback
+
+**High Priority:**
+1. [x] Increase default brand coverage to 10 for comparison pages targeting 10K+/mo keywords
+2. [x] Add "Mobile Experience" as mandatory section for each brand review
+3. [x] Implement competitor content analysis in research phase
+
+**Medium Priority:**
+4. [x] Add payment methods comparison section to template
+5. [x] Include branded keyword targeting in secondary keyword requirements
+6. [ ] Merge calculator links from older brief format
+
+**Implemented Changes:**
+- Updated `references/phase1-research.md` with competitor analysis requirements
+- Created `references/competitor-content-analysis.md` with detailed guidelines
+- Updated `ORCHESTRATOR.md` with new content depth rules
+- Created `OPTIMAL-STARTING-PROMPT.md` for future sessions
+
+### Word Count Math (Correct Approach)
+
+Don't set arbitrary word counts. Calculate based on brand depth:
+
+```
+BASE TEMPLATE:
+- Intro + disclosure: 150 words
+- Comparison table explanation: 200 words
+- Per-brand sections (10 brands × 550 words): 5,500 words
+- Sport-specific sections (NFL, NBA): 400 words
+- Download guides (iOS, Android): 350 words
+- State availability: 300 words
+- Payment methods: 250 words
+- FAQs (10 × 120 words): 1,200 words
+- Responsible gambling: 150 words
+
+TOTAL: ~8,500 words
+```
+
+### Expanded Brand List
+
+For 10-brand briefs:
+
+| Position | Brand | Badge | Notes |
+|----------|-------|-------|-------|
+| #1 | FanDuel | FD | Locked |
+| #2 | BetMGM | MGM | Locked |
+| #3 | Bet365 | 365 | 59K/mo app searches |
+| #4 | DraftKings | DK | Top 3 operator |
+| #5 | theScore BET | SCR | Formerly ESPN BET |
+| #6 | Caesars | CZR | Strong rewards |
+| #7 | Fanatics | FAN | Fastest-growing |
+| #8 | BetRivers | BRV | RSI operator |
+| #9 | Hard Rock Bet | HRB | Expanding |
+| #10 | Borgata | BOR | NJ/PA strong |
