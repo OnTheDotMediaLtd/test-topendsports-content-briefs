@@ -6,6 +6,7 @@ Preserves formatting, headings, lists, tables, and code blocks
 
 import sys
 import re
+import argparse
 from pathlib import Path
 from docx import Document
 from docx.shared import Pt, RGBColor, Inches
@@ -243,12 +244,13 @@ def parse_markdown_to_docx(markdown_text, output_path):
 def convert_file(input_path):
     """
     Convert a single markdown file to docx.
+    Returns tuple of (success: bool, input_path: Path)
     """
     input_path = Path(input_path)
 
     if not input_path.exists():
         print(f"[ERROR] File not found: {input_path}")
-        return False
+        return False, input_path
 
     # Read markdown content
     with open(input_path, 'r', encoding='utf-8') as f:
@@ -260,42 +262,74 @@ def convert_file(input_path):
     # Convert
     try:
         parse_markdown_to_docx(markdown_content, str(output_path))
-        return True
+        return True, input_path
     except Exception as e:
         print(f"[ERROR] Error converting {input_path}: {e}")
-        return False
+        return False, input_path
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python convert_to_docx.py <markdown_file1> [markdown_file2] ...")
-        print("   or: python convert_to_docx.py --all  (converts all .md in output folder)")
+    parser = argparse.ArgumentParser(
+        description='Convert Markdown briefs to Word documents',
+        usage='%(prog)s [files...] [--all] [--cleanup-md]'
+    )
+    parser.add_argument('files', nargs='*', help='Markdown files to convert')
+    parser.add_argument('--all', action='store_true', help='Convert all .md files in output folder')
+    parser.add_argument('--cleanup-md', action='store_true', help='Remove source .md files after successful conversion')
+
+    args = parser.parse_args()
+
+    # Validate arguments
+    if not args.files and not args.all:
+        parser.print_help()
         sys.exit(1)
 
-    if sys.argv[1] == '--all':
+    files_to_convert = []
+    cleanup_md = args.cleanup_md
+    cleaned_files = []
+
+    if args.all:
         # Convert all markdown files in output folder
         script_dir = Path(__file__).parent
         output_dir = script_dir.parent / 'output'
 
-        md_files = list(output_dir.glob('*.md'))
+        files_to_convert = list(output_dir.glob('*.md'))
 
-        if not md_files:
+        if not files_to_convert:
             print("No markdown files found in output folder.")
             sys.exit(0)
 
-        print(f"Converting {len(md_files)} markdown files to Word...\n")
-
-        success_count = 0
-        for md_file in md_files:
-            if convert_file(md_file):
-                success_count += 1
-
-        print(f"\n[SUCCESS] Converted {success_count}/{len(md_files)} files")
-
+        print(f"Converting {len(files_to_convert)} markdown files to Word...\n")
     else:
         # Convert specified files
-        for file_path in sys.argv[1:]:
-            convert_file(file_path)
+        files_to_convert = args.files
+        if len(files_to_convert) > 1:
+            print(f"Converting {len(files_to_convert)} markdown files to Word...\n")
+
+    success_count = 0
+    for md_file in files_to_convert:
+        success, input_path = convert_file(md_file)
+
+        if success:
+            success_count += 1
+
+            # Clean up .md file if requested and conversion was successful
+            if cleanup_md:
+                try:
+                    input_path.unlink()
+                    cleaned_files.append(str(input_path))
+                    print(f"[CLEANUP] Removed: {input_path}")
+                except Exception as e:
+                    print(f"[WARNING] Could not delete {input_path}: {e}")
+
+    # Print summary
+    if args.all or len(files_to_convert) > 1:
+        print(f"\n[SUCCESS] Converted {success_count}/{len(files_to_convert)} files")
+
+    if cleaned_files:
+        print(f"[CLEANUP] Removed {len(cleaned_files)} markdown file(s)")
+        for cleaned in cleaned_files:
+            print(f"  - {cleaned}")
 
 
 if __name__ == '__main__':

@@ -24,8 +24,8 @@ Every keyword from Phase 1 MUST appear in the content. Here's the mapping:
 | sports betting app | 6,200/mo | 83 | H2 | What Makes a Great Sports Betting App |
 | best betting apps | 4,400/mo | - | H2 | Quick Answer: Top Sports Betting Apps Ranked |
 | betting app | 4,400/mo | - | H3 | Betting App Basics (under "What Makes a Great Sports Betting App") |
-| top betting apps | 3,500/mo | - | Used naturally throughout rankings |
-| top sports betting apps | 2,100/mo | 77 | Used naturally throughout rankings |
+| top betting apps | 3,500/mo | - | Natural | Used naturally throughout rankings |
+| top sports betting apps | 2,100/mo | 77 | Natural | Used naturally throughout rankings |
 | football betting apps | 1,700/mo | - | H2 | Best Apps for Football Betting |
 | sports gambling apps | 1,600/mo | - | H2 | Sports Gambling Apps vs Traditional Sportsbooks |
 | sports betting apps california | 600/mo | 64 | FAQ | "Are sports betting apps legal in California?" |
