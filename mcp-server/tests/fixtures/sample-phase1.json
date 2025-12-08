@@ -1,0 +1,169 @@
+{
+  "phase": 1,
+  "page_info": {
+    "page_name": "nfl-betting-sites",
+    "primary_keyword": "nfl betting sites",
+    "primary_volume": 12000,
+    "url": "https://www.topendsports.com/betting/nfl-betting-sites/",
+    "template_type": 2,
+    "writer": "Lewis Humphries",
+    "priority": "Critical"
+  },
+  "keyword_cluster": {
+    "primary": {
+      "keyword": "nfl betting sites",
+      "volume": 12000,
+      "difficulty": 72,
+      "traffic_potential": 8500
+    },
+    "secondary": [
+      {
+        "keyword": "best nfl betting sites",
+        "volume": 5200,
+        "difficulty": 68,
+        "traffic_potential": 3800,
+        "intent": "commercial"
+      },
+      {
+        "keyword": "nfl betting apps",
+        "volume": 8900,
+        "difficulty": 70,
+        "traffic_potential": 6200,
+        "intent": "commercial"
+      },
+      {
+        "keyword": "top nfl betting sites",
+        "volume": 2400,
+        "difficulty": 65,
+        "traffic_potential": 1800,
+        "intent": "commercial"
+      },
+      {
+        "keyword": "nfl sportsbook",
+        "volume": 3600,
+        "difficulty": 58,
+        "traffic_potential": 2400,
+        "intent": "commercial"
+      },
+      {
+        "keyword": "where to bet on nfl",
+        "volume": 1800,
+        "difficulty": 55,
+        "traffic_potential": 1200,
+        "intent": "informational"
+      },
+      {
+        "keyword": "nfl betting promos",
+        "volume": 4200,
+        "difficulty": 62,
+        "traffic_potential": 3100,
+        "intent": "commercial"
+      },
+      {
+        "keyword": "nfl betting bonuses",
+        "volume": 2900,
+        "difficulty": 60,
+        "traffic_potential": 2200,
+        "intent": "commercial"
+      },
+      {
+        "keyword": "nfl betting odds",
+        "volume": 11000,
+        "difficulty": 75,
+        "traffic_potential": 7800,
+        "intent": "informational"
+      }
+    ],
+    "total_cluster_volume": 52000,
+    "volume_increase_percentage": 433
+  },
+  "competitor_analysis": [
+    {
+      "url": "https://www.actionnetwork.com/nfl-betting",
+      "ranking": 1,
+      "domain_authority": 78,
+      "word_count": 3850,
+      "brands_featured": 8,
+      "strengths": ["Comprehensive comparison table", "Real-time odds integration", "Strong mobile focus"],
+      "weaknesses": ["Limited FAQ section", "Missing state-specific info"],
+      "content_gaps": ["Payment methods comparison", "Withdrawal times", "Customer support hours"]
+    },
+    {
+      "url": "https://www.covers.com/betting/nfl",
+      "ranking": 2,
+      "domain_authority": 75,
+      "word_count": 3200,
+      "brands_featured": 7,
+      "strengths": ["Expert analysis", "Historical data", "Betting trends"],
+      "weaknesses": ["Outdated design", "Slow load times"],
+      "content_gaps": ["Mobile app reviews", "Live betting features"]
+    },
+    {
+      "url": "https://www.thelines.com/nfl-betting-sites/",
+      "ranking": 3,
+      "domain_authority": 72,
+      "word_count": 2900,
+      "brands_featured": 6,
+      "strengths": ["Clean design", "Good UX", "Fast loading"],
+      "weaknesses": ["Limited depth", "Few FAQs"],
+      "content_gaps": ["Prop betting coverage", "Parlay builders"]
+    }
+  ],
+  "brand_selection": {
+    "featured_brands": [
+      {
+        "name": "FanDuel",
+        "position": 1,
+        "rationale": "Locked position #1 - Commercial deal. Market leader with 4.9/5 rating and best SGP builder.",
+        "usp": "Best Overall User Experience"
+      },
+      {
+        "name": "BetMGM",
+        "position": 2,
+        "rationale": "Locked position #2 - Commercial deal. Strong loyalty rewards and fast payouts.",
+        "usp": "Best Loyalty Rewards"
+      },
+      {
+        "name": "DraftKings",
+        "position": 3,
+        "rationale": "Industry leader, 29.9% best underdog prices, excellent props variety.",
+        "usp": "Best for Props Variety"
+      },
+      {
+        "name": "Caesars",
+        "position": 4,
+        "rationale": "Best spread favorites, strong odds boosts, established brand trust.",
+        "usp": "Best for Odds Boosts"
+      },
+      {
+        "name": "bet365",
+        "position": 5,
+        "rationale": "International reputation, sharpest lines, superior live betting platform.",
+        "usp": "Best for Live Betting"
+      },
+      {
+        "name": "Fanatics",
+        "position": 6,
+        "rationale": "Unique FanCash rewards system, merchandise integration, growing market share.",
+        "usp": "Best for Rewards Integration"
+      },
+      {
+        "name": "theScore BET",
+        "position": 7,
+        "rationale": "Media integration advantage, Penn Play rewards, beginner-friendly interface.",
+        "usp": "Best for Media Integration"
+      }
+    ]
+  },
+  "content_gaps_identified": [
+    "Mobile app performance comparison",
+    "Payment methods speed comparison",
+    "Live betting interface reviews",
+    "Parlay builder feature comparison",
+    "Prop betting markets depth",
+    "Same game parlay availability",
+    "Cash out options comparison"
+  ],
+  "generated_at": "2025-12-08T10:30:00Z",
+  "generated_by": "claude-sonnet-4"
+}

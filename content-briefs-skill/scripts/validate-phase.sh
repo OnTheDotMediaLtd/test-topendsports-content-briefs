@@ -92,7 +92,7 @@ validate_phase2() {
     # First, validate Phase 1 exists
     if [ ! -f "$BASE_DIR/active/${PAGE_NAME}-phase1.json" ]; then
         echo "FAIL: Phase 1 not completed - cannot validate Phase 2"
-        exit 1
+        return 1
     fi
 
     # Check JSON file exists
@@ -146,11 +146,11 @@ validate_phase3() {
     # First, validate Phase 1 and 2 exist
     if [ ! -f "$BASE_DIR/active/${PAGE_NAME}-phase1.json" ]; then
         echo "FAIL: Phase 1 not completed - cannot validate Phase 3"
-        exit 1
+        return 1
     fi
     if [ ! -f "$BASE_DIR/active/${PAGE_NAME}-phase2.json" ]; then
         echo "FAIL: Phase 2 not completed - cannot validate Phase 3"
-        exit 1
+        return 1
     fi
 
     # Check AI enhancement exists
@@ -199,16 +199,22 @@ validate_phase3() {
 
 case "$PHASE" in
     1)
+        set +e
         validate_phase1
         result=$?
+        set -e
         ;;
     2)
+        set +e
         validate_phase2
         result=$?
+        set -e
         ;;
     3)
+        set +e
         validate_phase3
         result=$?
+        set -e
         ;;
     all)
         echo ""

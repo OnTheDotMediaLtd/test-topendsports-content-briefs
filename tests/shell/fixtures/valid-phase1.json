@@ -1,0 +1,91 @@
+{
+  "primaryKeyword": {
+    "keyword": "best sports betting apps",
+    "volume": 12000,
+    "difficulty": 45,
+    "traffic_potential": 8500
+  },
+  "secondaryKeywords": [
+    {
+      "keyword": "sports betting apps",
+      "volume": 8900,
+      "difficulty": 42
+    },
+    {
+      "keyword": "best betting apps",
+      "volume": 5400,
+      "difficulty": 38
+    },
+    {
+      "keyword": "top sports betting apps",
+      "volume": 3200,
+      "difficulty": 40
+    },
+    {
+      "keyword": "sports betting apps review",
+      "volume": 2100,
+      "difficulty": 35
+    },
+    {
+      "keyword": "legal sports betting apps",
+      "volume": 1800,
+      "difficulty": 33
+    },
+    {
+      "keyword": "online sports betting apps",
+      "volume": 1500,
+      "difficulty": 36
+    },
+    {
+      "keyword": "mobile sports betting apps",
+      "volume": 1200,
+      "difficulty": 34
+    },
+    {
+      "keyword": "best sports betting apps 2025",
+      "volume": 950,
+      "difficulty": 32
+    }
+  ],
+  "brands": [
+    {
+      "name": "FanDuel",
+      "position": 1,
+      "rationale": "Locked commercial deal, #1 market leader"
+    },
+    {
+      "name": "BetMGM",
+      "position": 2,
+      "rationale": "Locked commercial deal, strong brand recognition"
+    },
+    {
+      "name": "DraftKings",
+      "position": 3,
+      "rationale": "Major competitor, excellent app features"
+    },
+    {
+      "name": "Caesars",
+      "position": 4,
+      "rationale": "Established brand, competitive odds"
+    },
+    {
+      "name": "BetRivers",
+      "position": 5,
+      "rationale": "Growing presence, good user reviews"
+    }
+  ],
+  "competitors": [
+    {
+      "url": "https://www.actionnetwork.com/sports-betting/best-apps",
+      "analysis": "Comprehensive comparison table, strong technical features"
+    },
+    {
+      "url": "https://www.covers.com/betting/best-apps",
+      "analysis": "Detailed state-by-state breakdown"
+    },
+    {
+      "url": "https://www.thelines.com/betting/apps/",
+      "analysis": "User-focused content, mobile-first approach"
+    }
+  ]
+}

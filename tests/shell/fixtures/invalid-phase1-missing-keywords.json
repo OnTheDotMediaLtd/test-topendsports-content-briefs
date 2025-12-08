@@ -1,0 +1,52 @@
+{
+  "primaryKeyword": {
+    "keyword": "best sports betting apps",
+    "volume": 12000,
+    "difficulty": 45,
+    "traffic_potential": 8500
+  },
+  "secondaryKeywords": [
+    {
+      "keyword": "sports betting apps",
+      "volume": 8900,
+      "difficulty": 42
+    },
+    {
+      "keyword": "best betting apps",
+      "volume": 5400,
+      "difficulty": 38
+    },
+    {
+      "keyword": "top sports betting apps",
+      "volume": 3200,
+      "difficulty": 40
+    }
+  ],
+  "brands": [
+    {
+      "name": "FanDuel",
+      "position": 1,
+      "rationale": "Locked commercial deal"
+    },
+    {
+      "name": "BetMGM",
+      "position": 2,
+      "rationale": "Locked commercial deal"
+    },
+    {
+      "name": "DraftKings",
+      "position": 3,
+      "rationale": "Major competitor"
+    },
+    {
+      "name": "Caesars",
+      "position": 4,
+      "rationale": "Established brand"
+    },
+    {
+      "name": "BetRivers",
+      "position": 5,
+      "rationale": "Growing presence"
+    }
+  ]
+}

@@ -24,7 +24,7 @@ import { parse } from "csv-parse/sync";
 import { execSync } from "child_process";
 
 // Determine base paths - look for content-briefs-skill directory
-const findProjectRoot = (): string => {
+export const findProjectRoot = (): string => {
   let currentDir = process.cwd();
 
   // Try to find the project root by looking for content-briefs-skill
@@ -53,7 +53,7 @@ const FEEDBACK_DIR = path.join(SKILL_DIR, "feedback");
 const SCRIPTS_DIR = path.join(SKILL_DIR, "scripts");
 
 // Brand rules - locked positions and tier information
-const BRAND_RULES = {
+export const BRAND_RULES = {
   locked_positions: {
     position_1: {
       brand: "FanDuel",
@@ -142,11 +142,17 @@ const BRAND_RULES = {
 };
 
 // CSV data cache
-let siteStructureEnglish: any[] = [];
-let siteStructureSpanish: any[] = [];
+export let siteStructureEnglish: any[] = [];
+export let siteStructureSpanish: any[] = [];
+
+// Helper to set CSV data (for testing)
+export const setSiteStructureData = (english: any[], spanish: any[]) => {
+  siteStructureEnglish = english;
+  siteStructureSpanish = spanish;
+};
 
 // Load CSV data
-const loadCSVData = () => {
+export const loadCSVData = () => {
   try {
     const englishPath = path.join(DATA_DIR, "site-structure-english.csv");
     const spanishPath = path.join(DATA_DIR, "site-structure-spanish.csv");
@@ -174,7 +180,7 @@ const loadCSVData = () => {
 };
 
 // Search site structure
-const searchSiteStructure = (query: string, language: string = "english"): any[] => {
+export const searchSiteStructure = (query: string, language: string = "english"): any[] => {
   const data = language === "spanish" ? siteStructureSpanish : siteStructureEnglish;
   const queryLower = query.toLowerCase();
 
@@ -196,13 +202,13 @@ const searchSiteStructure = (query: string, language: string = "english"): any[]
 };
 
 // Get page by URL
-const getPageByUrl = (url: string): any | null => {
+export const getPageByUrl = (url: string): any | null => {
   const allData = [...siteStructureEnglish, ...siteStructureSpanish];
   return allData.find(row => row["Full URL"] === url) || null;
 };
 
 // List briefs in a directory
-const listBriefs = (directory: string): any[] => {
+export const listBriefs = (directory: string): any[] => {
   if (!fs.existsSync(directory)) {
     return [];
   }
