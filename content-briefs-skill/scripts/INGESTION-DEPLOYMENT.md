@@ -33,35 +33,35 @@
 
 ## Key Features
 
-✓ **Automated Feedback Parsing**
-  - Reads feedback files from `feedback/validated/` directory
-  - Handles various formatting variations gracefully
-  - Extracts structured data from markdown
+**Automated Feedback Parsing**
+- Reads feedback files from `feedback/validated/` directory
+- Handles various formatting variations gracefully
+- Extracts structured data from markdown
 
-✓ **Intelligent Lesson Extraction**
-  - Converts feedback items to actionable lessons
-  - Categorizes by type (Keyword, Structure, Technical, etc.)
-  - Prioritizes by severity (Critical, Important, Nice-to-Have)
-  - Tracks source and context
+**Intelligent Lesson Extraction**
+- Converts feedback items to actionable lessons
+- Categorizes by type (Keyword, Structure, Technical, etc.)
+- Prioritizes by severity (Critical, Important, Nice-to-Have)
+- Tracks source and context
 
-✓ **Comprehensive Reporting**
-  - Summary statistics (files, lessons, quality ratings)
-  - Lessons organized by category
-  - Source tracking and audit trail
-  - Recommendations for next steps
+**Comprehensive Reporting**
+- Summary statistics (files, lessons, quality ratings)
+- Lessons organized by category
+- Source tracking and audit trail
+- Recommendations for next steps
 
-✓ **Optional Documentation Updates**
-  - Previews changes with `--dry-run`
-  - Appends new lessons to `lessons-learned.md`
-  - Preserves existing content
-  - Prevents duplicates
+**Optional Documentation Updates**
+- Previews changes with `--dry-run`
+- Appends new lessons to `lessons-learned.md`
+- Preserves existing content
+- Prevents duplicates
 
-✓ **Production-Ready**
-  - Error handling for all edge cases
-  - Graceful degradation (doesn't fail on partial data)
-  - Verbose mode for debugging
-  - Proper exit codes
-  - No external dependencies
+**Production-Ready**
+- Error handling for all edge cases
+- Graceful degradation (doesn't fail on partial data)
+- Verbose mode for debugging
+- Proper exit codes
+- No external dependencies
 
 ## Quick Start
 
