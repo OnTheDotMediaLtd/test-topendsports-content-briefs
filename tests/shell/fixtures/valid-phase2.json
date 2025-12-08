@@ -1,0 +1,67 @@
+{
+  "outline": {
+    "h1": "Best Sports Betting Apps 2025: Top Picks Reviewed",
+    "sections": [
+      {
+        "h2": "How We Ranked the Best Sports Betting Apps",
+        "h3": ["Evaluation Criteria", "Testing Methodology"]
+      },
+      {
+        "h2": "Top 7 Sports Betting Apps Compared",
+        "h3": ["FanDuel Sportsbook", "BetMGM", "DraftKings", "Caesars", "BetRivers", "Fanatics", "ESPN BET"]
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What is the best sports betting app?",
+      "targetKeyword": "best sports betting app"
+    },
+    {
+      "question": "Are sports betting apps legal?",
+      "targetKeyword": "legal sports betting apps"
+    },
+    {
+      "question": "How do I download a sports betting app?",
+      "targetKeyword": "download sports betting app"
+    },
+    {
+      "question": "Which sports betting app has the best odds?",
+      "targetKeyword": "best odds sports betting"
+    },
+    {
+      "question": "Can I bet on sports from my phone?",
+      "targetKeyword": "mobile sports betting"
+    },
+    {
+      "question": "Do sports betting apps offer bonuses?",
+      "targetKeyword": "sports betting app bonuses"
+    },
+    {
+      "question": "What states allow sports betting apps?",
+      "targetKeyword": "states with sports betting apps"
+    },
+    {
+      "question": "How do I withdraw money from betting apps?",
+      "targetKeyword": "withdraw from betting app"
+    }
+  ],
+  "sources": [
+    {
+      "tier": 1,
+      "source": "App Store reviews",
+      "purpose": "User experience data"
+    },
+    {
+      "tier": 1,
+      "source": "Reddit r/sportsbook",
+      "purpose": "Real user opinions"
+    }
+  ],
+  "wordCounts": {
+    "introduction": 200,
+    "howWeRanked": 300,
+    "brandSections": 500,
+    "faqSection": 800
+  }
+}
