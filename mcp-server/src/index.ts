@@ -25,22 +25,64 @@ import { execSync } from "child_process";
 
 // Determine base paths - look for content-briefs-skill directory
 export const findProjectRoot = (): string => {
-  let currentDir = process.cwd();
-
-  // Try to find the project root by looking for content-briefs-skill
-  const possiblePaths = [
-    currentDir,
-    path.dirname(currentDir), // Parent of mcp-server
-    path.join(currentDir, ".."),
-    "/home/user/topendsports-content-briefs"
-  ];
-
-  for (const p of possiblePaths) {
-    if (fs.existsSync(path.join(p, "content-briefs-skill"))) {
-      return p;
+  // Check for explicit environment variable first (most reliable for Claude Desktop)
+  if (process.env.TOPENDSPORTS_PROJECT_ROOT) {
+    const envRoot = process.env.TOPENDSPORTS_PROJECT_ROOT;
+    if (fs.existsSync(path.join(envRoot, "content-briefs-skill"))) {
+      return envRoot;
     }
   }
 
+  // Get the directory where this script is located
+  let normalizedScriptDir = "";
+  try {
+    const scriptUrl = new URL(import.meta.url);
+    let scriptDir = scriptUrl.pathname;
+
+    // On Windows, URL pathname looks like /C:/path/to/file
+    // We need to handle this properly
+    if (process.platform === 'win32') {
+      // Remove leading slash and decode URI components
+      scriptDir = decodeURIComponent(scriptDir);
+      if (scriptDir.startsWith('/') && /^\/[A-Za-z]:/.test(scriptDir)) {
+        scriptDir = scriptDir.slice(1);
+      }
+    }
+
+    normalizedScriptDir = path.dirname(scriptDir);
+  } catch (e) {
+    // Fallback if URL parsing fails
+    normalizedScriptDir = process.cwd();
+  }
+
+  const currentDir = process.cwd();
+
+  // Try to find the project root by looking for content-briefs-skill
+  const possiblePaths = [
+    // From script location (most reliable when spawned by Claude Desktop)
+    path.resolve(normalizedScriptDir, "../.."), // Two levels up from dist/index.js
+    path.resolve(normalizedScriptDir, ".."), // One level up (if running from src)
+    // From current working directory
+    currentDir,
+    path.dirname(currentDir), // Parent of mcp-server
+    path.join(currentDir, ".."),
+    // Common locations on Windows
+    process.platform === 'win32' ? path.join(process.env.USERPROFILE || "", "topendsports-content-briefs") : "",
+    process.platform === 'win32' ? path.join(process.env.USERPROFILE || "", "Documents", "topendsports-content-briefs") : "",
+  ].filter(p => p !== ""); // Remove empty paths
+
+  for (const p of possiblePaths) {
+    try {
+      const normalizedPath = path.normalize(p);
+      if (fs.existsSync(path.join(normalizedPath, "content-briefs-skill"))) {
+        return normalizedPath;
+      }
+    } catch {
+      // Continue to next path if this one fails
+    }
+  }
+
+  // Last resort: return current directory
   return currentDir;
 };
 
@@ -872,6 +914,23 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
 
 // Start the server
 async function main() {
+  // Log startup diagnostics for debugging
+  console.error("=== MCP Server Startup Diagnostics ===");
+  console.error(`Platform: ${process.platform}`);
+  console.error(`Node version: ${process.version}`);
+  console.error(`CWD: ${process.cwd()}`);
+  console.error(`PROJECT_ROOT: ${PROJECT_ROOT}`);
+  console.error(`SKILL_DIR: ${SKILL_DIR}`);
+  console.error(`DATA_DIR: ${DATA_DIR}`);
+
+  // Check if key directories exist
+  console.error(`content-briefs-skill exists: ${fs.existsSync(SKILL_DIR)}`);
+  console.error(`data dir exists: ${fs.existsSync(DATA_DIR)}`);
+
+  const englishCSV = path.join(DATA_DIR, "site-structure-english.csv");
+  console.error(`English CSV exists: ${fs.existsSync(englishCSV)}`);
+  console.error("=== End Diagnostics ===");
+
   loadCSVData();
 
   const transport = new StdioServerTransport();
@@ -880,4 +939,8 @@ async function main() {
   console.error("TopEndSports Content Briefs MCP Server running on stdio");
 }
 
-main().catch(console.error);
+main().catch((error) => {
+  console.error("=== MCP Server Fatal Error ===");
+  console.error(error);
+  process.exit(1);
+});
