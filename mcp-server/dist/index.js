@@ -17,18 +17,30 @@ import * as path from "path";
 import { parse } from "csv-parse/sync";
 import { execSync } from "child_process";
 // Determine base paths - look for content-briefs-skill directory
-const findProjectRoot = () => {
+export const findProjectRoot = () => {
+    // Get the directory where this script is located
+    const scriptDir = path.dirname(new URL(import.meta.url).pathname);
+    // On Windows, remove leading slash from /C:/... paths
+    const normalizedScriptDir = process.platform === 'win32' && scriptDir.startsWith('/')
+        ? scriptDir.slice(1)
+        : scriptDir;
     let currentDir = process.cwd();
     // Try to find the project root by looking for content-briefs-skill
     const possiblePaths = [
         currentDir,
         path.dirname(currentDir), // Parent of mcp-server
         path.join(currentDir, ".."),
-        "/home/user/topendsports-content-briefs"
+        path.resolve(normalizedScriptDir, "../.."), // Two levels up from dist/index.js
+        path.resolve(normalizedScriptDir, ".."), // One level up
     ];
     for (const p of possiblePaths) {
-        if (fs.existsSync(path.join(p, "content-briefs-skill"))) {
-            return p;
+        try {
+            if (fs.existsSync(path.join(p, "content-briefs-skill"))) {
+                return p;
+            }
+        }
+        catch {
+            // Continue to next path if this one fails
         }
     }
     return currentDir;
@@ -41,7 +53,7 @@ const OUTPUT_DIR = path.join(SKILL_DIR, "output");
 const FEEDBACK_DIR = path.join(SKILL_DIR, "feedback");
 const SCRIPTS_DIR = path.join(SKILL_DIR, "scripts");
 // Brand rules - locked positions and tier information
-const BRAND_RULES = {
+export const BRAND_RULES = {
     locked_positions: {
         position_1: {
             brand: "FanDuel",
@@ -129,10 +141,15 @@ const BRAND_RULES = {
     }
 };
 // CSV data cache
-let siteStructureEnglish = [];
-let siteStructureSpanish = [];
+export let siteStructureEnglish = [];
+export let siteStructureSpanish = [];
+// Helper to set CSV data (for testing)
+export const setSiteStructureData = (english, spanish) => {
+    siteStructureEnglish = english;
+    siteStructureSpanish = spanish;
+};
 // Load CSV data
-const loadCSVData = () => {
+export const loadCSVData = () => {
     try {
         const englishPath = path.join(DATA_DIR, "site-structure-english.csv");
         const spanishPath = path.join(DATA_DIR, "site-structure-spanish.csv");
@@ -158,7 +175,7 @@ const loadCSVData = () => {
     }
 };
 // Search site structure
-const searchSiteStructure = (query, language = "english") => {
+export const searchSiteStructure = (query, language = "english") => {
     const data = language === "spanish" ? siteStructureSpanish : siteStructureEnglish;
     const queryLower = query.toLowerCase();
     return data.filter(row => {
@@ -175,12 +192,12 @@ const searchSiteStructure = (query, language = "english") => {
     });
 };
 // Get page by URL
-const getPageByUrl = (url) => {
+export const getPageByUrl = (url) => {
     const allData = [...siteStructureEnglish, ...siteStructureSpanish];
     return allData.find(row => row["Full URL"] === url) || null;
 };
 // List briefs in a directory
-const listBriefs = (directory) => {
+export const listBriefs = (directory) => {
     if (!fs.existsSync(directory)) {
         return [];
     }

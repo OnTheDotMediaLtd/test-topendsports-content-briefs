@@ -25,6 +25,13 @@ import { execSync } from "child_process";
 
 // Determine base paths - look for content-briefs-skill directory
 export const findProjectRoot = (): string => {
+  // Get the directory where this script is located
+  const scriptDir = path.dirname(new URL(import.meta.url).pathname);
+  // On Windows, remove leading slash from /C:/... paths
+  const normalizedScriptDir = process.platform === 'win32' && scriptDir.startsWith('/')
+    ? scriptDir.slice(1)
+    : scriptDir;
+
   let currentDir = process.cwd();
 
   // Try to find the project root by looking for content-briefs-skill
@@ -32,12 +39,17 @@ export const findProjectRoot = (): string => {
     currentDir,
     path.dirname(currentDir), // Parent of mcp-server
     path.join(currentDir, ".."),
-    "/home/user/topendsports-content-briefs"
+    path.resolve(normalizedScriptDir, "../.."), // Two levels up from dist/index.js
+    path.resolve(normalizedScriptDir, ".."), // One level up
   ];
 
   for (const p of possiblePaths) {
-    if (fs.existsSync(path.join(p, "content-briefs-skill"))) {
-      return p;
+    try {
+      if (fs.existsSync(path.join(p, "content-briefs-skill"))) {
+        return p;
+      }
+    } catch {
+      // Continue to next path if this one fails
     }
   }
 
