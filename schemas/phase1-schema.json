@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Phase 1 - Research Output Schema",
+  "description": "Validates the output of Phase 1 (Research) in the content-briefs workflow. Contains keyword research, competitive analysis, and brand selection.",
+  "type": "object",
+  "required": [
+    "primary_keyword",
+    "primary_volume",
+    "secondary_keywords",
+    "competitor_analysis",
+    "brand_selection",
+    "writer_assignment",
+    "total_cluster_volume",
+    "country"
+  ],
+  "properties": {
+    "primary_keyword": {
+      "type": "string",
+      "description": "The main keyword that is the focus of the content research and optimization strategy",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "primary_volume": {
+      "type": "number",
+      "description": "Monthly search volume for the primary keyword",
+      "minimum": 0
+    },
+    "secondary_keywords": {
+      "type": "array",
+      "description": "Array of secondary keywords related to the primary keyword cluster",
+      "minItems": 8,
+      "maxItems": 15,
+      "items": {
+        "type": "object",
+        "required": ["keyword", "volume"],
+        "properties": {
+          "keyword": {
+            "type": "string",
+            "description": "The secondary keyword term",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "volume": {
+            "type": "number",
+            "description": "Monthly search volume for this secondary keyword",
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "competitor_analysis": {
+      "type": "array",
+      "description": "Analysis of competing domains ranking for the primary keyword",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["domain", "rank", "keywords"],
+        "properties": {
+          "domain": {
+            "type": "string",
+            "description": "The competitor's domain name",
+            "minLength": 1
+          },
+          "rank": {
+            "type": "integer",
+            "description": "Current ranking position for the primary keyword",
+            "minimum": 1,
+            "maximum": 100
+          },
+          "keywords": {
+            "type": "array",
+            "description": "Keywords this competitor ranks for",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "brand_selection": {
+      "type": "array",
+      "description": "Ordered list of selected brands for the article, with FanDuel as #1 and BetMGM as #2",
+      "minItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["rank", "brand_name"],
+        "properties": {
+          "rank": {
+            "type": "integer",
+            "description": "Priority ranking of the brand (1 = most important)",
+            "minimum": 1
+          },
+          "brand_name": {
+            "type": "string",
+            "description": "Name of the brand/sportsbook",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      },
+      "allOf": [
+        {
+          "contains": {
+            "properties": {
+              "rank": { "const": 1 },
+              "brand_name": { "const": "FanDuel" }
+            }
+          }
+        },
+        {
+          "contains": {
+            "properties": {
+              "rank": { "const": 2 },
+              "brand_name": { "const": "BetMGM" }
+            }
+          }
+        }
+      ]
+    },
+    "writer_assignment": {
+      "type": "string",
+      "description": "Assigned writer for Phase 2 content creation",
+      "enum": ["Lewis", "Tom", "Gustavo Cantella"]
+    },
+    "total_cluster_volume": {
+      "type": "number",
+      "description": "Combined search volume of all keywords in the cluster (primary + secondary)",
+      "minimum": 0
+    },
+    "country": {
+      "type": "string",
+      "description": "Target country for the research and content",
+      "enum": ["US", "ES"]
+    }
+  },
+  "additionalProperties": false
+}

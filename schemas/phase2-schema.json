@@ -1,0 +1,172 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Phase 2 - Writer Brief Output Schema",
+  "description": "Validates the output of Phase 2 (Writer Brief) in the content-briefs workflow. Contains content outline, FAQ structure, and writing guidelines.",
+  "type": "object",
+  "required": [
+    "content_outline",
+    "faq_questions",
+    "source_requirements",
+    "word_count_target",
+    "writer",
+    "keyword_mapping"
+  ],
+  "properties": {
+    "content_outline": {
+      "type": "object",
+      "description": "Structured outline of the article content with H2 and H3 sections",
+      "required": ["h2_sections", "h3_sections"],
+      "properties": {
+        "h2_sections": {
+          "type": "array",
+          "description": "List of H2 (heading 2) section titles",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+              "title": {
+                "type": "string",
+                "description": "The H2 section title",
+                "minLength": 1
+              },
+              "description": {
+                "type": "string",
+                "description": "Brief description of what this section should contain"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "h3_sections": {
+          "type": "array",
+          "description": "List of H3 (heading 3) subsections",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["title", "parent_h2"],
+            "properties": {
+              "title": {
+                "type": "string",
+                "description": "The H3 subsection title",
+                "minLength": 1
+              },
+              "parent_h2": {
+                "type": "string",
+                "description": "Title of the parent H2 section",
+                "minLength": 1
+              },
+              "description": {
+                "type": "string",
+                "description": "Brief description of what this subsection should contain"
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "faq_questions": {
+      "type": "array",
+      "description": "Frequently asked questions for the article or review (5-7 items)",
+      "minItems": 5,
+      "maxItems": 7,
+      "items": {
+        "type": "object",
+        "required": ["question", "keyword_target"],
+        "properties": {
+          "question": {
+            "type": "string",
+            "description": "The FAQ question",
+            "minLength": 1
+          },
+          "keyword_target": {
+            "type": "string",
+            "description": "The keyword this FAQ item targets",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "source_requirements": {
+      "type": "object",
+      "description": "Guidelines for sourcing information and citations",
+      "required": ["tier1_preferred", "sources"],
+      "properties": {
+        "tier1_preferred": {
+          "type": "boolean",
+          "description": "Whether Tier 1 (authoritative) sources should be prioritized"
+        },
+        "sources": {
+          "type": "array",
+          "description": "List of recommended or required sources",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Name of the source",
+                "minLength": 1
+              },
+              "type": {
+                "type": "string",
+                "description": "Type of source (e.g., official, news, research)"
+              },
+              "url": {
+                "type": "string",
+                "description": "URL of the source",
+                "format": "uri"
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "word_count_target": {
+      "type": "number",
+      "description": "Target word count for the article",
+      "minimum": 1500,
+      "maximum": 4000
+    },
+    "writer": {
+      "type": "string",
+      "description": "Assigned writer from Phase 1 (Lewis, Tom, or Gustavo Cantella)",
+      "enum": ["Lewis", "Tom", "Gustavo Cantella"]
+    },
+    "keyword_mapping": {
+      "type": "object",
+      "description": "Mapping of content sections to target keywords",
+      "properties": {
+        "h2_keywords": {
+          "type": "object",
+          "description": "Mapping of H2 sections to their target keywords",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "h3_keywords": {
+          "type": "object",
+          "description": "Mapping of H3 sections to their target keywords",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "faq_keywords": {
+          "type": "array",
+          "description": "Keywords targeted across FAQ items",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

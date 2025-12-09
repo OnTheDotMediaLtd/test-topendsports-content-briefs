@@ -1,0 +1,225 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Phase 3 - AI Enhancement Output Schema",
+  "description": "Validates the output of Phase 3 (AI Enhancement) in the content-briefs workflow. Contains HTML components, schema markup, brand terms, and interactive elements.",
+  "type": "object",
+  "required": [
+    "html_components",
+    "schema_markup",
+    "terms_and_conditions",
+    "interactive_elements",
+    "responsible_gambling"
+  ],
+  "properties": {
+    "html_components": {
+      "type": "array",
+      "description": "HTML components to be integrated into the article (must include comparison_table and brand_cards)",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["component_type", "html"],
+        "properties": {
+          "component_type": {
+            "type": "string",
+            "description": "Type of HTML component",
+            "enum": [
+              "comparison_table",
+              "brand_cards",
+              "feature_list",
+              "testimonial_section",
+              "cta_button",
+              "info_box"
+            ]
+          },
+          "html": {
+            "type": "string",
+            "description": "The HTML code for this component",
+            "minLength": 1
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of where and how to use this component"
+          }
+        },
+        "additionalProperties": false
+      },
+      "allOf": [
+        {
+          "contains": {
+            "properties": {
+              "component_type": { "const": "comparison_table" }
+            }
+          }
+        },
+        {
+          "contains": {
+            "properties": {
+              "component_type": { "const": "brand_cards" }
+            }
+          }
+        }
+      ]
+    },
+    "schema_markup": {
+      "type": "object",
+      "description": "Structured data (JSON-LD) for search engine optimization",
+      "required": ["article", "faq", "breadcrumb"],
+      "properties": {
+        "article": {
+          "type": "object",
+          "description": "Article schema markup",
+          "properties": {
+            "@context": {
+              "type": "string",
+              "const": "https://schema.org"
+            },
+            "@type": {
+              "type": "string",
+              "const": "Article"
+            },
+            "headline": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "author": {
+              "type": "object"
+            },
+            "datePublished": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "faq": {
+          "type": "object",
+          "description": "FAQ schema markup",
+          "properties": {
+            "@context": {
+              "type": "string",
+              "const": "https://schema.org"
+            },
+            "@type": {
+              "type": "string",
+              "const": "FAQPage"
+            },
+            "mainEntity": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "@type": {
+                    "type": "string",
+                    "const": "Question"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "acceptedAnswer": {
+                    "type": "object"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "breadcrumb": {
+          "type": "object",
+          "description": "Breadcrumb navigation schema markup",
+          "properties": {
+            "@context": {
+              "type": "string",
+              "const": "https://schema.org"
+            },
+            "@type": {
+              "type": "string",
+              "const": "BreadcrumbList"
+            },
+            "itemListElement": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "@type": {
+                    "type": "string",
+                    "const": "ListItem"
+                  },
+                  "position": {
+                    "type": "integer"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "item": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "terms_and_conditions": {
+      "type": "array",
+      "description": "Terms and conditions content for each brand featured in the article",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["brand_name", "content"],
+        "properties": {
+          "brand_name": {
+            "type": "string",
+            "description": "Name of the brand/sportsbook",
+            "minLength": 1
+          },
+          "content": {
+            "type": "string",
+            "description": "Terms and conditions content for this brand",
+            "minLength": 1
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "interactive_elements": {
+      "type": "object",
+      "description": "Interactive features to enhance user engagement",
+      "required": ["bonus_calculator", "state_checker"],
+      "properties": {
+        "bonus_calculator": {
+          "type": "boolean",
+          "description": "Whether to include a bonus calculator tool"
+        },
+        "state_checker": {
+          "type": "boolean",
+          "description": "Whether to include a state availability/legality checker"
+        }
+      },
+      "additionalProperties": {
+        "type": "boolean"
+      }
+    },
+    "responsible_gambling": {
+      "type": "object",
+      "description": "Responsible gambling messaging and resources",
+      "required": ["content", "hotline"],
+      "properties": {
+        "content": {
+          "type": "string",
+          "description": "Responsible gambling awareness content",
+          "minLength": 1
+        },
+        "hotline": {
+          "type": "string",
+          "description": "Gambling helpline contact information",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

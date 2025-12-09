@@ -1,0 +1,67 @@
+{
+  "content_type": "article",
+  "content_outline": {
+    "intro": "Introduction to online sportsbooks and their growth",
+    "main_sections": 8
+  },
+  "h2_sections": {
+    "Best Online Sportsbooks": {
+      "keyword": "best online sportsbooks",
+      "volume": 12500
+    },
+    "How to Choose a Sportsbook": {
+      "keyword": "how to choose sportsbook",
+      "volume": 8200
+    },
+    "Mobile Betting Apps": {
+      "keyword": "mobile betting apps",
+      "volume": 7200
+    },
+    "Betting Odds Explained": {
+      "keyword": "betting odds explained",
+      "volume": 5600
+    }
+  },
+  "h3_sections": {
+    "NFL Betting": {
+      "keyword": "nfl betting sites",
+      "volume": 6800
+    },
+    "NBA Betting": {
+      "keyword": "nba betting sites",
+      "volume": 5200
+    },
+    "College Football Betting": {
+      "keyword": "college football betting",
+      "volume": 3200
+    }
+  },
+  "faq": {
+    "questions": [
+      {
+        "question": "What is the best sportsbook for beginners?",
+        "keyword": "best sportsbook beginners"
+      },
+      {
+        "question": "How do I place a parlay bet?",
+        "keyword": "how to parlay betting"
+      },
+      {
+        "question": "Are online sportsbooks legal?",
+        "keyword": "legal online sportsbooks"
+      },
+      {
+        "question": "What are deposit bonuses?",
+        "keyword": "sportsbook welcome bonus"
+      },
+      {
+        "question": "Can I bet on my phone?",
+        "keyword": "mobile sports betting"
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier1_preferred": true,
+    "minimum_sources": 10
+  }
+}
