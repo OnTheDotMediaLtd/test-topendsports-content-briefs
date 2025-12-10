@@ -1,66 +1,83 @@
-[build-system]
-requires = ["setuptools>=45", "wheel"]
-build-backend = "setuptools.build_meta"
+[tool.bandit]
+# Bandit security linter configuration
+# Used by pre-commit hooks to scan Python code for security issues
 
-[project]
-name = "topendsports-content-briefs"
-version = "0.1.0"
-description = "Content briefs generation system for TopEndSports"
-readme = "README.md"
-requires-python = ">=3.8"
-dependencies = [
-    "python-docx>=0.8.11",
-    "requests>=2.31.0",
-    "urllib3>=2.0.0",
+# Directories to scan
+targets = ["scripts"]
+
+# Exclude test files and generated code
+exclude_dirs = [
+    "tests",
+    ".venv",
+    "venv",
+    "env",
+    ".git",
+    "__pycache__"
 ]
 
-[project.optional-dependencies]
-dev = [
-    "pytest>=7.4.0",
-    "pytest-mock>=3.11.1",
-    "pytest-cov>=4.1.0",
-    "pytest-timeout>=2.1.0",
+# Skip specific test IDs (use cautiously)
+# B101: assert_used (OK in test files)
+# B601: paramiko_calls (not using paramiko)
+# B602: shell_injection_popen (carefully audited in our code)
+skips = ["B101", "B601"]
+
+# Tests to run (leave empty to run all)
+tests = []
+
+# Issue severity level
+# Options: "LOW", "MEDIUM", "HIGH"
+severity = "MEDIUM"
+
+# Confidence level for issues
+# Options: "LOW", "MEDIUM", "HIGH"
+confidence = "MEDIUM"
+
+[tool.bandit.assert_used]
+# Allow asserts in test files
+skips = ['*_test.py', 'test_*.py']
+
+[tool.black]
+# Black Python formatter configuration
+line-length = 100
+target-version = ['py39', 'py310', 'py311']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+    \.git
+  | \.venv
+  | venv
+  | __pycache__
+  | \.pytest_cache
+)/
+'''
+
+[tool.isort]
+# isort import sorting configuration
+profile = "black"
+line_length = 100
+skip_gitignore = true
+known_first_party = ["scripts"]
+
+[tool.pylint]
+# Pylint configuration (if used)
+max-line-length = 100
+disable = [
+    "C0111",  # missing-docstring (we use selective docstrings)
+    "C0103",  # invalid-name (allow single-letter variables)
 ]
 
 [tool.pytest.ini_options]
-testpaths = ["tests/python"]
-python_files = ["test_*.py"]
+# pytest configuration
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
 python_classes = ["Test*"]
 python_functions = ["test_*"]
 addopts = [
-    "-v",
+    "-ra",
     "--strict-markers",
-    "--tb=short",
-]
-markers = [
-    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
-    "integration: marks tests as integration tests",
-    "unit: marks tests as unit tests",
-]
-timeout = 30
-filterwarnings = [
-    "ignore::DeprecationWarning",
-    "ignore::PendingDeprecationWarning",
-]
-
-[tool.coverage.run]
-source = [
-    "content-briefs-skill/scripts",
-    ".claude/scripts",
-]
-omit = [
-    "*/tests/*",
-    "*/test_*.py",
-]
-
-[tool.coverage.report]
-exclude_lines = [
-    "pragma: no cover",
-    "def __repr__",
-    "raise AssertionError",
-    "raise NotImplementedError",
-    "if __name__ == .__main__.:",
-    "if TYPE_CHECKING:",
-    "class .*\\bProtocol\\):",
-    "@(abc\\.)?abstractmethod",
+    "--strict-config",
+    "--cov=scripts",
+    "--cov-report=term-missing:skip-covered",
+    "--cov-report=html",
+    "--cov-report=xml",
 ]
