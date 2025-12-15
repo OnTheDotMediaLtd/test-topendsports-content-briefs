@@ -104,14 +104,17 @@ commission, and why we recommend these brands based on research]
 
 ---
 
-### COMPARISON TABLE (Component)
-**Word Count:** 200 words (visual component, supporting text)
-**Requirements:**
-- Interactive table: All 10 brands
-- Columns: Brand Name | Current Offer | Bonus Amount | Wagering Req | Min Odds | Expiry | Deposit Methods
-- Sortable by offer value
-- Mobile-responsive design
-- Summary text explaining table
+### COMPARISON TABLE CONTENT
+**Word Count:** 200 words (intro text + data verification)
+
+**Note:** Phase 3 will create the interactive, sortable, mobile-responsive table. Your job is to provide accurate content.
+
+**Your Tasks:**
+- Write introductory text (150-200 words) explaining how to use the comparison
+- Verify all data is accurate for these columns:
+  - Brand Name | Current Offer | Bonus Amount | Wagering Req | Min Odds | Expiry | Deposit Methods
+- Ensure all 10 brands have complete, verified information
+- Check offer expiry dates are current
 
 ---
 
