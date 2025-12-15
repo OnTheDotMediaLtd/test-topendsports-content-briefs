@@ -38,7 +38,6 @@ This page targets UK bettors searching for new customer betting offers and welco
 | **best betting offers** | 1,300/mo | H2 | Best Betting Offers in the UK | Lead section establishing authority |
 | **top 20 betting sites uk free** | 1,300/mo | FAQ | "What are the top 20 betting sites in the UK offering free bets?" | FAQ #1 |
 | **betting sites sign up offers** | 800/mo | H2 | Betting Sites Sign Up Offers Compared | Comparison section |
-| **best free bets** | 700/mo | H2 | Best Free Bets from UK Bookmakers | Free bet specific analysis |
 | **betting offers uk** | 600/mo | H2 | Complete UK Betting Offers T&Cs | Full T&Cs for all brands |
 | **betting site offers** | 600/mo | H3 | Understanding Different Betting Site Offers | Under Sign Up Offers section |
 | **best sign up offers betting** | 500/mo | H3 | Best Sign Up Offers Betting Sites Provide | Under Best Betting Offers |
@@ -47,7 +46,6 @@ This page targets UK bettors searching for new customer betting offers and welco
 | **champions league betting offers** | 450/mo | H2 + FAQ | Champions League Betting Offers & Event Promotions | Seasonal offers section |
 | **welcome offers betting** | 350/mo | H2 + FAQ | Welcome Offers Betting: How to Claim | Process guide |
 | **sign up betting offers** | 300/mo | H3 | Maximizing Sign Up Betting Offers Value | Under Welcome Offers section |
-| **free bet sign up offer** | 200/mo | FAQ | "How do free bet sign up offers work?" | FAQ #3 |
 | **betting app sign up offers** | 200/mo | H3 | Betting App Sign Up Offers & Mobile Bonuses | Under Mobile section |
 | **betting apps offers** | 150/mo | FAQ | "Do betting apps have better offers than websites?" | FAQ #4 |
 | **football betting promotions** | 150/mo | H3 | Football Betting Promotions Throughout the Season | Under Champions League section |
@@ -56,7 +54,7 @@ This page targets UK bettors searching for new customer betting offers and welco
 
 **Meta Keywords (for AI Enhancement phase):**
 ```
-new customer betting offers, best betting offers, top 20 betting sites uk free, betting sites sign up offers, best free bets, betting offers uk, betting site offers, best sign up offers betting, best new customer betting offers, sign up offers betting, champions league betting offers, welcome offers betting, sign up betting offers, free bet sign up offer, betting app sign up offers, betting apps offers, football betting promotions, best offers betting sites, betting company offers
+new customer betting offers, best betting offers, top 20 betting sites uk free, betting sites sign up offers, betting offers uk, betting site offers, best sign up offers betting, best new customer betting offers, sign up offers betting, champions league betting offers, welcome offers betting, sign up betting offers, betting app sign up offers, betting apps offers, football betting promotions, best offers betting sites, betting company offers
 ```
 
 ---
@@ -396,18 +394,6 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 
 ---
 
-### H2: Best Free Bets from UK Bookmakers (450 words) ← **"best free bets"** (700/mo)
-
-**Content Focus:**
-- Which of the 9 operators offer true "free bets" (not deposit match)
-- Free bet value comparison
-- Stake not returned (SNR) explanation
-- Wagering requirements for free bet winnings
-- Best free bet offers ranked by actual value
-- How to maximize free bet value (odds selection strategy)
-
----
-
 ### H2: Mobile App Exclusive Offers (400 words)
 
 **Content Focus:**
@@ -567,22 +553,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #3: "How do free bet sign up offers work?" ← **"free bet sign up offer"** (200/mo)
-
-**Answer Focus:**
-- Step-by-step process:
-  1. Register and verify account
-  2. Make qualifying deposit (usually £10-£20)
-  3. Place qualifying bet at minimum odds
-  4. Receive free bet within 24-48 hours
-- **Key difference:** Stake Not Returned (SNR) - you keep only winnings, not the stake
-- Free bet must be used within expiry period (usually 7-30 days)
-- Winnings may have wagering requirements (check T&Cs)
-- Example calculation showing actual value
-
----
-
-### FAQ #4: "Do betting apps have better offers than websites?" ← **"betting apps offers"** (150/mo)
+### FAQ #3: "Do betting apps have better offers than websites?" ← **"betting apps offers"** (150/mo)
 
 **Answer Focus:**
 - Some operators offer app-exclusive bonuses (MogoBet, NRGbet)
@@ -598,7 +569,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #5: "Which betting sites have the best offers right now?" ← **"best offers betting sites"** (100/mo)
+### FAQ #4: "Which betting sites have the best offers right now?" ← **"best offers betting sites"** (100/mo)
 
 **Answer Focus:**
 - As of [current month], Bet442, LuckyMate, and NRGbet lead
@@ -613,7 +584,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #6: "What types of offers do betting companies provide?" ← **"betting company offers"** (100/mo)
+### FAQ #5: "What types of offers do betting companies provide?" ← **"betting company offers"** (100/mo)
 
 **Answer Focus:**
 - **New Customer Offers:**
@@ -631,7 +602,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #7: "Are new customer betting offers better than existing customer promotions?" ← **"new customer betting offers"** (1,200/mo)
+### FAQ #6: "Are new customer betting offers better than existing customer promotions?" ← **"new customer betting offers"** (1,200/mo)
 
 **Answer Focus:**
 - New customer offers typically provide higher initial value
@@ -646,7 +617,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #8: "What wagering requirements apply to welcome offers?" ← **"welcome offers betting"** (350/mo)
+### FAQ #7: "What wagering requirements apply to welcome offers?" ← **"welcome offers betting"** (350/mo)
 
 **Answer Focus:**
 - Wagering requirement = how many times you must bet the bonus before withdrawal
@@ -663,7 +634,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #9: "Can I claim betting site offers on multiple platforms?" ← **"betting site offers"** (600/mo)
+### FAQ #8: "Can I claim betting site offers on multiple platforms?" ← **"betting site offers"** (600/mo)
 
 **Answer Focus:**
 - You can claim offers from multiple different operators
@@ -677,7 +648,7 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 ---
 
-### FAQ #10: "When do Champions League betting offers typically appear?" ← **"champions league betting offers"** (450/mo)
+### FAQ #9: "When do Champions League betting offers typically appear?" ← **"champions league betting offers"** (450/mo)
 
 **Answer Focus:**
 - UCL offers appear throughout the competition season (September-May)

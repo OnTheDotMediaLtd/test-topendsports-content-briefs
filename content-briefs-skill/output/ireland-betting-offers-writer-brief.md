@@ -43,7 +43,6 @@ Map these keywords to specific sections (each with real search volume):
 
 | Keyword | Volume | Section | Placement |
 |---------|--------|---------|-----------|
-| free bets ireland | 150/mo | Types of Betting Offers | H2 |
 | irish betting promotions | 120/mo | Current Promotions | H2 |
 | best betting offers ireland | 95/mo | Best Picks Section | H2 |
 | paddy power offers ireland | 240/mo | Paddy Power Brand | H2 |
@@ -55,7 +54,6 @@ Map these keywords to specific sections (each with real search volume):
 | enhanced odds ireland | 65/mo | Price Boosts & Enhanced | H2 |
 | price boosts ireland betting | 45/mo | Price Boosts Section | H2 |
 | cashback betting offers ireland | 55/mo | Cashback Section | FAQ |
-| no deposit free bets ireland | 90/mo | No Deposit Offers | H3 |
 | irish bookmaker offers | 85/mo | Irish vs UK Comparison | H2 |
 | best bookmakers ireland | 320/mo | Throughout (internal links) |
 
@@ -63,7 +61,7 @@ Map these keywords to specific sections (each with real search volume):
 
 **Meta Keywords List (for AI enhancement phase):**
 ```
-betting offers ireland, free bets ireland, irish betting promotions, best betting offers ireland, paddy power offers ireland, bet365 ireland offers, boylesports offers, betting bonuses ireland, betting welcome offers ireland, irish betting sign up offers, enhanced odds ireland, price boosts ireland betting, cashback betting offers ireland, no deposit free bets ireland, irish bookmaker offers, best bookmakers ireland
+betting offers ireland, irish betting promotions, best betting offers ireland, paddy power offers ireland, bet365 ireland offers, boylesports offers, betting bonuses ireland, betting welcome offers ireland, irish betting sign up offers, enhanced odds ireland, price boosts ireland betting, cashback betting offers ireland, irish bookmaker offers, best bookmakers ireland
 ```
 
 ---
@@ -272,7 +270,8 @@ commission, and why we recommend these brands based on research]
 ---
 
 ### H2: TYPES OF BETTING OFFERS EXPLAINED (800 words)
-**Keyword Target:** "free bets ireland"
+
+**Note:** Free bets are ONE TYPE of offer covered here. For comprehensive free bet comparison, see /sport/betting/ireland/free-bets/
 
 #### H3: Welcome Bonus Offers (200w)
 - Matched deposit bonuses explained
@@ -286,6 +285,7 @@ commission, and why we recommend these brands based on research]
 - Stake/non-stake returns
 - Typical free bet amounts
 - How to use free bets
+- Link to comprehensive guide: /sport/betting/ireland/free-bets/
 
 #### H3: Cashback & Money-Back Specials (150w)
 - How cashback works
@@ -463,10 +463,9 @@ commission, and why we recommend these brands based on research]
 **Target Length:** 120 words
 **Content:** BoyleSports current promotions, Irish specialization
 
-### FAQ 8: "Where can I find the best free bet offers in Ireland?"
-**Keyword:** "free bets ireland"
+### FAQ 8: "Where can I find comprehensive information about Irish betting offers?"
 **Target Length:** 120 words
-**Content:** Free bet availability across brands, comparison
+**Content:** Overview of where to compare offers, link to dedicated pages (free-bets, betting-offers hub), mention importance of comparing terms
 
 ### FAQ 9: "How often do Irish betting sites update their promotions?"
 **Keyword:** "irish betting promotions"
@@ -701,7 +700,7 @@ Before submitting for Phase 3 review:
 
 - [ ] No dated language ("2025", "October review")
 - [ ] All 10 brand sections completed with 600 words each
-- [ ] 10 FAQs with keyword targeting
+- [ ] 10 FAQs with keyword targeting (Note: "free bets ireland" removed - belongs to free-bets page)
 - [ ] Mobile experience section per brand (100-150w)
 - [ ] GAA betting section (400w)
 - [ ] Payment methods section with Irish banks

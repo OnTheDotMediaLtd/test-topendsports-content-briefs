@@ -51,7 +51,6 @@
 | best sports betting sites canada | 800/mo | 70 | H1 (title variation) + Intro | Authority keyword |
 | online sports betting canada | 700/mo | 84 | H2: Online Betting Landscape in Canada | Regulatory context |
 | sports betting sites canada | 500/mo | 83 | H2: How to Choose Your Sportsbook | Selection framework |
-| betting apps canada | 500/mo | 75 | H2: Mobile Betting Apps in Canada | App-focused section |
 | canadian sports betting | 450/mo | 84 | Intro + natural integration | Broader intent keyword |
 | sports betting alberta | 450/mo | 64 | H3: Sports Betting in Alberta | Provincial deep-dive |
 | best canadian sportsbooks | 350/mo | 76 | H2: Best Canadian Sportsbooks Reviewed | Review section header |
@@ -60,10 +59,9 @@
 | nhl betting canada | 200/mo | 75 | H3: Best Sportsbooks for NHL Betting | Hockey-specific |
 | nfl betting canada | 200/mo | 54 | H3: Best Sportsbooks for NFL Betting | Football-specific |
 | legal sports betting canada | 150/mo | 79 | H2: Is Sports Betting Legal in Canada? | Compliance section |
-| sports betting apps canada | 300/mo | 74 | H3: Best Sports Betting Apps | App-focused variation |
 
 **Meta Keywords String:**
-sports betting canada, sports betting ontario, ontario sports betting, canadian betting sites, best sports betting sites canada, online sports betting canada, sports betting sites canada, betting apps canada, canadian sports betting, sports betting alberta, best canadian sportsbooks, sports betting quebec, sportsbook ontario, nhl betting canada, nfl betting canada, legal sports betting canada, sports betting apps canada
+sports betting canada, sports betting ontario, ontario sports betting, canadian betting sites, best sports betting sites canada, online sports betting canada, sports betting sites canada, canadian sports betting, sports betting alberta, best canadian sportsbooks, sports betting quebec, sportsbook ontario, nhl betting canada, nfl betting canada, legal sports betting canada
 
 ---
 
@@ -413,27 +411,6 @@ Last Updated: December 15, 2025
 #### H3: Sports Betting in British Columbia (80w)
 - BCLC oversight
 - Available options
-
----
-
-### H2: Best Sports Betting Apps in Canada (500w)
-**Keyword targets:** betting apps canada (500/mo), sports betting apps canada (300/mo), sports betting apps canada (300/mo)
-
-**Content:**
-- How to choose a betting app (5 factors)
-- Best apps overall (FanDuel, BetMGM, Bet365)
-- Specialized apps:
-  - H3: Best for Live Betting
-  - H3: Best for Multiple Bets (Parlays)
-  - H3: Best for Mobile Design
-- Download process for iOS/Android
-- App permissions explained
-- Push notification management
-
-**Technical Notes:**
-- Emphasize App Store ratings (4.6+ average)
-- Include "verified by X reviews on App Store"
-- Mention Google Play availability
 
 ---
 

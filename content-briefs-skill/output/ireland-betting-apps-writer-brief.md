@@ -58,7 +58,6 @@ Each brand review must include 100-150 words on:
 |---------|--------|---------|-------|
 | betting apps ireland | 200/mo | H2 | "Betting Apps Ireland: Complete Guide" |
 | sports betting ireland | 500/mo | H2 | "Sports Betting Ireland: Best Apps by Sport" |
-| free bets ireland | 300/mo | H2 | "Free Bets Ireland: App-Exclusive Bonuses" |
 | irish betting apps | 100/mo | H3 | "Irish Betting Apps vs Desktop Sites" |
 | ireland bookmakers | 100/mo | FAQ | "Are Ireland bookmakers better than UK betting apps?" |
 | mobile betting ireland | 50/mo | H2 | "How to Download Betting Apps in Ireland" |
@@ -70,7 +69,7 @@ Each brand review must include 100-150 words on:
 | live betting apps ireland | 40/mo | H2 | "Live Betting Apps Ireland: In-Play Features Compared" |
 
 **Meta Keywords (for AI to add):**
-best betting apps ireland, betting apps ireland, sports betting ireland, free bets ireland, irish betting apps, ireland bookmakers, mobile betting ireland, betting apps ios ireland, betting apps android ireland, online betting apps ireland, best online betting ireland, licensed betting ireland, live betting apps ireland
+best betting apps ireland, betting apps ireland, sports betting ireland, irish betting apps, ireland bookmakers, mobile betting ireland, betting apps ios ireland, betting apps android ireland, online betting apps ireland, best online betting ireland, licensed betting ireland, live betting apps ireland
 
 ---
 
@@ -240,14 +239,13 @@ Condensed further:
 
 ---
 
-### H2: Free Bets Ireland: App-Exclusive Bonuses (600-700 words)
-- Compare all 10 apps' welcome offers
-- App-exclusive bonuses
+### H2: App-Exclusive Bonuses & Promotions (400-500 words)
+- Overview of app-specific bonus features
 - Push notification promotions
-- Wagering requirements comparison table
-- How to claim bonuses in-app
-- Complete T&Cs for each app
-- Link to bonus calculator tool
+- How to claim bonuses in-app (mobile-specific process)
+- App vs desktop bonus differences
+- Link to comprehensive free bets guide: /sport/betting/ireland/free-bets/
+- Link to all betting offers: /sport/betting/ireland/betting-offers/
 
 ---
 
@@ -409,9 +407,10 @@ Condensed further:
    - List apps on Google Play
    - Minimum Android versions
 
-5. **"Which betting app has the best free bets in Ireland?"** ← free bets ireland (300/mo)
-   - Top 3 app bonuses
-   - App-exclusive offers
+5. **"Do betting apps offer exclusive bonuses in Ireland?"**
+   - Explain app-exclusive promotions
+   - Push notification bonuses
+   - Link to /sport/betting/ireland/free-bets/ for full free bet comparison
 
 6. **"What's the difference between Irish betting apps and UK apps?"** ← ireland bookmakers (100/mo)
    - Licensing differences
@@ -509,8 +508,9 @@ Condensed further:
 ## INTERNAL LINKS (12 minimum required)
 
 1. "best betting sites ireland" → /sport/betting/ireland/ (Introduction)
-2. "free bets ireland" → /sport/betting/ireland/free-bets/ (Free Bets section)
-3. "betting calculator" → /sport/betting/calculators/ (Free Bets section)
+2. "free bets ireland" → /sport/betting/ireland/free-bets/ (App Bonuses section - link to comprehensive guide)
+3. "betting offers ireland" → /sport/betting/ireland/betting-offers/ (App Bonuses section)
+4. "betting calculator" → /sport/betting/calculators/ (App Bonuses section)
 4. "parlay calculator" → /sport/betting/calculators/parlay/ (Sports Betting section)
 5. "live betting guide" → /sport/betting/live/ (Live Betting Apps section)
 6. "horse racing betting" → /sport/betting/horse-racing/ (Horse Racing subsection)
@@ -609,7 +609,7 @@ Before submitting, verify:
 - [ ] Horse racing app interface covered (where relevant)
 - [ ] iOS download guide (step-by-step)
 - [ ] Android download guide (step-by-step)
-- [ ] All 12 secondary keywords mapped to sections
+- [ ] All 11 secondary keywords mapped to sections (removed "free bets ireland" - PRIMARY keyword of free-bets page)
 - [ ] 10 FAQs targeting keywords (100-125 words each)
 - [ ] 12+ internal links included
 - [ ] Payment methods comparison table

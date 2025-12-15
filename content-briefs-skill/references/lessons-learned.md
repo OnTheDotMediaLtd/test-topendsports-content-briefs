@@ -247,6 +247,28 @@ if [ $actual_files -ne $expected_files ]; then HALT fi
 python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview '{...}'
 ```
 
+### Lesson 6: Keyword Cannibalization Prevention
+**Added:** December 15, 2025
+
+**Problem:** Hub pages were targeting keywords that belonged to dedicated pages (e.g., uk-betting-hub targeting "betting apps" when uk-betting-apps page exists).
+
+**Impact:** Multiple pages competing for same keywords hurts SEO rankings for all pages.
+
+**Rule:** Each page type owns specific keyword clusters:
+- **Hub pages** → Navigation only, link to dedicated pages, NO keyword targeting
+- **Betting Apps page** → "betting apps", "mobile betting", "download app"
+- **Betting Offers page** → "betting offers", "welcome bonus", "sign up bonus"
+- **Free Bets page** → "free bets", "no deposit", "risk-free bet"
+- **Football Betting page** → "football betting", "football betting sites"
+- **Horse Racing page** → "horse racing betting", "horse racing sites"
+- **New Betting Sites page** → "new betting sites", "new bookmakers"
+- **Sports Betting Sites page** → "sports betting", "sportsbook"
+
+**Prevention:** Before adding keywords to a brief:
+1. Check if keyword belongs to another dedicated page
+2. If yes, DO NOT add it - link to that page instead
+3. Hub pages should have minimal keywords, mostly navigation
+
 ---
 
 ## Batch Generation Validation Checklist

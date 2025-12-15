@@ -67,14 +67,13 @@
 | horse betting sites | 150/mo | H2 | Best Horse Racing Betting Sites Ireland |
 | betting companies ireland | 100/mo | H3 | Licensed Betting Companies in Ireland |
 | irish bookmakers | 100/mo | FAQ | Are Irish bookmakers better than UK bookmakers? |
-| betting sites with free bets | 100/mo | H2 | Free Bets and Welcome Bonuses |
 | best online bookies | 90/mo | FAQ | What makes the best online bookies in Ireland? |
 | best bookies ireland | 40/mo | Natural | Throughout content |
 | best irish bookmakers | 20/mo | Natural | Throughout content |
 
 **Meta Keywords (for AI Enhancement Phase):**
 ```
-best betting sites ireland, betting sites ireland, sports betting ireland, irish betting sites, online betting ireland, online betting sites ireland, best gambling sites ireland, irish bookies, horse betting sites, betting companies ireland, irish bookmakers, betting sites with free bets, best online bookies, best bookies ireland, best irish bookmakers, GAA betting, Cheltenham betting, Punchestown racing
+best betting sites ireland, betting sites ireland, sports betting ireland, irish betting sites, online betting ireland, online betting sites ireland, best gambling sites ireland, irish bookies, horse betting sites, betting companies ireland, irish bookmakers, best online bookies, best bookies ireland, best irish bookmakers, GAA betting, Cheltenham betting, Punchestown racing
 ```
 
 ---
@@ -187,11 +186,11 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 │   └── H3: Safety & Security Standards (150-200 words)
 │       └── SSL encryption, responsible gambling tools
 │
-├── H2: Free Bets and Welcome Bonuses (600-700 words)
-│   │   TARGET: "betting sites with free bets" (100/mo)
-│   └── Detailed comparison of ALL 10 brands' welcome offers
-│   └── Include: T&Cs, wagering requirements, min odds, expiry
-│   └── LINK: Bonus calculator tool
+├── H2: Welcome Bonuses Overview (300-400 words)
+│   └── Brief overview of bonus types available
+│   └── Link to dedicated pages: /sport/betting/ireland/free-bets/ (detailed free bet comparison)
+│   └── Link to: /sport/betting/ireland/betting-offers/ (all offer types)
+│   └── Focus: Why having multiple accounts matters for bonus shopping
 │
 ├── H2: Payment Methods Comparison Ireland (500-600 words)
 │   ├── H3: Credit & Debit Cards (100-150 words)
@@ -452,17 +451,15 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 
 ---
 
-### FAQ 5: Which betting sites offer the best free bets in Ireland?
-**Target Keyword:** "betting sites with free bets" (100/mo)
+### FAQ 5: What types of bonuses do Irish betting sites offer?
 **Word Count:** 100-125 words
 
 **Answer Requirements:**
-- Name top 3-5 sites with best free bet offers
-- Example offers (be specific)
-- Explain typical wagering requirements (30x-40x)
-- Mention minimum odds requirements
-- Link to full T&Cs section
-- Link to bonus calculator tool
+- List bonus types: Welcome bonuses, deposit matches, cashback, enhanced odds
+- Explain that each site has different offers
+- Mention importance of reading terms & conditions
+- Link to dedicated pages: /sport/betting/ireland/free-bets/ and /sport/betting/ireland/betting-offers/
+- Note: Bonus value depends on wagering requirements
 
 ---
 
@@ -550,10 +547,12 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 
 | Anchor Text | Target URL | Placement Section |
 |-------------|------------|-------------------|
-| best betting apps | /sport/betting/apps/ | Mobile Betting Apps section |
+| best betting apps ireland | /sport/betting/ireland/betting-apps/ | Mobile Betting Apps section |
+| free bets ireland | /sport/betting/ireland/free-bets/ | Welcome Bonuses Overview section |
+| betting offers ireland | /sport/betting/ireland/betting-offers/ | Welcome Bonuses Overview section |
 | betting odds explained | /sport/betting/odds/ | How We Test section |
-| parlay calculator | /sport/betting/calculators/parlay/ | Free Bets section |
-| betting bonus calculator | /sport/betting/calculators/bonus/ | Free Bets section |
+| parlay calculator | /sport/betting/calculators/parlay/ | Sports Betting section |
+| betting bonus calculator | /sport/betting/calculators/bonus/ | Welcome Bonuses Overview section |
 | live betting guide | /sport/betting/live/ | Brand reviews (live betting features) |
 | horse racing betting explained | /sport/betting/horse-racing/ | Horse Racing section |
 | football betting tips | /sport/betting/football/ | Sports Betting Overview |
@@ -702,7 +701,7 @@ Before submission, verify:
 
 - [ ] H1 is timeless (no dates)
 - [ ] Introduction is 100-150 words (opening + disclosure)
-- [ ] All 14 secondary keywords mapped to sections
+- [ ] All 13 secondary keywords mapped to sections (removed "betting sites with free bets" - belongs to free-bets page)
 - [ ] 10 FAQs created targeting keywords
 - [ ] Mobile Experience section for ALL 10 brands (100-200 words each)
 - [ ] GAA betting section included (200-250 words)

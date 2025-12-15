@@ -12,8 +12,8 @@
 - **URL:** https://www.topendsports.com/sport/betting/uk/football-betting-sites.htm
 - **Target Keyword:** "football betting sites"
 - **Primary Volume:** 3,200/month
-- **Total Cluster Volume:** 38,620/month (1107% increase over primary)
-- **Target Word Count:** 6,500-7,500 words
+- **Total Cluster Volume:** 37,320/month (1066% increase over primary)
+- **Target Word Count:** 6,500-7,000 words
 - **Priority:** High
 - **Regulator:** UK Gambling Commission (UKGC)
 - **Age Requirement:** 18+
@@ -26,18 +26,19 @@
 |---------|-----------|------------|-----------|---------------|
 | football betting tips | 10,000 | 86 | H2 | "Top Football Betting Tips for UK Punters" |
 | football betting odds | 1,700 | 88 | H2 | "Understanding Football Betting Odds" |
-| top 20 betting sites uk free | 1,300 | 89 | H2 | "Best Free Bet Offers at UK Football Betting Sites" |
 | online football betting uk | 450 | 87 | H2 | "How Online Football Betting Works in the UK" |
 | best football betting sites uk | 400 | 74 | H2 | "Best Football Betting Sites UK Ranked" |
 | best football betting site | 400 | 84 | Natural | Throughout content (natural mentions) |
 | premier league betting sites | 150 | 80 | H2 | "Best Sites for Premier League Betting" |
-| football betting apps uk | 80 | 87 | H2 | "Top Football Betting Apps UK" |
+| football betting apps uk | 80 | 87 | H3 | "Football Betting Apps - See [UK Betting Apps](/sport/betting/uk/betting-apps/)" |
 | whats the best betting site | 80 | 80 | FAQ | "What's the best betting site for football in the UK?" |
 | new betting account | 60 | 91 | H3 | "Opening a New Betting Account" |
-| betting company offers | 100 | 89 | H3 | "Current Betting Company Offers" |
+| betting company offers | 100 | 89 | H3 | "Football-Specific Betting Offers" |
 | newest sports betting sites | 20 | 83 | FAQ | "What are the newest sports betting sites in the UK?" |
 
-**Meta Keywords:** football betting sites, football betting tips, football betting odds, top 20 betting sites uk free, online football betting uk, best football betting sites uk, premier league betting sites, football betting apps uk, new betting account, betting company offers, uk football betting, premier league odds, bet on football, football accumulator, in-play football betting
+**Meta Keywords:** football betting sites, football betting tips, football betting odds, online football betting uk, best football betting sites uk, premier league betting sites, football betting apps uk, new betting account, betting company offers, uk football betting, premier league odds, bet on football, football accumulator, in-play football betting
+
+**Note:** Removed "top 20 betting sites uk free" - this general keyword belongs to the [UK Betting Hub](/sport/betting/uk/index.htm) and [UK Betting Offers](/sport/betting/uk/betting-offers/) pages, not football-specific content
 
 ---
 
@@ -254,17 +255,17 @@ Manchester City to beat Arsenal:
 
 ---
 
-### H2: Best Free Bet Offers at UK Football Betting Sites (500-600 words)
-**Keywords:** top 20 betting sites uk free
+### H2: Football Betting Bonuses & Promotions (300-400 words)
 
-**MUST INCLUDE:**
-- Welcome bonus comparison across all 9 brands (table format)
-- Free bet vs deposit bonus explained
-- Wagering requirements explained simply
-- Minimum odds requirements and why they matter
-- How to maximize free bets for football
-- Ongoing promotions for existing customers (acca insurance, enhanced odds)
-- T&Cs to watch out for
+**Content:**
+- Brief overview of football-specific promotions available at featured sites
+- Common football betting offers: acca insurance, enhanced odds, bet builders
+- Price boosts on Premier League matches
+- Link to comprehensive bonus guides:
+  - **For full welcome bonus comparisons:** See [UK Betting Offers](/sport/betting/uk/betting-offers/)
+  - **For free bet offers:** See [UK Free Bets](/sport/betting/uk/free-bets/)
+- Note: All 9 featured brands offer football-specific promotions reviewed in detail on dedicated pages
+- Focus on football-specific promotional features (acca insurance, odds boosts) rather than duplicating general welcome bonus content
 
 ---
 
