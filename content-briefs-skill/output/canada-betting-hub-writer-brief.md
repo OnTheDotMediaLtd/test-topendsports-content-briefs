@@ -110,7 +110,7 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 - All 9 brands in responsive table
 - Columns: Brand, Welcome Bonus, Sports Coverage, Mobile App, Payment Options, Standout Feature
 - Include ratings/scores
-- Mobile-responsive design
+- Phase 3 handles responsive design
 
 ---
 
@@ -1091,4 +1091,4 @@ Based on competitor analysis, our content must:
 - Interactive comparison table code
 - Schema markup (Article, FAQ, Breadcrumb)
 - Complete meta tags
-- Visual elements CSS/JS
+- Phase 3 handles CSS/JS

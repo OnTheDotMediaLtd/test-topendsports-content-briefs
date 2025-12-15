@@ -338,11 +338,11 @@ Last Updated: December 15, 2025
 - Verification requirements before first withdrawal
 - Pending time
 
-**Format as table for clarity**
+**Phase 3 will format as interactive table**
 
 #### H3: Payment Methods Comparison Table (100 words)
 
-**Create table:**
+**Provide payment method data in markdown format below (Phase 3 will create interactive table):**
 
 | Method | Deposit Time | Withdrawal Time | Fees | Min/Max |
 |--------|--------------|-----------------|------|---------|
@@ -442,7 +442,7 @@ Last Updated: December 15, 2025
 ### H2: Frequently Asked Questions (500 words, 10 questions)
 **Keywords:** is 22bet legit, 22bet withdrawal, 22bet promo code, 22bet app
 
-Format each FAQ for schema markup compatibility.
+**Instructions:** Write each FAQ in clear question-and-answer format. Phase 3 will add schema markup.
 
 #### FAQ 1: Is 22bet Safe and Legitimate for UK Players?
 **Keywords:** is 22bet legit

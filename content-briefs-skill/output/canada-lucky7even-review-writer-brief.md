@@ -832,7 +832,7 @@ Include these 12 internal links naturally throughout content:
 
 1. Submit draft for review
 2. Phase 3 (AI Enhancement) will add:
-   - HTML/CSS for comparison tables
+   - Phase 3 will generate table code
    - Schema markup (Article + FAQ + Review)
    - Interactive elements
    - Complete T&Cs for Lucky7even

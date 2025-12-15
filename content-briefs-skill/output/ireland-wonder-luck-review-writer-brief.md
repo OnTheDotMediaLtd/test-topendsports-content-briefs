@@ -313,7 +313,7 @@ Wonder Luck's mobile app provides a streamlined betting experience optimized for
 | Bitcoin | Instant | 15-60 min | €1-€50,000 | None |
 | Bank of Ireland | Instant | 3-7 days | €1-€10,000 | None |
 
-*Table should be interactive/sortable if possible*
+*Note: Phase 3 will add interactive sorting functionality to this table*
 
 **Content Points:**
 - Currency: EUR throughout

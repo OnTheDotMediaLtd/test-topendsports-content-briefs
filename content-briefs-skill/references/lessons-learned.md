@@ -172,6 +172,92 @@ Example: No loyalty program when competitors all have
 
 🚩 **Outdated feel** → Didn't check 2025 updates
 
+🚩 **File count doesn't match expected** → Silent phase failure in batch
+
+🚩 **Phase 3 took >5 min without output** → Likely token limit exceeded
+
+🚩 **File names don't match pattern** → Naming inconsistency breaks automation
+
+---
+
+## Batch Generation Learnings
+
+**Added:** December 15, 2025 (44-brief batch for UK, Ireland, Canada)
+
+### Lesson 1: File Naming Must Be Deterministic
+
+**Problem:** Inconsistent naming between phases breaks automation.
+
+**Root Cause:** Phase 3 used dynamic name construction instead of inheriting from Phase 1.
+
+**Example of Problem:**
+```
+✗ Phase 1: ireland-wonder-luck-review-phase1.json
+✗ Phase 2: ireland-wonder-luck-review-phase2.json
+✗ Phase 3: ireland-wonder-luck-sportsbook-review-ai-enhancement.md  ← MISMATCH
+```
+
+**Rule:** Establish base name in Phase 1, use EXACT same base across all phases:
+```
+✓ ireland-wonder-luck-review-phase1.json
+✓ ireland-wonder-luck-review-phase2.json
+✓ ireland-wonder-luck-review-ai-enhancement.md
+```
+
+### Lesson 2: Silent Failures in Batch Processing
+
+**Problem:** UK 22bet Phase 3 was skipped without error notification.
+
+**Impact:** Incomplete deliverables discovered only during manual audit.
+
+**Solution:** After each batch wave, verify expected file count:
+```
+expected_files=5  # phase1.json, phase2.json, 3x markdown
+actual_files=$(ls ${page_name}* | wc -l)
+if [ $actual_files -ne $expected_files ]; then HALT fi
+```
+
+### Lesson 3: Token Limits in Phase 3
+
+**Problem:** Large briefs (7+ brands, 12+ keywords) can exceed token limits.
+
+**Trigger Conditions:**
+- 7+ brands in comparison
+- 12+ secondary keywords
+- Comprehensive T&Cs for all brands
+
+**Proactive Detection:** If brands ≥ 7 OR (brands ≥ 5 AND keywords ≥ 12) → use Haiku model
+
+### Lesson 4: Writer Briefs Must Not Include Phase 3 Tasks
+
+**Problem:** Some writer briefs asked writers to create "mobile-responsive" or "sortable" tables.
+
+**Rule:** Writer briefs should:
+- ✓ Describe WHAT content goes in the table
+- ✓ Specify data accuracy requirements
+- ✓ Note that "Phase 3 will handle formatting/interactivity"
+- ✗ Never mention CSS, responsive design, JavaScript functionality
+
+### Lesson 5: Ahrefs MCP Reliability
+
+**Status:** SOLVED - Python fallback is reliable
+
+**Best Practice:** Try MCP first, immediately fallback to Python script on 403:
+```bash
+python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview '{...}'
+```
+
+---
+
+## Batch Generation Validation Checklist
+
+- [ ] Established consistent base name for all files
+- [ ] Estimated token usage for Phase 3
+- [ ] Selected appropriate model (Sonnet vs Haiku based on size)
+- [ ] Verified file count after each wave
+- [ ] Writer briefs contain NO Phase 3 technical language
+- [ ] Quality gate run after generation (lint + placeholder check)
+
 ---
 
 ## When in Doubt

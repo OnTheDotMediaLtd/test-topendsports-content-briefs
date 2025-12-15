@@ -78,7 +78,7 @@ football betting sites ireland, irish betting sites, boylesports app, paddy powe
 
 ### Structure Summary
 - **Introduction:** 150 words
-- **Quick Comparison Table:** Interactive, sortable (0 words in article)
+- **Quick Comparison Table:** 0 words in article (Phase 3 will create interactive table)
 - **10 Brand Sections:** 3,500 words total (average 350w each)
 - **Feature Sections:** Premier League, Champions League, Odds, Payment Methods
 - **10 FAQs:** 600 words
@@ -102,7 +102,7 @@ football betting sites ireland, irish betting sites, boylesports app, paddy powe
 ---
 
 ### Comparison Table (After Intro)
-**Format:** Interactive, sortable comparison grid
+**Format:** Comparison grid (Phase 3 will create interactive sorting features)
 **Brands:** All 10 (Paddy Power, Bet365, BoyleSports, William Hill, Ladbrokes, BetVictor, 888sport, Betfair, Unibet, SkyBet)
 **Columns:**
 - Brand Name

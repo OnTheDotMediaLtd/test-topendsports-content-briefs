@@ -111,7 +111,7 @@ Create comprehensive comparison table with all 9 brands:
 **Notes:**
 - Interactive table (Phase 3 will add filtering)
 - Sort by: Rating, Bonus Amount, Payment Methods
-- Mobile-responsive design
+- Phase 3 handles responsive design
 
 ---
 

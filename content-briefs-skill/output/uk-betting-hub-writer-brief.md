@@ -110,7 +110,7 @@
 ### Comparison Table
 - **ALL 9 brands featured:** Bet442, LuckyMate, NRGbet, Myriadplay, 7Bet, Mr Luck, MogoBet, 22bet, Highbet
 - **Columns:** Brand | Welcome Offer | Key Feature | Mobile App | Min Deposit | Payment Speed | Rating
-- Interactive/sortable if possible
+- **Note:** Provide the DATA - Phase 3 will create interactive/sortable table
 
 ### Quick Answer Box
 - Top 3 brands with bullet-point USPs

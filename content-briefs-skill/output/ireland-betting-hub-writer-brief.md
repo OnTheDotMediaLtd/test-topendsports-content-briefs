@@ -87,7 +87,7 @@ best betting sites ireland, betting sites ireland, sports betting ireland, irish
 H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 ├── [Last Updated Badge - Added by Dev Team]
 ├── Introduction (100-150 words)
-├── Comparison Table (Interactive - 10 brands)
+├── Comparison Table (10 brands - Phase 3 will add interactive features)
 ├── Quick Answer Box (75-100 words)
 │
 ├── H2: Top Irish Betting Sites Ranked (200-300 words)

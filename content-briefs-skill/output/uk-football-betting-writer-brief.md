@@ -130,7 +130,7 @@
 ---
 
 ### Comparison Table (Component)
-**Interactive sortable table including:**
+**Provide DATA for table including:**
 - All 9 brands
 - Welcome Bonus
 - UKGC License Number
@@ -138,6 +138,8 @@
 - Mobile App Rating
 - Withdrawal Speed
 - Key Feature
+
+**Note:** Phase 3 will create interactive sortable table from this data.
 
 ---
 

@@ -341,8 +341,8 @@ Map ALL 13 secondary keywords to specific sections:
 - **Prepaid Cards:**
   - Paysafecard available
 
-**Interactive Table: Payment Methods Comparison**
-(Sortable by speed, fees, limits)
+**Payment Methods Comparison Table**
+(Phase 3 will add interactive sorting by speed, fees, limits)
 
 | Method | Deposit Time | Withdrawal Time | Fees | Min Deposit | Min Withdrawal |
 |--------|--------------|-----------------|------|-------------|----------------|
@@ -526,7 +526,7 @@ Map ALL 13 secondary keywords to specific sections:
 - iOS app requires region change
 - No phone support
 
-**Interactive Comparison Table:**
+**Comparison Table** (Phase 3 will add interactive features):
 
 | Feature | 22bet | Bet365 | Paddy Power | BoyleSports |
 |---------|-------|--------|-------------|-------------|

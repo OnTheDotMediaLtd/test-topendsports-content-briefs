@@ -96,8 +96,34 @@ Document when feedback leads to measurable improvements:
 
 List feedback awaiting validation:
 
-- [ ] `submitted/[filename]` - Submitted YYYY-MM-DD - Reviewer: [Name]
+*(None currently pending)*
 
 ---
 
-Last Updated: 2025-11-28
+## Validated Feedback
+
+### batch-generation-december-2025 - 2025-12-15
+**Feedback Type**: Workflow / Technical
+**Rating**: 4/5
+**Issues Identified**:
+1. Naming inconsistency across phases (Phase 3 used different naming pattern)
+2. Token limit exceeded on Ireland Wonder Luck Phase 3 (required retry)
+3. UK 22bet Phase 3 silently skipped in pipeline
+4. Ahrefs MCP 403 errors (Python fallback worked)
+
+**Resolutions Applied**:
+- ✅ Added Lesson 1 (File Naming) to lessons-learned.md
+- ✅ Added Lesson 2 (Silent Failures) to lessons-learned.md
+- ✅ Added Lesson 3 (Token Limits) to lessons-learned.md
+- ✅ Added Lesson 4 (Writer Brief Phase 3 Language) to lessons-learned.md
+- ✅ Added Lesson 5 (Ahrefs MCP Reliability) to lessons-learned.md
+- ✅ Added Batch Generation Validation Checklist
+- ✅ Fixed ireland-betting-offers-writer-brief.md (removed Phase 3 language)
+
+**Impact**: Improved batch processing reliability and documentation for future runs
+
+**Status**: Applied
+
+---
+
+Last Updated: 2025-12-15

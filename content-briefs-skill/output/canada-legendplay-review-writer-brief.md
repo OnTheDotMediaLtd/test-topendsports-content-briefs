@@ -875,7 +875,7 @@ Before marking as complete:
 After writer completes content:
 - **Phase 3:** AI Enhancement & Technical Implementation
   - Meta tags generation
-  - HTML/CSS for comparison tables
+  - Phase 3 will generate table code
   - Schema markup (Article, FAQPage, Review, Breadcrumb)
   - Last Updated badge code
   - Interactive elements
