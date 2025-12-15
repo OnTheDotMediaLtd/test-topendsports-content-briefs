@@ -1,0 +1,494 @@
+{
+  "page_name": "canada-lizaro-review",
+  "url": "/sport/betting/canada/lizaro-review.htm",
+  "page_title": "Lizaro Sport Review",
+  "market": "Canada",
+  "template": 1,
+  "template_name": "Brand Review",
+  "writer": "Tom Goldsmith",
+  "priority": "Medium",
+  "compliance": {
+    "age_requirement": "19+ (18+ in AB, MB, QC)",
+    "hotline": "1-866-531-2600 (ConnexOntario)",
+    "responsible_gambling_resources": [
+      "Responsible Gambling Council (responsiblegambling.org)",
+      "ConnexOntario: 1-866-531-2600"
+    ]
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "lizaro sport",
+      "volume": 0,
+      "difficulty": null,
+      "traffic_potential": null,
+      "notes": "Brand-specific keyword with minimal search volume. Strategy: capture brand searches and rank for broader terms."
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "online casino canada",
+        "volume": 11000,
+        "difficulty": 88,
+        "traffic_potential": 39000,
+        "placement": "H2",
+        "section": "About Lizaro Casino & Sportsbook"
+      },
+      {
+        "keyword": "online casino ontario",
+        "volume": 5900,
+        "difficulty": 79,
+        "traffic_potential": 7500,
+        "placement": "H2",
+        "section": "Is Lizaro Legal in Ontario?"
+      },
+      {
+        "keyword": "best online casino canada",
+        "volume": 3700,
+        "difficulty": 54,
+        "traffic_potential": 300,
+        "placement": "H2",
+        "section": "How Lizaro Compares to Top Canadian Sites"
+      },
+      {
+        "keyword": "sports betting canada",
+        "volume": 2300,
+        "difficulty": 84,
+        "traffic_potential": 22000,
+        "placement": "H2",
+        "section": "Lizaro Sports Betting Features"
+      },
+      {
+        "keyword": "betting sites canada",
+        "volume": 1400,
+        "difficulty": 79,
+        "traffic_potential": 23000,
+        "placement": "H3",
+        "section": "Betting Markets Available"
+      },
+      {
+        "keyword": "online gambling canada",
+        "volume": 1300,
+        "difficulty": 85,
+        "traffic_potential": 39000,
+        "placement": "Natural",
+        "section": "Introduction"
+      },
+      {
+        "keyword": "sports betting ontario",
+        "volume": 1100,
+        "difficulty": 82,
+        "traffic_potential": 3000,
+        "placement": "H3",
+        "section": "Ontario Availability"
+      },
+      {
+        "keyword": "online casino reviews",
+        "volume": 900,
+        "difficulty": 79,
+        "traffic_potential": 6500,
+        "placement": "H2",
+        "section": "Expert Review Verdict"
+      },
+      {
+        "keyword": "best betting sites canada",
+        "volume": 700,
+        "difficulty": 76,
+        "traffic_potential": 1700,
+        "placement": "H3",
+        "section": "Alternatives to Lizaro"
+      },
+      {
+        "keyword": "online sports betting canada",
+        "volume": 700,
+        "difficulty": 84,
+        "traffic_potential": 23000,
+        "placement": "Natural",
+        "section": "Sports Betting Section"
+      },
+      {
+        "keyword": "casino bonus canada",
+        "volume": 600,
+        "difficulty": 88,
+        "traffic_potential": 4500,
+        "placement": "H2",
+        "section": "Lizaro Welcome Bonus & Promotions"
+      },
+      {
+        "keyword": "casino sites canada",
+        "volume": 500,
+        "difficulty": 84,
+        "traffic_potential": 14000,
+        "placement": "Natural",
+        "section": "Throughout content"
+      },
+      {
+        "keyword": "sportsbook canada",
+        "volume": 400,
+        "difficulty": 84,
+        "traffic_potential": 80000,
+        "placement": "Natural",
+        "section": "Sportsbook Features"
+      },
+      {
+        "keyword": "real money casino canada",
+        "volume": 400,
+        "difficulty": 87,
+        "traffic_potential": 1500,
+        "placement": "FAQ",
+        "section": "Is Lizaro safe for real money?"
+      },
+      {
+        "keyword": "sportsbook review",
+        "volume": 350,
+        "difficulty": 64,
+        "traffic_potential": 1100,
+        "placement": "H2",
+        "section": "Complete Sportsbook Review"
+      },
+      {
+        "keyword": "lizaro casino",
+        "volume": 20,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H2",
+        "section": "Lizaro Casino Games & Slots"
+      },
+      {
+        "keyword": "lizaro",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H1/Title",
+        "section": "Main title"
+      }
+    ],
+    "total_monthly_volume": 30460,
+    "volume_increase": "Infinite (primary has 0 volume)"
+  },
+  "competitor_analysis": {
+    "approach": "Since Lizaro is a smaller Canadian brand with minimal search volume, competitor analysis focuses on similar brand review pages and broader Canadian casino/sportsbook comparison pages",
+    "competitors": [
+      {
+        "domain": "casino.org",
+        "page_type": "Canadian casino reviews",
+        "estimated_word_count": 3500,
+        "brands_covered": 1,
+        "key_sections": [
+          "About the casino",
+          "Welcome bonus details",
+          "Game selection",
+          "Mobile experience",
+          "Payment methods",
+          "Customer support",
+          "Pros and cons",
+          "FAQs"
+        ],
+        "gaps": [
+          "No sports betting coverage",
+          "Limited mobile app detail",
+          "No province-specific information"
+        ]
+      },
+      {
+        "domain": "covers.com",
+        "page_type": "Canadian sportsbook reviews",
+        "estimated_word_count": 4000,
+        "brands_covered": 1,
+        "key_sections": [
+          "Sportsbook overview",
+          "Betting markets",
+          "Live betting features",
+          "Bonuses and promotions",
+          "Banking options",
+          "Mobile app review",
+          "Customer service"
+        ],
+        "gaps": [
+          "No casino game coverage",
+          "Missing provincial licensing details",
+          "Limited responsible gambling information"
+        ]
+      },
+      {
+        "domain": "ontariobets.com",
+        "page_type": "Ontario-specific operator reviews",
+        "estimated_word_count": 3000,
+        "brands_covered": 1,
+        "key_sections": [
+          "Operator overview",
+          "iGaming Ontario license status",
+          "Ontario-specific bonuses",
+          "Payment methods for Ontario",
+          "Provincial regulations"
+        ],
+        "gaps": [
+          "Ontario-only focus (not full Canada)",
+          "Less detailed game/sports coverage",
+          "Shorter mobile app analysis"
+        ]
+      }
+    ],
+    "target_structure": {
+      "word_count": 3500,
+      "brands_covered": 1,
+      "sections_per_brand": "Full review (single brand focus)",
+      "our_advantages": [
+        "Combined casino + sports betting coverage",
+        "Province-specific licensing and availability",
+        "Detailed mobile experience section",
+        "Payment methods comparison with other Canadian sites",
+        "Links to related calculator tools",
+        "Comprehensive responsible gambling resources for Canada"
+      ]
+    }
+  },
+  "brand_coverage": {
+    "primary_brand": {
+      "name": "Lizaro",
+      "badge_code": "LIZ",
+      "badge_color": "#00695C",
+      "position": 1,
+      "rationale": "Subject of review - Lizaro Sport is a Canadian-licensed online casino and sportsbook operator",
+      "key_features": [
+        "Combined casino and sports betting platform",
+        "Licensed for Canadian market",
+        "Sports betting and casino games",
+        "Mobile-optimized platform"
+      ]
+    },
+    "alternative_brands_mentioned": [
+      {
+        "name": "Treasure Spins",
+        "mention_context": "Comparison section - alternative Canadian operator",
+        "rationale": "Similar Canadian market positioning"
+      },
+      {
+        "name": "Royalistplay",
+        "mention_context": "Comparison section - alternative Canadian operator",
+        "rationale": "Similar Canadian market positioning"
+      },
+      {
+        "name": "Wyns",
+        "mention_context": "Comparison section - alternative Canadian operator",
+        "rationale": "Similar Canadian market positioning"
+      }
+    ]
+  },
+  "content_sections": {
+    "mandatory_sections": [
+      {
+        "section": "Header & Introduction",
+        "word_count": 200,
+        "includes": [
+          "Last Updated badge",
+          "Affiliate disclosure",
+          "Quick answer (what is Lizaro best for)",
+          "Brief introduction to Lizaro"
+        ]
+      },
+      {
+        "section": "Rating Summary",
+        "word_count": 150,
+        "includes": [
+          "Overall star rating",
+          "Pros at a glance (3-5 bullets)",
+          "Cons at a glance (3-5 bullets)",
+          "Best for statement"
+        ]
+      },
+      {
+        "section": "Comprehensive Feature Analysis",
+        "word_count": 900,
+        "subsections": [
+          "Casino Games & Slots (200 words)",
+          "Sports Betting Markets (200 words)",
+          "Welcome Bonus & Promotions (200 words)",
+          "User Interface & Account Setup (150 words)",
+          "Payment Methods & Withdrawals (150 words)",
+          "Customer Support (100 words)"
+        ]
+      },
+      {
+        "section": "Mobile Experience",
+        "word_count": 300,
+        "includes": [
+          "Mobile platform availability (app vs browser)",
+          "Navigation and ease of use",
+          "Sports betting experience on mobile",
+          "Casino games performance",
+          "Live betting features"
+        ]
+      },
+      {
+        "section": "Detailed Bonus Breakdown",
+        "word_count": 300,
+        "includes": [
+          "Welcome bonus details",
+          "Wagering requirements",
+          "Terms and restrictions",
+          "Ongoing promotions",
+          "Comparison with competitors"
+        ]
+      },
+      {
+        "section": "Terms & Conditions Summary",
+        "word_count": 350,
+        "includes": [
+          "Age requirement (19+ most provinces, 18+ AB/MB/QC)",
+          "Available provinces",
+          "Account verification requirements",
+          "Licensing information",
+          "Responsible gambling tools",
+          "Bonus terms summary"
+        ]
+      },
+      {
+        "section": "Pros & Cons Detail",
+        "word_count": 250,
+        "includes": [
+          "3-5 detailed pros (30-50 words each)",
+          "3-5 detailed cons (30-50 words each)"
+        ]
+      },
+      {
+        "section": "FAQ Section",
+        "word_count": 450,
+        "includes": [
+          "8-10 questions (50-80 words each)"
+        ]
+      },
+      {
+        "section": "Final Verdict & Recommendation",
+        "word_count": 150,
+        "includes": [
+          "Clear recommendation",
+          "Who should use Lizaro",
+          "Who should consider alternatives",
+          "Call to action"
+        ]
+      },
+      {
+        "section": "Responsible Gambling",
+        "word_count": 150,
+        "includes": [
+          "Responsible gambling resources for Canada",
+          "Self-exclusion information",
+          "Problem gambling helplines"
+        ]
+      }
+    ],
+    "additional_sections": [
+      {
+        "section": "How Lizaro Compares",
+        "word_count": 200,
+        "purpose": "Brief comparison with other Canadian operators to capture comparison keywords"
+      },
+      {
+        "section": "Provincial Availability",
+        "word_count": 150,
+        "purpose": "Province-by-province licensing and availability information"
+      }
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "Best online casino sites in Canada",
+      "url": "/sport/betting/canada/",
+      "context": "Introduction"
+    },
+    {
+      "anchor": "Treasure Spins review",
+      "url": "/sport/betting/canada/treasurespins-review.htm",
+      "context": "Alternatives section"
+    },
+    {
+      "anchor": "Royalistplay review",
+      "url": "/sport/betting/canada/royalistplay-review.htm",
+      "context": "Alternatives section"
+    },
+    {
+      "anchor": "Wyns review",
+      "url": "/sport/betting/canada/wyns-review.htm",
+      "context": "Alternatives section"
+    },
+    {
+      "anchor": "Sports betting in Ontario",
+      "url": "/sport/betting/canada/ontario/",
+      "context": "Ontario availability section"
+    },
+    {
+      "anchor": "Online gambling laws in Canada",
+      "url": "/sport/betting/canada/legal/",
+      "context": "Legal information section"
+    },
+    {
+      "anchor": "Parlay calculator",
+      "url": "/calculators/parlay-calculator.htm",
+      "context": "Sports betting section"
+    },
+    {
+      "anchor": "Odds calculator",
+      "url": "/calculators/odds-calculator.htm",
+      "context": "Sports betting section"
+    },
+    {
+      "anchor": "Responsible gambling resources",
+      "url": "/sport/betting/responsible-gambling/",
+      "context": "Footer section"
+    },
+    {
+      "anchor": "How to verify Canadian gambling licenses",
+      "url": "/sport/betting/canada/licensing/",
+      "context": "Terms & Conditions section"
+    },
+    {
+      "anchor": "Best sports betting apps Canada",
+      "url": "/sport/betting/canada/apps/",
+      "context": "Mobile experience section"
+    },
+    {
+      "anchor": "Casino bonus terms explained",
+      "url": "/sport/betting/bonuses/",
+      "context": "Bonus breakdown section"
+    }
+  ],
+  "strategic_direction": [
+    "Focus on comprehensive single-brand review covering both casino and sports betting",
+    "Target broader Canadian gambling keywords since direct brand searches are minimal",
+    "Emphasize legal status and provincial licensing to build trust",
+    "Include detailed mobile experience section to differentiate from competitors",
+    "Provide province-specific information (Ontario focus but covering all provinces)",
+    "Link to calculator tools for sports betting functionality",
+    "Create comparison section with other Canadian brands to capture comparison searches"
+  ],
+  "content_gaps_to_exploit": [
+    "Combined casino + sportsbook review (most competitors separate these)",
+    "Province-by-province availability and licensing details",
+    "Detailed mobile platform experience for Canadian users",
+    "Payment methods specific to Canadian market (Interac, etc.)",
+    "Responsible gambling resources specific to Canada",
+    "Links to practical calculator tools",
+    "Comparison with other Canadian-licensed operators"
+  ],
+  "technical_requirements": [
+    "Letter badge logo: LIZ with color #00695C (teal/green)",
+    "Last Updated badge in header",
+    "Comparison table with 3-4 Canadian operators",
+    "Mobile-responsive design",
+    "Star rating display (5-star scale)",
+    "Pros/cons visual formatting",
+    "FAQ schema markup",
+    "Article schema markup",
+    "Breadcrumb schema markup",
+    "Affiliate disclosure notice",
+    "Canadian responsible gambling resources section"
+  ],
+  "word_count_target": 3500,
+  "estimated_completion_time": "Phase 2: 30 minutes, Phase 3: 45 minutes",
+  "notes": [
+    "Lizaro has minimal direct search volume, strategy is to capture brand-specific searches while ranking for broader Canadian casino/sports betting terms",
+    "This is a smaller operator so review should be thorough but acknowledge it's not as established as major brands",
+    "Focus on factual information about features, licensing, and availability",
+    "Canadian market has unique payment methods (Interac) and provincial licensing that should be highlighted",
+    "Age requirements vary by province (19+ in most, 18+ in AB/MB/QC)"
+  ]
+}

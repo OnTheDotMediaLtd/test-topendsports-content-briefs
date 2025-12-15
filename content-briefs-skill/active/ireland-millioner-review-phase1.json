@@ -1,0 +1,359 @@
+{
+  "page_info": {
+    "url": "/sport/betting/ireland/millioner-review.htm",
+    "page_name": "ireland-millioner-review",
+    "title": "Millioner Sport Review",
+    "market": "Ireland",
+    "writer": "Tom Goldsmith",
+    "priority": "High",
+    "template_type": "1",
+    "template_name": "Brand Review",
+    "target_word_count": "3500-4000",
+    "age_requirement": "18+",
+    "compliance_market": "Ireland"
+  },
+  "primary_keyword": {
+    "keyword": "millioner sport",
+    "volume": 10,
+    "difficulty": null,
+    "traffic_potential": null,
+    "source": "site_structure",
+    "notes": "Primary keyword from site structure. Low volume indicates new/emerging brand in Ireland market."
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "millioner review",
+      "volume": null,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Rating Summary",
+      "notes": "Core review keyword - natural target for review template"
+    },
+    {
+      "keyword": "millioner ireland",
+      "volume": null,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Legal Requirements & Availability",
+      "notes": "Geographic targeting"
+    },
+    {
+      "keyword": "millioner bonus",
+      "volume": null,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Welcome Bonus & Promotions",
+      "notes": "Feature-focused keyword"
+    },
+    {
+      "keyword": "millioner app",
+      "volume": null,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Mobile App Experience",
+      "notes": "Mobile experience targeting"
+    },
+    {
+      "keyword": "millioner casino",
+      "volume": 10,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Betting Markets & Odds - Casino Games",
+      "notes": "Casino offering subsection"
+    },
+    {
+      "keyword": "millioner withdrawal",
+      "volume": null,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Payment Methods & Withdrawals",
+      "notes": "User intent: withdrawal process"
+    },
+    {
+      "keyword": "is millioner legit",
+      "volume": null,
+      "difficulty": null,
+      "placement": "FAQ",
+      "section": "FAQ - Legitimacy & Safety",
+      "notes": "Trust/safety question"
+    },
+    {
+      "keyword": "millioner login",
+      "volume": null,
+      "difficulty": null,
+      "placement": "FAQ",
+      "section": "FAQ - Account Access",
+      "notes": "User intent: account issues"
+    },
+    {
+      "keyword": "millioner promo code",
+      "volume": null,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Welcome Bonus - Promo Code Details",
+      "notes": "Bonus activation"
+    },
+    {
+      "keyword": "betting sites ireland",
+      "volume": 900,
+      "difficulty": 81,
+      "placement": "H2",
+      "section": "Millioner vs Ireland Competitors",
+      "notes": "Market context - high volume"
+    },
+    {
+      "keyword": "irish betting sites",
+      "volume": 400,
+      "difficulty": 81,
+      "placement": "natural",
+      "section": "Introduction & Legal Status",
+      "notes": "Market context"
+    },
+    {
+      "keyword": "sports betting ireland",
+      "volume": 500,
+      "difficulty": 82,
+      "placement": "natural",
+      "section": "Introduction",
+      "notes": "General market keyword"
+    },
+    {
+      "keyword": "online betting ireland",
+      "volume": 250,
+      "difficulty": 81,
+      "placement": "natural",
+      "section": "Introduction",
+      "notes": "Online betting context"
+    },
+    {
+      "keyword": "new betting sites ireland",
+      "volume": 150,
+      "difficulty": 78,
+      "placement": "H3",
+      "section": "Millioner's Position as New Entrant",
+      "notes": "Positioning as new brand"
+    }
+  ],
+  "keyword_cluster_summary": {
+    "total_keywords": 14,
+    "primary_volume": 10,
+    "secondary_total_volume": 2210,
+    "total_cluster_volume": 2220,
+    "volume_increase_percentage": "22100%",
+    "notes": "Low primary keyword volume offset by high-volume Ireland market keywords. Focus on establishing Millioner within broader betting sites ireland context."
+  },
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "url": "Not applicable - new brand with minimal SERP presence",
+      "domain": "N/A",
+      "estimated_word_count": "N/A",
+      "brands_covered": "N/A - this is a single-brand review",
+      "notes": "Template 1 (Brand Review) focuses on one brand in-depth, not competitor comparison. Competitor context provided for Ireland market positioning."
+    },
+    "ireland_market_leaders": [
+      {
+        "brand": "Paddy Power",
+        "search_volume": 272000,
+        "position": "Market leader - Ireland's #1 betting brand",
+        "notes": "Dominant Irish brand, massive local recognition"
+      },
+      {
+        "brand": "Boylesports",
+        "search_volume": 213000,
+        "position": "#2 Irish betting brand",
+        "notes": "Strong Ireland presence, retail + online"
+      },
+      {
+        "brand": "Ladbrokes",
+        "search_volume": 4900,
+        "position": "Established international brand in Ireland",
+        "notes": "UK-based, strong Ireland presence"
+      },
+      {
+        "brand": "Bet365",
+        "search_volume": 2600,
+        "position": "International leader in Ireland",
+        "notes": "Massive global brand"
+      },
+      {
+        "brand": "Unibet",
+        "search_volume": 1700,
+        "position": "European brand with Ireland operations",
+        "notes": "Growing market share"
+      },
+      {
+        "brand": "BetVictor",
+        "search_volume": 1400,
+        "position": "Established brand",
+        "notes": "Strong customer service reputation"
+      }
+    ]
+  },
+  "content_gaps_identified": [
+    "No existing comprehensive Millioner review content in market",
+    "Limited brand awareness - opportunity to establish authoritative review",
+    "Ireland-specific betting site reviews focus on major brands - gap for emerging operators",
+    "Lack of mobile app analysis for Millioner",
+    "Missing responsible gambling information specific to Ireland market",
+    "No detailed bonus breakdown for Irish users",
+    "Payment methods for Irish customers not well documented"
+  ],
+  "brand_positioning": {
+    "brand": "Millioner",
+    "badge_code": "MIL",
+    "badge_color": "#9E9E9E",
+    "market_position": "New entrant / emerging brand #5 in Ireland market",
+    "unique_selling_points": [
+      "To be determined from brand research",
+      "New/alternative option to established brands",
+      "Potential innovation focus",
+      "Modern platform features"
+    ],
+    "target_audience": "Irish bettors seeking alternatives to major brands; early adopters; users looking for new welcome bonuses",
+    "comparison_brands_ireland": [
+      "Paddy Power",
+      "Boylesports",
+      "Bet365",
+      "Ladbrokes",
+      "Unibet",
+      "BetVictor"
+    ],
+    "notes": "As Ireland Brand #5 per site structure, Millioner is positioned as an emerging alternative to the major 4 Irish betting brands."
+  },
+  "content_sections_required": {
+    "template_1_sections": [
+      "Header & Introduction (200-250 words)",
+      "Rating Summary (150-200 words)",
+      "Comprehensive Feature Analysis (800-1000 words)",
+      "Mobile App Experience (300-400 words)",
+      "Detailed Bonus Breakdown (300-350 words)",
+      "Terms & Conditions Summary (300-350 words)",
+      "Pros & Cons Summary (200-250 words)",
+      "FAQ Section (400-500 words, 8-10 questions)",
+      "Closing Recommendation (100-150 words)",
+      "Updated Information & Disclaimer (50-75 words)"
+    ],
+    "ireland_specific_additions": [
+      "Ireland legal status (18+ age requirement)",
+      "Irish payment methods (Euro transactions)",
+      "Ireland-specific bonuses and promotions",
+      "Comparison with Paddy Power and Boylesports",
+      "Irish gambling commission licensing",
+      "Responsible gambling resources for Ireland"
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "best betting sites ireland",
+      "url": "/sport/betting/ireland/betting-hub.htm",
+      "rationale": "Main Ireland betting hub"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/ireland/paddypower-review.htm",
+      "rationale": "Comparison with market leader"
+    },
+    {
+      "anchor": "Boylesports review",
+      "url": "/sport/betting/ireland/boylesports-review.htm",
+      "rationale": "Comparison with #2 brand"
+    },
+    {
+      "anchor": "Bet365 Ireland review",
+      "url": "/sport/betting/ireland/bet365-review.htm",
+      "rationale": "International competitor"
+    },
+    {
+      "anchor": "sports betting in Ireland",
+      "url": "/sport/betting/ireland/",
+      "rationale": "Ireland sports betting overview"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay-calculator.htm",
+      "rationale": "Betting tools"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds-calculator.htm",
+      "rationale": "Betting tools"
+    },
+    {
+      "anchor": "betting apps Ireland",
+      "url": "/sport/betting/ireland/betting-apps.htm",
+      "rationale": "Mobile betting guide"
+    },
+    {
+      "anchor": "GAA betting",
+      "url": "/sport/betting/ireland/gaa-betting.htm",
+      "rationale": "Irish sports betting"
+    },
+    {
+      "anchor": "rugby betting Ireland",
+      "url": "/sport/betting/ireland/rugby-betting.htm",
+      "rationale": "Irish sports betting"
+    },
+    {
+      "anchor": "responsible gambling Ireland",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "rationale": "Compliance"
+    },
+    {
+      "anchor": "how to withdraw winnings",
+      "url": "/sport/betting/how-to/withdraw-winnings.htm",
+      "rationale": "How-to guide"
+    }
+  ],
+  "technical_requirements": [
+    "Letter badge: MIL with color #9E9E9E",
+    "Last Updated badge with current date",
+    "Ireland-specific affiliate disclosure",
+    "Age requirement: 18+ (not 21+ as in USA)",
+    "Euro currency display (€)",
+    "Ireland gambling hotline: Gambling Care (freephone 1800 753 753)",
+    "Link to Irish gambling regulator",
+    "Schema markup: Review schema for Millioner brand",
+    "FAQ schema with Ireland-specific questions",
+    "Breadcrumb schema for navigation"
+  ],
+  "compliance_notes": {
+    "market": "Ireland",
+    "age_requirement": "18+",
+    "gambling_helpline": "Gambling Care - 1800 753 753 (Ireland)",
+    "regulator": "To be verified - likely not licensed yet as emerging brand",
+    "responsible_gambling": "Must include Ireland-specific resources and self-exclusion information",
+    "affiliate_disclosure": "Required at top of page",
+    "currency": "Euro (€)",
+    "notes": "Ireland regulations differ from USA - verify Millioner's licensing status with Irish authorities"
+  },
+  "strategic_direction": [
+    "Position Millioner as fresh alternative to established Irish brands",
+    "Focus on what makes Millioner different from Paddy Power/Boylesports duopoly",
+    "Emphasize modern platform features and innovation",
+    "Target keyword cluster: 'betting sites ireland' family (2,300+ monthly volume)",
+    "Build authority as emerging brand review before wider market recognition",
+    "Leverage 'new betting sites ireland' positioning (150/mo)",
+    "Provide comprehensive FAQ addressing trust/legitimacy concerns",
+    "Compare favorably where possible against market leaders",
+    "Highlight mobile app experience if competitive",
+    "Detail bonus offerings for Irish market specifically"
+  ],
+  "research_notes": {
+    "keyword_research_date": "2025-12-15",
+    "ahrefs_country": "ie",
+    "primary_keyword_source": "site_structure_csv",
+    "template": "Template 1 - Brand Review (3500-4000 words)",
+    "challenges": [
+      "Very low primary keyword volume (10/mo) - new/emerging brand",
+      "Limited competitive data available for Millioner specifically",
+      "Need to verify Millioner's actual licensing and operational status",
+      "Ireland market dominated by Paddy Power/Boylesports - difficult positioning"
+    ],
+    "opportunities": [
+      "High volume for 'betting sites ireland' keywords (900/mo+)",
+      "Gap in comprehensive review content for emerging Irish betting brands",
+      "Growing market for betting site alternatives",
+      "New entrants can capture bonus-seeking users"
+    ]
+  }
+}

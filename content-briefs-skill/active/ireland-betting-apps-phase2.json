@@ -1,0 +1,915 @@
+{
+  "page_name": "ireland-betting-apps",
+  "phase": 2,
+  "generated_date": "2025-12-15",
+  "writer_assigned": "Lewis Humphries",
+  "template_type": 2,
+  "target_word_count": {
+    "minimum": 7000,
+    "target": 8000,
+    "rationale": "Match #1 competitor (scs.ie) with 6,000-8,000 words but provide superior mobile/app analysis per brand"
+  },
+  "h1_structure": {
+    "title": "Best Betting Apps Ireland",
+    "target_keyword": "best betting apps ireland",
+    "no_dated_language": true,
+    "includes_last_updated_badge": true
+  },
+  "intro_requirements": {
+    "total_words": "100-150",
+    "structure": {
+      "opening": "40-50 words - Direct answer naming top 5 betting apps",
+      "disclosure": "50-75 words - Affiliate disclosure and transparency statement"
+    },
+    "forbidden_phrases": [
+      "Welcome to...",
+      "Looking for...",
+      "Rhetorical questions",
+      "Over 150 words total"
+    ]
+  },
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Best Betting Apps Ireland",
+      "target_keyword": "best betting apps ireland",
+      "word_count": 0,
+      "notes": "Title only, followed by Last Updated badge"
+    },
+    {
+      "section": "Introduction",
+      "word_count": "100-150",
+      "requirements": [
+        "Direct answer: Name top 5 betting apps upfront",
+        "Authority statement about app testing",
+        "Affiliate disclosure (50-75 words)"
+      ]
+    },
+    {
+      "section": "Comparison Table",
+      "brands_included": 10,
+      "columns": [
+        "Betting App",
+        "App Store Rating",
+        "Android Rating",
+        "Welcome Bonus",
+        "Key App Features",
+        "Download Size",
+        "Min iOS/Android Version",
+        "CTA Button"
+      ],
+      "requirements": "Interactive table with sorting by app ratings"
+    },
+    {
+      "section": "Quick Answer Box",
+      "word_count": "75-100",
+      "requirements": "Summary of top 3 apps with mobile USPs and App Store ratings"
+    },
+    {
+      "section": "H2",
+      "title": "Lunubet App Review: Ireland's Premier Mobile Betting Experience",
+      "brand": "Lunubet",
+      "position": 1,
+      "word_count": "700-900",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Lunubet Mobile App Features & Sports Coverage",
+          "word_count": "150-200",
+          "requirements": "Sports markets available in app, live betting interface, unique app features"
+        },
+        {
+          "type": "H3",
+          "title": "Lunubet App Experience: iOS & Android Review",
+          "word_count": "150-200",
+          "requirements": "CRITICAL: App Store rating (iOS), Google Play rating (Android), download size, minimum OS version, interface design, navigation, bet slip functionality, live streaming availability"
+        },
+        {
+          "type": "H3",
+          "title": "Lunubet App GAA & Horse Racing Features",
+          "word_count": "100-150",
+          "requirements": "GAA betting interface, All-Ireland Championship coverage, horse racing markets, Cheltenham/Punchestown specials"
+        },
+        {
+          "type": "H3",
+          "title": "Lunubet App Welcome Bonus & Promotions",
+          "word_count": "100-150",
+          "requirements": "App-exclusive bonuses, how to claim via mobile, push notification offers"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150",
+          "requirements": "4-5 pros, 2-3 cons focused on APP-SPECIFIC features (not general site)"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betalright App Review: Modern Mobile Betting Platform",
+      "brand": "Betalright",
+      "position": 2,
+      "word_count": "700-900",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Betalright App Features & Platform Design",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Mobile Experience: iOS & Android Analysis",
+          "word_count": "150-200",
+          "requirements": "App Store/Google Play ratings, app size, OS requirements, UI/UX review"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright App Irish Sports Coverage",
+          "word_count": "100-150",
+          "requirements": "GAA markets, Irish horse racing, rugby coverage in app"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright App Bonuses & Loyalty Rewards",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Casina App Review: Sports & Casino Combined",
+      "brand": "Casina",
+      "position": 3,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Casina App Features & Market Variety",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Casina Mobile App Performance",
+          "word_count": "150-200",
+          "requirements": "App ratings, download size, performance testing, crash frequency"
+        },
+        {
+          "type": "H3",
+          "title": "Casina App Welcome Offer",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Festival Play App Review: Horse Racing Specialist",
+      "brand": "Festival Play",
+      "position": 4,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Festival Play App Racing Features",
+          "word_count": "150-200",
+          "requirements": "Horse racing interface, race cards, live odds updates, ante-post markets"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App Store/Google Play ratings, racing-specific app features"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play App Bonus Terms",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Millioner App Review: Competitive Odds Leader",
+      "brand": "Millioner",
+      "position": 5,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Millioner App Live Betting Platform",
+          "word_count": "150-200",
+          "requirements": "In-play interface, live betting speed, markets available in-play"
+        },
+        {
+          "type": "H3",
+          "title": "Millioner Mobile App Analysis",
+          "word_count": "150-200",
+          "requirements": "App ratings, live betting UI, speed of odds updates"
+        },
+        {
+          "type": "H3",
+          "title": "Millioner App Promotions",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betovo App Review: Sleek Modern Interface",
+      "brand": "Betovo",
+      "position": 6,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Betovo App Features & Payment Integration",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Betovo Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App ratings, payment methods in app, withdrawal speeds"
+        },
+        {
+          "type": "H3",
+          "title": "Betovo App Welcome Bonus",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "22bet App Review: International Betting Giant",
+      "brand": "22bet",
+      "position": 7,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "22bet App Market Selection",
+          "word_count": "150-200",
+          "requirements": "1000+ daily events, sports variety in app"
+        },
+        {
+          "type": "H3",
+          "title": "22bet Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App ratings, download size, international sports coverage"
+        },
+        {
+          "type": "H3",
+          "title": "22bet App Bonuses",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Big Clash App Review: Fast Withdrawals & Service",
+      "brand": "Big Clash",
+      "position": 8,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Big Clash App Features & Customer Support",
+          "word_count": "150-200",
+          "requirements": "In-app customer support, live chat, help features"
+        },
+        {
+          "type": "H3",
+          "title": "Big Clash Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App ratings, in-app support accessibility"
+        },
+        {
+          "type": "H3",
+          "title": "Big Clash App Promotions",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Rabona App Review: Youth-Focused Sports Betting",
+      "brand": "Rabona",
+      "position": 9,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Rabona App International Sports Coverage",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Rabona Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App ratings, modern UI design, social features"
+        },
+        {
+          "type": "H3",
+          "title": "Rabona App Welcome Offer",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Wonder Luck App Review: Multi-Product Platform",
+      "brand": "Wonder Luck",
+      "position": 10,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Wonder Luck App Product Variety",
+          "word_count": "150-200",
+          "requirements": "Sports, casino, other products accessible in app"
+        },
+        {
+          "type": "H3",
+          "title": "Wonder Luck Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App ratings, multi-product navigation"
+        },
+        {
+          "type": "H3",
+          "title": "Wonder Luck App Bonuses",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betting Apps Ireland: Complete Guide",
+      "target_keyword": "betting apps ireland",
+      "keyword_volume": 200,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Irish Betting Apps vs Desktop Sites",
+          "target_keyword": "irish betting apps",
+          "keyword_volume": 100,
+          "word_count": "200-250",
+          "requirements": "Compare app advantages: convenience, push notifications, Touch ID/Face ID, location services"
+        },
+        {
+          "type": "H3",
+          "title": "Licensed Mobile Betting in Ireland",
+          "word_count": "150-200",
+          "requirements": "Irish Revenue Commissioners licensing applies to apps, responsible gambling tools in apps"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Sports Betting Ireland: Best Apps by Sport",
+      "target_keyword": "sports betting ireland",
+      "keyword_volume": 500,
+      "word_count": "700-800",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Best GAA Betting Apps",
+          "word_count": "250-300",
+          "requirements": "CRITICAL: Which apps have best GAA coverage, All-Ireland Championship markets, county competitions, in-play GAA betting features, push notifications for GAA matches"
+        },
+        {
+          "type": "H3",
+          "title": "Best Horse Racing Apps Ireland",
+          "word_count": "200-250",
+          "requirements": "Apps with best racing interfaces, live race updates, Cheltenham/Punchestown coverage, best odds guaranteed features"
+        },
+        {
+          "type": "H3",
+          "title": "Rugby & Football Betting Apps",
+          "word_count": "150-200",
+          "requirements": "Six Nations, Pro14, Premier League coverage in apps"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Free Bets Ireland: App-Exclusive Bonuses",
+      "target_keyword": "free bets ireland",
+      "keyword_volume": 300,
+      "word_count": "600-700",
+      "requirements": "Compare app-exclusive welcome offers, push notification promotions, in-app bonus claims, wagering requirements comparison, bonus T&Cs for all 10 apps"
+    },
+    {
+      "section": "H2",
+      "title": "How to Download Betting Apps in Ireland",
+      "target_keyword": "mobile betting ireland",
+      "keyword_volume": 50,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "iOS Betting Apps Ireland: App Store Download Guide",
+          "target_keyword": "betting apps ios ireland",
+          "keyword_volume": 20,
+          "word_count": "250-300",
+          "requirements": "Step-by-step: Open App Store > Search [brand] > Download > Install > Open > Register > Verify. Include minimum iOS version requirements"
+        },
+        {
+          "type": "H3",
+          "title": "Android Betting Apps Ireland: Google Play Guide",
+          "target_keyword": "betting apps android ireland",
+          "keyword_volume": 20,
+          "word_count": "250-300",
+          "requirements": "Step-by-step: Open Google Play > Search [brand] > Install > Open > Register > Verify. Include minimum Android version requirements"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Live Betting Apps Ireland: In-Play Features Compared",
+      "target_keyword": "live betting apps ireland",
+      "keyword_volume": 40,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Best Live Betting Interfaces",
+          "word_count": "200-250",
+          "requirements": "Compare in-play UI across top 5 apps, odds update speed, live stats availability"
+        },
+        {
+          "type": "H3",
+          "title": "Live Streaming in Betting Apps",
+          "word_count": "150-200",
+          "requirements": "Which apps offer live streaming, sports covered, quality, requirements"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Payment Methods in Irish Betting Apps",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Mobile Payment Options (Apple Pay, Google Pay)",
+          "word_count": "200-250",
+          "requirements": "Which apps support Apple Pay, Google Pay, Touch ID payments, Face ID verification"
+        },
+        {
+          "type": "H3",
+          "title": "In-App Deposits & Withdrawals",
+          "word_count": "200-250",
+          "requirements": "Deposit/withdrawal process in apps, processing times, payment method comparison table"
+        },
+        {
+          "type": "Table",
+          "title": "Payment Methods by Betting App",
+          "requirements": "10-app comparison: Apple Pay, Google Pay, Cards, PayPal, Bank Transfer availability"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "App Store Ratings Comparison Ireland",
+      "word_count": "400-500",
+      "requirements": "Consolidated section with ALL 10 apps' iOS and Android ratings, review counts, common user feedback themes, rating trends",
+      "subsections": [
+        {
+          "type": "Table",
+          "title": "Complete App Ratings Comparison",
+          "requirements": "All 10 brands: iOS rating (out of 5), iOS reviews count, Android rating, Android reviews, download size, last updated date"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Online Betting Apps Ireland: Safety & Security",
+      "target_keyword": "online betting apps ireland",
+      "keyword_volume": 30,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "App Security Features",
+          "word_count": "200-250",
+          "requirements": "Biometric login (Touch ID/Face ID), encryption, secure payments, account verification"
+        },
+        {
+          "type": "H3",
+          "title": "Responsible Gambling Tools in Apps",
+          "word_count": "150-200",
+          "requirements": "Deposit limits, self-exclusion, reality checks, time limits accessible in-app"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Best Online Betting Ireland: Apps vs Desktop",
+      "target_keyword": "best online betting ireland",
+      "keyword_volume": 10,
+      "word_count": "400-500",
+      "requirements": "Compare mobile app advantages vs desktop experience, feature parity, exclusive app features, when to use each"
+    },
+    {
+      "section": "H2",
+      "title": "Complete App Bonus Terms & Conditions",
+      "word_count": "500-600",
+      "requirements": "Full T&Cs for ALL 10 brands' app welcome offers - wagering requirements, time limits, minimum odds, app-specific restrictions, bonus claim process in app"
+    },
+    {
+      "section": "H2",
+      "title": "How We Test & Rank Betting Apps",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Our App Testing Methodology",
+          "word_count": "250-300",
+          "requirements": "Explain criteria: App Store ratings (20%), interface/UX (20%), features (20%), performance/speed (15%), payment integration (15%), customer support in app (10%)"
+        },
+        {
+          "type": "H3",
+          "title": "Testing Process & Devices",
+          "word_count": "150-200",
+          "requirements": "iPhone and Android devices used, testing duration, real-money verification"
+        }
+      ]
+    },
+    {
+      "section": "FAQs",
+      "word_count": "1000-1200",
+      "requirements": "10 FAQs targeting secondary keywords, 100-125 words each, app-specific answers"
+    },
+    {
+      "section": "H2",
+      "title": "Responsible Gambling in Ireland",
+      "word_count": "300-400",
+      "requirements": "Gamblers Anonymous Ireland hotline (087 744 3577), in-app responsible gambling tools, self-exclusion via apps, deposit limits, reality checks, problem gambling signs"
+    },
+    {
+      "section": "References",
+      "requirements": "8-12 citations from App Store ratings, Google Play reviews, Trustpilot, Reddit (r/ireland, r/gambling), official app screenshots"
+    }
+  ],
+  "keyword_mapping": [
+    {
+      "keyword": "best betting apps ireland",
+      "volume": 150,
+      "placement": "H1",
+      "section_title": "Best Betting Apps Ireland"
+    },
+    {
+      "keyword": "betting apps ireland",
+      "volume": 200,
+      "placement": "H2",
+      "section_title": "Betting Apps Ireland: Complete Guide"
+    },
+    {
+      "keyword": "sports betting ireland",
+      "volume": 500,
+      "placement": "H2",
+      "section_title": "Sports Betting Ireland: Best Apps by Sport"
+    },
+    {
+      "keyword": "free bets ireland",
+      "volume": 300,
+      "placement": "H2",
+      "section_title": "Free Bets Ireland: App-Exclusive Bonuses"
+    },
+    {
+      "keyword": "irish betting apps",
+      "volume": 100,
+      "placement": "H3",
+      "section_title": "Irish Betting Apps vs Desktop Sites"
+    },
+    {
+      "keyword": "ireland bookmakers",
+      "volume": 100,
+      "placement": "FAQ",
+      "section_title": "Are Ireland bookmakers better than UK betting apps?"
+    },
+    {
+      "keyword": "mobile betting ireland",
+      "volume": 50,
+      "placement": "H2",
+      "section_title": "How to Download Betting Apps in Ireland"
+    },
+    {
+      "keyword": "betting apps ios ireland",
+      "volume": 20,
+      "placement": "H3",
+      "section_title": "iOS Betting Apps Ireland: App Store Download Guide"
+    },
+    {
+      "keyword": "betting apps android ireland",
+      "volume": 20,
+      "placement": "H3",
+      "section_title": "Android Betting Apps Ireland: Google Play Guide"
+    },
+    {
+      "keyword": "online betting apps ireland",
+      "volume": 30,
+      "placement": "H2",
+      "section_title": "Online Betting Apps Ireland: Safety & Security"
+    },
+    {
+      "keyword": "best online betting ireland",
+      "volume": 10,
+      "placement": "H2",
+      "section_title": "Best Online Betting Ireland: Apps vs Desktop"
+    },
+    {
+      "keyword": "licensed betting ireland",
+      "volume": 10,
+      "placement": "FAQ",
+      "section_title": "Are all betting apps licensed in Ireland?"
+    },
+    {
+      "keyword": "live betting apps ireland",
+      "volume": 40,
+      "placement": "H2",
+      "section_title": "Live Betting Apps Ireland: In-Play Features Compared"
+    }
+  ],
+  "faq_questions": [
+    {
+      "question": "What are the best betting apps in Ireland?",
+      "target_keyword": "best betting apps ireland",
+      "keyword_volume": 150,
+      "word_count": "100-125",
+      "answer_requirements": "Name top 5 apps with App Store ratings, explain criteria (ratings, features, bonuses)"
+    },
+    {
+      "question": "Are all betting apps licensed in Ireland?",
+      "target_keyword": "licensed betting ireland",
+      "keyword_volume": 10,
+      "word_count": "100-125",
+      "answer_requirements": "Explain Irish Revenue Commissioners licensing, how apps are regulated, which featured apps are licensed"
+    },
+    {
+      "question": "Can I download betting apps on iOS in Ireland?",
+      "target_keyword": "betting apps ios ireland",
+      "keyword_volume": 20,
+      "word_count": "100-125",
+      "answer_requirements": "Yes - list which of the 10 apps available on App Store, minimum iOS versions, download process"
+    },
+    {
+      "question": "Are Android betting apps available in Ireland?",
+      "target_keyword": "betting apps android ireland",
+      "keyword_volume": 20,
+      "word_count": "100-125",
+      "answer_requirements": "Yes - list which apps on Google Play, minimum Android versions, download process"
+    },
+    {
+      "question": "Which betting app has the best free bets in Ireland?",
+      "target_keyword": "free bets ireland",
+      "keyword_volume": 300,
+      "word_count": "100-125",
+      "answer_requirements": "Compare top 3 app welcome bonuses, mention app-exclusive offers, explain wagering requirements"
+    },
+    {
+      "question": "What's the difference between Irish betting apps and UK apps?",
+      "target_keyword": "ireland bookmakers",
+      "keyword_volume": 100,
+      "word_count": "100-125",
+      "answer_requirements": "Compare licensing (Irish vs UK), payment methods, sports coverage (GAA unique to Ireland), odds differences"
+    },
+    {
+      "question": "Which apps are best for GAA betting in Ireland?",
+      "target_keyword": "sports betting ireland",
+      "keyword_volume": 500,
+      "word_count": "100-125",
+      "answer_requirements": "Name top 3 apps for GAA, explain All-Ireland Championship coverage, county competitions, in-play GAA features"
+    },
+    {
+      "question": "Do Irish betting apps offer live streaming?",
+      "target_keyword": "live betting apps ireland",
+      "keyword_volume": 40,
+      "word_count": "100-125",
+      "answer_requirements": "Some do - name which apps offer streaming, sports covered (horse racing, football, etc.), requirements (funded account)"
+    },
+    {
+      "question": "Can I use Apple Pay on Irish betting apps?",
+      "target_keyword": "mobile betting ireland",
+      "keyword_volume": 50,
+      "word_count": "100-125",
+      "answer_requirements": "List which of the 10 apps support Apple Pay, Google Pay, Touch ID/Face ID payments, benefits"
+    },
+    {
+      "question": "Are online betting apps safe to use in Ireland?",
+      "target_keyword": "online betting apps ireland",
+      "keyword_volume": 30,
+      "word_count": "100-125",
+      "answer_requirements": "Yes if licensed - explain security features (encryption, biometric login, secure payments), licensing protection"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      "App Store ratings and reviews (CRITICAL - MUST include exact ratings for each app)",
+      "Google Play Store ratings and reviews (CRITICAL - MUST include exact ratings)",
+      "Reddit discussions (r/ireland, r/gambling) for app user sentiment",
+      "Trustpilot reviews mentioning mobile app experience"
+    ],
+    "tier_2_verification": [
+      "Official brand app screenshots for feature verification",
+      "Irish Revenue Commissioners licensing database",
+      "App Store/Google Play 'What's New' sections for latest updates"
+    ],
+    "tier_3_sparingly": [
+      "Competitor affiliate sites for app feature research only",
+      "NEVER cite affiliate sites for app pros/cons"
+    ],
+    "citation_format": "\"4.8/5 (12,500 reviews) on App Store as of December 2024\" or \"Reddit users in r/ireland report [finding] about app performance\""
+  },
+  "internal_links": [
+    {
+      "anchor_text": "best betting sites ireland",
+      "target_url": "/sport/betting/ireland/",
+      "placement": "Introduction - link to main Ireland hub"
+    },
+    {
+      "anchor_text": "free bets ireland",
+      "target_url": "/sport/betting/ireland/free-bets/",
+      "placement": "Free Bets section"
+    },
+    {
+      "anchor_text": "betting calculator",
+      "target_url": "/sport/betting/calculators/",
+      "placement": "Free Bets section"
+    },
+    {
+      "anchor_text": "parlay calculator",
+      "target_url": "/sport/betting/calculators/parlay/",
+      "placement": "Sports Betting section"
+    },
+    {
+      "anchor_text": "live betting guide",
+      "target_url": "/sport/betting/live/",
+      "placement": "Live Betting Apps section"
+    },
+    {
+      "anchor_text": "horse racing betting",
+      "target_url": "/sport/betting/horse-racing/",
+      "placement": "Horse Racing Apps subsection"
+    },
+    {
+      "anchor_text": "GAA betting guide",
+      "target_url": "/sport/betting/gaa/",
+      "placement": "GAA Betting Apps subsection"
+    },
+    {
+      "anchor_text": "rugby betting",
+      "target_url": "/sport/betting/rugby/",
+      "placement": "Sports Betting section"
+    },
+    {
+      "anchor_text": "football betting",
+      "target_url": "/sport/betting/football/",
+      "placement": "Sports Betting section"
+    },
+    {
+      "anchor_text": "responsible gambling",
+      "target_url": "/sport/betting/responsible-gambling/",
+      "placement": "Responsible Gambling section"
+    },
+    {
+      "anchor_text": "betting odds explained",
+      "target_url": "/sport/betting/odds/",
+      "placement": "How We Test section"
+    },
+    {
+      "anchor_text": "betting app reviews",
+      "target_url": "/sport/betting/apps/reviews/",
+      "placement": "How We Test section"
+    }
+  ],
+  "compliance_requirements": {
+    "age_restriction": "18+ (Ireland legal gambling age)",
+    "responsible_gambling_hotline": "Gamblers Anonymous Ireland: 087 744 3577",
+    "affiliate_disclosure": "MUST appear in introduction (50-75 words)",
+    "responsible_gambling_section": "MUST appear at bottom of page with in-app tools mentioned",
+    "no_dated_language": "NEVER use dates in H1 - use Last Updated badge only",
+    "licensing_mention": "Irish Revenue Commissioners licensing system for apps"
+  },
+  "brand_requirements": {
+    "sections_per_brand": [
+      "App Features & Sports Coverage (150-200 words)",
+      "Mobile App Experience with iOS/Android ratings (150-200 words) - CRITICAL",
+      "GAA/Horse Racing App Features (100-150 words) - Ireland-specific",
+      "App Welcome Bonus (100-150 words)",
+      "Pros & Cons focused on APP features (100-150 words)"
+    ],
+    "word_count_by_position": {
+      "positions_1_2": "700-900 words each",
+      "positions_3_5": "600-700 words each",
+      "positions_6_10": "500-600 words each"
+    },
+    "total_brands": 10,
+    "app_rating_requirement": "MANDATORY: Include App Store (iOS) and Google Play (Android) ratings for EVERY brand"
+  },
+  "ireland_app_specific_elements": {
+    "key_sports_in_apps": [
+      "GAA (Gaelic Football & Hurling) - MANDATORY app features section",
+      "Horse Racing (Cheltenham, Punchestown) - MANDATORY app interface analysis",
+      "Rugby (Six Nations, Pro14) - app coverage",
+      "Football (Premier League, Champions League) - app markets"
+    ],
+    "app_features_to_highlight": [
+      "Push notifications for GAA matches and horse racing",
+      "Live streaming availability in apps",
+      "Biometric login (Touch ID/Face ID)",
+      "Apple Pay/Google Pay integration",
+      "In-play betting interface and speed",
+      "Bet builder functionality in app",
+      "Cash out features",
+      "Live stats and match tracker",
+      "App-exclusive bonuses and promotions"
+    ],
+    "download_guides": [
+      "iOS App Store step-by-step (with screenshots if possible)",
+      "Google Play step-by-step (with screenshots if possible)",
+      "Minimum iOS version requirements per app",
+      "Minimum Android version requirements per app",
+      "App download sizes per brand"
+    ]
+  },
+  "calculator_tools": [
+    {
+      "tool": "Betting Calculator",
+      "url": "/sport/betting/calculators/",
+      "placement": "Free Bets section",
+      "description": "Calculate potential returns and wagering requirements for app bonuses"
+    },
+    {
+      "tool": "Parlay Calculator",
+      "url": "/sport/betting/calculators/parlay/",
+      "placement": "Sports Betting section",
+      "description": "Calculate parlay payouts for multiple selections in betting apps"
+    }
+  ],
+  "meta_keywords": [
+    "best betting apps ireland",
+    "betting apps ireland",
+    "sports betting ireland",
+    "free bets ireland",
+    "irish betting apps",
+    "ireland bookmakers",
+    "mobile betting ireland",
+    "betting apps ios ireland",
+    "betting apps android ireland",
+    "online betting apps ireland",
+    "best online betting ireland",
+    "licensed betting ireland",
+    "live betting apps ireland"
+  ],
+  "validation_checklist": {
+    "keywords_mapped": "All 12 secondary keywords mapped to specific sections",
+    "faqs_count": "10 FAQs created targeting keywords",
+    "mobile_sections": "Mobile Experience section with App Store/Google Play ratings for ALL 10 brands - CRITICAL",
+    "app_ratings_required": "iOS and Android ratings MANDATORY for every brand",
+    "gaa_horse_racing": "GAA and horse racing app features covered for each brand",
+    "download_guides": "iOS and Android download guides with step-by-step instructions",
+    "payment_comparison": "Payment methods (Apple Pay, Google Pay) comparison included",
+    "calculator_links": "2 calculator tool links included",
+    "internal_links": "12 internal links specified",
+    "source_requirements": "Tier 1 sources (App Store, Google Play, Reddit) MANDATORY",
+    "ireland_specific": "GAA app features, horse racing app interface, Irish licensing covered",
+    "compliance": "18+, Irish hotline (087 744 3577), affiliate disclosure included",
+    "app_specific_features": "Live streaming, biometric login, push notifications, in-app payments all covered"
+  }
+}

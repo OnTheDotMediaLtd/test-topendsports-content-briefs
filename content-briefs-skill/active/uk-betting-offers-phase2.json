@@ -1,0 +1,717 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/uk/betting-offers.htm",
+    "page_name": "UK Betting Offers",
+    "market": "United Kingdom",
+    "content_type": "Offers Hub",
+    "target_word_count": 4000,
+    "template": "comparison",
+    "writer_assigned": "Lewis"
+  },
+  "keyword_optimization": {
+    "primary_keyword": {
+      "keyword": "new customer betting offers",
+      "volume": 1200,
+      "placement": "H1"
+    },
+    "h2_mapping": [
+      {
+        "keyword": "best betting offers",
+        "volume": 1300,
+        "section": "Best Betting Offers in the UK",
+        "word_count": 400
+      },
+      {
+        "keyword": "betting sites sign up offers",
+        "volume": 800,
+        "section": "Betting Sites Sign Up Offers Compared",
+        "word_count": 450
+      },
+      {
+        "keyword": "best free bets",
+        "volume": 700,
+        "section": "Best Free Bets from UK Bookmakers",
+        "word_count": 450
+      },
+      {
+        "keyword": "betting offers uk",
+        "volume": 600,
+        "section": "Complete UK Betting Offers T&Cs",
+        "word_count": 500
+      },
+      {
+        "keyword": "welcome offers betting",
+        "volume": 350,
+        "section": "Welcome Offers Betting: How to Claim",
+        "word_count": 400
+      },
+      {
+        "keyword": "champions league betting offers",
+        "volume": 450,
+        "section": "Champions League Betting Offers & Event Promotions",
+        "word_count": 400
+      }
+    ],
+    "h3_mapping": [
+      {
+        "keyword": "betting site offers",
+        "volume": 600,
+        "parent_section": "Betting Sites Sign Up Offers Compared",
+        "h3_title": "Understanding Different Betting Site Offers",
+        "word_count": 200
+      },
+      {
+        "keyword": "best sign up offers betting",
+        "volume": 500,
+        "parent_section": "Best Betting Offers in the UK",
+        "h3_title": "Best Sign Up Offers Betting Sites Provide",
+        "word_count": 200
+      },
+      {
+        "keyword": "sign up offers betting",
+        "volume": 450,
+        "parent_section": "Welcome Offers Betting: How to Claim",
+        "h3_title": "Step-by-Step: Claiming Sign Up Offers",
+        "word_count": 200
+      },
+      {
+        "keyword": "sign up betting offers",
+        "volume": 300,
+        "parent_section": "Welcome Offers Betting: How to Claim",
+        "h3_title": "Maximizing Sign Up Betting Offers Value",
+        "word_count": 200
+      },
+      {
+        "keyword": "betting app sign up offers",
+        "volume": 200,
+        "parent_section": "Mobile App Exclusive Offers",
+        "h3_title": "Betting App Sign Up Offers & Mobile Bonuses",
+        "word_count": 250
+      },
+      {
+        "keyword": "football betting promotions",
+        "volume": 150,
+        "parent_section": "Champions League Betting Offers & Event Promotions",
+        "h3_title": "Football Betting Promotions Throughout the Season",
+        "word_count": 200
+      }
+    ],
+    "faq_mapping": [
+      {
+        "keyword": "top 20 betting sites uk free",
+        "volume": 1300,
+        "question": "What are the top 20 betting sites in the UK offering free bets?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "best new customer betting offers",
+        "volume": 450,
+        "question": "What are the best new customer betting offers available?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "free bet sign up offer",
+        "volume": 200,
+        "question": "How do free bet sign up offers work?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "betting apps offers",
+        "volume": 150,
+        "question": "Do betting apps have better offers than websites?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "best offers betting sites",
+        "volume": 100,
+        "question": "Which betting sites have the best offers right now?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "betting company offers",
+        "volume": 100,
+        "question": "What types of offers do betting companies provide?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "new customer betting offers",
+        "volume": 1200,
+        "question": "Are new customer betting offers better than existing customer promotions?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "welcome offers betting",
+        "volume": 350,
+        "question": "What wagering requirements apply to welcome offers?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "betting site offers",
+        "volume": 600,
+        "question": "Can I claim betting site offers on multiple platforms?",
+        "target_answer_length": 150
+      },
+      {
+        "keyword": "champions league betting offers",
+        "volume": 450,
+        "question": "When do Champions League betting offers typically appear?",
+        "target_answer_length": 150
+      }
+    ],
+    "all_keywords_for_meta": [
+      "new customer betting offers",
+      "best betting offers",
+      "top 20 betting sites uk free",
+      "betting sites sign up offers",
+      "best free bets",
+      "betting offers uk",
+      "betting site offers",
+      "best sign up offers betting",
+      "best new customer betting offers",
+      "sign up offers betting",
+      "champions league betting offers",
+      "welcome offers betting",
+      "sign up betting offers",
+      "free bet sign up offer",
+      "betting app sign up offers",
+      "betting apps offers",
+      "football betting promotions",
+      "best offers betting sites",
+      "betting company offers"
+    ],
+    "total_keywords_mapped": 19
+  },
+  "content_outline": {
+    "h1": "New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets",
+    "last_updated_badge": "Required after H1",
+    "introduction": {
+      "word_count": 150,
+      "structure": "Direct answer (50w) + Affiliate disclosure (75-100w)",
+      "requirements": [
+        "Lead with best offers from Bet442, LuckyMate, NRGbet",
+        "Authority statement about testing methodology",
+        "Affiliate disclosure required",
+        "NO dated language in content"
+      ]
+    },
+    "sections": [
+      {
+        "type": "component",
+        "name": "Comparison Table",
+        "description": "Interactive table with all 9 brands showing offer type, bonus amount, wagering requirements, minimum odds, expiry"
+      },
+      {
+        "type": "component",
+        "name": "Quick Answer Box",
+        "description": "Summarize top 3 offers with key differentiators"
+      },
+      {
+        "type": "h2",
+        "title": "Best Betting Offers in the UK",
+        "keyword": "best betting offers",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Best Sign Up Offers Betting Sites Provide",
+            "keyword": "best sign up offers betting",
+            "word_count": 200
+          }
+        ],
+        "content_focus": "Overview of current UK betting market offers, what makes an offer 'best' (value, terms, flexibility)"
+      },
+      {
+        "type": "h2",
+        "title": "Bet442 Review",
+        "brand": "Bet442",
+        "word_count": 450,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "App features, mobile-exclusive offers, ease of claiming bonus on mobile"
+          },
+          {
+            "type": "h3",
+            "title": "Welcome Offer Details",
+            "word_count": 150
+          },
+          {
+            "type": "h3",
+            "title": "Payment Methods",
+            "word_count": 150
+          }
+        ],
+        "content_focus": "UK-focused operator with comprehensive sports coverage and competitive new customer offers"
+      },
+      {
+        "type": "h2",
+        "title": "LuckyMate Review",
+        "brand": "LuckyMate",
+        "word_count": 450,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "Hybrid casino-sports app, mobile offer claiming, gamification features"
+          },
+          {
+            "type": "h3",
+            "title": "Multi-Platform Welcome Package",
+            "word_count": 150
+          },
+          {
+            "type": "h3",
+            "title": "Payment Methods",
+            "word_count": 150
+          }
+        ],
+        "content_focus": "Hybrid offers combining sports and casino bonuses"
+      },
+      {
+        "type": "h2",
+        "title": "NRGbet Review",
+        "brand": "NRGbet",
+        "word_count": 450,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "Mobile platform optimization, enhanced welcome bonus on app"
+          },
+          {
+            "type": "h3",
+            "title": "Enhanced Welcome Bonus",
+            "word_count": 150
+          },
+          {
+            "type": "h3",
+            "title": "Payment Methods",
+            "word_count": 150
+          }
+        ],
+        "content_focus": "Aggressive new customer acquisition with boosted offers"
+      },
+      {
+        "type": "h2",
+        "title": "Myriadplay Review",
+        "brand": "Myriadplay",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "Multi-sport platform mobile features, offer selection on app"
+          },
+          {
+            "type": "h3",
+            "title": "Choose Your Welcome Bonus",
+            "word_count": 250
+          }
+        ],
+        "content_focus": "Multi-sport promotional variety with choice of offers"
+      },
+      {
+        "type": "h2",
+        "title": "7Bet Review",
+        "brand": "7Bet",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "Simple mobile interface, transparent offer claiming"
+          },
+          {
+            "type": "h3",
+            "title": "Straightforward Free Bet Offer",
+            "word_count": 250
+          }
+        ],
+        "content_focus": "Simple, transparent offers with minimal wagering requirements"
+      },
+      {
+        "type": "h2",
+        "title": "Mr Luck Review",
+        "brand": "Mr Luck",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "Entertainment-focused mobile app, casino crossover features"
+          },
+          {
+            "type": "h3",
+            "title": "Fun-Focused Welcome Package",
+            "word_count": 250
+          }
+        ],
+        "content_focus": "Entertainment-focused offers with casino crossover appeal"
+      },
+      {
+        "type": "h2",
+        "title": "MogoBet Review",
+        "brand": "MogoBet",
+        "word_count": 350,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "Mobile-first design, app-exclusive offers, mobile-only bonuses"
+          },
+          {
+            "type": "h3",
+            "title": "Mobile App Exclusive Welcome Bonus",
+            "word_count": 200
+          }
+        ],
+        "content_focus": "Mobile-exclusive offers and app-based promotions"
+      },
+      {
+        "type": "h2",
+        "title": "22bet Review",
+        "brand": "22bet",
+        "word_count": 350,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 150,
+            "requirements": "International platform mobile features, 30+ sports on mobile"
+          },
+          {
+            "type": "h3",
+            "title": "Multi-Sport Welcome Bonus",
+            "word_count": 200
+          }
+        ],
+        "content_focus": "International-style offers with extensive sports coverage"
+      },
+      {
+        "type": "h2",
+        "title": "Highbet Review",
+        "brand": "Highbet",
+        "word_count": 300,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Mobile Experience",
+            "word_count": 100,
+            "requirements": "Premium mobile platform for high-value bettors"
+          },
+          {
+            "type": "h3",
+            "title": "Premium Welcome Bonus",
+            "word_count": 200
+          }
+        ],
+        "content_focus": "Premium offers with elevated bonus amounts for serious bettors"
+      },
+      {
+        "type": "h2",
+        "title": "Betting Sites Sign Up Offers Compared",
+        "keyword": "betting sites sign up offers",
+        "word_count": 450,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Understanding Different Betting Site Offers",
+            "keyword": "betting site offers",
+            "word_count": 250
+          }
+        ],
+        "content_focus": "Side-by-side comparison of all 9 operators' sign up offers with offer type breakdown"
+      },
+      {
+        "type": "h2",
+        "title": "Best Free Bets from UK Bookmakers",
+        "keyword": "best free bets",
+        "word_count": 450,
+        "content_focus": "Free bet offers specifically, how they differ from deposit matches, no-wagering options"
+      },
+      {
+        "type": "h2",
+        "title": "Mobile App Exclusive Offers",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Betting App Sign Up Offers & Mobile Bonuses",
+            "keyword": "betting app sign up offers",
+            "word_count": 250
+          }
+        ],
+        "content_focus": "App-only promotions, download incentives, mobile-exclusive boosts"
+      },
+      {
+        "type": "h2",
+        "title": "Welcome Offers Betting: How to Claim",
+        "keyword": "welcome offers betting",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Step-by-Step: Claiming Sign Up Offers",
+            "keyword": "sign up offers betting",
+            "word_count": 200
+          },
+          {
+            "type": "h3",
+            "title": "Maximizing Sign Up Betting Offers Value",
+            "keyword": "sign up betting offers",
+            "word_count": 200
+          }
+        ],
+        "content_focus": "Registration process, deposit requirements, offer activation, wagering completion"
+      },
+      {
+        "type": "h2",
+        "title": "Complete UK Betting Offers T&Cs",
+        "keyword": "betting offers uk",
+        "word_count": 500,
+        "content_focus": "Full terms for all 9 brands, wagering requirements, minimum odds, expiry dates, restrictions"
+      },
+      {
+        "type": "h2",
+        "title": "Champions League Betting Offers & Event Promotions",
+        "keyword": "champions league betting offers",
+        "word_count": 400,
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Football Betting Promotions Throughout the Season",
+            "keyword": "football betting promotions",
+            "word_count": 200
+          }
+        ],
+        "content_focus": "Seasonal offers, tournament-specific bonuses, enhanced odds for major events"
+      },
+      {
+        "type": "h2",
+        "title": "Payment Methods for Qualifying Deposits",
+        "word_count": 350,
+        "content_focus": "Which payment methods qualify for offers, Faster Payments, Open Banking, e-wallets, deposit speed comparison"
+      },
+      {
+        "type": "h2",
+        "title": "How We Test & Rank Betting Offers",
+        "word_count": 400,
+        "content_focus": "Methodology, offer value calculation, wagering requirement analysis, testing process"
+      },
+      {
+        "type": "faqs",
+        "title": "Frequently Asked Questions",
+        "total_questions": 10,
+        "total_word_count": 1500
+      },
+      {
+        "type": "component",
+        "name": "Responsible Gambling Section",
+        "requirements": [
+          "BeGambleAware.org link",
+          "GamCare helpline",
+          "Age restriction: 18+",
+          "UK Gambling Commission info",
+          "Self-exclusion tools mention"
+        ]
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier_1_required": [
+      "UK Gambling Commission register (license verification)",
+      "Operator official websites (current offer T&Cs)",
+      "Apple App Store (mobile app reviews and exclusive offers)",
+      "Google Play Store (app ratings and promotions)",
+      "Reddit r/sportsbook (user experiences)",
+      "Trustpilot UK (offer fulfillment reviews)"
+    ],
+    "tier_2_verification": [
+      "OLBG offer tracking",
+      "OddsChecker promotions database",
+      "ThePogg.com UK operator analysis"
+    ],
+    "citation_format": "App Store: '4.5/5 (12,000 reviews)' | Reddit: 'Users report in 15+ threads' | Trustpilot: 'Rated 4.2/5'"
+  },
+  "internal_linking": {
+    "target_count": 12,
+    "priority_links": [
+      {
+        "anchor": "UK betting sites",
+        "target": "/sport/betting/uk/",
+        "context": "Main hub for UK betting"
+      },
+      {
+        "anchor": "UK betting apps",
+        "target": "/sport/betting/uk/apps.htm",
+        "context": "Mobile betting comparison"
+      },
+      {
+        "anchor": "free bets UK",
+        "target": "/sport/betting/uk/free-bets.htm",
+        "context": "Free bet specific guide"
+      },
+      {
+        "anchor": "new betting sites UK",
+        "target": "/sport/betting/uk/new-sites.htm",
+        "context": "Latest operators entering UK market"
+      },
+      {
+        "anchor": "best UK bookmakers",
+        "target": "/sport/betting/uk/bookmakers.htm",
+        "context": "Overall bookmaker comparison"
+      },
+      {
+        "anchor": "football betting sites UK",
+        "target": "/sport/betting/uk/football.htm",
+        "context": "Football-specific betting"
+      },
+      {
+        "anchor": "horse racing betting UK",
+        "target": "/sport/betting/uk/horse-racing.htm",
+        "context": "Racing offers and sites"
+      },
+      {
+        "anchor": "Champions League betting",
+        "target": "/sport/betting/champions-league.htm",
+        "context": "Tournament betting guide"
+      },
+      {
+        "anchor": "betting bonuses guide",
+        "target": "/sport/betting/bonuses.htm",
+        "context": "Understanding bonus types"
+      },
+      {
+        "anchor": "mobile betting apps",
+        "target": "/sport/betting/mobile-apps.htm",
+        "context": "Mobile betting overview"
+      },
+      {
+        "anchor": "betting calculator",
+        "target": "/sport/betting/calculator.htm",
+        "context": "Offer value calculator"
+      },
+      {
+        "anchor": "responsible gambling UK",
+        "target": "/sport/betting/uk/responsible-gambling.htm",
+        "context": "Gambling safety resources"
+      }
+    ]
+  },
+  "brand_sections": {
+    "total_brands": 9,
+    "brand_details": [
+      {
+        "brand": "Bet442",
+        "position": 1,
+        "word_count": 450,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "UK specialist with strong football betting offers",
+        "primary_offer": "Welcome bonus for new customers"
+      },
+      {
+        "brand": "LuckyMate",
+        "position": 2,
+        "word_count": 450,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "Hybrid offers combining sports and casino bonuses",
+        "primary_offer": "Multi-platform welcome package"
+      },
+      {
+        "brand": "NRGbet",
+        "position": 3,
+        "word_count": 450,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "Aggressive new customer acquisition with boosted offers",
+        "primary_offer": "Enhanced welcome bonus"
+      },
+      {
+        "brand": "Myriadplay",
+        "position": 4,
+        "word_count": 400,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "Multi-sport promotional variety with choice of offers",
+        "primary_offer": "Choose your welcome bonus (sports selection)"
+      },
+      {
+        "brand": "7Bet",
+        "position": 5,
+        "word_count": 400,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "Simple, transparent offers with minimal wagering requirements",
+        "primary_offer": "Straightforward free bet welcome offer"
+      },
+      {
+        "brand": "Mr Luck",
+        "position": 6,
+        "word_count": 400,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "Entertainment-focused offers with casino crossover appeal",
+        "primary_offer": "Fun-focused welcome package"
+      },
+      {
+        "brand": "MogoBet",
+        "position": 7,
+        "word_count": 350,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "Mobile-exclusive offers and app-based promotions",
+        "primary_offer": "Mobile app exclusive welcome bonus"
+      },
+      {
+        "brand": "22bet",
+        "position": 8,
+        "word_count": 350,
+        "mobile_experience_required": true,
+        "mobile_word_count": 150,
+        "unique_angle": "International-style offers with extensive sports coverage",
+        "primary_offer": "Multi-sport welcome bonus"
+      },
+      {
+        "brand": "Highbet",
+        "position": 9,
+        "word_count": 300,
+        "mobile_experience_required": true,
+        "mobile_word_count": 100,
+        "unique_angle": "Premium offers with elevated bonus amounts for serious bettors",
+        "primary_offer": "Premium welcome bonus with enhanced terms"
+      }
+    ]
+  },
+  "compliance": {
+    "market": "United Kingdom",
+    "age_restriction": "18+",
+    "regulator": "UK Gambling Commission",
+    "regulator_link": "https://www.gamblingcommission.gov.uk/",
+    "helpline": "BeGambleAware.org",
+    "helpline_phone": "GamCare: 0808 8020 133",
+    "affiliate_disclosure": "Required in introduction",
+    "responsible_gambling_section": "Required at bottom",
+    "license_verification": "UKGC license numbers required for each operator",
+    "tcs_transparency": "Full T&Cs section required with wagering requirements"
+  },
+  "phase2_completion": {
+    "completed_date": "2025-12-15",
+    "keywords_mapped": 19,
+    "faqs_created": 10,
+    "internal_links_planned": 12,
+    "brands_outlined": 9,
+    "mobile_sections_required": 9,
+    "next_phase": "Phase 3 - AI Enhancement",
+    "ready_for_phase3": true
+  }
+}

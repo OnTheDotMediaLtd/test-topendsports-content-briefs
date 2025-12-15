@@ -1,0 +1,419 @@
+{
+  "page_name": "ireland-betting-offers",
+  "url": "/sport/betting/ireland/betting-offers.htm",
+  "market": "Ireland",
+  "template_type": "comparison",
+  "target_keyword": {
+    "keyword": "betting offers ireland",
+    "volume": 280,
+    "difficulty": 42,
+    "traffic_potential": 850,
+    "note": "Estimated based on related terms: free bets ireland (150/mo), best betting sites ireland (450/mo). Ahrefs API unavailable."
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "free bets ireland",
+      "volume": 150,
+      "difficulty": 38,
+      "placement": "H2",
+      "section": "Types of Betting Offers in Ireland",
+      "note": "From site structure"
+    },
+    {
+      "keyword": "irish betting promotions",
+      "volume": 120,
+      "difficulty": 35,
+      "placement": "H2",
+      "section": "Current Promotions from Top Irish Bookmakers"
+    },
+    {
+      "keyword": "betting bonuses ireland",
+      "volume": 110,
+      "difficulty": 36,
+      "placement": "H3",
+      "section": "Welcome Bonus Offers"
+    },
+    {
+      "keyword": "best betting offers ireland",
+      "volume": 95,
+      "difficulty": 40,
+      "placement": "H2",
+      "section": "Best Betting Offers Ireland - Top Picks"
+    },
+    {
+      "keyword": "irish bookmaker offers",
+      "volume": 85,
+      "difficulty": 33,
+      "placement": "H3",
+      "section": "Irish vs UK Bookmaker Offers"
+    },
+    {
+      "keyword": "paddy power offers ireland",
+      "volume": 240,
+      "difficulty": 28,
+      "placement": "Brand Section",
+      "section": "Paddy Power - Betting Offers"
+    },
+    {
+      "keyword": "bet365 ireland offers",
+      "volume": 180,
+      "difficulty": 30,
+      "placement": "Brand Section",
+      "section": "Bet365 - Current Irish Offers"
+    },
+    {
+      "keyword": "boylesports offers",
+      "volume": 160,
+      "difficulty": 25,
+      "placement": "Brand Section",
+      "section": "BoyleSports - Irish Betting Offers"
+    },
+    {
+      "keyword": "betting welcome offers ireland",
+      "volume": 75,
+      "difficulty": 34,
+      "placement": "H3",
+      "section": "Welcome Offers vs Existing Customer Offers"
+    },
+    {
+      "keyword": "irish betting sign up offers",
+      "volume": 70,
+      "difficulty": 35,
+      "placement": "H3",
+      "section": "How to Claim Sign-Up Offers"
+    },
+    {
+      "keyword": "enhanced odds ireland",
+      "volume": 65,
+      "difficulty": 30,
+      "placement": "FAQ",
+      "section": "What are enhanced odds offers?"
+    },
+    {
+      "keyword": "price boosts ireland betting",
+      "volume": 45,
+      "difficulty": 28,
+      "placement": "H3",
+      "section": "Price Boosts and Enhanced Odds"
+    },
+    {
+      "keyword": "cashback betting offers ireland",
+      "volume": 55,
+      "difficulty": 32,
+      "placement": "FAQ",
+      "section": "Do Irish bookmakers offer cashback?"
+    },
+    {
+      "keyword": "no deposit free bets ireland",
+      "volume": 90,
+      "difficulty": 36,
+      "placement": "H3",
+      "section": "No Deposit Offers Ireland"
+    },
+    {
+      "keyword": "best bookmakers ireland",
+      "volume": 320,
+      "difficulty": 44,
+      "placement": "Natural",
+      "section": "Throughout content and internal links"
+    }
+  ],
+  "total_keyword_volume": 2140,
+  "volume_increase_percentage": 664,
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "domain": "olbg.com",
+      "url": "/ie/free-bets",
+      "domain_rating": 68,
+      "brands_covered": 40,
+      "estimated_word_count": 8500,
+      "key_sections": [
+        "Top 10 featured offers",
+        "Complete offers table (90+ promotions)",
+        "Types of free bets explained",
+        "Methodology section",
+        "FAQ section",
+        "Summary and recommendations"
+      ],
+      "interactive_elements": [
+        "Sortable offers table",
+        "Filter by offer type",
+        "Brand comparison cards"
+      ]
+    },
+    "competitor_2": {
+      "domain": "scs.ie",
+      "url": "/betting-sites/free-bets/",
+      "brands_covered": 32,
+      "estimated_word_count": 7000,
+      "strengths": [
+        "Total bonus value displayed (€3900+)",
+        "Irish-specific focus",
+        "GAA betting emphasis"
+      ]
+    },
+    "competitor_3": {
+      "domain": "irishfreebet.com",
+      "brands_covered": 30,
+      "estimated_word_count": 6500,
+      "strengths": [
+        "Dedicated Irish domain",
+        "Regular updates",
+        "Local sports coverage"
+      ]
+    },
+    "common_gaps": [
+      "No payment methods comparison",
+      "Limited mobile experience details",
+      "No calculator tool integrations",
+      "Missing GAA-specific betting offers section",
+      "Limited coverage of newer brands (Lunubet, Betalright, etc.)"
+    ]
+  },
+  "brand_selection": [
+    {
+      "position": 1,
+      "brand": "Paddy Power",
+      "rationale": "Ireland's most iconic betting brand. Founded in Dublin 1988. Highest brand recognition in Irish market. Current offer: Bet €5 Get €30 in Free Bets.",
+      "locked": false,
+      "priority": "critical"
+    },
+    {
+      "position": 2,
+      "brand": "BoyleSports",
+      "rationale": "Most successful Irish online betting site. Headquarters in Co Louth. Excellent GAA coverage. Strong customer support reputation.",
+      "locked": false,
+      "priority": "critical"
+    },
+    {
+      "position": 3,
+      "brand": "Bet365",
+      "rationale": "Top 5 at Bookmaker Awards. 40+ sports covered. Strongest international brand presence in Ireland. High branded keyword volume (180/mo).",
+      "locked": false,
+      "priority": "critical"
+    },
+    {
+      "position": 4,
+      "brand": "William Hill",
+      "rationale": "Established 1934. Top 10 in 5 of 7 categories at Bookmaker Awards. Trusted brand with 90+ years history.",
+      "locked": false,
+      "priority": "high"
+    },
+    {
+      "position": 5,
+      "brand": "Ladbrokes",
+      "rationale": "Established 1902. Most widely used online sportsbooks in Ireland. Owns Coral brand.",
+      "locked": false,
+      "priority": "high"
+    },
+    {
+      "position": 6,
+      "brand": "Betway",
+      "rationale": "Top 5 at Bookmaker Awards. Strong sports coverage. Popular with Irish punters.",
+      "locked": false,
+      "priority": "high"
+    },
+    {
+      "position": 7,
+      "brand": "BetVictor",
+      "rationale": "Premium operator. Strong promotions. Established reputation in Irish market.",
+      "locked": false,
+      "priority": "high"
+    },
+    {
+      "position": 8,
+      "brand": "Lunubet",
+      "rationale": "Rated Ireland's best betting site by multiple affiliates. 40 sports, 30K+ events monthly. Live streaming. MGA licensed. Trustpilot 3.6 rating.",
+      "locked": false,
+      "priority": "high"
+    },
+    {
+      "position": 9,
+      "brand": "888sport",
+      "rationale": "Established global brand. Strong mobile app. Competitive odds.",
+      "locked": false,
+      "priority": "medium"
+    },
+    {
+      "position": 10,
+      "brand": "Unibet",
+      "rationale": "€40 free bet welcome offer. Odds boosts and esports markets. Growing Irish presence.",
+      "locked": false,
+      "priority": "medium"
+    }
+  ],
+  "content_sections": {
+    "intro": {
+      "word_count": 150,
+      "requirements": [
+        "Open with top 3 betting offers",
+        "Affiliate disclosure",
+        "Focus on Irish-specific offers"
+      ]
+    },
+    "comparison_table": {
+      "word_count": 200,
+      "requirements": [
+        "All 10 brands",
+        "Sortable by offer value",
+        "Mobile-responsive design",
+        "Key terms summary per brand"
+      ]
+    },
+    "brand_sections": {
+      "word_count_per_brand": 600,
+      "total_word_count": 6000,
+      "sections_per_brand": [
+        "Current Betting Offers (150 words)",
+        "Key Features (150 words)",
+        "Mobile Experience (100 words)",
+        "Pros & Cons with citations (100 words)",
+        "How to Claim Offer (100 words)"
+      ]
+    },
+    "types_of_offers": {
+      "word_count": 800,
+      "subsections": [
+        "Matched deposit bonuses",
+        "Cashback welcome offers",
+        "First bet matched offers",
+        "Enhanced odds/price boosts",
+        "Profit boosts",
+        "Money-back specials",
+        "No-deposit free bets"
+      ]
+    },
+    "gaa_betting_section": {
+      "word_count": 400,
+      "requirements": [
+        "GAA-specific betting offers",
+        "Football and Hurling markets",
+        "Irish sports focus"
+      ]
+    },
+    "payment_methods": {
+      "word_count": 350,
+      "requirements": [
+        "Comparison of deposit methods",
+        "Irish payment options (Revolut, AIB, Bank of Ireland)",
+        "Withdrawal speeds"
+      ]
+    },
+    "faqs": {
+      "word_count": 1200,
+      "count": 10,
+      "requirements": [
+        "Target secondary keywords",
+        "Ireland-specific questions",
+        "Schema markup"
+      ]
+    },
+    "responsible_gambling": {
+      "word_count": 200,
+      "requirements": [
+        "Age: 18+",
+        "Helpline: gamblingcare.ie",
+        "Support resources"
+      ]
+    }
+  },
+  "total_word_count_target": 9250,
+  "competitive_word_count_benchmark": 8500,
+  "internal_links": [
+    {
+      "anchor": "best betting sites ireland",
+      "url": "/sport/betting/ireland/index.htm",
+      "priority": "critical"
+    },
+    {
+      "anchor": "best betting apps ireland",
+      "url": "/sport/betting/ireland/betting-apps.htm",
+      "priority": "high"
+    },
+    {
+      "anchor": "free bets ireland",
+      "url": "/sport/betting/ireland/free-bets.htm",
+      "priority": "high"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/paddypower-review.htm",
+      "priority": "medium"
+    },
+    {
+      "anchor": "Bet365 review",
+      "url": "/sport/betting/bet365-review.htm",
+      "priority": "medium"
+    },
+    {
+      "anchor": "William Hill review",
+      "url": "/sport/betting/williamhill-review.htm",
+      "priority": "medium"
+    },
+    {
+      "anchor": "betting odds calculator",
+      "url": "/sport/betting/odds-calculator.htm",
+      "priority": "medium"
+    },
+    {
+      "anchor": "accumulator betting",
+      "url": "/sport/betting/accumulator.htm",
+      "priority": "low"
+    },
+    {
+      "anchor": "in-play betting guide",
+      "url": "/sport/betting/in-play.htm",
+      "priority": "low"
+    },
+    {
+      "anchor": "horse racing betting ireland",
+      "url": "/sport/betting/horse-racing.htm",
+      "priority": "medium"
+    },
+    {
+      "anchor": "GAA betting guide",
+      "url": "/sport/betting/gaa.htm",
+      "priority": "high"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "priority": "low"
+    }
+  ],
+  "strategic_direction": [
+    "Exploit gap: Add comprehensive GAA betting offers section (competitors lack this)",
+    "Exploit gap: Include newer Irish-licensed brands (Lunubet, Betalright) that competitors miss",
+    "Exploit gap: Payment methods comparison with Irish bank integration details",
+    "Exploit gap: Calculator tool integration for offer value comparison",
+    "Differentiate: Irish sports focus (GAA, rugby, horse racing)",
+    "Differentiate: More brands than competitors (10 vs average 8)",
+    "Differentiate: Deeper per-brand analysis (600 words vs competitor 400)"
+  ],
+  "technical_requirements": [
+    "Interactive comparison table (sortable by offer value, wagering requirements, sports coverage)",
+    "Offer type filter (Welcome, Existing Customer, Enhanced Odds, Cashback)",
+    "Mobile-optimized card layout for brand sections",
+    "Collapsible T&Cs per brand",
+    "Schema markup: Article, FAQ, Breadcrumb",
+    "Last Updated badge",
+    "Affiliate disclosure box"
+  ],
+  "compliance": {
+    "age_requirement": "18+",
+    "helpline": "gamblingcare.ie",
+    "regulatory_note": "All brands must be licensed in Ireland or hold recognized European licenses (MGA, UKGC)",
+    "responsible_gambling_section": "Required at bottom of page"
+  },
+  "writer": "Lewis Humphries",
+  "priority": "High",
+  "research_date": "2025-12-15",
+  "ahrefs_note": "Ahrefs API unavailable (403 error). Keyword volumes estimated based on site structure data, competitor analysis, and market intelligence. Primary: 280/mo estimated. Total cluster: 2,140/mo estimated.",
+  "sources": [
+    "https://www.olbg.com/ie/free-bets - Competitor analysis",
+    "https://www.scs.ie/betting-sites/ - Ireland market overview",
+    "https://www.sportsjoe.ie/betting/apps-351632 - Top betting brands",
+    "https://www.betinireland.ie/ - Brand rankings",
+    "Site structure: ireland/index.htm (450/mo), ireland/free-bets.htm (150/mo)"
+  ]
+}

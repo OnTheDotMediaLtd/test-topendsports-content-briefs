@@ -1,0 +1,675 @@
+{
+  "page_name": "uk-betting-hub",
+  "url": "https://www.topendsports.com/sport/betting/uk/index.htm",
+  "writer": "Lewis Humphries",
+  "template": "comparison",
+  "market": "UK",
+  "word_count_target": 9000,
+  "primary_keyword": {
+    "keyword": "best betting sites uk",
+    "volume": 2300,
+    "h1_title": "Best Betting Sites UK - Top Bookmakers Reviewed"
+  },
+  "meta_keywords": "best betting sites uk, betting sites uk, uk betting sites, betting apps uk, sports betting uk, online betting uk, best betting apps uk, top betting sites uk, best online betting sites uk, uk sports betting sites, best bookies uk, best uk bookmakers, best betting sites for football uk, sports betting online, online sports betting uk",
+  "introduction": {
+    "format": "Direct answer + Affiliate disclosure",
+    "word_count": "100-150 words",
+    "opening": "The best betting sites UK are Bet442, LuckyMate, and NRGbet. These UK-licensed bookmakers offer the most competitive odds, comprehensive sports coverage, and secure payment methods, verified through extensive testing across mobile and desktop platforms.",
+    "disclosure_required": true,
+    "forbidden_phrases": ["Welcome to", "Looking for", "In this guide", "Are you wondering"]
+  },
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Best Betting Sites UK - Top Bookmakers Reviewed",
+      "keyword_target": "best betting sites uk (2,300/mo)",
+      "notes": "NO dated language - use Last Updated badge instead"
+    },
+    {
+      "section": "Last Updated Badge",
+      "html": "<div class='last-updated'>Last Updated: [Date]</div>",
+      "placement": "Immediately after H1"
+    },
+    {
+      "section": "Introduction",
+      "word_count": "100-150",
+      "content": "Direct answer with top 3 brands + affiliate disclosure"
+    },
+    {
+      "section": "Comparison Table",
+      "brands_featured": 9,
+      "columns": ["Brand", "Welcome Offer", "Key Feature", "Mobile App", "Min Deposit", "Payment Speed", "Rating"],
+      "notes": "ALL 9 brands in table - Bet442, LuckyMate, NRGbet, Myriadplay, 7Bet, Mr Luck, MogoBet, 22bet, Highbet"
+    },
+    {
+      "section": "Quick Answer Box",
+      "content": "Top 3 brands with USPs in bullet format"
+    },
+    {
+      "section": "H2",
+      "title": "UK Betting Sites Comparison 2025",
+      "keyword_target": "betting sites uk (8,300/mo)",
+      "word_count": "400-500",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "How We Rank Top Betting Sites UK",
+          "keyword_target": "top betting sites uk (600/mo)",
+          "word_count": "200-250",
+          "content": "Testing methodology - app downloads, odds comparison, withdrawal testing, customer support evaluation"
+        },
+        {
+          "section": "H3",
+          "title": "Best Online Betting Sites UK Features",
+          "keyword_target": "best online betting sites uk (600/mo)",
+          "word_count": "200-250",
+          "content": "Key features to look for - UKGC licensing, secure payments, competitive odds, live streaming"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Top UK Betting Sites Ranked",
+      "keyword_target": "uk betting sites (4,300/mo)",
+      "word_count": "3500-4000",
+      "notes": "9 brand reviews - 500w for #1-2, 400w for #3-5, 350w for #6-9",
+      "brand_reviews": [
+        {
+          "brand": "Bet442",
+          "position": 1,
+          "word_count": 500,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "150-200",
+              "content": "Unique selling points, sports coverage, odds quality, welcome bonus overview"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150",
+              "content": "App Store rating with date, app features, mobile-specific bonuses, download process, iOS/Android availability",
+              "source_requirements": ["App Store rating with date analyzed", "Google Play rating", "Reddit user feedback on app performance"]
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list - 4 pros, 3 cons minimum",
+              "source_requirements": ["App Store reviews", "Reddit threads", "Trustpilot (if available)", "NEVER use affiliate sites"]
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "100-150",
+              "content": "Welcome offer details, T&Cs summary, wagering requirements, time limits"
+            }
+          ]
+        },
+        {
+          "brand": "LuckyMate",
+          "position": 2,
+          "word_count": 500,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "150-200"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150",
+              "source_requirements": ["App Store rating with date", "Google Play rating", "Reddit feedback"]
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list - 4 pros, 3 cons"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "100-150"
+            }
+          ]
+        },
+        {
+          "brand": "NRGbet",
+          "position": 3,
+          "word_count": 400,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "120-150"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150",
+              "source_requirements": ["App Store rating", "Google Play rating", "Reddit feedback"]
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "80-100"
+            }
+          ]
+        },
+        {
+          "brand": "Myriadplay",
+          "position": 4,
+          "word_count": 400,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "120-150"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150"
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "80-100"
+            }
+          ]
+        },
+        {
+          "brand": "7Bet",
+          "position": 5,
+          "word_count": 400,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "120-150"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150"
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "80-100"
+            }
+          ]
+        },
+        {
+          "brand": "Mr Luck",
+          "position": 6,
+          "word_count": 350,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "100-120"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150"
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "70-80"
+            }
+          ]
+        },
+        {
+          "brand": "MogoBet",
+          "position": 7,
+          "word_count": 350,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "100-120"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150"
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "70-80"
+            }
+          ]
+        },
+        {
+          "brand": "22bet",
+          "position": 8,
+          "word_count": 350,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "100-120"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150"
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "70-80"
+            }
+          ]
+        },
+        {
+          "brand": "Highbet",
+          "position": 9,
+          "word_count": 350,
+          "required_sections": [
+            {
+              "name": "Key Features",
+              "word_count": "100-120"
+            },
+            {
+              "name": "Mobile Experience",
+              "word_count": "100-150"
+            },
+            {
+              "name": "Pros & Cons",
+              "format": "Bullet list"
+            },
+            {
+              "name": "Current Bonus",
+              "word_count": "70-80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Best Betting Apps UK - Mobile Experience",
+      "keyword_target": "betting apps uk (1,800/mo)",
+      "word_count": "600-700",
+      "content": "Comprehensive mobile app comparison across all 9 brands",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Best UK Bookmakers - Traditional vs New",
+          "keyword_target": "best uk bookmakers (350/mo)",
+          "word_count": "250-300",
+          "content": "Comparison of established brands vs new entrants - licensing, trust factors, innovation"
+        }
+      ],
+      "required_elements": [
+        "App Store ratings for each brand with analysis dates",
+        "Google Play ratings",
+        "Download sizes",
+        "iOS/Android availability",
+        "App-exclusive features",
+        "Mobile-specific bonuses"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Sports Betting UK - Market Overview",
+      "keyword_target": "sports betting uk (1,300/mo)",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "UK Sports Betting Sites - Sport Coverage",
+          "keyword_target": "uk sports betting sites (500/mo)",
+          "word_count": "200-250",
+          "content": "Football (Premier League, EFL), Horse Racing, Cricket, Rugby, Tennis coverage comparison"
+        },
+        {
+          "section": "H3",
+          "title": "Best Betting Sites for Football UK",
+          "keyword_target": "best betting sites for football uk (200/mo)",
+          "word_count": "200-250",
+          "content": "Premier League odds, accumulator bonuses, in-play markets, goalscorer props"
+        },
+        {
+          "section": "H3",
+          "title": "Sports Betting Online vs Retail",
+          "keyword_target": "sports betting online (900/mo)",
+          "word_count": "200-250",
+          "content": "Online vs high street bookmakers - odds comparison, convenience, promotions"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Payment Methods & Banking",
+      "word_count": "500-600",
+      "required_elements": [
+        "UK payment methods comparison table",
+        "Faster Payments processing times",
+        "Bacs transfer details",
+        "UK debit card options (Visa, Mastercard)",
+        "E-wallets (PayPal, Skrill, Neteller)",
+        "Credit card ban explanation (April 2020 UKGC regulation)",
+        "Withdrawal speed comparison per brand",
+        "Minimum/maximum deposit limits"
+      ],
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Online Betting UK Regulations",
+          "keyword_target": "online betting uk (1,100/mo)",
+          "word_count": "200-250",
+          "content": "UKGC licensing requirements, payment method restrictions, responsible gambling obligations"
+        },
+        {
+          "section": "H3",
+          "title": "Online Sports Betting UK Guide",
+          "keyword_target": "online sports betting uk (400/mo)",
+          "word_count": "200-250",
+          "content": "How to get started, account verification, deposit methods, placing first bet"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "UK Gambling Regulations & Licensing",
+      "word_count": "400-500",
+      "content": "UKGC oversight, licensing verification, consumer protections, tax-free betting explanation, dispute resolution"
+    },
+    {
+      "section": "H2",
+      "title": "Betting Calculators & Tools",
+      "word_count": "300-400",
+      "required_internal_links": [
+        "/sport/betting/calculators/odds-converter.htm",
+        "/sport/betting/calculators/accumulator.htm",
+        "/sport/betting/calculators/matched-betting.htm",
+        "/sport/betting/calculators/each-way.htm"
+      ],
+      "content": "Link to betting calculators with descriptions - odds converter, accumulator calculator, each-way calculator, matched betting calculator"
+    },
+    {
+      "section": "H2",
+      "title": "How We Test & Rank UK Betting Sites",
+      "word_count": "400-500",
+      "content": "Detailed testing methodology - account creation, deposit testing, odds comparison, app downloads, withdrawal testing, customer support evaluation, responsible gambling tool assessment"
+    },
+    {
+      "section": "Pros & Cons Summary",
+      "format": "Aggregate pros/cons from all brand reviews"
+    },
+    {
+      "section": "FAQs",
+      "count": 10,
+      "schema_required": true,
+      "questions": [
+        {
+          "question": "What are the top 20 betting sites UK?",
+          "keyword_target": "top 20 betting sites uk free (1,300/mo)",
+          "answer_length": "150-200 words",
+          "content": "List top 20 with brief descriptions - include all 9 featured brands plus 11 additional UK-licensed bookmakers"
+        },
+        {
+          "question": "Who are the best bookies UK?",
+          "keyword_target": "best bookies uk (400/mo)",
+          "answer_length": "150-200 words",
+          "content": "Top 5 bookies with rationale - odds quality, market variety, customer service"
+        },
+        {
+          "question": "Are betting sites legal in the UK?",
+          "keyword_target": "online betting uk (related)",
+          "answer_length": "100-150 words",
+          "content": "UKGC licensing requirement, legal age (18+), tax-free for consumers"
+        },
+        {
+          "question": "What is the best betting app UK?",
+          "keyword_target": "best betting apps uk (600/mo)",
+          "answer_length": "150-200 words",
+          "content": "Top 3 apps with App Store ratings, features, and download links"
+        },
+        {
+          "question": "Can I use credit cards for online betting UK?",
+          "keyword_target": "payment methods (supporting)",
+          "answer_length": "100-150 words",
+          "content": "Credit card ban explanation (April 2020), alternative payment methods"
+        },
+        {
+          "question": "How fast are withdrawals at UK betting sites?",
+          "keyword_target": "withdrawal speed (supporting)",
+          "answer_length": "150-200 words",
+          "content": "Withdrawal timeframes by payment method - e-wallets (24hrs), Faster Payments (1-2 days), Bacs (3-5 days)"
+        },
+        {
+          "question": "Do I need to pay tax on betting winnings UK?",
+          "keyword_target": "uk betting tax (supporting)",
+          "answer_length": "100-150 words",
+          "content": "Betting tax-free for consumers in UK, Point of Consumption Tax paid by operators"
+        },
+        {
+          "question": "What are the best football betting sites UK?",
+          "keyword_target": "best betting sites for football uk (200/mo)",
+          "answer_length": "150-200 words",
+          "content": "Top 5 for football with Premier League odds, accumulator offers, in-play markets"
+        },
+        {
+          "question": "How do I verify my betting account UK?",
+          "keyword_target": "account verification (supporting)",
+          "answer_length": "100-150 words",
+          "content": "KYC requirements, documents needed (ID, proof of address), verification timeframes"
+        },
+        {
+          "question": "What is the minimum age to bet in the UK?",
+          "keyword_target": "uk betting age (supporting)",
+          "answer_length": "80-100 words",
+          "content": "18+ legal requirement, age verification process, underage gambling prevention"
+        }
+      ]
+    },
+    {
+      "section": "Final Verdict",
+      "word_count": "200-250",
+      "content": "Summary of top 3 brands with recommendations based on bettor type (casual, serious, mobile-first)"
+    },
+    {
+      "section": "References",
+      "count": "8-12",
+      "required_sources": [
+        "UK Gambling Commission official site",
+        "App Store (iOS) with specific analysis dates",
+        "Google Play Store",
+        "Reddit r/SoccerBetting threads",
+        "GamCare.org.uk",
+        "BeGambleAware.org",
+        "National Gambling Helpline",
+        "Individual brand T&Cs pages"
+      ]
+    },
+    {
+      "section": "Responsible Gambling",
+      "word_count": "150-200",
+      "required_elements": [
+        "Age: 18+ (UK)",
+        "National Gambling Helpline: 0808 8020 133",
+        "GamStop self-exclusion scheme",
+        "GamCare support services",
+        "BeGambleAware resources",
+        "Reality checks and deposit limits",
+        "Signs of problem gambling"
+      ]
+    }
+  ],
+  "internal_links": {
+    "required_count": 12,
+    "priority_links": [
+      {
+        "anchor": "odds converter calculator",
+        "url": "/sport/betting/calculators/odds-converter.htm",
+        "placement": "Betting Calculators section"
+      },
+      {
+        "anchor": "accumulator calculator",
+        "url": "/sport/betting/calculators/accumulator.htm",
+        "placement": "Betting Calculators section"
+      },
+      {
+        "anchor": "each-way calculator",
+        "url": "/sport/betting/calculators/each-way.htm",
+        "placement": "Betting Calculators section"
+      },
+      {
+        "anchor": "matched betting calculator",
+        "url": "/sport/betting/calculators/matched-betting.htm",
+        "placement": "Betting Calculators section"
+      },
+      {
+        "anchor": "betting sites Ireland",
+        "url": "/sport/betting/ireland/index.htm",
+        "placement": "UK Regulations section"
+      },
+      {
+        "anchor": "betting sites Canada",
+        "url": "/sport/betting/canada/index.htm",
+        "placement": "International comparison"
+      },
+      {
+        "anchor": "horse racing betting sites",
+        "url": "/sport/betting/horse-racing/",
+        "placement": "Sports coverage section"
+      },
+      {
+        "anchor": "football betting guide",
+        "url": "/sport/betting/football/",
+        "placement": "Football betting subsection"
+      },
+      {
+        "anchor": "live betting sites",
+        "url": "/sport/betting/live/",
+        "placement": "Sports Betting UK section"
+      },
+      {
+        "anchor": "betting bonuses explained",
+        "url": "/sport/betting/bonuses/",
+        "placement": "Current Bonus sections"
+      },
+      {
+        "anchor": "responsible gambling tools",
+        "url": "/sport/betting/responsible-gambling/",
+        "placement": "Responsible Gambling section"
+      },
+      {
+        "anchor": "betting glossary",
+        "url": "/sport/betting/glossary/",
+        "placement": "Introduction or methodology section"
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier1_primary": [
+      "App Store (iOS) - ratings with specific date range analyzed (e.g., '4.8/5 based on 45,000 reviews analyzed December 2025')",
+      "Google Play Store - ratings with review counts",
+      "Reddit r/SoccerBetting, r/sportsbetting - user experience threads (cite specific threads with dates)",
+      "Trustpilot UK - brand reputation scores (if available)"
+    ],
+    "tier2_verification": [
+      "Brand official websites - for feature verification ONLY",
+      "UK Gambling Commission register - licensing verification",
+      "App Store/Google Play - for app-specific features and ratings"
+    ],
+    "tier4_sparingly": [
+      "Competitor affiliate sites - for research gaps ONLY",
+      "NEVER cite affiliate sites for pros/cons or recommendations"
+    ],
+    "forbidden": [
+      "Affiliate sites for pros/cons",
+      "Outdated sources (older than 6 months for ratings)",
+      "Non-UK focused reviews",
+      "Unverified forums or blogs"
+    ]
+  },
+  "uk_compliance": {
+    "age_requirement": "18+ (UK legal gambling age)",
+    "helpline": "National Gambling Helpline: 0808 8020 133",
+    "regulator": "UK Gambling Commission (UKGC)",
+    "licensing_verification": "All featured brands must have valid UKGC license - verify on Gambling Commission register",
+    "responsible_gambling_tools": [
+      "GamStop (national self-exclusion scheme)",
+      "GamCare support",
+      "BeGambleAware resources",
+      "Deposit limits",
+      "Reality checks",
+      "Time-outs and self-exclusion"
+    ],
+    "payment_restrictions": "Credit cards banned for online gambling since April 2020 (UKGC regulation)",
+    "taxation": "Betting tax-free for UK consumers - operators pay 15% Point of Consumption Tax",
+    "dispute_resolution": "Mention IBAS (Independent Betting Adjudication Service) for dispute resolution"
+  },
+  "calculator_tools": {
+    "required_mentions": [
+      "Odds converter calculator - convert between decimal, fractional, American odds",
+      "Accumulator calculator - calculate potential returns on accas",
+      "Each-way calculator - work out each-way bet returns",
+      "Matched betting calculator - calculate matched bet profits"
+    ],
+    "placement": "Dedicated H2 section with internal links to each calculator"
+  },
+  "mobile_experience_requirements": {
+    "per_brand": {
+      "word_count": "100-150",
+      "required_elements": [
+        "App Store rating with date analyzed",
+        "Google Play rating",
+        "iOS/Android availability",
+        "App download size",
+        "Key app features",
+        "Mobile-specific bonuses",
+        "App performance feedback from Reddit/reviews"
+      ]
+    }
+  },
+  "payment_methods_section": {
+    "required_table": true,
+    "columns": ["Payment Method", "Deposit Time", "Withdrawal Time", "Min/Max", "Fees", "Availability"],
+    "methods_to_cover": [
+      "UK Debit Cards (Visa, Mastercard)",
+      "Faster Payments",
+      "Bacs Transfer",
+      "PayPal",
+      "Skrill",
+      "Neteller",
+      "Paysafecard",
+      "Apple Pay",
+      "Google Pay"
+    ],
+    "credit_card_ban": {
+      "explain": true,
+      "regulation": "UKGC banned credit cards for online gambling in April 2020",
+      "rationale": "Prevent gambling on borrowed money and reduce problem gambling"
+    }
+  },
+  "keyword_mapping_complete": {
+    "primary": "best betting sites uk (2,300/mo) → H1",
+    "secondary": [
+      "betting sites uk (8,300/mo) → H2",
+      "uk betting sites (4,300/mo) → H2",
+      "betting apps uk (1,800/mo) → H2",
+      "sports betting uk (1,300/mo) → H2",
+      "top 20 betting sites uk free (1,300/mo) → FAQ",
+      "online betting uk (1,100/mo) → H3",
+      "sports betting online (900/mo) → H3",
+      "top betting sites uk (600/mo) → H3",
+      "best betting apps uk (600/mo) → H2 subsection",
+      "best online betting sites uk (600/mo) → H3",
+      "uk sports betting sites (500/mo) → H3",
+      "online sports betting uk (400/mo) → H3",
+      "best bookies uk (400/mo) → FAQ",
+      "best uk bookmakers (350/mo) → H3",
+      "best betting sites for football uk (200/mo) → H3"
+    ],
+    "total_cluster_volume": "22,400/mo",
+    "volume_increase": "974% vs primary keyword"
+  }
+}
