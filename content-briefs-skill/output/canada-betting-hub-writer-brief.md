@@ -4,14 +4,34 @@
 
 ---
 
+## ⚠️ HUB PAGE STRATEGY - ANTI-CANNIBALIZATION
+
+**THIS IS A HUB PAGE.** It should provide an overview and link to dedicated pages, NOT compete with them for keywords.
+
+**DEDICATED PAGES (DO NOT CANNIBALIZE):**
+- `/canada/betting-apps.htm` - OWNS all "betting apps canada" keywords
+- `/canada/sports-betting-sites.htm` - OWNS all "betting sites canada" keywords
+- `/canada/new-betting-sites.htm` - OWNS all "new betting sites canada" keywords
+
+**HUB PAGE KEYWORDS (SAFE TO TARGET):**
+- sports betting canada, sports betting ontario, online betting canada, canada sports betting
+- Regulatory, provincial, sports-specific, educational content
+
+**LINKS TO DEDICATED PAGES:**
+- Must appear prominently in first 500 words
+- Use clear anchor text ("Best Betting Apps Canada", etc.)
+- Brief overview only, then link for full coverage
+
+---
+
 ## PAGE BASICS
 
 - **URL:** https://www.topendsports.com/sport/betting/canada/index.htm
 - **Target Keyword:** "sports betting canada"
 - **Primary Search Volume:** 2,300/mo
-- **Total Cluster Volume:** 10,350/mo (350% increase)
-- **Target Word Count:** 9,000 words
-- **Template:** Type 2 (Comparison)
+- **Total Cluster Volume:** 6,400/mo (hub-appropriate keywords only)
+- **Target Word Count:** 7,500 words
+- **Template:** Hub Page (Overview + Links to Dedicated Pages)
 - **Market:** Canada (Non-Ontario offshore focus)
 - **Priority:** Critical
 
@@ -25,22 +45,12 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 |---------|--------|--------------|----------------------|
 | sports betting ontario | 1,100/mo | H2 | "Ontario vs Non-Ontario Betting" |
 | online betting canada | 1,000/mo | H2 | "How Online Betting Works in Canada" |
-| canadian betting sites | 800/mo | H2 | "Top Canadian Betting Sites Ranked" |
-| best sports betting apps canada | 700/mo | H2 | "Best Sports Betting Apps Canada" |
 | online sports betting canada | 700/mo | H3 | "Getting Started with Online Sports Betting" |
-| best betting sites canada | 700/mo | H2 | "What Makes a Betting Site the Best?" |
 | canada sports betting | 700/mo | H2 | "Popular Sports for Betting in Canada" |
-| best online betting sites canada | 600/mo | H3 | "Evaluating Online Betting Sites" |
-| betting apps canada | 500/mo | H3 | "Mobile Betting Apps Features" |
-| sports betting sites canada | 500/mo | H3 | "Licensed vs Offshore Sites" |
 | is sports betting legal in canada | 350/mo | FAQ | "Is sports betting legal in Canada?" |
-| best canadian sportsbooks | 350/mo | H3 | "Canadian Sportsbook Selection Criteria" |
-| betting websites canada | 250/mo | Natural | Throughout content |
 | how to bet on sports in canada | 200/mo | FAQ | "How do I start betting on sports in Canada?" |
 | sports gambling canada | 200/mo | H3 | "Sports Gambling Regulations" |
-| top betting sites canada | 200/mo | Natural | Introduction mentions |
 | sports betting canada legal | 150/mo | FAQ | "What are Canada's sports betting laws?" |
-| canada betting apps | 150/mo | FAQ | "Can I use betting apps in Canada?" |
 
 ### Branded Keywords to Target
 
@@ -52,7 +62,7 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 | wyns casino | 150/mo | Wyns brand section |
 | royalistplay | 100/mo | Royalistplay brand section |
 
-**Meta Keywords (for Phase 3):** sports betting canada, sports betting ontario, online betting canada, canadian betting sites, best sports betting apps canada, online sports betting canada, best betting sites canada, canada sports betting, best online betting sites canada, betting apps canada, sports betting sites canada, is sports betting legal in canada, best canadian sportsbooks, betting websites canada, how to bet on sports in canada, sports gambling canada, top betting sites canada, sports betting canada legal, canada betting apps
+**Meta Keywords (for Phase 3):** sports betting canada, sports betting ontario, online betting canada, online sports betting canada, canada sports betting, is sports betting legal in canada, how to bet on sports in canada, sports gambling canada, sports betting canada legal
 
 ---
 
@@ -103,6 +113,7 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 - Authority statement
 - Affiliate disclosure (50-75 words)
 - Non-Ontario market focus
+- **CRITICAL:** Include links to dedicated pages early (betting-apps, sports-betting-sites, new-betting-sites)
 
 ---
 
@@ -406,69 +417,24 @@ This section contains individual brand reviews. Each brand must follow this stru
 
 ---
 
-### H2: Best Sports Betting Apps Canada (500 words)
-**Target Keyword:** "best sports betting apps canada" (700/mo)
+### H2: Mobile Betting in Canada (200 words)
 
-**Overview (250 words):**
-- Importance of mobile betting in Canada
-- App vs mobile web comparison
-- Top apps ranked
-
-**H3: Mobile Betting Apps Features (250 words)**
-**Target Keyword:** "betting apps canada" (500/mo)
-- Key features to evaluate:
-  - Live betting functionality
-  - Streaming capabilities
-  - Cash-out options
-  - Bet builder tools
-  - Push notifications
-- iOS vs Android availability
-- App performance metrics
-- Battery usage considerations
-
-**H3: Evaluating Online Betting Sites (250 words)**
-**Target Keyword:** "best online betting sites canada" (600/mo)
-- Selection criteria for apps:
-  - User interface quality
-  - Loading speed
-  - Feature completeness vs desktop
-  - Stability and crash rates
-  - Update frequency
-- Performance benchmarks
-- User experience priorities
-- App Store ratings interpretation
+**Overview:**
+- Importance of mobile betting in Canada (brief)
+- **LINK to dedicated page:** "For our complete guide to betting apps, see [Best Betting Apps Canada](/sport/betting/canada/betting-apps.htm)"
+- Brief mention that all featured brands offer mobile options
+- Link placement in first paragraph
 
 ---
 
-### H2: What Makes a Betting Site the Best? (500 words)
-**Target Keyword:** "best betting sites canada" (700/mo)
+### H2: How to Choose a Canadian Betting Site (300 words)
 
-**Overview (250 words):**
-- Testing methodology overview
-- Key evaluation factors:
-  - Bonus offers and wagering requirements
-  - Odds competitiveness
-  - Market variety
-  - Customer support quality
-  - Banking options
-  - Mobile experience
-  - User feedback
-- Canada-specific considerations
+**Overview:**
+- Brief overview of selection factors
+- **LINK to dedicated page:** "For detailed reviews and comparisons, see [Best Sports Betting Sites Canada](/sport/betting/canada/sports-betting-sites.htm)"
+- High-level guidance only (don't duplicate detailed comparison)
 
-**H3: Canadian Sportsbook Selection Criteria (250 words)**
-**Target Keyword:** "best canadian sportsbooks" (350/mo)
-- Detailed evaluation methodology:
-  - Licensing verification
-  - Payout testing
-  - Customer support response times
-  - Reddit community feedback analysis
-  - App Store rating verification
-  - Odds comparison across sites
-- Testing process transparency
-- How we score sites (point system)
-- Re-evaluation frequency
-
-**H3: Sports Gambling Regulations (250 words)**
+**H3: Sports Gambling Regulations (200 words)**
 **Target Keyword:** "sports gambling canada" (200/mo)
 - Federal framework (Bill C-218)
 - Provincial regulatory powers
@@ -646,18 +612,15 @@ Create table showing all 9 brands with available payment methods, processing tim
 
 ---
 
-#### FAQ 4: Can I use betting apps in Canada? (80 words)
-**Target Keyword:** "canada betting apps" (150/mo)
+#### FAQ 4: What betting options are available in Canada? (80 words)
 
 **Answer:**
-- Yes, widely available across Canada
-- iOS and Android apps from major operators
-- Mobile-optimized websites as alternative
-- Geo-location verification required
-- App Store and Google Play availability varies
-- Some offshore apps require direct download (APK)
-- Full functionality matches desktop sites
-- Live betting popular on mobile
+- Offshore operators and provincial options
+- Desktop and mobile platforms widely available
+- For detailed app information, see our [Betting Apps Canada guide](/sport/betting/canada/betting-apps.htm)
+- Sports betting sites cover NHL, CFL, NFL, and more
+- Live betting and pre-match options
+- Both regulated (Ontario) and offshore markets available
 
 ---
 
@@ -900,7 +863,7 @@ All FAQ questions MUST target high-volume keywords:
 1. **"Is sports betting legal in Canada?"** ← "is sports betting legal in canada" (350/mo)
 2. **"How do I start betting on sports in Canada?"** ← "how to bet on sports in canada" (200/mo)
 3. **"What are Canada's sports betting laws?"** ← "sports betting canada legal" (150/mo)
-4. **"Can I use betting apps in Canada?"** ← "canada betting apps" (150/mo)
+4. **"What betting options are available in Canada?"** ← Natural variation, links to dedicated pages
 5. **"What sports can I bet on in Canada?"** ← Natural variation supporting "canada sports betting"
 6. **"Are offshore betting sites safe for Canadians?"** ← Natural variation
 7. **"What payment methods work best in Canada?"** ← Natural variation
@@ -910,24 +873,26 @@ All FAQ questions MUST target high-volume keywords:
 
 ---
 
-## INTERNAL LINKS (12 Minimum)
+## INTERNAL LINKS (14 Required - Hub Page Links to Dedicated Pages)
 
 Must include these specific internal links:
 
 | # | Anchor Text | Target URL | Placement Section |
 |---|-------------|------------|-------------------|
-| 1 | NHL betting sites | /sport/betting/nhl/ | Popular Sports section |
-| 2 | CFL betting guide | /sport/betting/cfl/ | Popular Sports section |
-| 3 | NBA betting in Canada | /sport/betting/nba/ | Popular Sports section |
-| 4 | MLB betting sites | /sport/betting/mlb/ | Popular Sports section |
-| 5 | parlay betting calculator | /sport/betting/calculators/parlay/ | Calculators section |
-| 6 | odds calculator | /sport/betting/calculators/odds/ | Calculators section |
-| 7 | betting units calculator | /sport/betting/calculators/units/ | Calculators section |
-| 8 | sports betting Ontario | /sport/betting/canada/ontario/ | Ontario section |
-| 9 | Alberta betting sites | /sport/betting/canada/alberta/ | Provincial discussion |
-| 10 | British Columbia sports betting | /sport/betting/canada/bc/ | Provincial discussion |
-| 11 | Quebec betting sites | /sport/betting/canada/quebec/ | Provincial discussion |
-| 12 | how to bet on sports | /sport/betting/guides/how-to-bet/ | Getting Started section |
+| 1 | Best Betting Apps Canada | /sport/betting/canada/betting-apps.htm | Mobile Betting section (PROMINENT) |
+| 2 | Best Sports Betting Sites Canada | /sport/betting/canada/sports-betting-sites.htm | Choosing a Site section (PROMINENT) |
+| 3 | New Betting Sites Canada | /sport/betting/canada/new-betting-sites.htm | Introduction or brand discussion |
+| 4 | NHL betting sites | /sport/betting/nhl/ | Popular Sports section |
+| 5 | CFL betting guide | /sport/betting/cfl/ | Popular Sports section |
+| 6 | NBA betting in Canada | /sport/betting/nba/ | Popular Sports section |
+| 7 | MLB betting sites | /sport/betting/mlb/ | Popular Sports section |
+| 8 | parlay betting calculator | /sport/betting/calculators/parlay/ | Calculators section |
+| 9 | odds calculator | /sport/betting/calculators/odds/ | Calculators section |
+| 10 | betting units calculator | /sport/betting/calculators/units/ | Calculators section |
+| 11 | sports betting Ontario | /sport/betting/canada/ontario/ | Ontario section |
+| 12 | Alberta betting sites | /sport/betting/canada/alberta/ | Provincial discussion |
+| 13 | Quebec betting sites | /sport/betting/canada/quebec/ | Provincial discussion |
+| 14 | how to bet on sports | /sport/betting/guides/how-to-bet/ | Getting Started section |
 
 ---
 
@@ -1001,14 +966,14 @@ Must include these specific internal links:
 | Brand Reviews (9 total) | 4,800 |
 | Ontario vs Non-Ontario | 500 |
 | How Online Betting Works | 450 |
-| Best Apps Canada | 500 |
-| What Makes Best | 500 |
+| Mobile Betting (with link) | 200 |
+| How to Choose (with link) | 300 |
 | Popular Sports | 400 |
 | Payment Methods | 450 |
 | Calculators & Tools | 300 |
 | FAQs (10 total) | 800 |
 | Responsible Gambling | 250 |
-| **TOTAL** | **~9,000** |
+| **TOTAL** | **~7,500** |
 
 ---
 
@@ -1020,11 +985,12 @@ Before submitting, verify:
 - [ ] Direct answer format in first 2 sentences
 - [ ] Affiliate disclosure included (50-75 words)
 - [ ] NO dated language in H1 or content
-- [ ] All 18 secondary keywords mapped to sections
+- [ ] All 8 hub-appropriate secondary keywords mapped to sections
 - [ ] All 10 FAQs target keywords
+- [ ] PROMINENT links to dedicated pages (betting-apps, sports-betting-sites, new-betting-sites)
 - [ ] EVERY brand has Mobile Experience section (100-150w) with App Store ratings
 - [ ] EVERY brand has complete bonus T&Cs
-- [ ] 12+ internal links included
+- [ ] 14 internal links included (including 3 to dedicated pages)
 - [ ] Payment methods comparison table included
 - [ ] NHL and CFL prominently featured
 - [ ] Ontario vs non-Ontario clearly explained
@@ -1034,26 +1000,27 @@ Before submitting, verify:
 - [ ] Crypto options discussed for offshore sites
 - [ ] Sources cited: App Store, Reddit, official sites
 - [ ] NO affiliate site citations for pros/cons
+- [ ] NO keyword cannibalization (removed betting apps/sites comparison keywords)
 - [ ] Responsible gambling section with Canadian resources
 - [ ] Age requirements: 18+ (AB, MB, QC), 19+ (others)
 - [ ] Gambling hotline: 1-866-531-2600
 
 ---
 
-## CONTENT GAPS TO EXPLOIT
+## CONTENT GAPS TO EXPLOIT (HUB PAGE STRATEGY)
 
-Based on competitor analysis, our content must:
+As a HUB page, our content must:
 
-1. ✅ **Better serve non-Ontario Canadian market** (competitors focus on Ontario)
-2. ✅ **Detailed crypto payment coverage** (competitors skim this)
-3. ✅ **In-depth mobile experience analysis** (150w per brand with App Store data)
-4. ✅ **Clear offshore vs provincial comparison** (with pros/cons table)
-5. ✅ **Interactive comparison tools** (Phase 3 will add)
+1. ✅ **Comprehensive overview without duplication** (link to dedicated pages for depth)
+2. ✅ **Better serve non-Ontario Canadian market** (competitors focus on Ontario)
+3. ✅ **Clear navigation to dedicated pages** (betting-apps, sports-betting-sites, new-betting-sites)
+4. ✅ **Brand overview with mobile experience** (150w per brand with App Store data)
+5. ✅ **Clear offshore vs provincial comparison** (with pros/cons table)
 6. ✅ **Detailed Canadian banking methods** (Interac focus)
 7. ✅ **CFL and NHL betting prominence** (Canadian sports focus)
 8. ✅ **Provincial-specific information** (beyond Ontario)
 9. ✅ **Canadian responsible gambling resources** (provincial hotlines)
-10. ✅ **Crypto betting discussion** (growing Canadian trend)
+10. ✅ **Hub-appropriate keyword targeting** (avoid cannibalization)
 
 ---
 

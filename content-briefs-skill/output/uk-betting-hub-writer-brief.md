@@ -9,8 +9,8 @@
 - **URL:** https://www.topendsports.com/sport/betting/uk/index.htm
 - **Primary Keyword:** "best betting sites uk"
 - **Primary Keyword Volume:** 2,300/mo
-- **Total Cluster Volume:** 22,400/mo (974% increase vs primary)
-- **Target Word Count:** 9,000 words
+- **Total Cluster Volume:** 18,300/mo (696% increase vs primary)
+- **Target Word Count:** 7,500 words
 - **Template Type:** Comparison (Template 2)
 - **Market:** United Kingdom
 
@@ -18,27 +18,24 @@
 
 ## SECONDARY KEYWORD OPTIMIZATION
 
-**ALL 15 secondary keywords MUST be mapped to specific sections:**
+**ALL 12 secondary keywords MUST be mapped to specific sections:**
 
 | Keyword | Volume | Section Type | Placement |
 |---------|--------|--------------|-----------|
 | betting sites uk | 8,300/mo | H2 | "UK Betting Sites Comparison 2025" |
 | uk betting sites | 4,300/mo | H2 | "Top UK Betting Sites Ranked" |
-| betting apps uk | 1,800/mo | H2 | "Best Betting Apps UK - Mobile Experience" |
 | sports betting uk | 1,300/mo | H2 | "Sports Betting UK - Market Overview" |
 | top 20 betting sites uk free | 1,300/mo | FAQ | "What are the top 20 betting sites UK?" |
 | online betting uk | 1,100/mo | H3 | "Online Betting UK Regulations" |
 | sports betting online | 900/mo | H3 | "Sports Betting Online vs Retail" |
 | top betting sites uk | 600/mo | H3 | "How We Rank Top Betting Sites UK" |
-| best betting apps uk | 600/mo | H2 subsection | "Best Betting Apps UK Reviewed" |
 | best online betting sites uk | 600/mo | H3 | "Best Online Betting Sites UK Features" |
 | uk sports betting sites | 500/mo | H3 | "UK Sports Betting Sites - Sport Coverage" |
 | online sports betting uk | 400/mo | H3 | "Online Sports Betting UK Guide" |
 | best bookies uk | 400/mo | FAQ | "Who are the best bookies UK?" |
 | best uk bookmakers | 350/mo | H3 | "Best UK Bookmakers - Traditional vs New" |
-| best betting sites for football uk | 200/mo | H3 | "Best Betting Sites for Football UK" |
 
-**Meta Keywords to Add:** best betting sites uk, betting sites uk, uk betting sites, betting apps uk, sports betting uk, online betting uk, top betting sites uk, best betting apps uk, best online betting sites uk, uk sports betting sites, best bookies uk, best uk bookmakers, best betting sites for football uk, sports betting online, online sports betting uk
+**Meta Keywords to Add:** best betting sites uk, betting sites uk, uk betting sites, sports betting uk, online betting uk, top betting sites uk, best online betting sites uk, uk sports betting sites, best bookies uk, best uk bookmakers, sports betting online, online sports betting uk
 
 ---
 
@@ -254,16 +251,10 @@
 
 ---
 
-### H2: Best Betting Apps UK - Mobile Experience (600-700 words)
-- **Keyword Target:** betting apps uk (1,800/mo)
-- Comprehensive mobile app comparison across all 9 brands
-- **Required Elements:**
-  - App Store ratings for each brand with analysis dates
-  - Google Play ratings
-  - Download sizes
-  - iOS/Android availability
-  - App-exclusive features
-  - Mobile-specific bonuses
+### H2: Mobile Betting in the UK (200-250 words)
+- Brief overview of mobile betting importance in UK market
+- Note that all 9 featured brands offer mobile apps
+- **Link to dedicated page:** For comprehensive mobile app reviews, ratings, and comparisons, see our [UK Betting Apps](/sport/betting/uk/betting-apps/) guide
 
 #### H3: Best UK Bookmakers - Traditional vs New (250-300 words)
 - **Keyword Target:** best uk bookmakers (350/mo)
@@ -277,18 +268,12 @@
 
 #### H3: UK Sports Betting Sites - Sport Coverage (200-250 words)
 - **Keyword Target:** uk sports betting sites (500/mo)
-- Football (Premier League, EFL)
-- Horse Racing
+- Football (Premier League, EFL) - Link to [UK Football Betting Sites](/sport/betting/uk/football-betting/) for detailed football betting guide
+- Horse Racing - Link to [UK Horse Racing Betting](/sport/betting/uk/horse-racing/) for comprehensive racing coverage
 - Cricket
 - Rugby
 - Tennis
-
-#### H3: Best Betting Sites for Football UK (200-250 words)
-- **Keyword Target:** best betting sites for football uk (200/mo)
-- Premier League odds
-- Accumulator bonuses
-- In-play markets
-- Goalscorer props
+- Note: Each sport has dedicated guides for detailed analysis
 
 #### H3: Sports Betting Online vs Retail (200-250 words)
 - **Keyword Target:** sports betting online (900/mo)
@@ -392,11 +377,12 @@
 - Legal age (18+)
 - Tax-free for consumers
 
-#### 4. What is the best betting app UK? (150-200 words)
-- **Keyword Target:** best betting apps uk (600/mo)
-- Top 3 apps with App Store ratings
-- Features and download links
-- Compare Bet442, LuckyMate, NRGbet apps
+#### 4. Which UK betting sites accept PayPal? (150-200 words)
+- **Keyword Target:** payment methods (supporting)
+- List brands that accept PayPal
+- PayPal benefits: instant deposits, fast withdrawals (0-24 hours)
+- Security and buyer protection
+- Link to dedicated [UK Betting Apps](/sport/betting/uk/betting-apps/) page for mobile app comparisons
 
 #### 5. Can I use credit cards for online betting UK? (100-150 words)
 - **Keyword Target:** payment methods (supporting)
@@ -419,12 +405,12 @@
 - Point of Consumption Tax paid by operators (15%)
 - No reporting requirements
 
-#### 8. What are the best football betting sites UK? (150-200 words)
-- **Keyword Target:** best betting sites for football uk (200/mo)
-- Top 5 for football
-- Premier League odds comparison
-- Accumulator offers
-- In-play markets
+#### 8. What sports can I bet on at UK betting sites? (150-200 words)
+- **Keyword Target:** sports coverage (supporting)
+- Comprehensive list of available sports (football, horse racing, cricket, rugby, tennis, etc.)
+- Pre-match vs live betting options
+- Note major sports coverage across all 9 featured brands
+- Link to dedicated sport guides: [UK Football Betting](/sport/betting/uk/football-betting/) and [UK Horse Racing Betting](/sport/betting/uk/horse-racing/)
 
 #### 9. How do I verify my betting account UK? (100-150 words)
 - **Keyword Target:** account verification (supporting)
@@ -527,22 +513,30 @@
 
 ---
 
-## INTERNAL LINKS (12 MINIMUM)
+## INTERNAL LINKS (15 MINIMUM)
 
 **REQUIRED INTERNAL LINKS:**
 
-1. **[odds converter calculator](/sport/betting/calculators/odds-converter.htm)** - Betting Calculators section
-2. **[accumulator calculator](/sport/betting/calculators/accumulator.htm)** - Betting Calculators section
-3. **[each-way calculator](/sport/betting/calculators/each-way.htm)** - Betting Calculators section
-4. **[matched betting calculator](/sport/betting/calculators/matched-betting.htm)** - Betting Calculators section
-5. **[betting sites Ireland](/sport/betting/ireland/index.htm)** - UK Regulations section
-6. **[betting sites Canada](/sport/betting/canada/index.htm)** - International comparison
-7. **[horse racing betting sites](/sport/betting/horse-racing/)** - Sports coverage section
-8. **[football betting guide](/sport/betting/football/)** - Football betting subsection
-9. **[live betting sites](/sport/betting/live/)** - Sports Betting UK section
-10. **[betting bonuses explained](/sport/betting/bonuses/)** - Current Bonus sections
-11. **[responsible gambling tools](/sport/betting/responsible-gambling/)** - Responsible Gambling section
-12. **[betting glossary](/sport/betting/glossary/)** - Introduction or methodology section
+**UK Market Pages (Dedicated):**
+1. **[UK Betting Apps](/sport/betting/uk/betting-apps/)** - Mobile Betting section
+2. **[UK Betting Offers](/sport/betting/uk/betting-offers/)** - Welcome Bonus sections
+3. **[UK Free Bets](/sport/betting/uk/free-bets/)** - Promotions section
+4. **[UK Football Betting](/sport/betting/uk/football-betting/)** - Sports Coverage section
+5. **[UK Horse Racing Betting](/sport/betting/uk/horse-racing/)** - Sports Coverage section
+6. **[UK New Betting Sites](/sport/betting/uk/new-betting-sites/)** - Best UK Bookmakers section
+
+**Calculators:**
+7. **[odds converter calculator](/sport/betting/calculators/odds-converter.htm)** - Betting Calculators section
+8. **[accumulator calculator](/sport/betting/calculators/accumulator.htm)** - Betting Calculators section
+9. **[each-way calculator](/sport/betting/calculators/each-way.htm)** - Betting Calculators section
+10. **[matched betting calculator](/sport/betting/calculators/matched-betting.htm)** - Betting Calculators section
+
+**Other Markets & Resources:**
+11. **[betting sites Ireland](/sport/betting/ireland/index.htm)** - UK Regulations section
+12. **[betting sites Canada](/sport/betting/canada/index.htm)** - International comparison
+13. **[live betting sites](/sport/betting/live/)** - Sports Betting UK section
+14. **[betting bonuses explained](/sport/betting/bonuses/)** - Current Bonus sections
+15. **[responsible gambling tools](/sport/betting/responsible-gambling/)** - Responsible Gambling section
 
 ---
 
@@ -599,12 +593,13 @@
 - [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (use Last Updated badge)
-- [ ] All 15 secondary keywords mapped to sections
+- [ ] All 12 secondary keywords mapped to sections (NO cannibalization of dedicated pages)
 - [ ] 10 FAQs with schema markup
-- [ ] 12+ internal links
+- [ ] 15+ internal links (including 6 links to UK dedicated pages)
 - [ ] Mobile Experience section per brand (100-150w each)
 - [ ] Payment Methods comparison table
 - [ ] Calculator tool links (minimum 4)
+- [ ] Links to dedicated pages for betting apps, offers, free bets, football, horse racing, new sites
 
 ---
 
@@ -648,13 +643,14 @@ From competitor analysis, we identified these opportunities:
 - [ ] Intro format specified (100-150w: direct answer + disclosure)
 - [ ] Source requirements specified (App Store, Google Play, Reddit, Trustpilot)
 - [ ] Brand rationale from Phase 1 included
-- [ ] 12 internal links listed and placed
+- [ ] 15 internal links listed and placed (including 6 UK dedicated pages)
 - [ ] Meta keywords provided
 - [ ] NO dated language in H1
 - [ ] UK compliance verified (18+, 0808 8020 133, UKGC, credit card ban)
 - [ ] Mobile Experience section per brand (100-150w each)
 - [ ] Payment Methods comparison table included
 - [ ] Calculator tool links included (minimum 4)
+- [ ] NO keyword cannibalization - hub links to dedicated pages instead
 - [ ] Brief is comprehensive and actionable
 
 ---

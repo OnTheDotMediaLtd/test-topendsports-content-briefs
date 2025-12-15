@@ -28,7 +28,6 @@ All 14 secondary keywords MUST be mapped to specific sections:
 | **sports betting ireland** | 500/mo | "Sports Betting Ireland: Best Free Bet Markets" | 400w |
 | **no deposit bonus ireland** | 200/mo | "No Deposit Bonus Ireland: Get Started Free" | 400w |
 | **free bet no deposit ireland** | 100/mo | "Free Bet No Deposit Ireland: Complete Guide" | 350w |
-| **betting offers ireland** | 60/mo | "Best Betting Offers Ireland: Beyond Free Bets" | 350w |
 
 ### H3-Level Keywords (100-400 volume)
 
@@ -53,7 +52,7 @@ All 14 secondary keywords MUST be mapped to specific sections:
 
 **Meta Keywords (for AI to add):**
 ```
-free bets ireland, free bet no deposit ireland, no deposit bonus ireland, betting offers ireland, sports betting ireland, irish betting sites, online betting sites ireland, best gambling sites ireland, betting sites with free bets, casino bonus ireland, no deposit casino bonus ireland, best online bookies, welcome offer, free bet offers ireland, free 10 euro no deposit
+free bets ireland, free bet no deposit ireland, no deposit bonus ireland, sports betting ireland, irish betting sites, online betting sites ireland, best gambling sites ireland, betting sites with free bets, casino bonus ireland, no deposit casino bonus ireland, best online bookies, welcome offer, free bet offers ireland, free 10 euro no deposit
 ```
 
 ---
@@ -247,17 +246,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, bettin
 - **Ireland-specific angle:** Emphasize GAA and horse racing as uniquely Irish
 - **Internal Links:** GAA betting guide, horse racing Ireland
 
-### 12. H2: Best Betting Offers Ireland: Beyond Free Bets (350 words)
-- Accumulator insurance (refund if one leg fails)
-- Acca boosts (enhanced odds for parlays)
-- Enhanced odds promotions (e.g., "Evens on favorite to win")
-- Cashback offers (percentage of losses returned)
-- Loyalty programs and VIP schemes
-- Reload bonuses vs welcome free bets
-- **Keyword:** betting offers ireland (60/mo)
-- **Internal Links:** Best betting offers Ireland hub, accumulator betting guide
-
-### 13. H2: Free Bet Value Calculator (200 words)
+### 12. H2: Free Bet Value Calculator (200 words)
 - Link to interactive calculator tool (or embed if available)
 - How to calculate true value of free bet offers
 - Example calculation: €50 free bet with 3x wagering at 2.0 odds
@@ -265,7 +254,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, bettin
 - Why nominal amount isn't everything (wagering requirements matter)
 - **Internal Links:** Free bet calculator tool, odds converter
 
-### 14. H2: Payment Methods for Irish Betting Sites (300 words)
+### 13. H2: Payment Methods for Irish Betting Sites (300 words)
 - Popular Irish deposit options: Visa, Mastercard, PayPal, Apple Pay, Revolut
 - Deposit methods that qualify for free bets (usually card payments)
 - Excluded payment methods (e-wallets often excluded from bonuses)
@@ -273,7 +262,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, bettin
 - Withdrawal methods for free bet winnings
 - Processing times for Irish players (typically 1-5 business days)
 
-### 15. H2: How We Test & Rank Irish Free Bets (400 words)
+### 14. H2: How We Test & Rank Irish Free Bets (400 words)
 - Testing methodology (real money testing)
 - Evaluation criteria:
   - Bonus amount (size matters)
@@ -285,7 +274,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, bettin
 - Source transparency (T&Cs verification process)
 - Regular updates process (quarterly review)
 
-### 16. H2: FAQs: Free Bets Ireland (1,300 words)
+### 15. H2: FAQs: Free Bets Ireland (1,300 words)
 
 **10 FAQ questions (100-150 words each):**
 
@@ -341,7 +330,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, bettin
 
 **Note:** Each FAQ should start with a direct answer in the first sentence, then expand with details.
 
-### 17. H2: Responsible Gambling in Ireland (200 words)
+### 16. H2: Responsible Gambling in Ireland (200 words)
 - Age requirement: **18+** (Ireland legal gambling age - NOT 21+ like USA)
 - Problem Gambling Ireland resources
 - National Gambling Helpline: 089 241 5401

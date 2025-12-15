@@ -442,6 +442,36 @@ Validation passed. Starting Phase 2...
 
 ---
 
+## Keyword Cannibalization Prevention
+
+### Before Adding Keywords to Any Brief:
+
+| Check | Action |
+|-------|--------|
+| Is this a hub page? | Hub pages should NOT target keywords - only link to dedicated pages |
+| Does another page own this keyword? | Check dedicated pages first |
+| Is keyword in wrong cluster? | Move to correct page's brief |
+
+### Keyword Ownership by Page Type:
+
+| Page Type | Owns These Keywords |
+|-----------|---------------------|
+| Hub | NONE (navigation only) |
+| Betting Apps | betting apps, mobile betting, app download |
+| Betting Offers | betting offers, welcome bonus, sign up bonus |
+| Free Bets | free bets, no deposit, risk-free |
+| Football Betting | football betting, football sites |
+| Horse Racing | horse racing betting, horse racing sites |
+| New Betting Sites | new betting sites, new bookmakers |
+
+### Red Flags:
+- ❌ Hub page with 10+ secondary keywords
+- ❌ Hub page with H2 sections matching dedicated page titles
+- ❌ Two pages targeting same "best X" keyword
+- ❌ Comparison page with review-style sections
+
+---
+
 ## 📋 QUICK CHECKLIST FOR BRIEF GENERATION
 
 Copy this checklist for every brief:

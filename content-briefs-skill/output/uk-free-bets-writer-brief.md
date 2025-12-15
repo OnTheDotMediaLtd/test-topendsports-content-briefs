@@ -25,21 +25,18 @@ All keywords MUST be mapped to specific sections:
 | **free bets no deposit** | 1,000/mo | H2 | "Free Bets No Deposit UK - Best No Risk Offers" |
 | **free bets today** | 700/mo | H2 | "Free Bets Today - Daily Updated Offers" |
 | **best free bets** | 700/mo | H2 | "Best Free Bets UK - Top Offers Compared" |
-| **betting offers uk** | 600/mo | H2 | "Betting Offers UK - Welcome Bonuses" |
 | **matched betting uk** | 600/mo | H2 | "Matched Betting UK - How to Maximize Free Bets" |
-| **sign up offers betting** | 450/mo | H2 | "Sign Up Offers Betting - New Customer Deals" |
 | **free bet offers uk** | 300/mo | H3 | "Free Bet Offers UK - How to Claim" |
 | **free bet no deposit uk** | 200/mo | H3 | "Free Bet No Deposit UK - Risk-Free Options" |
 | **free betting offers uk** | 200/mo | H3 | "Free Betting Offers UK - Terms Explained" |
 | **free spins betting** | 200/mo | H3 | "Free Spins Betting - Casino Crossover Bonuses" |
 | **bookmaker free bets** | 150/mo | FAQ | "Which bookmakers offer the best free bets?" |
 | **betting bonus codes** | 100/mo | FAQ | "Do I need a betting bonus code?" |
-| **betting company offers** | 100/mo | H3 | "Betting Company Offers - Established vs New" |
 | **best free bets uk** | 80/mo | FAQ | "What are the best free bets UK right now?" |
 | **free betting sites uk** | 30/mo | FAQ | "Are there completely free betting sites UK?" |
 
 **Meta Keywords (for AI Enhancement):**
-free bets uk, free bets no deposit, free bets today, best free bets, betting offers uk, matched betting uk, sign up offers betting, free bet offers uk, free bet no deposit uk, free betting offers uk, free spins betting, bookmaker free bets, betting bonus codes, betting company offers, best free bets uk, free betting sites uk
+free bets uk, free bets no deposit, free bets today, best free bets, matched betting uk, free bet offers uk, free bet no deposit uk, free betting offers uk, free spins betting, bookmaker free bets, betting bonus codes, best free bets uk, free betting sites uk
 
 ---
 
@@ -134,12 +131,6 @@ Create comprehensive table with ALL 7 brands:
 - Typical timing (instant vs 24-48 hours)
 - Common rejection reasons
 
-#### H3: Betting Company Offers - Established vs New (150-200 words)
-**Keyword:** "betting company offers" (100/mo)
-- Legacy bookmakers (conservative offers, trusted)
-- New entrants (aggressive offers, building market share)
-- Trade-offs: brand trust vs bonus value
-
 ---
 
 ### H2: Free Bets No Deposit UK - Best No Risk Offers (500-600 words)
@@ -181,29 +172,7 @@ Create comprehensive table with ALL 7 brands:
 
 ---
 
-### H2: Betting Offers UK - Welcome Bonuses (600-700 words)
-**Keyword:** "betting offers uk" (600/mo)
-
-**Content Focus:**
-- Comprehensive comparison of welcome bonus structures across all 7 brands
-- Matched deposit vs first bet insurance vs free bet credits
-- Value analysis: which structure benefits different player types
-- One-time vs ongoing offers
-
----
-
-### H2: Sign Up Offers Betting - New Customer Deals (500-600 words)
-**Keyword:** "sign up offers betting" (450/mo)
-
-**Content Focus:**
-- New customer exclusive offers
-- First bet insurance mechanics
-- Matched deposit bonuses
-- Multi-brand strategy (sign up at multiple bookmakers for maximum bonuses)
-
-**Subsection:**
-
-#### H3: Free Spins Betting - Casino Crossover Bonuses (200-250 words)
+### H2: Free Spins Betting - Casino Crossover Bonuses (200-250 words)
 **Keyword:** "free spins betting" (200/mo)
 - Bookmakers offering combined sports free bets + casino free spins
 - Myriadplay multi-product bonus focus
