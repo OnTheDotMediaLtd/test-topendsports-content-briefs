@@ -450,7 +450,7 @@ Use UK terms throughout:
    - Maximum withdrawal: £X per day/week/month
 
 4. **Processing Times**
-   Create table format:
+   Provide data in markdown table format below (Phase 3 will create interactive table):
    | Method | Deposit Time | Withdrawal Time |
    |--------|--------------|-----------------|
    | Debit Card | Instant | 1-3 business days |

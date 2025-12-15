@@ -125,7 +125,7 @@ best betting apps ireland, betting apps ireland, sports betting ireland, free be
 ### Comparison Table
 - **Brands:** All 10 brands
 - **Columns:** App name, iOS rating, Android rating, Welcome Bonus, Key Features, Download Size, Min OS Version, CTA
-- **Interactive:** Sortable by app ratings
+- **Note:** Phase 3 will create interactive sorting functionality (sortable by app ratings)
 
 ### Quick Answer Box (75-100 words)
 - Top 3 apps summary

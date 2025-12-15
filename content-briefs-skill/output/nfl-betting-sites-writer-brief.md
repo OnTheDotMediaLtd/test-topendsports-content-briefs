@@ -112,9 +112,9 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - CTA Button
 
 **Requirements:**
-- Sortable/filterable by criteria
-- Mobile-responsive design
+- Provide all table data (7 brands x 8 criteria)
 - Link to full reviews for each brand
+- **Note:** Phase 3 will create interactive table with sorting/filtering and mobile-responsive design
 
 ---
 
@@ -1161,7 +1161,9 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 
 ## TECHNICAL REQUIREMENTS
 
-**Must Include:**
+**Note:** These items will be implemented in Phase 3 (AI Enhancement). Writers should focus on providing content, not building these technical features.
+
+**Phase 3 Will Include:**
 1. Sortable/filterable comparison table (7 brands x 8 criteria)
 2. Last Updated badge with current date (appears after H1)
 3. FAQPage schema markup for all 8 FAQ questions

@@ -108,13 +108,15 @@ The "Last Updated: December 15, 2025" badge appears **after** the H1, not in it.
 ---
 
 ### Comparison Table
-**Interactive sortable table with all 9 brands:**
+**Provide DATA for all 9 brands:**
 
 | Operator | BOG | Live Streaming | Mobile Rating | Welcome Offer | Sign Up |
 |----------|-----|----------------|---------------|---------------|---------|
 | Bet442 | ✓ | ✓ | 4.5/5 | [Offer] | [Button] |
 | LuckyMate | ✓ | ✓ | 4.4/5 | [Offer] | [Button] |
 | [Continue for all 9...] |
+
+**Note:** Phase 3 will create interactive sortable table. Writers provide data only.
 
 ---
 

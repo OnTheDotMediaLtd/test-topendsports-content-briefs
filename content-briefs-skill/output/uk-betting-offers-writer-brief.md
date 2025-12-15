@@ -125,9 +125,12 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 ---
 
 ### [Comparison Table Component - AI Will Build]
-**Requirements:**
-- All 9 brands in sortable table
+**DATA Requirements for writer:**
+- All 9 brands with complete data
 - Columns: Operator | Offer Type | Bonus Amount | Wagering Req. | Min. Odds | Expiry | CTA
+
+**Note:** Phase 3 will handle:
+- Sortable table functionality
 - Mobile responsive design
 - Filter by offer type (free bet, deposit match, risk-free, enhanced odds)
 

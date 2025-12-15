@@ -206,14 +206,14 @@ highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo
 - Racing calendar coverage (Cheltenham, Royal Ascot, Grand National)
 
 #### H3: Tennis & Other Sports Coverage (200-250 words)
-- 22 total sports available (create checklist table)
+- 22 total sports available (provide data in markdown table format below - Phase 3 will create interactive table)
 - Strength: Niche sports (OLBG: "Great coverage of smaller sports")
 - Esports betting availability
 - American sports (NFL, NBA, MLB - if available)
 - Cricket, rugby, darts, snooker
 - Golf, motorsports
 
-**Sport Coverage Checklist Table:**
+**Sport Coverage Data (Phase 3 will format as interactive table):**
 ```
 | Sport | Available | Market Depth |
 |-------|-----------|--------------|

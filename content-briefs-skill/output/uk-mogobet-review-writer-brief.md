@@ -776,7 +776,7 @@ Before submitting, verify:
 
 - Use markdown formatting (##, ###, etc.)
 - Bold important terms on first mention
-- Create tables for T&Cs summary, payment methods comparison
+- Provide data in markdown table format for T&Cs summary, payment methods comparison (Phase 3 will create interactive tables)
 - Use bullet points for pros/cons, features lists
 - Number steps in "How to Claim" sections
 - Use blockquotes for key takeaways if applicable

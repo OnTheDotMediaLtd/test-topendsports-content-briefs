@@ -1038,7 +1038,7 @@ If you cannot verify a claim, note: "[Research needed]" or "[Verify before publi
 1. Save completed draft as: `canada-royalistplay-review-writer-draft.md`
 2. Self-review using Quality Checklist above
 3. Submit to Phase 3 (AI Enhancement) for:
-   - HTML/CSS/JS implementation
+   - Phase 3 handles HTML/CSS/JS
    - Schema markup (Article + FAQPage)
    - Meta tags generation
    - Interactive elements

@@ -99,8 +99,8 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 
 ---
 
-### Comparison Table (Interactive)
-**All 9 brands in sortable/filterable table:**
+### Comparison Table
+**Provide DATA for all 9 brands:**
 
 | Brand | iOS Rating | Android Rating | Welcome Bonus | Download Size | Best For |
 |-------|------------|----------------|---------------|---------------|----------|
@@ -117,10 +117,7 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 - App download size (MB)
 - Best for (target user type)
 
-**Interactive features (for AI Phase 3):**
-- Sort by rating, bonus size, download size
-- Filter by platform (iOS/Android)
-- Filter by features (live streaming, cash out, BOG)
+**Note:** Phase 3 will create interactive table with sorting (by rating, bonus size, download size) and filtering (by platform, features like live streaming, cash out, BOG). Writers provide DATA only.
 
 ---
 
@@ -910,9 +907,9 @@ Place these naturally throughout the content. Context indicates where to use eac
 - Bold "CRITICAL" warnings (e.g., no credit cards)
 
 **Tables:**
-- Use markdown tables
-- Ensure mobile-responsive
+- Use markdown tables for data
 - Keep columns to 5-6 maximum for readability
+- Phase 3 will handle responsive design
 
 ---
 

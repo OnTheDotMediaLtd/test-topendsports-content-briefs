@@ -487,7 +487,7 @@ Include:
    - PCI DSS compliance
    - Secure payment gateways
 
-**Format:** Create a comparison table for deposit/withdrawal methods:
+**Format:** Provide payment method data in markdown table format below (Phase 3 will create interactive comparison table):
 
 | Payment Method | Deposit Time | Withdrawal Time | Min Deposit | Min Withdrawal | Fees |
 |----------------|--------------|-----------------|-------------|----------------|------|
@@ -588,7 +588,7 @@ Include:
    - High-stakes bettors needing higher limits
    - Punters preferring well-known brands
 
-**Format:** Create a comparison table:
+**Format:** Provide comparison data in markdown table format below (Phase 3 will create interactive comparison table):
 
 | Feature | NRGbet | bet365 | William Hill |
 |---------|--------|--------|--------------|
