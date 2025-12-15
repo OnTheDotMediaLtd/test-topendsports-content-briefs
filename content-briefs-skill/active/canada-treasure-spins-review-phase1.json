@@ -1,0 +1,420 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/canada/treasurespins-review.htm",
+    "page_name": "canada-treasure-spins-review",
+    "market": "Canada",
+    "template": "Template 1 (Review)",
+    "content_type": "Casino Review",
+    "writer": "Lewis Humphries",
+    "priority": "Medium",
+    "target_word_count": "2,500-3,500"
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "treasure spins sport",
+      "volume": 0,
+      "difficulty": null,
+      "traffic_potential": null,
+      "notes": "Brand-specific keyword with no search volume data. Brand is primarily a casino, not a sportsbook."
+    },
+    "branded_keywords": [
+      {
+        "keyword": "treasure spins",
+        "volume": 30,
+        "difficulty": 4,
+        "traffic_potential": 20,
+        "placement": "H1, intro"
+      },
+      {
+        "keyword": "treasure spins casino",
+        "volume": 30,
+        "difficulty": 10,
+        "traffic_potential": 20,
+        "placement": "H2: About Treasure Spins"
+      },
+      {
+        "keyword": "treasure spins review",
+        "volume": 0,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H1, meta title"
+      }
+    ],
+    "secondary_keywords": [
+      {
+        "keyword": "online casino canada",
+        "volume": 11000,
+        "difficulty": 88,
+        "traffic_potential": 39000,
+        "placement": "Introduction, naturally within content"
+      },
+      {
+        "keyword": "best online casino canada",
+        "volume": 3700,
+        "difficulty": 54,
+        "traffic_potential": 300,
+        "placement": "Comparison section"
+      },
+      {
+        "keyword": "casino bonus",
+        "volume": 2800,
+        "difficulty": 81,
+        "traffic_potential": 4300,
+        "placement": "H2: Welcome Bonus"
+      },
+      {
+        "keyword": "casino welcome bonus",
+        "volume": 1000,
+        "difficulty": 87,
+        "traffic_potential": 1100,
+        "placement": "H2: Welcome Bonus Details"
+      },
+      {
+        "keyword": "casino free spins",
+        "volume": 900,
+        "difficulty": 84,
+        "traffic_potential": 7300,
+        "placement": "H3: Free Spins Promotions"
+      },
+      {
+        "keyword": "mobile casino",
+        "volume": 1300,
+        "difficulty": 78,
+        "traffic_potential": 450,
+        "placement": "H2: Mobile Experience"
+      },
+      {
+        "keyword": "casino app",
+        "volume": 800,
+        "difficulty": 68,
+        "traffic_potential": 2100,
+        "placement": "H2: Mobile App Review"
+      },
+      {
+        "keyword": "new casino",
+        "volume": 700,
+        "difficulty": 82,
+        "traffic_potential": 2100,
+        "placement": "Introduction context"
+      },
+      {
+        "keyword": "casino bonus canada",
+        "volume": 600,
+        "difficulty": 88,
+        "traffic_potential": 4500,
+        "placement": "H2: Bonus Analysis"
+      },
+      {
+        "keyword": "casino promo code",
+        "volume": 100,
+        "difficulty": 78,
+        "traffic_potential": 400,
+        "placement": "H3: Promo Codes"
+      },
+      {
+        "keyword": "slots",
+        "volume": 6600,
+        "difficulty": 87,
+        "traffic_potential": 21000,
+        "placement": "H3: Slots Games"
+      },
+      {
+        "keyword": "blackjack",
+        "volume": 18000,
+        "difficulty": 85,
+        "traffic_potential": 15000,
+        "placement": "H3: Table Games - Blackjack"
+      },
+      {
+        "keyword": "roulette",
+        "volume": 11000,
+        "difficulty": 59,
+        "traffic_potential": 2300,
+        "placement": "H3: Table Games - Roulette"
+      }
+    ],
+    "total_cluster_volume": 58630,
+    "volume_increase_percentage": "Infinite (primary has 0 volume)",
+    "keyword_notes": "Treasure Spins has virtually no branded search volume. Strategy is to rank for generic casino terms in Canada market while establishing brand presence."
+  },
+  "competitor_analysis": {
+    "top_competitors": [
+      {
+        "domain": "casino.org",
+        "estimated_word_count": "3,000-4,000",
+        "brands_covered": "Individual review format",
+        "key_sections": [
+          "Casino overview",
+          "Games selection",
+          "Welcome bonus",
+          "Payment methods",
+          "Mobile experience",
+          "Customer support",
+          "Licensing",
+          "Pros and cons",
+          "FAQs"
+        ],
+        "strengths": "Comprehensive licensing information, detailed game provider lists",
+        "gaps": "Limited Canadian-specific information"
+      },
+      {
+        "domain": "casinocanada.com",
+        "estimated_word_count": "2,500-3,500",
+        "brands_covered": "Canadian casino focus",
+        "key_sections": [
+          "Quick facts box",
+          "Bonus details",
+          "Game selection",
+          "Payment options",
+          "Mobile compatibility",
+          "Security and licensing",
+          "Customer service",
+          "FAQs"
+        ],
+        "strengths": "Canada-specific payment methods, provincial regulations",
+        "gaps": "Less emphasis on mobile experience"
+      },
+      {
+        "domain": "covers.com",
+        "estimated_word_count": "2,000-3,000",
+        "brands_covered": "Mixed betting and casino content",
+        "key_sections": [
+          "Casino rating",
+          "Games library",
+          "Bonuses and promotions",
+          "Banking options",
+          "Mobile casino",
+          "Customer support",
+          "Safety and security"
+        ],
+        "strengths": "Strong mobile app analysis",
+        "gaps": "Less focus on Canadian market specifics"
+      }
+    ],
+    "content_gaps_to_exploit": [
+      "In-depth mobile app performance testing (load times, features)",
+      "Canada-specific payment methods comparison (Interac, bank transfers)",
+      "Provincial gambling regulations (varies by province)",
+      "Responsible gambling tools specific to Canadian market",
+      "Currency support (CAD) and exchange rates",
+      "Customer support hours in Canadian time zones",
+      "Game providers and software quality analysis",
+      "VIP/loyalty program breakdown"
+    ],
+    "competitive_benchmark": {
+      "word_count_target": "3,000-3,500",
+      "sections_per_brand": 1,
+      "faqs_count": "8-10",
+      "unique_differentiators": "Canadian compliance focus, Interac payment analysis"
+    }
+  },
+  "brand_info": {
+    "brand_name": "Treasure Spins",
+    "brand_type": "Online Casino",
+    "market_focus": "Canada",
+    "positioning": "Smaller online casino operator targeting Canadian market",
+    "key_features": [
+      "Casino games (slots, table games)",
+      "Welcome bonuses",
+      "Mobile-compatible platform",
+      "Multiple payment methods",
+      "Customer support"
+    ],
+    "notes": "Treasure Spins is a casino brand, NOT a sportsbook. This review focuses on casino games, slots, table games, and casino bonuses rather than sports betting."
+  },
+  "content_structure": {
+    "required_sections": [
+      "Introduction and Quick Answer",
+      "Treasure Spins Overview",
+      "Welcome Bonus Analysis",
+      "Games Selection (Slots, Table Games, Live Casino)",
+      "Mobile Casino Experience",
+      "Payment Methods (Canada-specific)",
+      "Customer Support",
+      "Licensing and Security",
+      "Pros and Cons",
+      "Terms and Conditions",
+      "FAQs (8-10 questions)",
+      "Responsible Gambling",
+      "Final Verdict"
+    ],
+    "canada_specific_sections": [
+      "Interac payment support",
+      "CAD currency support",
+      "Canadian provincial regulations",
+      "Customer support in Canadian time zones",
+      "Responsible gambling resources for Canada"
+    ]
+  },
+  "compliance": {
+    "market": "Canada",
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "gambling_hotline": "1-866-531-2600 (Canadian Problem Gambling Hotline)",
+    "responsible_gambling_resources": [
+      "Responsible Gambling Council (Canada)",
+      "ConnexOntario (Ontario)",
+      "Gamblers Anonymous"
+    ],
+    "affiliate_disclosure_required": true,
+    "licensing_verification_required": true,
+    "notes": "Canadian gambling age varies by province. Most provinces require 19+, but Alberta, Manitoba, and Quebec allow 18+."
+  },
+  "strategic_direction": [
+    "Position as comprehensive Canadian casino review resource",
+    "Focus on Canada-specific payment methods (Interac is critical)",
+    "Highlight mobile casino experience for Canadian users",
+    "Provide provincial-specific gambling regulations",
+    "Compare to other popular Canadian online casinos",
+    "Emphasize licensing and security for Canadian audience",
+    "Include conversion-focused CTAs for Canadian market"
+  ],
+  "internal_links": [
+    {
+      "anchor": "best online casino Canada",
+      "target_url": "/sport/betting/canada/best-online-casino.htm",
+      "context": "Comparison section"
+    },
+    {
+      "anchor": "online casino bonuses",
+      "target_url": "/sport/betting/canada/casino-bonuses.htm",
+      "context": "Bonus section"
+    },
+    {
+      "anchor": "mobile casino apps",
+      "target_url": "/sport/betting/canada/mobile-casino-apps.htm",
+      "context": "Mobile section"
+    },
+    {
+      "anchor": "casino payment methods",
+      "target_url": "/sport/betting/canada/casino-payment-methods.htm",
+      "context": "Banking section"
+    },
+    {
+      "anchor": "responsible gambling",
+      "target_url": "/sport/betting/responsible-gambling.htm",
+      "context": "Closing section"
+    },
+    {
+      "anchor": "online slots",
+      "target_url": "/sport/betting/canada/online-slots.htm",
+      "context": "Games section"
+    },
+    {
+      "anchor": "live dealer games",
+      "target_url": "/sport/betting/canada/live-dealer-games.htm",
+      "context": "Games section"
+    },
+    {
+      "anchor": "blackjack online",
+      "target_url": "/sport/betting/canada/blackjack.htm",
+      "context": "Table games section"
+    },
+    {
+      "anchor": "online roulette",
+      "target_url": "/sport/betting/canada/roulette.htm",
+      "context": "Table games section"
+    },
+    {
+      "anchor": "casino security",
+      "target_url": "/sport/betting/casino-security.htm",
+      "context": "Security section"
+    },
+    {
+      "anchor": "Interac casinos",
+      "target_url": "/sport/betting/canada/interac-casinos.htm",
+      "context": "Payment methods"
+    },
+    {
+      "anchor": "casino reviews",
+      "target_url": "/sport/betting/canada/casino-reviews.htm",
+      "context": "Comparison"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Treasure Spins legal and safe for Canadian players?",
+      "target_keyword": "treasure spins legal canada",
+      "answer_focus": "Licensing, security, Canadian regulations"
+    },
+    {
+      "question": "What is the welcome bonus at Treasure Spins?",
+      "target_keyword": "treasure spins bonus",
+      "answer_focus": "Bonus amount, wagering requirements, terms"
+    },
+    {
+      "question": "Does Treasure Spins accept Interac?",
+      "target_keyword": "treasure spins interac",
+      "answer_focus": "Canadian payment methods, Interac support"
+    },
+    {
+      "question": "Can I play Treasure Spins on mobile?",
+      "target_keyword": "treasure spins mobile",
+      "answer_focus": "Mobile compatibility, app availability"
+    },
+    {
+      "question": "What games are available at Treasure Spins?",
+      "target_keyword": "treasure spins games",
+      "answer_focus": "Slots, table games, live casino"
+    },
+    {
+      "question": "How do I withdraw money from Treasure Spins?",
+      "target_keyword": "treasure spins withdrawal",
+      "answer_focus": "Withdrawal methods, processing times, limits"
+    },
+    {
+      "question": "Is Treasure Spins available in all Canadian provinces?",
+      "target_keyword": "treasure spins provinces",
+      "answer_focus": "Provincial availability, regulations"
+    },
+    {
+      "question": "What is the minimum deposit at Treasure Spins?",
+      "target_keyword": "treasure spins minimum deposit",
+      "answer_focus": "Deposit limits, payment methods"
+    },
+    {
+      "question": "Does Treasure Spins have customer support?",
+      "target_keyword": "treasure spins support",
+      "answer_focus": "Support channels, hours, quality"
+    },
+    {
+      "question": "How does Treasure Spins compare to other Canadian casinos?",
+      "target_keyword": "treasure spins vs",
+      "answer_focus": "Comparison to competitors, strengths/weaknesses"
+    }
+  ],
+  "technical_requirements": [
+    "Last Updated badge with current date",
+    "Quick facts box (rating, bonus, games, payments)",
+    "Comparison table with other Canadian casinos",
+    "Pros/Cons summary with citations",
+    "Complete T&Cs table",
+    "FAQ schema markup",
+    "Article schema markup",
+    "Breadcrumb schema markup",
+    "Affiliate disclosure statement",
+    "Responsible gambling section",
+    "Canadian compliance badges/logos"
+  ],
+  "sources_required": [
+    "Treasure Spins official website (treasurespins.com or actual domain)",
+    "Licensing authority verification",
+    "Canadian gambling regulatory bodies",
+    "Game provider verification",
+    "Payment processor documentation",
+    "Responsible Gambling Council (Canada)",
+    "User reviews (Trustpilot, AskGamblers, etc.)",
+    "Terms and conditions (direct verification)"
+  ],
+  "research_notes": {
+    "challenge": "Treasure Spins has virtually no search volume (30/mo for branded terms). This is a low-visibility casino brand.",
+    "strategy": "Focus on ranking for generic casino terms in Canada market while providing comprehensive brand coverage. Use high-volume casino keywords (slots, blackjack, roulette, casino bonus) to drive traffic.",
+    "canada_focus": "Emphasize Canada-specific features: Interac, CAD, provincial regulations, Canadian customer support hours.",
+    "verification_needed": "Need to verify actual Treasure Spins features, licensing, games, and bonuses from official sources before writing."
+  },
+  "metadata": {
+    "phase": 1,
+    "created_date": "2025-12-15",
+    "research_completion_status": "complete",
+    "next_phase": "Phase 2 - Writer Brief Creation"
+  }
+}

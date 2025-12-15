@@ -1,0 +1,416 @@
+{
+  "page_info": {
+    "url": "/sport/betting/ireland/festival-play-review.htm",
+    "page_name": "ireland-festival-play-review",
+    "market": "Ireland",
+    "template": 1,
+    "template_name": "Brand Review",
+    "age_requirement": "18+",
+    "compliance_hotline": "HSE Drugs and Alcohol Helpline: 1800 459 459",
+    "target_word_count": "3500-4000"
+  },
+  "primary_keyword": {
+    "keyword": "festival play",
+    "volume": 50,
+    "difficulty": null,
+    "country": "ie",
+    "source": "ahrefs"
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "festival play review",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H1",
+      "rationale": "Exact match for page intent"
+    },
+    {
+      "keyword": "festival play ireland",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H2",
+      "rationale": "Geographic qualifier"
+    },
+    {
+      "keyword": "festival play casino",
+      "volume": 100,
+      "difficulty": null,
+      "placement": "H2",
+      "rationale": "Highest volume related keyword - casino focus"
+    },
+    {
+      "keyword": "festival play bonus",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H2",
+      "rationale": "Welcome bonus section"
+    },
+    {
+      "keyword": "festival play app",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H2",
+      "rationale": "Mobile experience section"
+    },
+    {
+      "keyword": "festival play sports betting",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H2",
+      "rationale": "Sports betting markets section"
+    },
+    {
+      "keyword": "festival play withdrawal",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H3",
+      "rationale": "Payment methods subsection"
+    },
+    {
+      "keyword": "festival play payment methods",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H3",
+      "rationale": "Payment methods subsection"
+    },
+    {
+      "keyword": "is festival play legit",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "FAQ",
+      "rationale": "Trust and safety question"
+    },
+    {
+      "keyword": "festival play login",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "Natural",
+      "rationale": "Account access information"
+    },
+    {
+      "keyword": "irish betting sites",
+      "volume": 400,
+      "difficulty": 81,
+      "placement": "Context/Natural",
+      "rationale": "Market context keyword"
+    },
+    {
+      "keyword": "best betting sites ireland",
+      "volume": 450,
+      "difficulty": 74,
+      "placement": "Context/Natural",
+      "rationale": "Market comparison context"
+    }
+  ],
+  "total_keyword_volume": 1000,
+  "volume_increase_percentage": "1900%",
+  "brand_info": {
+    "brand_name": "Festival Play",
+    "badge": "FPL",
+    "badge_color": "#FF9800",
+    "operator": "NewEra B.V.",
+    "headquarters": "Curacao",
+    "license": "Gaming Curacao (License 365/JAZ)",
+    "irish_license": "No - operates under EU-recognized Curacao license",
+    "founded": "Recent (exact year not specified - newer operator)",
+    "welcome_bonus": "100% up to €100",
+    "sports_count": "38+",
+    "mobile_app": "No - mobile-optimized website only",
+    "live_streaming": "No",
+    "customer_support": "24/7 via email and live chat",
+    "key_features": [
+      "Early Payout feature (bet paid if team goes ahead)",
+      "eSports betting available",
+      "Cryptocurrency payment options",
+      "Event builder tool",
+      "38+ sports markets"
+    ],
+    "payment_methods": [
+      "Credit/Debit Cards",
+      "eWallets",
+      "Bank Transfer",
+      "Cryptocurrency"
+    ],
+    "withdrawal_times": {
+      "cryptocurrency": "24 hours",
+      "bank_transfer": "Up to 7 days"
+    },
+    "minimum_deposit": "€10",
+    "minimum_withdrawal": "€10",
+    "loyalty_program": "No"
+  },
+  "competitor_analysis": [
+    {
+      "competitor": "betinireland.ie",
+      "url": "https://www.betinireland.ie/reviews/festiveplay-sport/",
+      "ranking": 1,
+      "word_count_estimate": "2000-2500",
+      "brands_covered": 1,
+      "sections": [
+        "Introduction",
+        "Welcome Bonus",
+        "Sports Markets",
+        "Payment Methods",
+        "Customer Support",
+        "Mobile Experience",
+        "Pros & Cons",
+        "License Information",
+        "FAQs"
+      ],
+      "strengths": "Comprehensive coverage of payment methods and license details",
+      "gaps": [
+        "Limited depth on sports betting features",
+        "No comparison with other operators",
+        "Missing detailed T&Cs breakdown",
+        "No interactive elements"
+      ]
+    },
+    {
+      "competitor": "betinireland.ie (Bet365 review)",
+      "url": "https://www.betinireland.ie/reviews/bet365/",
+      "ranking": "Reference",
+      "word_count_estimate": "3000-3500",
+      "sections": [
+        "Introduction & Legality",
+        "Welcome Bonus",
+        "Sports Coverage (30+ sports)",
+        "Live Streaming",
+        "Mobile App Review",
+        "Casino Section",
+        "Payment Methods",
+        "Customer Support",
+        "Pros & Cons"
+      ],
+      "strengths": "Very thorough mobile app review, strong license info",
+      "gaps": [
+        "Could expand on specific sports markets",
+        "Missing detailed withdrawal process"
+      ]
+    },
+    {
+      "competitor": "betinireland.ie (BoyleSports review)",
+      "url": "https://www.betinireland.ie/reviews/boylesports/",
+      "ranking": "Reference",
+      "word_count_estimate": "2500-3000",
+      "sections": [
+        "Company Background",
+        "Legality & Licensing",
+        "Sports Coverage (42 categories)",
+        "Live Streaming",
+        "Banking Options",
+        "Withdrawal Processing",
+        "Promotions",
+        "Mobile Experience"
+      ],
+      "strengths": "Strong company background, detailed sports count",
+      "gaps": [
+        "Limited T&Cs detail",
+        "Missing detailed bonus breakdown"
+      ]
+    }
+  ],
+  "content_gaps": [
+    "Interactive comparison tool (competitors lack this)",
+    "Detailed T&Cs breakdown table",
+    "Step-by-step account setup guide",
+    "Detailed bonus wagering example",
+    "FAQ schema markup",
+    "Responsible gambling tools detail",
+    "Alternative operator recommendations",
+    "Payment methods comparison table"
+  ],
+  "strategic_direction": [
+    "Position Festival Play as niche operator for players seeking variety (38+ sports)",
+    "Highlight Curacao license transparency (pros and cons vs Irish license)",
+    "Emphasize crypto payment advantages for specific audience",
+    "Note limitations (no app, no live streaming) vs major Irish brands",
+    "Target audience: Players seeking alternatives to major Irish brands",
+    "Compare implicitly with Paddy Power, BoyleSports, Bet365 where relevant"
+  ],
+  "content_sections": [
+    {
+      "section": "Introduction & Quick Answer",
+      "word_count": "200-250",
+      "keywords": ["festival play", "festival play review", "festival play ireland"]
+    },
+    {
+      "section": "Rating Summary",
+      "word_count": "150-200",
+      "keywords": ["festival play review"]
+    },
+    {
+      "section": "Comprehensive Feature Analysis",
+      "word_count": "800-1000",
+      "subsections": [
+        "Betting Markets & Odds (200-250 words)",
+        "Welcome Bonus & Promotions (200-250 words)",
+        "User Interface & Account Setup (150-200 words)",
+        "Payment Methods & Withdrawals (150-200 words)",
+        "Customer Support (100-150 words)"
+      ],
+      "keywords": ["festival play sports betting", "festival play bonus", "festival play withdrawal", "festival play payment methods"]
+    },
+    {
+      "section": "Mobile App Experience",
+      "word_count": "300-400",
+      "keywords": ["festival play app"],
+      "note": "Emphasize mobile-optimized website (no native app)"
+    },
+    {
+      "section": "Detailed Bonus Breakdown",
+      "word_count": "300-350",
+      "keywords": ["festival play bonus"]
+    },
+    {
+      "section": "Terms & Conditions Summary",
+      "word_count": "300-350",
+      "keywords": ["festival play ireland"]
+    },
+    {
+      "section": "Pros & Cons Summary",
+      "word_count": "200-250",
+      "keywords": ["festival play review"]
+    },
+    {
+      "section": "FAQ Section",
+      "word_count": "400-500",
+      "questions": 8,
+      "keywords": ["is festival play legit", "festival play ireland", "festival play bonus"]
+    },
+    {
+      "section": "Closing Recommendation",
+      "word_count": "100-150",
+      "keywords": ["festival play review"]
+    },
+    {
+      "section": "Responsible Gambling",
+      "word_count": "50-75",
+      "keywords": []
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "best Irish betting sites",
+      "url": "/sport/betting/ireland/betting-sites.htm",
+      "rationale": "Market overview context"
+    },
+    {
+      "anchor": "Bet365 Ireland review",
+      "url": "/sport/betting/ireland/bet365-review.htm",
+      "rationale": "Major competitor comparison"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/ireland/paddy-power-review.htm",
+      "rationale": "Largest Irish brand comparison"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "url": "/sport/betting/ireland/boylesports-review.htm",
+      "rationale": "Irish independent operator comparison"
+    },
+    {
+      "anchor": "Irish betting regulations",
+      "url": "/sport/betting/ireland/regulations.htm",
+      "rationale": "Legal context and GRAI information"
+    },
+    {
+      "anchor": "sports betting bonuses Ireland",
+      "url": "/sport/betting/ireland/bonuses.htm",
+      "rationale": "Bonus comparison context"
+    },
+    {
+      "anchor": "football betting Ireland",
+      "url": "/sport/betting/ireland/football-betting.htm",
+      "rationale": "Sport-specific betting guide"
+    },
+    {
+      "anchor": "GAA betting sites",
+      "url": "/sport/betting/ireland/gaa-betting.htm",
+      "rationale": "Irish-specific sport betting"
+    },
+    {
+      "anchor": "rugby betting Ireland",
+      "url": "/sport/betting/ireland/rugby-betting.htm",
+      "rationale": "Popular Irish sport betting"
+    },
+    {
+      "anchor": "horse racing betting Ireland",
+      "url": "/sport/betting/ireland/horse-racing-betting.htm",
+      "rationale": "Popular Irish betting market"
+    },
+    {
+      "anchor": "responsible gambling Ireland",
+      "url": "/sport/betting/ireland/responsible-gambling.htm",
+      "rationale": "Compliance and player protection"
+    },
+    {
+      "anchor": "crypto betting sites",
+      "url": "/sport/betting/crypto-betting-sites.htm",
+      "rationale": "Festival Play's crypto payment advantage"
+    }
+  ],
+  "technical_requirements": [
+    "Last Updated badge with date",
+    "Article schema markup",
+    "FAQ schema markup (8 questions)",
+    "Breadcrumb schema markup",
+    "Letter badge: FPL with color #FF9800",
+    "Affiliate disclosure statement",
+    "Responsible gambling footer",
+    "Curacao license badge/mention",
+    "Payment methods icons/badges",
+    "Mobile-responsive design (no app, website only)",
+    "T&Cs comparison table",
+    "Interactive rating display (5-star system)"
+  ],
+  "irish_market_context": {
+    "major_competitors": [
+      "Paddy Power (272,000/mo searches)",
+      "BoyleSports (213,000/mo searches)",
+      "Bet365 Ireland (2,600/mo)",
+      "Ladbrokes Ireland (4,900/mo)",
+      "QuinnBet (6,200/mo)",
+      "BetVictor Ireland (1,400/mo)"
+    ],
+    "regulatory_body": "Gambling Regulatory Authority of Ireland (GRAI)",
+    "regulatory_act": "Gambling Regulation Act 2024",
+    "age_requirement": "18+ (Ireland)",
+    "festival_play_positioning": "Smaller, Curacao-licensed operator competing with major Irish brands",
+    "target_audience": "Players seeking variety (38+ sports), crypto payments, and alternatives to major brands",
+    "competitive_advantage": "Early Payout feature, crypto payments, eSports betting",
+    "competitive_disadvantages": "No Irish license, no mobile app, no live streaming, no loyalty program"
+  },
+  "sources": [
+    {
+      "title": "FestivalPlay Ireland Review - BetInIreland.ie",
+      "url": "https://www.betinireland.ie/reviews/festiveplay-sport/",
+      "type": "Competitor review"
+    },
+    {
+      "title": "Best Betting Sites in Ireland 2025 - BetInIreland.ie",
+      "url": "https://www.betinireland.ie/",
+      "type": "Market overview"
+    },
+    {
+      "title": "Irish Betting Sites - OLBG",
+      "url": "https://www.olbg.com/ie/bookmakers",
+      "type": "Market comparison"
+    },
+    {
+      "title": "Best Betting Sites Ireland - SCS.ie",
+      "url": "https://www.scs.ie/betting-sites/",
+      "type": "Market comparison"
+    }
+  ],
+  "validation": {
+    "primary_keyword_verified": true,
+    "secondary_keywords_count": 12,
+    "competitor_analysis_complete": true,
+    "brand_research_complete": true,
+    "internal_links_count": 12,
+    "template_identified": "Template 1: Brand Review",
+    "word_count_target_set": true,
+    "irish_compliance_verified": true
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "page_info": {
+    "url": "/sport/betting/canada/wyns-review.htm",
+    "page_name": "canada-wyns-review",
+    "market": "canada",
+    "template_type": 1,
+    "template_name": "Brand Review",
+    "writer": "Lewis Humphries",
+    "priority": "High",
+    "status": "Phase 1 Complete"
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "wyns sport",
+      "volume": "No data",
+      "difficulty": null,
+      "traffic_potential": null,
+      "notes": "Primary target from site structure - low volume niche brand"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "wyns casino",
+        "volume": 150,
+        "difficulty": 0,
+        "placement": "H2",
+        "section": "Wyns Casino Features"
+      },
+      {
+        "keyword": "wyns online casino",
+        "volume": 100,
+        "difficulty": null,
+        "placement": "H2",
+        "section": "Online Casino Platform"
+      },
+      {
+        "keyword": "ontario sports betting",
+        "volume": 1000,
+        "difficulty": 79,
+        "placement": "H2",
+        "section": "Ontario Sports Betting Context"
+      },
+      {
+        "keyword": "online betting canada",
+        "volume": 1000,
+        "difficulty": 83,
+        "placement": "H2",
+        "section": "Online Betting in Canada"
+      },
+      {
+        "keyword": "online sports betting canada",
+        "volume": 700,
+        "difficulty": 84,
+        "placement": "H2",
+        "section": "Canadian Sports Betting Landscape"
+      },
+      {
+        "keyword": "canada sports betting",
+        "volume": 700,
+        "difficulty": 81,
+        "placement": "Introduction",
+        "section": "Natural integration in intro context"
+      },
+      {
+        "keyword": "sports betting sites canada",
+        "volume": 500,
+        "difficulty": 83,
+        "placement": "H2",
+        "section": "Comparison to Other Canadian Sites"
+      },
+      {
+        "keyword": "canadian sportsbooks",
+        "volume": 400,
+        "difficulty": 80,
+        "placement": "H3",
+        "section": "Wyns vs Canadian Sportsbooks"
+      },
+      {
+        "keyword": "best sportsbook canada",
+        "volume": 300,
+        "difficulty": 80,
+        "placement": "H3",
+        "section": "How Wyns Compares"
+      },
+      {
+        "keyword": "is wyns casino legit",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "FAQ",
+        "section": "Is Wyns Casino Legit?"
+      },
+      {
+        "keyword": "wyns casino review",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H1/Meta",
+        "section": "Page title and meta description"
+      },
+      {
+        "keyword": "wyns canada",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "Natural",
+        "section": "Throughout content"
+      },
+      {
+        "keyword": "wyns online casino reviews",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "FAQ",
+        "section": "User Reviews Section"
+      },
+      {
+        "keyword": "wyns",
+        "volume": 150,
+        "difficulty": null,
+        "placement": "Natural",
+        "section": "Throughout content - brand mentions"
+      }
+    ],
+    "total_monthly_volume": 5630,
+    "volume_increase_vs_primary": "N/A - primary has no volume data",
+    "branded_keywords": [
+      {
+        "keyword": "wyns casino",
+        "volume": 150,
+        "target_section": "Casino Features"
+      },
+      {
+        "keyword": "wyns",
+        "volume": 150,
+        "target_section": "Throughout"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "note": "This is a brand review page, not a comparison page. Competitors listed are other Canadian sportsbooks for context.",
+    "canadian_sportsbook_landscape": [
+      {
+        "brand": "Bet99",
+        "keyword_volume": 11000,
+        "notes": "Largest Canadian sportsbook by search volume"
+      },
+      {
+        "brand": "Sports Interaction",
+        "keyword_volume": 46000,
+        "notes": "Established Canadian operator"
+      },
+      {
+        "brand": "Proline",
+        "keyword_volume": 48000,
+        "notes": "Government-run sports lottery"
+      },
+      {
+        "brand": "Betway Canada",
+        "keyword_volume": 10000,
+        "notes": "International brand, strong in Canada"
+      },
+      {
+        "brand": "Bodog Canada",
+        "keyword_volume": 5600,
+        "notes": "Long-standing offshore option"
+      }
+    ],
+    "content_gaps": [
+      "Wyns has very low brand awareness vs established Canadian operators",
+      "Need to address legitimacy questions (low search volume for 'is wyns legit')",
+      "Must provide context on how Wyns fits into Canadian betting landscape",
+      "Comparison to higher-volume brands will capture broader traffic"
+    ]
+  },
+  "brand_selection": {
+    "primary_focus": {
+      "brand": "Wyns",
+      "badge_code": "WYN",
+      "badge_color": "#3F51B5",
+      "rationale": "Subject of review - Template 1 focuses on single brand"
+    },
+    "comparison_context_brands": [
+      {
+        "brand": "Bet99",
+        "reason": "Market leader in Canada by search volume"
+      },
+      {
+        "brand": "Sports Interaction",
+        "reason": "Established licensed operator"
+      },
+      {
+        "brand": "Betway",
+        "reason": "International brand comparison"
+      },
+      {
+        "brand": "Proline",
+        "reason": "Government alternative context"
+      },
+      {
+        "brand": "Bodog",
+        "reason": "Offshore competitor"
+      }
+    ]
+  },
+  "content_sections": {
+    "template_1_structure": [
+      {
+        "section": "Header & Introduction",
+        "word_count": 200,
+        "includes": [
+          "Last Updated badge",
+          "Affiliate disclosure",
+          "Quick answer about Wyns",
+          "Context on Canadian sports betting market"
+        ]
+      },
+      {
+        "section": "Rating Summary",
+        "word_count": 200,
+        "includes": [
+          "Overall rating",
+          "Pros/cons at a glance",
+          "Best for statement"
+        ]
+      },
+      {
+        "section": "Comprehensive Feature Analysis",
+        "word_count": 900,
+        "subsections": [
+          "Betting Markets & Odds (250 words)",
+          "Welcome Bonus & Promotions (250 words)",
+          "User Interface & Mobile Experience (200 words)",
+          "Payment Methods (200 words)"
+        ]
+      },
+      {
+        "section": "Wyns Casino Features",
+        "word_count": 400,
+        "keywords_targeted": ["wyns casino", "wyns online casino"],
+        "subsections": [
+          "Casino game selection",
+          "Live dealer options",
+          "Slots and table games"
+        ]
+      },
+      {
+        "section": "Ontario Sports Betting Context",
+        "word_count": 300,
+        "keywords_targeted": ["ontario sports betting", "online betting canada"],
+        "purpose": "Capture broader Canadian market keywords"
+      },
+      {
+        "section": "How Wyns Compares to Other Canadian Sportsbooks",
+        "word_count": 500,
+        "keywords_targeted": [
+          "canadian sportsbooks",
+          "sports betting sites canada",
+          "best sportsbook canada"
+        ],
+        "comparison_brands": [
+          "Bet99",
+          "Sports Interaction",
+          "Betway",
+          "Proline"
+        ]
+      },
+      {
+        "section": "Registration & Account Setup",
+        "word_count": 300,
+        "includes": [
+          "Step-by-step signup process",
+          "Verification requirements",
+          "Age requirements (19+/18+ by province)"
+        ]
+      },
+      {
+        "section": "Banking & Withdrawals",
+        "word_count": 250,
+        "includes": [
+          "Deposit methods",
+          "Withdrawal options",
+          "Processing times",
+          "Fees"
+        ]
+      },
+      {
+        "section": "Customer Support",
+        "word_count": 150,
+        "includes": [
+          "Support channels",
+          "Hours of operation",
+          "Response times"
+        ]
+      },
+      {
+        "section": "Licensing & Security",
+        "word_count": 200,
+        "includes": [
+          "Regulatory status in Canada",
+          "Provincial licensing",
+          "Security measures",
+          "Responsible gambling tools"
+        ]
+      },
+      {
+        "section": "FAQs",
+        "word_count": 600,
+        "faq_count": 7,
+        "keywords_targeted": [
+          "is wyns casino legit",
+          "wyns online casino reviews"
+        ]
+      },
+      {
+        "section": "Responsible Gambling",
+        "word_count": 150,
+        "includes": [
+          "Canadian resources",
+          "Provincial helplines",
+          "Self-exclusion options"
+        ]
+      }
+    ],
+    "total_word_count": 4150
+  },
+  "strategic_direction": [
+    "Position Wyns within broader Canadian sports betting context to capture higher-volume keywords",
+    "Address legitimacy questions directly (low brand awareness)",
+    "Provide detailed comparison to established Canadian operators",
+    "Target Ontario-specific market (largest regulated market in Canada)",
+    "Balance sports betting and casino coverage (Wyns offers both)",
+    "Emphasize regulatory status and safety for new/unknown brand"
+  ],
+  "technical_requirements": [
+    "Complete T&Cs for Wyns welcome bonus",
+    "Schema markup: Article + FAQ + Breadcrumb",
+    "Comparison table: Wyns vs 4-5 Canadian competitors",
+    "Interactive element: Canadian province age requirement map",
+    "Last Updated badge HTML",
+    "Canadian-specific compliance (provincial regulations)"
+  ],
+  "internal_links": [
+    {
+      "anchor": "best sports betting sites in Canada",
+      "url": "/sport/betting/canada/best-sites.htm",
+      "context": "comparison context"
+    },
+    {
+      "anchor": "Bet99 review",
+      "url": "/sport/betting/canada/bet99-review.htm",
+      "context": "competitor comparison"
+    },
+    {
+      "anchor": "Sports Interaction review",
+      "url": "/sport/betting/canada/sports-interaction-review.htm",
+      "context": "competitor comparison"
+    },
+    {
+      "anchor": "Ontario sports betting guide",
+      "url": "/sport/betting/canada/ontario.htm",
+      "context": "provincial context"
+    },
+    {
+      "anchor": "Canadian online casinos",
+      "url": "/sport/betting/canada/online-casinos.htm",
+      "context": "casino features section"
+    },
+    {
+      "anchor": "sports betting odds explained",
+      "url": "/sport/betting/guides/odds-explained.htm",
+      "context": "educational resource"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "context": "betting tools"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "context": "betting tools"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "context": "compliance section"
+    },
+    {
+      "anchor": "how to bet on sports in Canada",
+      "url": "/sport/betting/canada/how-to-bet.htm",
+      "context": "beginner guidance"
+    },
+    {
+      "anchor": "Betway Canada review",
+      "url": "/sport/betting/canada/betway-review.htm",
+      "context": "competitor comparison"
+    },
+    {
+      "anchor": "Proline betting guide",
+      "url": "/sport/betting/canada/proline.htm",
+      "context": "government lottery comparison"
+    }
+  ],
+  "compliance_notes": {
+    "market": "Canada",
+    "age_requirements": {
+      "19_plus": ["ON", "BC", "NB", "NL", "NS", "PE", "SK"],
+      "18_plus": ["AB", "MB", "QC"]
+    },
+    "helpline": "Canadian Problem Gambling Helpline varies by province",
+    "regulatory_context": "Provincial regulation - iGaming Ontario (iGO) for Ontario market",
+    "disclosure_required": true,
+    "responsible_gambling_section": true
+  },
+  "metadata": {
+    "created_date": "2025-12-15",
+    "ahrefs_data_source": "Python API",
+    "research_completed": true,
+    "ready_for_phase2": true
+  }
+}

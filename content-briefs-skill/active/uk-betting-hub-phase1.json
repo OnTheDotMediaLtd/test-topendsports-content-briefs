@@ -1,0 +1,224 @@
+{
+  "page_name": "uk-betting-hub",
+  "url": "https://www.topendsports.com/sport/betting/uk/index.htm",
+  "market": "UK",
+  "primary_keyword": {
+    "keyword": "best betting sites uk",
+    "volume": 2300,
+    "difficulty": 86,
+    "traffic_potential": 44000
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "betting sites uk",
+      "volume": 8300,
+      "difficulty": 91,
+      "placement": "H2: UK Betting Sites Comparison 2025"
+    },
+    {
+      "keyword": "uk betting sites",
+      "volume": 4300,
+      "difficulty": 90,
+      "placement": "H2: Top UK Betting Sites Ranked"
+    },
+    {
+      "keyword": "betting apps uk",
+      "volume": 1800,
+      "difficulty": 88,
+      "placement": "H2: Best Betting Apps UK - Mobile Experience"
+    },
+    {
+      "keyword": "sports betting uk",
+      "volume": 1300,
+      "difficulty": 93,
+      "placement": "H2: Sports Betting UK - Market Overview"
+    },
+    {
+      "keyword": "top 20 betting sites uk free",
+      "volume": 1300,
+      "difficulty": 89,
+      "placement": "FAQ: What are the top 20 betting sites UK?"
+    },
+    {
+      "keyword": "online betting uk",
+      "volume": 1100,
+      "difficulty": 93,
+      "placement": "H3: Online Betting UK Regulations"
+    },
+    {
+      "keyword": "sports betting online",
+      "volume": 900,
+      "difficulty": 95,
+      "placement": "H3: Sports Betting Online vs Retail"
+    },
+    {
+      "keyword": "top betting sites uk",
+      "volume": 600,
+      "difficulty": 83,
+      "placement": "H3: How We Rank Top Betting Sites UK"
+    },
+    {
+      "keyword": "best betting apps uk",
+      "volume": 600,
+      "difficulty": 67,
+      "placement": "H2: Best Betting Apps UK Reviewed"
+    },
+    {
+      "keyword": "best online betting sites uk",
+      "volume": 600,
+      "difficulty": 88,
+      "placement": "H3: Best Online Betting Sites UK Features"
+    },
+    {
+      "keyword": "uk sports betting sites",
+      "volume": 500,
+      "difficulty": 92,
+      "placement": "H3: UK Sports Betting Sites - Sport Coverage"
+    },
+    {
+      "keyword": "online sports betting uk",
+      "volume": 400,
+      "difficulty": 93,
+      "placement": "H3: Online Sports Betting UK Guide"
+    },
+    {
+      "keyword": "best bookies uk",
+      "volume": 400,
+      "difficulty": 84,
+      "placement": "FAQ: Who are the best bookies UK?"
+    },
+    {
+      "keyword": "best uk bookmakers",
+      "volume": 350,
+      "difficulty": 86,
+      "placement": "H3: Best UK Bookmakers - Traditional vs New"
+    },
+    {
+      "keyword": "best betting sites for football uk",
+      "volume": 200,
+      "difficulty": 78,
+      "placement": "H3: Best Betting Sites for Football UK"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Bet442",
+      "position": 1,
+      "rationale": "Locked position #1 for UK market - strong new entrant with competitive odds and comprehensive sports coverage"
+    },
+    {
+      "name": "LuckyMate",
+      "position": 2,
+      "rationale": "Locked position #2 for UK market - innovative platform with excellent mobile experience and fast withdrawals"
+    },
+    {
+      "name": "NRGbet",
+      "position": 3,
+      "rationale": "Growing UK presence with strong sports betting portfolio and competitive welcome bonus"
+    },
+    {
+      "name": "Myriadplay",
+      "position": 4,
+      "rationale": "Unique multi-product platform combining sports betting with casino, strong UK market positioning"
+    },
+    {
+      "name": "7Bet",
+      "position": 5,
+      "rationale": "Emerging UK bookmaker with focus on live betting and competitive odds across major sports"
+    },
+    {
+      "name": "Mr Luck",
+      "position": 6,
+      "rationale": "UK-focused operator with emphasis on user experience and mobile-first design"
+    },
+    {
+      "name": "MogoBet",
+      "position": 7,
+      "rationale": "New generation betting platform with innovative features and strong customer support"
+    },
+    {
+      "name": "22bet",
+      "position": 8,
+      "rationale": "International operator with UK license, offering extensive sports coverage (40+ sports)"
+    },
+    {
+      "name": "Highbet",
+      "position": 9,
+      "rationale": "Premium betting experience with high limits and comprehensive in-play betting options"
+    }
+  ],
+  "competitors_analyzed": [
+    {
+      "domain": "bestbettingsites.co.uk",
+      "domain_rating": 42,
+      "serp_position": 1,
+      "word_count": 10000,
+      "brand_count": 100,
+      "detailed_reviews": 10,
+      "key_features": [
+        "100+ bookmaker listings",
+        "Interactive filters",
+        "Sidebar recommendations",
+        "Load more functionality"
+      ]
+    },
+    {
+      "domain": "freebets.com",
+      "domain_rating": 54,
+      "serp_position": 3,
+      "word_count": 10000,
+      "brand_count": 60,
+      "detailed_reviews": 10,
+      "key_features": [
+        "60+ betting sites listed",
+        "Compare function (3 sites)",
+        "Expandable brand sections",
+        "Welcome offer highlights"
+      ]
+    },
+    {
+      "domain": "olbg.com",
+      "domain_rating": 73,
+      "serp_position": 6,
+      "word_count": 12000,
+      "brand_count": 100,
+      "detailed_reviews": 15,
+      "key_features": [
+        "Top 100 bookmakers rated",
+        "150+ data points comparison",
+        "User reviews integration",
+        "Expert analysis"
+      ]
+    }
+  ],
+  "content_gaps": [
+    "No dedicated mobile app testing methodology section - competitors don't show detailed app testing criteria",
+    "Limited payment methods comparison - opportunity to create comprehensive UK payment methods table",
+    "No dedicated responsible gambling tools comparison - UKGC compliance emphasis missing",
+    "Static lists vs interactive filtering - opportunity for sortable/filterable table",
+    "Limited football-specific content despite keyword volume (200/mo for 'best betting sites for football uk')",
+    "No integration with betting calculators or odds comparison tools",
+    "Missing UK-specific regulatory content (UKGC licensing details, dispute resolution)",
+    "No mobile vs desktop experience comparison per brand",
+    "Limited coverage of withdrawal speeds and payment processing times",
+    "Missing new vs established bookmaker guidance for UK bettors"
+  ],
+  "target_metrics": {
+    "word_count": 9000,
+    "brand_count": 9,
+    "sections_per_brand": 4,
+    "faq_count": 10,
+    "internal_links": 12,
+    "total_cluster_volume": 22400,
+    "volume_increase_vs_primary": "974%"
+  },
+  "uk_specific_requirements": {
+    "compliance": "UK Gambling Commission (UKGC) licensing verification",
+    "age_requirement": "18+ (UK legal gambling age)",
+    "helpline": "National Gambling Helpline: 0808 8020 133",
+    "responsible_gambling": "GamStop, GamCare, BeGambleAware integration",
+    "payment_methods": "UK-specific: Faster Payments, Bacs, UK debit cards (no credit cards post-2020 ban)",
+    "sports_focus": "Football (Premier League, EFL), Horse Racing, Cricket, Rugby, Tennis",
+    "taxation": "UK betting tax-free for consumers (operator-paid Point of Consumption Tax)"
+  }
+}

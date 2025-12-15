@@ -1,0 +1,407 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/uk/football-betting-sites.htm",
+    "page_name": "uk-football-betting",
+    "title": "Football Betting Sites UK",
+    "market": "UK",
+    "writer": "Tom Goldsmith",
+    "priority": "High",
+    "template_type": 2,
+    "template_name": "Comparison"
+  },
+  "primaryKeyword": {
+    "keyword": "football betting sites",
+    "volume": 3200,
+    "difficulty": 91,
+    "traffic_potential": 400,
+    "current_ranking": "not ranking"
+  },
+  "secondaryKeywords": [
+    {
+      "keyword": "football betting tips",
+      "volume": 10000,
+      "difficulty": 86,
+      "traffic_potential": 42000,
+      "placement": "H2",
+      "section": "Top Football Betting Tips for UK Punters"
+    },
+    {
+      "keyword": "football betting odds",
+      "volume": 1700,
+      "difficulty": 88,
+      "traffic_potential": 90000,
+      "placement": "H2",
+      "section": "Understanding Football Betting Odds"
+    },
+    {
+      "keyword": "top 20 betting sites uk free",
+      "volume": 1300,
+      "difficulty": 89,
+      "traffic_potential": 3000,
+      "placement": "H2",
+      "section": "Best Free Bet Offers at UK Football Betting Sites"
+    },
+    {
+      "keyword": "online football betting uk",
+      "volume": 450,
+      "difficulty": 87,
+      "traffic_potential": 150,
+      "placement": "H2",
+      "section": "How Online Football Betting Works in the UK"
+    },
+    {
+      "keyword": "best football betting sites uk",
+      "volume": 400,
+      "difficulty": 74,
+      "traffic_potential": 900,
+      "placement": "H2",
+      "section": "Best Football Betting Sites UK Ranked"
+    },
+    {
+      "keyword": "best football betting site",
+      "volume": 400,
+      "difficulty": 84,
+      "traffic_potential": 1100,
+      "placement": "Natural",
+      "section": "Throughout content"
+    },
+    {
+      "keyword": "premier league betting sites",
+      "volume": 150,
+      "difficulty": 80,
+      "traffic_potential": 15000,
+      "placement": "H3",
+      "section": "Best Sites for Premier League Betting"
+    },
+    {
+      "keyword": "football betting apps uk",
+      "volume": 80,
+      "difficulty": 87,
+      "traffic_potential": 5500,
+      "placement": "H3",
+      "section": "Top Football Betting Apps UK"
+    },
+    {
+      "keyword": "whats the best betting site",
+      "volume": 80,
+      "difficulty": 80,
+      "traffic_potential": 60,
+      "placement": "FAQ",
+      "section": "What's the best betting site for football in the UK?"
+    },
+    {
+      "keyword": "new betting account",
+      "volume": 60,
+      "difficulty": 91,
+      "traffic_potential": 975000,
+      "placement": "H3",
+      "section": "Opening a New Betting Account"
+    },
+    {
+      "keyword": "betting company offers",
+      "volume": 100,
+      "difficulty": 89,
+      "traffic_potential": 24000,
+      "placement": "H3",
+      "section": "Current Betting Company Offers"
+    },
+    {
+      "keyword": "newest sports betting sites",
+      "volume": 20,
+      "difficulty": 83,
+      "traffic_potential": 27000,
+      "placement": "FAQ",
+      "section": "What are the newest sports betting sites in the UK?"
+    }
+  ],
+  "brandedKeywords": [
+    {
+      "keyword": "william hill football",
+      "volume": 16000,
+      "difficulty": 77,
+      "traffic_potential": 38000,
+      "placement": "Reference/Comparison"
+    },
+    {
+      "keyword": "ladbrokes football",
+      "volume": 12000,
+      "difficulty": 78,
+      "traffic_potential": 14000,
+      "placement": "Reference/Comparison"
+    },
+    {
+      "keyword": "paddy power football",
+      "volume": 4600,
+      "difficulty": 75,
+      "traffic_potential": 143000,
+      "placement": "Reference/Comparison"
+    },
+    {
+      "keyword": "bet365 football",
+      "volume": 2500,
+      "difficulty": 72,
+      "traffic_potential": 20000,
+      "placement": "Reference/Comparison"
+    },
+    {
+      "keyword": "betfred football",
+      "volume": 1600,
+      "difficulty": 67,
+      "traffic_potential": 7000,
+      "placement": "Reference/Comparison"
+    },
+    {
+      "keyword": "888sport football",
+      "volume": 20,
+      "difficulty": 80,
+      "traffic_potential": 500,
+      "placement": "Reference"
+    }
+  ],
+  "brands": [
+    {
+      "position": 1,
+      "brand": "Bet442",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 2,
+      "brand": "LuckyMate",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 3,
+      "brand": "NRGbet",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 4,
+      "brand": "Myriadplay",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 5,
+      "brand": "7Bet",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 6,
+      "brand": "Mr Luck",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 7,
+      "brand": "MogoBet",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 8,
+      "brand": "22bet",
+      "rationale": "Client-specified UK operator"
+    },
+    {
+      "position": 9,
+      "brand": "Highbet",
+      "rationale": "Client-specified UK operator"
+    }
+  ],
+  "brand_selection_notes": {
+    "total_brands": 9,
+    "rationale": "UK market page featuring alternative betting sites with competitive offers. Traditional high street bookmakers (William Hill, Ladbrokes, Paddy Power) have massive search volume and should be referenced for comparison purposes.",
+    "traditional_brands_for_reference": [
+      "William Hill",
+      "Ladbrokes",
+      "Paddy Power",
+      "Bet365",
+      "Betfred"
+    ]
+  },
+  "competitor_analysis": {
+    "target_competitor": "Not analyzed (UK market specific)",
+    "estimated_word_count": "6000-8000",
+    "number_of_brands": "8-12",
+    "sections_per_brand": 3,
+    "common_sections": [
+      "Introduction",
+      "Comparison table",
+      "Individual brand reviews",
+      "Free bets and bonuses",
+      "Premier League betting",
+      "Football betting tips",
+      "How to place a bet",
+      "Payment methods",
+      "Mobile apps",
+      "FAQs",
+      "Responsible gambling"
+    ],
+    "content_gaps": [
+      "Interactive odds comparison",
+      "Calculator tools integration",
+      "Live betting features comparison",
+      "Detailed mobile app analysis per brand",
+      "Payment methods comparison table"
+    ],
+    "competitive_advantage": [
+      "More detailed per-brand mobile experience sections",
+      "Payment methods comparison table",
+      "Integration with betting calculators",
+      "Focus on both mainstream and alternative operators"
+    ]
+  },
+  "content_structure": {
+    "mandatory_sections": [
+      "Introduction with top 3 picks",
+      "Comparison table (all 9 brands)",
+      "Individual brand reviews (3 sections each: Key Features, Mobile Experience, Pros/Cons)",
+      "Best Sites for Premier League Betting",
+      "Top Football Betting Apps UK",
+      "Understanding Football Betting Odds",
+      "Top Football Betting Tips for UK Punters",
+      "Best Free Bet Offers at UK Football Betting Sites",
+      "How Online Football Betting Works in the UK",
+      "Payment Methods Comparison",
+      "Opening a New Betting Account",
+      "FAQs (10+)",
+      "Responsible Gambling"
+    ],
+    "per_brand_sections": [
+      {
+        "section": "Key Features",
+        "word_count": "150-200",
+        "requirements": "UKGC license, unique selling points, football-specific features"
+      },
+      {
+        "section": "Mobile Experience",
+        "word_count": "100-150",
+        "requirements": "App quality, loading speed, live betting interface, iOS/Android availability"
+      },
+      {
+        "section": "Pros & Cons",
+        "word_count": "100-150",
+        "requirements": "Based on Trustpilot and Reddit reviews with citations"
+      },
+      {
+        "section": "Current Bonus",
+        "word_count": "75-100",
+        "requirements": "Exact offer, key T&Cs summary"
+      }
+    ],
+    "technical_requirements": [
+      "Comparison table with sortable columns",
+      "Brand cards with letter badges",
+      "Payment methods comparison table",
+      "Links to betting calculators",
+      "FAQ schema markup",
+      "Article schema markup",
+      "Breadcrumb schema"
+    ],
+    "estimated_total_word_count": "6500-7500"
+  },
+  "internal_links": [
+    {
+      "anchor": "Best betting sites UK",
+      "url": "/sport/betting/uk/best-betting-sites.htm",
+      "rationale": "Parent category"
+    },
+    {
+      "anchor": "Premier League betting tips",
+      "url": "/sport/betting/uk/premier-league-betting.htm",
+      "rationale": "Related sport content"
+    },
+    {
+      "anchor": "Champions League betting",
+      "url": "/sport/betting/uk/champions-league-betting.htm",
+      "rationale": "Related football competition"
+    },
+    {
+      "anchor": "Football accumulator tips",
+      "url": "/sport/betting/uk/accumulator-tips.htm",
+      "rationale": "Related betting strategy"
+    },
+    {
+      "anchor": "Parlay calculator",
+      "url": "/tools/parlay-calculator.htm",
+      "rationale": "Calculator tool"
+    },
+    {
+      "anchor": "Odds converter",
+      "url": "/tools/odds-converter.htm",
+      "rationale": "Calculator tool"
+    },
+    {
+      "anchor": "Bet365 review",
+      "url": "/sport/betting/uk/bet365-review.htm",
+      "rationale": "Brand review (if exists)"
+    },
+    {
+      "anchor": "William Hill review",
+      "url": "/sport/betting/uk/william-hill-review.htm",
+      "rationale": "Brand review (if exists)"
+    },
+    {
+      "anchor": "Football betting apps",
+      "url": "/sport/betting/uk/football-apps.htm",
+      "rationale": "Related topic"
+    },
+    {
+      "anchor": "In-play football betting",
+      "url": "/sport/betting/uk/in-play-football.htm",
+      "rationale": "Related betting type"
+    },
+    {
+      "anchor": "Best free bets UK",
+      "url": "/sport/betting/uk/free-bets.htm",
+      "rationale": "Related offers"
+    },
+    {
+      "anchor": "Responsible gambling UK",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "rationale": "Compliance"
+    }
+  ],
+  "compliance": {
+    "market": "UK",
+    "age_requirement": "18+",
+    "regulator": "UK Gambling Commission (UKGC)",
+    "helpline": "GamCare (0808 8020 133)",
+    "begambleaware": "https://www.begambleaware.org/",
+    "affiliate_disclosure_required": true,
+    "responsible_gambling_section_required": true,
+    "ukgc_license_verification_required": true
+  },
+  "keyword_cluster_summary": {
+    "total_cluster_volume": 38620,
+    "volume_increase_percentage": "1107%",
+    "primary_volume": 3200,
+    "secondary_total_volume": 35420
+  },
+  "research_notes": {
+    "market_insights": [
+      "UK football betting market is dominated by traditional bookmakers with massive brand recognition",
+      "William Hill (16K searches), Ladbrokes (12K), and Paddy Power (4.6K) have significant search volume",
+      "Alternative operators compete on bonus offers, odds, and niche features",
+      "Premier League betting is a major sub-topic (150/mo)",
+      "Mobile betting apps are crucial for UK market (80/mo direct searches)"
+    ],
+    "content_strategy": [
+      "Focus on 9 client-specified brands while acknowledging major UK operators",
+      "Heavy emphasis on bonuses and free bets (1,300/mo for 'top 20 betting sites uk free')",
+      "Include comprehensive betting tips section (10K/mo search volume)",
+      "Odds explanation and comparison important for UK audience",
+      "Payment methods crucial for UK market (PayPal, debit cards, bank transfers)"
+    ],
+    "seo_opportunities": [
+      "Football betting tips (10K/mo) - highest volume keyword in cluster",
+      "Football betting odds (1.7K/mo) - educational content opportunity",
+      "Premier League focus (150/mo) - seasonal content opportunity",
+      "Reference major brands for SEO while featuring client brands",
+      "Calculator integration for enhanced user experience"
+    ]
+  },
+  "metadata": {
+    "created_date": "2025-12-15",
+    "phase": 1,
+    "version": "1.0",
+    "last_updated": "2025-12-15"
+  }
+}

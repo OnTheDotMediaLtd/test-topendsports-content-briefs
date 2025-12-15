@@ -1,0 +1,423 @@
+{
+  "page_info": {
+    "url": "/sport/betting/uk/mogobet-review.htm",
+    "title": "MogoBet Sport Review",
+    "market": "UK",
+    "template_type": 1,
+    "template_name": "Brand Review",
+    "writer": "Tom Goldsmith",
+    "priority": "Medium",
+    "compliance": {
+      "age_requirement": "18+",
+      "regulator": "UK Gambling Commission",
+      "market_specific": "UK only - BeGambleAware.org resources required"
+    }
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "mogobet sport",
+      "volume": null,
+      "difficulty": null,
+      "source": "site_structure",
+      "notes": "Brand keyword from site structure - main brand 'mogobet' has 1200/mo volume"
+    },
+    "brand_keyword": {
+      "keyword": "mogobet",
+      "volume": 1200,
+      "difficulty": 55,
+      "traffic_potential": null
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "mogobet sign up offer",
+        "volume": 90,
+        "difficulty": null,
+        "placement": "H2",
+        "target_section": "Welcome Bonus & Promotions"
+      },
+      {
+        "keyword": "mogobet review",
+        "volume": 80,
+        "difficulty": null,
+        "placement": "H1/Title",
+        "target_section": "Title optimization"
+      },
+      {
+        "keyword": "mogobet promo code",
+        "volume": 60,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Promo Code subsection"
+      },
+      {
+        "keyword": "mogobet sister sites",
+        "volume": 40,
+        "difficulty": null,
+        "placement": "FAQ",
+        "target_section": "FAQ: What are MogoBet sister sites?"
+      },
+      {
+        "keyword": "mogobet casino",
+        "volume": 40,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Casino Betting Features"
+      },
+      {
+        "keyword": "mogobet casino bonus",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Casino Welcome Offer"
+      },
+      {
+        "keyword": "mogobet new customer offer",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "Natural",
+        "target_section": "Bonus section naturally"
+      },
+      {
+        "keyword": "mogobet bonus code",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "Natural",
+        "target_section": "Bonus section naturally"
+      },
+      {
+        "keyword": "mogobet welcome offer",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "Natural",
+        "target_section": "Welcome Bonus section"
+      },
+      {
+        "keyword": "mogobet world cup offer",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "FAQ",
+        "target_section": "FAQ: Does MogoBet offer World Cup promotions?"
+      },
+      {
+        "keyword": "mogobet trustpilot",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "FAQ",
+        "target_section": "FAQ: What is MogoBet's Trustpilot rating?"
+      },
+      {
+        "keyword": "mogobet free bets",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "Natural",
+        "target_section": "Bonus section"
+      },
+      {
+        "keyword": "mogobet app",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H2",
+        "target_section": "Mobile App Experience"
+      },
+      {
+        "keyword": "mogobet live chat",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Customer Support subsection"
+      }
+    ],
+    "total_cluster_volume": 1680,
+    "volume_increase_percentage": "40%",
+    "volume_increase_note": "Cluster adds 480/mo to base 1200/mo brand volume"
+  },
+  "competitor_analysis": {
+    "market_note": "UK betting market - competitors are UK-focused affiliate sites, not USA brands",
+    "top_competitors": [
+      {
+        "domain": "oddschecker.com",
+        "focus": "Odds comparison and reviews",
+        "estimated_word_count": "2500-3000",
+        "key_sections": ["Odds", "Bonus", "Features", "Payment Methods", "Mobile App"],
+        "strengths": ["Real-time odds comparison", "Comprehensive payment info"]
+      },
+      {
+        "domain": "thepunterspage.com",
+        "focus": "UK betting site reviews",
+        "estimated_word_count": "3000-3500",
+        "key_sections": ["Welcome Offer", "Sports Markets", "Payment Methods", "Customer Service"],
+        "strengths": ["Detailed bonus breakdowns", "UK-specific features"]
+      },
+      {
+        "domain": "bookies.com",
+        "focus": "Bookmaker reviews and guides",
+        "estimated_word_count": "2500-3000",
+        "key_sections": ["Sign Up Offer", "Markets", "Live Betting", "Withdrawal Times"],
+        "strengths": ["Clear bonus terms", "Withdrawal speed focus"]
+      }
+    ],
+    "competitive_benchmark": {
+      "target_word_count": "3500-4000",
+      "rationale": "Match Template 1 (Review) standard - comprehensive single-brand analysis"
+    }
+  },
+  "content_gaps_identified": [
+    "Sister sites information - competitors don't cover this (40/mo keyword)",
+    "Trustpilot rating analysis - specific user sentiment data",
+    "World Cup/seasonal promotions - timely content opportunity",
+    "Casino + Sports combo - dual product coverage",
+    "UK payment methods - PayPal, Skrill, Neteller prevalence",
+    "Withdrawal speeds specific to UK banking"
+  ],
+  "brand_analysis": {
+    "brand_name": "MogoBet",
+    "badge_code": "MGO",
+    "badge_color": "#607D8B",
+    "market_position": "UK Brand #7 - Medium-tier operator",
+    "key_differentiators": [
+      "Combined sports betting and casino platform",
+      "Sister sites network (inquiry keyword at 40/mo)",
+      "UK-focused welcome offers",
+      "World Cup and seasonal promotions"
+    ],
+    "research_sources_needed": [
+      "MogoBet official website for T&Cs",
+      "UK Gambling Commission license verification",
+      "Trustpilot reviews for user sentiment",
+      "App Store/Google Play ratings",
+      "Reddit r/SoccerBetting mentions",
+      "Sister sites operator information"
+    ]
+  },
+  "content_sections_planned": [
+    {
+      "section": "Introduction & Quick Answer",
+      "word_count": 200,
+      "keywords_targeted": ["mogobet review", "mogobet sport"]
+    },
+    {
+      "section": "Rating Summary",
+      "word_count": 200,
+      "keywords_targeted": ["mogobet"]
+    },
+    {
+      "section": "Welcome Bonus & Sign Up Offer",
+      "word_count": 350,
+      "keywords_targeted": ["mogobet sign up offer", "mogobet welcome offer", "mogobet new customer offer", "mogobet free bets"]
+    },
+    {
+      "section": "Promo Code Details",
+      "word_count": 150,
+      "keywords_targeted": ["mogobet promo code", "mogobet bonus code"]
+    },
+    {
+      "section": "Sports Betting Features",
+      "word_count": 300,
+      "keywords_targeted": ["mogobet sport"]
+    },
+    {
+      "section": "Casino Betting Features",
+      "word_count": 250,
+      "keywords_targeted": ["mogobet casino", "mogobet casino bonus"]
+    },
+    {
+      "section": "Mobile App Experience",
+      "word_count": 350,
+      "keywords_targeted": ["mogobet app"]
+    },
+    {
+      "section": "Payment Methods & Withdrawals",
+      "word_count": 250,
+      "keywords_targeted": []
+    },
+    {
+      "section": "Customer Support",
+      "word_count": 150,
+      "keywords_targeted": ["mogobet live chat"]
+    },
+    {
+      "section": "Detailed Bonus Breakdown",
+      "word_count": 300,
+      "keywords_targeted": []
+    },
+    {
+      "section": "Terms & Conditions Summary",
+      "word_count": 350,
+      "keywords_targeted": []
+    },
+    {
+      "section": "Pros & Cons",
+      "word_count": 250,
+      "keywords_targeted": []
+    },
+    {
+      "section": "FAQ Section",
+      "word_count": 500,
+      "keywords_targeted": ["mogobet sister sites", "mogobet trustpilot", "mogobet world cup offer"]
+    },
+    {
+      "section": "Final Verdict",
+      "word_count": 150,
+      "keywords_targeted": []
+    }
+  ],
+  "internal_links_planned": [
+    {
+      "anchor": "Best Betting Sites UK",
+      "target": "/sport/betting/uk/index.htm",
+      "context": "Introduction - category hub"
+    },
+    {
+      "anchor": "Best Betting Apps UK",
+      "target": "/sport/betting/uk/betting-apps.htm",
+      "context": "Mobile app section"
+    },
+    {
+      "anchor": "New Betting Sites UK",
+      "target": "/sport/betting/uk/new-betting-sites.htm",
+      "context": "If MogoBet is new/recent entrant"
+    },
+    {
+      "anchor": "Free Bets UK",
+      "target": "/sport/betting/uk/free-bets.htm",
+      "context": "Bonus section"
+    },
+    {
+      "anchor": "Football Betting Sites UK",
+      "target": "/sport/betting/uk/football-betting-sites.htm",
+      "context": "Sports markets section"
+    },
+    {
+      "anchor": "Bet442 Sport Review",
+      "target": "/sport/betting/uk/bet442-review.htm",
+      "context": "Alternative UK brand comparison"
+    },
+    {
+      "anchor": "NRGbet Sports Review",
+      "target": "/sport/betting/uk/nrgbet-review.htm",
+      "context": "Alternative UK brand comparison"
+    },
+    {
+      "anchor": "7Bet Sport Review",
+      "target": "/sport/betting/uk/7bet-review.htm",
+      "context": "Alternative UK brand comparison"
+    },
+    {
+      "anchor": "22bet UK Review",
+      "target": "/sport/betting/uk/22bet-review.htm",
+      "context": "Sister site/alternative brand"
+    },
+    {
+      "anchor": "UK Betting Offers",
+      "target": "/sport/betting/uk/betting-offers.htm",
+      "context": "Bonus comparison context"
+    },
+    {
+      "anchor": "Horse Racing Betting Sites",
+      "target": "/sport/betting/uk/horse-racing-betting.htm",
+      "context": "If MogoBet offers horse racing"
+    },
+    {
+      "anchor": "Responsible Gambling Resources",
+      "target": "https://www.begambleaware.org",
+      "context": "Responsible gambling section - external UK-specific",
+      "external": true
+    }
+  ],
+  "strategic_direction": [
+    "Position MogoBet in context of UK betting market (not USA comparison)",
+    "Emphasize dual sports + casino offering as key differentiator",
+    "Cover sister sites network - unique keyword opportunity (40/mo)",
+    "Include Trustpilot analysis for trust signals",
+    "Focus on UK payment methods (PayPal, Skrill, Neteller)",
+    "Address seasonal World Cup offers for timely relevance",
+    "Target medium-tier bettors looking for alternatives to mainstream brands"
+  ],
+  "technical_requirements": [
+    "Last Updated badge with current date",
+    "UK Gambling Commission verification badge/mention",
+    "BeGambleAware.org resources (not USA 1-800-522-4700)",
+    "18+ age gate mention (not 21+)",
+    "Schema markup: Article + Review + FAQ",
+    "MogoBet logo and brand colors (MGO badge: #607D8B)",
+    "Trustpilot widget/rating if available",
+    "App Store and Google Play badges with ratings"
+  ],
+  "source_requirements": {
+    "tier_1_primary": [
+      "MogoBet official website (features, T&Cs)",
+      "UK Gambling Commission (license verification)",
+      "App Store reviews (iOS user feedback)",
+      "Google Play reviews (Android user feedback)",
+      "Trustpilot reviews (overall user sentiment)"
+    ],
+    "tier_2_verification": [
+      "MogoBet social media (current promotions)",
+      "UK gambling forums (Reddit r/SoccerBetting)",
+      "Industry publications (SBC News, iGB)"
+    ],
+    "tier_3_competitor_research": [
+      "Oddschecker (odds comparison context)",
+      "ThePuntersPage (market positioning)",
+      "Bookies.com (feature benchmarking)"
+    ]
+  },
+  "faq_questions_planned": [
+    {
+      "question": "Is MogoBet legal and safe in the UK?",
+      "keyword": "mogobet",
+      "word_count": 120
+    },
+    {
+      "question": "What is MogoBet's welcome bonus for new customers?",
+      "keyword": "mogobet sign up offer",
+      "word_count": 150
+    },
+    {
+      "question": "Do I need a MogoBet promo code?",
+      "keyword": "mogobet promo code",
+      "word_count": 100
+    },
+    {
+      "question": "What are MogoBet sister sites?",
+      "keyword": "mogobet sister sites",
+      "word_count": 120
+    },
+    {
+      "question": "Can I bet on casino games at MogoBet?",
+      "keyword": "mogobet casino",
+      "word_count": 100
+    },
+    {
+      "question": "What is MogoBet's Trustpilot rating?",
+      "keyword": "mogobet trustpilot",
+      "word_count": 80
+    },
+    {
+      "question": "Does MogoBet offer World Cup promotions?",
+      "keyword": "mogobet world cup offer",
+      "word_count": 100
+    },
+    {
+      "question": "Is there a MogoBet mobile app?",
+      "keyword": "mogobet app",
+      "word_count": 120
+    },
+    {
+      "question": "How do I contact MogoBet customer support?",
+      "keyword": "mogobet live chat",
+      "word_count": 100
+    },
+    {
+      "question": "What payment methods does MogoBet accept in the UK?",
+      "keyword": "mogobet",
+      "word_count": 110
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-12-15",
+    "phase": 1,
+    "status": "completed",
+    "next_phase": "phase2-writer-brief"
+  }
+}

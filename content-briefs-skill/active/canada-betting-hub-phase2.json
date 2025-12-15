@@ -1,0 +1,539 @@
+{
+  "page_name": "canada-betting-hub",
+  "url": "https://www.topendsports.com/sport/betting/canada/index.htm",
+  "writer": "Lewis Humphries",
+  "template_type": 2,
+  "target_word_count": 9000,
+  "primary_keyword": "sports betting canada",
+  "meta_keywords": "sports betting canada, sports betting ontario, online betting canada, canadian betting sites, best sports betting apps canada, online sports betting canada, best betting sites canada, canada sports betting, best online betting sites canada, betting apps canada, sports betting sites canada, is sports betting legal in canada, best canadian sportsbooks, betting websites canada, how to bet on sports in canada, sports gambling canada, top betting sites canada, sports betting canada legal, canada betting apps",
+  "h1": "Sports Betting in Canada: Complete Guide to the Best Betting Sites",
+  "intro_requirements": {
+    "format": "Direct answer opening (40-50 words) + Affiliate disclosure (50-75 words)",
+    "total_words": "100-150",
+    "forbidden_patterns": ["Welcome to", "Looking for", "Wondering if", "Are you ready", "Review 2025", "December 2025"],
+    "required_elements": [
+      "Direct answer naming top 3 sites",
+      "Authority statement",
+      "Clear affiliate disclosure",
+      "Canada market focus (non-Ontario emphasis)"
+    ]
+  },
+  "content_outline": [
+    {
+      "section": "Introduction",
+      "word_count": 150,
+      "requirements": [
+        "Direct answer format: Best betting sites are [X, Y, Z]",
+        "Affiliate disclosure (50-75 words)",
+        "Non-Ontario market focus",
+        "Total: 100-150 words"
+      ]
+    },
+    {
+      "section": "Last Updated Badge",
+      "html_component": true,
+      "note": "Phase 3 will add badge after H1"
+    },
+    {
+      "section": "Comparison Table",
+      "word_count": 300,
+      "requirements": [
+        "All 9 brands in visual table",
+        "Columns: Brand, Welcome Bonus, Sports Coverage, Mobile App, Payment Options, Standout Feature",
+        "Include ratings/scores",
+        "Mobile-responsive design"
+      ]
+    },
+    {
+      "section": "Quick Answer Box",
+      "word_count": 100,
+      "requirements": [
+        "Top 3 picks with one-sentence rationale",
+        "Visual callout box",
+        "Links to brand sections below"
+      ]
+    },
+    {
+      "section": "H2: Top Canadian Betting Sites Ranked",
+      "keyword_target": "canadian betting sites (800/mo)",
+      "word_count": 5000,
+      "subsections": [
+        {
+          "brand": "Treasure Spins",
+          "position": 1,
+          "word_count": 600,
+          "structure": [
+            "H3: Treasure Spins - Key Features (200 words)",
+            "H3: Treasure Spins Mobile Experience (150 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Treasure Spins Welcome Bonus (150 words)"
+          ]
+        },
+        {
+          "brand": "Royalistplay",
+          "position": 2,
+          "word_count": 550,
+          "structure": [
+            "H3: Royalistplay - Key Features (200 words)",
+            "H3: Royalistplay Mobile Experience (150 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Royalistplay Welcome Bonus (100 words)"
+          ]
+        },
+        {
+          "brand": "Lucky7even",
+          "position": 3,
+          "word_count": 550,
+          "structure": [
+            "H3: Lucky7even - Key Features (200 words)",
+            "H3: Lucky7even Mobile Experience (150 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Lucky7even Welcome Bonus (100 words)"
+          ]
+        },
+        {
+          "brand": "Funbet",
+          "position": 4,
+          "word_count": 550,
+          "structure": [
+            "H3: Funbet - Key Features (200 words)",
+            "H3: Funbet Mobile Experience (150 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Funbet Welcome Bonus (100 words)"
+          ]
+        },
+        {
+          "brand": "Legendplay",
+          "position": 5,
+          "word_count": 550,
+          "structure": [
+            "H3: Legendplay - Key Features (200 words)",
+            "H3: Legendplay Mobile Experience (150 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Legendplay Welcome Bonus (100 words)"
+          ]
+        },
+        {
+          "brand": "Wyns",
+          "position": 6,
+          "word_count": 500,
+          "structure": [
+            "H3: Wyns - Key Features (200 words)",
+            "H3: Wyns Mobile Experience (150 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Wyns Welcome Bonus (50 words)"
+          ]
+        },
+        {
+          "brand": "Festival Play",
+          "position": 7,
+          "word_count": 500,
+          "structure": [
+            "H3: Festival Play - Key Features (200 words)",
+            "H3: Festival Play Mobile Experience (100 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Festival Play Welcome Bonus (100 words)"
+          ]
+        },
+        {
+          "brand": "Lizaro",
+          "position": 8,
+          "word_count": 500,
+          "structure": [
+            "H3: Lizaro - Key Features (200 words)",
+            "H3: Lizaro Mobile Experience (100 words)",
+            "Pros/Cons table (100 words)",
+            "H3: Lizaro Welcome Bonus (100 words)"
+          ]
+        },
+        {
+          "brand": "DirectionBet",
+          "position": 9,
+          "word_count": 500,
+          "structure": [
+            "H3: DirectionBet - Key Features (200 words)",
+            "H3: DirectionBet Mobile Experience (100 words)",
+            "Pros/Cons table (100 words)",
+            "H3: DirectionBet Welcome Bonus (100 words)"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2: Ontario vs Non-Ontario Betting",
+      "keyword_target": "sports betting ontario (1,100/mo)",
+      "word_count": 500,
+      "requirements": [
+        "Explain regulated Ontario market (iGaming Ontario)",
+        "Contrast with non-Ontario offshore operators",
+        "Provincial differences",
+        "Why non-Ontario players use offshore sites",
+        "Legal status clarification"
+      ]
+    },
+    {
+      "section": "H2: How Online Betting Works in Canada",
+      "keyword_target": "online betting canada (1,000/mo)",
+      "word_count": 450,
+      "subsections": [
+        {
+          "subsection": "H3: Getting Started with Online Sports Betting",
+          "keyword_target": "online sports betting canada (700/mo)",
+          "word_count": 200,
+          "requirements": [
+            "Account creation process",
+            "Verification requirements",
+            "First deposit guide",
+            "Age verification (19+ most provinces)"
+          ]
+        },
+        {
+          "subsection": "H3: Licensed vs Offshore Sites",
+          "keyword_target": "sports betting sites canada (500/mo)",
+          "word_count": 250,
+          "requirements": [
+            "Difference between provincial and offshore operators",
+            "Safety considerations",
+            "Pros/cons of each",
+            "Why Canadians choose offshore sites"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2: Best Sports Betting Apps Canada",
+      "keyword_target": "best sports betting apps canada (700/mo)",
+      "word_count": 500,
+      "subsections": [
+        {
+          "subsection": "H3: Mobile Betting Apps Features",
+          "keyword_target": "betting apps canada (500/mo)",
+          "word_count": 250,
+          "requirements": [
+            "Key features to look for",
+            "iOS vs Android availability",
+            "App performance metrics",
+            "Live betting on mobile"
+          ]
+        },
+        {
+          "subsection": "H3: Evaluating Online Betting Sites",
+          "keyword_target": "best online betting sites canada (600/mo)",
+          "word_count": 250,
+          "requirements": [
+            "Selection criteria",
+            "What makes an app great",
+            "Performance benchmarks",
+            "User experience priorities"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2: What Makes a Betting Site the Best?",
+      "keyword_target": "best betting sites canada (700/mo)",
+      "word_count": 500,
+      "subsections": [
+        {
+          "subsection": "H3: Canadian Sportsbook Selection Criteria",
+          "keyword_target": "best canadian sportsbooks (350/mo)",
+          "word_count": 250,
+          "requirements": [
+            "Evaluation methodology",
+            "Key factors (bonuses, odds, markets, support)",
+            "Canada-specific considerations",
+            "Testing process"
+          ]
+        },
+        {
+          "subsection": "H3: Sports Gambling Regulations",
+          "keyword_target": "sports gambling canada (200/mo)",
+          "word_count": 250,
+          "requirements": [
+            "Federal vs provincial regulations",
+            "Criminal Code Section 207",
+            "Provincial lottery corporations",
+            "Offshore operator legality"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2: Popular Sports for Betting in Canada",
+      "keyword_target": "canada sports betting (700/mo)",
+      "word_count": 400,
+      "requirements": [
+        "NHL (most popular)",
+        "CFL (Canadian Football League)",
+        "NBA (Toronto Raptors focus)",
+        "MLB (Toronto Blue Jays)",
+        "MLS (3 Canadian teams)",
+        "International sports (soccer, cricket)"
+      ]
+    },
+    {
+      "section": "H2: Payment Methods for Canadian Bettors",
+      "word_count": 450,
+      "requirements": [
+        "Interac e-Transfer (most popular)",
+        "Credit/debit cards",
+        "Cryptocurrency (Bitcoin, Ethereum)",
+        "E-wallets (Skrill, Neteller)",
+        "Bank transfers",
+        "Comparison table of methods by site",
+        "Processing times",
+        "Fees"
+      ]
+    },
+    {
+      "section": "H2: Betting Calculators & Tools",
+      "word_count": 300,
+      "requirements": [
+        "Link to odds calculator",
+        "Link to parlay calculator",
+        "Link to betting units calculator",
+        "How to use tools effectively",
+        "Canada-specific considerations (currency, odds format)"
+      ]
+    },
+    {
+      "section": "H2: Frequently Asked Questions",
+      "word_count": 800,
+      "faqs": [
+        {
+          "question": "Is sports betting legal in Canada?",
+          "keyword_target": "is sports betting legal in canada (350/mo)",
+          "answer_length": 100,
+          "requirements": [
+            "Yes, legal federally since 2021",
+            "Provincial regulations vary",
+            "Offshore vs licensed operators",
+            "Age requirements by province"
+          ]
+        },
+        {
+          "question": "How do I start betting on sports in Canada?",
+          "keyword_target": "how to bet on sports in canada (200/mo)",
+          "answer_length": 100,
+          "requirements": [
+            "Choose betting site",
+            "Create account",
+            "Verify identity",
+            "Make first deposit",
+            "Place first bet"
+          ]
+        },
+        {
+          "question": "What are Canada's sports betting laws?",
+          "keyword_target": "sports betting canada legal (150/mo)",
+          "answer_length": 100,
+          "requirements": [
+            "Federal legalization (Bill C-218)",
+            "Provincial regulation",
+            "Safe and regulated environment",
+            "Consumer protections"
+          ]
+        },
+        {
+          "question": "Can I use betting apps in Canada?",
+          "keyword_target": "canada betting apps (150/mo)",
+          "answer_length": 80,
+          "requirements": [
+            "Yes, widely available",
+            "iOS and Android",
+            "Mobile-optimized sites",
+            "Geo-location requirements"
+          ]
+        },
+        {
+          "question": "What sports can I bet on in Canada?",
+          "keyword_target": "Natural variation",
+          "answer_length": 80,
+          "requirements": [
+            "NHL, CFL, NBA, MLB, MLS",
+            "International soccer",
+            "Tennis, golf, combat sports",
+            "E-sports and niche markets"
+          ]
+        },
+        {
+          "question": "Are offshore betting sites safe for Canadians?",
+          "keyword_target": "Natural variation",
+          "answer_length": 100,
+          "requirements": [
+            "Reputable offshore sites are safe",
+            "Check licensing (Curacao, Malta)",
+            "Verify encryption and security",
+            "Read reviews and reputation"
+          ]
+        },
+        {
+          "question": "What payment methods work best in Canada?",
+          "keyword_target": "Natural variation",
+          "answer_length": 80,
+          "requirements": [
+            "Interac e-Transfer most popular",
+            "Cryptocurrency gaining popularity",
+            "Credit/debit cards accepted",
+            "E-wallets available"
+          ]
+        },
+        {
+          "question": "Do I have to pay taxes on betting winnings in Canada?",
+          "keyword_target": "Natural variation",
+          "answer_length": 80,
+          "requirements": [
+            "No, winnings not taxable",
+            "Considered windfall, not income",
+            "Different for professional gamblers",
+            "Keep records anyway"
+          ]
+        },
+        {
+          "question": "What's the difference between Ontario and other provinces?",
+          "keyword_target": "Natural variation - supports sports betting ontario",
+          "answer_length": 100,
+          "requirements": [
+            "Ontario has regulated market (iGaming Ontario)",
+            "Other provinces use offshore sites",
+            "Different operator selection",
+            "Different bonuses and promotions"
+          ]
+        },
+        {
+          "question": "Can I bet on the CFL and NHL?",
+          "keyword_target": "Natural variation - supports canada sports betting",
+          "answer_length": 60,
+          "requirements": [
+            "Yes, both widely available",
+            "CFL during season",
+            "NHL year-round markets",
+            "Extensive prop betting"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2: Responsible Gambling in Canada",
+      "word_count": 250,
+      "requirements": [
+        "Canadian responsible gambling resources",
+        "Provincial help lines",
+        "Gambling Hotline: 1-866-531-2600 (Canadian)",
+        "Self-exclusion programs",
+        "Deposit limits",
+        "Age requirements by province"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor_text": "NHL betting sites",
+      "target_url": "/sport/betting/nhl/",
+      "placement": "Popular Sports for Betting section"
+    },
+    {
+      "anchor_text": "CFL betting guide",
+      "target_url": "/sport/betting/cfl/",
+      "placement": "Popular Sports section"
+    },
+    {
+      "anchor_text": "NBA betting in Canada",
+      "target_url": "/sport/betting/nba/",
+      "placement": "Popular Sports section"
+    },
+    {
+      "anchor_text": "MLB betting sites",
+      "target_url": "/sport/betting/mlb/",
+      "placement": "Popular Sports section"
+    },
+    {
+      "anchor_text": "parlay betting calculator",
+      "target_url": "/sport/betting/calculators/parlay/",
+      "placement": "Calculators section"
+    },
+    {
+      "anchor_text": "odds calculator",
+      "target_url": "/sport/betting/calculators/odds/",
+      "placement": "Calculators section"
+    },
+    {
+      "anchor_text": "betting units calculator",
+      "target_url": "/sport/betting/calculators/units/",
+      "placement": "Calculators section"
+    },
+    {
+      "anchor_text": "sports betting Ontario",
+      "target_url": "/sport/betting/canada/ontario/",
+      "placement": "Ontario vs Non-Ontario section"
+    },
+    {
+      "anchor_text": "Alberta betting sites",
+      "target_url": "/sport/betting/canada/alberta/",
+      "placement": "Provincial regulations discussion"
+    },
+    {
+      "anchor_text": "British Columbia sports betting",
+      "target_url": "/sport/betting/canada/bc/",
+      "placement": "Provincial regulations discussion"
+    },
+    {
+      "anchor_text": "Quebec betting sites",
+      "target_url": "/sport/betting/canada/quebec/",
+      "placement": "Provincial regulations discussion"
+    },
+    {
+      "anchor_text": "how to bet on sports",
+      "target_url": "/sport/betting/guides/how-to-bet/",
+      "placement": "Getting Started section"
+    }
+  ],
+  "source_requirements": {
+    "tier1_primary": [
+      "App Store ratings for mobile apps (must cite star rating and review count)",
+      "Google Play ratings for Android apps",
+      "Reddit discussions (r/sportsbook, r/canada) for user experiences",
+      "Official brand websites for features only (not pros/cons)"
+    ],
+    "tier2_verification": [
+      "Provincial gaming commission websites for regulations",
+      "Canadian government sources for legal information",
+      "Brand T&Cs for bonus verification"
+    ],
+    "forbidden": [
+      "DO NOT cite affiliate sites for pros/cons",
+      "DO NOT use competitor content as source",
+      "DO NOT cite without verification"
+    ]
+  },
+  "compliance": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "gambling_hotline": "1-866-531-2600 (Canadian Gambling Hotline)",
+    "responsible_gambling_resources": [
+      "Responsible Gambling Council (Canada)",
+      "ConnexOntario (Ontario residents)",
+      "Problem Gambling Institute of Ontario"
+    ],
+    "affiliate_disclosure": "Required in introduction (50-75 words)",
+    "provincial_considerations": [
+      "Ontario has regulated iGaming market",
+      "Other provinces primarily use offshore operators",
+      "Age varies: 18+ (AB, MB, QC), 19+ (most others)",
+      "Provincial lottery corporations in some provinces"
+    ]
+  },
+  "canada_specific_elements": {
+    "market_focus": "Non-Ontario offshore operators (primary focus)",
+    "popular_sports": ["NHL", "CFL", "NBA", "MLB", "MLS"],
+    "payment_methods": ["Interac e-Transfer", "Cryptocurrency", "Credit/Debit", "E-wallets"],
+    "currency": "CAD",
+    "language": "English (separate French version may be needed for Quebec)",
+    "key_differentiators": [
+      "Crypto payment popularity",
+      "Interac e-Transfer dominance",
+      "CFL betting unique to Canada",
+      "No taxation on winnings",
+      "Provincial variation in regulations"
+    ]
+  }
+}

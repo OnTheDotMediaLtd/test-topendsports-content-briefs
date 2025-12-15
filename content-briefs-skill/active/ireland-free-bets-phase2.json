@@ -1,0 +1,995 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/ireland/free-bets.htm",
+    "page_name": "Free Bets Ireland",
+    "market": "Ireland",
+    "writer": "Lewis Humphries",
+    "priority": "High",
+    "template": "2 - Comparison",
+    "phase": 2,
+    "word_count_target": "6,500-7,000",
+    "estimated_completion_time": "12-15 hours"
+  },
+  "seo_metadata": {
+    "title_tag": "Best Free Bets Ireland 2025 - Top No Deposit Offers",
+    "meta_description": "Compare the best free bet offers in Ireland. Get up to €200 in free bets from Lunubet, Betalright & top bookmakers. No deposit bonuses available.",
+    "meta_keywords": "free bets ireland, free bet no deposit ireland, no deposit bonus ireland, betting offers ireland, sports betting ireland, irish betting sites, online betting sites ireland, best gambling sites ireland, betting sites with free bets, casino bonus ireland, no deposit casino bonus ireland, best online bookies, welcome offer, free bet offers ireland, free 10 euro no deposit"
+  },
+  "keyword_mapping": {
+    "primary_keyword": {
+      "keyword": "free bets ireland",
+      "volume": 300,
+      "placement": "H1, first sentence, URL"
+    },
+    "h2_keywords": [
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "section_title": "Sports Betting Ireland: Best Free Bet Markets",
+        "word_count": 400,
+        "requirements": "Cover popular Irish sports (GAA, horse racing, rugby, soccer), explain how free bets apply to each sport"
+      },
+      {
+        "keyword": "no deposit bonus ireland",
+        "volume": 200,
+        "section_title": "No Deposit Bonus Ireland: Get Started Free",
+        "word_count": 400,
+        "requirements": "Explain no deposit offers, list brands offering them, claiming process without deposit"
+      },
+      {
+        "keyword": "free bet no deposit ireland",
+        "volume": 100,
+        "section_title": "Free Bet No Deposit Ireland: Complete Guide",
+        "word_count": 350,
+        "requirements": "How to claim without depositing, verification requirements, value comparison"
+      },
+      {
+        "keyword": "betting offers ireland",
+        "volume": 60,
+        "section_title": "Best Betting Offers Ireland: Beyond Free Bets",
+        "word_count": 350,
+        "requirements": "Other promotions available (acca insurance, odds boosts, cashback), comparison to free bets"
+      }
+    ],
+    "h3_keywords": [
+      {
+        "keyword": "irish betting sites",
+        "volume": 400,
+        "parent_section": "Introduction / Market Overview",
+        "section_title": "Irish Betting Sites: Free Bet Landscape",
+        "word_count": 200,
+        "requirements": "Context about traditional Irish bookmakers vs international sites, regulatory environment"
+      },
+      {
+        "keyword": "online betting sites ireland",
+        "volume": 200,
+        "parent_section": "How to Claim Free Bets",
+        "section_title": "Online Betting Sites Ireland: Claiming Process",
+        "word_count": 150,
+        "requirements": "Desktop vs mobile claiming, account verification for Irish players"
+      },
+      {
+        "keyword": "best gambling sites ireland",
+        "volume": 150,
+        "parent_section": "Types of Free Bets Explained",
+        "section_title": "Best Gambling Sites Ireland: Offer Comparison",
+        "word_count": 150,
+        "requirements": "Compare free bet quality across gambling sites, sports vs casino offers"
+      },
+      {
+        "keyword": "betting sites with free bets",
+        "volume": 100,
+        "parent_section": "Comparison Table Section",
+        "section_title": "Betting Sites with Free Bets: Quick Comparison",
+        "word_count": 100,
+        "requirements": "Introduce the comparison table, filtering options"
+      },
+      {
+        "keyword": "casino bonus ireland",
+        "volume": 150,
+        "parent_section": "Types of Free Bets Explained",
+        "section_title": "Casino Bonus Ireland vs Sports Free Bets",
+        "word_count": 150,
+        "requirements": "Explain difference between casino bonuses and sports free bets, crossover offers"
+      },
+      {
+        "keyword": "no deposit casino bonus ireland",
+        "volume": 100,
+        "parent_section": "No Deposit Bonus Section",
+        "section_title": "No Deposit Casino Bonus Ireland: Sports Crossover",
+        "word_count": 100,
+        "requirements": "Brands offering both casino and sports no deposit bonuses"
+      }
+    ],
+    "faq_keywords": [
+      {
+        "keyword": "best online bookies",
+        "volume": 90,
+        "question": "What are the best online bookies for free bets in Ireland?",
+        "answer_length": "120-150 words",
+        "requirements": "List top 3-5 brands, explain selection criteria, link to individual reviews"
+      },
+      {
+        "keyword": "welcome offer",
+        "volume": 80,
+        "question": "How do welcome offers work at Irish betting sites?",
+        "answer_length": "120-150 words",
+        "requirements": "Explain welcome offer structure, typical requirements, expiry periods"
+      },
+      {
+        "keyword": "free bet casino",
+        "volume": 70,
+        "question": "Can I use free bets on casino games in Ireland?",
+        "answer_length": "100-120 words",
+        "requirements": "Clarify sports-only vs casino-eligible free bets, hybrid offers"
+      },
+      {
+        "keyword": "free bet offers ireland",
+        "volume": 40,
+        "question": "What are the current free bet offers in Ireland?",
+        "answer_length": "120-150 words",
+        "requirements": "Highlight top 3 current offers with amounts, link to updated comparison table"
+      },
+      {
+        "keyword": "free 10 euro no deposit",
+        "volume": 40,
+        "question": "Which sites offer free €10 no deposit bonuses in Ireland?",
+        "answer_length": "100-120 words",
+        "requirements": "List specific brands with €10 offers, claiming instructions"
+      },
+      {
+        "question": "What are wagering requirements on Irish free bets?",
+        "volume": 0,
+        "keyword_target": "wagering requirements (supporting)",
+        "answer_length": "120-150 words",
+        "requirements": "Explain typical Irish wagering requirements (1x to 5x), compare across brands"
+      },
+      {
+        "question": "Are free bets valid for GAA betting in Ireland?",
+        "volume": 0,
+        "keyword_target": "GAA betting (local relevance)",
+        "answer_length": "100-120 words",
+        "requirements": "Confirm GAA eligibility, mention popular GAA markets for free bets"
+      },
+      {
+        "question": "How do I claim free bets on my mobile in Ireland?",
+        "volume": 0,
+        "keyword_target": "mobile betting (user intent)",
+        "answer_length": "120-150 words",
+        "requirements": "Mobile claiming process, app vs browser, verification on mobile"
+      },
+      {
+        "question": "Do Irish free bets expire?",
+        "volume": 0,
+        "keyword_target": "free bet expiry (common question)",
+        "answer_length": "100-120 words",
+        "requirements": "Typical expiry periods (7-30 days), importance of T&Cs checking"
+      },
+      {
+        "question": "Can I withdraw free bet winnings immediately in Ireland?",
+        "volume": 0,
+        "keyword_target": "withdrawal (transactional intent)",
+        "answer_length": "120-150 words",
+        "requirements": "Explain wagering requirements before withdrawal, processing times for Irish players"
+      }
+    ]
+  },
+  "content_outline": {
+    "h1": "Best Free Bets Ireland: Top No Deposit Offers & Betting Bonuses",
+    "sections": [
+      {
+        "type": "last_updated_badge",
+        "placement": "Immediately after H1",
+        "technical_note": "HTML badge with dynamic date - see Phase 3"
+      },
+      {
+        "section_number": 1,
+        "title": "Introduction",
+        "word_count": 150,
+        "structure": [
+          "Sentence 1: Direct answer - top 3 free bet offers with amounts",
+          "Sentence 2: Authority statement (testing methodology)",
+          "Sentences 3-4: What makes a good free bet offer",
+          "Disclosure paragraph (50-75 words)"
+        ],
+        "keyword_integration": "free bets ireland (first sentence), irish betting sites (context)",
+        "forbidden": "No 'Welcome to...', no rhetorical questions, no dated language",
+        "internal_links": [
+          "Link to Ireland betting hub",
+          "Link to best betting sites Ireland"
+        ]
+      },
+      {
+        "section_number": 2,
+        "title": "Quick Answer Box",
+        "word_count": 100,
+        "structure": [
+          "Top 3 free bet offers in bullet format",
+          "Key benefit for each",
+          "Link to full review"
+        ],
+        "styling": "Bordered box, distinct background color"
+      },
+      {
+        "section_number": 3,
+        "title": "Betting Sites with Free Bets: Interactive Comparison",
+        "type": "h3",
+        "word_count": 100,
+        "requirements": "Introduce comparison table, explain sortable columns, filtering by offer type",
+        "keyword": "betting sites with free bets"
+      },
+      {
+        "section_number": 4,
+        "title": "Free Bets Ireland Comparison Table",
+        "type": "interactive_table",
+        "word_count": 0,
+        "technical_requirements": "Sortable table with ALL 10 brands - see Phase 3 for HTML/JS",
+        "columns": [
+          "Brand",
+          "Free Bet Amount",
+          "Offer Type (Matched/No Deposit/Risk-Free)",
+          "Min Deposit",
+          "Wagering Requirements",
+          "Expiry",
+          "Promo Code",
+          "Claim CTA"
+        ]
+      },
+      {
+        "section_number": 5,
+        "title": "Individual Free Bet Reviews (10 Brands)",
+        "total_word_count": 5000,
+        "per_brand_word_count": 500,
+        "brands": [
+          {
+            "position": 1,
+            "name": "Lunubet",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Lunubet Free Bet: Key Details",
+                "word_count": 150,
+                "requirements": "Free bet amount, offer type, wagering requirements, expiry"
+              },
+              {
+                "title": "Mobile Experience: Lunubet App & Mobile Site",
+                "word_count": 125,
+                "requirements": "App availability (iOS/Android), mobile claiming process, mobile-specific features, user experience"
+              },
+              {
+                "title": "How to Claim the Lunubet Free Bet",
+                "word_count": 100,
+                "requirements": "Step-by-step (registration, deposit if required, promo code, activation)"
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75,
+                "requirements": "Key T&Cs (min odds, bet types excluded, max winnings)"
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50,
+                "requirements": "True value after wagering requirements, comparison to market average"
+              }
+            ]
+          },
+          {
+            "position": 2,
+            "name": "Betalright",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Betalright Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Betalright App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Betalright Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 3,
+            "name": "Casina",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Casina Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Casina App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Casina Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 4,
+            "name": "Festival Play",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Festival Play Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Festival Play App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Festival Play Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 5,
+            "name": "Millioner",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Millioner Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Millioner App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Millioner Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 6,
+            "name": "Betovo",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Betovo Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Betovo App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Betovo Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 7,
+            "name": "22bet",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "22bet Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: 22bet App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the 22bet Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 8,
+            "name": "Big Clash",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Big Clash Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Big Clash App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Big Clash Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 9,
+            "name": "Rabona",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Rabona Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Rabona App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Rabona Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          },
+          {
+            "position": 10,
+            "name": "Wonder Luck",
+            "word_count": 500,
+            "subsections": [
+              {
+                "title": "Wonder Luck Free Bet: Key Details",
+                "word_count": 150
+              },
+              {
+                "title": "Mobile Experience: Wonder Luck App & Mobile Site",
+                "word_count": 125
+              },
+              {
+                "title": "How to Claim the Wonder Luck Free Bet",
+                "word_count": 100
+              },
+              {
+                "title": "Terms & Conditions Breakdown",
+                "word_count": 75
+              },
+              {
+                "title": "Value Assessment",
+                "word_count": 50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 6,
+        "title": "No Deposit Bonus Ireland: Get Started Free",
+        "type": "h2",
+        "word_count": 400,
+        "keyword": "no deposit bonus ireland",
+        "structure": [
+          "What is a no deposit bonus",
+          "Which brands offer no deposit in Ireland",
+          "How to claim without depositing",
+          "Verification requirements for Irish players",
+          "Wagering requirements comparison"
+        ],
+        "subsections": [
+          {
+            "title": "No Deposit Casino Bonus Ireland: Sports Crossover",
+            "type": "h3",
+            "word_count": 100,
+            "keyword": "no deposit casino bonus ireland",
+            "requirements": "Brands offering both casino and sports no deposit bonuses, claiming process"
+          }
+        ],
+        "internal_links": [
+          "Link to no deposit bonus calculator",
+          "Link to wagering requirements guide"
+        ]
+      },
+      {
+        "section_number": 7,
+        "title": "Free Bet No Deposit Ireland: Complete Guide",
+        "type": "h2",
+        "word_count": 350,
+        "keyword": "free bet no deposit ireland",
+        "structure": [
+          "Difference between no deposit free bets and deposit bonuses",
+          "Typical amounts (€5-€20)",
+          "Registration-only vs verification requirements",
+          "Value comparison vs matched bonuses",
+          "Best uses for no deposit free bets"
+        ],
+        "internal_links": [
+          "Link to matched betting guide"
+        ]
+      },
+      {
+        "section_number": 8,
+        "title": "Types of Free Bets Explained",
+        "type": "h2",
+        "word_count": 450,
+        "structure": [
+          "Matched free bets (deposit match)",
+          "Risk-free bets (refund if loses)",
+          "No deposit free bets",
+          "Cash vs bonus bets",
+          "Accumulator insurance as free bets"
+        ],
+        "subsections": [
+          {
+            "title": "Best Gambling Sites Ireland: Offer Comparison",
+            "type": "h3",
+            "word_count": 150,
+            "keyword": "best gambling sites ireland",
+            "requirements": "Compare free bet quality across gambling sites, sports vs casino offers"
+          },
+          {
+            "title": "Casino Bonus Ireland vs Sports Free Bets",
+            "type": "h3",
+            "word_count": 150,
+            "keyword": "casino bonus ireland",
+            "requirements": "Explain difference between casino bonuses and sports free bets, crossover offers"
+          }
+        ]
+      },
+      {
+        "section_number": 9,
+        "title": "How to Claim Free Bets in Ireland",
+        "type": "h2",
+        "word_count": 400,
+        "structure": [
+          "Step 1: Choose a licensed operator",
+          "Step 2: Register account with Irish details",
+          "Step 3: Verify identity (passport/driver's license)",
+          "Step 4: Make qualifying deposit (if required)",
+          "Step 5: Enter promo code (if required)",
+          "Step 6: Place qualifying bet",
+          "Step 7: Receive and activate free bet"
+        ],
+        "subsections": [
+          {
+            "title": "Online Betting Sites Ireland: Claiming Process",
+            "type": "h3",
+            "word_count": 150,
+            "keyword": "online betting sites ireland",
+            "requirements": "Desktop vs mobile claiming, account verification for Irish players, required documents"
+          }
+        ],
+        "internal_links": [
+          "Link to Ireland betting guide",
+          "Link to responsible gambling Ireland"
+        ]
+      },
+      {
+        "section_number": 10,
+        "title": "Wagering Requirements Guide",
+        "type": "h2",
+        "word_count": 350,
+        "structure": [
+          "What are wagering requirements",
+          "Typical requirements for Irish free bets (1x to 5x)",
+          "How to calculate true value",
+          "Comparison across featured brands",
+          "What to look for in T&Cs"
+        ],
+        "internal_links": [
+          "Link to wagering requirements calculator"
+        ]
+      },
+      {
+        "section_number": 11,
+        "title": "Sports Betting Ireland: Best Free Bet Markets",
+        "type": "h2",
+        "word_count": 400,
+        "keyword": "sports betting ireland",
+        "structure": [
+          "GAA betting with free bets (football and hurling)",
+          "Horse racing free bets (Cheltenham, Punchestown, Galway Races)",
+          "Rugby betting (Six Nations, Heineken Cup)",
+          "Soccer free bets (Premier League, Champions League)",
+          "Market restrictions on free bets"
+        ],
+        "ireland_specific": "Emphasize GAA and horse racing as uniquely Irish angles",
+        "internal_links": [
+          "Link to GAA betting guide (if available)",
+          "Link to horse racing betting Ireland"
+        ]
+      },
+      {
+        "section_number": 12,
+        "title": "Best Betting Offers Ireland: Beyond Free Bets",
+        "type": "h2",
+        "word_count": 350,
+        "keyword": "betting offers ireland",
+        "structure": [
+          "Accumulator insurance and acca boosts",
+          "Enhanced odds promotions",
+          "Cashback offers",
+          "Loyalty programs and VIP schemes",
+          "Reload bonuses vs free bets"
+        ],
+        "internal_links": [
+          "Link to best betting offers Ireland hub",
+          "Link to accumulator betting guide"
+        ]
+      },
+      {
+        "section_number": 13,
+        "title": "Free Bet Value Calculator",
+        "type": "h2",
+        "word_count": 200,
+        "structure": [
+          "Link to interactive calculator tool",
+          "How to calculate true value of free bet offers",
+          "Example calculation (€50 free bet with 3x wagering)",
+          "Comparing offers using expected value"
+        ],
+        "technical_note": "Link to standalone calculator page or embed calculator",
+        "internal_links": [
+          "Link to free bet calculator tool",
+          "Link to odds converter"
+        ]
+      },
+      {
+        "section_number": 14,
+        "title": "Payment Methods for Irish Betting Sites",
+        "type": "h2",
+        "word_count": 300,
+        "structure": [
+          "Popular Irish deposit options (Visa, Mastercard, PayPal, Apple Pay)",
+          "Deposit methods that qualify for free bets",
+          "Excluded payment methods (e-wallets often excluded)",
+          "Withdrawal methods for free bet winnings",
+          "Processing times for Irish players"
+        ]
+      },
+      {
+        "section_number": 15,
+        "title": "How We Test & Rank Irish Free Bets",
+        "type": "h2",
+        "word_count": 400,
+        "structure": [
+          "Testing methodology",
+          "Evaluation criteria: bonus amount, wagering requirements, expiry, restrictions",
+          "Real money testing with Irish accounts",
+          "Source transparency (T&Cs verification)",
+          "Regular updates process"
+        ]
+      },
+      {
+        "section_number": 16,
+        "title": "FAQs: Free Bets Ireland",
+        "type": "h2",
+        "word_count": 1300,
+        "requirements": "10 FAQ questions with schema markup - see keyword_mapping.faq_keywords for details",
+        "structure": "Each FAQ 100-150 words with direct answer first"
+      },
+      {
+        "section_number": 17,
+        "title": "Responsible Gambling in Ireland",
+        "type": "h2",
+        "word_count": 200,
+        "structure": [
+          "Age requirement: 18+ in Ireland",
+          "Irish gambling support resources",
+          "Problem Gambling Ireland helpline",
+          "Setting deposit limits before claiming bonuses",
+          "Self-exclusion options"
+        ],
+        "compliance": "Ireland-specific resources and legal age (18+ not 21+)"
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier_1_mandatory": [
+      "Official brand T&Cs pages for each free bet offer (direct verification)",
+      "App Store reviews for mobile experience insights (iOS ratings and user feedback)",
+      "Google Play reviews for mobile experience insights (Android ratings and user feedback)",
+      "Reddit discussions about Irish free bets (r/irishgambling, r/sportsbook threads)",
+      "Trustpilot reviews for brand reputation in Ireland"
+    ],
+    "tier_2_verification": [
+      "Brand official websites for current offer amounts and terms",
+      "Irish Revenue / Department of Justice for licensing verification",
+      "Payment provider sites for deposit method confirmation"
+    ],
+    "tier_4_sparingly": [
+      "Competitor affiliate sites for research gaps ONLY",
+      "NEVER cite affiliate sites for pros/cons or recommendations"
+    ],
+    "citation_format": [
+      "App Store: '[Brand] rated 4.5/5 (12.5K reviews) - analyzed Jan 2025'",
+      "Reddit: 'Reddit users report [finding] across 15 threads in r/irishgambling'",
+      "T&Cs: 'Verified from [Brand] Terms & Conditions, accessed [date]'"
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "Ireland betting hub",
+      "target": "/sport/betting/ireland/",
+      "placement": "Introduction"
+    },
+    {
+      "anchor": "best betting sites Ireland",
+      "target": "/sport/betting/ireland/best-sites.htm",
+      "placement": "Introduction, Free Bet Reviews"
+    },
+    {
+      "anchor": "best betting apps Ireland",
+      "target": "/sport/betting/ireland/best-apps.htm",
+      "placement": "Mobile Experience sections"
+    },
+    {
+      "anchor": "sports betting Ireland guide",
+      "target": "/sport/betting/ireland/sports-betting.htm",
+      "placement": "Sports Betting section"
+    },
+    {
+      "anchor": "free bet calculator",
+      "target": "/sport/betting/calculators/free-bet-value.htm",
+      "placement": "Free Bet Value Calculator section"
+    },
+    {
+      "anchor": "odds calculator",
+      "target": "/sport/betting/calculators/odds.htm",
+      "placement": "Calculator section"
+    },
+    {
+      "anchor": "wagering requirements calculator",
+      "target": "/sport/betting/calculators/wagering.htm",
+      "placement": "Wagering Requirements section"
+    },
+    {
+      "anchor": "how to claim bonuses guide",
+      "target": "/sport/betting/guides/claim-bonuses.htm",
+      "placement": "How to Claim section"
+    },
+    {
+      "anchor": "responsible gambling Ireland",
+      "target": "/sport/betting/ireland/responsible-gambling.htm",
+      "placement": "Responsible Gambling section, Footer"
+    },
+    {
+      "anchor": "no deposit bonus guide",
+      "target": "/sport/betting/guides/no-deposit.htm",
+      "placement": "No Deposit Bonus section"
+    },
+    {
+      "anchor": "matched betting guide",
+      "target": "/sport/betting/guides/matched-betting.htm",
+      "placement": "Free Bet No Deposit section"
+    },
+    {
+      "anchor": "GAA betting guide",
+      "target": "/sport/betting/ireland/gaa.htm",
+      "placement": "Sports Betting Ireland section"
+    }
+  ],
+  "brand_details": [
+    {
+      "position": 1,
+      "name": "Lunubet",
+      "focus_areas": [
+        "Free bet amount and offer type",
+        "Mobile app experience (iOS/Android availability)",
+        "GAA betting markets",
+        "Wagering requirements",
+        "Irish payment methods"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Betalright",
+      "focus_areas": [
+        "No deposit bonus availability",
+        "Mobile claiming process",
+        "Horse racing free bet markets",
+        "Terms clarity",
+        "Customer support for Irish players"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Casina",
+      "focus_areas": [
+        "Casino/sports crossover offers",
+        "Mobile site responsiveness",
+        "Wagering requirements comparison",
+        "Promo code requirements",
+        "Expiry periods"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Festival Play",
+      "focus_areas": [
+        "Matched free bet structure",
+        "Mobile app features",
+        "Rugby betting markets",
+        "Minimum deposit requirements",
+        "Withdrawal process"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Millioner",
+      "focus_areas": [
+        "Free bet value comparison",
+        "Mobile experience quality",
+        "Soccer betting options",
+        "Terms transparency",
+        "Payment processing speed"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Betovo",
+      "focus_areas": [
+        "Risk-free bet offers",
+        "Mobile optimization",
+        "Live betting with free bets",
+        "Wagering requirements",
+        "Customer reviews"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "22bet",
+      "focus_areas": [
+        "Bonus amount competitiveness",
+        "Mobile app functionality",
+        "Market variety",
+        "Terms complexity",
+        "International reputation"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Big Clash",
+      "focus_areas": [
+        "Welcome offer structure",
+        "Mobile claiming ease",
+        "Irish sports coverage",
+        "Wagering requirements",
+        "Support quality"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Rabona",
+      "focus_areas": [
+        "Free bet flexibility",
+        "Mobile site performance",
+        "Accumulator options",
+        "Terms clarity",
+        "Reload bonuses"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Wonder Luck",
+      "focus_areas": [
+        "No deposit options",
+        "Mobile experience",
+        "Niche sports coverage",
+        "Wagering requirements",
+        "VIP program"
+      ]
+    }
+  ],
+  "ireland_compliance": {
+    "legal_age": "18+ (Ireland legal gambling age)",
+    "currency": "EUR (all amounts in euros)",
+    "licensing": "Reference Irish gambling regulation and licensing",
+    "support_resources": [
+      "Problem Gambling Ireland",
+      "Gamblers Anonymous Ireland",
+      "National Gambling Helpline: 089 241 5401"
+    ],
+    "payment_methods": "Highlight Irish-popular methods: Visa, Mastercard, PayPal, Apple Pay, Revolut",
+    "sports_angle": "Emphasize GAA (Gaelic football, hurling) and horse racing as uniquely Irish betting markets"
+  },
+  "technical_handoff_to_phase3": {
+    "interactive_elements": [
+      "Sortable comparison table (10 brands)",
+      "Free bet value calculator (standalone or embedded)",
+      "Wagering requirements calculator",
+      "Mobile-responsive design for all tables"
+    ],
+    "schema_markup": [
+      "Article schema (page-level)",
+      "FAQ schema (10 questions)",
+      "Breadcrumb schema"
+    ],
+    "complete_tcas_required": "ALL 10 brands need full T&Cs verification - no placeholders",
+    "last_updated_badge": "Dynamic HTML badge after H1",
+    "meta_tags": "See seo_metadata section"
+  },
+  "quality_checklist": {
+    "keyword_optimization": [
+      "Primary keyword in H1, first sentence, URL",
+      "All 14 secondary keywords mapped to sections",
+      "10 FAQ questions targeting keywords",
+      "Natural keyword integration (no stuffing)"
+    ],
+    "content_completeness": [
+      "10 brand reviews at 500 words each",
+      "Mobile Experience subsection per brand (100-150 words)",
+      "All H2 sections meet word count targets",
+      "12 internal links implemented",
+      "GAA and horse racing angles included"
+    ],
+    "sources": [
+      "Tier 1 sources for all claims",
+      "App Store/Google Play citations for mobile",
+      "Reddit insights for user experience",
+      "T&Cs directly verified"
+    ],
+    "compliance": [
+      "18+ age requirement (not 21+)",
+      "Irish gambling support resources",
+      "EUR currency throughout",
+      "Irish payment methods highlighted",
+      "Affiliate disclosure in intro"
+    ]
+  }
+}

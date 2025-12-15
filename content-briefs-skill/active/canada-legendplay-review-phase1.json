@@ -1,0 +1,345 @@
+{
+  "page_name": "canada-legendplay-review",
+  "page_url": "/sport/betting/canada/legendplay-review.htm",
+  "page_title": "Legendplay Sport Review Canada - Complete Sportsbook Evaluation",
+  "market": "canada",
+  "compliance": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "helpline": "1-800-463-1554 (ConnexOntario)",
+    "provincial_variations": true
+  },
+  "template_type": 1,
+  "template_name": "Brand Review",
+  "writer": "Tom Goldsmith",
+  "priority": "Medium",
+  "target_word_count": 3500,
+
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "legendplay",
+      "volume": 250,
+      "difficulty": 0,
+      "traffic_potential": 150,
+      "country": "ca"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "legendplay promo code",
+        "volume": 30,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3: Welcome Bonus & Promotions"
+      },
+      {
+        "keyword": "legendplay casino",
+        "volume": 20,
+        "difficulty": 0,
+        "traffic_potential": 150,
+        "placement": "H3: Betting Markets & Game Selection"
+      },
+      {
+        "keyword": "legend play casino",
+        "volume": 50,
+        "difficulty": 10,
+        "traffic_potential": 150,
+        "placement": "Natural mention"
+      },
+      {
+        "keyword": "legendplay review",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H1 and throughout"
+      },
+      {
+        "keyword": "betting sites canada",
+        "volume": 1400,
+        "difficulty": 79,
+        "traffic_potential": 23000,
+        "placement": "H2: How Legendplay Compares to Canadian Sportsbooks"
+      },
+      {
+        "keyword": "online sports betting canada",
+        "volume": 700,
+        "difficulty": 84,
+        "traffic_potential": 23000,
+        "placement": "Introduction"
+      },
+      {
+        "keyword": "best sportsbooks canada",
+        "volume": 400,
+        "difficulty": 76,
+        "traffic_potential": 700,
+        "placement": "H2: Alternative Canadian Sportsbooks"
+      },
+      {
+        "keyword": "canadian sportsbooks",
+        "volume": 400,
+        "difficulty": 80,
+        "traffic_potential": 19000,
+        "placement": "Introduction"
+      },
+      {
+        "keyword": "canadian betting apps",
+        "volume": 250,
+        "difficulty": 77,
+        "traffic_potential": 19000,
+        "placement": "H2: Mobile App Experience"
+      },
+      {
+        "keyword": "sports betting ontario",
+        "volume": 1100,
+        "difficulty": 82,
+        "traffic_potential": 3000,
+        "placement": "H3: Provincial Availability"
+      },
+      {
+        "keyword": "nhl betting canada",
+        "volume": 200,
+        "difficulty": 75,
+        "traffic_potential": 800,
+        "placement": "H3: Sports Coverage"
+      },
+      {
+        "keyword": "bet365 canada",
+        "volume": 9700,
+        "difficulty": 77,
+        "traffic_potential": 216000,
+        "placement": "FAQ: How does Legendplay compare to Bet365?"
+      }
+    ],
+    "total_volume": 14760,
+    "volume_increase_percent": "5804%"
+  },
+
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "url": "https://www.canadasportsbetting.ca/",
+      "domain": "canadasportsbetting.ca",
+      "domain_rating": 54,
+      "traffic": 22416,
+      "keywords": 785,
+      "brands_covered": 6,
+      "estimated_word_count": 3759,
+      "key_sections": [
+        "Overall rating",
+        "Sports leagues & odds",
+        "Payment methods",
+        "Customer support & experience",
+        "Visual screenshots",
+        "Provincial breakdowns",
+        "FAQ accordion"
+      ]
+    },
+    "other_competitors": [
+      {
+        "url": "https://www.covers.com/betting/canada",
+        "domain": "covers.com",
+        "domain_rating": 73,
+        "traffic": 2102,
+        "approach": "Comprehensive Canadian betting guide"
+      },
+      {
+        "url": "https://www.sportsbookreview.com/betting-sites-canada/",
+        "domain": "sportsbookreview.com",
+        "domain_rating": 71,
+        "traffic": 625,
+        "approach": "Trusted sports betting sites list"
+      }
+    ],
+    "content_gaps": [
+      "Legendplay-specific detailed review (minimal competition)",
+      "Payment methods comparison for Canadian bettors",
+      "Provincial-specific legal information",
+      "Mobile app deep dive",
+      "Comparison to major operators (Bet365, Sports Interaction)",
+      "CAD currency support details",
+      "Canadian banking methods (Interac, etc.)"
+    ]
+  },
+
+  "brand_info": {
+    "brand_name": "Legendplay",
+    "badge_text": "LGP",
+    "badge_color": "#0288D1",
+    "market_position": "Emerging Canadian sportsbook and casino operator",
+    "key_differentiators": [
+      "Combined sports and casino platform",
+      "Focuses on Canadian market",
+      "Newer operator with competitive bonuses",
+      "International sports coverage"
+    ]
+  },
+
+  "comparison_brands": {
+    "note": "For context/comparison sections only - this is a single brand review",
+    "alternatives": [
+      {
+        "name": "Bet365",
+        "badge": "365",
+        "color": "#027B5B",
+        "reason": "Market leader in Canada - 9,700 monthly searches"
+      },
+      {
+        "name": "Sports Interaction",
+        "reason": "Established Canadian operator"
+      },
+      {
+        "name": "BetVictor",
+        "reason": "Popular in Canadian market"
+      },
+      {
+        "name": "TonyBet",
+        "reason": "Competitor in Canadian space"
+      }
+    ]
+  },
+
+  "content_sections": {
+    "required": [
+      "Header & Introduction (200-250 words)",
+      "Rating Summary (150-200 words)",
+      "Comprehensive Feature Analysis (800-1000 words)",
+      "Mobile App Experience (300-400 words)",
+      "Detailed Bonus Breakdown (300-350 words)",
+      "Terms & Conditions Summary (300-350 words)",
+      "Pros & Cons Summary (200-250 words)",
+      "FAQ Section (400-500 words, 8-10 questions)",
+      "Closing Recommendation (100-150 words)",
+      "Updated Information & Disclaimer (50-75 words)"
+    ],
+    "canada_specific": [
+      "Provincial availability section",
+      "CAD currency support",
+      "Canadian payment methods (Interac, EFT)",
+      "NHL and CFL betting coverage",
+      "Canadian banking processing times",
+      "Provincial age requirements",
+      "Responsible gambling resources (Canada-specific)"
+    ]
+  },
+
+  "internal_links": [
+    {
+      "anchor": "best sportsbooks Canada",
+      "url": "/sport/betting/canada/best-betting-sites.htm",
+      "context": "Comparison section"
+    },
+    {
+      "anchor": "sports betting Ontario",
+      "url": "/sport/betting/canada/ontario-betting.htm",
+      "context": "Provincial availability"
+    },
+    {
+      "anchor": "Bet365 Canada review",
+      "url": "/sport/betting/canada/bet365-review.htm",
+      "context": "Alternative recommendations"
+    },
+    {
+      "anchor": "NHL betting guide",
+      "url": "/sport/betting/nhl-betting.htm",
+      "context": "Sports coverage section"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "context": "Betting tools section"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "context": "Betting tools section"
+    },
+    {
+      "anchor": "Canadian betting apps",
+      "url": "/sport/betting/canada/best-betting-apps.htm",
+      "context": "Mobile app section"
+    },
+    {
+      "anchor": "responsible gambling Canada",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "context": "Footer section"
+    },
+    {
+      "anchor": "how to withdraw from sportsbooks",
+      "url": "/sport/betting/guides/how-to-withdraw.htm",
+      "context": "Payment methods section"
+    },
+    {
+      "anchor": "sports betting bonuses explained",
+      "url": "/sport/betting/guides/bonuses-explained.htm",
+      "context": "Bonus section"
+    },
+    {
+      "anchor": "CFL betting odds",
+      "url": "/sport/betting/cfl-betting.htm",
+      "context": "Sports coverage"
+    },
+    {
+      "anchor": "live betting guide",
+      "url": "/sport/betting/guides/live-betting.htm",
+      "context": "Features section"
+    }
+  ],
+
+  "strategic_direction": [
+    "Position Legendplay as emerging Canadian operator with competitive features",
+    "Compare to established operators (Bet365, Sports Interaction) for context",
+    "Emphasize Canadian-specific features (CAD, Interac, NHL/CFL coverage)",
+    "Highlight newer platform advantages (modern interface, competitive bonuses)",
+    "Address trust/legitimacy concerns for newer operator",
+    "Focus on casino + sports combination as unique angle",
+    "Provincial licensing and regulatory compliance emphasis"
+  ],
+
+  "technical_requirements": [
+    "Last Updated badge with current date",
+    "Letter badge (LGP) with color #0288D1",
+    "Affiliate disclosure prominent in intro",
+    "Rating display (5-star system)",
+    "Payment methods comparison table",
+    "Provincial availability table",
+    "Pros/Cons formatted list",
+    "FAQ schema markup for 8-10 questions",
+    "Mobile app store rating badges",
+    "Terms & Conditions formatted table",
+    "Quick answer box in intro",
+    "Responsible gambling footer (Canada resources)"
+  ],
+
+  "source_requirements": {
+    "tier_1": [
+      "Legendplay.com official website",
+      "Provincial gaming regulators (AGCO, etc.)",
+      "Reddit r/sportsbook Canada threads",
+      "Trustpilot Legendplay reviews",
+      "App Store / Google Play reviews"
+    ],
+    "tier_2": [
+      "Canadian gambling news sites",
+      "Payment processor documentation (Interac, etc.)",
+      "Competitor sportsbook comparisons",
+      "Industry reports on Canadian betting market"
+    ]
+  },
+
+  "faq_questions": [
+    "Is Legendplay legal and safe in Canada?",
+    "What is Legendplay's welcome bonus for Canadian players?",
+    "What sports can I bet on at Legendplay?",
+    "How do I withdraw money from Legendplay in Canada?",
+    "Is Legendplay available in my province?",
+    "How does Legendplay compare to Bet365 in Canada?",
+    "Does Legendplay accept Canadian dollars (CAD)?",
+    "What payment methods does Legendplay accept in Canada?",
+    "Can I bet on NHL games at Legendplay?",
+    "Does Legendplay have a mobile app for Canadian users?"
+  ],
+
+  "metadata": {
+    "created": "2025-12-15",
+    "phase": 1,
+    "status": "complete",
+    "next_phase": "Phase 2 - Writer Brief Creation"
+  }
+}

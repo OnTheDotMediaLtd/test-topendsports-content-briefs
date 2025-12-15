@@ -1,0 +1,411 @@
+{
+  "page_info": {
+    "url": "/sport/betting/ireland/football-betting-sites.htm",
+    "page_name": "ireland-football-betting-sites",
+    "market": "Ireland",
+    "template_type": "comparison",
+    "writer": "Lewis Humphries",
+    "priority": "HIGH",
+    "date_created": "2025-12-15"
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "football betting sites ireland",
+      "volume": 100,
+      "difficulty": 77,
+      "traffic_potential": 2100,
+      "rationale": "Direct match for comparison page intent, targets Ireland market specifically"
+    },
+    "alternative_primary": {
+      "keyword": "irish betting sites",
+      "volume": 400,
+      "difficulty": 81,
+      "traffic_potential": 1800,
+      "rationale": "Higher volume, broader but includes football betting sites"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "boylesports app",
+        "volume": 7900,
+        "difficulty": 78,
+        "traffic_potential": 13000,
+        "target_section": "BoyleSports brand section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "paddy power football",
+        "volume": 4100,
+        "difficulty": 81,
+        "traffic_potential": 27000,
+        "target_section": "Paddy Power brand section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "paddy power app",
+        "volume": 2500,
+        "difficulty": 71,
+        "traffic_potential": 273000,
+        "target_section": "Paddy Power brand section",
+        "placement": "H3"
+      },
+      {
+        "keyword": "bet365 app",
+        "volume": 1500,
+        "difficulty": 76,
+        "traffic_potential": 307000,
+        "target_section": "Bet365 brand section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "football odds",
+        "volume": 900,
+        "difficulty": 88,
+        "traffic_potential": 27000,
+        "target_section": "Odds comparison section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "football betting tips",
+        "volume": 900,
+        "difficulty": 85,
+        "traffic_potential": 700,
+        "target_section": "FAQ or tips section",
+        "placement": "H3"
+      },
+      {
+        "keyword": "bet365 football",
+        "volume": 800,
+        "difficulty": 84,
+        "traffic_potential": 600,
+        "target_section": "Bet365 brand section",
+        "placement": "H3"
+      },
+      {
+        "keyword": "soccer betting",
+        "volume": 700,
+        "difficulty": 82,
+        "traffic_potential": 52000,
+        "target_section": "Introduction / natural mention",
+        "placement": "Natural"
+      },
+      {
+        "keyword": "ladbrokes app",
+        "volume": 700,
+        "difficulty": 64,
+        "traffic_potential": 600,
+        "target_section": "Ladbrokes brand section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "boylesports online betting",
+        "volume": 600,
+        "difficulty": 38,
+        "traffic_potential": 238000,
+        "target_section": "BoyleSports brand section",
+        "placement": "H3"
+      },
+      {
+        "keyword": "football betting",
+        "volume": 600,
+        "difficulty": 87,
+        "traffic_potential": 29000,
+        "target_section": "Introduction / H1",
+        "placement": "H1/Intro"
+      },
+      {
+        "keyword": "betvictor app",
+        "volume": 600,
+        "difficulty": 65,
+        "traffic_potential": 250,
+        "target_section": "BetVictor brand section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "premier league betting",
+        "volume": 500,
+        "difficulty": 82,
+        "traffic_potential": 2600,
+        "target_section": "Premier League betting section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "difficulty": 82,
+        "traffic_potential": 2200,
+        "target_section": "Introduction / Ireland section",
+        "placement": "H2"
+      },
+      {
+        "keyword": "best betting sites",
+        "volume": 300,
+        "difficulty": 66,
+        "traffic_potential": 1800,
+        "target_section": "Comparison table / intro",
+        "placement": "Natural"
+      }
+    ],
+    "total_search_volume": 22000,
+    "volume_increase_percentage": "22,000%"
+  },
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "domain": "oddschecker.com",
+      "url": "https://www.oddschecker.com/ie/betting/football",
+      "estimated_word_count": 5000,
+      "brands_covered": 8,
+      "key_sections": [
+        "Best football betting sites overview",
+        "Individual bookmaker reviews",
+        "Odds comparison",
+        "Premier League betting",
+        "Champions League betting",
+        "Betting tips",
+        "FAQs"
+      ]
+    },
+    "competitor_2": {
+      "domain": "bookies.com",
+      "url": "https://www.bookies.com/guides/football-betting",
+      "estimated_word_count": 6000,
+      "brands_covered": 10,
+      "key_sections": [
+        "Top football bookmakers",
+        "Betting markets explained",
+        "Mobile apps comparison",
+        "Payment methods",
+        "Live betting"
+      ]
+    },
+    "competitor_3": {
+      "domain": "betting.com",
+      "url": "https://www.betting.com/ie/football/",
+      "estimated_word_count": 5500,
+      "brands_covered": 9,
+      "key_sections": [
+        "Football betting sites ranked",
+        "Premier League focus",
+        "Irish bookmakers",
+        "Betting strategies",
+        "Responsible gambling"
+      ]
+    },
+    "content_gaps": [
+      "Limited focus on Irish-specific bookmakers (Paddy Power, BoyleSports)",
+      "No dedicated mobile experience sections per brand",
+      "Missing payment methods comparison",
+      "No calculator tool links",
+      "Limited FAQs (3-5 vs our target of 8-10)"
+    ],
+    "our_competitive_advantage": [
+      "Depth on Irish bookmakers (Paddy Power, BoyleSports) which dominate local search",
+      "Mobile Experience section per brand (100-150 words each)",
+      "Payment methods comparison table",
+      "Interactive elements and calculator links",
+      "Comprehensive FAQs (10+) targeting long-tail keywords"
+    ]
+  },
+  "brand_selection": {
+    "total_brands": 10,
+    "rationale": "High-volume keyword (22K+ combined) warrants 10 brands. Ireland market has unique local operators.",
+    "brands": [
+      {
+        "position": 1,
+        "brand": "Paddy Power",
+        "badge": "PP",
+        "color": "#00843D",
+        "rationale": "Irish bookmaker, highest brand search volume (4,100/mo for 'paddy power football'), market leader in Ireland",
+        "search_volume": 4100,
+        "keyword_target": "paddy power football, paddy power app"
+      },
+      {
+        "position": 2,
+        "brand": "Bet365",
+        "badge": "365",
+        "color": "#027B5B",
+        "rationale": "Massive international presence, very popular in Ireland (bet365 app: 1,500/mo), excellent live streaming",
+        "search_volume": 1500,
+        "keyword_target": "bet365 app, bet365 football"
+      },
+      {
+        "position": 3,
+        "brand": "BoyleSports",
+        "badge": "BS",
+        "color": "#003DA5",
+        "rationale": "Irish operator, highest app search volume (7,900/mo), strong retail presence in Ireland",
+        "search_volume": 7900,
+        "keyword_target": "boylesports app, boylesports online betting"
+      },
+      {
+        "position": 4,
+        "brand": "William Hill",
+        "badge": "WH",
+        "color": "#003F87",
+        "rationale": "Established UK/Ireland bookmaker, strong brand recognition, wide betting markets",
+        "search_volume": 200,
+        "keyword_target": "william hill app"
+      },
+      {
+        "position": 5,
+        "brand": "Ladbrokes",
+        "badge": "LAD",
+        "color": "#C8102E",
+        "rationale": "Major UK/Ireland operator, popular app (700/mo searches), comprehensive football coverage",
+        "search_volume": 700,
+        "keyword_target": "ladbrokes app"
+      },
+      {
+        "position": 6,
+        "brand": "BetVictor",
+        "badge": "BV",
+        "color": "#1A4F8B",
+        "rationale": "Strong in Ireland/UK markets, good app search volume (600/mo), competitive football odds",
+        "search_volume": 600,
+        "keyword_target": "betvictor app"
+      },
+      {
+        "position": 7,
+        "brand": "888sport",
+        "badge": "888",
+        "color": "#008A3E",
+        "rationale": "International operator, popular in Ireland, strong football betting features",
+        "search_volume": 10,
+        "keyword_target": "888sport app"
+      },
+      {
+        "position": 8,
+        "brand": "Betfair",
+        "badge": "BF",
+        "color": "#FFB80C",
+        "rationale": "Unique betting exchange model, popular for trading football markets, Irish license",
+        "search_volume": 60,
+        "keyword_target": "betfair app"
+      },
+      {
+        "position": 9,
+        "brand": "Unibet",
+        "badge": "UNI",
+        "color": "#1D8148",
+        "rationale": "Kindred Group operator, growing presence in Ireland, strong live betting",
+        "search_volume": 60,
+        "keyword_target": "unibet app"
+      },
+      {
+        "position": 10,
+        "brand": "SkyBet",
+        "badge": "SKY",
+        "color": "#0072C6",
+        "rationale": "Popular in UK/Ireland, Sky Sports integration, good for football accumulators",
+        "search_volume": 10,
+        "keyword_target": "skybet app"
+      }
+    ]
+  },
+  "content_structure": {
+    "target_word_count": 6500,
+    "word_count_rationale": "Match/exceed competitor #1 (5,000-6,000 words). 10 brands × 550 words + supporting sections",
+    "mandatory_sections": [
+      "Introduction with top 3 picks",
+      "Quick comparison table (all 10 brands)",
+      "Individual brand reviews (10 brands)",
+      "Key Features per brand (150-200 words)",
+      "Mobile Experience per brand (100-150 words)",
+      "Pros & Cons per brand (100-150 words)",
+      "Current Bonus per brand (75-100 words)",
+      "Premier League betting section",
+      "Champions League betting section",
+      "Payment methods comparison",
+      "FAQs (10 questions)",
+      "Responsible gambling"
+    ],
+    "sections_per_brand": 3,
+    "faqs_count": 10
+  },
+  "internal_links": [
+    {
+      "anchor": "Premier League betting sites",
+      "url": "/sport/betting/ireland/premier-league-betting.htm",
+      "context": "Link from Premier League section"
+    },
+    {
+      "anchor": "Champions League betting",
+      "url": "/sport/betting/ireland/champions-league-betting.htm",
+      "context": "Link from Champions League section"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/sportsbook-reviews/paddy-power/index.htm",
+      "context": "Link from Paddy Power brand section"
+    },
+    {
+      "anchor": "Bet365 review",
+      "url": "/sport/betting/sportsbook-reviews/bet365/index.htm",
+      "context": "Link from Bet365 brand section"
+    },
+    {
+      "anchor": "sports betting in Ireland",
+      "url": "/sport/betting/ireland/index.htm",
+      "context": "Link from introduction"
+    },
+    {
+      "anchor": "football accumulator tips",
+      "url": "/sport/betting/guides/accumulator-tips.htm",
+      "context": "Link from tips section"
+    },
+    {
+      "anchor": "live football betting",
+      "url": "/sport/betting/guides/live-betting.htm",
+      "context": "Link from live betting section"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay-calculator.htm",
+      "context": "Link from betting tools section"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds-calculator.htm",
+      "context": "Link from betting tools section"
+    },
+    {
+      "anchor": "betting odds explained",
+      "url": "/sport/betting/guides/odds-explained.htm",
+      "context": "Link from odds section"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "context": "Link from responsible gambling section"
+    },
+    {
+      "anchor": "Ireland sports betting hub",
+      "url": "/sport/betting/ireland/index.htm",
+      "context": "Breadcrumb and footer"
+    }
+  ],
+  "compliance": {
+    "market": "Ireland",
+    "age_requirement": "18+",
+    "gambling_hotline": "gamblingcare.ie",
+    "regulatory_body": "Betting (Amendment) Act 2015",
+    "responsible_gambling_resources": [
+      "gamblingcare.ie",
+      "Gamblers Anonymous Ireland",
+      "Problem Gambling Ireland"
+    ],
+    "affiliate_disclosure": "Required at top of page",
+    "terms_conditions": "Required for all 10 brands"
+  },
+  "technical_requirements": [
+    "Comparison table with sortable/filterable columns",
+    "Interactive brand cards with expandable features",
+    "Mobile-responsive design",
+    "Letter badge logos (no images)",
+    "FAQ schema markup",
+    "Article schema markup",
+    "Breadcrumb schema",
+    "Last Updated badge",
+    "Payment methods comparison table",
+    "Calculator tool links"
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "page_name": "uk-betting-apps",
+  "phase": 2,
+  "writer": "Lewis Humphries",
+  "template": 2,
+  "target_word_count": 8500,
+
+  "content_structure": {
+    "introduction": {
+      "word_count": "100-150",
+      "requirements": [
+        "Direct answer: Top 3 betting apps (Bet442, LuckyMate, NRGbet)",
+        "Authority statement on testing methodology",
+        "Affiliate disclosure (50-75 words)",
+        "NO dated language, NO 'Welcome to...', NO rhetorical questions"
+      ]
+    },
+
+    "quick_answer_box": {
+      "word_count": "75-100",
+      "content": "Quick Answer featuring top 3 picks with USPs"
+    },
+
+    "comparison_table": {
+      "brands": 9,
+      "columns": [
+        "Brand",
+        "App Store Rating (iOS)",
+        "Google Play Rating (Android)",
+        "Welcome Bonus",
+        "Key Features",
+        "Download Size",
+        "Best For"
+      ],
+      "interactive_features": [
+        "Sortable by rating",
+        "Filter by platform (iOS/Android)",
+        "Filter by features (live streaming, cash out, BOG)"
+      ]
+    },
+
+    "main_sections": [
+      {
+        "heading": "H2",
+        "title": "Top UK Betting Apps for 2025",
+        "word_count": "300-350",
+        "keyword_target": "betting apps uk (1800/mo)",
+        "content": [
+          "Overview of UK betting app market",
+          "Why mobile apps dominate UK betting",
+          "Market statistics and growth",
+          "What separates top apps from competitors"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "UK Betting Apps: Complete Guide",
+        "word_count": "400-450",
+        "keyword_target": "uk betting apps (700/mo)",
+        "subsections": [
+          {
+            "heading": "H3",
+            "title": "What Makes a Great UK Betting App?",
+            "word_count": "200-250",
+            "keyword_target": "betting app uk (200/mo)",
+            "content": [
+              "User interface and navigation",
+              "Speed and performance metrics",
+              "Feature completeness vs web version",
+              "Security and data protection",
+              "Customer support accessibility"
+            ]
+          },
+          {
+            "heading": "H3",
+            "title": "Best Sports Betting Apps UK",
+            "word_count": "150-200",
+            "keyword_target": "sports betting apps uk (150/mo)",
+            "content": [
+              "Sports coverage comparison",
+              "Live betting interface quality",
+              "In-play markets availability",
+              "Streaming integration"
+            ]
+          }
+        ]
+      }
+    ],
+
+    "brand_reviews": {
+      "total_brands": 9,
+      "word_count_per_brand": "425-500",
+      "structure_per_brand": [
+        {
+          "section": "H2",
+          "title": "[Brand Name] Review",
+          "subsections": [
+            {
+              "heading": "H3",
+              "title": "Key Features",
+              "word_count": "150-200",
+              "required_elements": [
+                "Unique selling points",
+                "Sports and markets covered",
+                "Live betting capabilities",
+                "Bet builder availability",
+                "Cash out functionality",
+                "Additional features (price boosts, etc.)"
+              ]
+            },
+            {
+              "heading": "H3",
+              "title": "Mobile Experience",
+              "word_count": "100-150",
+              "critical_importance": "ESSENTIAL for betting apps page",
+              "required_elements": [
+                "iOS App Store rating with review count",
+                "Google Play Store rating with review count",
+                "App download size (MB)",
+                "Loading speed assessment",
+                "Interface intuitiveness rating",
+                "Navigation ease",
+                "Performance stability",
+                "Offline functionality (if any)",
+                "Comparison to web version",
+                "Platform-specific features (iOS vs Android)"
+              ]
+            },
+            {
+              "heading": "H3",
+              "title": "Pros & Cons",
+              "word_count": "100-150",
+              "format": "3-5 pros, 3-5 cons in bullet format"
+            },
+            {
+              "heading": "H3",
+              "title": "Current Welcome Bonus",
+              "word_count": "75-100",
+              "required_elements": [
+                "Bonus amount and type",
+                "Wagering requirements",
+                "Time limits",
+                "Eligible markets",
+                "Terms summary",
+                "App-exclusive bonus (if applicable)"
+              ]
+            }
+          ]
+        }
+      ],
+      "brands_list": [
+        {
+          "position": 1,
+          "brand": "Bet442",
+          "badge": "B42",
+          "usp": "Competitive odds and strong UK presence",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 2,
+          "brand": "LuckyMate",
+          "badge": "LKM",
+          "usp": "Innovative mobile features",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 3,
+          "brand": "NRGbet",
+          "badge": "NRG",
+          "usp": "Strong mobile app ratings",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 4,
+          "brand": "Myriadplay",
+          "badge": "MYR",
+          "usp": "Mobile-first approach",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 5,
+          "brand": "7Bet",
+          "badge": "7BT",
+          "usp": "Good app store ratings",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 6,
+          "brand": "Mr Luck",
+          "badge": "MLK",
+          "usp": "Reliable mobile platform",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 7,
+          "brand": "MogoBet",
+          "badge": "MGO",
+          "usp": "Modern app interface",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 8,
+          "brand": "22bet",
+          "badge": "22B",
+          "usp": "Wide sports coverage",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        },
+        {
+          "position": 9,
+          "brand": "Highbet",
+          "badge": "HBT",
+          "usp": "Competitive mobile features",
+          "app_store_rating_required": "iOS and Android ratings with review counts",
+          "download_size_required": true
+        }
+      ]
+    },
+
+    "supporting_sections": [
+      {
+        "heading": "H2",
+        "title": "Legal Gambling Apps in the UK",
+        "word_count": "300-350",
+        "keyword_target": "gambling apps uk (300/mo)",
+        "content": [
+          "UKGC licensing requirements",
+          "How to verify app is licensed",
+          "Consumer protections",
+          "Age verification (18+ in UK)",
+          "Responsible gambling tools",
+          "Links to UKGC license verification"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "Best Football Betting Apps UK",
+        "word_count": "300-350",
+        "keyword_target": "best football betting apps uk (50/mo)",
+        "content": [
+          "Football-specific app features",
+          "Premier League betting interfaces",
+          "In-play football markets",
+          "Price boosts and promos for football",
+          "Live streaming for football matches",
+          "Comparison of football coverage across apps"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "Top Rated Betting Apps UK",
+        "word_count": "300-350",
+        "keyword_target": "top betting apps uk (80/mo)",
+        "subsections": [
+          {
+            "heading": "H3",
+            "title": "App Store Ratings Breakdown",
+            "word_count": "150-200",
+            "content": [
+              "iOS App Store ratings comparison",
+              "Google Play Store ratings comparison",
+              "User review analysis",
+              "Common praise points",
+              "Common complaints"
+            ]
+          },
+          {
+            "heading": "H3",
+            "title": "Independent App Reviews",
+            "word_count": "150-200",
+            "keyword_target": "betting app reviews uk (est. 80/mo)",
+            "content": [
+              "Testing methodology",
+              "Performance benchmarks",
+              "User experience ratings",
+              "Feature completeness scores"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "UK Betting Apps with Free Bet Offers",
+        "word_count": "350-400",
+        "keyword_target": "betting apps with free bets (est. 100/mo)",
+        "content": [
+          "App-exclusive bonuses comparison",
+          "Mobile-only promotions",
+          "Free bet terms across platforms",
+          "Best apps for ongoing promotions",
+          "How to claim mobile bonuses"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "Best Odds Guaranteed Apps",
+        "word_count": "300-350",
+        "keyword_target": "best odds betting app uk (est. 60/mo)",
+        "content": [
+          "Which apps offer Best Odds Guaranteed",
+          "BOG terms comparison",
+          "Sports covered by BOG",
+          "How BOG works on mobile apps",
+          "Link to: /sport/betting/uk/best-odds-guaranteed.htm"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "Payment Methods on UK Betting Apps",
+        "word_count": "350-400",
+        "uk_specific_rules": [
+          "NO credit cards allowed (UK regulation)",
+          "Debit cards accepted",
+          "E-wallets (PayPal, Skrill, Neteller)",
+          "Bank transfers",
+          "Apple Pay / Google Pay",
+          "Prepaid cards"
+        ],
+        "content": [
+          "Payment methods comparison table",
+          "Deposit limits per method",
+          "Withdrawal speeds per method",
+          "Fees (if any)",
+          "Most convenient methods for mobile",
+          "Security features"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "iOS vs Android Feature Comparison",
+        "word_count": "300-350",
+        "content": [
+          "Feature parity analysis",
+          "Platform-specific advantages",
+          "Performance differences",
+          "Update frequency comparison",
+          "App size differences",
+          "Which platform gets features first",
+          "Tabbed interface for comparison"
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "How to Download and Install UK Betting Apps",
+        "word_count": "400-450",
+        "subsections": [
+          {
+            "heading": "H3",
+            "title": "iOS Download Guide",
+            "word_count": "150-200",
+            "content": [
+              "Step-by-step App Store download",
+              "iOS version requirements",
+              "Storage requirements",
+              "Installation process",
+              "First-time setup"
+            ]
+          },
+          {
+            "heading": "H3",
+            "title": "Android Download Guide",
+            "word_count": "150-200",
+            "content": [
+              "Step-by-step Google Play download",
+              "Android version requirements",
+              "Storage requirements",
+              "Installation process",
+              "Permissions required"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "H2",
+        "title": "How We Test and Rank Betting Apps",
+        "word_count": "400-450",
+        "content": [
+          "Testing methodology",
+          "Rating criteria breakdown",
+          "Performance benchmarks",
+          "User experience evaluation",
+          "Feature completeness assessment",
+          "Update frequency and support",
+          "Security and licensing verification"
+        ]
+      }
+    ],
+
+    "faqs": {
+      "total_required": "8-10",
+      "word_count_per_faq": "75-150",
+      "questions": [
+        {
+          "question": "Are online betting apps legal in the UK?",
+          "keyword_target": "online betting apps uk (40/mo)",
+          "answer_points": [
+            "Yes, fully legal if UKGC licensed",
+            "18+ age requirement",
+            "How to verify licensing",
+            "Consumer protections available"
+          ]
+        },
+        {
+          "question": "Which sports betting app is best in the UK?",
+          "keyword_target": "best sports betting apps uk (20/mo)",
+          "answer_points": [
+            "Top 3 recommendations with reasoning",
+            "Different apps for different needs",
+            "Feature comparison summary"
+          ]
+        },
+        {
+          "question": "What makes a great UK betting app?",
+          "keyword_target": "betting app uk (200/mo)",
+          "answer_points": [
+            "Key features to look for",
+            "Performance requirements",
+            "Security essentials",
+            "User experience factors"
+          ]
+        },
+        {
+          "question": "Can I use credit cards on UK betting apps?",
+          "keyword_target": "Natural - important UK regulation",
+          "answer_points": [
+            "NO - banned since April 2020",
+            "UK Gambling Commission regulation",
+            "Alternative payment methods",
+            "Debit cards are allowed"
+          ]
+        },
+        {
+          "question": "Do I need different apps for iOS and Android?",
+          "keyword_target": "Natural",
+          "answer_points": [
+            "No - same bookmaker, different platforms",
+            "Feature parity discussion",
+            "Performance differences",
+            "How to switch between devices"
+          ]
+        },
+        {
+          "question": "What are the best football betting apps in the UK?",
+          "keyword_target": "best football betting apps uk (50/mo)",
+          "answer_points": [
+            "Top apps for football betting",
+            "Football-specific features",
+            "In-play markets comparison",
+            "Live streaming availability"
+          ]
+        },
+        {
+          "question": "Which betting apps offer Best Odds Guaranteed?",
+          "keyword_target": "best odds betting app uk (est. 60/mo)",
+          "answer_points": [
+            "Apps with BOG",
+            "BOG terms comparison",
+            "Sports covered",
+            "How to take advantage"
+          ]
+        },
+        {
+          "question": "How do I verify a betting app is licensed?",
+          "keyword_target": "Natural - compliance focus",
+          "answer_points": [
+            "Check UKGC website",
+            "Look for license number in app",
+            "Warning signs of unlicensed apps",
+            "Link to UKGC verification tool"
+          ]
+        },
+        {
+          "question": "What payment methods work on UK betting apps?",
+          "keyword_target": "Natural",
+          "answer_points": [
+            "Debit cards",
+            "E-wallets (PayPal, etc.)",
+            "Bank transfers",
+            "Mobile payment options",
+            "NO credit cards"
+          ]
+        },
+        {
+          "question": "Are betting app bonuses different from website bonuses?",
+          "keyword_target": "betting apps with free bets (est. 100/mo)",
+          "answer_points": [
+            "Sometimes app-exclusive offers",
+            "Usually same terms",
+            "Mobile-only promotions",
+            "How to claim app bonuses"
+          ]
+        }
+      ]
+    },
+
+    "responsible_gambling": {
+      "word_count": "200-250",
+      "required_elements": [
+        "Age requirement: 18+ in UK",
+        "BeGambleAware information",
+        "GamStop self-exclusion",
+        "GamCare resources",
+        "National Gambling Helpline: 0808 8020 133",
+        "App-based responsible gambling tools",
+        "Deposit limits on apps",
+        "Reality check features"
+      ]
+    }
+  },
+
+  "internal_links": {
+    "minimum_required": 12,
+    "links": [
+      {
+        "anchor": "UK Sports Betting Sites",
+        "url": "/sport/betting/uk/sports-betting.htm",
+        "placement": "Introduction or early section",
+        "context": "Main UK betting hub"
+      },
+      {
+        "anchor": "UK Football Betting",
+        "url": "/sport/betting/uk/football-betting.htm",
+        "placement": "Best Football Betting Apps section",
+        "context": "Football-specific page"
+      },
+      {
+        "anchor": "Parlay Calculator",
+        "url": "/sport/betting/calculators/parlay.htm",
+        "placement": "How-to or tools section",
+        "context": "Calculator tool for accumulator bets"
+      },
+      {
+        "anchor": "Odds Calculator",
+        "url": "/sport/betting/calculators/odds.htm",
+        "placement": "How-to or tools section",
+        "context": "Calculator tool for odds conversion"
+      },
+      {
+        "anchor": "UK Horse Racing Betting",
+        "url": "/sport/betting/uk/horse-racing.htm",
+        "placement": "Sports coverage section",
+        "context": "Horse racing apps discussion"
+      },
+      {
+        "anchor": "Best Odds Guaranteed UK",
+        "url": "/sport/betting/uk/best-odds-guaranteed.htm",
+        "placement": "Best Odds Guaranteed Apps section",
+        "context": "Detailed BOG explanation"
+      },
+      {
+        "anchor": "Live Betting UK",
+        "url": "/sport/betting/uk/live-betting.htm",
+        "placement": "In-play features section",
+        "context": "Live betting features"
+      },
+      {
+        "anchor": "UK Betting Bonuses",
+        "url": "/sport/betting/uk/bonuses.htm",
+        "placement": "Free Bet Offers section",
+        "context": "Bonuses hub"
+      },
+      {
+        "anchor": "UK Tennis Betting",
+        "url": "/sport/betting/uk/tennis.htm",
+        "placement": "Sports coverage section",
+        "context": "Tennis betting on apps"
+      },
+      {
+        "anchor": "UK Casino Apps",
+        "url": "/sport/betting/uk/casino-apps.htm",
+        "placement": "Related content section",
+        "context": "Related vertical - casino apps"
+      },
+      {
+        "anchor": "Bet Builder Guide UK",
+        "url": "/sport/betting/uk/bet-builder.htm",
+        "placement": "Features section",
+        "context": "Bet builder feature explanation"
+      },
+      {
+        "anchor": "Cash Out Betting UK",
+        "url": "/sport/betting/uk/cash-out.htm",
+        "placement": "Features section",
+        "context": "Cash out feature explanation"
+      }
+    ]
+  },
+
+  "source_requirements": {
+    "tier_1_required": [
+      "iOS App Store ratings and reviews (dated within 30 days)",
+      "Google Play Store ratings and reviews (dated within 30 days)",
+      "Reddit r/UKbetting discussions",
+      "Reddit r/SoccerBetting discussions (UK-specific threads)"
+    ],
+    "tier_2_verification": [
+      "Brand official websites for feature verification only",
+      "UKGC license verification",
+      "Trustpilot reviews (UK-specific)",
+      "BeGambleAware resources"
+    ],
+    "tier_4_sparingly": [
+      "Competitor sites for research gaps ONLY",
+      "NEVER cite for pros/cons or recommendations"
+    ],
+    "app_specific_sources": [
+      "App download size from App Store / Google Play",
+      "App version numbers and update frequency",
+      "Performance testing results (loading times, etc.)",
+      "Screenshot analysis of app interfaces"
+    ]
+  },
+
+  "meta_keywords": [
+    "best betting apps uk",
+    "betting apps uk",
+    "uk betting apps",
+    "gambling apps uk",
+    "betting app uk",
+    "sports betting apps uk",
+    "top betting apps uk",
+    "best football betting apps uk",
+    "online betting apps uk",
+    "best sports betting apps uk",
+    "betting apps with free bets",
+    "betting app reviews uk",
+    "best odds betting app uk"
+  ],
+
+  "compliance": {
+    "age_requirement": "18+",
+    "regulator": "UK Gambling Commission (UKGC)",
+    "responsible_gambling_orgs": [
+      "BeGambleAware",
+      "GamStop",
+      "GamCare"
+    ],
+    "helpline": "National Gambling Helpline: 0808 8020 133",
+    "credit_card_ban": "Credit cards banned for gambling since April 2020",
+    "affiliate_disclosure": "Required in introduction (50-75 words)",
+    "licensing_verification": "All apps must display UKGC license number"
+  },
+
+  "word_count_breakdown": {
+    "introduction": "100-150",
+    "quick_answer": "75-100",
+    "main_sections": "700-800",
+    "brand_reviews_total": "3825-4500 (9 brands × 425-500 words)",
+    "supporting_sections": "2650-3050",
+    "faqs": "750-1500 (8-10 × 75-150 words)",
+    "responsible_gambling": "200-250",
+    "total_target": "8500 words"
+  },
+
+  "technical_requirements": [
+    "Interactive comparison table (JavaScript sort/filter)",
+    "App Store rating display (star graphics)",
+    "iOS vs Android tabbed interface",
+    "FAQ accordion with Schema.org markup",
+    "Article Schema markup",
+    "Breadcrumb Schema markup",
+    "Last Updated badge (HTML/CSS)",
+    "Responsive mobile-first design",
+    "Payment methods icons/visual comparison",
+    "Download button CTAs per brand (iOS and Android)",
+    "Performance metrics visualization"
+  ],
+
+  "validation_checklist": [
+    "All 12 secondary keywords mapped to sections",
+    "8-10 FAQs created and keyword-targeted",
+    "Mobile Experience section for ALL 9 brands",
+    "App Store ratings required for ALL 9 brands",
+    "Payment methods section includes UK-specific rules (no credit cards)",
+    "12 internal links included",
+    "Word count targets specified per section",
+    "Source requirements (App Store, Google Play, Reddit) specified",
+    "Compliance section complete (18+, UKGC, helpline)",
+    "Template 2 structure followed"
+  ]
+}

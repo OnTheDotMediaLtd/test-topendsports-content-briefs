@@ -1,0 +1,667 @@
+{
+  "page_info": {
+    "url": "/sport/betting/ireland/casina-review.htm",
+    "page_title": "Casina Sport Review",
+    "target_keyword": "casina sport",
+    "market": "Ireland",
+    "template_type": "1 - Review",
+    "writer": "Lewis Humphries",
+    "priority": "High",
+    "word_count_target": "3700-4200"
+  },
+  "brand_focus": {
+    "brand_name": "Casinia",
+    "note": "Correct spelling is 'Casinia' but target keyword is 'casina sport' (misspelling variant)",
+    "letter_badge": "CAS",
+    "badge_color": "#00BCD4",
+    "quick_verdict": "Casinia is an Altenar-powered sportsbook offering 35,000+ fixtures across 40+ sports with cryptocurrency support (USDT). While licensed in Anjouan rather than with a Tier 1 regulator, the platform delivers modern features including Bet Builder, Cash Out, and a dedicated mobile app."
+  },
+  "keyword_mapping": {
+    "primary": {
+      "keyword": "casina sport",
+      "volume": 0,
+      "placement": "H1, Title tag, meta description",
+      "usage": "Target the misspelling variant while focusing on 'Casinia' throughout"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "section": "Introduction + About Casinia Sportsbook",
+        "h2_title": "About Casinia Sportsbook",
+        "usage": "Natural mention in opening context about Ireland's sports betting market"
+      },
+      {
+        "keyword": "online betting ireland",
+        "volume": 250,
+        "section": "Introduction",
+        "usage": "Context-setting phrase in opening paragraph"
+      },
+      {
+        "keyword": "bet ireland",
+        "volume": 350,
+        "section": "Introduction + Sports Coverage",
+        "usage": "Natural mentions throughout content"
+      },
+      {
+        "keyword": "betting online ireland",
+        "volume": 70,
+        "section": "Mobile Experience",
+        "usage": "Natural mention when discussing mobile betting options"
+      },
+      {
+        "keyword": "online betting sites ireland",
+        "volume": 200,
+        "section": "Casinia vs Irish Bookmakers",
+        "h2_title": "Casinia vs Other Online Betting Sites in Ireland",
+        "usage": "Direct H2 targeting this keyword"
+      },
+      {
+        "keyword": "bookies ireland",
+        "volume": 200,
+        "section": "Casinia vs Irish Bookmakers",
+        "usage": "Comparison context with local operators"
+      },
+      {
+        "keyword": "irish bookies",
+        "volume": 150,
+        "section": "Casinia vs Irish Bookmakers",
+        "h3_title": "How Casinia Compares to Traditional Irish Bookies",
+        "usage": "H3 subsection for comparison"
+      },
+      {
+        "keyword": "online bookmakers ireland",
+        "volume": 100,
+        "section": "Casinia vs Irish Bookmakers",
+        "h3_title": "International vs Local Online Bookmakers in Ireland",
+        "usage": "H3 subsection discussing international operators"
+      },
+      {
+        "keyword": "best betting sites ireland",
+        "volume": 450,
+        "section": "FAQ",
+        "faq_question": "What are the best betting sites in Ireland?",
+        "usage": "FAQ targeting high-volume keyword"
+      },
+      {
+        "keyword": "irish betting sites",
+        "volume": 400,
+        "section": "FAQ",
+        "faq_question": "Which Irish betting sites are the most reliable?",
+        "usage": "FAQ discussing Irish market reliability"
+      },
+      {
+        "keyword": "betting companies ireland",
+        "volume": 100,
+        "section": "FAQ",
+        "faq_question": "Is Casinia a licensed betting company in Ireland?",
+        "usage": "FAQ addressing licensing and regulation"
+      },
+      {
+        "keyword": "best online bookies",
+        "volume": 90,
+        "section": "FAQ",
+        "faq_question": "Is Casinia one of the best online bookies?",
+        "usage": "FAQ evaluating Casinia's competitive position"
+      }
+    ],
+    "total_keywords_mapped": 12,
+    "meta_keywords": "casina sport, casinia, sports betting ireland, best betting sites ireland, irish betting sites, online betting sites ireland, online betting ireland, betting companies ireland, irish bookies, bookies ireland, online bookmakers ireland, betting online ireland, bet ireland, best online bookies"
+  },
+  "content_outline": {
+    "h1": "Casina Sport Review: Altenar-Powered Sportsbook for Irish Bettors",
+    "last_updated_badge": true,
+    "sections": [
+      {
+        "section_number": 1,
+        "section_type": "introduction",
+        "h2_title": "Introduction",
+        "word_count": "150",
+        "keywords_targeted": ["casina sport", "sports betting ireland", "online betting ireland"],
+        "structure": [
+          "Opening verdict (40-50 words): Casinia's key strengths and market position",
+          "Affiliate disclosure (50-75 words)",
+          "Brief context on Ireland sports betting landscape"
+        ],
+        "notes": "Must be 150 words maximum. Direct, punchy opening with quick verdict."
+      },
+      {
+        "section_number": 2,
+        "section_type": "brand_overview",
+        "h2_title": "About Casinia Sportsbook",
+        "word_count": "250",
+        "keywords_targeted": ["casinia", "sports betting ireland"],
+        "subsections": [
+          "Company background (Stellar Ltd operator)",
+          "Gaming Board of Anjouan license (ALSI-202411077-FI2)",
+          "Ireland availability and market position",
+          "Altenar platform overview"
+        ],
+        "source_requirements": [
+          "Casinia official site for license verification",
+          "Anjouan Gaming Board for license details"
+        ],
+        "notes": "Address Anjouan license transparently - explain what it means for Irish players vs UKGC/MGA licenses"
+      },
+      {
+        "section_number": 3,
+        "section_type": "features",
+        "h2_title": "Key Features",
+        "word_count": "450",
+        "keywords_targeted": ["sportsbook platform", "betting features"],
+        "subsections": [
+          {
+            "h3_title": "Altenar Platform Technology",
+            "word_count": "90",
+            "content": "Platform capabilities, user interface, navigation"
+          },
+          {
+            "h3_title": "35,000+ Fixtures Across 40+ Sports",
+            "word_count": "90",
+            "content": "Breadth of sports coverage and fixture volume"
+          },
+          {
+            "h3_title": "Bet Builder & QuickBet Features",
+            "word_count": "90",
+            "content": "Advanced betting tools and functionality",
+            "internal_link": {
+              "anchor": "parlay calculator",
+              "url": "/sport/betting/parlay-calculator.htm"
+            }
+          },
+          {
+            "h3_title": "Live Betting Interface",
+            "word_count": "90",
+            "content": "In-play betting experience and features"
+          },
+          {
+            "h3_title": "Virtual Sports & Esports Coverage",
+            "word_count": "90",
+            "content": "Virtual sports options and esports markets"
+          }
+        ],
+        "source_requirements": [
+          "Casinia official site for feature verification",
+          "Reddit mentions of Altenar platform"
+        ]
+      },
+      {
+        "section_number": 4,
+        "section_type": "bonus",
+        "h2_title": "Welcome Bonus & Promotions",
+        "word_count": "350",
+        "keywords_targeted": ["casinia bonus", "welcome offer"],
+        "subsections": [
+          {
+            "h3_title": "100% First Deposit Bonus up to €100",
+            "word_count": "100",
+            "content": "Bonus structure, how to claim, qualifying criteria"
+          },
+          {
+            "h3_title": "Wagering Requirements & Terms",
+            "word_count": "100",
+            "content": "Full T&Cs breakdown, playthrough requirements, time limits"
+          },
+          {
+            "h3_title": "Weekend Reload Bonuses",
+            "word_count": "75",
+            "content": "Ongoing promotions for existing players"
+          },
+          {
+            "h3_title": "Cashback Program",
+            "word_count": "75",
+            "content": "Cashback structure for frequent bettors"
+          }
+        ],
+        "internal_link": {
+          "anchor": "free bets Ireland",
+          "url": "/sport/betting/ireland/free-bets.htm",
+          "placement": "Context when discussing bonuses"
+        },
+        "notes": "Must include complete T&Cs in subsection - no placeholders"
+      },
+      {
+        "section_number": 5,
+        "section_type": "mobile",
+        "h2_title": "Mobile Experience",
+        "word_count": "300",
+        "keywords_targeted": ["mobile betting", "betting app", "betting online ireland"],
+        "subsections": [
+          {
+            "h3_title": "Dedicated Mobile App",
+            "word_count": "75",
+            "content": "App availability, download process"
+          },
+          {
+            "h3_title": "App Features & Functionality",
+            "word_count": "100",
+            "content": "Core features, betting tools, navigation on mobile"
+          },
+          {
+            "h3_title": "User Interface Quality",
+            "word_count": "75",
+            "content": "UX design, ease of use, performance"
+          },
+          {
+            "h3_title": "iOS & Android Compatibility",
+            "word_count": "50",
+            "content": "Device support, system requirements"
+          }
+        ],
+        "internal_link": {
+          "anchor": "best betting apps Ireland",
+          "url": "/sport/betting/ireland/betting-apps.htm",
+          "placement": "Comparison context"
+        },
+        "source_requirements": [
+          "App Store reviews (if available)",
+          "Google Play reviews (if available)",
+          "Reddit user feedback on mobile experience"
+        ]
+      },
+      {
+        "section_number": 6,
+        "section_type": "payments",
+        "h2_title": "Payment Methods EUR",
+        "word_count": "300",
+        "keywords_targeted": ["payment options", "cryptocurrency betting"],
+        "subsections": [
+          {
+            "h3_title": "Deposit Options",
+            "word_count": "90",
+            "content": "Cryptocurrency (USDT), Paysafecard, Skrill, e-wallets"
+          },
+          {
+            "h3_title": "Withdrawal Methods",
+            "word_count": "80",
+            "content": "Available withdrawal options and processes"
+          },
+          {
+            "h3_title": "Processing Times",
+            "word_count": "60",
+            "content": "1-3 day withdrawal timeframe, deposit speed"
+          },
+          {
+            "h3_title": "Cryptocurrency Advantages for Irish Bettors",
+            "word_count": "70",
+            "content": "USDT benefits, transaction speed, privacy, fees"
+          }
+        ],
+        "notes": "Emphasize crypto support as unique differentiator vs traditional Irish bookies"
+      },
+      {
+        "section_number": 7,
+        "section_type": "sports_coverage",
+        "h2_title": "Sports & Markets Coverage",
+        "word_count": "350",
+        "keywords_targeted": ["sports coverage", "betting markets", "bet ireland"],
+        "subsections": [
+          {
+            "h3_title": "Football Markets",
+            "word_count": "90",
+            "content": "250+ football markets, Premier League, Irish leagues"
+          },
+          {
+            "h3_title": "35,000+ Annual Fixtures",
+            "word_count": "70",
+            "content": "Fixture volume across all sports"
+          },
+          {
+            "h3_title": "Irish Sports Coverage",
+            "word_count": "80",
+            "content": "GAA, horse racing, rugby (Irish market priorities)"
+          },
+          {
+            "h3_title": "International Sports",
+            "word_count": "70",
+            "content": "40+ sports including basketball, tennis, UFC, etc."
+          },
+          {
+            "h3_title": "Esports Options",
+            "word_count": "40",
+            "content": "Esports markets available"
+          }
+        ],
+        "internal_link": {
+          "anchor": "odds calculator",
+          "url": "/sport/betting/odds-calculator.htm",
+          "placement": "When discussing markets and odds"
+        }
+      },
+      {
+        "section_number": 8,
+        "section_type": "comparison",
+        "h2_title": "Casinia vs Other Online Betting Sites in Ireland",
+        "word_count": "350",
+        "keywords_targeted": ["online betting sites ireland", "irish bookies", "bookies ireland", "online bookmakers ireland"],
+        "subsections": [
+          {
+            "h3_title": "How Casinia Compares to Traditional Irish Bookies",
+            "word_count": "120",
+            "content": "vs BoyleSports, Paddy Power - crypto support, international platform, modern UX",
+            "keyword_target": "irish bookies"
+          },
+          {
+            "h3_title": "International vs Local Online Bookmakers in Ireland",
+            "word_count": "120",
+            "content": "Licensing differences, market access, feature sets",
+            "keyword_target": "online bookmakers ireland"
+          },
+          {
+            "h3_title": "Casinia's Competitive Advantages",
+            "word_count": "110",
+            "content": "35,000+ fixtures, Altenar platform, crypto payments, Bet Builder"
+          }
+        ],
+        "internal_links": [
+          {
+            "anchor": "Lunubet review",
+            "url": "/sport/betting/ireland/lunubet-review.htm"
+          },
+          {
+            "anchor": "Betalright review",
+            "url": "/sport/betting/ireland/betalright-review.htm"
+          }
+        ],
+        "notes": "Focus on platform technology and crypto as differentiators, not license comparison"
+      },
+      {
+        "section_number": 9,
+        "section_type": "pros_cons",
+        "h2_title": "Pros and Cons",
+        "word_count": "250",
+        "structure": [
+          {
+            "subsection": "Pros",
+            "word_count": "125",
+            "items": [
+              "35,000+ fixtures across 40+ sports",
+              "Cryptocurrency support (USDT)",
+              "Advanced Altenar platform with Bet Builder",
+              "Full/Partial Cash Out available",
+              "Weekend reload bonuses and cashback",
+              "Dedicated mobile app"
+            ]
+          },
+          {
+            "subsection": "Cons",
+            "word_count": "125",
+            "items": [
+              "Anjouan license (not UKGC/MGA)",
+              "Limited brand recognition in Irish market",
+              "No live streaming mentioned",
+              "Smaller promotional offerings vs major brands"
+            ]
+          }
+        ],
+        "notes": "Be balanced - acknowledge license concerns but emphasize platform quality"
+      },
+      {
+        "section_number": 10,
+        "section_type": "support",
+        "h2_title": "Customer Support",
+        "word_count": "200",
+        "subsections": [
+          {
+            "h3_title": "Live Chat",
+            "word_count": "70",
+            "content": "Availability, response times, quality"
+          },
+          {
+            "h3_title": "Email Support",
+            "word_count": "60",
+            "content": "Email contact, response timeframes"
+          },
+          {
+            "h3_title": "Response Quality & Times",
+            "word_count": "70",
+            "content": "Overall support experience based on user feedback"
+          }
+        ],
+        "source_requirements": [
+          "Reddit mentions of support quality",
+          "Casinia official site for contact methods"
+        ]
+      },
+      {
+        "section_number": 11,
+        "section_type": "faq",
+        "h2_title": "Frequently Asked Questions",
+        "word_count": "800-1000",
+        "faqs": [
+          {
+            "faq_number": 1,
+            "question": "What are the best betting sites in Ireland?",
+            "keyword_target": "best betting sites ireland",
+            "volume": 450,
+            "answer_guidance": "List top Irish betting sites including Casinia, BoyleSports, Paddy Power, Bet365. Explain what makes each strong. Mention Casinia's crypto and platform advantages.",
+            "word_count": "120-140",
+            "internal_link": {
+              "anchor": "best betting sites Ireland",
+              "url": "/sport/betting/ireland/index.htm"
+            }
+          },
+          {
+            "faq_number": 2,
+            "question": "Which Irish betting sites are the most reliable?",
+            "keyword_target": "irish betting sites",
+            "volume": 400,
+            "answer_guidance": "Discuss licensing (UKGC vs offshore), payment reliability, customer service quality. Position Casinia's Anjouan license transparently.",
+            "word_count": "120-140"
+          },
+          {
+            "faq_number": 3,
+            "question": "Is Casinia a licensed betting company in Ireland?",
+            "keyword_target": "betting companies ireland",
+            "volume": 100,
+            "answer_guidance": "Explain Anjouan license (ALSI-202411077-FI2), what it means for Irish players, player protections. Note Ireland's GRAI regulation launching 2025-2026.",
+            "word_count": "120-140"
+          },
+          {
+            "faq_number": 4,
+            "question": "Is Casinia one of the best online bookies?",
+            "keyword_target": "best online bookies",
+            "volume": 90,
+            "answer_guidance": "Balanced assessment - platform quality, crypto support, fixture volume vs license and brand recognition concerns.",
+            "word_count": "100-120"
+          },
+          {
+            "faq_number": 5,
+            "question": "Does Casinia accept cryptocurrency payments?",
+            "keyword_target": "crypto betting",
+            "volume": 0,
+            "answer_guidance": "Yes - USDT support, benefits for Irish bettors, transaction speed, privacy advantages.",
+            "word_count": "80-100"
+          },
+          {
+            "faq_number": 6,
+            "question": "How does Casinia compare to BoyleSports?",
+            "keyword_target": "irish bookmakers comparison",
+            "volume": 0,
+            "answer_guidance": "BoyleSports = established Irish brand with UKGC license. Casinia = international platform with crypto, more fixtures, Altenar tech.",
+            "word_count": "100-120"
+          },
+          {
+            "faq_number": 7,
+            "question": "What sports can I bet on at Casinia?",
+            "keyword_target": "casinia sports",
+            "volume": 0,
+            "answer_guidance": "40+ sports, 35,000+ fixtures, football (250+ markets), GAA, horse racing, rugby, tennis, UFC, esports, virtual sports.",
+            "word_count": "80-100"
+          },
+          {
+            "faq_number": 8,
+            "question": "Is the Casinia mobile app available in Ireland?",
+            "keyword_target": "casinia app",
+            "volume": 0,
+            "answer_guidance": "Yes - dedicated mobile app, iOS/Android, download process, key features available on mobile.",
+            "word_count": "80-100"
+          }
+        ],
+        "total_faqs": 8,
+        "notes": "First 4 FAQs target high-volume keywords. Remaining 4 address product-specific questions."
+      },
+      {
+        "section_number": 12,
+        "section_type": "compliance",
+        "h2_title": "Responsible Gambling",
+        "word_count": "150",
+        "subsections": [
+          "Self-assessment tools available on Casinia",
+          "Links to Gambling Therapy and international support",
+          "Deposit limits and self-exclusion options",
+          "18+ age requirement for Ireland",
+          "Problem gambling helpline: 087 744 3577 (Ireland)"
+        ],
+        "internal_link": {
+          "anchor": "betting guides",
+          "url": "/sport/betting/guides/",
+          "placement": "Link to responsible gambling resources"
+        },
+        "notes": "Use Ireland-specific hotline (087 744 3577) not US number"
+      }
+    ],
+    "total_word_count": "3850",
+    "total_sections": 12,
+    "total_faqs": 8
+  },
+  "internal_linking": {
+    "minimum_links": 12,
+    "links": [
+      {
+        "anchor": "best betting sites Ireland",
+        "url": "/sport/betting/ireland/index.htm",
+        "placement": "Introduction + FAQ #1"
+      },
+      {
+        "anchor": "best betting apps Ireland",
+        "url": "/sport/betting/ireland/betting-apps.htm",
+        "placement": "Mobile Experience section"
+      },
+      {
+        "anchor": "free bets Ireland",
+        "url": "/sport/betting/ireland/free-bets.htm",
+        "placement": "Welcome Bonus section"
+      },
+      {
+        "anchor": "Lunubet review",
+        "url": "/sport/betting/ireland/lunubet-review.htm",
+        "placement": "Comparison section"
+      },
+      {
+        "anchor": "Betalright review",
+        "url": "/sport/betting/ireland/betalright-review.htm",
+        "placement": "Comparison section"
+      },
+      {
+        "anchor": "parlay calculator",
+        "url": "/sport/betting/parlay-calculator.htm",
+        "placement": "Bet Builder subsection"
+      },
+      {
+        "anchor": "odds calculator",
+        "url": "/sport/betting/odds-calculator.htm",
+        "placement": "Sports Coverage section"
+      },
+      {
+        "anchor": "betting guides",
+        "url": "/sport/betting/guides/",
+        "placement": "Responsible Gambling section"
+      },
+      {
+        "anchor": "BoyleSports review",
+        "url": "/sport/betting/ireland/boylesports-review.htm",
+        "placement": "Comparison section (if page exists)"
+      },
+      {
+        "anchor": "Paddy Power review",
+        "url": "/sport/betting/ireland/paddypower-review.htm",
+        "placement": "Comparison section (if page exists)"
+      },
+      {
+        "anchor": "Bet365 Ireland review",
+        "url": "/sport/betting/ireland/bet365-review.htm",
+        "placement": "Comparison section (if page exists)"
+      },
+      {
+        "anchor": "Ireland betting regulation",
+        "url": "/sport/betting/ireland/regulation.htm",
+        "placement": "About section or FAQ (if page exists)"
+      }
+    ],
+    "total_internal_links": 12
+  },
+  "source_requirements": {
+    "tier1_sources": [
+      "App Store reviews (if Casinia app available)",
+      "Google Play reviews (if Casinia app available)",
+      "Reddit threads: r/sportsbook, r/ireland mentions of Casinia"
+    ],
+    "tier2_sources": [
+      "Casinia official website (features, T&Cs only)",
+      "Anjouan Gaming Board (license verification)",
+      "Altenar platform information"
+    ],
+    "tier4_sources": [
+      "Competitor review sites ONLY for gaps (not for pros/cons)"
+    ],
+    "forbidden": [
+      "Do NOT cite affiliate sites for pros/cons",
+      "Do NOT use competitor reviews as primary sources"
+    ]
+  },
+  "technical_requirements": {
+    "last_updated_badge": {
+      "display": "After H1",
+      "format": "Last Updated: [Current Date]"
+    },
+    "letter_badge": {
+      "text": "CAS",
+      "color": "#00BCD4",
+      "placement": "Comparison table and brand cards"
+    },
+    "affiliate_disclosure": {
+      "placement": "Within introduction (50-75 words)",
+      "tone": "Transparent, factual"
+    },
+    "schema_markup": {
+      "types": ["Article", "FAQ", "Breadcrumb"],
+      "note": "AI Enhancement (Phase 3) will implement"
+    },
+    "meta_tags": {
+      "title": "Casina Sport Review: Casinia Sportsbook for Ireland 2025",
+      "description": "Casinia (Casina Sport) review for Irish bettors. 35,000+ fixtures, cryptocurrency support (USDT), Altenar platform with Bet Builder. Licensed by Gaming Board of Anjouan.",
+      "keywords": "casina sport, casinia, sports betting ireland, best betting sites ireland, irish betting sites, online betting sites ireland, betting companies ireland, irish bookies"
+    },
+    "compliance": {
+      "age_requirement": "18+",
+      "ireland_hotline": "087 744 3577",
+      "affiliate_disclosure": "Required in introduction",
+      "responsible_gambling_section": "Required at bottom",
+      "license_transparency": "Must clearly explain Anjouan license vs UKGC/MGA"
+    }
+  },
+  "strategic_notes": [
+    "Target 'casina sport' misspelling while using correct 'Casinia' spelling throughout content",
+    "Position as modern international operator with cryptocurrency edge",
+    "Emphasize Altenar platform technology advantages",
+    "Address Anjouan license transparently - don't hide it but explain player experience",
+    "Highlight 35,000+ fixtures and 40+ sports as competitive strength",
+    "Crypto support (USDT) is major differentiator vs Irish traditional bookies",
+    "Acknowledge limited brand recognition but emphasize platform quality",
+    "Note Ireland's GRAI regulation launching 2025-2026 in context",
+    "Compare favorably on technology/features, acknowledge license difference"
+  ],
+  "writer_instructions": {
+    "tone": "Balanced, informative, transparent about licensing",
+    "approach": "Position Casinia as quality platform despite offshore license",
+    "emphasis": "Technology, features, crypto support over brand name",
+    "warnings": [
+      "Do NOT hide or downplay Anjouan license",
+      "Do NOT overstate brand reputation",
+      "Do NOT claim UKGC/MGA/GRAI regulation",
+      "Do NOT make dated references in H1"
+    ],
+    "style": "Direct, factual, emphasize verifiable platform features"
+  }
+}
