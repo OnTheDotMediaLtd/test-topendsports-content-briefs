@@ -83,7 +83,6 @@ highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo
    - Mention key features (UKGC licensed, welcome bonus, sports + casino)
    - Authority statement
 
-2. **Affiliate Disclosure (50-75 words):**
    - "We may earn commission from operators featured on this page through affiliate links. This does not influence our independent editorial reviews. All recommendations are based on extensive testing of features, odds, payment processing, and customer support. Our goal is to help UK bettors find licensed, trustworthy sportsbooks. Read our full methodology."
 
 **Forbidden:**
@@ -122,7 +121,6 @@ highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo
 ### Introduction (100-150 words)
 - Direct answer: What is Highbet?
 - Key features: UKGC licensed, £30 bonus, sports + casino
-- Affiliate disclosure (50-75 words)
 - **Keywords:** highbet review, highbet uk
 
 ---
@@ -442,7 +440,7 @@ Since there's no app, the mobile web experience is CRITICAL to evaluate:
 | Visa/Mastercard | £5 | [TBC] | Instant | None |
 ```
 
-**Link:** [PayPal Betting Sites UK](/sport/betting/uk/paypal-betting-sites.htm)
+**Link:** [PayPal Betting Sites UK](/sport/betting/uk/index.htm)
 
 #### H3: Highbet Withdrawal Times & Processing (250-300 words)
 **Target Keyword:** highbet withdrawal time (40/mo)
@@ -934,7 +932,7 @@ Highbet supports major UK payment methods for deposits and withdrawals:
 
 **Pros:** PayPal acceptance is a major advantage as it's the preferred payment method for many UK bettors due to buyer protection and ease of use.
 
-See our [PayPal Betting Sites UK](/sport/betting/uk/paypal-betting-sites.htm) guide for more options.
+See our [PayPal Betting Sites UK](/sport/betting/uk/index.htm) guide for more options.
 
 ---
 
@@ -948,7 +946,7 @@ While Highbet provides comprehensive live betting markets across multiple sports
 
 **Impact:** The absence of live streaming makes Highbet less appealing for in-play bettors who prefer to watch and bet simultaneously. Live stats and score updates are available, but visual confirmation is missing.
 
-If live streaming is essential, consider Bet365 or William Hill instead. [Best UK Betting Sites](/sport/betting/uk/best-betting-sites.htm)
+If live streaming is essential, consider Bet365 or William Hill instead. [Best UK Betting Sites](/sport/betting/uk/index.htm)
 
 ---
 
@@ -1141,12 +1139,12 @@ Before writing, complete these research tasks:
 **12 Required Internal Links:**
 
 1. **[UK Betting Hub](/sport/betting/uk/)** - Introduction or breadcrumb
-2. **[Best UK Betting Sites](/sport/betting/uk/best-betting-sites.htm)** - Introduction or comparison
+2. **[Best UK Betting Sites](/sport/betting/uk/index.htm)** - Introduction or comparison
 3. **[Best Football Betting Sites UK](/sport/betting/uk/best-football-betting-sites.htm)** - Football betting section
 4. **[Best UK Casino Sites](/sport/betting/uk/best-casino-sites.htm)** - Casino review section
 5. **[UK Betting Bonuses](/sport/betting/uk/betting-bonuses.htm)** - Welcome bonus section
 6. **[Free Bets UK](/sport/betting/uk/free-bets.htm)** - Free bet offers section
-7. **[PayPal Betting Sites UK](/sport/betting/uk/paypal-betting-sites.htm)** - Banking section
+7. **[PayPal Betting Sites UK](/sport/betting/uk/index.htm)** - Banking section
 8. **[Fast Withdrawal Betting Sites UK](/sport/betting/uk/fast-withdrawal-betting-sites.htm)** - Withdrawal times section
 9. **[Betting Odds Calculator](/sport/betting/betting-odds-calculator.htm)** - Odds quality section
 10. **[Bonus Calculator](/sport/betting/bonus-calculator.htm)** - Welcome bonus section
@@ -1163,7 +1161,6 @@ Before writing, complete these research tasks:
 
 - [ ] **Age Requirement:** 18+ stated in introduction and throughout
 - [ ] **Responsible Gambling Hotline:** 0808 8020 133 included
-- [ ] **Affiliate Disclosure:** 50-75 words in introduction explaining commission and editorial independence
 - [ ] **BeGambleAware Link:** Included in responsible gambling section
 - [ ] **GAMSTOP Mention:** Self-exclusion option mentioned in licensing/RG section
 - [ ] **UKGC License:** License 39483 verified and prominently featured
@@ -1225,7 +1222,6 @@ Before submitting to Phase 3, verify:
 - [ ] 12 internal links included naturally
 - [ ] UKGC license 39483 verified and mentioned
 - [ ] UK compliance: 18+, 0808 8020 133, BeGambleAware
-- [ ] Affiliate disclosure in intro (50-75 words)
 - [ ] Pros & cons comprehensive and honest
 - [ ] No dated language anywhere
 - [ ] UK English spelling throughout

@@ -38,7 +38,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -1070,7 +1069,6 @@ function calculateAccaBoost() {
 **Phase 3 Completion Checklist:**
 - ✓ Meta tags (title, description, keywords, canonical)
 - ✓ Last Updated badge (December 15, 2025)
-- ✓ Affiliate disclosure (top of page)
 - ✓ Quick verdict box with 4.0/5 rating and letter badge (MYR #9C27B0)
 - ✓ Rating breakdown component (5 categories)
 - ✓ Feature comparison table (Myriadplay vs competitors)

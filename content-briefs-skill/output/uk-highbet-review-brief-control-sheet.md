@@ -206,14 +206,14 @@
 
 ### Market & Category Links
 3. [UK Betting Hub](/sport/betting/uk/)
-4. [Best UK Betting Sites](/sport/betting/uk/best-betting-sites.htm)
+4. [Best UK Betting Sites](/sport/betting/uk/index.htm)
 5. [Best Football Betting Sites UK](/sport/betting/uk/best-football-betting-sites.htm)
 6. [UK Casino Sites](/sport/betting/uk/best-casino-sites.htm)
 
 ### Feature-Specific Links
 7. [UK Betting Bonuses](/sport/betting/uk/betting-bonuses.htm)
 8. [Free Bets UK](/sport/betting/uk/free-bets.htm)
-9. [PayPal Betting Sites](/sport/betting/uk/paypal-betting-sites.htm)
+9. [PayPal Betting Sites](/sport/betting/uk/index.htm)
 10. [Fast Withdrawal Betting Sites](/sport/betting/uk/fast-withdrawal-betting-sites.htm)
 
 ### Guide Links
@@ -255,7 +255,6 @@
 - Age requirement: 18+ (not 21+ like USA)
 - Gambling Commission license: 39483
 - Responsible gambling section required
-- Affiliate disclosure in introduction
 - BeGambleAware.org resources
 - Self-exclusion tool information
 

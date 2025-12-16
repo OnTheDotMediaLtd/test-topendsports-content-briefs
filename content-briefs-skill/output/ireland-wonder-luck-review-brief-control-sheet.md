@@ -149,7 +149,6 @@ Wonder Luck has no existing comprehensive reviews in English. This presents a **
 
 ### Essential Elements
 - [ ] Last Updated badge (current date)
-- [ ] Affiliate disclosure (Ireland-compliant)
 - [ ] Wonder Luck badge: **WLK** with color **#F57C00**
 - [ ] Rating summary card (visual stars)
 - [ ] Pros/Cons comparison table
@@ -191,9 +190,6 @@ Wonder Luck has no existing comprehensive reviews in English. This presents a **
   - Gamblers Anonymous Ireland: www.gamblersanonymous.ie
 - **Currency:** EUR throughout
 - **Regulatory Body:** Gambling Regulatory Authority of Ireland
-
-### Affiliate Disclosure
-Standard Ireland-compliant disclosure in introduction section.
 
 ---
 

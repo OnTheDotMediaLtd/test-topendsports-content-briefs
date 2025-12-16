@@ -60,7 +60,6 @@ horse racing betting sites, grand national betting, ante post betting, best hors
    - Sentence 2: Authority statement (why these are best)
 
 2. **Disclosure (50-75 words):**
-   - Full affiliate disclosure
    - Does not impact pricing
    - Transparent relationship
 
@@ -102,7 +101,6 @@ The "Last Updated: December 15, 2025" badge appears **after** the H1, not in it.
 ### Introduction (100-150 words)
 - Direct answer: Bet442, LuckyMate, NRGbet are top picks
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - **Keyword:** "best horse racing betting sites"
 
 ---
@@ -659,13 +657,13 @@ Target 800 words total (75-100 words per answer)
 
 Place naturally throughout content:
 
-1. **"UK sports betting sites"** → `/sport/betting/uk/betting-sites.htm`
+1. **"UK sports betting sites"** → `/sport/betting/uk/index.htm`
    Placement: Introduction (parent category)
 
-2. **"football betting sites UK"** → `/sport/betting/uk/football-betting.htm`
+2. **"football betting sites UK"** → `/sport/betting/uk/football-betting-sites.htm`
    Placement: Conclusion/Related content
 
-3. **"tennis betting UK"** → `/sport/betting/uk/tennis-betting.htm`
+3. **"tennis betting UK"** → `/sport/betting/uk/index.htm`
    Placement: Conclusion/Related content
 
 4. **"Grand National betting guide"** → `/sport/horse-racing/grand-national-betting.htm`
@@ -689,7 +687,7 @@ Place naturally throughout content:
 10. **"greyhound betting sites"** → `/sport/betting/uk/greyhound-betting.htm`
     Placement: Conclusion/Related content
 
-11. **"golf betting UK"** → `/sport/betting/uk/golf-betting.htm`
+11. **"golf betting UK"** → `/sport/betting/uk/index.htm`
     Placement: Conclusion/Related content
 
 12. **"best free bets UK"** → `/sport/betting/uk/free-bets.htm`
@@ -791,8 +789,6 @@ Place naturally throughout content:
 - **UK Hotline:** 0808 8020 133
 - Display prominently in responsible gambling section
 
-### Affiliate Disclosure
-- Required in introduction (50-75 words)
 - Clear statement: "We may earn commission..."
 - Does not impact pricing
 - Does not influence rankings
@@ -848,7 +844,6 @@ Before submitting, verify:
 - [ ] 12 internal links placed naturally
 - [ ] Introduction is 100-150 words (not longer!)
 - [ ] No dated language in H1
-- [ ] Affiliate disclosure in intro
 - [ ] App Store/Google Play citations used
 - [ ] Responsible gambling section at bottom
 - [ ] All 9 brands have bonus codes (if required)

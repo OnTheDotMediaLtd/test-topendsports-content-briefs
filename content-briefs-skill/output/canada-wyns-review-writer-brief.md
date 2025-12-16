@@ -55,7 +55,6 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
    - Authority statement (testing methodology)
    - NO rhetorical questions, NO "Welcome to..."
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure about commissions
    - Transparency about editorial independence
 
@@ -93,7 +92,6 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 
 ### Introduction (200 words)
 - Opening: Direct answer about Wyns (40-50 words)
-- Affiliate disclosure (50-75 words)
 - Canadian betting context, integrate "canada sports betting" keyword
 - Overview of Wyns sports + casino platform
 
@@ -176,7 +174,7 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 - Processing times for deposits (instant vs 24-48 hours)
 - Overview linking to banking section below
 
-**Internal link:** [parlay calculator](/sport/betting/calculators/parlay.htm), [odds calculator](/sport/betting/calculators/odds.htm)
+**Internal link:** [parlay calculator](/sport/betting-tools/parlay-calculator.htm), [odds calculator](/sport/betting-tools/odds-calculator.htm)
 
 ---
 
@@ -365,7 +363,7 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 - **Banking options:** Comparison of payment methods
 - **Verdict:** Wyns' advantages vs Sports Interaction's reliability
 
-**Internal link:** [Sports Interaction review](/sport/betting/canada/sports-interaction-review.htm)
+**Internal link:** [Sports Interaction review](/sport/betting/canada/royalistplay-review.htm)
 
 #### H3: Wyns vs Betway Canada (120 words)
 
@@ -552,15 +550,19 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 - Account cooling-off period
 
 **Canadian Problem Gambling Resources:**
-- **ConnexOntario:** 1-866-531-2600 (Ontario)
-- **Gambling Help Line:** 1-888-795-6111 (British Columbia)
-- **Alberta Health Services:** 1-866-332-2322
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location:**
+  - British Columbia: 1-888-795-6111
+  - Alberta: 1-866-332-2322
+  - Manitoba: Problem Gambling Helpline
+  - Quebec: 1-800-461-0140
 - **Gambling Therapy:** Free online support (www.gamblingtherapy.org)
 - **Gamblers Anonymous:** Local meetings across Canada
 
 **Provincial Resources:**
 - List varies by province - link to provincial health services
-- Self-exclusion registries (Ontario: gamesenselb.ca)
+- Self-exclusion registries vary by province
 
 **Internal link:** [responsible gambling resources](/sport/betting/responsible-gambling.htm)
 
@@ -642,18 +644,18 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 
 Include these naturally throughout content:
 
-1. [best sports betting sites in Canada](/sport/betting/canada/best-sites.htm) - Introduction or comparison section
-2. [Bet99 review](/sport/betting/canada/bet99-review.htm) - Comparison section
-3. [Sports Interaction review](/sport/betting/canada/sports-interaction-review.htm) - Comparison section
-4. [Ontario sports betting guide](/sport/betting/canada/ontario.htm) - Ontario section
-5. [Canadian online casinos](/sport/betting/canada/online-casinos.htm) - Casino features section
-6. [sports betting odds explained](/sport/betting/guides/odds-explained.htm) - Betting markets section
-7. [parlay calculator](/sport/betting/calculators/parlay.htm) - Feature analysis section
-8. [odds calculator](/sport/betting/calculators/odds.htm) - Feature analysis section
-9. [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
-10. [how to bet on sports in Canada](/sport/betting/canada/how-to-bet.htm) - Introduction or Ontario section
-11. [Betway Canada review](/sport/betting/canada/betway-review.htm) - Comparison section
-12. [Proline betting guide](/sport/betting/canada/proline.htm) - Comparison section
+1. [best sports betting sites in Canada](/sport/betting/canada/index.htm) - Introduction or comparison section
+2. [best betting apps Canada](/sport/betting/canada/betting-apps.htm) - Mobile section
+3. [new betting sites Canada](/sport/betting/canada/new-betting-sites.htm) - Comparison section
+4. [Treasure Spins review](/sport/betting/canada/treasurespins-review.htm) - Comparison section
+5. [Royalistplay review](/sport/betting/canada/royalistplay-review.htm) - Comparison section
+6. [Lucky7even review](/sport/betting/canada/lucky7even-review.htm) - Comparison section
+7. [Lizaro review](/sport/betting/canada/lizaro-review.htm) - Comparison section
+8. [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Feature analysis section
+9. [odds calculator](/sport/betting-tools/odds-calculator.htm) - Feature analysis section
+10. [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
+11. [Best NHL Betting Sites](/sport/betting/nhl/index.htm) - Sports betting section
+12. [Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm) - Betting guides
 
 ---
 
@@ -662,8 +664,7 @@ Include these naturally throughout content:
 ### Canadian Market Requirements:
 
 - ✅ **Age disclosure:** 19+ in most provinces (ON, BC, NB, NL, NS, PE, SK), 18+ in AB, MB, QC
-- ✅ **Helpline:** ConnexOntario: 1-866-531-2600 (Ontario), provincial helplines vary
-- ✅ **Affiliate disclosure:** Required in introduction (50-75 words)
+- ✅ **Resources:** Responsible Gambling Council and CCSA, provincial helplines vary
 - ✅ **Responsible gambling section:** Required at end
 - ✅ **No dated language in H1:** Use "Complete Guide" not "2025 Review"
 - ✅ **Last Updated badge:** Will be added by AI after H1 in Phase 3
@@ -790,7 +791,6 @@ Before submitting to AI for Phase 3:
 - [ ] All comparison brands addressed (Bet99, Sports Interaction, Betway, Proline)
 - [ ] Age requirements by province specified
 - [ ] Canadian helplines listed
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section included
 - [ ] NO dated language in H1 or headings
 - [ ] Objective, non-promotional tone maintained

@@ -414,12 +414,6 @@
 </section>
 ```
 
-### Affiliate Disclosure
-```html
-<section class="affiliate-disclosure" style="background: #fef2f2; padding: 20px; margin: 30px 0; border: 1px solid #fecaca; border-radius: 6px; font-size: 13px;">
-  <strong>Affiliate Disclosure:</strong> TopEndSports may earn a commission when you click links to partner sportsbooks and open accounts. This does not affect the accuracy of our reviews or recommendations. We are transparent: we only recommend sites we would use ourselves. Commissions help us maintain free guides and testing resources. Our recommendations are always based on operator quality, not commission size.
-</section>
-```
 
 ---
 
@@ -570,19 +564,19 @@ function toggleStrategy(element) {
   <h4 style="margin-top: 0;">Useful Tools & Resources</h4>
   <ul style="list-style: none; padding: 0;">
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/tools/odds-converter.htm">Odds Converter Tool</a></strong> - Convert between decimal, fractional, and American odds formats
+      <strong><a href="/sport/betting-tools/odds-calculator.htm">Odds Converter Tool</a></strong> - Convert between decimal, fractional, and American odds formats
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/tools/parlay-calculator.htm">Accumulator Calculator</a></strong> - Calculate combined odds and potential returns on multi-leg bets
+      <strong><a href="/sport/betting-tools/parlay-calculator.htm">Accumulator Calculator</a></strong> - Calculate combined odds and potential returns on multi-leg bets
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/sport/betting/uk/premier-league-betting.htm">Premier League Betting Guide</a></strong> - In-depth Premier League betting strategies and market analysis
+      <strong><a href="/sport/betting/uk/football-betting-sites.htm">Premier League Betting Guide</a></strong> - In-depth Premier League betting strategies and market analysis
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/sport/betting/uk/accumulator-tips.htm">Accumulator Betting Tips</a></strong> - Pro strategies for multi-leg accumulators
+      <strong><a href="/sport/betting/guides/parlay.htm">Accumulator Betting Tips</a></strong> - Pro strategies for multi-leg accumulators
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/sport/betting/uk/in-play-football.htm">Live Betting Guide</a></strong> - In-play football betting strategies and tips
+      <strong><a href="/sport/betting/uk/football-betting-sites.htm">Live Betting Guide</a></strong> - In-play football betting strategies and tips
     </li>
     <li style="padding: 8px 0;">
       <strong><a href="/sport/betting/responsible-gambling.htm">Responsible Gambling Hub</a></strong> - Support resources and safe betting practices

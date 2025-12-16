@@ -38,8 +38,6 @@
   </div>
 </div>
 
-<p class="affiliate-disclosure">
-  <strong>Affiliate Disclosure:</strong> This review is independently written and contains affiliate links. We may earn commission on signups, but this does not affect our ratings. <strong>Age 18+</strong>. <strong>BeGambleAware:</strong> For free, confidential support call the National Gambling Helpline on <strong>0808 8020 133</strong> or visit <a href="https://www.begambleaware.org">BeGambleAware.org</a>.
 </p>
 
 <style>
@@ -62,7 +60,6 @@
     font-weight: bold;
   }
 
-  .affiliate-disclosure {
     background: #fff3cd;
     border: 1px solid #ffc107;
     padding: 12px 15px;
@@ -807,24 +804,24 @@
 <!-- Internal Links Implementation -->
 
 <!-- Introduction Section -->
-<a href="/sport/betting/uk/best-betting-sites.htm">best betting sites UK</a>
+<a href="/sport/betting/uk/index.htm">best betting sites UK</a>
 
 <!-- Betting Markets Section -->
-<a href="/sport/betting/uk/football-odds.htm">football betting odds</a>
-<a href="/sport/betting/live-betting-guide.htm">live betting guide</a>
-<a href="/sport/betting/odds-comparison.htm">odds comparison</a>
+<a href="/sport/betting/uk/football-betting-sites.htm">football betting odds</a>
+<a href="/sport/betting/guides/live-betting.htm">live betting guide</a>
+<a href="/sport/betting/uk/index.htm">odds comparison</a>
 
 <!-- Mobile App Section -->
-<a href="/sport/betting/uk/best-betting-apps.htm">betting apps UK</a>
+<a href="/sport/betting/uk/betting-apps.htm">betting apps UK</a>
 
 <!-- Bonus Section -->
 <a href="/sport/betting/uk/welcome-bonus-offers.htm">welcome bonus offers</a>
 
 <!-- Casino Section -->
-<a href="/sport/betting/uk/casino-bonuses.htm">casino bonuses UK</a>
+<a href="/sport/betting/uk/betting-offers.htm">casino bonuses UK</a>
 
 <!-- Payment Methods Section -->
-<a href="/sport/betting/payment-methods.htm">payment methods guide</a>
+<a href="/sport/betting/uk/index.htm">payment methods guide</a>
 
 <!-- Getting Started Section -->
 <a href="/sport/betting/how-to-place-a-bet.htm">how to place a bet</a>
@@ -833,10 +830,10 @@
 <a href="/sport/betting/responsible-gambling.htm">responsible gambling</a>
 
 <!-- Final Verdict Section -->
-<a href="/sport/betting/strategies.htm">betting strategies</a>
+<a href="/sport/betting/guides/parlay.htm">betting strategies</a>
 
 <!-- FAQ Section -->
-<a href="/sport/betting/glossary.htm">sports betting glossary</a>
+<a href="/sport/betting/guides/betting-glossary.htm">sports betting glossary</a>
 ```
 
 ---
@@ -851,7 +848,7 @@
 
   <p><strong>22bet is best for:</strong> UK bettors seeking massive sports coverage (1000+ daily events), competitive odds, and combined sportsbook/casino in one account. If you're comfortable with Curacao regulation (vs UKGC) and want cryptocurrency payment options, 22bet offers excellent value.</p>
 
-  <p><strong>Consider alternatives if:</strong> You prioritize UKGC regulation, prefer established UK operators, or want 24/7 local customer support. <a href="/sport/betting/uk/best-betting-sites.htm">See our guide to best UK betting sites</a> for UKGC-licensed options.</p>
+  <p><strong>Consider alternatives if:</strong> You prioritize UKGC regulation, prefer established UK operators, or want 24/7 local customer support. <a href="/sport/betting/uk/index.htm">See our guide to best UK betting sites</a> for UKGC-licensed options.</p>
 
   <p><strong>Key Decision Factors:</strong></p>
   <ul>
@@ -928,7 +925,6 @@
 - [x] Meta tags (title, description, keywords, OG tags)
 - [x] Last Updated badge (December 15, 2025)
 - [x] Brand badge (22B #1B5E20)
-- [x] Affiliate disclosure (18+, helpline, BeGambleAware)
 - [x] Quick answer box (5 key facts)
 - [x] Comparison table (22bet vs Bet365, William Hill, Ladbrokes)
 - [x] T&Cs section (8 subsections, complete but compact)

@@ -181,7 +181,6 @@
 - **Responsible Gambling:** GamStop (self-exclusion), GamCare, BeGambleAware
 - **Payment Restrictions:** Credit card ban (April 2020) - debit cards and e-wallets only
 - **Taxation:** UK betting is tax-free for consumers (operators pay Point of Consumption Tax)
-- **Affiliate Disclosure:** Required in introduction (FCA/UKGC guidelines)
 
 ---
 

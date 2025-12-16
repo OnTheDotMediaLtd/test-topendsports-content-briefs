@@ -137,7 +137,6 @@ High-volume opportunity keywords:
    - Keywords: nrgbet, nrgbet review, nrg bet
    - Quick verdict on NRGbet
    - UK Gambling Commission license mention
-   - Affiliate disclosure
 
 **2. NRGbet Overview** (300-350 words)
    - Keywords: nrgbet, nrg bet, nrg betting
@@ -289,14 +288,14 @@ High-volume opportunity keywords:
 1. "Best UK Betting Sites" → /sport/betting/uk/index.htm
 2. "New Betting Sites UK" → /sport/betting/uk/new-betting-sites.htm
 3. "UK Betting Apps" → /sport/betting/uk/betting-apps.htm
-4. "Live Betting Guide" → /sport/betting/live-betting-guide.htm
+4. "Live Betting Guide" → /sport/betting/guides/live-betting.htm
 5. "Esports Betting UK" → /sport/betting/esports-betting.htm
-6. "bet365 Review" → /sport/betting/uk/bet365-review.htm
-7. "William Hill Review" → /sport/betting/uk/william-hill-review.htm
+6. "bet365 Review" → /sport/betting/uk/22bet-review.htm
+7. "William Hill Review" → /sport/betting/uk/bet442-review.htm
 8. "UK Gambling Commission Guide" → /sport/betting/uk/ukgc-licensing.htm
-9. "Football Betting UK" → /sport/betting/uk/football-betting.htm
+9. "Football Betting UK" → /sport/betting/uk/football-betting-sites.htm
 10. "Accumulator Betting Tips" → /sport/betting/accumulator-tips.htm
-11. "GamStop Self-Exclusion" → /sport/betting/gamstop.htm
+11. "GamStop Self-Exclusion" → /sport/betting/responsible-gambling.htm
 12. "Responsible Gambling UK" → /sport/betting/responsible-gambling.htm
 
 ---

@@ -34,7 +34,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE (Top Section)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">

@@ -32,12 +32,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>⚠️ Affiliate Disclosure:</strong> TopEndSports may earn commission when you sign up and place bets through our links. We conduct thorough testing and analysis to provide objective reviews. Must be 18+. Gambling involves risk. Please gamble responsibly.
   </p>
 </div>
 ```
@@ -907,12 +905,12 @@ function calculateBonus() {
 
   <ul style="margin: 0; padding-left: 1.25rem; line-height: 2; color: #333;">
     <li><a href="/sport/betting/uk/" style="color: #1976d2; text-decoration: none; font-weight: 500;">UK Betting Hub</a> - Complete guide to legal UK betting sites</li>
-    <li><a href="/sport/betting/uk/best-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Betting Sites</a> - Top-rated sportsbooks comparison</li>
+    <li><a href="/sport/betting/uk/index.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Betting Sites</a> - Top-rated sportsbooks comparison</li>
     <li><a href="/sport/betting/uk/best-football-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best Football Betting Sites</a> - Premier League & EFL specialists</li>
     <li><a href="/sport/betting/uk/best-casino-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Casino Sites</a> - Online casino reviews</li>
     <li><a href="/sport/betting/uk/betting-bonuses.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">UK Betting Bonuses</a> - Current welcome offers guide</li>
     <li><a href="/sport/betting/uk/free-bets.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Free Bets UK</a> - Latest free bet offers</li>
-    <li><a href="/sport/betting/uk/paypal-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">PayPal Betting Sites</a> - PayPal-accepted operators</li>
+    <li><a href="/sport/betting/uk/index.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">PayPal Betting Sites</a> - PayPal-accepted operators</li>
     <li><a href="/sport/betting/uk/fast-withdrawal-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Fast Withdrawal Betting Sites</a> - Quick payout operators</li>
     <li><a href="/sport/betting/betting-odds-calculator.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Betting Odds Calculator</a> - Calculate potential winnings</li>
     <li><a href="/sport/betting/bonus-calculator.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Bonus Calculator</a> - Welcome bonus value estimator</li>
@@ -943,7 +941,6 @@ function calculateBonus() {
 - Complete £30 free bet T&Cs with no ambiguity
 - 10 FAQ schema questions optimized for keywords
 - Pros/cons with app and live streaming listed as cons
-- Affiliate disclosure and responsible gambling section
 - 12 internal links to related TopEndSports content
 - Bonus calculator, sports checklist, and payment table
 - Comparison table with 5 competitors

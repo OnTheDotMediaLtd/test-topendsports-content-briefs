@@ -50,8 +50,6 @@ new betting sites uk, new bookmakers uk, new uk bookies, newest betting sites, n
    - Sentence 1: Direct answer with top 3 new betting sites
    - Sentence 2: Authority statement about UKGC licensing and testing methodology
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commissions
    - Does not impact pricing for users
    - Independent testing and reviews
 
@@ -67,7 +65,6 @@ The best new betting sites UK are Bet442, LuckyMate, and 7Bet. All three operato
 hold UKGC licenses, offer modern mobile-first experiences, and provide competitive
 welcome bonuses verified through our testing.
 
-[Affiliate disclosure paragraph - 50-75 words about earning commissions,
 independence, etc.]
 ```
 
@@ -95,7 +92,6 @@ Last Updated: December 2024
 ### Introduction (100-150 words)
 - Direct answer with top 3 new betting sites
 - UKGC licensing emphasis
-- Affiliate disclosure
 
 ---
 
@@ -805,7 +801,7 @@ Place contextually within content:
 2. [UK betting apps](/sport/betting/uk/betting-apps.htm) - Mobile section
 3. [best UK bookmakers](/sport/betting/uk/best-bookmakers.htm) - Comparison section
 4. [online betting UK](/sport/betting/uk/online-betting.htm) - Online betting discussion
-5. [football betting sites UK](/sport/betting/uk/football-betting.htm) - Sports coverage
+5. [football betting sites UK](/sport/betting/uk/football-betting-sites.htm) - Sports coverage
 6. [UK free bets](/sport/betting/uk/free-bets.htm) - Welcome bonus section
 7. [betting bonuses UK](/sport/betting/uk/betting-bonuses.htm) - Latest offers
 8. [horse racing betting UK](/sport/betting/uk/horse-racing.htm) - Sports variety
@@ -821,7 +817,6 @@ Place contextually within content:
 ### Mandatory Elements:
 - ✅ 18+ age restriction (NOT 21+ - this is UK)
 - ✅ BeGambleAware.org link and phone: 0808 8020 133
-- ✅ Affiliate disclosure in introduction
 - ✅ Responsible gambling section at bottom
 - ✅ UKGC license numbers for ALL 7 operators
 - ✅ Complete T&Cs for all bonuses
@@ -912,7 +907,6 @@ Before submitting, verify:
 - [ ] No dated language in H1
 - [ ] Last Updated badge after H1
 - [ ] Intro is 100-150 words (not longer)
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section at bottom
 - [ ] Payment methods comparison table described
 - [ ] Mobile experience comparison table described

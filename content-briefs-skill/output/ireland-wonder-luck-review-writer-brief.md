@@ -74,7 +74,6 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 - Sentence 2: Authority statement ("verified through research", "tested across…")
 - Example: "Wonder Luck is an emerging Irish-friendly sportsbook offering [bonus], competitive odds, and [key feature]. Our research tested [X features] across [Y categories] to verify its quality."
 
-**Affiliate Disclosure (50-75 words):**
 - "We may earn commission when you sign up through our links. This helps fund our independent testing and review process. Our ratings and recommendations are based solely on testing quality and user experience, not commission amounts. We tested Wonder Luck across [specific criteria] to assess its suitability for Irish players."
 
 **Forbidden Elements:**
@@ -101,7 +100,6 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 - Direct verdict opening (40-50 words)
 - Key USPs highlighted (bonus amount EUR, market focus, key features)
 - Authority statement ("tested and verified")
-- Affiliate disclosure (50-75 words)
 - Internal link: "best betting sites Ireland" (to /sport/betting/ireland/index.htm)
 
 **Tone:** Direct, authoritative, balanced assessment of newer operator
@@ -627,8 +625,8 @@ All FAQ questions must target secondary keywords. Use **Schema-ready format** fo
 1. **"best betting sites in Ireland"** → /sport/betting/ireland/index.htm
    *Placement:* Intro + Comparison section
 
-2. **"new betting sites Ireland"** → /sport/betting/ireland/betting-apps.htm
-   *Placement:* New operator positioning
+2. **"betting apps Ireland"** → /sport/betting/ireland/betting-apps.htm
+   *Placement:* Mobile app section
 
 3. **"free bets Ireland"** → /sport/betting/ireland/free-bets.htm
    *Placement:* Bonus section
@@ -636,29 +634,29 @@ All FAQ questions must target secondary keywords. Use **Schema-ready format** fo
 4. **"Lunubet review"** → /sport/betting/ireland/lunubet-review.htm
    *Placement:* Similar newer operators comparison
 
-5. **"Bet365 review"** → /sport/betting/ireland/bet365-review.htm
-   *Placement:* Comparison section (vs major operators)
+5. **"Betalright review"** → /sport/betting/ireland/betalright-review.htm
+   *Placement:* Comparison section
 
-6. **"Paddy Power review"** → /sport/betting/ireland/paddy-power-review.htm
-   *Placement:* Comparison section (Irish operator)
+6. **"Casina review"** → /sport/betting/ireland/casina-review.htm
+   *Placement:* Comparison section
 
-7. **"BoyleSports review"** → /sport/betting/ireland/boylesports-review.htm
-   *Placement:* Comparison section (Irish-owned)
+7. **"Festival Play review"** → /sport/betting/ireland/festivalplay-review.htm
+   *Placement:* Comparison section
 
-8. **"betting apps Ireland"** → /sport/betting/ireland/betting-apps.htm
-   *Placement:* Mobile app section
+8. **"Betovo review"** → /sport/betting/ireland/betovo-review.htm
+   *Placement:* Comparison section
 
-9. **"GAA betting"** → /sport/betting/gaelic-games.htm
-   *Placement:* Sports markets section
+9. **"Millioner review"** → /sport/betting/ireland/millioner-review.htm
+   *Placement:* Comparison section
 
-10. **"horse racing betting Ireland"** → /sport/betting/horse-racing.htm
+10. **"22bet Ireland review"** → /sport/betting/ireland/22bet-review.htm
+    *Placement:* Comparison section
+
+11. **"parlay calculator"** → /sport/betting-tools/parlay-calculator.htm
     *Placement:* Sports markets section
 
-11. **"responsible gambling Ireland"** → /sport/betting/ireland/responsible-gambling.htm
+12. **"responsible gambling"** → /sport/betting/responsible-gambling.htm
     *Placement:* Responsible gambling section
-
-12. **"betting calculator"** → /calculators/odds.htm
-    *Placement:* Calculator/tools references
 
 ---
 
@@ -737,7 +735,6 @@ All FAQ questions must target secondary keywords. Use **Schema-ready format** fo
 - [ ] Currency: EUR throughout entire article
 - [ ] Helpline: Dunlewey Addiction Services: 1800 911 029
 - [ ] Resource link: www.gamblingcare.ie
-- [ ] Affiliate disclosure: 50-75 words in introduction
 - [ ] "Last Updated" badge: After H1 title
 - [ ] Responsible gambling section: Bottom of article
 - [ ] All 15 keywords mapped to specific sections
@@ -827,7 +824,6 @@ Before submitting for AI Enhancement (Phase 3):
 - [ ] Age requirement: 18+ mentioned explicitly
 - [ ] Currency: EUR used throughout
 - [ ] Responsible gambling section at bottom with Irish helpline
-- [ ] Affiliate disclosure 50-75 words
 - [ ] Last Updated badge format specified
 - [ ] No placeholders like "[Insert]" or "..."
 - [ ] No dated language in H1

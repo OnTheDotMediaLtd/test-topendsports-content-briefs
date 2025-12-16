@@ -40,7 +40,7 @@
 ### Top 3 Competitors Summary
 
 | Rank | Domain | DR | Traffic | Strengths |
-|------|--------|----|---------|-----------||
+|------|--------|----|---------|-----------|
 | 1 | bonusfinder.ie | 67 | 450 | Ireland-specific, comprehensive aggregator, strong T&Cs transparency |
 | 2 | freebets.ie | 52 | 320 | Local Irish authority, dedicated niche, regularly updated |
 | 3 | gambling.com/ie | 78 | 280 | High domain authority, international credibility, Ireland section |
@@ -139,7 +139,6 @@
 
 ### Mandatory Sections Checklist
 
-- [x] **Introduction** (150 words) - Top 3 free bet offers, authority statement, affiliate disclosure
 - [x] **Comparison Table** (200 words) - Interactive, sortable by free bet amount, wagering requirements, min deposit
 - [x] **Individual Free Bet Reviews** (5,000 words total)
   - [x] Key Offer Details per brand (150-200 words each)
@@ -275,7 +274,6 @@
 - Hotline: Use Irish appropriate resources (not USA 1-800-522-4700)
 
 **Keep from USA:**
-- Affiliate disclosure transparency
 - T&Cs verification requirements (CRITICAL for free bet offers)
 - Source citation standards (official bookmaker sites, T&Cs pages)
 - Honest assessment of offer value and wagering difficulty

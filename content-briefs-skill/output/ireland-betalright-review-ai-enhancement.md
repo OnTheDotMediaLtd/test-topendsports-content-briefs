@@ -54,7 +54,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE BOX
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -796,16 +795,16 @@
 The following internal links should be integrated into the content:
 
 ```
-1. "betting sites Ireland" → /sport/betting/ireland/betting-hub.htm
+1. "betting sites Ireland" → /sport/betting/ireland/index.htm
 2. "GAA betting" → /sport/betting/ireland/gaa-betting.htm
-3. "Paddy Power review" → /sport/betting/ireland/paddy-power-review.htm
-4. "BoyleSports review" → /sport/betting/ireland/boylesports-review.htm
-5. "Bet365 Ireland review" → /sport/betting/ireland/bet365-review.htm
+3. "Paddy Power review" → /sport/betting/ireland/lunubet-review.htm
+4. "BoyleSports review" → /sport/betting/ireland/betalright-review.htm
+5. "Bet365 Ireland review" → /sport/betting/ireland/22bet-review.htm
 6. "sports betting Ireland" → /sport/betting/ireland/sports-betting-guide.htm
 7. "football betting Ireland" → /sport/betting/ireland/football-betting.htm
 8. "live betting Ireland" → /sport/betting/ireland/live-betting-guide.htm
 9. "best betting apps Ireland" → /sport/betting/ireland/betting-apps.htm
-10. "parlay calculator" → /tools/parlay-calculator.htm
+10. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm
 11. "odds calculator" → /tools/odds-calculator.htm
 12. "responsible gambling resources" → /sport/betting/responsible-gambling.htm
 ```
@@ -817,7 +816,6 @@ The following internal links should be integrated into the content:
 - ✓ Meta tags complete with no date language
 - ✓ Last Updated badge with current date (December 15, 2025)
 - ✓ Letter badge BTR with color #1E88E5
-- ✓ Affiliate disclosure box prominent
 - ✓ Quick verdict box with 4.0/5.0 rating and key stats
 - ✓ Rating breakdown component with 6 metrics
 - ✓ Feature comparison table (4-brand matrix)

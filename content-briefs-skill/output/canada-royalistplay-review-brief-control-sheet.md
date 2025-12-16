@@ -147,7 +147,6 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 ### Must Include
 - [ ] Last Updated badge (December 2025)
 - [ ] Letter badge: **RPL** with color #4CAF50
-- [ ] Affiliate disclosure (top of page)
 - [ ] Rating widget/star rating visual
 - [ ] Pros/cons checklist or table
 - [ ] Payment methods comparison table
@@ -182,8 +181,8 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 7. **Festival Play Sport Review** → /sport/betting/canada/festivalplay-review.htm
 
 ### Calculator Tools
-8. **Parlay Calculator** → /sport/betting/calculators/parlay.htm
-9. **Odds Calculator** → /sport/betting/calculators/odds.htm
+8. **Parlay Calculator** → /sport/betting-tools/parlay-calculator.htm
+9. **Odds Calculator** → /sport/betting-tools/odds-calculator.htm
 
 ### Educational Content
 10. **Sports Betting Odds Explained** → /sport/betting/guides/odds-explained.htm
@@ -203,7 +202,7 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 
 ### Tier 2 (Verification)
 - [ ] Curaçao eGaming license verification
-- [ ] ConnexOntario responsible gambling resources
+- [ ] Responsible Gambling Council resources
 - [ ] AGCO Ontario regulations (for comparison context)
 
 ### Tier 3 (Context)
@@ -222,11 +221,14 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 - **Most other provinces:** 19+
 
 ### Helplines
-- **ConnexOntario:** 1-866-531-2600
-- **Problem Gambling Helpline:** 1-888-795-6111
+- **Responsible Gambling Council:** www.responsiblegambling.org
+- **Provincial Helplines:**
+  - Alberta: 1-866-332-2322
+  - BC: 1-888-795-6111
+  - Quebec: 1-800-461-0140
+  - Ontario: 1-866-531-2600 (Responsible Gambling Council)
 
 ### Mandatory Disclosures
-- [ ] Affiliate disclosure in introduction
 - [ ] Offshore licensing disclaimer (not Ontario-regulated)
 - [ ] Provincial availability statement
 - [ ] Responsible gambling section with resources

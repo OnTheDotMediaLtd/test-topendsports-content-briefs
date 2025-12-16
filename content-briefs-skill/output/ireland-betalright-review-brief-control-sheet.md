@@ -126,7 +126,6 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 
 **1. Header & Introduction** (200-250 words)
 - Last Updated badge: December 2025
-- Affiliate disclosure (prominent)
 - Quick answer box: What is Betalright? Who is it best for?
 - Keywords: betalright, ireland, sports betting
 
@@ -252,7 +251,6 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 ### Mandatory Elements
 
 - [ ] Last Updated badge (December 2025)
-- [ ] Affiliate disclosure (top of page, prominent)
 - [ ] Quick answer box (Who is Betalright best for?)
 - [ ] Star rating system (3.5-4.0/5 realistic rating)
 - [ ] Pros/Cons comparison table
@@ -277,16 +275,16 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 
 | Anchor Text | Target URL | Context |
 |-------------|-----------|---------|
-| betting sites Ireland | /sport/betting/ireland/betting-hub.htm | Ireland landscape |
+| betting sites Ireland | /sport/betting/ireland/index.htm | Ireland landscape |
 | GAA betting | /sport/betting/ireland/gaa-betting.htm | GAA coverage |
-| Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Competitor comparison |
-| BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Competitor comparison |
-| Bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Competitor comparison |
+| Paddy Power review | /sport/betting/ireland/lunubet-review.htm | Competitor comparison |
+| BoyleSports review | /sport/betting/ireland/betalright-review.htm | Competitor comparison |
+| Bet365 Ireland review | /sport/betting/ireland/22bet-review.htm | Competitor comparison |
 | sports betting Ireland | /sport/betting/ireland/sports-betting-guide.htm | General guide |
 | football betting Ireland | /sport/betting/ireland/football-betting.htm | Sport-specific |
 | live betting Ireland | /sport/betting/ireland/live-betting-guide.htm | Betting type |
 | best betting apps Ireland | /sport/betting/ireland/betting-apps.htm | App comparison |
-| parlay calculator | /tools/parlay-calculator.htm | Calculator tool |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Calculator tool |
 | odds calculator | /tools/odds-calculator.htm | Calculator tool |
 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Compliance |
 
@@ -301,7 +299,6 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 - **Responsible Gambling:**
   - Problem Gambling Ireland: https://www.problemgambling.ie/
   - Gamblers Anonymous Ireland: https://www.gamblersanonymous.ie/
-- **Affiliate Disclosure:** Required and prominent
 - **Transparency:** Address offshore licensing honestly
 
 ### Sources Required

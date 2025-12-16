@@ -110,7 +110,7 @@ Legendplay is an **emerging Canadian sportsbook and casino operator** competing 
 - Canadian payment methods (Interac, EFT, Canadian banks)
 - NHL and CFL betting coverage emphasis
 - Provincial age requirements (19+ most provinces, 18+ in AB/MB/QC)
-- Canadian responsible gambling resources (ConnexOntario: 1-800-463-1554)
+- Canadian responsible gambling resources (Provincial helplines and Responsible Gambling Council)
 
 ---
 
@@ -133,7 +133,6 @@ Based on competitor analysis, Legendplay-specific content is minimal. Opportunit
 **Visual Elements:**
 - [ ] Last Updated badge (dynamic date)
 - [ ] Letter badge: **LGP** with color **#0288D1**
-- [ ] Affiliate disclosure (prominent)
 - [ ] 5-star rating display
 - [ ] Payment methods comparison table
 - [ ] Provincial availability table
@@ -148,7 +147,8 @@ Based on competitor analysis, Legendplay-specific content is minimal. Opportunit
 
 **Compliance:**
 - [ ] Age: 19+ (18+ in AB, MB, QC)
-- [ ] Helpline: 1-800-463-1554 (ConnexOntario)
+- [ ] Helplines: Provincial helplines (AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140)
+- [ ] National Resource: Responsible Gambling Council (www.responsiblegambling.org)
 - [ ] Provincial variations noted
 - [ ] Responsible gambling footer
 
@@ -158,10 +158,10 @@ Based on competitor analysis, Legendplay-specific content is minimal. Opportunit
 
 1. "best sportsbooks Canada" → /sport/betting/canada/best-betting-sites.htm
 2. "sports betting Ontario" → /sport/betting/canada/ontario-betting.htm
-3. "Bet365 Canada review" → /sport/betting/canada/bet365-review.htm
+3. "Bet365 Canada review" → /sport/betting/canada/treasurespins-review.htm
 4. "NHL betting guide" → /sport/betting/nhl-betting.htm
-5. "parlay calculator" → /sport/betting/calculators/parlay.htm
-6. "odds calculator" → /sport/betting/calculators/odds.htm
+5. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm
+6. "odds calculator" → /sport/betting-tools/odds-calculator.htm
 7. "Canadian betting apps" → /sport/betting/canada/best-betting-apps.htm
 8. "responsible gambling Canada" → /sport/betting/responsible-gambling.htm
 9. "how to withdraw from sportsbooks" → /sport/betting/guides/how-to-withdraw.htm

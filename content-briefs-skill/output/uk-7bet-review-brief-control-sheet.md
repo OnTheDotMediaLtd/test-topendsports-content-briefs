@@ -263,7 +263,6 @@
 - [x] **Introduction** (200-250 words)
   - Last Updated badge
   - 7BT letter badge (#E91E63)
-  - Affiliate disclosure
   - Quick answer box
   - Overview of 7bet positioning
 
@@ -416,7 +415,6 @@
 
 - [x] 7BT letter badge in #E91E63 color
 - [x] Last Updated badge (December 2025)
-- [x] Affiliate disclosure box
 - [x] Quick answer box with key takeaway
 - [x] Rating stars visualization (3.5/5)
 - [x] Pros/Cons styled bullets
@@ -447,16 +445,16 @@
 
 | Anchor Text | Target URL | Context |
 |-------------|-----------|---------|
-| best UK betting sites | /sport/betting/uk/best-betting-sites.htm | Introduction comparison |
-| UK betting apps | /sport/betting/uk/best-betting-apps.htm | Mobile app section |
+| best UK betting sites | /sport/betting/uk/index.htm | Introduction comparison |
+| UK betting apps | /sport/betting/uk/betting-apps.htm | Mobile app section |
 | football betting sites UK | /sport/betting/uk/best-football-betting-sites.htm | Sports coverage |
 | casino betting sites | /sport/betting/uk/best-casino-sites.htm | Casino section |
 | free bet offers | /sport/betting/uk/free-bets.htm | Bonus section |
-| betting odds calculator | /sport/betting/calculators/odds-converter.htm | Sportsbook features |
+| betting odds calculator | /sport/betting-tools/odds-calculator.htm-converter.htm | Sportsbook features |
 | horse racing betting | /sport/betting/uk/horse-racing-betting.htm | Sports coverage |
-| PayPal betting sites | /sport/betting/uk/paypal-betting-sites.htm | Payment methods |
-| Bet365 review | /sport/betting/uk/bet365-review.htm | Competitor comparison |
-| William Hill review | /sport/betting/uk/william-hill-review.htm | Established brand comparison |
+| PayPal betting sites | /sport/betting/uk/index.htm | Payment methods |
+| Bet365 review | /sport/betting/uk/22bet-review.htm | Competitor comparison |
+| William Hill review | /sport/betting/uk/bet442-review.htm | Established brand comparison |
 | responsible gambling tools | /sport/betting/responsible-gambling.htm | Responsible gambling section |
 | how to claim a free bet | /sport/betting/guides/how-to-claim-free-bet.htm | Bonus claiming |
 
@@ -473,7 +471,6 @@
 | **License Display** | UKGC License 048788-R-327401-009 |
 | **Helplines** | BeGambleAware.org, GamCare |
 | **Responsible Gambling** | Section required at bottom |
-| **Affiliate Disclosure** | Prominent placement in introduction |
 | **Last Updated Badge** | Current date displayed |
 | **Terms Verification** | Within 7 days of publish |
 
@@ -569,7 +566,6 @@
 - [ ] 18+ age disclaimer
 - [ ] BeGambleAware.org link
 - [ ] UKGC license displayed
-- [ ] Affiliate disclosure prominent
 - [ ] Last updated badge
 - [ ] Responsible gambling section
 

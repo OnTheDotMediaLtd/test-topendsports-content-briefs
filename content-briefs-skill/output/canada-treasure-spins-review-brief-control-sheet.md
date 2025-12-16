@@ -123,7 +123,6 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 ## CONTENT SECTIONS (Template 1: Review)
 
 ### Required Sections
-- [ ] **Introduction** (150-200 words) - Quick answer, affiliate disclosure
 - [ ] **Treasure Spins Overview** (200-250 words) - What is it, positioning, key facts
 - [ ] **Rating Summary** (150-200 words) - Star rating, pros/cons at a glance
 - [ ] **Welcome Bonus Analysis** (300-350 words) - Bonus details, terms, comparison
@@ -147,7 +146,7 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - [ ] **CAD Currency Support** - No exchange fees
 - [ ] **Provincial Regulations** - Age requirements vary (19+ most provinces, 18+ in AB, MB, QC)
 - [ ] **Canadian Customer Support Hours** - Time zone considerations
-- [ ] **Canadian Responsible Gambling Resources** - 1-866-531-2600, Responsible Gambling Council
+- [ ] **Canadian Responsible Gambling Resources** - Responsible Gambling Council, provincial helplines
 
 ---
 
@@ -183,7 +182,6 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - [ ] FAQ schema markup (all 10 questions)
 - [ ] Article schema markup
 - [ ] Breadcrumb schema markup
-- [ ] Affiliate disclosure statement (top of page)
 - [ ] Responsible gambling section (bottom of page)
 - [ ] Canadian compliance badges/logos
 
@@ -257,11 +255,15 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - **18+ allowed:** Alberta, Manitoba, Quebec
 
 ### Canadian Gambling Resources
-- **Hotline:** 1-866-531-2600 (Canadian Problem Gambling Hotline)
-- **Organizations:** Responsible Gambling Council (Canada), ConnexOntario (Ontario), Gamblers Anonymous
+- **National:** Responsible Gambling Council (www.responsiblegambling.org)
+- **Provincial Helplines:**
+  - Alberta: 1-866-332-2322
+  - BC: 1-888-795-6111
+  - Quebec: 1-800-461-0140
+  - Ontario: 1-866-531-2600 (Responsible Gambling Council)
+- **Organizations:** Gamblers Anonymous
 
 ### Required Disclosures
-- [ ] Affiliate disclosure statement (top of page)
 - [ ] Age requirement (19+ in most provinces, 18+ in AB, MB, QC)
 - [ ] Provincial availability disclaimer
 - [ ] Responsible gambling resources

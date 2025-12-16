@@ -51,7 +51,6 @@ rabona casino, rabona, rabona ireland, online casino ireland, sports betting ire
    - Sentence 2-3: Key findings from testing (casino games, sports betting, bonuses)
    - Sentence 4: Authority statement
 
-2. **Affiliate Disclosure (75-100 words):**
    - Transparency about affiliate relationships
    - Editorial independence statement
    - Ireland-specific context
@@ -66,7 +65,6 @@ rabona casino, rabona, rabona ireland, online casino ireland, sports betting ire
 ```
 Rabona is a solid casino and sportsbook option for Irish players seeking extensive game variety and competitive bonuses, though it lacks the local market focus of established Irish operators. Our testing revealed 3,000+ casino games, comprehensive sports betting markets, and crypto payment support, but limited GAA coverage compared to Paddy Power or BoyleSports.
 
-[Affiliate disclosure paragraph...]
 ```
 
 ---
@@ -481,7 +479,7 @@ Cite specific Trustpilot reviews:
 
 **Verdict:** "Bet365 wins for sports bettors (live streaming, GAA depth). Rabona wins for casino players (3,000+ games vs Bet365's 500+)."
 
-**Internal link:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
+**Internal link:** [Bet365 Ireland review](/sport/betting/ireland/22bet-review.htm)
 
 #### H3: Rabona vs Paddy Power
 **Word Count:** 100-125 words
@@ -497,7 +495,7 @@ Cite specific Trustpilot reviews:
 
 **Verdict:** "Paddy Power is better for GAA enthusiasts and Irish racing fans. Rabona offers more casino variety and alternative payment methods (crypto)."
 
-**Internal link:** [Paddy Power Ireland](/sport/betting/ireland/paddypower-review.htm)
+**Internal link:** [Paddy Power Ireland](/sport/betting/ireland/lunubet-review.htm)
 
 #### H3: Rabona vs BoyleSports
 **Word Count:** 75-100 words
@@ -510,7 +508,7 @@ Cite specific Trustpilot reviews:
 - BoyleSports has better local customer support
 - BoyleSports understands Irish market better (GAA, racing)
 
-**Internal link:** [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)
+**Internal link:** [BoyleSports review](/sport/betting/ireland/betalright-review.htm)
 
 #### H3: Where Rabona Wins & Loses
 **Word Count:** 50-75 words
@@ -529,7 +527,7 @@ Cite specific Trustpilot reviews:
 
 **Best use case:** "Rabona works best as a secondary bookmaker for Irish players seeking casino variety and alternative payment methods."
 
-**Internal link:** [best betting sites Ireland](/sport/betting/ireland/betting-hub.htm)
+**Internal link:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
 
 ---
 
@@ -792,18 +790,18 @@ Recognize warning signs: chasing losses, gambling with money you can't afford to
 
 Place these links naturally within relevant sections:
 
-1. **[best betting sites Ireland](/sport/betting/ireland/betting-hub.htm)** - Introduction or comparison section
-2. **[online casino Ireland](/sport/betting/ireland/casino-hub.htm)** - Casino section
-3. **[sports betting Ireland guide](/sport/betting/ireland/guide.htm)** - Sports betting features
-4. **[parlay calculator](/sport/betting/calculator/parlay.htm)** - Sports betting section when discussing accumulators
-5. **[odds calculator](/sport/betting/calculator/odds.htm)** - Sports betting section
-6. **[responsible gambling resources](/sport/betting/responsible-gambling.htm)** - Responsible gambling section
-7. **[Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)** - Comparison section
-8. **[BoyleSports review](/sport/betting/ireland/boylesports-review.htm)** - Comparison section
-9. **[Paddy Power Ireland](/sport/betting/ireland/paddypower-review.htm)** - Comparison section
-10. **[live betting guide](/sport/betting/live-betting-guide.htm)** - Live betting features section
-11. **[casino bonus terms explained](/sport/betting/bonus-terms-guide.htm)** - Bonus breakdown section
-12. **[how to verify your casino account](/sport/betting/how-to/verify-account.htm)** - Payment methods section
+1. **[best betting sites Ireland](/sport/betting/ireland/index.htm)** - Introduction or comparison section
+2. **[betting apps Ireland](/sport/betting/ireland/betting-apps.htm)** - Mobile app section
+3. **[free bets Ireland](/sport/betting/ireland/free-bets.htm)** - Bonus section
+4. **[Lunubet review](/sport/betting/ireland/lunubet-review.htm)** - Comparison section
+5. **[Betalright review](/sport/betting/ireland/betalright-review.htm)** - Comparison section
+6. **[Casina review](/sport/betting/ireland/casina-review.htm)** - Comparison section
+7. **[Festival Play review](/sport/betting/ireland/festivalplay-review.htm)** - Comparison section
+8. **[Betovo review](/sport/betting/ireland/betovo-review.htm)** - Comparison section
+9. **[Millioner review](/sport/betting/ireland/millioner-review.htm)** - Comparison section
+10. **[22bet Ireland review](/sport/betting/ireland/22bet-review.htm)** - Comparison section
+11. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)** - Sports betting section when discussing accumulators
+12. **[responsible gambling resources](/sport/betting/responsible-gambling.htm)** - Responsible gambling section
 
 **Link format:** `[anchor text](/path/to/page.htm)`
 
@@ -814,7 +812,6 @@ Place these links naturally within relevant sections:
 ✅ **Age Requirement:** 18+ for Ireland (mention prominently)
 ✅ **Gambling Hotline:** Gambling Care Ireland: 1800 936 725
 ✅ **Gambling Resources:** https://www.gamblingcare.ie/
-✅ **Affiliate Disclosure:** In introduction (50-75 words)
 ✅ **Responsible Gambling Section:** Required at bottom
 ✅ **NO Dated Language in H1:** Use timeless title
 ✅ **Last Updated Badge:** After H1 (AI will add)

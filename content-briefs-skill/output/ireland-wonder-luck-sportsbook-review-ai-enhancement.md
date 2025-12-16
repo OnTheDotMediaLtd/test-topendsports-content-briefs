@@ -23,7 +23,6 @@
 
 ---
 
-## 2. LAST UPDATED BADGE & AFFILIATE DISCLOSURE
 
 ```html
 <div class="review-header-section">
@@ -40,9 +39,6 @@
     <p><strong>Best For:</strong> New Irish players seeking competitive odds and diverse payment options</p>
   </div>
 
-  <!-- Affiliate Disclosure -->
-  <div class="affiliate-disclosure" style="background: #f5f5f5; border-left: 4px solid #F57C00; padding: 15px; margin: 20px 0;">
-    <p><strong>⚠️ Affiliate Disclosure:</strong> TopEndSports is an affiliate of Wonder Luck and other betting operators mentioned. We earn commissions from qualifying deposits. This review reflects objective analysis. <strong>Age Requirement:</strong> 18+ in Ireland. If you're struggling with gambling, contact <strong><a href="https://www.gamblingcare.ie" target="_blank">Gambling Care Ireland</a></strong> or call Dunlewey Addiction Services: <strong>1800 911 029</strong>.</p>
   </div>
 </div>
 
@@ -65,8 +61,6 @@
   margin: 15px 0;
 }
 .star-rating { font-size: 18px; color: #ffc107; margin: 10px 0; }
-.affiliate-disclosure { font-size: 14px; line-height: 1.6; }
-.affiliate-disclosure a { color: #F57C00; text-decoration: none; font-weight: bold; }
 </style>
 ```
 
@@ -903,9 +897,9 @@ document.getElementById('betAmount').addEventListener('keypress', function(e) {
 2. [new betting sites Ireland](/sport/betting/ireland/betting-apps.htm) - Emerging operators
 3. [free bets Ireland](/sport/betting/ireland/free-bets.htm) - Bonus comparison
 4. [Lunubet review](/sport/betting/ireland/lunubet-review.htm) - Similar operator
-5. [Bet365 review](/sport/betting/ireland/bet365-review.htm) - Market leader
-6. [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm) - Irish comparison
-7. [BoyleSports review](/sport/betting/ireland/boylesports-review.htm) - Irish-owned
+5. [Bet365 review](/sport/betting/ireland/22bet-review.htm) - Market leader
+6. [Paddy Power review](/sport/betting/ireland/lunubet-review.htm) - Irish comparison
+7. [BoyleSports review](/sport/betting/ireland/betalright-review.htm) - Irish-owned
 8. [betting apps Ireland](/sport/betting/ireland/betting-apps.htm) - Mobile focus
 9. [GAA betting](/sport/betting/gaelic-games.htm) - Irish sports
 10. [horse racing betting Ireland](/sport/betting/horse-racing.htm) - Major sport
@@ -940,7 +934,6 @@ function formatEUR(amount) {
 }
 
 // Analytics tracking for button clicks
-document.querySelectorAll('.calc-button, .affiliate-disclosure a').forEach(btn => {
   btn.addEventListener('click', function() {
     if (window.gtag) {
       gtag('event', 'click', {

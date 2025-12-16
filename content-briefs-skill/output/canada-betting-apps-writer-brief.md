@@ -50,8 +50,6 @@ betting apps canada, best sports betting apps canada, best betting apps canada, 
 1. **Opening (40-50 words):** Direct answer with top 3 winners
    - Example: "The best sports betting apps in Canada are Treasure Spins, Royalistplay, and Wyns. These offshore betting apps offer Canadian bettors superior odds, extensive NHL and CFL coverage, and fast crypto payouts."
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commissions
    - Does not impact pricing or editorial independence
    - Transparent about affiliate relationships
 
@@ -86,7 +84,6 @@ betting apps canada, best sports betting apps canada, best betting apps canada, 
 ### Introduction (100-150 words)
 - Direct answer with Treasure Spins, Royalistplay, Wyns as top 3
 - Mention offshore betting focus
-- Affiliate disclosure
 - **Natural keyword usage:** sports betting apps canada, canadian betting apps, sports betting app canada, canadian sports betting apps, top betting apps canada
 
 ---
@@ -600,7 +597,6 @@ Every page MUST include:
 
 - [ ] Age requirement: 19+ (18+ in Alberta, Manitoba, Quebec)
 - [ ] Responsible gambling resources (Responsible Gambling Council, provincial helplines)
-- [ ] Affiliate disclosure (in introduction, 50-75 words)
 - [ ] Responsible gambling section (150-200 words at bottom)
 - [ ] Offshore disclaimer: "Note that offshore betting sites operate outside Canadian jurisdiction"
 
@@ -682,7 +678,6 @@ Before submitting to AI Enhancement (Phase 3):
 - [ ] Mobile Experience section for ALL 9 brands (100-150 words each)
 - [ ] App Store ratings cited for each brand (iOS + Android)
 - [ ] 8 internal links included (verified existing pages only)
-- [ ] Affiliate disclosure in intro (50-75 words)
 - [ ] Responsible gambling section (150-200 words)
 - [ ] Offshore disclaimer included
 - [ ] NO dated language in H1/title

@@ -132,7 +132,6 @@
 #### 1. Header & Introduction (200-250 words)
 - H1: Rabona Casino Review Ireland 2024 | Sports Betting & Bonuses
 - Last Updated badge
-- Affiliate disclosure
 - Quick answer (50-75 words): What is Rabona? Who is it best for?
 - Brief intro (100-125 words)
 - **Keywords:** rabona, rabona casino, online casino ireland
@@ -275,15 +274,15 @@
 
 ## INTERNAL LINKS (12 Required)
 
-1. **"best betting sites Ireland"** → /sport/betting/ireland/betting-hub.htm (Introduction)
+1. **"best betting sites Ireland"** → /sport/betting/ireland/index.htm (Introduction)
 2. **"online casino Ireland"** → /sport/betting/ireland/casino-hub.htm (Feature analysis)
 3. **"sports betting Ireland guide"** → /sport/betting/ireland/guide.htm (Sports section)
 4. **"parlay calculator"** → /sport/betting/calculator/parlay.htm (Betting features)
 5. **"odds calculator"** → /sport/betting/calculator/odds.htm (Betting tools)
 6. **"responsible gambling resources"** → /sport/betting/responsible-gambling.htm (Footer)
-7. **"Bet365 Ireland review"** → /sport/betting/ireland/bet365-review.htm (Comparisons)
-8. **"BoyleSports review"** → /sport/betting/ireland/boylesports-review.htm (Comparisons)
-9. **"Paddy Power Ireland"** → /sport/betting/ireland/paddypower-review.htm (Comparisons)
+7. **"Bet365 Ireland review"** → /sport/betting/ireland/22bet-review.htm (Comparisons)
+8. **"BoyleSports review"** → /sport/betting/ireland/betalright-review.htm (Comparisons)
+9. **"Paddy Power Ireland"** → /sport/betting/ireland/lunubet-review.htm (Comparisons)
 10. **"live betting guide"** → /sport/betting/live-betting-guide.htm (Live betting section)
 11. **"casino bonus terms explained"** → /sport/betting/bonus-terms-guide.htm (Bonus section)
 12. **"how to verify your casino account"** → /sport/betting/how-to/verify-account.htm (Account setup)

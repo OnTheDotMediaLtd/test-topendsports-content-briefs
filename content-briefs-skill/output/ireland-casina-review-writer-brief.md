@@ -58,7 +58,6 @@
    - Sentence 2: Key strengths (35,000+ fixtures, crypto support, Altenar platform)
    - Sentence 3: Primary consideration (Anjouan license)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard TES disclosure language
    - Transparent about commission structure
 
@@ -78,7 +77,6 @@
 **Example Opening:**
 > "Casinia is an Altenar-powered sportsbook operated by Stellar Ltd, offering 35,000+ fixtures across 40+ sports with cryptocurrency payment support (USDT). The platform delivers modern features including Bet Builder, Cash Out functionality, and a dedicated mobile app, though it operates under an Anjouan license rather than Tier 1 regulation.
 >
-> [Affiliate disclosure 50-75 words...]
 >
 > For Irish bettors exploring online betting sites beyond traditional bookies, Casinia presents an international platform with competitive features and payment flexibility."
 
@@ -112,7 +110,6 @@
 
 **Structure:**
 - Quick verdict on Casinia (40-50w)
-- Affiliate disclosure (50-75w)
 - Ireland betting context (25-30w)
 
 **Internal Link:**
@@ -691,15 +688,14 @@ Include:
 | free bets Ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonus section |
 | Lunubet review | /sport/betting/ireland/lunubet-review.htm | Comparison section |
 | Betalright review | /sport/betting/ireland/betalright-review.htm | Comparison section |
-| parlay calculator | /sport/betting/parlay-calculator.htm | Bet Builder subsection |
-| odds calculator | /sport/betting/odds-calculator.htm | Sports Coverage + FAQ #7 |
-| betting guides | /sport/betting/guides/ | Responsible Gambling |
-| BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Comparison (if exists) |
-| Paddy Power review | /sport/betting/ireland/paddypower-review.htm | Comparison (if exists) |
-| Bet365 Ireland | /sport/betting/ireland/bet365-review.htm | Comparison (if exists) |
-| Ireland betting regulation | /sport/betting/ireland/regulation.htm | About/FAQ (if exists) |
-
-**Note:** Verify URL paths exist before linking. Use variations if needed.
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Betovo review | /sport/betting/ireland/betovo-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| 22bet Ireland review | /sport/betting/ireland/22bet-review.htm | Comparison section |
+| Big Clash review | /sport/betting/ireland/bigclash-review.htm | Comparison section |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Bet Builder subsection |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Sports Coverage + FAQ #7 |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling |
 
 ---
 
@@ -745,7 +741,6 @@ Include:
 ### Ireland-Specific:
 - ✅ **Age Requirement:** 18+ (Ireland)
 - ✅ **Hotline:** 087 744 3577 (Ireland problem gambling hotline)
-- ✅ **Affiliate Disclosure:** Required in introduction
 - ✅ **Responsible Gambling Section:** Required at bottom
 - ✅ **GRAI Context:** Note Ireland's Gambling Regulatory Authority launching 2025-2026
 

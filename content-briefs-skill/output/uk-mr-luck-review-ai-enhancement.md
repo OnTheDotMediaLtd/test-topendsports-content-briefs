@@ -39,12 +39,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> Topend Sports may earn commission when you sign up through our links. This does not affect our review independence. Must be 18+ to participate. Gambling problem? Contact the National Gambling Helpline at 0808 8020 133.
   </p>
 </div>
 ```
@@ -759,7 +757,6 @@ calculateMrLuckBonus();
     </p>
 
     <p style="font-size: 13px; color: #666; line-height: 1.8; margin-bottom: 1rem;">
-      <strong>Affiliate Disclosure:</strong> Topend Sports is an affiliate of Mr Luck and may earn commission from signups through our links. This does not influence our review or ratings, which are based on independent research and analysis.
     </p>
 
     <p style="font-size: 13px; color: #666; line-height: 1.8; margin-bottom: 0;">
@@ -781,17 +778,17 @@ calculateMrLuckBonus();
   <h4 style="margin-top: 0; color: #2e7d32;">Recommended Internal Links (12 Total)</h4>
 
   <ul style="line-height: 2; margin: 0; padding-left: 1.25rem; color: #333;">
-    <li>1. <a href="/sport/betting/uk/best-betting-sites.htm" style="color: #1976d2;">best UK betting sites</a> - Introduction/comparison context</li>
-    <li>2. <a href="/sport/betting/uk/best-betting-apps.htm" style="color: #1976d2;">UK betting apps</a> - Mobile app section</li>
-    <li>3. <a href="/sport/betting/uk/best-betting-bonuses.htm" style="color: #1976d2;">UK betting bonuses</a> - Welcome bonus section</li>
-    <li>4. <a href="/sport/betting/uk/paypal-betting-sites.htm" style="color: #1976d2;">PayPal betting sites</a> - Payment methods section</li>
-    <li>5. <a href="/sport/betting/uk/fast-payout-betting-sites.htm" style="color: #1976d2;">fast withdrawal betting sites</a> - Withdrawal times section</li>
+    <li>1. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">best UK betting sites</a> - Introduction/comparison context</li>
+    <li>2. <a href="/sport/betting/uk/betting-apps.htm" style="color: #1976d2;">UK betting apps</a> - Mobile app section</li>
+    <li>3. <a href="/sport/betting/uk/betting-offers.htm" style="color: #1976d2;">UK betting bonuses</a> - Welcome bonus section</li>
+    <li>4. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">PayPal betting sites</a> - Payment methods section</li>
+    <li>5. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">fast withdrawal betting sites</a> - Withdrawal times section</li>
     <li>6. <a href="/sport/betting/uk/football-betting-sites.htm" style="color: #1976d2;">UK football betting sites</a> - Sports coverage section</li>
-    <li>7. <a href="/sport/betting/uk/horse-racing-betting-sites.htm" style="color: #1976d2;">UK horse racing betting</a> - Sports coverage section</li>
-    <li>8. <a href="/sport/betting/uk/live-betting-sites.htm" style="color: #1976d2;">live betting sites</a> - Live betting features section</li>
-    <li>9. <a href="/sport/betting/uk/best-online-casinos.htm" style="color: #1976d2;">online casino reviews</a> - Casino crossover section</li>
+    <li>7. <a href="/sport/betting/uk/horse-racing-betting.htm" style="color: #1976d2;">UK horse racing betting</a> - Sports coverage section</li>
+    <li>8. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">live betting sites</a> - Live betting features section</li>
+    <li>9. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">online casino reviews</a> - Casino crossover section</li>
     <li>10. <a href="/sport/betting/responsible-gambling.htm" style="color: #1976d2;">responsible gambling tools</a> - Responsible gambling section</li>
-    <li>11. <a href="/sport/betting/calculators/odds-calculator.htm" style="color: #1976d2;">betting calculator</a> - Natural content mention</li>
+    <li>11. <a href="/sport/betting-tools/odds-calculator.htm-calculator.htm" style="color: #1976d2;">betting calculator</a> - Natural content mention</li>
     <li>12. <a href="/sport/betting/uk/sister-sites-directory.htm" style="color: #1976d2;">betting site comparisons</a> - Sister sites section</li>
   </ul>
 
@@ -830,7 +827,6 @@ calculateMrLuckBonus();
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1rem;">
 
     <div>
-      <p style="margin: 0.5rem 0; color: #333;"><strong>✓ Affiliate Disclosure</strong> - Included at top</p>
       <p style="margin: 0.5rem 0; color: #333;"><strong>✓ Compliance Footer</strong> - 18+ age requirement noted</p>
       <p style="margin: 0.5rem 0; color: #333;"><strong>✓ Responsible Gambling</strong> - UK resources included</p>
     </div>

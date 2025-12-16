@@ -51,7 +51,6 @@
    - Sentence 1: Direct answer - "The best football betting sites in the UK are Bet442, LuckyMate, and NRGbet."
    - Sentence 2: Authority statement - Why trust this guide
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure: "We may earn commission when you use our links to sign up at betting sites. This does not affect our rankings or your experience. All sites reviewed here are fully licensed by the UK Gambling Commission. Our reviews are independent and based on features, odds quality, mobile experience, and customer feedback."
 
 **FORBIDDEN:**
@@ -125,7 +124,6 @@
 ### Introduction (100-150 words)
 - Direct answer: Top 3 sites are Bet442, LuckyMate, NRGbet
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - **Keywords:** football betting sites
 
 ---
@@ -226,7 +224,7 @@
 - Odds value and finding the best prices
 - Odds comparison across the 9 sites
 - Why odds vary between bookmakers
-- **LINK:** Odds converter tool (/tools/odds-converter.htm)
+- **LINK:** Odds converter tool (/sport/betting-tools/odds-calculator.htm)
 
 **Example:**
 ```
@@ -425,34 +423,34 @@ A bet builder lets you combine multiple selections from the same match into one 
 
 Place these links naturally throughout content:
 
-1. **"Best betting sites UK"** → /sport/betting/uk/best-betting-sites.htm
+1. **"Best betting sites UK"** → /sport/betting/uk/index.htm
    *Placement:* Introduction or Responsible Gambling section
 
-2. **"Premier League betting tips"** → /sport/betting/uk/premier-league-betting.htm
+2. **"Premier League betting tips"** → /sport/betting/uk/football-betting-sites.htm
    *Placement:* Premier League section or Tips section
 
-3. **"Champions League betting"** → /sport/betting/uk/champions-league-betting.htm
+3. **"Champions League betting"** → /sport/betting/uk/football-betting-sites.htm
    *Placement:* Brand reviews when mentioning European football
 
-4. **"Football accumulator tips"** → /sport/betting/uk/accumulator-tips.htm
+4. **"Football accumulator tips"** → /sport/betting/guides/parlay.htm
    *Placement:* Betting Tips section
 
-5. **"Parlay calculator"** → /tools/parlay-calculator.htm
+5. **"Parlay calculator"** → /sport/betting-tools/parlay-calculator.htm
    *Placement:* Betting Tips section or FAQ
 
-6. **"Odds converter"** → /tools/odds-converter.htm
+6. **"Odds converter"** → /sport/betting-tools/odds-calculator.htm
    *Placement:* Understanding Football Betting Odds section
 
-7. **"Bet365 review"** → /sport/betting/uk/bet365-review.htm
+7. **"Bet365 review"** → /sport/betting/uk/22bet-review.htm
    *Placement:* When referencing live streaming capabilities
 
-8. **"William Hill review"** → /sport/betting/uk/william-hill-review.htm
+8. **"William Hill review"** → /sport/betting/uk/bet442-review.htm
    *Placement:* When referencing traditional bookmakers
 
-9. **"Football betting apps"** → /sport/betting/uk/football-apps.htm
+9. **"Football betting apps"** → /sport/betting/uk/betting-apps.htm
    *Placement:* Top Football Betting Apps UK section
 
-10. **"In-play football betting"** → /sport/betting/uk/in-play-football.htm
+10. **"In-play football betting"** → /sport/betting/uk/football-betting-sites.htm
     *Placement:* Betting Tips section or mobile apps section
 
 11. **"Best free bets UK"** → /sport/betting/uk/free-bets.htm
@@ -515,7 +513,6 @@ Before submitting, verify:
 
 - [ ] Age requirement "18+" mentioned prominently
 - [ ] GamCare helpline (0808 8020 133) included
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] UKGC license verification for each brand
 - [ ] Responsible gambling section at end
 - [ ] Links to BeGambleAware.org and GAMSTOP.co.uk

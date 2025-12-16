@@ -156,7 +156,6 @@ Based on competitor analysis, TopEndSports can dominate with:
 1. **Introduction** (200 words)
    - Quick verdict (3 key points)
    - Letter badge: BCL #D32F2F
-   - Affiliate disclosure
    - Age requirement: 18+
 
 2. **Big Clash Sportsbook Review Overview** (300 words)
@@ -281,8 +280,8 @@ Based on competitor analysis, TopEndSports can dominate with:
 7. [Casina Sport review](/sport/betting/ireland/casina-review.htm) - Comparison
 
 ### Calculator Tools (2)
-8. [parlay calculator](/sport/betting/calculators/parlay-calculator.htm) - Tools section
-9. [odds calculator](/sport/betting/calculators/odds-calculator.htm) - Tools section
+8. [parlay calculator](/sport/betting-tools/parlay-calculator.htm-calculator.htm) - Tools section
+9. [odds calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm) - Tools section
 
 ### Educational Content (3)
 10. [betting odds explained](/sport/betting/guides/odds-explained.htm) - Beginner guide
@@ -322,10 +321,6 @@ Based on competitor analysis, TopEndSports can dominate with:
 - **License:** Government of Curacao (License #8048/JAZ)
 - **Legal status:** Operates legally in Ireland
 - Display license badge and number
-
-### Affiliate Disclosure
-Include in introduction:
-> "This page contains affiliate links. We may earn a commission if you sign up through our links, at no extra cost to you. All reviews remain objective and independent."
 
 ### Tax Information
 - **Ireland betting tax:** None since 2002

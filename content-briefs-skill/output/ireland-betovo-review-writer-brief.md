@@ -49,7 +49,6 @@ betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, 
 **Structure:**
 1. **Opening (40-50 words):** Direct answer - Is Betovo worth joining for Irish bettors? Lead with conclusion.
 2. **Market Context (100 words):** Position Betovo in Irish sports betting market. Reference "sports betting ireland" and "online betting ireland" naturally.
-3. **Affiliate Disclosure (50-75 words):** Standard disclosure per compliance requirements.
 
 **Forbidden:**
 - ❌ "Welcome to our Betovo review..."
@@ -81,7 +80,6 @@ betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, 
 - Direct answer: Is Betovo worth it?
 - Market context: Position in Irish sports betting landscape
 - Keywords: "sports betting ireland", "online betting ireland"
-- Include affiliate disclosure (50-75 words)
 
 ---
 
@@ -440,18 +438,18 @@ Place these links naturally in context:
 
 | Anchor Text | URL | Section |
 |-------------|-----|---------|
-| best betting sites in Ireland | /sport/betting/ireland/best-betting-sites.htm | Comparison section |
+| best betting sites in Ireland | /sport/betting/ireland/index.htm | Comparison section |
 | Irish betting apps | /sport/betting/ireland/betting-apps.htm | Mobile App Review |
-| GAA betting guide | /sport/betting/gaa/betting-guide.htm | GAA Betting section |
-| live betting strategies | /sport/betting/guides/live-betting.htm | Live Betting section |
-| sports betting bonus guide | /sport/betting/guides/bonuses.htm | Welcome Bonus subsection |
-| betting odds calculator | /sport/betting/calculators/odds.htm | Betting Markets subsection |
-| parlay calculator | /sport/betting/calculators/parlay.htm | Betting Markets subsection |
-| responsible gambling Ireland | /sport/betting/ireland/responsible-gambling.htm | Responsible Gambling section |
-| bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Comparison section |
-| Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Comparison section |
-| BoyleSports review | /sport/betting/ireland/boyle-sports-review.htm | Comparison section |
-| how to withdraw from betting sites | /sport/betting/guides/withdrawals.htm | Payment Methods subsection |
+| free bets Ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonus section |
+| Lunubet review | /sport/betting/ireland/lunubet-review.htm | Comparison section |
+| Betalright review | /sport/betting/ireland/betalright-review.htm | Comparison section |
+| Casina review | /sport/betting/ireland/casina-review.htm | Comparison section |
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| 22bet Ireland review | /sport/betting/ireland/22bet-review.htm | Comparison section |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Betting Markets subsection |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Betting Markets subsection |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling section |
 
 ---
 
@@ -493,7 +491,6 @@ Place these links naturally in context:
 - **Age Requirement:** 18+ (Ireland)
 - **Helpline:** Problem Gambling Ireland
 - **Additional Support:** Gamblers Anonymous Ireland
-- **Affiliate Disclosure:** Required in introduction (50-75 words)
 - **Responsible Gambling Section:** Mandatory at bottom
 
 **Note:** Ireland uses 18+ (not 21+ like US states)

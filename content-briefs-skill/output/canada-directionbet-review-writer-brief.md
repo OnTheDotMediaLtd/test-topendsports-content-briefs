@@ -22,11 +22,10 @@
 
 ## MANDATORY INTRO FORMAT
 
-**Total:** 100-150 words (opening + affiliate disclosure)
+**Total:** 100-150 words (opening paragraph)
 
 **Structure:**
 1. **Opening (40-50 words):** Direct statement about DirectionBet as hybrid casino/sportsbook platform with cryptocurrency support. Position as niche option for specific audience.
-2. **Affiliate Disclosure (50-75 words):** Standard TES disclosure format about earning commissions.
 
 **Example Opening:**
 > "DirectionBet is a casino-focused platform with integrated sports betting, offering cryptocurrency payment options and a $1,500 welcome bonus. Unlike top-ranked Canadian sportsbooks, DirectionBet serves a specific audience seeking hybrid casino/sports platforms and fast crypto withdrawals."
@@ -86,15 +85,14 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 ---
 
-### SECTION 1: Introduction & Affiliate Disclosure
-**Word Count:** 150 words (40-50 opening + 50-75 disclosure)
+### SECTION 1: Introduction
+**Word Count:** 150 words (100-150 opening paragraph)
 
 **Content Focus:**
 - DirectionBet is a casino-focused platform with sports betting features
 - Serves specific audience: crypto users, hybrid platform seekers
 - Available in Canada with unique cryptocurrency payment option
 - Position as niche option (NOT top-tier sportsbook)
-- Affiliate disclosure in standard TES format
 
 **Keywords to Naturally Incorporate:** directionbet, betting sites canada, online betting canada
 
@@ -447,8 +445,8 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - Clear recommendation: "Sports Interaction for mainstream bettors, DirectionBet for crypto users and casino+sports"
 
 **Internal Links:**
-- Anchor: "Sports Interaction review" → /sport/betting/canada/sports-interaction-review.htm
-- Anchor: "bet365 Canada review" → /sport/betting/canada/bet365-review.htm
+- Anchor: "Sports Interaction review" → /sport/betting/canada/royalistplay-review.htm
+- Anchor: "bet365 Canada review" → /sport/betting/canada/treasurespins-review.htm
 
 **Keywords:** best sportsbook canada, sportsbook canada, sports interaction review
 
@@ -779,18 +777,18 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 | # | Anchor Text | Target URL | Placement | Context |
 |---|------------|-----------|-----------|---------|
-| 1 | best betting sites in Canada | /sport/betting/canada/ | Intro, Comparison section, Final Verdict | Reference to top Canadian operators |
-| 2 | Sports Interaction review | /sport/betting/canada/sports-interaction-review.htm | H2: Comparison, H3: vs Sports Interaction | Direct competitor comparison |
-| 3 | bet365 Canada review | /sport/betting/canada/bet365-review.htm | H2: Comparison section | Direct competitor comparison |
-| 4 | Ontario betting sites | /sport/betting/canada/ontario/ | H2: Legal Status, H3: Provincial Availability | Provincial licensing info |
-| 5 | sports betting bonus guide | /sport/betting/bonuses/ | H2: Welcome Bonus section | Bonus comparison context |
-| 6 | how to withdraw from online sportsbooks | /sport/betting/how-to/withdraw/ | H2: Payment Methods, H3: Withdrawal Time | Withdrawal process explanation |
-| 7 | crypto betting guide | /sport/betting/crypto/ | H2: Payment Methods (crypto section) | Cryptocurrency payment options |
-| 8 | live betting strategies | /sport/betting/strategies/live-betting/ | H2: Sports Betting, H3: Live Betting | Live betting features |
-| 9 | responsible gambling resources | /sport/betting/responsible-gambling/ | Compliance section, Footer | Responsible gambling section |
-| 10 | mobile betting apps | /sport/betting/apps/ | H2: Mobile App section | App comparison context |
-| 11 | sportsbook payment methods | /sport/betting/payment-methods/ | H2: Payment Methods section | Payment options comparison |
-| 12 | Canadian sports betting laws | /sport/betting/canada/laws/ | H2: Legal Status section | Legal/regulatory context |
+| 1 | best betting sites in Canada | /sport/betting/canada/index.htm | Intro, Comparison section, Final Verdict | Reference to top Canadian operators |
+| 2 | best betting apps Canada | /sport/betting/canada/betting-apps.htm | H2: Mobile App section | App comparison context |
+| 3 | new betting sites Canada | /sport/betting/canada/new-betting-sites.htm | H2: Comparison section | Emerging operators comparison |
+| 4 | Treasure Spins review | /sport/betting/canada/treasurespins-review.htm | H2: Comparison section | Alternative offshore operator |
+| 5 | Royalistplay review | /sport/betting/canada/royalistplay-review.htm | H2: Comparison section | Alternative offshore operator |
+| 6 | Wyns review | /sport/betting/canada/wyns-review.htm | H2: Comparison section | Alternative operator |
+| 7 | Lucky7even review | /sport/betting/canada/lucky7even-review.htm | H2: Comparison section | Alternative operator |
+| 8 | Best NHL Betting Sites | /sport/betting/nhl/index.htm | H2: Sports Betting section | NHL betting markets |
+| 9 | Best NFL Betting Sites | /sport/betting/nfl/index.htm | H2: Sports Betting section | NFL betting markets |
+| 10 | parlay calculator | /sport/betting-tools/parlay-calculator.htm | H2: Welcome Bonus section | Betting tools |
+| 11 | odds calculator | /sport/betting-tools/odds-calculator.htm | H2: Sports Betting section | Betting tools |
+| 12 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Compliance section, Footer | Responsible gambling section |
 
 ---
 
@@ -798,8 +796,9 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 ### Age & Legal
 - **Age Requirement:** Varies by province (typically 19+, 18+ in AB, MB, QC)
-- **Hotline:** ConnexOntario 1-866-531-2600
-- **Affiliate Disclosure:** Required in introduction (50-75 words, prominent placement)
+- **Hotlines:** Provincial helplines vary by location
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
 - **Provincial Licensing:** Verify DirectionBet licensing status in each province
 
 ### Responsible Gambling Section (Required in Footer)
@@ -819,7 +818,10 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - Provincial availability disclosure (where DirectionBet legal vs. not)
 - Ontario iGaming licensing status
 - Provincial age requirements by region (table format helpful)
-- Canadian gambling hotlines (ConnexOntario 1-866-531-2600)
+- Canadian gambling resources:
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - Provincial helplines vary by location
 - Currency: CAD primary (USD acceptable for context)
 
 ---
@@ -981,7 +983,6 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 ## QUALITY CHECKLIST FOR PHASE 2
 
-- [ ] Intro format correct: 40-50 opening + 50-75 affiliate disclosure = 100-150 words
 - [ ] All 17 secondary keywords mapped to specific sections
 - [ ] 10 FAQ questions created with keyword targeting
 - [ ] 12 internal links identified with placements
@@ -989,7 +990,7 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - [ ] Payment Methods comparison table structured
 - [ ] Source requirements defined (Tier 1/2/3)
 - [ ] Word count targets per section specified (total 3,500-4,000)
-- [ ] Compliance requirements noted (Canada-specific: age, hotline, affiliate disclosure)
+- [ ] Compliance requirements noted (Canada-specific: age, hotline)
 - [ ] No dated language - using "Last Updated" badge instead
 - [ ] Unique angles identified (hybrid platform, crypto, 40x wagering analysis)
 - [ ] Pros & Cons balanced (3-5 each with evidence)

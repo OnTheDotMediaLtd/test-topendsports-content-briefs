@@ -13,7 +13,7 @@
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
 - **Age Requirement:** 19+ (varies by province: 18+ in AB, MB, QC)
-- **Hotline:** 1-866-531-2600 (Canada Problem Gambling Helpline)
+- **Hotlines:** Provincial helplines vary by location
 - **Priority:** High
 
 ---
@@ -64,7 +64,6 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
    - "Lucky7even is a [description] online casino platform for Canadian players..."
    - Include authority statement about testing and analysis
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure language
    - Commission structure
    - Editorial independence statement
@@ -96,7 +95,6 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 ### INTRODUCTION (100-150 words)
 - Direct answer: Lucky7even positioning (casino vs sports)
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Brief overview of review scope
 
 ---
@@ -459,8 +457,9 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - Cooling-off periods
 
 - **Help Resources:**
-  - **Canada Problem Gambling Helpline: 1-866-531-2600**
-  - Provincial problem gambling organizations
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+  - Provincial problem gambling organizations (vary by location)
   - Online resources
 
 - **Link:** Full T&Cs on Lucky7even website
@@ -595,7 +594,6 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 - **Call to Action:**
   - Clear next steps
   - Link to Lucky7even with affiliate tracking
-  - Affiliate disclosure reminder
 
 ---
 
@@ -607,7 +605,9 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - 18+ in Alberta, Manitoba, Quebec
 
 - **Problem Gambling Help:**
-  - **Canada Problem Gambling Helpline: 1-866-531-2600**
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+  - **Provincial helplines vary by location**
   - Available 24/7
   - Free and confidential
 
@@ -617,9 +617,8 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - Reality checks and session timers
 
 - **Provincial Resources:**
-  - ConnexOntario (Ontario)
-  - Responsible Gambling Council
-  - Provincial problem gambling services
+  - Responsible Gambling Council (national)
+  - Provincial problem gambling services (vary by location)
 
 - **Warning Signs:**
   - Brief list of gambling problem indicators
@@ -633,29 +632,29 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 
 Include these 12 internal links naturally throughout content:
 
-1. **[best online casinos Canada](/sport/betting/canada/best-online-casinos.htm)**
+1. **[best betting sites Canada](/sport/betting/canada/index.htm)**
    - Context: Main comparison page - link in intro and conclusion
 
-2. **[Canada sports betting sites](/sport/betting/canada/best-sports-betting-sites.htm)**
-   - Context: Alternative if Lucky7even lacks sports betting
+2. **[best betting apps Canada](/sport/betting/canada/betting-apps.htm)**
+   - Context: Mobile section and app-related content
 
-3. **[casino bonus calculator](/sport/betting/calculators/bonus-calculator.htm)**
-   - Context: Tool for bonus wagering calculations in bonus section
+3. **[new betting sites Canada](/sport/betting/canada/new-betting-sites.htm)**
+   - Context: Comparison and alternatives section
 
-4. **[responsible gambling Canada](/sport/betting/canada/responsible-gambling.htm)**
+4. **[responsible gambling](/sport/betting/responsible-gambling.htm)**
    - Context: Compliance requirement in responsible gambling section
 
-5. **[how to claim casino bonus](/sport/betting/how-to/claim-casino-bonus.htm)**
-   - Context: Related guide in bonus section
+5. **[Best NHL Betting Sites](/sport/betting/nhl/index.htm)**
+   - Context: Sports betting section if available
 
-6. **[Ontario online casinos](/sport/betting/canada/ontario-casinos.htm)**
-   - Context: Province-specific link in availability section
+6. **[Best NFL Betting Sites](/sport/betting/nfl/index.htm)**
+   - Context: Sports betting section if available
 
-7. **[Alberta gambling sites](/sport/betting/canada/alberta-casinos.htm)**
-   - Context: Province-specific link (18+ age requirement)
+7. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)**
+   - Context: Tool for betting calculations
 
-8. **[Quebec casinos](/sport/betting/canada/quebec-casinos.htm)**
-   - Context: Province-specific link (18+ age requirement)
+8. **[odds calculator](/sport/betting-tools/odds-calculator.htm)**
+   - Context: Tool for odds calculations
 
 9. **[Treasure Spins review](/sport/betting/canada/treasurespins-review.htm)**
    - Context: Competitor brand review - similar casino focus
@@ -666,8 +665,8 @@ Include these 12 internal links naturally throughout content:
 11. **[Wyns review](/sport/betting/canada/wyns-review.htm)**
     - Context: Competitor brand review - alternative option
 
-12. **[withdrawal processing times Canada](/sport/betting/canada/withdrawal-times.htm)**
-    - Context: Payment information in banking section
+12. **[Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm)**
+    - Context: Betting guides section
 
 ---
 
@@ -739,8 +738,7 @@ Include these 12 internal links naturally throughout content:
 ## COMPLIANCE CHECKLIST
 
 - [ ] Age requirement stated: 19+ (18+ in AB, MB, QC)
-- [ ] Hotline included: 1-866-531-2600 (Canada Problem Gambling Helpline)
-- [ ] Affiliate disclosure at top (50-75 words)
+- [ ] Pan-Canadian resources included: Responsible Gambling Council and CCSA
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (Last Updated badge will be added in Phase 3)
 - [ ] Province availability specified

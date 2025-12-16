@@ -50,7 +50,6 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
    - Sentence 2: Authority statement about testing/verification
 
 2. **Disclosure (50-75 words):**
-   - Standard affiliate disclosure
    - Commission earnings statement
    - Editorial independence statement
 
@@ -84,7 +83,6 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 ### Introduction (100-150 words)
 - Direct answer first sentence naming FanDuel, DraftKings, BetMGM as top picks
 - Authority statement about testing methodology
-- Affiliate disclosure (50-75 words)
 - **TOTAL: Do not exceed 150 words**
 
 ---
@@ -1140,7 +1138,6 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 **Every page MUST have:**
 - [ ] Age: 21+ (18+ for MT, NH, RI, WY, DC)
 - [ ] Hotline: 1-800-522-4700
-- [ ] Affiliate disclosure at top (in intro)
 - [ ] State availability disclaimer
 - [ ] Responsible gambling section (H2 at bottom)
 
@@ -1188,7 +1185,6 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 - [ ] Template: Template 2 (Comparison) - CONFIRMED
 - [ ] ALL 14 secondary keywords mapped to specific H2/H3/FAQ sections
 - [ ] 8 FAQ questions created targeting high-volume keywords
-- [ ] Intro format: 100-150 words, direct answer first, affiliate disclosure included
 - [ ] FanDuel App Store rating 4.9/5 from 1.7M reviews - CITED
 - [ ] Complete T&Cs for ALL 7 brands (Template 2 requirement)
 - [ ] NO dated language in H1 - timeless title used

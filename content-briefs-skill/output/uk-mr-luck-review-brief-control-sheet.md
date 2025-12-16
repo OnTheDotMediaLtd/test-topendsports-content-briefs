@@ -123,7 +123,6 @@
 **Include:**
 - Last Updated badge
 - Honest positioning (smaller operator, casino-first)
-- Affiliate disclosure
 - Quick answer (Best for: Alternative to major operators)
 - Introduction with context
 
@@ -250,7 +249,6 @@
 - UK Gambling Commission note
 - GamCare: 0808 8020 133
 - BeGambleAware link
-- Affiliate disclosure
 
 ---
 
@@ -311,7 +309,6 @@ Unlike major UK operators (Bet365, William Hill, Ladbrokes), Mr Luck is a smalle
 | **Regulator** | UK Gambling Commission |
 | **Responsible Gambling Orgs** | GamCare, BeGambleAware |
 | **Helpline** | National Gambling Helpline: 0808 8020 133 |
-| **Affiliate Disclosure** | Required (prominent placement) |
 | **BeGambleAware Logo** | Required on UK gambling content |
 
 ---
@@ -319,9 +316,9 @@ Unlike major UK operators (Bet365, William Hill, Ladbrokes), Mr Luck is a smalle
 ## INTERNAL LINKS (12 Required)
 
 ### UK Market Pages
-1. "Best UK Betting Sites" → `/sport/betting/uk/best-betting-sites.htm`
-2. "Bet365 Review" → `/sport/betting/uk/bet365-review.htm`
-3. "William Hill Review" → `/sport/betting/uk/william-hill-review.htm`
+1. "Best UK Betting Sites" → `/sport/betting/uk/index.htm`
+2. "Bet365 Review" → `/sport/betting/uk/22bet-review.htm`
+3. "William Hill Review" → `/sport/betting/uk/bet442-review.htm`
 
 ### Sport-Specific
 4. "Best Football Betting Sites UK" → `/sport/betting/uk/best-football-betting-sites.htm`

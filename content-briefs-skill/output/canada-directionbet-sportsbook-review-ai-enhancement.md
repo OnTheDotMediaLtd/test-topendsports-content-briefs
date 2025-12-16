@@ -32,12 +32,11 @@
 
 ---
 
-## AFFILIATE DISCLOSURE (Top of Page)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px;">
-    <strong>Disclosure:</strong> TopEndSports.com may earn a commission when you sign up through our links. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Responsible gambling? Call ConnexOntario: 1-866-531-2600.
+    <strong>Disclosure:</strong> TopEndSports.com may earn a commission when you sign up through our links. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Responsible gambling? Call Responsible Gambling Council: Provincial helplines vary.
   </p>
 </div>
 ```
@@ -153,7 +152,7 @@
             </tbody>
         </table>
     </div>
-    <p style="font-size: 12px; color: #666; margin-top: 1rem; text-align: center;">*19+ (18+ in AB, MB, QC). Must be physically located in legal province. T&Cs apply. Gamble responsibly. Call ConnexOntario: 1-866-531-2600</p>
+    <p style="font-size: 12px; color: #666; margin-top: 1rem; text-align: center;">*19+ (18+ in AB, MB, QC). Must be physically located in legal province. T&Cs apply. Gamble responsibly. Call Responsible Gambling Council: Provincial helplines vary</p>
 </div>
 ```
 
@@ -725,7 +724,7 @@ function toggleFAQ(element) {
   <div style="background: white; padding: 1rem; border-radius: 6px; margin: 1rem 0;">
     <h4 style="margin-top: 0; color: #333;">Canadian Gambling Support Services:</h4>
     <ul style="line-height: 1.8; margin-bottom: 0;">
-      <li><strong>ConnexOntario (Ontario):</strong> 1-866-531-2600 | connexontario.ca</li>
+      <li><strong>Responsible Gambling Council (Ontario):</strong> Provincial helplines vary | connexontario.ca</li>
       <li><strong>National Problem Gambling Helpline:</strong> 1-800-522-4700 (24/7)</li>
       <li><strong>Gamblers Anonymous Canada:</strong> www.gamblersanonymous.ca</li>
       <li><strong>Problem Gambling Institute of Ontario:</strong> pgio.on.ca</li>
@@ -757,9 +756,8 @@ function toggleFAQ(element) {
 <div style="background: #e8f5e9; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; border-left: 4px solid #009688;">
   <h3 style="margin-top: 0; color: #009688;">Content Compliance Statement</h3>
   <ul style="line-height: 1.8; margin: 0; padding-left: 1.25rem; color: #333;">
-    <li>✓ Affiliate Disclosure: TopEndSports may earn commission from DirectionBet signups</li>
     <li>✓ Age Compliance: All references to 19+ (18+ in AB, MB, QC)</li>
-    <li>✓ Gambling Hotline: ConnexOntario 1-866-531-2600 prominently displayed</li>
+    <li>✓ Gambling Hotline: Responsible Gambling Council Provincial helplines vary prominently displayed</li>
     <li>✓ Responsible Gambling: Section included with support resources</li>
     <li>✓ T&Cs Complete: Full bonus terms including 40x wagering requirement highlighted</li>
     <li>✓ Honest Positioning: DirectionBet clearly positioned as niche operator, not top-tier</li>
@@ -835,7 +833,7 @@ document.addEventListener('DOMContentLoaded', function() {
   console.log('🔍 Page: Canada DirectionBet Sportsbook Review');
   console.log('🔍 Market: Canada (19+ age requirement, 18+ in AB/MB/QC)');
   console.log('🔍 Badge: DBT (Teal #009688)');
-  console.log('🔍 Hotline: ConnexOntario 1-866-531-2600');
+  console.log('🔍 Hotline: Responsible Gambling Council Provincial helplines vary');
   console.log('✓ All interactive elements ready');
 });
 </script>
@@ -847,7 +845,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 - [x] Meta tags (title, description, keywords, author, canonical)
 - [x] Last Updated badge (December 15, 2025)
-- [x] Affiliate Disclosure (top of page)
 - [x] Quick Answer Box (hero summary)
 - [x] Comparison Table (DirectionBet vs 4 Canadian competitors)
 - [x] Complete T&Cs Section (40x wagering highlighted honestly)
@@ -857,7 +854,7 @@ document.addEventListener('DOMContentLoaded', function() {
 - [x] Article Schema (JSON-LD)
 - [x] FAQ Schema (10 questions with answers)
 - [x] Breadcrumb Schema (navigation structure)
-- [x] Responsible Gambling Section (ConnexOntario 1-866-531-2600)
+- [x] Responsible Gambling Section (Responsible Gambling Council Provincial helplines vary)
 - [x] Mobile Responsiveness (all elements tested)
 - [x] No Placeholders (ZERO "..." or "[Insert]")
 - [x] Canada Compliance (19+ age, provincial notes, hotline)

@@ -14,7 +14,7 @@
 - **Word Count Target:** 3,500 words
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
-- **Compliance:** 19+ (18+ in AB, MB, QC) | Hotline: 1-866-531-2600 (ConnexOntario)
+- **Compliance:** 19+ (18+ in AB, MB, QC) | Resources: Responsible Gambling Council, CCSA
 
 ---
 
@@ -73,7 +73,6 @@ lizaro sport, lizaro casino, online casino canada, online casino ontario, best o
    - Second sentence: Authority statement (licensed in Canada, combined casino/sportsbook)
    - Naturally incorporate "online gambling canada" (1,300/mo)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure: "We may earn commission from links on this page, but we only recommend sites we trust. Our reviews are based on extensive testing and research. Read our full methodology."
 
 **Total:** 100-150 words maximum
@@ -112,7 +111,6 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 - Open with direct answer: "Lizaro is a Canadian-licensed online casino and sportsbook offering [key features]."
 - State what makes Lizaro unique (combined platform, licensing)
 - Naturally work in "online gambling canada" (1,300/mo)
-- Follow with 50-75 word affiliate disclosure
 - Total 100-150 words
 
 ---
@@ -452,9 +450,10 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 - Cover:
   - **Lizaro's Tools:** Deposit limits, loss limits, session time limits, self-exclusion, reality checks, cool-off periods
   - **Canadian Resources:**
-    - Responsible Gambling Council (responsiblegambling.org)
-    - ConnexOntario: 1-866-531-2600
-  - **Provincial Resources:** Quebec (Aide aux Joueurs), Ontario (ConnexOntario), BC (GameSense)
+    - Responsible Gambling Council: https://www.responsiblegambling.org/
+    - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+    - Provincial helplines vary by location
+  - **Provincial Resources:** Quebec (Aide aux Joueurs), BC (GameSense), Manitoba, Alberta
   - **Problem Gambling Signs:** Brief mention of warning signs
   - **Self-Exclusion Options:** Provincial self-exclusion programs
   - **Age Verification Importance:** Preventing underage gambling
@@ -493,22 +492,22 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 ## INTERNAL LINKS (12 REQUIRED)
 
 **High Priority:**
-1. **"Best online casino sites in Canada"** → `/sport/betting/canada/` (Introduction)
+1. **"Best online casino sites in Canada"** → `/sport/betting/canada/index.htm` (Introduction)
 2. **"Treasure Spins review"** → `/sport/betting/canada/treasurespins-review.htm` (Alternatives)
 3. **"Royalistplay review"** → `/sport/betting/canada/royalistplay-review.htm` (Alternatives)
 4. **"Wyns review"** → `/sport/betting/canada/wyns-review.htm` (Alternatives)
-5. **"Online gambling laws in Canada"** → `/sport/betting/canada/legal/` (Legal section)
-6. **"Responsible gambling resources"** → `/sport/betting/responsible-gambling/` (Responsible gambling section)
+5. **"Lucky7even review"** → `/sport/betting/canada/lucky7even-review.htm` (Alternatives)
+6. **"Responsible gambling resources"** → `/sport/betting/responsible-gambling.htm` (Responsible gambling section)
 
 **Medium Priority:**
-7. **"Sports betting in Ontario"** → `/sport/betting/canada/ontario/` (Provincial availability)
-8. **"How to verify Canadian gambling licenses"** → `/sport/betting/canada/licensing/` (Legal section)
-9. **"Best sports betting apps Canada"** → `/sport/betting/canada/apps/` (Mobile section)
-10. **"Parlay calculator"** → `/calculators/parlay-calculator.htm` (Sports betting section)
-11. **"Odds calculator"** → `/calculators/odds-calculator.htm` (Sports betting section)
+7. **"New Betting Sites Canada"** → `/sport/betting/canada/new-betting-sites.htm` (Comparison section)
+8. **"Best Betting Apps Canada"** → `/sport/betting/canada/betting-apps.htm` (Mobile section)
+9. **"Best NHL Betting Sites"** → `/sport/betting/nhl/index.htm` (Sports betting section)
+10. **"Parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm` (Sports betting section)
+11. **"Odds calculator"** → `/sport/betting-tools/odds-calculator.htm` (Sports betting section)
 
 **Low Priority:**
-12. **"Casino bonus terms explained"** → `/sport/betting/bonuses/` (Bonus section)
+12. **"Same Game Parlay Guide"** → `/sport/betting/guides/same-game-parlay.htm` (Bonus section)
 
 ---
 
@@ -544,9 +543,8 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 
 **Must Include:**
 - [ ] Age requirement clearly stated: **19+ (18+ in AB, MB, QC)**
-- [ ] Problem gambling hotline: **1-866-531-2600 (ConnexOntario)**
+- [ ] Pan-Canadian resources: **Responsible Gambling Council and CCSA**
 - [ ] Responsible gambling organization: **Responsible Gambling Council (responsiblegambling.org)**
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Last Updated badge after H1 (Phase 3 HTML component)
 - [ ] NO dated language in H1 or content ("2025", "October 2025", etc.)
 - [ ] All 17 secondary keywords mapped to sections
@@ -663,7 +661,6 @@ If anything is unclear:
 - [ ] 12 internal links included with correct URLs
 - [ ] 8 FAQs with keyword targeting
 - [ ] No dated language in H1 or content
-- [ ] Affiliate disclosure in introduction
 - [ ] Canadian compliance (age, hotline, resources)
 - [ ] Interac emphasized in payment methods
 - [ ] Province-specific information included

@@ -42,12 +42,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <p style="margin: 0; font-size: 14px; line-height: 1.6; color: #856404;">
-    <strong>Affiliate Disclosure:</strong> TopEndSports may earn commission when you sign up through our links. This does not affect our independent editorial analysis or recommendations. We only promote operators we believe offer fair odds and responsible gaming practices. Must be 19+ (18+ in AB, MB, QC). Gambling problem? Call <strong>1-866-531-2600 (ConnexOntario)</strong>.
   </p>
 </div>
 ```
@@ -414,7 +412,7 @@
 
     <div style="background: #fff3cd; padding: 1.25rem; border-radius: 6px; margin: 1.5rem 0; border-left: 4px solid #ffc107;">
       <p style="margin: 0; font-size: 13px; color: #856404;">
-        <strong>⚠️ Verify Your Province:</strong> Licensing and availability can change. Always verify your province during account creation. Contact support if unsure about eligibility: 1-866-531-2600 (ConnexOntario).
+        <strong>⚠️ Verify Your Province:</strong> Licensing and availability can change. Always verify your province during account creation. Contact support if unsure about eligibility: Provincial helplines vary (Responsible Gambling Council).
       </p>
     </div>
 
@@ -919,8 +917,8 @@ window.addEventListener('load', calculateBonus);
 
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
     <div style="background: white; padding: 1.5rem; border-radius: 6px; border-left: 4px solid #ffc107;">
-      <h4 style="color: #856404; margin-top: 0; font-size: 1rem;">ConnexOntario</h4>
-      <p style="margin: 0.5rem 0; font-size: 13px; color: #333;"><strong>Phone:</strong> 1-866-531-2600</p>
+      <h4 style="color: #856404; margin-top: 0; font-size: 1rem;">Responsible Gambling Council</h4>
+      <p style="margin: 0.5rem 0; font-size: 13px; color: #333;"><strong>Phone:</strong> Provincial helplines vary</p>
       <p style="margin: 0.5rem 0; font-size: 13px; color: #333;"><strong>Available:</strong> 24/7</p>
       <p style="margin: 0.75rem 0 0 0; font-size: 12px; color: #666;">Ontario's resource helpline offering information and support for problem gambling and substance abuse.</p>
     </div>
@@ -1076,7 +1074,7 @@ window.addEventListener('load', calculateBonus);
 - Comparison table includes 4 Canadian operators with side-by-side analysis
 - Mobile app ratings based on real app store data patterns
 - Payment methods table is comprehensive with Canadian focus on Interac
-- Responsible gambling section includes ConnexOntario contact (1-866-531-2600)
+- Responsible gambling section includes Responsible Gambling Council contact (Provincial helplines vary)
 - Last Updated badge formatted for dynamic date insertion
 - All color coding consistent with brand standards (#2e7d32 primary green, #00695C teal for Lizaro badge)
 

@@ -25,7 +25,7 @@ This review targets **Canadian players exclusively**. Every section must emphasi
 1. **CAD Currency** - All amounts in Canadian dollars
 2. **Interac e-Transfer** - Critical payment method for Canadians (mention prominently)
 3. **Provincial Regulations** - Age varies: 19+ (most), 18+ (AB/MB/QC)
-4. **Canadian Hotline** - 1-866-531-2600 (not US hotline)
+4. **Canadian Resources** - Responsible Gambling Council and CCSA (not US hotlines)
 5. **Canadian Time Zones** - Support hours in EST/PST
 6. **Responsible Gambling Council** - Canadian resources, not US
 
@@ -83,7 +83,6 @@ treasure spins, treasure spins casino, treasure spins review, online casino cana
    - Quick rating/recommendation
    - Key strengths in one sentence
 
-2. **Affiliate Disclosure (50-75 words):**
    - Explain commission relationship
    - Affirm editorial independence
    - Note that recommendations serve reader's interest
@@ -135,7 +134,6 @@ Please gamble responsibly.]
 
 ### Introduction (100-150 words)
 - Quick verdict on Treasure Spins
-- Affiliate disclosure
 - See "Mandatory Intro Format" section above
 
 ---
@@ -883,11 +881,11 @@ Map FAQs to target keywords for SEO:
 - Warning signs of problem gambling
 - Self-help tools available at Treasure Spins
 - **Canadian Resources:**
-  - **Canadian Problem Gambling Hotline: 1-866-531-2600** (MUST include)
-  - Responsible Gambling Council (Canada): https://www.responsiblegambling.org/
-  - ConnexOntario (Ontario): 1-866-531-2600
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/ (MUST include)
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+  - **Provincial helplines:** Vary by location - see provincial gambling authorities
   - Gamblers Anonymous: https://www.gamblersanonymous.org/
-  - Provincial resources if applicable
+  - Provincial resources by location
 - Age restrictions reminder (19+/18+)
 - Encouragement to set limits and seek help if needed
 
@@ -901,18 +899,18 @@ Include these internal links naturally within content:
 
 | Anchor Text | Target URL | Section | Priority |
 |-------------|------------|---------|----------|
-| best online casino Canada | /sport/betting/canada/best-online-casino.htm | Comparison section | HIGH |
-| online casino bonuses | /sport/betting/canada/casino-bonuses.htm | Bonus section | HIGH |
-| mobile casino apps | /sport/betting/canada/mobile-casino-apps.htm | Mobile section | HIGH |
-| casino payment methods | /sport/betting/canada/casino-payment-methods.htm | Banking section | HIGH |
+| best betting sites Canada | /sport/betting/canada/index.htm | Comparison section | HIGH |
+| best betting apps Canada | /sport/betting/canada/betting-apps.htm | Mobile section | HIGH |
+| new betting sites Canada | /sport/betting/canada/new-betting-sites.htm | Emerging operators | HIGH |
+| Royalistplay review | /sport/betting/canada/royalistplay-review.htm | Comparison section | HIGH |
+| Wyns review | /sport/betting/canada/wyns-review.htm | Comparison section | HIGH |
+| Lucky7even review | /sport/betting/canada/lucky7even-review.htm | Comparison section | HIGH |
+| Lizaro review | /sport/betting/canada/lizaro-review.htm | Comparison section | MEDIUM |
+| Best NHL Betting Sites | /sport/betting/nhl/index.htm | Sports coverage | MEDIUM |
+| Best NFL Betting Sites | /sport/betting/nfl/index.htm | Sports coverage | MEDIUM |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Tools section | MEDIUM |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Tools section | MEDIUM |
 | responsible gambling | /sport/betting/responsible-gambling.htm | Closing section | CRITICAL |
-| online slots | /sport/betting/canada/online-slots.htm | Games section | MEDIUM |
-| live dealer games | /sport/betting/canada/live-dealer-games.htm | Games section | MEDIUM |
-| blackjack online | /sport/betting/canada/blackjack.htm | Table games | MEDIUM |
-| online roulette | /sport/betting/canada/roulette.htm | Table games | MEDIUM |
-| casino security | /sport/betting/casino-security.htm | Security section | MEDIUM |
-| Interac casinos | /sport/betting/canada/interac-casinos.htm | Payment methods | HIGH |
-| casino reviews | /sport/betting/canada/casino-reviews.htm | Comparison/Verdict | MEDIUM |
 
 ---
 
@@ -967,9 +965,8 @@ Include these internal links naturally within content:
 
 Before submitting, ensure ALL of these are included:
 
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Age requirement: "19+ in most provinces, 18+ in Alberta, Manitoba, Quebec"
-- [ ] Canadian gambling hotline: **1-866-531-2600**
+- [ ] Pan-Canadian gambling resources: **Responsible Gambling Council and CCSA**
 - [ ] Responsible Gambling Council link
 - [ ] Responsible gambling section at end
 - [ ] All amounts in CAD (never USD)
@@ -1076,7 +1073,7 @@ This is a **casino review** (not sportsbook) for the **Canadian market**. Key po
    - Every financial amount must be in CAD
    - Interac e-Transfer is THE most important payment method for Canadians - emphasize this heavily
    - Age requirements vary by province (19+ most, 18+ AB/MB/QC)
-   - Use Canadian gambling hotline: 1-866-531-2600
+   - Use pan-Canadian resources: Responsible Gambling Council and CCSA
    - Customer support hours in EST/PST
 
 3. **Research Required:**

@@ -60,12 +60,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> We may earn commissions when you sign up through links on this page. This does not affect your pricing. We only recommend sportsbooks and casinos we've thoroughly tested. Must be 19+ (18+ in AB, MB, QC) to gamble. Gambling problem? Call ConnexOntario: <strong>1-866-531-2600</strong> (24/7, free, confidential).
   </p>
 </div>
 ```
@@ -408,10 +406,10 @@ Royalistplay is an offshore sportsbook and online casino operated by Bellona N.V
   <h4 style="color: #333; border-bottom: 2px solid #ffc107; padding-bottom: 0.5rem;">Canadian Helplines & Resources</h4>
   <div style="background: rgba(255, 255, 255, 0.8); padding: 1rem; border-radius: 6px; margin: 1rem 0;">
     <p style="margin: 0 0 0.75rem 0; font-weight: 600; color: #333;">
-      <strong>ConnexOntario (Primary Canadian Resource)</strong>
+      <strong>Responsible Gambling Council (Primary Canadian Resource)</strong>
     </p>
     <ul style="margin: 0; padding-left: 1.25rem; line-height: 1.8; color: #333;">
-      <li><strong>Phone:</strong> 1-866-531-2600 (24/7, free, confidential)</li>
+      <li><strong>Phone:</strong> Provincial helplines vary (24/7, free, confidential)</li>
       <li><strong>Available in:</strong> Ontario, but resources available nationwide</li>
       <li><strong>Services:</strong> Counseling, treatment referrals, self-exclusion registration</li>
     </ul>
@@ -840,8 +838,8 @@ The following internal links should be placed contextually throughout the articl
 - **Wyns Sport Review** → `/sport/betting/canada/wyns-review.htm` (Comparison context)
 - **Lucky7even Sport Review** → `/sport/betting/canada/lucky7even-review.htm` (Comparison context)
 - **Festival Play Sport Review** → `/sport/betting/canada/festivalplay-review.htm` (Comparison context)
-- **Parlay Calculator** → `/sport/betting/calculators/parlay.htm` (Sportsbook Analysis section)
-- **Odds Calculator** → `/sport/betting/calculators/odds.htm` (Sportsbook Analysis section)
+- **Parlay Calculator** → `/sport/betting-tools/parlay-calculator.htm` (Sportsbook Analysis section)
+- **Odds Calculator** → `/sport/betting-tools/odds-calculator.htm` (Sportsbook Analysis section)
 - **Sports Betting Odds Explained** → `/sport/betting/guides/odds-explained.htm` (Sportsbook Analysis)
 - **How to Bet on Sports** → `/sport/betting/guides/how-to-bet.htm` (Introduction/Getting Started)
 - **Responsible Gambling Canada** → `/sport/betting/canada/responsible-gambling.htm` (Responsible Gambling section)
@@ -852,7 +850,6 @@ The following internal links should be placed contextually throughout the articl
 
 - [x] Meta tags complete with all primary + secondary keywords
 - [x] Last Updated badge with December 15, 2025
-- [x] Affiliate disclosure (75 words, includes Canadian helpline)
 - [x] Quick verdict box with rating (4.0/5 stars)
 - [x] Competitive comparison table vs 4 Canadian competitors
 - [x] Rating breakdown with 5 metrics (visual progress bars)
@@ -872,7 +869,7 @@ The following internal links should be placed contextually throughout the articl
 - [x] Responsible Gambling section
   - [x] Self-exclusion tools
   - [x] Deposit/loss limits
-  - [x] ConnexOntario (1-866-531-2600)
+  - [x] Responsible Gambling Council (Provincial helplines vary)
   - [x] Provincial helpline numbers (AB, BC, MB, QC)
   - [x] Signs of problem gambling
   - [x] Gamblers Anonymous resource
@@ -891,7 +888,7 @@ The following internal links should be placed contextually throughout the articl
 1. **Title Tag:** Use "Royalistplay Sport Review Canada - $150 Bonus, 27 Sports & Safety Guide" in HTML <title> tag
 2. **Meta Description:** Exactly 160 characters with primary keyword "royalistplay sport" near beginning
 3. **Badge Color:** Use #4CAF50 for all Royalistplay branding (RPL badge, buttons, highlights)
-4. **Geographic Focus:** Emphasize Canada-specific compliance (ConnexOntario number, provincial availability)
+4. **Geographic Focus:** Emphasize Canada-specific compliance (Responsible Gambling Council number, provincial availability)
 5. **Ontario Geo-Blocking:** Mention prominently that Royalistplay is not available in Ontario (largest market)
 6. **Offshore Context:** Balance positive review with clear disclosure that offshore sportsbooks have less consumer protection
 7. **Live Betting:** Highlight live betting capabilities as key differentiator vs some alternatives

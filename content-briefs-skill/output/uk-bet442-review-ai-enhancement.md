@@ -34,18 +34,6 @@
 
 ---
 
-## 3. AFFILIATE DISCLOSURE (After Introduction)
-
-```html
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-  <p style="margin: 0; font-size: 14px; color: #856404;">
-    <strong>Affiliate Disclosure:</strong> Topend Sports may earn commission when you sign up through our links. We are committed to providing honest, objective reviews. Must be 18+. Gambling problem? Call the National Gambling Helpline on 0808 8020 133 (24/7, free and confidential).
-  </p>
-</div>
-```
-
----
-
 ## 4. QUICK VERDICT BOX
 
 ```html
@@ -949,7 +937,6 @@ window.addEventListener('load', function() {
 **Completeness Verification:**
 - ✓ Meta tags (title, description, keywords, canonical)
 - ✓ Last Updated badge (15 December 2025)
-- ✓ Affiliate disclosure (top, compliant with UK regulations)
 - ✓ Quick verdict box (rating 3.5/5, Trustpilot 3.2/5)
 - ✓ Feature comparison table (Bet442 vs bet365, William Hill, Ladbrokes)
 - ✓ Detailed rating breakdowns (Bonuses 4/5, Odds 4/5, App 3.5/5, Support 3/5, Payments 4/5)

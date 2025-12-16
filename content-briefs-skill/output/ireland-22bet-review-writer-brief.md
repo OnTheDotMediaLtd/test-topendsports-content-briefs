@@ -52,7 +52,6 @@ Map ALL 13 secondary keywords to specific sections:
    - Key USPs: €122 bonus, 40+ sports, 15-minute withdrawals
    - Authority statement
 
-2. **Affiliate disclosure (50-75 words):**
    - Standard disclosure language
    - Commitment to honest reviews
    - Editorial independence statement
@@ -99,9 +98,8 @@ Map ALL 13 secondary keywords to specific sections:
   - 40+ sports including GAA and eSports
   - 15-minute withdrawals via e-wallets
   - 50+ payment methods including crypto
-- Affiliate disclosure (50-75 words)
 
-**Internal Link:** [best betting sites Ireland](/sport/betting/ireland/best-betting-sites.htm)
+**Internal Link:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
 
 ---
 
@@ -287,7 +285,7 @@ Map ALL 13 secondary keywords to specific sections:
 - Google Play reviews (Android ratings)
 - Reddit r/sportsbook (user experiences with app)
 
-**Internal Link:** [betting apps Ireland](/sport/betting/ireland/best-apps.htm)
+**Internal Link:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
 
 ---
 
@@ -352,7 +350,7 @@ Map ALL 13 secondary keywords to specific sections:
 | Bank Transfer | 1-3 days | 3-7 days | None | €1 | €1.50 |
 | Visa/Mastercard | Instant | 3-5 days | None | €1 | €1.50 |
 
-**Calculator Link:** [betting calculator](/sport/betting/calculators/odds-calculator.htm)
+**Calculator Link:** [betting calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm)
 
 ---
 
@@ -540,9 +538,9 @@ Map ALL 13 secondary keywords to specific sections:
 | Live Streaming | ✅ | ✅ | ✅ | ✅ |
 
 **Internal Links:**
-- [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
-- [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm)
-- [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)
+- [Bet365 Ireland review](/sport/betting/ireland/22bet-review.htm)
+- [Paddy Power review](/sport/betting/ireland/lunubet-review.htm)
+- [BoyleSports review](/sport/betting/ireland/betalright-review.htm)
 
 ---
 
@@ -630,7 +628,7 @@ No promo code is required for the standard €122 welcome bonus. The bonus is au
 **Answer (75 words):**
 **iOS:** Change your App Store region to UK or Cyprus (Settings → Apple ID → Country/Region → UK), then search "22bet" and download. The app is 45MB and requires iOS 12.0+. **Android:** Download the APK directly from 22bet.com (33MB file). Enable "Unknown Sources" in Android settings before installing. Both apps offer live streaming, cash out, and a 10% mobile acca boost. Ratings: iOS 4.3/5, Android 4.1/5.
 
-**Internal Link:** [betting apps Ireland](/sport/betting/ireland/best-apps.htm)
+**Internal Link:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
 
 ---
 
@@ -670,7 +668,7 @@ The minimum deposit at 22bet is **€1** – the lowest in Ireland. This applies
 **Answer (75 words):**
 It depends on priorities. **22bet advantages:** Higher bonus (€122 vs €100), faster withdrawals (15 min vs 1-3 days), more payment options (50+ vs 15), crypto support. **Bet365 advantages:** Irish license, better app (4.7/5 vs 4.2/5), stronger GAA coverage. 22bet suits players valuing fast payouts and eSports; Bet365 is better for comprehensive Irish sports and regulatory trust. Overall, Bet365 leads but 22bet excels in specific areas.
 
-**Internal Link:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
+**Internal Link:** [Bet365 Ireland review](/sport/betting/ireland/22bet-review.htm)
 
 ---
 
@@ -778,17 +776,17 @@ Access these tools in your account settings under "Responsible Gambling." Rememb
 
 Place naturally throughout the content:
 
-1. **Introduction:** [best betting sites Ireland](/sport/betting/ireland/best-betting-sites.htm)
-2. **Overview:** [Irish betting sites comparison](/sport/betting/ireland/comparison.htm)
-3. **Bonus Section:** [free bets Ireland](/sport/betting/ireland/free-bets.htm)
-4. **Bonus Section:** [accumulator calculator](/sport/betting/calculators/accumulator-calculator.htm)
-5. **Sports Section:** [GAA betting](/sport/betting/gaa-betting.htm)
-6. **Mobile App:** [betting apps Ireland](/sport/betting/ireland/best-apps.htm)
-7. **Payment Methods:** [betting calculator](/sport/betting/calculators/odds-calculator.htm)
-8. **Competitor Comparison:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
-9. **Competitor Comparison:** [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm)
-10. **Competitor Comparison:** [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)
-11. **FAQ Section:** [sports betting guide](/sport/betting/how-to-bet.htm)
+1. **Introduction:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
+2. **Bonus Section:** [free bets Ireland](/sport/betting/ireland/free-bets.htm)
+3. **Bonus Section:** [accumulator calculator](/sport/betting-tools/parlay-calculator.htm)
+4. **Mobile App:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
+5. **Payment Methods:** [odds calculator](/sport/betting-tools/odds-calculator.htm)
+6. **Competitor Comparison:** [Lunubet review](/sport/betting/ireland/lunubet-review.htm)
+7. **Competitor Comparison:** [Betalright review](/sport/betting/ireland/betalright-review.htm)
+8. **Competitor Comparison:** [Casina review](/sport/betting/ireland/casina-review.htm)
+9. **Competitor Comparison:** [Festival Play review](/sport/betting/ireland/festivalplay-review.htm)
+10. **Competitor Comparison:** [Betovo review](/sport/betting/ireland/betovo-review.htm)
+11. **Competitor Comparison:** [Millioner review](/sport/betting/ireland/millioner-review.htm)
 12. **Responsible Gambling:** [responsible gambling resources](/sport/betting/responsible-gambling.htm)
 
 ---
@@ -797,7 +795,6 @@ Place naturally throughout the content:
 
 - ✅ **Age:** 18+ (Ireland-specific)
 - ✅ **Helplines:** BeGambleAware.org, GambleAware.ie, 089 241 5401
-- ✅ **Affiliate Disclosure:** In introduction (50-75 words)
 - ✅ **Responsible Gambling Section:** Bottom of page
 - ✅ **No Dated Language in H1:** Use Last Updated badge only
 - ✅ **License Information:** Curacao (8048/JAZ), Kahnawake

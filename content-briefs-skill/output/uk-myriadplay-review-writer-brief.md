@@ -57,7 +57,6 @@ myriadplay sport, myriad play, myriad play casino, myriad play review, myriadpla
    - Authority statement
    - Mention UK license (#39483) and launch date (June 2024)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard UK disclosure format
    - Mention editorial independence
    - Link to methodology
@@ -66,7 +65,6 @@ myriadplay sport, myriad play, myriad play casino, myriad play review, myriadpla
 ```
 Myriadplay is a promising new UK betting site launched in June 2024, offering 50+ sports, an impressive Acca Boost up to 77%, and strong esports coverage. Licensed by the UK Gambling Commission (#39483) and operated by AG Communications Limited, it delivers competitive odds and a solid mobile experience, though it lacks a dedicated app and ongoing promotions.
 
-[Affiliate disclosure paragraph - 50-75 words about commission, editorial independence, etc.]
 ```
 
 **FORBIDDEN:**
@@ -101,7 +99,6 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Quick verdict on Myriadplay
 - UK license verification (#39483)
 - Launch date context (June 2024)
-- Affiliate disclosure
 
 **Keywords:** myriadplay sport, myriadplay uk
 
@@ -123,7 +120,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Brief comparison with UK market leaders
 
 **Internal Links:**
-- Link "best UK betting sites" to `/sport/betting/uk/best-betting-sites.htm`
+- Link "best UK betting sites" to `/sport/betting/uk/index.htm`
 
 **Sources:**
 - UK Gambling Commission license database
@@ -219,7 +216,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 **Internal Links:**
 - Link "esports betting sites" to `/sport/betting/esports-betting-sites.htm`
 - Link "accumulator betting" to `/sport/betting/accumulator-betting.htm`
-- Link "Bet365 review" to `/sport/betting/uk/bet365-review.htm` (comparison context)
+- Link "Bet365 review" to `/sport/betting/uk/22bet-review.htm` (comparison context)
 
 **Sources:**
 - Sports count from site navigation
@@ -259,7 +256,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Account features (deposits, withdrawals, history)
 
 **Internal Links:**
-- Link "best betting apps UK" to `/sport/betting/uk/best-betting-apps.htm`
+- Link "best betting apps UK" to `/sport/betting/uk/betting-apps.htm`
 
 **Sources:**
 - Mobile usability testing
@@ -311,7 +308,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Security measures (SSL, 2FA if available)
 
 **Internal Links:**
-- Link "PayPal betting sites" to `/sport/betting/uk/paypal-betting-sites.htm`
+- Link "PayPal betting sites" to `/sport/betting/uk/index.htm`
 - Link "how to withdraw from betting sites" to `/sport/betting/how-to-withdraw.htm`
 
 **Sources:**
@@ -572,7 +569,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
   - Worth trying with welcome offer
 
 **Internal Links:**
-- Link "best UK betting sites" to `/sport/betting/uk/best-betting-sites.htm`
+- Link "best UK betting sites" to `/sport/betting/uk/index.htm`
 
 ---
 
@@ -609,22 +606,22 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
 
 **Place these contextually throughout the article:**
 
-1. **best UK betting sites** → `/sport/betting/uk/best-betting-sites.htm`
+1. **best UK betting sites** → `/sport/betting/uk/index.htm`
    - Placement: Introduction, Overview, Final Verdict
 
 2. **best new betting sites UK** → `/sport/betting/uk/new-betting-sites.htm`
    - Placement: Overview, Welcome Bonus
 
-3. **Bet365 review** → `/sport/betting/uk/bet365-review.htm`
+3. **Bet365 review** → `/sport/betting/uk/22bet-review.htm`
    - Placement: Sports Coverage (comparison context)
 
-4. **best betting apps UK** → `/sport/betting/uk/best-betting-apps.htm`
+4. **best betting apps UK** → `/sport/betting/uk/betting-apps.htm`
    - Placement: Mobile Experience section
 
 5. **free bets UK** → `/sport/betting/uk/free-bets.htm`
    - Placement: Welcome Bonus section
 
-6. **PayPal betting sites** → `/sport/betting/uk/paypal-betting-sites.htm`
+6. **PayPal betting sites** → `/sport/betting/uk/index.htm`
    - Placement: Payment Methods section
 
 7. **esports betting sites** → `/sport/betting/esports-betting-sites.htm`
@@ -732,7 +729,6 @@ Visa, Mastercard, PayPal, Neteller, Skrill, Trustly, AstroPay, Paysafecard, Much
 - [ ] BeGambleAware.org resources mentioned
 - [ ] UK Gambling Commission license (#39483) verified and cited
 - [ ] GAMSTOP self-exclusion mentioned
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible gambling section at bottom (150 words)
 - [ ] NO dated language in H1
 - [ ] Last Updated badge placement noted (AI adds in Phase 3)
@@ -754,7 +750,6 @@ Visa, Mastercard, PayPal, Neteller, Skrill, Trustly, AstroPay, Paysafecard, Much
 - [ ] FAQ schema markup (8 questions)
 - [ ] Breadcrumb schema
 - [ ] Article schema
-- [ ] Affiliate disclosure styling
 - [ ] Responsible gambling footer styling
 - [ ] Calculator tool links (odds, acca)
 
@@ -821,7 +816,7 @@ Visa, Mastercard, PayPal, Neteller, Skrill, Trustly, AstroPay, Paysafecard, Much
 
 - [ ] All 15 secondary keywords mapped to sections
 - [ ] Minimum 8 FAQs targeting question keywords
-- [ ] Introduction follows 150-word format (40-50 opening + 50-75 disclosure)
+- [ ] Introduction follows 150-word format (100-150 opening paragraph)
 - [ ] NO dates in H1 or H2 headings
 - [ ] 12 internal links placed contextually
 - [ ] UK compliance language (18+, 0808 8020 133, BeGambleAware)

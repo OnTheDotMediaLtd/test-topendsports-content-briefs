@@ -31,12 +31,11 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Disclosure:</strong> TopEnd Sports may earn a commission when you sign up through our links. We review betting platforms based on features, bonuses, security, and user experience. Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec). If you're struggling with problem gambling, call the Canadian Problem Gambling Helpline at <strong>1-866-531-2600</strong>.
+    <strong>Disclosure:</strong> TopEnd Sports may earn a commission when you sign up through our links. We review betting platforms based on features, bonuses, security, and user experience. Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec). If you're struggling with problem gambling, call the Canadian Problem Gambling Helpline at <strong>Provincial helplines vary</strong>.
   </p>
 </div>
 ```
@@ -910,7 +909,7 @@ document.querySelectorAll('h3').forEach(heading => {
       <strong>National Problem Gambling Helpline</strong>
     </p>
     <p style="margin: 0; font-size: 18px; color: #333; font-weight: bold;">
-      1-866-531-2600
+      Provincial helplines vary
     </p>
     <p style="margin: 0.5rem 0 0 0; font-size: 13px; color: #666;">
       Available 24/7 | Free | Confidential | English & French
@@ -922,7 +921,7 @@ document.querySelectorAll('h3').forEach(heading => {
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0;">
     <div style="background: white; padding: 1.25rem; border-radius: 6px; border-left: 4px solid #4caf50;">
       <p style="margin: 0 0 0.75rem 0; font-weight: 600; color: #2e7d32;">Ontario (ON)</p>
-      <p style="margin: 0; font-size: 13px;"><strong>ConnexOntario:</strong> 1-866-531-2600</p>
+      <p style="margin: 0; font-size: 13px;"><strong>Responsible Gambling Council:</strong> Provincial helplines vary</p>
       <p style="margin: 0.5rem 0 0 0; font-size: 12px; color: #666;">Referral service for addiction support</p>
     </div>
 
@@ -1050,11 +1049,10 @@ document.querySelectorAll('h3').forEach(heading => {
   </p>
 
   <p>
-    <strong>Responsible Gambling:</strong> This guide is for informational purposes only. Gambling involves risk. Set limits, use responsible gambling tools, and seek help if needed. National Problem Gambling Helpline: <strong>1-866-531-2600</strong> (24/7, free, confidential).
+    <strong>Responsible Gambling:</strong> This guide is for informational purposes only. Gambling involves risk. Set limits, use responsible gambling tools, and seek help if needed. National Problem Gambling Helpline: <strong>Provincial helplines vary</strong> (24/7, free, confidential).
   </p>
 
   <p>
-    <strong>Affiliate Disclosure:</strong> TopEnd Sports may earn a commission when players sign up through our links. This does not affect pricing. Our reviews are independent analyses based on features, bonuses, security, and user experience.
   </p>
 
   <p>
@@ -1088,12 +1086,12 @@ Place these internal links naturally throughout content sections:
 
 - [best sports betting sites in Canada](/sport/betting/canada/best-sites.htm) - Introduction/Comparison
 - [Bet99 review](/sport/betting/canada/bet99-review.htm) - Comparison section
-- [Sports Interaction review](/sport/betting/canada/sports-interaction-review.htm) - Comparison section
+- [Sports Interaction review](/sport/betting/canada/royalistplay-review.htm) - Comparison section
 - [Ontario sports betting guide](/sport/betting/canada/ontario.htm) - Ontario section
 - [Canadian online casinos](/sport/betting/canada/online-casinos.htm) - Casino features
 - [sports betting odds explained](/sport/betting/guides/odds-explained.htm) - Betting markets section
-- [parlay calculator](/sport/betting/calculators/parlay.htm) - Feature analysis
-- [odds calculator](/sport/betting/calculators/odds.htm) - Feature analysis
+- [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Feature analysis
+- [odds calculator](/sport/betting-tools/odds-calculator.htm) - Feature analysis
 - [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
 - [how to bet on sports in Canada](/sport/betting/canada/how-to-bet.htm) - Ontario/Introduction
 - [Betway Canada review](/sport/betting/canada/betway-review.htm) - Comparison section
@@ -1105,7 +1103,6 @@ Place these internal links naturally throughout content sections:
 
 - [x] Meta tags complete (title, description, keywords, canonical)
 - [x] Last Updated badge implemented (December 15, 2025)
-- [x] Affiliate disclosure included (top of article)
 - [x] Quick Verdict box with WYN badge (#3F51B5)
 - [x] Rating breakdown with 6 category ratings (4.0/5 overall)
 - [x] Pros/cons clearly listed (6 pros, 5 cons)
@@ -1126,8 +1123,7 @@ Place these internal links naturally throughout content sections:
 - [x] FAQ schema with all 7 questions (JSON-LD)
 - [x] Breadcrumb schema complete
 - [x] Responsible gambling section with Canadian resources
-- [x] All provincial helplines included (ON: 1-866-531-2600, BC, AB, QC, MB, NS, NB, NL)
-- [x] Compliance disclaimers (age requirements, affiliate disclosure, no personal advice)
+- [x] All provincial helplines included (ON: Provincial helplines vary, BC, AB, QC, MB, NS, NB, NL)
 - [x] 12 internal links integrated naturally
 - [x] Zero placeholders - all content complete and verified
 - [x] Mobile-responsive HTML styling
@@ -1158,7 +1154,7 @@ Place these internal links naturally throughout content sections:
 | **FAQ Count** | 7 questions |
 | **Comparison Brands** | 5 (Wyns, Bet99, Sports Interaction, Betway, Proline) |
 | **Schema Types** | Article, FAQ, Breadcrumb, Review |
-| **Compliance** | Canadian-specific (19+/18+ by province, helpline: 1-866-531-2600) |
+| **Compliance** | Canadian-specific (19+/18+ by province, helpline: Provincial helplines vary) |
 | **Brand Badge** | WYN (#3F51B5) |
 | **Last Updated Badge** | December 15, 2025 |
 | **Placeholders** | Zero (COMPLETE) |

@@ -46,7 +46,6 @@
 **Opening (40-50 words):**
 > The best betting sites UK are Bet442, LuckyMate, and NRGbet. These UK-licensed bookmakers offer the most competitive odds, comprehensive sports coverage, and secure payment methods, verified through extensive testing across mobile and desktop platforms.
 
-**Then:** Affiliate disclosure (50-75 words)
 
 **❌ FORBIDDEN PHRASES:**
 - "Welcome to..."
@@ -102,7 +101,6 @@
 
 ### Introduction (100-150 words)
 - Direct answer format: Name top 3 UK betting sites first
-- Then: Affiliate disclosure (50-75 words)
 
 ### Comparison Table
 - **ALL 9 brands featured:** Bet442, LuckyMate, NRGbet, Myriadplay, 7Bet, Mr Luck, MogoBet, 22bet, Highbet
@@ -331,7 +329,7 @@
 ### H2: Betting Calculators & Tools (300-400 words)
 
 **MANDATORY INTERNAL LINKS:**
-1. [odds converter calculator](/sport/betting/calculators/odds-converter.htm) - Convert between decimal, fractional, American odds
+1. [odds converter calculator](/sport/betting-tools/odds-calculator.htm-converter.htm) - Convert between decimal, fractional, American odds
 2. [accumulator calculator](/sport/betting/calculators/accumulator.htm) - Calculate potential returns on accas
 3. [each-way calculator](/sport/betting/calculators/each-way.htm) - Work out each-way bet returns
 4. [matched betting calculator](/sport/betting/calculators/matched-betting.htm) - Calculate matched bet profits
@@ -526,7 +524,7 @@
 6. **[UK New Betting Sites](/sport/betting/uk/new-betting-sites/)** - Best UK Bookmakers section
 
 **Calculators:**
-7. **[odds converter calculator](/sport/betting/calculators/odds-converter.htm)** - Betting Calculators section
+7. **[odds converter calculator](/sport/betting-tools/odds-calculator.htm-converter.htm)** - Betting Calculators section
 8. **[accumulator calculator](/sport/betting/calculators/accumulator.htm)** - Betting Calculators section
 9. **[each-way calculator](/sport/betting/calculators/each-way.htm)** - Betting Calculators section
 10. **[matched betting calculator](/sport/betting/calculators/matched-betting.htm)** - Betting Calculators section
@@ -590,7 +588,6 @@
 - [ ] GamStop, GamCare, BeGambleAware mentioned
 - [ ] Credit card ban explicitly stated
 - [ ] Tax-free betting explained
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (use Last Updated badge)
 - [ ] All 12 secondary keywords mapped to sections (NO cannibalization of dedicated pages)

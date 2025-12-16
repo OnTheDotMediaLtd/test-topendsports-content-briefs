@@ -50,7 +50,6 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 
 **Structure:**
 1. **Direct Verdict (40-50 words):** Quick answer on whether NRGbet is worth it for UK punters, mention UKGC licensing upfront
-2. **Affiliate Disclosure (50-75 words):** Standard disclosure about commissions and editorial independence
 
 **Total:** 100-150 words maximum
 
@@ -65,7 +64,6 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 - ✅ Direct answer in first sentence
 - ✅ UKGC license mention in opening
 - ✅ Who NRGbet is best for
-- ✅ Affiliate disclosure follows immediately
 
 ---
 
@@ -101,7 +99,6 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 - Direct verdict on NRGbet as a UK betting site
 - UKGC license mention upfront (verify license number first)
 - Who NRGbet is best for (e.g., mobile-first punters, new operator seekers)
-- Affiliate disclosure (50-75 words)
 
 **Format:** Direct answer first, then disclosure
 
@@ -1018,28 +1015,28 @@ Place these 12 internal links naturally throughout the content:
 3. **UK Betting Apps** → /sport/betting/uk/betting-apps.htm
    *Placement:* Mobile App Review section
 
-4. **Live Betting Guide** → /sport/betting/live-betting-guide.htm
+4. **Live Betting Guide** → /sport/betting/guides/live-betting.htm
    *Placement:* Live Betting section
 
 5. **Esports Betting UK** → /sport/betting/esports-betting.htm
    *Placement:* Esports subsection (if NRGbet offers esports)
 
-6. **bet365 Review** → /sport/betting/uk/bet365-review.htm
+6. **bet365 Review** → /sport/betting/uk/22bet-review.htm
    *Placement:* Comparison section
 
-7. **William Hill Review** → /sport/betting/uk/william-hill-review.htm
+7. **William Hill Review** → /sport/betting/uk/bet442-review.htm
    *Placement:* Comparison section
 
 8. **UK Gambling Commission Guide** → /sport/betting/uk/ukgc-licensing.htm
    *Placement:* Licensing & Safety section
 
-9. **Football Betting UK** → /sport/betting/uk/football-betting.htm
+9. **Football Betting UK** → /sport/betting/uk/football-betting-sites.htm
    *Placement:* Sports Markets section (when discussing football)
 
 10. **Accumulator Betting Tips** → /sport/betting/accumulator-tips.htm
     *Placement:* Accumulator subsection
 
-11. **GamStop Self-Exclusion** → /sport/betting/gamstop.htm
+11. **GamStop Self-Exclusion** → /sport/betting/responsible-gambling.htm
     *Placement:* Responsible Gambling section
 
 12. **Responsible Gambling UK** → /sport/betting/responsible-gambling.htm

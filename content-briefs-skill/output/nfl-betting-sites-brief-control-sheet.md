@@ -151,7 +151,6 @@
 ### Opening Section (100-150 words)
 - Direct answer: Top 3 NFL betting sites with 1-sentence why for each
 - Authority statement on testing methodology
-- Affiliate disclosure
 
 ### H2: Best NFL Betting Sites Ranked (500 words)
 Quick Answer Box: Top 3 summary

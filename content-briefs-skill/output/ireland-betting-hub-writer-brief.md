@@ -41,7 +41,6 @@
 > The best betting sites in Ireland are Lunubet, Betalright, and Casina. These platforms offer competitive odds, comprehensive sports coverage including GAA and horse racing, and reliable payment options tailored for Irish players.
 
 **Disclosure (50-75 words):**
-> [Standard affiliate disclosure - We may earn commission from links on this page. This does not affect our editorial independence. All betting sites are tested using the same rigorous methodology, and we only recommend operators that are fully licensed and meet our strict quality standards for Irish players. Learn more about how we test and rank betting sites.]
 
 **FORBIDDEN:**
 - ❌ "Welcome to..."
@@ -188,7 +187,7 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 │
 ├── H2: Welcome Bonuses Overview (300-400 words)
 │   └── Brief overview of bonus types available
-│   └── Link to dedicated pages: /sport/betting/ireland/free-bets/ (detailed free bet comparison)
+│   └── Link to dedicated pages: /sport/betting/ireland/free-bets.htm (detailed free bet comparison)
 │   └── Link to: /sport/betting/ireland/betting-offers/ (all offer types)
 │   └── Focus: Why having multiple accounts matters for bonus shopping
 │
@@ -458,7 +457,7 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 - List bonus types: Welcome bonuses, deposit matches, cashback, enhanced odds
 - Explain that each site has different offers
 - Mention importance of reading terms & conditions
-- Link to dedicated pages: /sport/betting/ireland/free-bets/ and /sport/betting/ireland/betting-offers/
+- Link to dedicated pages: /sport/betting/ireland/free-bets.htm and /sport/betting/ireland/betting-offers/
 - Note: Bonus value depends on wagering requirements
 
 ---
@@ -547,20 +546,18 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 
 | Anchor Text | Target URL | Placement Section |
 |-------------|------------|-------------------|
-| best betting apps ireland | /sport/betting/ireland/betting-apps/ | Mobile Betting Apps section |
-| free bets ireland | /sport/betting/ireland/free-bets/ | Welcome Bonuses Overview section |
-| betting offers ireland | /sport/betting/ireland/betting-offers/ | Welcome Bonuses Overview section |
-| betting odds explained | /sport/betting/odds/ | How We Test section |
-| parlay calculator | /sport/betting/calculators/parlay/ | Sports Betting section |
-| betting bonus calculator | /sport/betting/calculators/bonus/ | Welcome Bonuses Overview section |
-| live betting guide | /sport/betting/live/ | Brand reviews (live betting features) |
-| horse racing betting explained | /sport/betting/horse-racing/ | Horse Racing section |
-| football betting tips | /sport/betting/football/ | Sports Betting Overview |
-| rugby betting guide | /sport/betting/rugby/ | Sports Betting Overview |
-| responsible gambling tools | /sport/betting/responsible-gambling/ | Responsible Gambling section |
-| betting site reviews | /sport/betting/reviews/ | How We Test section |
-| sports betting terms | /sport/betting/glossary/ | Introduction or How We Test |
-| betting strategies | /sport/betting/strategies/ | Sports Betting Overview |
+| best betting apps ireland | /sport/betting/ireland/betting-apps.htm | Mobile Betting Apps section |
+| free bets ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonuses Overview section |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Sports Betting section |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Sports Betting section |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling section |
+| Lunubet review | /sport/betting/ireland/lunubet-review.htm | Comparison section |
+| Betalright review | /sport/betting/ireland/betalright-review.htm | Comparison section |
+| Casina review | /sport/betting/ireland/casina-review.htm | Comparison section |
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| Betovo review | /sport/betting/ireland/betovo-review.htm | Comparison section |
+| 22bet review | /sport/betting/ireland/22bet-review.htm | Comparison section |
 
 ---
 
@@ -574,7 +571,7 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 - **Context:** "Use our bonus calculator to calculate the real value of welcome offers after wagering requirements"
 
 ### 2. Parlay Calculator
-- **URL:** /sport/betting/calculators/parlay/
+- **URL:** /sport/betting-tools/parlay-calculator.htm/
 - **Placement:** Sports Betting Overview section
 - **Context:** "Calculate potential parlay payouts with our parlay calculator"
 
@@ -592,7 +589,6 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 - MUST appear in Responsible Gambling section
 - Include in footer (dev team will add)
 
-### Affiliate Disclosure
 **MUST appear in introduction (50-75 words)**
 
 Example:
@@ -716,7 +712,6 @@ Before submission, verify:
 - [ ] Irish licensing explained (Revenue Commissioners)
 - [ ] Age requirement: 18+ (not 21+)
 - [ ] Responsible gambling hotline: 087 744 3577
-- [ ] Affiliate disclosure in intro (50-75 words)
 - [ ] Responsible Gambling section at bottom (300-400 words)
 - [ ] 5-10 source citations in References section
 - [ ] Total word count: 9,000 words (±500 acceptable)

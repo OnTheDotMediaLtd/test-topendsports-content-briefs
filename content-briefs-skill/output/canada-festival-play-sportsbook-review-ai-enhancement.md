@@ -37,12 +37,11 @@
 
 ---
 
-## AFFILIATE DISCLOSURE (TOP OF PAGE)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px;">
-    <strong>Disclosure:</strong> TopEnd Sports may earn commission when you sign up and place bets through our links. This review is independent and objective, based on comprehensive testing and research. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Gambling problem? Call ConnexOntario at 1-866-531-2600.
+    <strong>Disclosure:</strong> TopEnd Sports may earn commission when you sign up and place bets through our links. This review is independent and objective, based on comprehensive testing and research. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Gambling problem? Call Responsible Gambling Council at Provincial helplines vary.
   </p>
 </div>
 ```
@@ -359,7 +358,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
     <div style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease;">
       <div style="padding: 1.5rem; color: #555; line-height: 1.7;">
-        <p>Festival Play is accessible in all Canadian provinces as an offshore operator not regulated by provincial gaming commissions. Age requirements vary by province: 19 years old in most provinces (British Columbia, Saskatchewan, Nova Scotia, etc.), but 18 years old in Alberta, Manitoba, and Quebec. While accessible throughout Canada, Festival Play is not licensed by Ontario Lottery and Gaming Commission (OLGC) or other provincial authorities. This means it operates outside provincial regulatory frameworks—neither prohibited nor endorsed by provinces. Players in Ontario and other provinces can legally access Festival Play, but should be aware they lack the same consumer protections as provincial operators. If you experience problems, provincial gambling helplines can assist: ConnexOntario provides 1-866-531-2600 for Ontario players (24/7).</p>
+        <p>Festival Play is accessible in all Canadian provinces as an offshore operator not regulated by provincial gaming commissions. Age requirements vary by province: 19 years old in most provinces (British Columbia, Saskatchewan, Nova Scotia, etc.), but 18 years old in Alberta, Manitoba, and Quebec. While accessible throughout Canada, Festival Play is not licensed by Ontario Lottery and Gaming Commission (OLGC) or other provincial authorities. This means it operates outside provincial regulatory frameworks—neither prohibited nor endorsed by provinces. Players in Ontario and other provinces can legally access Festival Play, but should be aware they lack the same consumer protections as provincial operators. If you experience problems, provincial gambling helplines can assist: Responsible Gambling Council provides Provincial helplines vary for Ontario players (24/7).</p>
       </div>
     </div>
   </div>
@@ -511,7 +510,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <li>Deposit limits available to help manage spending</li>
     <li>Self-exclusion options for players needing breaks</li>
     <li>Reality check reminders during play sessions</li>
-    <li>Canadian resource: ConnexOntario 1-866-531-2600 (24/7)</li>
+    <li>Canadian resource: Responsible Gambling Council Provincial helplines vary (24/7)</li>
   </ul>
 
   <p style="font-size: 13px; color: #666; margin-top: 2rem; padding-top: 1.5rem; border-top: 2px solid #dee2e6;">
@@ -737,7 +736,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   <h3 style="color: #333; margin-top: 1.5rem;">Canadian Helplines & Resources</h3>
   <ul style="line-height: 2; color: #555; font-weight: 600;">
-    <li><strong>ConnexOntario (Ontario):</strong> 1-866-531-2600 (24/7, confidential)</li>
+    <li><strong>Responsible Gambling Council (Ontario):</strong> Provincial helplines vary (24/7, confidential)</li>
     <li><strong>Problem Gambling Canada:</strong> www.problemgambling.ca</li>
     <li><strong>Gamblers Anonymous Canada:</strong> www.gamblersanonymous.ca</li>
     <li><strong>National Problem Gambling Helpline (USA/Canada):</strong> 1-800-522-4700</li>
@@ -908,14 +907,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
 The following internal links should be placed naturally throughout the content:
 
-- [Best Sports Betting Sites Canada](/sport/betting/canada/betting-hub.htm) - In intro/comparison context
+- [Best Sports Betting Sites Canada](/sport/betting/canada/index.htm) - In intro/comparison context
 - [Best Betting Apps Canada](/sport/betting/canada/betting-apps.htm) - In mobile section
 - [New Betting Sites Canada](/sport/betting/canada/new-betting-sites.htm) - In overview
 - [Treasure Spins Review](/sport/betting/canada/treasure-spins-review.htm) - In comparison
 - [Royalistplay Review](/sport/betting/canada/royalistplay-review.htm) - In comparison
 - [Lucky7even Review](/sport/betting/canada/lucky7even-review.htm) - In comparison
-- [Parlay Calculator](/sport/betting/calculators/parlay.htm) - In sports markets section
-- [Odds Converter](/sport/betting/calculators/odds-converter.htm) - In sports markets section
+- [Parlay Calculator](/sport/betting-tools/parlay-calculator.htm) - In sports markets section
+- [Odds Converter](/sport/betting-tools/odds-calculator.htm-converter.htm) - In sports markets section
 - [Betting Odds Explained](/sport/betting/guides/odds-explained.htm) - In FAQ/education
 - [How to Bet on NHL](/sport/betting/guides/nhl-betting.htm) - In NHL section
 - [CFL Betting Guide](/sport/betting/guides/cfl-betting.htm) - In CFL section
@@ -927,7 +926,6 @@ The following internal links should be placed naturally throughout the content:
 
 - [x] Meta tags complete with no dates
 - [x] Last Updated badge HTML
-- [x] Affiliate disclosure at top
 - [x] Quick Answer Box with 6 key facts
 - [x] Comparison table with 4 competitors (Festival Play vs FanDuel, BetMGM, Caesars)
 - [x] Interactive bonus calculator with working JavaScript
@@ -937,7 +935,7 @@ The following internal links should be placed naturally throughout the content:
 - [x] Provincial age requirements table
 - [x] Schema markup: Article, FAQ (10 questions), Breadcrumb, AggregateOffer
 - [x] Letter badge "FPL" with correct color #7B1FA2 (purple)
-- [x] Canada compliance: 19+ (18+ in AB/MB/QC), ConnexOntario 1-866-531-2600
+- [x] Canada compliance: 19+ (18+ in AB/MB/QC), Responsible Gambling Council Provincial helplines vary
 - [x] No image logos - only letter badges
 - [x] Payment methods highlighting Interac e-Transfer and crypto
 - [x] Mobile responsive CSS

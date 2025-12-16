@@ -156,7 +156,6 @@
 ## CONTENT SECTIONS BREAKDOWN
 
 ### 1. Introduction (150 words)
-- Affiliate disclosure (required)
 - Direct verdict: "22bet offers Irish punters €122 welcome bonus, 40+ sports, and industry-leading eSports coverage"
 - Quick USPs (3-4 bullets)
 - **Keywords:** 22bet ireland, 22bet review
@@ -448,14 +447,14 @@
 
 | # | Anchor Text | Target URL | Context Section |
 |---|-------------|------------|-----------------|
-| 1 | best betting sites Ireland | /sport/betting/ireland/best-betting-sites.htm | Introduction |
-| 2 | Bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Competitor comparison |
-| 3 | Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Competitor comparison |
-| 4 | BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Competitor comparison |
-| 5 | betting calculator | /sport/betting/calculators/odds-calculator.htm | Tools/bonus section |
+| 1 | best betting sites Ireland | /sport/betting/ireland/index.htm | Introduction |
+| 2 | Bet365 Ireland review | /sport/betting/ireland/22bet-review.htm | Competitor comparison |
+| 3 | Paddy Power review | /sport/betting/ireland/lunubet-review.htm | Competitor comparison |
+| 4 | BoyleSports review | /sport/betting/ireland/betalright-review.htm | Competitor comparison |
+| 5 | betting calculator | /sport/betting-tools/odds-calculator.htm-calculator.htm | Tools/bonus section |
 | 6 | accumulator calculator | /sport/betting/calculators/accumulator-calculator.htm | Bonus wagering |
 | 7 | Irish betting sites comparison | /sport/betting/ireland/comparison.htm | Introduction |
-| 8 | betting apps Ireland | /sport/betting/ireland/best-apps.htm | Mobile app section |
+| 8 | betting apps Ireland | /sport/betting/ireland/betting-apps.htm | Mobile app section |
 | 9 | free bets Ireland | /sport/betting/ireland/free-bets.htm | Promotions section |
 | 10 | sports betting guide | /sport/betting/how-to-bet.htm | FAQ section |
 | 11 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Footer section |
@@ -497,7 +496,6 @@
 - [x] **Age Requirement:** 18+ (Ireland)
 - [x] **Jurisdiction:** Ireland (Republic of Ireland)
 - [x] **Hotline:** BeGambleAware.org, GambleAware.ie
-- [x] **Affiliate Disclosure:** Required in introduction
 - [x] **Responsible Gambling Section:** Mandatory at bottom
 - [x] **Forbidden Language:** Avoid "guaranteed wins," "can't lose," "risk-free"
 - [x] **Licensing Transparency:** Curacao + Kahnawake (note: not UKGC/MGA)

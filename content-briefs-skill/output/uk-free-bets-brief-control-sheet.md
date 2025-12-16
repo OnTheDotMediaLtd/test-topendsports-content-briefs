@@ -303,7 +303,6 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 - [ ] **Introduction (150-200 words)**
   - Top 3 free bet picks summary
   - Value calculation emphasis (real returns vs. headline figures)
-  - Affiliate disclosure + 18+ compliance
 
 - [ ] **Quick Comparison Table (Interactive)**
   - All 7 brands
@@ -416,14 +415,14 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 2. **"betting apps UK"** → /sport/betting/uk/betting-apps.htm
    *Context:* Mobile Experience section H2
 
-3. **"welcome bonuses UK"** → /sport/betting/uk/welcome-bonuses.htm
+3. **"welcome bonuses UK"** → /sport/betting/uk/betting-offers.htm
    *Context:* "Betting Offers UK - Welcome Bonuses" H2 section
 
 ### Calculator Links (3)
 4. **"free bet calculator"** → /sport/betting/calculators/free-bet-calculator.htm
    *Context:* Embedded calculator section + link to full calculator page
 
-5. **"odds calculator"** → /sport/betting/calculators/odds-calculator.htm
+5. **"odds calculator"** → /sport/betting-tools/odds-calculator.htm-calculator.htm
    *Context:* "Minimum Odds Requirements" H3 explanation
 
 6. **"accumulator calculator"** → /sport/betting/calculators/accumulator-calculator.htm
@@ -437,7 +436,7 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
    *Context:* LuckyMate brand section header or CTA
 
 ### Sport-Specific Links (2)
-9. **"football betting UK"** → /sport/betting/uk/football-betting.htm
+9. **"football betting UK"** → /sport/betting/uk/football-betting-sites.htm
    *Context:* "Football Free Bets" H3 subsection
 
 10. **"horse racing betting"** → /sport/betting/uk/horse-racing-betting.htm
@@ -462,8 +461,6 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 - [ ] **Self-Exclusion:** GamStop integration links + explanation of impact on free bet eligibility
 - [ ] **T&Cs Transparency:** "T&Cs apply" on all bonus mentions, link to operator's full terms
 - [ ] **No Misleading Claims:** Avoid "risk-free", "guaranteed", "free money" language (ASA rules)
-
-### Affiliate Disclosure
 
 **Required Text (Introduction):**
 "We may earn commission from operators featured on this page. This does not influence our rankings, which are based on independent research, real user feedback, and UKGC compliance verification. 18+. BeGambleAware.org"

@@ -50,9 +50,6 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
    - Sentence 1: "The best betting apps in the UK are [Bet442, LuckyMate, and NRGbet]."
    - Sentence 2: Authority statement (how tested, what criteria)
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commissions
-   - Clear and prominent
 
 **FORBIDDEN:**
 - ❌ "Welcome to our guide..."
@@ -86,7 +83,6 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 ### Introduction (100-150 words)
 - Direct answer with top 3 apps
 - Authority statement on testing methodology
-- Affiliate disclosure (50-75 words)
 - **NO "Welcome to..." or rhetorical questions**
 
 ---
@@ -282,7 +278,7 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 - Comparison table of football coverage across apps
 - Best odds for Premier League, Champions League, etc.
 
-**Internal link:** [UK Football Betting](/sport/betting/uk/football-betting.htm)
+**Internal link:** [UK Football Betting](/sport/betting/uk/football-betting-sites.htm)
 
 ---
 
@@ -792,10 +788,10 @@ Place these naturally throughout the content. Context indicates where to use eac
 
 | Anchor Text | URL | Placement | Context |
 |-------------|-----|-----------|---------|
-| UK Sports Betting Sites | /sport/betting/uk/sports-betting.htm | Introduction or early section | Main UK betting hub |
-| UK Football Betting | /sport/betting/uk/football-betting.htm | Best Football Betting Apps section | Football-specific page |
-| Parlay Calculator | /sport/betting/calculators/parlay.htm | How-to or features section | Calculator tool for accumulator bets |
-| Odds Calculator | /sport/betting/calculators/odds.htm | How-to or features section | Calculator tool for odds conversion |
+| UK Sports Betting Sites | /sport/betting/uk/index.htm | Introduction or early section | Main UK betting hub |
+| UK Football Betting | /sport/betting/uk/football-betting-sites.htm | Best Football Betting Apps section | Football-specific page |
+| Parlay Calculator | /sport/betting-tools/parlay-calculator.htm | How-to or features section | Calculator tool for accumulator bets |
+| Odds Calculator | /sport/betting-tools/odds-calculator.htm | How-to or features section | Calculator tool for odds conversion |
 | UK Horse Racing Betting | /sport/betting/uk/horse-racing.htm | Sports coverage or BOG section | Horse racing apps discussion |
 | Best Odds Guaranteed UK | /sport/betting/uk/best-odds-guaranteed.htm | Best Odds Guaranteed Apps section | Detailed BOG explanation |
 | Live Betting UK | /sport/betting/uk/live-betting.htm | In-play features section | Live betting features |
@@ -838,10 +834,6 @@ Place these naturally throughout the content. Context indicates where to use eac
 - ONLY mention debit cards, e-wallets, bank transfers, mobile payments, prepaid cards
 - Explain credit card ban in payment methods section
 
-**Affiliate Disclosure:**
-- Required in introduction (50-75 words)
-- Clear statement about earning commissions
-- Note that it doesn't influence rankings
 
 **Format:**
 "When you click on links to betting sites on this page and make a deposit, we may earn a commission. This does not influence our rankings, which are based on independent testing, user reviews from App Store and Google Play, and analysis of features, performance, and value. All recommended apps are licensed by the UK Gambling Commission. Gambling can be addictive. Please play responsibly. 18+. BeGambleAware.org"
@@ -926,7 +918,6 @@ Before submitting, verify:
 - [ ] Word count targets met (8,500 words total)
 - [ ] Sources cited: App Store, Google Play, Reddit
 - [ ] Compliance section complete (18+, UKGC, helpline)
-- [ ] Affiliate disclosure in introduction
 - [ ] NO dated language in H1 or body
 - [ ] Responsible gambling section at end
 - [ ] Template 2 structure followed

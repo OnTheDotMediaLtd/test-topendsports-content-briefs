@@ -652,9 +652,6 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
   </div>
 
   <div class="compliance-box">
-    <h3>Affiliate Disclosure</h3>
-    <p><strong>Transparency Notice:</strong> TopEndSports is an affiliate partner with featured betting sites. We earn commission when users register through our links. This does not affect your odds, bonuses, or experience—our reviews remain independent and based on actual user data, App Store ratings, and UKGC license verification.</p>
-  </div>
 </section>
 
 <style>

@@ -76,8 +76,6 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
    - Sentence 2: Authority statement about testing/verification
    - Focus on NON-ONTARIO market (offshore operators)
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commissions
    - Editorial independence statement
    - Only recommend tested sites
 
@@ -111,7 +109,6 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 ### Introduction (100-150 words)
 - Direct answer: Top 3 sites are Treasure Spins, Royalistplay, Lucky7even
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Non-Ontario market focus
 - **CRITICAL:** Include links to dedicated pages early (betting-apps, sports-betting-sites, new-betting-sites)
 
@@ -543,13 +540,13 @@ Create table showing all 9 brands with available payment methods, processing tim
 **Calculator Tools (with internal links):**
 
 1. **Parlay Calculator** (75 words)
-   - Link to: /sport/betting/calculators/parlay/
+   - Link to: /sport/betting-tools/parlay-calculator.htm/
    - What it calculates
    - How to use it
    - Benefits for Canadian bettors
 
 2. **Odds Calculator** (75 words)
-   - Link to: /sport/betting/calculators/odds/
+   - Link to: /sport/betting-tools/odds-calculator.htm/
    - Converting between formats (decimal, American, fractional)
    - Canadian preferences (decimal popular)
 
@@ -733,14 +730,15 @@ Create table showing all 9 brands with available payment methods, processing tim
 - Recognizing problem gambling signs
 
 **Resources (100 words):**
-- **Canadian Problem Gambling Hotline:** 1-866-531-2600 (24/7)
-- **Responsible Gambling Council (Canada):** responsiblegambling.org
-- **ConnexOntario:** 1-866-531-2600 (Ontario residents)
-- **Problem Gambling Institute of Ontario (PGIO)**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 - Provincial resources:
   - Alberta Gambling Helpline: 1-866-332-2322
   - BC Problem Gambling Help: 1-888-795-6111
+  - Manitoba: Problem Gambling Helpline
   - Quebec Gambling Help: 1-800-461-0140
+  - Other provinces: Contact provincial gambling authorities
 
 **Self-Help Tools (50 words):**
 - Deposit limits
@@ -880,19 +878,19 @@ Must include these specific internal links:
 | # | Anchor Text | Target URL | Placement Section |
 |---|-------------|------------|-------------------|
 | 1 | Best Betting Apps Canada | /sport/betting/canada/betting-apps.htm | Mobile Betting section (PROMINENT) |
-| 2 | Best Sports Betting Sites Canada | /sport/betting/canada/sports-betting-sites.htm | Choosing a Site section (PROMINENT) |
-| 3 | New Betting Sites Canada | /sport/betting/canada/new-betting-sites.htm | Introduction or brand discussion |
-| 4 | NHL betting sites | /sport/betting/nhl/ | Popular Sports section |
-| 5 | CFL betting guide | /sport/betting/cfl/ | Popular Sports section |
-| 6 | NBA betting in Canada | /sport/betting/nba/ | Popular Sports section |
-| 7 | MLB betting sites | /sport/betting/mlb/ | Popular Sports section |
-| 8 | parlay betting calculator | /sport/betting/calculators/parlay/ | Calculators section |
-| 9 | odds calculator | /sport/betting/calculators/odds/ | Calculators section |
-| 10 | betting units calculator | /sport/betting/calculators/units/ | Calculators section |
-| 11 | sports betting Ontario | /sport/betting/canada/ontario/ | Ontario section |
-| 12 | Alberta betting sites | /sport/betting/canada/alberta/ | Provincial discussion |
-| 13 | Quebec betting sites | /sport/betting/canada/quebec/ | Provincial discussion |
-| 14 | how to bet on sports | /sport/betting/guides/how-to-bet/ | Getting Started section |
+| 2 | New Betting Sites Canada | /sport/betting/canada/new-betting-sites.htm | Introduction or brand discussion |
+| 3 | Treasure Spins review | /sport/betting/canada/treasurespins-review.htm | Brand reviews section |
+| 4 | Royalistplay review | /sport/betting/canada/royalistplay-review.htm | Brand reviews section |
+| 5 | Wyns review | /sport/betting/canada/wyns-review.htm | Brand reviews section |
+| 6 | Lucky7even review | /sport/betting/canada/lucky7even-review.htm | Brand reviews section |
+| 7 | NHL betting sites | /sport/betting/nhl/index.htm | Popular Sports section |
+| 8 | NBA betting in Canada | /sport/betting/nba/index.htm | Popular Sports section |
+| 9 | NFL betting sites | /sport/betting/nfl/index.htm | Popular Sports section |
+| 10 | Soccer betting sites | /sport/betting/soccer/index.htm | Popular Sports section |
+| 11 | parlay betting calculator | /sport/betting-tools/parlay-calculator.htm | Calculators section |
+| 12 | odds calculator | /sport/betting-tools/odds-calculator.htm | Calculators section |
+| 13 | Same Game Parlay Guide | /sport/betting/guides/same-game-parlay.htm | Betting guides section |
+| 14 | Responsible Gambling | /sport/betting/responsible-gambling.htm | Compliance section |
 
 ---
 
@@ -936,12 +934,13 @@ Must include these specific internal links:
 - Mention in introduction and FAQs
 - Include in Responsible Gambling section
 
-### Gambling Hotlines
-- **Primary:** 1-866-531-2600 (Canadian Problem Gambling Hotline)
+### Gambling Resources
+- **Primary Resources:**
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
 - Include in Responsible Gambling section
-- Provincial hotlines by province
+- Provincial helplines vary by location
 
-### Affiliate Disclosure
 - **Placement:** Introduction (50-75 words)
 - **Message:** "We may earn commission from links on this page. This does not affect our editorial independence or recommendations. We only feature sites we've personally tested."
 
@@ -983,7 +982,6 @@ Before submitting, verify:
 
 - [ ] Introduction is 100-150 words (no more)
 - [ ] Direct answer format in first 2 sentences
-- [ ] Affiliate disclosure included (50-75 words)
 - [ ] NO dated language in H1 or content
 - [ ] All 8 hub-appropriate secondary keywords mapped to sections
 - [ ] All 10 FAQs target keywords
@@ -1003,7 +1001,7 @@ Before submitting, verify:
 - [ ] NO keyword cannibalization (removed betting apps/sites comparison keywords)
 - [ ] Responsible gambling section with Canadian resources
 - [ ] Age requirements: 18+ (AB, MB, QC), 19+ (others)
-- [ ] Gambling hotline: 1-866-531-2600
+- [ ] Pan-Canadian gambling resources: Responsible Gambling Council and CCSA
 
 ---
 

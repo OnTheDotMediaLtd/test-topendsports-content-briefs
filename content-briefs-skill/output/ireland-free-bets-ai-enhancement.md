@@ -481,10 +481,8 @@ function sortTable(n) {
 
 ---
 
-## AFFILIATE DISCLOSURE (INTRO)
 
 ```html
-<div class="affiliate-disclosure" style="background: #fef3c7; border: 1px solid #fcd34d; padding: 12px 16px; border-radius: 4px; margin: 16px 0; font-size: 13px; color: #92400e;">
   <strong>Disclosure:</strong> This page contains affiliate links. We earn a commission if you sign up through our links, at no additional cost to you. All recommendations are tested by our team and unbiased. We comply with all UK gambling advertising standards.
 </div>
 ```
@@ -573,7 +571,6 @@ document.addEventListener('DOMContentLoaded', function() {
     font-size: 12px !important;
   }
 
-  .affiliate-disclosure {
     font-size: 11px !important;
   }
 }
@@ -607,14 +604,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- In Introduction Section -->
 <p>
   Learn more about the <a href="/sport/betting/ireland/">Ireland betting hub</a>,
-  <a href="/sport/betting/ireland/best-sites.htm">best betting sites Ireland</a>,
+  <a href="/sport/betting/ireland/index.htm">best betting sites Ireland</a>,
   and our full <a href="/sport/betting/ireland/sports-betting.htm">sports betting Ireland guide</a>.
 </p>
 
 <!-- In Mobile Experience Sections -->
 <p>
   Claiming on mobile is streamlined across all sites. See our
-  <a href="/sport/betting/ireland/best-apps.htm">best betting apps Ireland</a> guide for detailed app reviews.
+  <a href="/sport/betting/ireland/betting-apps.htm">best betting apps Ireland</a> guide for detailed app reviews.
 </p>
 
 <!-- In Wagering Requirements Section -->
@@ -646,7 +643,6 @@ document.addEventListener('DOMContentLoaded', function() {
 - [x] Article schema markup with complete structured data
 - [x] FAQ schema markup with 10 questions + answers
 - [x] Breadcrumb schema for navigation hierarchy
-- [x] Affiliate disclosure clearly displayed
 - [x] Ireland-specific compliance (18+, 087 744 3577 helpline)
 - [x] Free bet value calculator with working JavaScript
 - [x] Mobile responsive CSS with touch-friendly inputs

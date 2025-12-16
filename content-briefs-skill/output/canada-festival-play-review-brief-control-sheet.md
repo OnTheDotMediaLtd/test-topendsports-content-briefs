@@ -165,7 +165,6 @@
 **Introduction (100-150 words):**
 - [ ] Direct answer: Festival Play rating and suitability
 - [ ] Authority statement
-- [ ] Affiliate disclosure (Canadian compliance)
 
 **Main Sections:**
 - [ ] Festival Play Overview (200-250 words)
@@ -315,7 +314,7 @@
 ## INTERNAL LINKS (12 Required)
 
 ### Canadian Comparison Pages
-1. "Best Sports Betting Sites Canada" → `/sport/betting/canada/betting-hub.htm`
+1. "Best Sports Betting Sites Canada" → `/sport/betting/canada/index.htm`
 2. "Best Betting Apps Canada" → `/sport/betting/canada/betting-apps.htm`
 3. "New Betting Sites Canada" → `/sport/betting/canada/new-betting-sites.htm`
 
@@ -325,8 +324,8 @@
 6. "Lucky7even Review" → `/sport/betting/canada/lucky7even-review.htm`
 
 ### Calculator Tools
-7. "Parlay Calculator" → `/sport/betting/calculators/parlay.htm`
-8. "Odds Converter" → `/sport/betting/calculators/odds-converter.htm`
+7. "Parlay Calculator" → `/sport/betting-tools/parlay-calculator.htm`
+8. "Odds Converter" → `/sport/betting-tools/odds-calculator.htm-converter.htm`
 
 ### Educational Guides
 9. "Betting Odds Explained" → `/sport/betting/guides/odds-explained.htm`
@@ -373,13 +372,13 @@
 - **19+:** British Columbia, Saskatchewan, Ontario, New Brunswick, Nova Scotia, PEI, Newfoundland & Labrador, Northwest Territories, Yukon, Nunavut
 
 ### Responsible Gambling Resources
-- **ConnexOntario:** 1-866-531-2600
+- **Responsible Gambling Council:** www.responsiblegambling.org
 - **Alberta Gambling Helpline:** 1-866-332-2322
 - **BC Gambling Support:** 1-888-795-6111
-- **Problem Gambling Helpline (National):** 1-866-531-2600
+- **Quebec Gambling Helpline:** 1-800-461-0140
+- **Ontario (Responsible Gambling Council):** 1-866-531-2600
 
 ### Mandatory Disclosures
-- [ ] Affiliate disclosure in introduction
 - [ ] Age requirement by province
 - [ ] Helpline information
 - [ ] Offshore operator status (not provincially licensed)
@@ -486,7 +485,8 @@ Target these questions from secondary keywords and user intent:
 
 - **Word Count Target:** 3,500-4,000 words
 - **Compliance:** Canada (varies by province: 18+/19+)
-- **Helplines:** ConnexOntario (1-866-531-2600) + provincial resources
+- **Helplines:** Provincial helplines (AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140)
+- **National Resource:** Responsible Gambling Council
 - **Template:** 1 (Review)
 - **Writer:** Tom Goldsmith
 - **Priority:** High

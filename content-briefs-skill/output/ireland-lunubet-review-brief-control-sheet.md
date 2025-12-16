@@ -171,7 +171,6 @@ Based on competitor analysis, TopEndSports can dominate with:
 
 ### HTML/Interactive Elements
 - [ ] Last Updated badge (current date)
-- [ ] Affiliate disclosure box (Ireland-compliant wording)
 - [ ] Star rating visualization
 - [ ] Pros/Cons comparison table
 - [ ] Bonus breakdown table
@@ -191,11 +190,11 @@ Based on competitor analysis, TopEndSports can dominate with:
 
 ## INTERNAL LINKS (12 total)
 
-1. "best betting sites in Ireland" → `/sport/betting/ireland/betting-hub.htm`
+1. "best betting sites in Ireland" → `/sport/betting/ireland/index.htm`
 2. "sports betting in Ireland" → `/sport/betting/ireland/`
-3. "Bet365 Ireland review" → `/sport/betting/ireland/bet365-review.htm`
-4. "BoyleSports review" → `/sport/betting/ireland/boylesports-review.htm`
-5. "Paddy Power review" → `/sport/betting/ireland/paddypower-review.htm`
+3. "Bet365 Ireland review" → `/sport/betting/ireland/22bet-review.htm`
+4. "BoyleSports review" → `/sport/betting/ireland/betalright-review.htm`
+5. "Paddy Power review" → `/sport/betting/ireland/lunubet-review.htm`
 6. "betting odds explained" → `/sport/betting/odds.htm`
 7. "parlay calculator" → `/calculators/parlay.htm`
 8. "odds calculator" → `/calculators/odds.htm`
@@ -219,7 +218,6 @@ Based on competitor analysis, TopEndSports can dominate with:
 - **Gamblers Anonymous Ireland:** www.gamblersanonymous.ie
 
 ### Required Disclosures
-- Affiliate disclosure (clear and prominent)
 - Age verification statement
 - Responsible gambling tools mention
 - License information with link

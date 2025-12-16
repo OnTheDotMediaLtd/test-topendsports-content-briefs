@@ -49,7 +49,6 @@ new betting sites canada, newest betting sites, betting apps ontario, sports bet
    - Sentence 1: Direct answer naming top 3 new sites (Treasure Spins, Royalistplay, Wyns)
    - Sentence 2: Authority statement (testing methodology, innovation focus)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Clear statement that we earn commissions from links
    - Reassurance that this doesn't affect pricing or recommendations
    - Transparency about evaluation process
@@ -99,7 +98,6 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 **Requirements:**
 - First sentence: Name top 3 new sites
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Keywords: "new betting sites canada", "newest betting sites"
 
 ---
@@ -398,13 +396,16 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 - Age requirement: **19+ (18+ in Alberta, Manitoba, Quebec)**
 - Self-exclusion tools on new platforms
 - Deposit limits and controls
-- **Canadian Problem Gambling Helpline: 1-800-463-1554**
+- **Pan-Canadian Resources:**
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - Provincial helplines vary by location
 - Provincial support resources
 - Warning signs of problem gambling
 - Links to help organizations
 
 **DO NOT USE:** 1-800-GAMBLER (that's US only)
-**USE:** 1-800-463-1554 (Canada)
+**USE:** Pan-Canadian resources (RGC and CCSA)
 
 ---
 
@@ -477,18 +478,18 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 Use natural anchor text. Include ALL 12 links in the content:
 
-1. [best betting sites Canada](/sport/betting/canada/betting-sites.htm) - Comparison to established operators
-2. [Ontario sports betting](/sport/betting/canada/ontario.htm) - Provincial licensing section
-3. [Quebec sports betting](/sport/betting/canada/quebec.htm) - Provincial licensing section
-4. [betting apps Canada](/sport/betting/canada/apps.htm) - Mobile betting section
-5. [NHL betting sites](/sport/betting/canada/nhl-betting-sites.htm) - Sports coverage section
-6. [NFL betting Canada](/sport/betting/canada/nfl-betting-sites.htm) - Sports coverage section
-7. [CFL betting sites](/sport/betting/canada/cfl-betting-sites.htm) - Sports coverage section
-8. [parlay calculator](/calculators/parlay-calculator.htm) - Bonus value calculation
-9. [odds calculator](/calculators/odds-calculator.htm) - Understanding odds
-10. [betting bonus requirements](/sport/betting/bonuses.htm) - Welcome bonus section
+1. [best betting sites Canada](/sport/betting/canada/index.htm) - Comparison to established operators
+2. [betting apps Canada](/sport/betting/canada/betting-apps.htm) - Mobile betting section
+3. [Treasure Spins review](/sport/betting/canada/treasurespins-review.htm) - Brand review link
+4. [Royalistplay review](/sport/betting/canada/royalistplay-review.htm) - Brand review link
+5. [Wyns review](/sport/betting/canada/wyns-review.htm) - Brand review link
+6. [Lucky7even review](/sport/betting/canada/lucky7even-review.htm) - Brand review link
+7. [NHL betting sites](/sport/betting/nhl/index.htm) - Sports coverage section
+8. [NFL betting sites](/sport/betting/nfl/index.htm) - Sports coverage section
+9. [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Bonus value calculation
+10. [odds calculator](/sport/betting-tools/odds-calculator.htm) - Understanding odds
 11. [responsible gambling tools](/sport/betting/responsible-gambling.htm) - Safety section
-12. [how to verify betting sites](/sport/betting/how-to-choose.htm) - Trust and safety
+12. [Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm) - Betting guides
 
 ---
 
@@ -498,8 +499,10 @@ Use natural anchor text. Include ALL 12 links in the content:
 - 19+ in most provinces
 - 18+ in Alberta, Manitoba, Quebec
 
-**Gambling Hotline:**
-- **1-800-463-1554** (Canadian Problem Gambling Helpline)
+**Gambling Resources:**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 - DO NOT use 1-800-GAMBLER (US only)
 
 **Provincial Regulators:**
@@ -507,9 +510,6 @@ Use natural anchor text. Include ALL 12 links in the content:
 - Quebec: Loto-Quebec
 - Alberta: Alberta Gaming, Liquor and Cannabis (AGLC)
 
-**Affiliate Disclosure:**
-- Required in introduction (50-75 words)
-- Clear statement about earning commissions
 - Reassurance about unbiased recommendations
 
 **Responsible Gambling Section:**
@@ -589,7 +589,7 @@ Before submitting, verify:
 - [ ] All 12 secondary keywords mapped to sections
 - [ ] All 8 FAQs target specific keywords
 - [ ] All 12 internal links included
-- [ ] Canadian compliance (19+, 1-800-463-1554)
+- [ ] Canadian compliance (19+, RGC and CCSA resources)
 - [ ] ALL 9 brands have Mobile Experience subsection (100-150 words each)
 - [ ] T&Cs included for ALL 9 brands (not just top 3)
 - [ ] Payment methods comparison table included

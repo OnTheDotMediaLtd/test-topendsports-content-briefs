@@ -870,7 +870,7 @@
   <div class="compliance-box">
     <h3>Responsible Gambling Support</h3>
     <p><strong>National Problem Gambling Helpline:</strong></p>
-    <p class="helpline-number">1-866-531-2600 (ConnexOntario)</p>
+    <p class="helpline-number">Provincial helplines vary (Responsible Gambling Council)</p>
     <p class="helpline-info">Available 24/7. Free, confidential support. Counselors trained in problem gambling and mental health.</p>
 
     <h4>Tools & Resources Available:</h4>
@@ -901,9 +901,6 @@
   </div>
 
   <div class="compliance-box">
-    <h3>Affiliate Disclosure</h3>
-    <p>TopEnd Sports is an affiliate of the betting platforms reviewed on this page. We may earn commissions from signups and deposits through our links. This does not affect our editorial independence or the integrity of our reviews. Each app is evaluated on merit based on app store ratings, user feedback, and available features.</p>
-  </div>
 
   <div class="compliance-footer">
     <p><strong>Last Updated:</strong> December 15, 2025</p>
@@ -1327,7 +1324,7 @@ document.addEventListener('DOMContentLoaded', function() {
 - [x] Comparison table with all 9 brands, app ratings, features
 - [x] T&Cs summary (3-4 bullets per brand, all 9 covered)
 - [x] Schema markup (Article + FAQ + Breadcrumb)
-- [x] Canada compliance (19+/18+ by province, 1-866-531-2600 hotline)
+- [x] Canada compliance (19+/18+ by province, Provincial helplines vary hotline)
 - [x] Payment methods comparison section
 - [x] Interactive filter tool with search
 - [x] Responsive CSS for all components

@@ -124,7 +124,6 @@ Based on site structure, similar Canadian brand reviews include:
 - [x] **Header & Introduction** (200-250 words)
   - Last Updated badge
   - Lucky7even branding with L7E badge
-  - Affiliate disclosure
   - Quick answer addressing sports vs. casino positioning
   - Brief intro with overview
 
@@ -283,10 +282,8 @@ Based on site structure, similar Canadian brand reviews include:
 <span style="background: #7B1FA2; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px;">L7E</span>
 ```
 
-- **Affiliate Disclosure:**
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin-bottom: 1.5rem;">
-  <p style="margin: 0; font-size: 14px;"><strong>Affiliate Disclosure:</strong> We may earn commissions when you sign up through our links. This does not affect our editorial independence or your experience. We only recommend platforms we trust.</p>
 </div>
 ```
 
@@ -307,7 +304,6 @@ Based on site structure, similar Canadian brand reviews include:
 
 - [x] Age requirement: 19+ (18+ in AB, MB, QC)
 - [x] Canadian gambling hotline: 1-866-531-2600
-- [x] Affiliate disclosure at top
 - [x] Province availability disclaimer
 - [x] Responsible gambling section at bottom
 - [x] Canadian spelling throughout

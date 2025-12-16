@@ -31,7 +31,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -888,7 +887,7 @@ document.addEventListener('DOMContentLoaded', function() {
       "@type": "ListItem",
       "position": 3,
       "name": "UK Betting",
-      "item": "https://www.topendsports.com/sport/betting/uk/betting-sites.htm"
+      "item": "https://www.topendsports.com/sport/betting/uk/index.htm"
     },
     {
       "@type": "ListItem",
@@ -1061,7 +1060,6 @@ document.addEventListener('DOMContentLoaded', function() {
   <h4 style="color: #333;">Age Verification</h4>
   <p style="line-height: 1.6;"><strong>You must be 18 years or older to open an account and place bets.</strong> All sites conduct age verification checks. It is illegal for anyone under 18 to gamble in the UK.</p>
 
-  <h4 style="color: #333;">Affiliate Disclosure</h4>
   <p style="line-height: 1.6;">Topend Sports is compensated by the sportsbooks listed on this page through affiliate commissions when users sign up via our links. This supports our research and independent testing. We only recommend licensed operators.</p>
 
   <h4 style="color: #333;">Data Protection</h4>
@@ -1083,9 +1081,9 @@ document.addEventListener('DOMContentLoaded', function() {
 **Production Ready:** All sections contain complete, verifiable content with zero placeholders.
 
 **Internal Links (to be implemented):**
-- [UK sports betting sites](/sport/betting/uk/betting-sites.htm)
-- [football betting sites UK](/sport/betting/uk/football-betting.htm)
-- [tennis betting UK](/sport/betting/uk/tennis-betting.htm)
+- [UK sports betting sites](/sport/betting/uk/index.htm)
+- [football betting sites UK](/sport/betting/uk/football-betting-sites.htm)
+- [tennis betting UK](/sport/betting/uk/index.htm)
 - [Grand National betting guide](/sport/horse-racing/grand-national-betting.htm)
 - [Cheltenham Festival betting](/sport/horse-racing/cheltenham-betting.htm)
 - [each way betting calculator](/betting/calculators/each-way-calculator.htm)
@@ -1093,7 +1091,7 @@ document.addEventListener('DOMContentLoaded', function() {
 - [accumulator calculator](/betting/calculators/accumulator-calculator.htm)
 - [best betting apps UK](/sport/betting/uk/betting-apps.htm)
 - [greyhound betting sites](/sport/betting/uk/greyhound-betting.htm)
-- [golf betting UK](/sport/betting/uk/golf-betting.htm)
+- [golf betting UK](/sport/betting/uk/index.htm)
 - [best free bets UK](/sport/betting/uk/free-bets.htm)
 
 ---

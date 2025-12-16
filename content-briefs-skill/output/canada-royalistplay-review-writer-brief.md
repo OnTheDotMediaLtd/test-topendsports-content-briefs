@@ -53,8 +53,6 @@ royalistplay sport, royalistplay, betting bonus, welcome bonus canada, sportsboo
    - Sentence 2: Key differentiator (offshore, 27 sports, $150 bonus)
    - Sentence 3: Authority statement
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commission
    - Does not influence rankings/reviews
    - Testing methodology mention
 
@@ -65,7 +63,6 @@ Canadian bettors access to 27 sporting categories and a 100% welcome bonus up to
 $150 CAD. Launched in 2022 with a Curaçao gaming license, it combines sports betting
 with casino games in a single platform.
 
-[Affiliate disclosure 50-75 words...]
 ```
 
 ### ❌ FORBIDDEN in Introduction:
@@ -96,7 +93,6 @@ with casino games in a single platform.
 
 ### Introduction (200-250 words)
 - Opening 40-50 words: What is Royalistplay?
-- Affiliate disclosure: 50-75 words
 - Quick context: Offshore (Curaçao) vs regulated Canadian markets
 - What reader will learn in this review
 - **Keywords:** royalistplay sport, online sportsbook, royalistplay casino review
@@ -713,10 +709,12 @@ Royalistplay's main offer is a 100% welcome bonus up to $150 CAD (promo code: WE
 **Canadian Gambling Helplines:**
 
 **National:**
-- ConnexOntario: **1-866-531-2600**
+- Responsible Gambling Council: https://www.responsiblegambling.org/
+- Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
 - Problem Gambling Help Line: 1-888-230-3505
 
 **Provincial Resources:**
+- Provincial helplines vary by location
 - **British Columbia:** GameSense BC
 - **Alberta:** Alberta Health Services Addiction Helpline
 - **Manitoba:** Problem Gambling Helpline
@@ -767,27 +765,27 @@ Place these naturally throughout the content:
    - Placement: Pros & Cons or competitors mention
    - Keyword: "lucky7even sport"
 
-7. **[Festival Play Sport Review](/sport/betting/canada/festivalplay-review.htm)**
+7. **[Lizaro Sport Review](/sport/betting/canada/lizaro-review.htm)**
    - Placement: Pros & Cons or competitors mention
-   - Keyword: "festival play sport"
+   - Keyword: "lizaro sport"
 
-8. **[Parlay Calculator](/sport/betting/calculators/parlay.htm)**
+8. **[Parlay Calculator](/sport/betting-tools/parlay-calculator.htm)**
    - Placement: Sportsbook Analysis section or sidebar callout
    - Keyword: "parlay calculator"
 
-9. **[Odds Calculator](/sport/betting/calculators/odds.htm)**
+9. **[Odds Calculator](/sport/betting-tools/odds-calculator.htm)**
    - Placement: Sportsbook Analysis section or sidebar callout
    - Keyword: "odds calculator"
 
-10. **[Sports Betting Odds Explained](/sport/betting/guides/odds-explained.htm)**
-    - Placement: Sportsbook Analysis or Getting Started
-    - Keyword: "betting odds"
+10. **[Best NHL Betting Sites](/sport/betting/nhl/index.htm)**
+    - Placement: Sportsbook Analysis or Sports Coverage
+    - Keyword: "NHL betting"
 
-11. **[How to Bet on Sports](/sport/betting/guides/how-to-bet.htm)**
-    - Placement: Introduction or Getting Started
-    - Keyword: "how to bet on sports"
+11. **[Best NFL Betting Sites](/sport/betting/nfl/index.htm)**
+    - Placement: Sportsbook Analysis or Sports Coverage
+    - Keyword: "NFL betting"
 
-12. **[Responsible Gambling Canada](/sport/betting/canada/responsible-gambling.htm)**
+12. **[Responsible Gambling](/sport/betting/responsible-gambling.htm)**
     - Placement: Responsible Gambling section
     - Keyword: "responsible gambling"
 
@@ -819,9 +817,9 @@ Place these naturally throughout the content:
    - Verify license number and status
    - Explain what Curaçao licensing means
 
-5. **ConnexOntario**
-   - Verify helpline: 1-866-531-2600
-   - Responsible gambling resources
+5. **Responsible Gambling Council (Canada)**
+   - Website: responsiblegambling.org
+   - National responsible gambling resources
 
 6. **AGCO Ontario Regulations**
    - Context for why Royalistplay is geo-blocked in Ontario
@@ -884,8 +882,7 @@ Place these naturally throughout the content:
 Before submitting, ensure ALL of these are included:
 
 - [ ] Age restriction: **19+ (18+ in AB, MB, QC)** mentioned
-- [ ] Helpline: **1-866-531-2600 (ConnexOntario)** prominently displayed
-- [ ] Affiliate disclosure in introduction (50-75 words)
+- [ ] Pan-Canadian resources: **RGC and CCSA** prominently displayed
 - [ ] Responsible Gambling section at end with resources
 - [ ] NO dated language in H1 (no "2025", "December 2025", etc.)
 - [ ] Last Updated badge location noted (AI will add in Phase 3)
@@ -973,9 +970,8 @@ Before submitting to Phase 3:
 - [ ] Age restrictions correct for Canada
 
 **Compliance:**
-- [ ] Affiliate disclosure included
 - [ ] Age restrictions mentioned
-- [ ] Helpline visible
+- [ ] Pan-Canadian helplines visible
 - [ ] Responsible gambling section complete
 - [ ] NO dated language in H1
 

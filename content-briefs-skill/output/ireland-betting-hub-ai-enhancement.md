@@ -461,7 +461,6 @@ Last Updated: 2025-12-15
 <!-- Footer Compliance Statement -->
 <div style="background: #f0f0f0; padding: 15px; border-radius: 6px; margin: 20px 0; font-size: 12px; color: #666; line-height: 1.6;">
   <p style="margin: 0 0 8px 0;">
-    <strong>Affiliate Disclosure:</strong> TopEndSports may earn affiliate commissions from partnerships with the betting operators featured on this page. We independently evaluate each site based on criteria including licensing, security, customer service, odds quality, and user experience. Our affiliate relationships do not influence our rankings or recommendations.
   </p>
   <p style="margin: 8px 0 0 0;">
     <strong>License & Compliance:</strong> All operators featured hold licenses from the Irish Revenue Commissioners or equivalent regulatory bodies. This page is compliant with Irish gambling regulations and includes mandatory responsible gambling information.

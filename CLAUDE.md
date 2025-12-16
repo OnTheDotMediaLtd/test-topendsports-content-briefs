@@ -1,6 +1,6 @@
 # TopEndSports Content Briefs - AI Instructions
 
-**Last Updated:** December 8, 2025
+**Last Updated:** December 16, 2025
 
 ## MANDATORY: READ BEFORE ANY BRIEF GENERATION
 
@@ -121,6 +121,7 @@ Run `mcp__topendsports-briefs__convert_to_docx` to create Word versions for writ
 | Phase 1 | `references/phase1-research.md` |
 | Phase 2 | `references/phase2-writer.md` |
 | Phase 3 | `references/phase3-technical.md` |
+| Meta Tags | `references/meta-title-optimization.md` |
 
 ### Supporting References (consult as needed)
 | Document | Purpose |
@@ -174,9 +175,9 @@ Before starting ANY brief:
 
 - Age: 21+ (18+ in MT, NH, RI, WY, DC)
 - Hotline: 1-800-522-4700
-- Affiliate disclosure in intro
 - Responsible gambling section at bottom
 - NO dated language in H1 (use Last Updated badge)
+- **NO affiliate disclosure in content** (it's in website sidebar)
 
 ---
 
@@ -227,13 +228,16 @@ bash content-briefs-skill/scripts/validate-phase.sh [phase] [page-name]
 - [ ] Calculator tool links
 
 ### Phase 3 Minimums
-- [ ] Complete meta tags (title, description, keywords)
+- [ ] **SERP-optimized meta tags** (see `references/meta-title-optimization.md`)
+  - Title: Under 60 chars, primary keyword at START, **NO YEAR**
+  - Description: Under 155 chars, unique value proposition
+  - SERP competitor analysis documented
 - [ ] Last Updated badge HTML
 - [ ] Comparison table with ALL brands
 - [ ] T&Cs for ALL brands (not just top 3)
 - [ ] Schema markup (Article + FAQ + Breadcrumb)
 - [ ] Interactive element with working code
-- [ ] Compliance sections (disclosure + responsible gambling)
+- [ ] Responsible gambling section (NO affiliate disclosure - it's in sidebar)
 - [ ] **ZERO placeholders** (no "...", no "[Insert]")
 
 ---

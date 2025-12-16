@@ -94,7 +94,6 @@ Use these 5 brands for "How Wyns Compares" section:
 ## CONTENT SECTIONS (Template 1: Brand Review)
 
 ### Core Review Sections (2,400 words)
-- [ ] **Header & Introduction** (200 words) — Last Updated badge, affiliate disclosure, quick answer, Canadian market context
 - [ ] **Rating Summary** (200 words) — Overall rating, pros/cons, best for statement
 - [ ] **Comprehensive Feature Analysis** (900 words)
   - Betting Markets & Odds (250 words)
@@ -166,7 +165,6 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 - [ ] Provincial age requirements (19+ most provinces, 18+ AB/MB/QC)
 - [ ] Provincial helpline numbers (varies by province)
 - [ ] iGaming Ontario (iGO) licensing context
-- [ ] Affiliate disclosure (prominent placement)
 - [ ] Responsible gambling section with Canadian resources
 
 ---
@@ -176,7 +174,7 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 **Competitor Reviews:**
 1. "best sports betting sites in Canada" → `/sport/betting/canada/best-sites.htm`
 2. "Bet99 review" → `/sport/betting/canada/bet99-review.htm`
-3. "Sports Interaction review" → `/sport/betting/canada/sports-interaction-review.htm`
+3. "Sports Interaction review" → `/sport/betting/canada/royalistplay-review.htm`
 4. "Betway Canada review" → `/sport/betting/canada/betway-review.htm`
 
 **Provincial/Market Context:**
@@ -189,8 +187,8 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 9. "how to bet on sports in Canada" → `/sport/betting/canada/how-to-bet.htm`
 
 **Tools:**
-10. "parlay calculator" → `/sport/betting/calculators/parlay.htm`
-11. "odds calculator" → `/sport/betting/calculators/odds.htm`
+10. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm`
+11. "odds calculator" → `/sport/betting-tools/odds-calculator.htm`
 
 **Compliance:**
 12. "responsible gambling resources" → `/sport/betting/responsible-gambling.htm`

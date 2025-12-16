@@ -59,7 +59,6 @@
    - Sentence 2-3: Key features (38+ sports, Curacao license, crypto payments)
    - Sentence 4: Who it's best for
 
-2. **Affiliate Disclosure (50-75 words):** Standard disclosure
    - "We may earn commission from links on this page..."
    - Mention testing methodology
    - Emphasize transparency
@@ -72,7 +71,6 @@ it accepts cryptocurrency payments with 24-hour withdrawals and features a uniqu
 Early Payout option. While it lacks an Irish GRAI license and native mobile app,
 Festival Play suits players seeking sports variety and crypto payment options.
 
-[Affiliate disclosure paragraph 50-75 words...]
 ```
 
 **Forbidden:**
@@ -133,7 +131,6 @@ Festival Play suits players seeking sports variety and crypto payment options.
 
 **Writer Instructions:**
 - Start with direct answer (see Mandatory Intro Format above)
-- Include 50-75 word affiliate disclosure
 - Set expectations: This is a Curacao-licensed operator, not Irish-licensed
 - Total: 200-250 words max
 
@@ -735,41 +732,41 @@ Festival Play is a **suitable option for Irish players seeking sports variety an
 
 Place these links naturally throughout the content:
 
-1. **"best Irish betting sites"** → `/sport/betting/ireland/betting-sites.htm`
+1. **"best Irish betting sites"** → `/sport/betting/ireland/index.htm`
    - Placement: Introduction, Quick Answer Box, Final Verdict
 
-2. **"Bet365 Ireland review"** → `/sport/betting/ireland/bet365-review.htm`
-   - Placement: Comparison section
+2. **"betting apps Ireland"** → `/sport/betting/ireland/betting-apps.htm`
+   - Placement: Mobile app section
 
-3. **"Paddy Power review"** → `/sport/betting/ireland/paddy-power-review.htm`
-   - Placement: Comparison section, FAQ, Final Verdict
-
-4. **"BoyleSports review"** → `/sport/betting/ireland/boylesports-review.htm`
-   - Placement: Comparison section
-
-5. **"Irish betting regulations"** → `/sport/betting/ireland/regulations.htm`
-   - Placement: Licensing section, FAQ
-
-6. **"sports betting bonuses Ireland"** → `/sport/betting/ireland/bonuses.htm`
+3. **"free bets Ireland"** → `/sport/betting/ireland/free-bets.htm`
    - Placement: Bonus section, FAQ
 
-7. **"football betting Ireland"** → `/sport/betting/ireland/football-betting.htm`
-   - Placement: Sports markets section
+4. **"Lunubet review"** → `/sport/betting/ireland/lunubet-review.htm`
+   - Placement: Comparison section
 
-8. **"GAA betting sites"** → `/sport/betting/ireland/gaa-betting.htm`
-   - Placement: Sports markets section
+5. **"Betalright review"** → `/sport/betting/ireland/betalright-review.htm`
+   - Placement: Comparison section
 
-9. **"rugby betting Ireland"** → `/sport/betting/ireland/rugby-betting.htm`
-   - Placement: Sports markets section
+6. **"Casina review"** → `/sport/betting/ireland/casina-review.htm`
+   - Placement: Comparison section
 
-10. **"horse racing betting Ireland"** → `/sport/betting/ireland/horse-racing-betting.htm`
+7. **"Betovo review"** → `/sport/betting/ireland/betovo-review.htm`
+   - Placement: Comparison section
+
+8. **"Millioner review"** → `/sport/betting/ireland/millioner-review.htm`
+   - Placement: Comparison section
+
+9. **"22bet Ireland review"** → `/sport/betting/ireland/22bet-review.htm`
+   - Placement: Comparison section
+
+10. **"Big Clash review"** → `/sport/betting/ireland/bigclash-review.htm`
+    - Placement: Comparison section
+
+11. **"parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm`
     - Placement: Sports markets section
 
-11. **"responsible gambling Ireland"** → `/sport/betting/ireland/responsible-gambling.htm`
+12. **"responsible gambling"** → `/sport/betting/responsible-gambling.htm`
     - Placement: Responsible Gambling section
-
-12. **"crypto betting sites"** → `/sport/betting/crypto-betting-sites.htm`
-    - Placement: Payment methods section, FAQ
 
 ---
 
@@ -874,7 +871,6 @@ Festival Play targets Irish players who:
 ### Age & Responsible Gambling:
 - **Age:** 18+ (Ireland)
 - **Helpline:** HSE Drugs and Alcohol Helpline: 1800 459 459
-- **Affiliate Disclosure:** Required in introduction (50-75 words)
 - **Responsible Gambling Section:** Required at bottom (75-100 words)
 
 ### Regulatory Context:
@@ -888,7 +884,6 @@ Festival Play targets Irish players who:
 - Explain legal status (legal to use, but not Irish-licensed)
 - Provide Irish-licensed alternatives (Paddy Power, BoyleSports)
 
-### Affiliate Disclosure Template:
 
 "We may earn commission from links on this page, but this does not influence our editorial independence. We've tested Festival Play extensively to provide honest, data-driven insights. Our reviews are based on [methodology]: real user experiences from Reddit discussions, feature verification from the official website, and comparison with Irish-licensed competitors. All recommendations prioritize player safety and value."
 
@@ -925,7 +920,6 @@ Before submitting, verify:
 - [ ] Responsible gambling section included (75-100 words)
 - [ ] HSE helpline mentioned: 1800 459 459
 - [ ] Age requirement stated: 18+
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Sources cited properly (Reddit, official site, competitor reviews)
 - [ ] NO claims about app store ratings (no app exists)
 - [ ] Cryptocurrency advantages emphasized (24-hour withdrawals)

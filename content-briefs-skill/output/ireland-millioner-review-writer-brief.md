@@ -54,8 +54,6 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
    - NO rhetorical questions
    - NO "Welcome to..." language
 
-2. **Affiliate Disclosure (50-75 words):** Immediately after opening
-   - Standard disclosure about earning commission
    - Transparency on review process
 
 3. **Brief Context (remaining words):**
@@ -65,7 +63,6 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
 **Example Opening:**
 "Millioner Sport is a new betting platform entering Ireland's competitive market, offering [X feature] and [Y feature]. While it shows promise with [strength], it faces tough competition from established brands like Paddy Power and Boylesports. For Irish bettors seeking alternatives to major brands, Millioner is worth considering if [specific condition].
 
-[50-75 word affiliate disclosure]
 
 As one of Ireland's newest betting sites, Millioner aims to..."
 
@@ -101,7 +98,6 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 **Requirements:**
 - Direct opening: Is Millioner worth trying for Irish bettors? Answer immediately
-- Affiliate disclosure (50-75 words) right after opening
 - Brief context: Millioner as new entrant vs Paddy Power/Boylesports dominance
 - NO rhetorical questions
 - NO "Welcome to..." language
@@ -179,7 +175,7 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 **Internal Link:**
 - Anchor: "best betting sites ireland"
-- URL: `/sport/betting/ireland/betting-hub.htm`
+- URL: `/sport/betting/ireland/index.htm`
 
 ---
 
@@ -224,9 +220,9 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 - Anchor: "rugby betting Ireland"
 - URL: `/sport/betting/ireland/rugby-betting.htm`
 - Anchor: "parlay calculator"
-- URL: `/sport/betting/calculators/parlay-calculator.htm`
+- URL: `/sport/betting-tools/parlay-calculator.htm-calculator.htm`
 - Anchor: "odds calculator"
-- URL: `/sport/betting/calculators/odds-calculator.htm`
+- URL: `/sport/betting-tools/odds-calculator.htm-calculator.htm`
 
 ---
 
@@ -369,11 +365,11 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 **Internal Links:**
 - Anchor: "Paddy Power review"
-- URL: `/sport/betting/ireland/paddypower-review.htm`
+- URL: `/sport/betting/ireland/lunubet-review.htm`
 - Anchor: "Boylesports review"
-- URL: `/sport/betting/ireland/boylesports-review.htm`
+- URL: `/sport/betting/ireland/betalright-review.htm`
 - Anchor: "Bet365 Ireland review"
-- URL: `/sport/betting/ireland/bet365-review.htm`
+- URL: `/sport/betting/ireland/22bet-review.htm`
 
 ---
 
@@ -646,7 +642,6 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 - NOT the US hotline (1-800-522-4700)
 - Include in Responsible Gambling section
 
-**Affiliate Disclosure:**
 - Required at start of article (50-75 words)
 - Template: "We may earn commission from operators featured on this page through affiliate links. This does not influence our reviews, which are based on extensive testing and research. Learn more about our review process."
 
@@ -679,18 +674,18 @@ Include these 12 internal links throughout the article:
 
 | # | Anchor Text | URL | Placement Section |
 |---|-------------|-----|-------------------|
-| 1 | best betting sites ireland | `/sport/betting/ireland/betting-hub.htm` | Introduction, Bonus section |
-| 2 | Paddy Power review | `/sport/betting/ireland/paddypower-review.htm` | Comparison section |
-| 3 | Boylesports review | `/sport/betting/ireland/boylesports-review.htm` | Comparison section |
-| 4 | Bet365 Ireland review | `/sport/betting/ireland/bet365-review.htm` | Comparison section |
-| 5 | sports betting in Ireland | `/sport/betting/ireland/` | About Millioner section |
-| 6 | parlay calculator | `/sport/betting/calculators/parlay-calculator.htm` | Sports Markets section |
-| 7 | odds calculator | `/sport/betting/calculators/odds-calculator.htm` | Sports Markets section |
-| 8 | betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section |
-| 9 | GAA betting | `/sport/betting/ireland/gaa-betting.htm` | Sports Markets section |
-| 10 | rugby betting Ireland | `/sport/betting/ireland/rugby-betting.htm` | Sports Markets section |
-| 11 | responsible gambling Ireland | `/sport/betting/responsible-gambling.htm` | Responsible Gambling section |
-| 12 | how to withdraw winnings | `/sport/betting/how-to/withdraw-winnings.htm` | Payment Methods section |
+| 1 | best betting sites ireland | `/sport/betting/ireland/index.htm` | Introduction, Bonus section |
+| 2 | betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section |
+| 3 | free bets Ireland | `/sport/betting/ireland/free-bets.htm` | Bonus section |
+| 4 | Lunubet review | `/sport/betting/ireland/lunubet-review.htm` | Comparison section |
+| 5 | Betalright review | `/sport/betting/ireland/betalright-review.htm` | Comparison section |
+| 6 | Casina review | `/sport/betting/ireland/casina-review.htm` | Comparison section |
+| 7 | Festival Play review | `/sport/betting/ireland/festivalplay-review.htm` | Comparison section |
+| 8 | Betovo review | `/sport/betting/ireland/betovo-review.htm` | Comparison section |
+| 9 | 22bet Ireland review | `/sport/betting/ireland/22bet-review.htm` | Comparison section |
+| 10 | parlay calculator | `/sport/betting-tools/parlay-calculator.htm` | Sports Markets section |
+| 11 | odds calculator | `/sport/betting-tools/odds-calculator.htm` | Sports Markets section |
+| 12 | responsible gambling | `/sport/betting/responsible-gambling.htm` | Responsible Gambling section |
 
 ---
 

@@ -83,7 +83,6 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
    - Sentence 2: Authority statement about app testing
 
 2. **Disclosure (50-75 words):**
-   - Full affiliate disclosure
    - Transparency about commission
 
 ### Example:
@@ -119,7 +118,6 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
 ### Introduction (100-150 words)
 - Direct answer: Top 5 apps with App Store ratings
 - Authority statement about testing process
-- Affiliate disclosure
 
 ### Comparison Table
 - **Brands:** All 10 brands
@@ -244,7 +242,7 @@ Condensed further:
 - Push notification promotions
 - How to claim bonuses in-app (mobile-specific process)
 - App vs desktop bonus differences
-- Link to comprehensive free bets guide: /sport/betting/ireland/free-bets/
+- Link to comprehensive free bets guide: /sport/betting/ireland/free-bets.htm
 - Link to all betting offers: /sport/betting/ireland/betting-offers/
 
 ---
@@ -410,7 +408,7 @@ Condensed further:
 5. **"Do betting apps offer exclusive bonuses in Ireland?"**
    - Explain app-exclusive promotions
    - Push notification bonuses
-   - Link to /sport/betting/ireland/free-bets/ for full free bet comparison
+   - Link to /sport/betting/ireland/free-bets.htm for full free bet comparison
 
 6. **"What's the difference between Irish betting apps and UK apps?"** ← ireland bookmakers (100/mo)
    - Licensing differences
@@ -507,19 +505,18 @@ Condensed further:
 
 ## INTERNAL LINKS (12 minimum required)
 
-1. "best betting sites ireland" → /sport/betting/ireland/ (Introduction)
-2. "free bets ireland" → /sport/betting/ireland/free-bets/ (App Bonuses section - link to comprehensive guide)
-3. "betting offers ireland" → /sport/betting/ireland/betting-offers/ (App Bonuses section)
-4. "betting calculator" → /sport/betting/calculators/ (App Bonuses section)
-4. "parlay calculator" → /sport/betting/calculators/parlay/ (Sports Betting section)
-5. "live betting guide" → /sport/betting/live/ (Live Betting Apps section)
-6. "horse racing betting" → /sport/betting/horse-racing/ (Horse Racing subsection)
-7. "GAA betting guide" → /sport/betting/gaa/ (GAA subsection)
-8. "rugby betting" → /sport/betting/rugby/ (Sports section)
-9. "football betting" → /sport/betting/football/ (Sports section)
-10. "responsible gambling" → /sport/betting/responsible-gambling/ (Responsible Gambling section)
-11. "betting odds explained" → /sport/betting/odds/ (How We Test section)
-12. "betting app reviews" → /sport/betting/apps/reviews/ (How We Test section)
+1. "best betting sites ireland" → /sport/betting/ireland/index.htm (Introduction)
+2. "free bets ireland" → /sport/betting/ireland/free-bets.htm (App Bonuses section)
+3. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm (Sports Betting section)
+4. "odds calculator" → /sport/betting-tools/odds-calculator.htm (Betting Markets section)
+5. "responsible gambling" → /sport/betting/responsible-gambling.htm (Responsible Gambling section)
+6. "Lunubet review" → /sport/betting/ireland/lunubet-review.htm (App comparison section)
+7. "Betalright review" → /sport/betting/ireland/betalright-review.htm (App comparison section)
+8. "Casina review" → /sport/betting/ireland/casina-review.htm (App comparison section)
+9. "Festival Play review" → /sport/betting/ireland/festivalplay-review.htm (App comparison section)
+10. "Millioner review" → /sport/betting/ireland/millioner-review.htm (App comparison section)
+11. "Betovo review" → /sport/betting/ireland/betovo-review.htm (App comparison section)
+12. "22bet review" → /sport/betting/ireland/22bet-review.htm (App comparison section)
 
 ---
 
@@ -532,7 +529,6 @@ Condensed further:
 - **Gamblers Anonymous Ireland: 087 744 3577**
 - (NOT 1-800-522-4700 which is USA)
 
-### Affiliate Disclosure:
 - MUST appear in introduction (50-75 words)
 - Transparency about app testing process
 
@@ -615,7 +611,6 @@ Before submitting, verify:
 - [ ] Payment methods comparison table
 - [ ] App ratings comparison table
 - [ ] Irish compliance (18+, Irish hotline)
-- [ ] Affiliate disclosure in intro
 - [ ] NO dated language in H1
 - [ ] Last Updated badge included
 - [ ] Word count: 7,000-8,000 words
@@ -631,7 +626,7 @@ Include links to these calculators:
    - Placement: Free Bets section
    - Use: "Use our betting calculator to determine real bonus value"
 
-2. **Parlay Calculator** - /sport/betting/calculators/parlay/
+2. **Parlay Calculator** - /sport/betting-tools/parlay-calculator.htm/
    - Placement: Sports Betting section
    - Use: "Calculate your parlay returns with our parlay calculator"
 

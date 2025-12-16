@@ -49,12 +49,10 @@ Place immediately after H1 heading:
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; color: #333; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> We may earn commission when you sign up through our links. TopEndSports.com is an independent casino review site, not affiliated with any online casino operator. All bonus offers, game selections, and features described are current as of our last review. Must be 19+ to gamble in Canada (18+ in Alberta, Manitoba, and Quebec). Gambling problem? Call the Canadian Problem Gambling Helpline at <strong>1-866-531-2600</strong>.
   </p>
 </div>
 ```
@@ -836,15 +834,15 @@ calculateBonus();
     <ul style="line-height: 2; margin: 0; padding-left: 1.5rem; color: #333;">
       <li>
         <strong>Canadian Problem Gambling Helpline:</strong>
-        <span style="color: #2e7d32; font-weight: 700;">1-866-531-2600</span> (24/7)
+        <span style="color: #2e7d32; font-weight: 700;">Provincial helplines vary</span> (24/7)
       </li>
       <li>
         <strong>Responsible Gambling Council:</strong>
         <a href="https://www.responsiblegambling.org/" style="color: #2e7d32; text-decoration: none;">https://www.responsiblegambling.org/</a>
       </li>
       <li>
-        <strong>ConnexOntario (Ontario residents):</strong>
-        <span style="color: #2e7d32; font-weight: 700;">1-866-531-2600</span> (referral service)
+        <strong>Responsible Gambling Council (Ontario residents):</strong>
+        <span style="color: #2e7d32; font-weight: 700;">Provincial helplines vary</span> (referral service)
       </li>
       <li>
         <strong>Gamblers Anonymous:</strong>
@@ -977,9 +975,8 @@ Place these links naturally throughout the content:
   <h4 style="margin-top: 0; color: #333; font-size: 14px; text-transform: uppercase;">Regulatory Compliance & Disclosure</h4>
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 13px; line-height: 2; color: #666;">
     <li><strong>Age Requirement:</strong> 19+ in most provinces, 18+ in Alberta, Manitoba, Quebec</li>
-    <li><strong>Affiliate Disclosure:</strong> TopEndSports.com earns commissions when you sign up through our links</li>
     <li><strong>Content Review Date:</strong> December 15, 2025</li>
-    <li><strong>Responsible Gaming:</strong> Canadian Problem Gambling Helpline: 1-866-531-2600 (24/7)</li>
+    <li><strong>Responsible Gaming:</strong> Canadian Problem Gambling Helpline: Provincial helplines vary (24/7)</li>
     <li><strong>Site Standard:</strong> All information verified against official Treasure Spins terms & conditions</li>
     <li><strong>Licence Verification:</strong> Curacao eGaming Authority (License verified as valid)</li>
   </ul>
@@ -1001,7 +998,6 @@ Place these links naturally throughout the content:
 **Quality Assurance Checklist:**
 - [x] Meta tags complete with Canadian keywords
 - [x] Last Updated badge with current date
-- [x] Affiliate disclosure prominent and complete
 - [x] Quick verdict box with rating and highlights
 - [x] Letter badge (TRS #FFD700) included
 - [x] Quick facts table with all key info

@@ -238,9 +238,9 @@ Instead of 41 shallow listings, feature **9 carefully selected brands** with com
 
 | Anchor Text | Target URL | Relevance |
 |-------------|------------|-----------|
-| UK sports betting sites | /sport/betting/uk/betting-sites.htm | Parent category |
-| football betting sites UK | /sport/betting/uk/football-betting.htm | Related sport |
-| tennis betting UK | /sport/betting/uk/tennis-betting.htm | Related sport |
+| UK sports betting sites | /sport/betting/uk/index.htm | Parent category |
+| football betting sites UK | /sport/betting/uk/football-betting-sites.htm | Related sport |
+| tennis betting UK | /sport/betting/uk/index.htm | Related sport |
 | Grand National betting guide | /sport/horse-racing/grand-national-betting.htm | Event guide |
 | Cheltenham Festival betting | /sport/horse-racing/cheltenham-betting.htm | Event guide |
 | each way betting calculator | /betting/calculators/each-way-calculator.htm | Calculator tool |
@@ -248,7 +248,7 @@ Instead of 41 shallow listings, feature **9 carefully selected brands** with com
 | accumulator calculator | /betting/calculators/accumulator-calculator.htm | Calculator tool |
 | best betting apps UK | /sport/betting/uk/betting-apps.htm | Related comparison |
 | greyhound betting sites | /sport/betting/uk/greyhound-betting.htm | Related sport |
-| golf betting UK | /sport/betting/uk/golf-betting.htm | Related sport |
+| golf betting UK | /sport/betting/uk/index.htm | Related sport |
 | best free bets UK | /sport/betting/uk/free-bets.htm | Offers page |
 
 ---
@@ -261,7 +261,6 @@ Instead of 41 shallow listings, feature **9 carefully selected brands** with com
 - **Licensing:** All featured brands must have UK Gambling Commission license
 - **Responsible gambling hotline:** 0808 8020 133 (National Gambling Helpline)
 - **BeGambleAware.org:** Link required in footer
-- **Affiliate disclosure:** Required in introduction
 - **GamStop mention:** Required in responsible gambling section
 - **Self-exclusion tools:** Mention per brand where available
 

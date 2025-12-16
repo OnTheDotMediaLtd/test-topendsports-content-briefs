@@ -576,13 +576,6 @@ document.addEventListener('DOMContentLoaded', initComparisonTableSort);
 </div>
 ```
 
-### Affiliate Disclosure
-```html
-<div class="affiliate-disclosure" style="background: #f8f9fa; padding: 14px; border-radius: 6px; margin: 20px 0; font-size: 13px; color: #666; border: 1px solid #e0e0e0;">
-<strong style="display: block; margin-bottom: 6px; color: #1a1a1a;">Affiliate Disclosure:</strong>
-TopEndSports is an affiliate of the betting operators featured on this page. We receive commission from qualifying sign-ups, which does not affect your pricing. Our ratings and reviews are based on objective criteria: App Store/Google Play ratings, user reviews, feature analysis, and independent testing. We prioritize transparency and accuracy in all recommendations. Your use of affiliate links supports our continued research and content development at no additional cost to you.
-</div>
-```
 
 ---
 
@@ -597,7 +590,6 @@ TopEndSports is an affiliate of the betting operators featured on this page. We 
 - Interactive JavaScript for table sorting
 - Mobile-responsive rating visualization components
 - Ireland compliance section with 18+ age requirement and 087 744 3577 hotline
-- Affiliate disclosure and responsible gambling integration
 - Download button integration for iOS and Android
 
 **No placeholders, fully production-ready HTML/CSS/JavaScript code.**

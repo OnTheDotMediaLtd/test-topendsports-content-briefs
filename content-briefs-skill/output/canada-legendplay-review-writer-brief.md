@@ -44,7 +44,6 @@
 
 **Structure:** 150 words MAXIMUM
 1. **Direct Answer (50 words):** Open with clear assessment of Legendplay
-2. **Affiliate Disclosure (75 words):** Standard disclosure template
 3. **Authority Statement (25 words):** Brief credibility statement
 
 **FORBIDDEN in Intro:**
@@ -57,7 +56,6 @@
 **Example Opening:**
 "Legendplay is an emerging Canadian sportsbook offering competitive sports betting and casino games with a focus on the Canadian market. The platform supports CAD currency, Interac payments, and comprehensive NHL and CFL coverage, making it a viable option for Canadian bettors seeking an alternative to established operators.
 
-[Standard 75-word affiliate disclosure here]
 
 Our analysis is based on extensive testing, Canadian user feedback from Reddit and review platforms, and comparison to market leaders like Bet365 and Sports Interaction."
 
@@ -78,7 +76,6 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 - **Letter Badge:** LGP (color: #0288D1) - top right
 - **Last Updated Badge:** Below H1
 - **Rating Display:** 5-star system
-- **Affiliate Disclosure:** In introduction
 
 ---
 
@@ -88,7 +85,6 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 **Content:**
 - Direct assessment of Legendplay as emerging operator
 - Canadian market context
-- Affiliate disclosure (50-75 words)
 - Brief authority statement
 - NO welcome language or questions
 
@@ -380,7 +376,7 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
   - Legendplay better for: [X type of bettor]
   - Bet365 better for: [Y type of bettor]
 
-**Internal Link:** [Bet365 Canada review](/sport/betting/canada/bet365-review.htm)
+**Internal Link:** [Bet365 Canada review](/sport/betting/canada/treasurespins-review.htm)
 
 #### H3: Legendplay vs Sports Interaction (200 words)
 **Keyword:** best sportsbooks canada (400/mo)
@@ -410,8 +406,8 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 - How to use these tools with Legendplay bets (step-by-step)
 
 **Internal Links:**
-- [parlay calculator](/sport/betting/calculators/parlay.htm)
-- [odds calculator](/sport/betting/calculators/odds.htm)
+- [parlay calculator](/sport/betting-tools/parlay-calculator.htm)
+- [odds calculator](/sport/betting-tools/odds-calculator.htm)
 
 ---
 
@@ -502,7 +498,7 @@ Each FAQ should:
 - Bet365 advantages
 - Recommendation for which type of bettor should choose each
 
-**Internal Link:** [Bet365 Canada review](/sport/betting/canada/bet365-review.htm)
+**Internal Link:** [Bet365 Canada review](/sport/betting/canada/treasurespins-review.htm)
 
 ---
 
@@ -623,8 +619,10 @@ Each FAQ should:
 **Age Requirement:**
 Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 
-**Canadian Problem Gambling Helpline:**
-**1-800-463-1554 (ConnexOntario)**
+**Canadian Problem Gambling Resources:**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 
 **Content Must Include:**
 - Age verification importance
@@ -634,9 +632,9 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 - Reality checks
 - Time-out features
 - Provincial resources:
-  - ConnexOntario: 1-800-463-1554
-  - Problem Gambling Institute of Ontario
-  - Responsible Gambling Council
+  - Responsible Gambling Council (national)
+  - Canadian Centre on Substance Use and Addiction
+  - Provincial helplines (vary by location)
 - Encouragement to gamble responsibly
 - "When the fun stops, stop" messaging
 
@@ -701,8 +699,7 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 Before submitting, verify:
 
 - [ ] Age requirement stated: 19+ (18+ in Alberta, Manitoba, Quebec)
-- [ ] Canadian helpline included: 1-800-463-1554
-- [ ] Affiliate disclosure in introduction (50-75 words)
+- [ ] Pan-Canadian resources included: RGC and CCSA
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1
 - [ ] All 12 secondary keywords mapped to sections
@@ -745,18 +742,18 @@ When comparing Legendplay to competitors, use these brands:
 
 Include these contextually throughout the content:
 
-1. [best sportsbooks Canada](/sport/betting/canada/best-betting-sites.htm) - Comparison section
-2. [sports betting Ontario](/sport/betting/canada/ontario-betting.htm) - Provincial availability
-3. [Bet365 Canada review](/sport/betting/canada/bet365-review.htm) - Comparison section
-4. [NHL betting guide](/sport/betting/nhl-betting.htm) - NHL section
-5. [parlay calculator](/sport/betting/calculators/parlay.htm) - Tools section
-6. [odds calculator](/sport/betting/calculators/odds.htm) - Tools section
-7. [Canadian betting apps](/sport/betting/canada/best-betting-apps.htm) - Mobile app section
-8. [responsible gambling Canada](/sport/betting/responsible-gambling.htm) - Responsible gambling section
-9. [how to withdraw from sportsbooks](/sport/betting/guides/how-to-withdraw.htm) - Payment methods section
-10. [sports betting bonuses explained](/sport/betting/guides/bonuses-explained.htm) - Bonus section
-11. [CFL betting odds](/sport/betting/cfl-betting.htm) - Sports coverage
-12. [live betting guide](/sport/betting/guides/live-betting.htm) - Live betting mention
+1. [best sportsbooks Canada](/sport/betting/canada/index.htm) - Comparison section
+2. [best betting apps Canada](/sport/betting/canada/betting-apps.htm) - Mobile app section
+3. [new betting sites Canada](/sport/betting/canada/new-betting-sites.htm) - Emerging operators
+4. [Treasure Spins review](/sport/betting/canada/treasurespins-review.htm) - Comparison section
+5. [Royalistplay review](/sport/betting/canada/royalistplay-review.htm) - Comparison section
+6. [Wyns review](/sport/betting/canada/wyns-review.htm) - Comparison section
+7. [Lucky7even review](/sport/betting/canada/lucky7even-review.htm) - Comparison section
+8. [Best NHL Betting Sites](/sport/betting/nhl/index.htm) - NHL section
+9. [Best NFL Betting Sites](/sport/betting/nfl/index.htm) - NFL section
+10. [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Tools section
+11. [odds calculator](/sport/betting-tools/odds-calculator.htm) - Tools section
+12. [responsible gambling](/sport/betting/responsible-gambling.htm) - Responsible gambling section
 
 **Link Naturally:** Don't force links. Use contextually where they add value for the reader.
 
@@ -856,8 +853,7 @@ Before marking as complete:
 
 **Compliance:**
 - [ ] Age: 19+ (18+ in AB, MB, QC) stated
-- [ ] Helpline: 1-800-463-1554 included
-- [ ] Affiliate disclosure in intro
+- [ ] Pan-Canadian resources: RGC and CCSA included
 - [ ] Responsible gambling section at bottom
 - [ ] Provincial variations acknowledged
 

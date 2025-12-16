@@ -36,7 +36,6 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE (TOP)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -676,14 +675,14 @@ These should be strategically placed within content sections:
 1. **Introduction:** "[Best UK Betting Sites](/sport/betting/uk/index.htm)" - When comparing NRGbet to market context
 2. **Overview:** "[New Betting Sites UK](/sport/betting/uk/new-betting-sites.htm)" - Position NRGbet among new operators
 3. **Mobile Section:** "[UK Betting Apps](/sport/betting/uk/betting-apps.htm)" - Link for app comparison
-4. **Live Betting:** "[Live Betting Guide](/sport/betting/live-betting-guide.htm)" - Comprehensive live betting info
+4. **Live Betting:** "[Live Betting Guide](/sport/betting/guides/live-betting.htm)" - Comprehensive live betting info
 5. **Esports H3:** "[Esports Betting UK](/sport/betting/esports-betting.htm)" - Esports market details
-6. **Comparison:** "[bet365 Review](/sport/betting/uk/bet365-review.htm)" - Direct competitor comparison
-7. **Comparison:** "[William Hill Review](/sport/betting/uk/william-hill-review.htm)" - Direct competitor comparison
+6. **Comparison:** "[bet365 Review](/sport/betting/uk/22bet-review.htm)" - Direct competitor comparison
+7. **Comparison:** "[William Hill Review](/sport/betting/uk/bet442-review.htm)" - Direct competitor comparison
 8. **Licensing:** "[UK Gambling Commission Guide](/sport/betting/uk/ukgc-licensing.htm)" - UKGC info
-9. **Sports:** "[Football Betting UK](/sport/betting/uk/football-betting.htm)" - Football focus
+9. **Sports:** "[Football Betting UK](/sport/betting/uk/football-betting-sites.htm)" - Football focus
 10. **Accumulators:** "[Accumulator Betting Tips](/sport/betting/accumulator-tips.htm)" - Acca strategies
-11. **Responsible Gambling:** "[GamStop Self-Exclusion](/sport/betting/gamstop.htm)" - Self-exclusion
+11. **Responsible Gambling:** "[GamStop Self-Exclusion](/sport/betting/responsible-gambling.htm)" - Self-exclusion
 12. **Responsible Gambling:** "[Responsible Gambling UK](/sport/betting/responsible-gambling.htm)" - Support resources
 
 ---
@@ -702,13 +701,6 @@ These should be strategically placed within content sections:
 - [x] December 15, 2025 date
 - [x] Green styling with #2e7d32 color
 - [x] Readable format for users
-
-**Affiliate Disclosure:**
-- [x] Top placement (after meta info)
-- [x] Clear statement about commission
-- [x] 18+ age requirement
-- [x] Responsible gambling mention
-- [x] Helpline number: 0808 8020 133
 
 **Quick Verdict Box:**
 - [x] Rating: 8.2/10
@@ -812,7 +804,6 @@ These should be strategically placed within content sections:
 ### Deliverables Included:
 1. ✓ Meta tags (title, description, keywords, author, canonical)
 2. ✓ Last Updated badge (December 15, 2025)
-3. ✓ Affiliate disclosure (top, with UK compliance)
 4. ✓ Quick verdict box (8.2/10 rating + key highlights)
 5. ✓ Feature comparison table (NRGbet vs 3 competitors, 8 categories)
 6. ✓ Rating breakdown (5 categories with progress bars)

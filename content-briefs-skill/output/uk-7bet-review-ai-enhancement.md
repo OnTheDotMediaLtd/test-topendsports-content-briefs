@@ -38,7 +38,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.5rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -727,14 +726,14 @@ window.addEventListener('load', calculateBonus);
 <!-- Place these links throughout relevant sections: -->
 
 <!-- Introduction Section -->
-<a href="/sport/betting/uk/best-betting-sites.htm" style="color: #2e7d32; text-decoration: underline;">best UK betting sites</a>
+<a href="/sport/betting/uk/index.htm" style="color: #2e7d32; text-decoration: underline;">best UK betting sites</a>
 
 <!-- Mobile App Section -->
-<a href="/sport/betting/uk/best-betting-apps.htm" style="color: #2e7d32; text-decoration: underline;">UK betting apps</a>
+<a href="/sport/betting/uk/betting-apps.htm" style="color: #2e7d32; text-decoration: underline;">UK betting apps</a>
 
 <!-- Sports Coverage Section -->
 <a href="/sport/betting/uk/best-football-betting-sites.htm" style="color: #2e7d32; text-decoration: underline;">football betting sites UK</a>
-<a href="/sport/betting/calculators/odds-converter.htm" style="color: #2e7d32; text-decoration: underline;">betting odds calculator</a>
+<a href="/sport/betting-tools/odds-calculator.htm-converter.htm" style="color: #2e7d32; text-decoration: underline;">betting odds calculator</a>
 <a href="/sport/betting/uk/horse-racing-betting.htm" style="color: #2e7d32; text-decoration: underline;">horse racing betting</a>
 
 <!-- Casino Section -->
@@ -745,11 +744,11 @@ window.addEventListener('load', calculateBonus);
 <a href="/sport/betting/guides/how-to-claim-free-bet.htm" style="color: #2e7d32; text-decoration: underline;">how to claim a free bet</a>
 
 <!-- Payment Methods Section -->
-<a href="/sport/betting/uk/paypal-betting-sites.htm" style="color: #2e7d32; text-decoration: underline;">betting sites with PayPal</a>
+<a href="/sport/betting/uk/index.htm" style="color: #2e7d32; text-decoration: underline;">betting sites with PayPal</a>
 
 <!-- Final Verdict Section -->
-<a href="/sport/betting/uk/bet365-review.htm" style="color: #2e7d32; text-decoration: underline;">Bet365 review</a>
-<a href="/sport/betting/uk/william-hill-review.htm" style="color: #2e7d32; text-decoration: underline;">William Hill review</a>
+<a href="/sport/betting/uk/22bet-review.htm" style="color: #2e7d32; text-decoration: underline;">Bet365 review</a>
+<a href="/sport/betting/uk/bet442-review.htm" style="color: #2e7d32; text-decoration: underline;">William Hill review</a>
 
 <!-- Responsible Gambling Section -->
 <a href="/sport/betting/responsible-gambling.htm" style="color: #2e7d32; text-decoration: underline;">responsible gambling tools</a>
@@ -843,7 +842,6 @@ window.addEventListener('load', calculateBonus);
 ```html
 <div style="background: #f8f9fa; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; border-left: 4px solid #2e7d32;">
   <p style="margin: 0; font-size: 13px; color: #666;">
-    <strong>Affiliate Disclosure & Verification:</strong> This review is based on research conducted December 15, 2025. 7Bet's bonus terms, withdrawal times, and features are current as of this date but subject to change. All bonus terms verified from 7bet.co.uk official site. UKGC license verified from UK Gambling Commission database. Trustpilot rating reflects 143 reviews as of review date. Always verify current terms on 7bet.co.uk before signing up.
   </p>
   <p style="margin: 0.75rem 0 0 0; font-size: 12px; color: #888;">
     Last Updated: December 15, 2025 | Market: United Kingdom (18+) | UKGC License: 048788-R-327401-009
@@ -862,7 +860,6 @@ END OF AI ENHANCEMENT BRIEF
 - ✓ Meta tags include ALL secondary keywords (7bet, 7bet uk, 7bet review, 7bet casino, 7bet sign up offer, 7bet promo code, 7bet welcome offer, 7bet app, 7bet sports, 7bet login, 7bet withdrawal times, is 7bet legit, who owns 7bet, 7bet casino review, 7bet new customer offer, 7bet app download, 7bet bonus, 7bet casino login)
 - ✓ Last Updated badge created (December 15, 2025)
 - ✓ Letter badge "7BT" with color #E91E63 included
-- ✓ Affiliate disclosure box implemented (top section)
 - ✓ Quick verdict box with 3.5/5 rating and 5-point summaries
 - ✓ Feature comparison table with 7Bet vs Bet365, William Hill, Ladbrokes (4 competitors)
 - ✓ Rating breakdown HTML with 5 categories (Sportsbook Odds, Casino, Mobile/UI, Payment Speed, Support/Trust)

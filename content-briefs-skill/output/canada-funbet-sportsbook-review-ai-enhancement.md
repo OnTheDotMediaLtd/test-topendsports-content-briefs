@@ -57,12 +57,11 @@
 
 ---
 
-## SECTION 4: COMPLIANCE - AFFILIATE DISCLOSURE (TOP)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; color: #856404;">
-    <strong>Disclosure:</strong> TopEndSports.com may earn affiliate commission when you sign up through our links. We independently test and review all sportsbooks. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Canadian gambling problem? Call ConnexOntario 1-866-531-2600.
+    <strong>Disclosure:</strong> TopEndSports.com may earn affiliate commission when you sign up through our links. We independently test and review all sportsbooks. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Canadian gambling problem? Call Responsible Gambling Council Provincial helplines vary.
   </p>
 </div>
 ```
@@ -1344,7 +1343,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <h3>Gamble Responsibly - Canadian Resources</h3>
 
     <div class="hotline-highlight">
-        <p style="margin: 0; font-size: 1.1rem;">🚨 Need Help? Call ConnexOntario: 1-866-531-2600 (24/7, Confidential)</p>
+        <p style="margin: 0; font-size: 1.1rem;">🚨 Need Help? Call Responsible Gambling Council: Provincial helplines vary (24/7, Confidential)</p>
     </div>
 
     <h4 style="color: #856404; margin-top: 1.5rem;">Age Requirements by Province</h4>
@@ -1452,8 +1451,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- In Sports Coverage Section -->
 <p>Maximize your sports betting strategy with tools:</p>
 <ul style="line-height: 1.8;">
-    <li><a href="/sport/betting/calculators/parlay.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Parlay calculator</a> - Calculate multi-leg bet payouts</li>
-    <li><a href="/sport/betting/calculators/odds.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Odds calculator</a> - Convert between decimal and American odds</li>
+    <li><a href="/sport/betting-tools/parlay-calculator.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Parlay calculator</a> - Calculate multi-leg bet payouts</li>
+    <li><a href="/sport/betting-tools/odds-calculator.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Odds calculator</a> - Convert between decimal and American odds</li>
 </ul>
 
 <!-- In Sports-Specific Sections -->
@@ -1513,7 +1512,7 @@ document.addEventListener('DOMContentLoaded', function() {
 **HTML Elements:** Fully functional
 **JavaScript:** Interactive (accordions, calculator)
 **Schema Markup:** Complete (Article, FAQ, Breadcrumb, Organization)
-**Compliance:** Canada-specific (19+ / 18+ by province, ConnexOntario hotline)
+**Compliance:** Canada-specific (19+ / 18+ by province, Responsible Gambling Council hotline)
 **Letter Badges:** FNB (#E91E63) implemented throughout
 **Payment Methods:** Interac e-Transfer highlighted as primary
 **FAQs:** 8 with full accordion functionality

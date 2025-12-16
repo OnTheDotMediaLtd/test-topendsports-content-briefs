@@ -251,7 +251,6 @@ Target these high-value keywords through FAQs:
   - Breadcrumb schema (Home > Betting > Ireland > Casina Review)
 
 ### Affiliate & Compliance
-- [ ] **Affiliate Disclosure:** Standard TopEndSports disclosure in introduction
 - [ ] **Age Requirement:** 18+ for Ireland (not 21+ like USA)
 - [ ] **Responsible Gambling Resources:**
   - Link to Gambling Therapy
@@ -321,7 +320,6 @@ Target these high-value keywords through FAQs:
 - [ ] **Local Sports:** Mention GAA, horse racing, rugby context for Ireland
 
 ### Standard Compliance
-- [ ] Affiliate disclosure in introduction
 - [ ] Responsible gambling section at bottom
 - [ ] T&Cs accuracy verification (check casinia.one directly)
 - [ ] No "guaranteed wins" or "risk-free" language

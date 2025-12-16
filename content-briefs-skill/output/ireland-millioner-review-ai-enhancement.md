@@ -773,15 +773,6 @@ window.addEventListener('DOMContentLoaded', function() {
 
 ## COMPLIANCE SECTIONS
 
-### Affiliate Disclosure
-
-```html
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
-  <p style="margin: 0; font-size: 14px; color: #856404;">
-    <strong>Affiliate Disclosure:</strong> TopendSports is a participant in affiliate partnerships. We may earn commission when you sign up through our links to play at Millioner. This disclosure does not influence our review process or recommendations. Must be 18+ to participate. Gambling problem? Call Gambling Care Ireland at <strong>1800 753 753</strong> (freephone, 24/7 support).
-  </p>
-</div>
-```
 
 ### Responsible Gambling Section
 
@@ -1052,22 +1043,22 @@ window.addEventListener('DOMContentLoaded', function() {
 
   <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
     <li>
-      <a href="/sport/betting/ireland/paddypower-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/lunubet-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Paddy Power Review
       </a>
     </li>
     <li>
-      <a href="/sport/betting/ireland/boylesports-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/betalright-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Boylesports Review
       </a>
     </li>
     <li>
-      <a href="/sport/betting/ireland/bet365-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/22bet-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Bet365 Ireland Review
       </a>
     </li>
     <li>
-      <a href="/sport/betting/ireland/betting-hub.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/index.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Best Betting Sites Ireland
       </a>
     </li>

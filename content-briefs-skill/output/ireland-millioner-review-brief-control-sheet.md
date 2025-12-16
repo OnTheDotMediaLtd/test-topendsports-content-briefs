@@ -129,7 +129,6 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 - Last Updated badge
 - Millioner logo/badge (MIL, #9E9E9E)
 - Quick answer: What is Millioner? Best for whom?
-- Affiliate disclosure (Ireland-specific)
 - Overview of Ireland betting market context
 - **Keywords:** millioner sport, millioner ireland, irish betting sites, sports betting ireland
 
@@ -299,7 +298,6 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 - **Currency:** Euro (€)
 - **Gambling Helpline:** Gambling Care - 1800 753 753 (Ireland)
 - **Regulator:** Verify Millioner's licensing with Irish gambling authorities
-- **Affiliate Disclosure:** Required at top of page
 - **Responsible Gambling:** Ireland-specific resources and self-exclusion info
 
 ### Schema Markup (Phase 3)
@@ -321,25 +319,25 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 
 ## INTERNAL LINKS (12 Required)
 
-1. **"best betting sites ireland"** → `/sport/betting/ireland/betting-hub.htm`
+1. **"best betting sites ireland"** → `/sport/betting/ireland/index.htm`
    - Main Ireland betting hub - primary internal link
 
-2. **"Paddy Power review"** → `/sport/betting/ireland/paddypower-review.htm`
+2. **"Paddy Power review"** → `/sport/betting/ireland/lunubet-review.htm`
    - Comparison with market leader
 
-3. **"Boylesports review"** → `/sport/betting/ireland/boylesports-review.htm`
+3. **"Boylesports review"** → `/sport/betting/ireland/betalright-review.htm`
    - Comparison with #2 brand
 
-4. **"Bet365 Ireland review"** → `/sport/betting/ireland/bet365-review.htm`
+4. **"Bet365 Ireland review"** → `/sport/betting/ireland/22bet-review.htm`
    - International competitor context
 
 5. **"sports betting in Ireland"** → `/sport/betting/ireland/`
    - Ireland sports betting overview page
 
-6. **"parlay calculator"** → `/sport/betting/calculators/parlay-calculator.htm`
+6. **"parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm-calculator.htm`
    - Betting tools integration
 
-7. **"odds calculator"** → `/sport/betting/calculators/odds-calculator.htm`
+7. **"odds calculator"** → `/sport/betting-tools/odds-calculator.htm-calculator.htm`
    - Betting tools integration
 
 8. **"betting apps Ireland"** → `/sport/betting/ireland/betting-apps.htm`

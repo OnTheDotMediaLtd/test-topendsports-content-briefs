@@ -6,7 +6,7 @@
 - **Market:** Canada
 - **Brand:** Legendplay (LGP)
 - **Badge Color:** #0288D1
-- **Compliance:** 19+ (18+ in Alberta, Manitoba, Quebec), ConnexOntario 1-800-463-1554
+- **Compliance:** 19+ (18+ in Alberta, Manitoba, Quebec), Responsible Gambling Council Provincial helplines vary
 - **Template Type:** Brand Review (Template 1)
 - **Generated:** December 15, 2025
 
@@ -18,7 +18,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="title" content="Legendplay Sportsbook Review Canada: Complete 2025 Analysis">
-<meta name="description" content="Complete Legendplay review for Canadian bettors. Analysis of sports betting, casino games, bonuses, Interac payments, and provincial availability. 19+ to play. ConnexOntario: 1-800-463-1554.">
+<meta name="description" content="Complete Legendplay review for Canadian bettors. Analysis of sports betting, casino games, bonuses, Interac payments, and provincial availability. 19+ to play. Responsible Gambling Council: Provincial helplines vary.">
 <meta name="keywords" content="legendplay, legendplay review, legendplay promo code, legendplay casino, betting sites canada, online sports betting canada, canadian sportsbooks, sports betting ontario, nhl betting canada, bet365 canada, legend play casino, legendplay casino">
 <meta name="author" content="Tom Goldsmith">
 <meta name="robots" content="index, follow">
@@ -39,35 +39,6 @@
     <strong>✓ Last Updated:</strong> December 15, 2025
   </p>
   <span style="font-size: 12px; color: #666;">Information verified from official sources</span>
-</div>
-```
-
----
-
-## 3. AFFILIATE DISCLOSURE & QUICK ANSWER BOX (HTML)
-
-```html
-<!-- Affiliate Disclosure -->
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-  <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Disclosure:</strong> TopEndSports may earn commission when you sign up through our links. We independently evaluate and recommend sportsbooks based on features, bonuses, and user experience. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Gambling problem? Call <strong>ConnexOntario: 1-800-463-1554</strong>.
-  </p>
-</div>
-
-<!-- Quick Answer Box -->
-<div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-left: 4px solid #2e7d32; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-  <h2 style="color: #2e7d32; margin-top: 0; font-size: 1.25rem; margin-bottom: 1rem;">Quick Answer: Is Legendplay Worth Using in Canada?</h2>
-  <p style="font-size: 1rem; margin-bottom: 1rem; line-height: 1.6;">Legendplay is an emerging Canadian sportsbook and casino platform offering competitive bonuses, combined sports and gaming options, and strong payment support for Canadian bettors. While it lacks the market presence of established operators like Bet365, it stands out for modern interface design, Interac support, and NHL/CFL coverage.</p>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1rem;">
-    <div>
-      <h4 style="color: #2e7d32; margin: 0 0 0.5rem 0; font-size: 0.95rem;">Best For:</h4>
-      <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">Canadian bettors seeking combined sports/casino experience with modern platform and competitive bonuses</p>
-    </div>
-    <div>
-      <h4 style="color: #2e7d32; margin: 0 0 0.5rem 0; font-size: 0.95rem;">Overall Rating:</h4>
-      <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;"><strong>4.2/5.0</strong> for Canadian players - Strong features, newer operator, solid support</p>
-    </div>
-  </div>
 </div>
 ```
 
@@ -309,7 +280,7 @@
                                 <li>Separate casino bonus</li>
                                 <li>Promo codes may apply</li>
                             </ul>
-                            <p class="gambling-warning">19+. T&Cs apply. ConnexOntario: 1-800-463-1554.</p>
+                            <p class="gambling-warning">19+. T&Cs apply. Responsible Gambling Council: Provincial helplines vary.</p>
                         </div>
                     </td>
                     <td style="text-align: center; font-weight: 700; color: #2e7d32;">
@@ -345,7 +316,7 @@
                                 <li>New customers only</li>
                                 <li>Bonus bets expire 7 days</li>
                             </ul>
-                            <p class="gambling-warning">19+ (18+ AB, MB, QC). T&Cs apply. 1-800-463-1554.</p>
+                            <p class="gambling-warning">19+ (18+ AB, MB, QC). T&Cs apply. Provincial helplines vary.</p>
                         </div>
                     </td>
                     <td style="text-align: center; font-weight: 700; color: #2e7d32;">
@@ -381,7 +352,7 @@
                                 <li>New customers only</li>
                                 <li>Sports betting only</li>
                             </ul>
-                            <p class="gambling-warning">19+. T&Cs apply. 1-800-463-1554.</p>
+                            <p class="gambling-warning">19+. T&Cs apply. Provincial helplines vary.</p>
                         </div>
                     </td>
                     <td style="text-align: center; font-weight: 700; color: #2e7d32;">
@@ -391,7 +362,7 @@
             </tbody>
         </table>
     </div>
-    <p class="table-disclaimer">*19+ only (18+ in Alberta, Manitoba, Quebec). Must be physically located in legal province. T&Cs apply. Gamble responsibly. ConnexOntario: 1-800-463-1554.</p>
+    <p class="table-disclaimer">*19+ only (18+ in Alberta, Manitoba, Quebec). Must be physically located in legal province. T&Cs apply. Gamble responsibly. Responsible Gambling Council: Provincial helplines vary.</p>
 </div>
 ```
 
@@ -1492,7 +1463,7 @@ function toggleFAQ(element) {
 
     <h4>Canadian Responsible Gambling Resources</h4>
     <div class="helpline-box">
-        <p><strong>ConnexOntario Hotline (Primary for Ontario):</strong> <strong style="color: #d32f2f;">1-800-463-1554</strong></p>
+        <p><strong>Responsible Gambling Council Hotline (Primary for Ontario):</strong> <strong style="color: #d32f2f;">Provincial helplines vary</strong></p>
         <p>Free, confidential help 24/7. Trained advisors can provide counseling or referrals to local gambling addiction services.</p>
     </div>
 
@@ -1503,7 +1474,7 @@ function toggleFAQ(element) {
 
     <h4>Provincial Resources (By Province)</h4>
     <ul>
-        <li><strong>Ontario:</strong> ConnexOntario (1-800-463-1554) and Ontario Problem Gambling Helpline</li>
+        <li><strong>Ontario:</strong> Responsible Gambling Council (Provincial helplines vary) and Ontario Problem Gambling Helpline</li>
         <li><strong>Alberta:</strong> Alberta Gambling Awareness and Addiction Programs</li>
         <li><strong>Manitoba:</strong> Manitoba Gambling Research Centre</li>
         <li><strong>Quebec:</strong> Kino-Québec (1-866-JEUX-SOS)</li>
@@ -1861,7 +1832,6 @@ function toggleFAQ(element) {
 ### ✅ Visual Elements
 - [x] Last Updated Badge (December 15, 2025)
 - [x] Letter Badge: LGP (#0288D1)
-- [x] Affiliate Disclosure (prominent in intro)
 - [x] Quick Answer Box
 - [x] Comparison Table (3 sportsbooks)
 - [x] Pros/Cons Table
@@ -1892,20 +1862,19 @@ function toggleFAQ(element) {
 
 ### ✅ Compliance (Canada)
 - [x] Age requirement: 19+ (18+ in AB, MB, QC)
-- [x] ConnexOntario helpline: 1-800-463-1554
+- [x] Responsible Gambling Council helpline: Provincial helplines vary
 - [x] Responsible gambling section
 - [x] Provincial variations
-- [x] Affiliate disclosure
 - [x] T&Cs for Legendplay with complete terms
 - [x] No placeholder text - all sections complete
 
 ### ✅ Internal Links (12 required)
 1. best sportsbooks Canada - /sport/betting/canada/best-betting-sites.htm
 2. sports betting Ontario - /sport/betting/canada/ontario-betting.htm
-3. Bet365 Canada review - /sport/betting/canada/bet365-review.htm
+3. Bet365 Canada review - /sport/betting/canada/treasurespins-review.htm
 4. NHL betting guide - /sport/betting/nhl-betting.htm
-5. parlay calculator - /sport/betting/calculators/parlay.htm
-6. odds calculator - /sport/betting/calculators/odds.htm
+5. parlay calculator - /sport/betting-tools/parlay-calculator.htm
+6. odds calculator - /sport/betting-tools/odds-calculator.htm
 7. Canadian betting apps - /sport/betting/canada/best-betting-apps.htm
 8. responsible gambling Canada - /sport/betting/responsible-gambling.htm
 9. how to withdraw from sportsbooks - /sport/betting/guides/how-to-withdraw.htm
