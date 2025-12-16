@@ -104,25 +104,25 @@ jobs:
             mkdir -p tests/shell
 
             # Create a basic test to verify scripts exist and are executable
-            cat > tests/shell/basic.bats << 'EOFBATS'
-#!/usr/bin/env bats
+            cat > tests/shell/basic.bats <<'EOFBATS'
+            #!/usr/bin/env bats
 
-@test "ahrefs-api.py exists and is executable" {
-  [ -x ".claude/scripts/ahrefs-api.py" ]
-}
+            @test "ahrefs-api.py exists and is executable" {
+              [ -x ".claude/scripts/ahrefs-api.py" ]
+            }
 
-@test "validate-phase.sh exists and is executable" {
-  [ -x "content-briefs-skill/scripts/validate-phase.sh" ]
-}
+            @test "validate-phase.sh exists and is executable" {
+              [ -x "content-briefs-skill/scripts/validate-phase.sh" ]
+            }
 
-@test "mcp-ahrefs.sh exists and is executable" {
-  [ -x ".claude/scripts/mcp-ahrefs.sh" ]
-}
+            @test "mcp-ahrefs.sh exists and is executable" {
+              [ -x ".claude/scripts/mcp-ahrefs.sh" ]
+            }
 
-@test "Shell scripts have proper shebang" {
-  grep -q "#!/bin/bash" .claude/scripts/mcp-ahrefs.sh
-}
-EOFBATS
+            @test "Shell scripts have proper shebang" {
+              grep -q "#!/bin/bash" .claude/scripts/mcp-ahrefs.sh
+            }
+            EOFBATS
 
             bats tests/shell/basic.bats
           fi
