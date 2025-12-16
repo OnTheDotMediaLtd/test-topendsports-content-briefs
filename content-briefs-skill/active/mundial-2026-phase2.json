@@ -1,0 +1,332 @@
+{
+  "page_info": {
+    "url": "/es/apuestas/futbol/mundial-2026.htm",
+    "page_name": "mundial-2026",
+    "title": "Apuestas Mundial 2026: Las Mejores Casas de Apuestas para la Copa del Mundo",
+    "meta_description": "Guía completa de apuestas para el Mundial 2026. Compara las mejores casas de apuestas deportivas en USA, cuotas actuales, favoritos y cómo apostar en la Copa del Mundo.",
+    "writer": "Gustavo Cantella",
+    "word_count_target": 5000,
+    "template": 2,
+    "version": "2.0"
+  },
+  "keyword_mapping": {
+    "h2_keywords": [
+      {"keyword": "casas de apuestas deportivas", "volume": 2100, "section": "Tabla Comparativa"},
+      {"keyword": "mejores casas de apuestas", "volume": 1500, "section": "Tabla Comparativa"},
+      {"keyword": "apuestas deportivas usa", "volume": 1300, "section": "Legal Section"},
+      {"keyword": "copa del mundo 2026", "volume": 1200, "section": "Event Info"},
+      {"keyword": "sedes mundial 2026", "volume": 500, "section": "Event Info"},
+      {"keyword": "world cup 2026 favorites", "volume": 400, "section": "Favorites/Odds"},
+      {"keyword": "world cup 2026 predictions", "volume": 350, "section": "Predictions"},
+      {"keyword": "2026 world cup winner odds", "volume": 300, "section": "Odds Table"},
+      {"keyword": "world cup 2026 odds", "volume": 250, "section": "Favorites/Odds"},
+      {"keyword": "grupos mundial 2026", "volume": 200, "section": "Event Info"},
+      {"keyword": "casas de apuestas usa", "volume": 200, "section": "Multiple"},
+      {"keyword": "world cup betting sites", "volume": 150, "section": "Table Section"}
+    ],
+    "h3_keywords": [
+      {"keyword": "calendario mundial 2026", "volume": 300, "section": "Event Info - Dates"},
+      {"keyword": "estadios mundial 2026", "volume": 200, "section": "Event Info - Venues"},
+      {"keyword": "apuestas deportivas online", "volume": 200, "section": "Betting Guide"},
+      {"keyword": "apuestas copa del mundo", "volume": 150, "section": "Bet Types"},
+      {"keyword": "fechas mundial 2026", "volume": 150, "section": "Event Info - Dates"},
+      {"keyword": "bet on world cup", "volume": 150, "section": "Betting Guide"},
+      {"keyword": "apuestas futbol online", "volume": 150, "section": "Betting Guide"},
+      {"keyword": "mexico mundial 2026", "volume": 100, "section": "Mexico Section"},
+      {"keyword": "favoritos mundial 2026", "volume": 80, "section": "Favorites"},
+      {"keyword": "apuestas mundial 2026", "volume": 70, "section": "Multiple"},
+      {"keyword": "final mundial 2026", "volume": 60, "section": "Final Section"}
+    ],
+    "branded_keywords": [
+      {"keyword": "fanduel soccer", "volume": 500, "brand": "FanDuel"},
+      {"keyword": "draftkings soccer", "volume": 350, "brand": "DraftKings"},
+      {"keyword": "betmgm world cup", "volume": 150, "brand": "BetMGM"},
+      {"keyword": "bet365 world cup", "volume": 150, "brand": "bet365"},
+      {"keyword": "fanduel world cup", "volume": 100, "brand": "FanDuel"},
+      {"keyword": "draftkings world cup", "volume": 50, "brand": "DraftKings"},
+      {"keyword": "caesars world cup", "volume": 50, "brand": "Caesars"},
+      {"keyword": "betmgm soccer", "volume": 20, "brand": "BetMGM"}
+    ],
+    "faq_keywords": [
+      {"keyword": "mejores casas de apuestas", "volume": 1500, "question": "¿Cuáles son las mejores casas de apuestas para el Mundial 2026?"},
+      {"keyword": "casas de apuestas usa", "volume": 200, "question": "¿Es legal apostar en el Mundial en USA?"},
+      {"keyword": "grupos mundial 2026", "volume": 200, "question": "¿Cuáles son los grupos del Mundial 2026?"},
+      {"keyword": "estadios mundial 2026", "volume": 200, "question": "¿Dónde se juega el Mundial 2026?"},
+      {"keyword": "apuestas copa del mundo", "volume": 150, "question": "¿Qué tipos de apuestas puedo hacer en el Mundial?"},
+      {"keyword": "fechas mundial 2026", "volume": 150, "question": "¿Cuándo empieza el Mundial 2026?"},
+      {"keyword": "apuestas futbol online", "volume": 150, "question": "¿Puedo apostar en vivo durante los partidos?"},
+      {"keyword": "favoritos mundial 2026", "volume": 80, "question": "¿Quién es el favorito para ganar el Mundial 2026?"},
+      {"keyword": "quien ganara el mundial 2026", "volume": 80, "question": "¿Quién va a ganar el Mundial 2026?"}
+    ]
+  },
+  "content_outline": {
+    "h1": {
+      "title": "Apuestas Mundial 2026: Las Mejores Casas de Apuestas",
+      "notes": "NO dated language - use Last Updated badge instead"
+    },
+    "sections": [
+      {
+        "type": "badge",
+        "element": "Last Updated Badge",
+        "content": "Última actualización: Diciembre 2025",
+        "word_count": 0
+      },
+      {
+        "type": "intro",
+        "title": "Introduction",
+        "word_count": 150,
+        "keyword_targets": ["mundial 2026", "apuestas mundial 2026"],
+        "structure": {
+          "opening": "40-50 words - Direct answer naming top 3 picks",
+          "authority": "Brief statement about testing methodology",
+          "disclosure": "50-75 words affiliate disclosure in Spanish"
+        },
+        "forbidden": ["Bienvenido...", "¿Buscas...?", "Rhetorical questions"]
+      },
+      {
+        "type": "comparison_table",
+        "h2": "Tabla Comparativa: Casas de Apuestas Deportivas para el Mundial",
+        "word_count": 100,
+        "keyword_targets": ["casas de apuestas deportivas", "mejores casas de apuestas", "casas de apuestas usa"],
+        "columns": ["Casa de Apuestas", "Mejor Para", "Bono Actual", "Calificación"],
+        "brands": 8,
+        "notes": "Mobile-responsive, letter badges, all T&Cs linked"
+      },
+      {
+        "type": "quick_answer",
+        "h2": "Respuesta Rápida",
+        "word_count": 75,
+        "content": "Summary box with top 3 recommendations and key facts"
+      },
+      {
+        "type": "brand_review",
+        "h2": "1. FanDuel - La Mejor Experiencia de Apuestas para el Mundial",
+        "word_count": 350,
+        "keyword_targets": ["fanduel world cup", "fanduel soccer"],
+        "subsections": [
+          {
+            "h3": "Características Principales de FanDuel",
+            "word_count": 150,
+            "content": "Key features for World Cup betting, market variety, odds quality"
+          },
+          {
+            "h3": "Experiencia Móvil de FanDuel",
+            "word_count": 100,
+            "content": "App features, usability, live betting interface"
+          },
+          {
+            "h3": "Ventajas y Desventajas",
+            "word_count": 100,
+            "content": "Pros/cons with App Store citations"
+          }
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "2. BetMGM - Experiencia Premium de Apuestas",
+        "word_count": 350,
+        "keyword_targets": ["betmgm world cup", "betmgm soccer"],
+        "subsections": [
+          {"h3": "Características Principales de BetMGM", "word_count": 150},
+          {"h3": "Experiencia Móvil de BetMGM", "word_count": 100},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "3. DraftKings - El Mejor para Props y Apuestas en Vivo",
+        "word_count": 350,
+        "keyword_targets": ["draftkings world cup", "draftkings soccer"],
+        "subsections": [
+          {"h3": "Características Principales de DraftKings", "word_count": 150},
+          {"h3": "Experiencia Móvil de DraftKings", "word_count": 100},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "4. bet365 - Expertos en Fútbol Internacional",
+        "word_count": 350,
+        "keyword_targets": ["bet365 world cup"],
+        "subsections": [
+          {"h3": "Características Principales de bet365", "word_count": 150},
+          {"h3": "Experiencia Móvil de bet365", "word_count": 100},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "5. Caesars - Mejores Recompensas para Apostadores",
+        "word_count": 300,
+        "keyword_targets": ["caesars world cup"],
+        "subsections": [
+          {"h3": "Características Principales de Caesars", "word_count": 125},
+          {"h3": "Experiencia Móvil de Caesars", "word_count": 75},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "6. Fanatics - Gana FanCash con tus Apuestas",
+        "word_count": 300,
+        "subsections": [
+          {"h3": "Características Principales de Fanatics", "word_count": 125},
+          {"h3": "Experiencia Móvil de Fanatics", "word_count": 75},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "7. theScore BET - Noticias y Apuestas Integradas",
+        "word_count": 300,
+        "subsections": [
+          {"h3": "Características Principales de theScore BET", "word_count": 125},
+          {"h3": "Experiencia Móvil de theScore BET", "word_count": 75},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "brand_review",
+        "h2": "8. BetRivers - Variedad de Mercados de Fútbol",
+        "word_count": 300,
+        "subsections": [
+          {"h3": "Características Principales de BetRivers", "word_count": 125},
+          {"h3": "Experiencia Móvil de BetRivers", "word_count": 75},
+          {"h3": "Ventajas y Desventajas", "word_count": 100}
+        ]
+      },
+      {
+        "type": "guide",
+        "h2": "Cuotas y Favoritos del Mundial 2026",
+        "word_count": 400,
+        "keyword_targets": ["world cup 2026 favorites", "world cup 2026 odds", "2026 world cup winner odds", "favoritos mundial 2026"],
+        "subsections": [
+          {"h3": "Selecciones Favoritas para Ganar", "word_count": 150, "content": "Argentina, France, England, Spain, Brazil analysis"},
+          {"h3": "Cuotas Actuales de los Ganadores", "word_count": 100, "content": "Current futures odds comparison"},
+          {"h3": "Predicciones y Pronósticos", "word_count": 100, "keyword_target": "world cup 2026 predictions"},
+          {"h3": "La Final del Mundial 2026", "word_count": 50, "keyword_target": "final mundial 2026"}
+        ]
+      },
+      {
+        "type": "info",
+        "h2": "Todo Sobre la Copa del Mundo 2026",
+        "word_count": 350,
+        "keyword_targets": ["copa del mundo 2026", "sedes mundial 2026", "grupos mundial 2026", "estadios mundial 2026", "mexico mundial 2026"],
+        "subsections": [
+          {"h3": "Calendario y Fechas Clave", "word_count": 75, "keyword_targets": ["calendario mundial 2026", "fechas mundial 2026"]},
+          {"h3": "Sedes y Estadios", "word_count": 100, "content": "16 cities: 11 USA, 3 Mexico, 2 Canada"},
+          {"h3": "Formato y Grupos", "word_count": 75, "content": "48 teams, 12 groups of 4"},
+          {"h3": "Partidos en México", "word_count": 50, "content": "Mexico City, Guadalajara, Monterrey"}
+        ]
+      },
+      {
+        "type": "guide",
+        "h2": "Cómo Apostar en el Mundial 2026",
+        "word_count": 300,
+        "keyword_targets": ["bet on world cup", "apuestas copa del mundo", "apuestas futbol online", "apuestas deportivas online"],
+        "subsections": [
+          {"h3": "Tipos de Apuestas Disponibles", "word_count": 150, "content": "Futures, match odds, props, live betting, group winners"},
+          {"h3": "Guía para Principiantes", "word_count": 100, "content": "Step-by-step betting process"},
+          {"h3": "Cuotas de Fútbol Explicadas", "word_count": 50}
+        ]
+      },
+      {
+        "type": "payment",
+        "h2": "Métodos de Pago y Retiros",
+        "word_count": 200,
+        "content": "Deposit/withdrawal options, processing times, limits",
+        "methods": ["PayPal", "Venmo", "Bank Transfer", "Play+ Card", "Credit/Debit Cards"]
+      },
+      {
+        "type": "faq",
+        "h2": "Preguntas Frecuentes sobre Apuestas del Mundial 2026",
+        "word_count": 450,
+        "questions": 9,
+        "notes": "9 FAQs targeting keywords from FAQ keyword mapping"
+      },
+      {
+        "type": "responsible_gambling",
+        "h2": "Juego Responsable",
+        "word_count": 175,
+        "content": "Spanish compliance section",
+        "requirements": [
+          "21+ age requirement (18+ MT, NH, RI, WY, DC)",
+          "1-800-522-4700 hotline",
+          "ncpgambling.org/chat resources",
+          "Set limits messaging",
+          "Recognize problem gambling signs"
+        ]
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier_1_required": [
+      {"source": "App Store", "use_for": "App ratings, user feedback quotes", "citation_format": "4.9/5 (1.8M reviews)"},
+      {"source": "Google Play", "use_for": "Android app ratings, user feedback", "citation_format": "Reported in X reviews"},
+      {"source": "Reddit r/sportsbook", "use_for": "User experiences, withdrawal times", "citation_format": "Reddit users report [finding] (X threads)"}
+    ],
+    "tier_2_verification": [
+      "FanDuel.com - bonus terms, state availability",
+      "BetMGM.com - bonus terms, MGM Rewards details",
+      "DraftKings.com - props features, bonus terms",
+      "FIFA.com - tournament dates, format, venues"
+    ],
+    "forbidden": [
+      "DO NOT cite affiliate sites for pros/cons",
+      "DO NOT use unverified odds sources",
+      "DO NOT make predictions without odds backing"
+    ]
+  },
+  "meta_keywords": [
+    "mundial 2026", "copa del mundo 2026", "apuestas mundial 2026",
+    "mejores casas de apuestas", "casas de apuestas deportivas",
+    "apuestas deportivas usa", "world cup 2026 odds", "world cup 2026 favorites",
+    "casas de apuestas usa", "grupos mundial 2026", "sedes mundial 2026",
+    "fanduel soccer", "draftkings soccer", "betmgm world cup", "bet365 world cup"
+  ],
+  "internal_links": [
+    {"anchor": "Reseña completa de FanDuel", "url": "/es/apuestas/casas-de-apuestas/fanduel.htm", "section": "FanDuel review"},
+    {"anchor": "Reseña completa de BetMGM", "url": "/es/apuestas/casas-de-apuestas/betmgm.htm", "section": "BetMGM review"},
+    {"anchor": "Reseña completa de DraftKings", "url": "/es/apuestas/casas-de-apuestas/draftkings.htm", "section": "DraftKings review"},
+    {"anchor": "mejores apps de apuestas deportivas", "url": "/es/apuestas/mejores-apps-apuestas.htm", "section": "Mobile sections"},
+    {"anchor": "apuestas de fútbol", "url": "/es/apuestas/futbol/index.htm", "section": "Betting guide"},
+    {"anchor": "apuestas fase de grupos", "url": "/es/apuestas/futbol/mundial-2026/fase-grupos.htm", "section": "Groups section"},
+    {"anchor": "apuestas final del mundial", "url": "/es/apuestas/futbol/mundial-2026/final.htm", "section": "Favorites section"},
+    {"anchor": "calculadora de apuestas", "url": "/es/apuestas/calculadoras/index.htm", "section": "Betting guide"},
+    {"anchor": "bonos de bienvenida", "url": "/es/apuestas/bonos/index.htm", "section": "Comparison table"},
+    {"anchor": "estados donde es legal apostar", "url": "/es/apuestas/estados-legales/index.htm", "section": "FAQ section"},
+    {"anchor": "guía completa de apuestas", "url": "/es/apuestas/guia-apuestas.htm", "section": "How to bet"},
+    {"anchor": "apuestas en vivo", "url": "/es/apuestas/apuestas-en-vivo.htm", "section": "Live betting mention"}
+  ],
+  "calculator_links": [
+    {"name": "Calculadora de Parlay", "url": "/es/apuestas/calculadoras/parlay.htm"},
+    {"name": "Calculadora de Cuotas", "url": "/es/apuestas/calculadoras/cuotas.htm"},
+    {"name": "Calculadora de Ganancias", "url": "/es/apuestas/calculadoras/ganancias.htm"}
+  ],
+  "compliance": {
+    "age": "21+ (18+ en MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "chat": "ncpgambling.org/chat",
+    "language": "Spanish (ustedes form)",
+    "market": "USA only - NOT European or LatAm sportsbooks"
+  },
+  "metadata": {
+    "created": "2025-12-11",
+    "updated": "2025-12-11",
+    "phase": 2,
+    "version": "2.0",
+    "word_count_breakdown": {
+      "intro": 150,
+      "comparison_table": 100,
+      "quick_answer": 75,
+      "brand_reviews": 2800,
+      "favorites_odds": 400,
+      "event_info": 350,
+      "betting_guide": 300,
+      "payment_methods": 200,
+      "faq": 450,
+      "responsible_gambling": 175,
+      "total": 5000
+    }
+  }
+}
