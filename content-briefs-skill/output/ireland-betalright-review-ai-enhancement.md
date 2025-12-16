@@ -798,9 +798,9 @@ The following internal links should be integrated into the content:
 ```
 1. "betting sites Ireland" → /sport/betting/ireland/index.htm
 2. "GAA betting" → /sport/betting/ireland/gaa-betting.htm
-3. "Paddy Power review" → /sport/betting/ireland/paddy-power-review.htm
-4. "BoyleSports review" → /sport/betting/ireland/boylesports-review.htm
-5. "Bet365 Ireland review" → /sport/betting/ireland/bet365-review.htm
+3. "Paddy Power review" → /sport/betting/ireland/lunubet-review.htm
+4. "BoyleSports review" → /sport/betting/ireland/betalright-review.htm
+5. "Bet365 Ireland review" → /sport/betting/ireland/22bet-review.htm
 6. "sports betting Ireland" → /sport/betting/ireland/sports-betting-guide.htm
 7. "football betting Ireland" → /sport/betting/ireland/football-betting.htm
 8. "live betting Ireland" → /sport/betting/ireland/live-betting-guide.htm

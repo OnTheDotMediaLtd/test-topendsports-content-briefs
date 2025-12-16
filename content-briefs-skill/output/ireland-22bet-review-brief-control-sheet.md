@@ -449,9 +449,9 @@
 | # | Anchor Text | Target URL | Context Section |
 |---|-------------|------------|-----------------|
 | 1 | best betting sites Ireland | /sport/betting/ireland/index.htm | Introduction |
-| 2 | Bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Competitor comparison |
-| 3 | Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Competitor comparison |
-| 4 | BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Competitor comparison |
+| 2 | Bet365 Ireland review | /sport/betting/ireland/22bet-review.htm | Competitor comparison |
+| 3 | Paddy Power review | /sport/betting/ireland/lunubet-review.htm | Competitor comparison |
+| 4 | BoyleSports review | /sport/betting/ireland/betalright-review.htm | Competitor comparison |
 | 5 | betting calculator | /sport/betting-tools/odds-calculator.htm-calculator.htm | Tools/bonus section |
 | 6 | accumulator calculator | /sport/betting/calculators/accumulator-calculator.htm | Bonus wagering |
 | 7 | Irish betting sites comparison | /sport/betting/ireland/comparison.htm | Introduction |

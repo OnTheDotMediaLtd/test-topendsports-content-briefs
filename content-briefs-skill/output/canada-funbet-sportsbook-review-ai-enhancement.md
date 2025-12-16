@@ -1452,8 +1452,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- In Sports Coverage Section -->
 <p>Maximize your sports betting strategy with tools:</p>
 <ul style="line-height: 1.8;">
-    <li><a href="/sport/betting-tools/parlay-calculator.htm.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Parlay calculator</a> - Calculate multi-leg bet payouts</li>
-    <li><a href="/sport/betting-tools/odds-calculator.htm.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Odds calculator</a> - Convert between decimal and American odds</li>
+    <li><a href="/sport/betting-tools/parlay-calculator.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Parlay calculator</a> - Calculate multi-leg bet payouts</li>
+    <li><a href="/sport/betting-tools/odds-calculator.htm" style="color: #E91E63; text-decoration: none; font-weight: 600;">Odds calculator</a> - Convert between decimal and American odds</li>
 </ul>
 
 <!-- In Sports-Specific Sections -->

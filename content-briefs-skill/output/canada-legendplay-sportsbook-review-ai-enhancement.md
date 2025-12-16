@@ -1902,10 +1902,10 @@ function toggleFAQ(element) {
 ### ✅ Internal Links (12 required)
 1. best sportsbooks Canada - /sport/betting/canada/best-betting-sites.htm
 2. sports betting Ontario - /sport/betting/canada/ontario-betting.htm
-3. Bet365 Canada review - /sport/betting/canada/bet365-review.htm
+3. Bet365 Canada review - /sport/betting/canada/treasurespins-review.htm
 4. NHL betting guide - /sport/betting/nhl-betting.htm
-5. parlay calculator - /sport/betting-tools/parlay-calculator.htm.htm
-6. odds calculator - /sport/betting-tools/odds-calculator.htm.htm
+5. parlay calculator - /sport/betting-tools/parlay-calculator.htm
+6. odds calculator - /sport/betting-tools/odds-calculator.htm
 7. Canadian betting apps - /sport/betting/canada/best-betting-apps.htm
 8. responsible gambling Canada - /sport/betting/responsible-gambling.htm
 9. how to withdraw from sportsbooks - /sport/betting/guides/how-to-withdraw.htm

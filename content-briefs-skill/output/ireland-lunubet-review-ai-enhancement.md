@@ -690,9 +690,9 @@ Place throughout relevant sections:
 <a href="/sport/betting/ireland/" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">sports betting in Ireland</a>
 
 <!-- Comparison Section -->
-<a href="/sport/betting/ireland/bet365-review.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">Bet365 Ireland review</a>
-<a href="/sport/betting/ireland/boylesports-review.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">BoyleSports review</a>
-<a href="/sport/betting/ireland/paddypower-review.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">Paddy Power review</a>
+<a href="/sport/betting/ireland/22bet-review.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">Bet365 Ireland review</a>
+<a href="/sport/betting/ireland/betalright-review.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">BoyleSports review</a>
+<a href="/sport/betting/ireland/lunubet-review.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">Paddy Power review</a>
 
 <!-- Sports Markets Section -->
 <a href="/sport/betting/odds.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">betting odds explained</a>

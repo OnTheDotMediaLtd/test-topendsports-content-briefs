@@ -381,9 +381,9 @@ Festival Play is a **niche Curacao-licensed operator** targeting Irish players w
 3. **"sports betting bonuses Ireland"** → `/sport/betting/ireland/bonuses.htm`
 
 ### Competitor Reviews (3)
-4. **"Bet365 Ireland review"** → `/sport/betting/ireland/bet365-review.htm`
-5. **"Paddy Power review"** → `/sport/betting/ireland/paddy-power-review.htm`
-6. **"BoyleSports review"** → `/sport/betting/ireland/boylesports-review.htm`
+4. **"Bet365 Ireland review"** → `/sport/betting/ireland/22bet-review.htm`
+5. **"Paddy Power review"** → `/sport/betting/ireland/lunubet-review.htm`
+6. **"BoyleSports review"** → `/sport/betting/ireland/betalright-review.htm`
 
 ### Sport-Specific (4)
 7. **"football betting Ireland"** → `/sport/betting/ireland/football-betting.htm`

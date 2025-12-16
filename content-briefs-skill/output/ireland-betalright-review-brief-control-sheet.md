@@ -279,9 +279,9 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 |-------------|-----------|---------|
 | betting sites Ireland | /sport/betting/ireland/index.htm | Ireland landscape |
 | GAA betting | /sport/betting/ireland/gaa-betting.htm | GAA coverage |
-| Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Competitor comparison |
-| BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Competitor comparison |
-| Bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Competitor comparison |
+| Paddy Power review | /sport/betting/ireland/lunubet-review.htm | Competitor comparison |
+| BoyleSports review | /sport/betting/ireland/betalright-review.htm | Competitor comparison |
+| Bet365 Ireland review | /sport/betting/ireland/22bet-review.htm | Competitor comparison |
 | sports betting Ireland | /sport/betting/ireland/sports-betting-guide.htm | General guide |
 | football betting Ireland | /sport/betting/ireland/football-betting.htm | Sport-specific |
 | live betting Ireland | /sport/betting/ireland/live-betting-guide.htm | Betting type |

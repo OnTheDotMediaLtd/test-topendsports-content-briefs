@@ -369,11 +369,11 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 **Internal Links:**
 - Anchor: "Paddy Power review"
-- URL: `/sport/betting/ireland/paddypower-review.htm`
+- URL: `/sport/betting/ireland/lunubet-review.htm`
 - Anchor: "Boylesports review"
-- URL: `/sport/betting/ireland/boylesports-review.htm`
+- URL: `/sport/betting/ireland/betalright-review.htm`
 - Anchor: "Bet365 Ireland review"
-- URL: `/sport/betting/ireland/bet365-review.htm`
+- URL: `/sport/betting/ireland/22bet-review.htm`
 
 ---
 

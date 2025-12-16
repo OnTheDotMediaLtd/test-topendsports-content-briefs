@@ -193,11 +193,11 @@
 3. "GAA betting guide" → `/sport/betting/gaa/betting-guide.htm`
 4. "live betting strategies" → `/sport/betting/guides/live-betting.htm`
 5. "sports betting bonus guide" → `/sport/betting/guides/bonuses.htm`
-6. "betting odds calculator" → `/sport/betting-tools/odds-calculator.htm.htm`
-7. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm.htm`
+6. "betting odds calculator" → `/sport/betting-tools/odds-calculator.htm`
+7. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm`
 8. "responsible gambling Ireland" → `/sport/betting/ireland/responsible-gambling.htm`
-9. "bet365 Ireland review" → `/sport/betting/ireland/bet365-review.htm`
-10. "Paddy Power review" → `/sport/betting/ireland/paddy-power-review.htm`
+9. "bet365 Ireland review" → `/sport/betting/ireland/22bet-review.htm`
+10. "Paddy Power review" → `/sport/betting/ireland/lunubet-review.htm`
 11. "BoyleSports review" → `/sport/betting/ireland/boyle-sports-review.htm`
 12. "how to withdraw from betting sites" → `/sport/betting/guides/withdrawals.htm`
 

@@ -176,7 +176,7 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 - Processing times for deposits (instant vs 24-48 hours)
 - Overview linking to banking section below
 
-**Internal link:** [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm), [odds calculator](/sport/betting-tools/odds-calculator.htm.htm)
+**Internal link:** [parlay calculator](/sport/betting-tools/parlay-calculator.htm), [odds calculator](/sport/betting-tools/odds-calculator.htm)
 
 ---
 
@@ -365,7 +365,7 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 - **Banking options:** Comparison of payment methods
 - **Verdict:** Wyns' advantages vs Sports Interaction's reliability
 
-**Internal link:** [Sports Interaction review](/sport/betting/canada/sports-interaction-review.htm)
+**Internal link:** [Sports Interaction review](/sport/betting/canada/royalistplay-review.htm)
 
 #### H3: Wyns vs Betway Canada (120 words)
 

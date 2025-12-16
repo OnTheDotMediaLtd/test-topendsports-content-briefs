@@ -380,7 +380,7 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
   - Legendplay better for: [X type of bettor]
   - Bet365 better for: [Y type of bettor]
 
-**Internal Link:** [Bet365 Canada review](/sport/betting/canada/bet365-review.htm)
+**Internal Link:** [Bet365 Canada review](/sport/betting/canada/treasurespins-review.htm)
 
 #### H3: Legendplay vs Sports Interaction (200 words)
 **Keyword:** best sportsbooks canada (400/mo)
@@ -410,8 +410,8 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 - How to use these tools with Legendplay bets (step-by-step)
 
 **Internal Links:**
-- [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm)
-- [odds calculator](/sport/betting-tools/odds-calculator.htm.htm)
+- [parlay calculator](/sport/betting-tools/parlay-calculator.htm)
+- [odds calculator](/sport/betting-tools/odds-calculator.htm)
 
 ---
 
@@ -502,7 +502,7 @@ Each FAQ should:
 - Bet365 advantages
 - Recommendation for which type of bettor should choose each
 
-**Internal Link:** [Bet365 Canada review](/sport/betting/canada/bet365-review.htm)
+**Internal Link:** [Bet365 Canada review](/sport/betting/canada/treasurespins-review.htm)
 
 ---
 

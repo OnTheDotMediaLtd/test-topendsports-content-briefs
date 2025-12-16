@@ -914,7 +914,7 @@ The following internal links should be placed naturally throughout the content:
 - [Treasure Spins Review](/sport/betting/canada/treasure-spins-review.htm) - In comparison
 - [Royalistplay Review](/sport/betting/canada/royalistplay-review.htm) - In comparison
 - [Lucky7even Review](/sport/betting/canada/lucky7even-review.htm) - In comparison
-- [Parlay Calculator](/sport/betting-tools/parlay-calculator.htm.htm) - In sports markets section
+- [Parlay Calculator](/sport/betting-tools/parlay-calculator.htm) - In sports markets section
 - [Odds Converter](/sport/betting-tools/odds-calculator.htm-converter.htm) - In sports markets section
 - [Betting Odds Explained](/sport/betting/guides/odds-explained.htm) - In FAQ/education
 - [How to Bet on NHL](/sport/betting/guides/nhl-betting.htm) - In NHL section

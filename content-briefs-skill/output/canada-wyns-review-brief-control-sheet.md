@@ -176,7 +176,7 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 **Competitor Reviews:**
 1. "best sports betting sites in Canada" → `/sport/betting/canada/best-sites.htm`
 2. "Bet99 review" → `/sport/betting/canada/bet99-review.htm`
-3. "Sports Interaction review" → `/sport/betting/canada/sports-interaction-review.htm`
+3. "Sports Interaction review" → `/sport/betting/canada/royalistplay-review.htm`
 4. "Betway Canada review" → `/sport/betting/canada/betway-review.htm`
 
 **Provincial/Market Context:**
@@ -189,8 +189,8 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 9. "how to bet on sports in Canada" → `/sport/betting/canada/how-to-bet.htm`
 
 **Tools:**
-10. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm.htm`
-11. "odds calculator" → `/sport/betting-tools/odds-calculator.htm.htm`
+10. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm`
+11. "odds calculator" → `/sport/betting-tools/odds-calculator.htm`
 
 **Compliance:**
 12. "responsible gambling resources" → `/sport/betting/responsible-gambling.htm`

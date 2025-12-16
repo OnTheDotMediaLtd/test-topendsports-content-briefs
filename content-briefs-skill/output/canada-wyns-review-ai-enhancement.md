@@ -1088,12 +1088,12 @@ Place these internal links naturally throughout content sections:
 
 - [best sports betting sites in Canada](/sport/betting/canada/best-sites.htm) - Introduction/Comparison
 - [Bet99 review](/sport/betting/canada/bet99-review.htm) - Comparison section
-- [Sports Interaction review](/sport/betting/canada/sports-interaction-review.htm) - Comparison section
+- [Sports Interaction review](/sport/betting/canada/royalistplay-review.htm) - Comparison section
 - [Ontario sports betting guide](/sport/betting/canada/ontario.htm) - Ontario section
 - [Canadian online casinos](/sport/betting/canada/online-casinos.htm) - Casino features
 - [sports betting odds explained](/sport/betting/guides/odds-explained.htm) - Betting markets section
-- [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm) - Feature analysis
-- [odds calculator](/sport/betting-tools/odds-calculator.htm.htm) - Feature analysis
+- [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Feature analysis
+- [odds calculator](/sport/betting-tools/odds-calculator.htm) - Feature analysis
 - [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
 - [how to bet on sports in Canada](/sport/betting/canada/how-to-bet.htm) - Ontario/Introduction
 - [Betway Canada review](/sport/betting/canada/betway-review.htm) - Comparison section

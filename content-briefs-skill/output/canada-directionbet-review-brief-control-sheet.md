@@ -234,8 +234,8 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 | Anchor Text | Target URL | Context |
 |-------------|------------|---------|
 | best betting sites in Canada | /sport/betting/canada/ | Comparison to top operators |
-| Sports Interaction review | /sport/betting/canada/sports-interaction-review.htm | Competitor comparison |
-| bet365 Canada review | /sport/betting/canada/bet365-review.htm | Competitor comparison |
+| Sports Interaction review | /sport/betting/canada/royalistplay-review.htm | Competitor comparison |
+| bet365 Canada review | /sport/betting/canada/treasurespins-review.htm | Competitor comparison |
 | Ontario betting sites | /sport/betting/canada/ontario/ | Provincial licensing |
 | sports betting bonus guide | /sport/betting/bonuses/ | Bonus comparison |
 | how to withdraw from online sportsbooks | /sport/betting/how-to/withdraw/ | Withdrawal process |

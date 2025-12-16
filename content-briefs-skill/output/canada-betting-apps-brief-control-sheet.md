@@ -160,8 +160,8 @@
 ## INTERNAL LINKS (12 Total)
 
 1. "[Canada sports betting sites](/sport/betting/canada/betting-sites.htm)" → Parent hub
-2. "[parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm)" → Calculator tool
-3. "[odds calculator](/sport/betting-tools/odds-calculator.htm.htm)" → Calculator tool
+2. "[parlay calculator](/sport/betting-tools/parlay-calculator.htm)" → Calculator tool
+3. "[odds calculator](/sport/betting-tools/odds-calculator.htm)" → Calculator tool
 4. "[NHL betting in Canada](/sport/betting/canada/nhl.htm)" → Sport-specific
 5. "[NFL betting apps](/sport/betting/nfl/apps.htm)" → Related apps
 6. "[soccer betting apps Canada](/sport/betting/canada/soccer-apps.htm)" → Sport-specific

@@ -540,9 +540,9 @@ Map ALL 13 secondary keywords to specific sections:
 | Live Streaming | ✅ | ✅ | ✅ | ✅ |
 
 **Internal Links:**
-- [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
-- [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm)
-- [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)
+- [Bet365 Ireland review](/sport/betting/ireland/22bet-review.htm)
+- [Paddy Power review](/sport/betting/ireland/lunubet-review.htm)
+- [BoyleSports review](/sport/betting/ireland/betalright-review.htm)
 
 ---
 
@@ -670,7 +670,7 @@ The minimum deposit at 22bet is **€1** – the lowest in Ireland. This applies
 **Answer (75 words):**
 It depends on priorities. **22bet advantages:** Higher bonus (€122 vs €100), faster withdrawals (15 min vs 1-3 days), more payment options (50+ vs 15), crypto support. **Bet365 advantages:** Irish license, better app (4.7/5 vs 4.2/5), stronger GAA coverage. 22bet suits players valuing fast payouts and eSports; Bet365 is better for comprehensive Irish sports and regulatory trust. Overall, Bet365 leads but 22bet excels in specific areas.
 
-**Internal Link:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
+**Internal Link:** [Bet365 Ireland review](/sport/betting/ireland/22bet-review.htm)
 
 ---
 

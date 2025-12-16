@@ -182,8 +182,8 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 7. **Festival Play Sport Review** → /sport/betting/canada/festivalplay-review.htm
 
 ### Calculator Tools
-8. **Parlay Calculator** → /sport/betting-tools/parlay-calculator.htm.htm
-9. **Odds Calculator** → /sport/betting-tools/odds-calculator.htm.htm
+8. **Parlay Calculator** → /sport/betting-tools/parlay-calculator.htm
+9. **Odds Calculator** → /sport/betting-tools/odds-calculator.htm
 
 ### Educational Content
 10. **Sports Betting Odds Explained** → /sport/betting/guides/odds-explained.htm

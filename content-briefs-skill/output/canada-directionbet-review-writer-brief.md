@@ -447,8 +447,8 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - Clear recommendation: "Sports Interaction for mainstream bettors, DirectionBet for crypto users and casino+sports"
 
 **Internal Links:**
-- Anchor: "Sports Interaction review" → /sport/betting/canada/sports-interaction-review.htm
-- Anchor: "bet365 Canada review" → /sport/betting/canada/bet365-review.htm
+- Anchor: "Sports Interaction review" → /sport/betting/canada/royalistplay-review.htm
+- Anchor: "bet365 Canada review" → /sport/betting/canada/treasurespins-review.htm
 
 **Keywords:** best sportsbook canada, sportsbook canada, sports interaction review
 

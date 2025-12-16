@@ -340,7 +340,7 @@ meet our strict standards for safety and user experience in the Ireland market.]
 - **Choose Paddy Power if:** You want best GAA coverage, mobile app, Irish brand trust
 - **Choose Betalright if:** You need specific payment methods, prefer casino+sports combo
 
-**Internal link:** "Paddy Power review" → `/sport/betting/ireland/paddy-power-review.htm`
+**Internal link:** "Paddy Power review" → `/sport/betting/ireland/lunubet-review.htm`
 
 #### H3: Betalright vs BoyleSports (120-150 words)
 
@@ -355,7 +355,7 @@ meet our strict standards for safety and user experience in the Ireland market.]
 - **Choose BoyleSports if:** GAA betting is priority, prefer Irish-regulated operator
 - **Choose Betalright if:** Need payment flexibility, bet on international sports
 
-**Internal link:** "BoyleSports review" → `/sport/betting/ireland/boylesports-review.htm`
+**Internal link:** "BoyleSports review" → `/sport/betting/ireland/betalright-review.htm`
 
 #### H3: Betalright vs Bet365 (120-150 words)
 
@@ -370,7 +370,7 @@ meet our strict standards for safety and user experience in the Ireland market.]
 - **Choose Bet365 if:** Live streaming important, want deepest markets, prefer established brand
 - **Choose Betalright if:** Need specific payment methods, want casino+sports integration
 
-**Internal link:** "Bet365 Ireland review" → `/sport/betting/ireland/bet365-review.htm`
+**Internal link:** "Bet365 Ireland review" → `/sport/betting/ireland/22bet-review.htm`
 
 ---
 
@@ -647,17 +647,17 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 **2. Paddy Power**
 - **Why featured:** Ireland's #1 brand (272K search volume), essential comparison
 - **Comparison points:** Bonus, mobile app, GAA coverage, brand trust
-- **Internal link:** `/sport/betting/ireland/paddy-power-review.htm`
+- **Internal link:** `/sport/betting/ireland/lunubet-review.htm`
 
 **3. BoyleSports**
 - **Why featured:** Ireland's most successful Irish-owned bookmaker, GAA specialist
 - **Comparison points:** GAA depth, Irish licensing, payment methods, support
-- **Internal link:** `/sport/betting/ireland/boylesports-review.htm`
+- **Internal link:** `/sport/betting/ireland/betalright-review.htm`
 
 **4. Bet365**
 - **Why featured:** Global leader with strong Ireland presence, live streaming
 - **Comparison points:** Live streaming, market depth, mobile app, withdrawal speed
-- **Internal link:** `/sport/betting/ireland/bet365-review.htm`
+- **Internal link:** `/sport/betting/ireland/22bet-review.htm`
 
 ---
 

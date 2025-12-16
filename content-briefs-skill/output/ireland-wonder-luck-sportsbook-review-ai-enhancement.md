@@ -903,9 +903,9 @@ document.getElementById('betAmount').addEventListener('keypress', function(e) {
 2. [new betting sites Ireland](/sport/betting/ireland/betting-apps.htm) - Emerging operators
 3. [free bets Ireland](/sport/betting/ireland/free-bets.htm) - Bonus comparison
 4. [Lunubet review](/sport/betting/ireland/lunubet-review.htm) - Similar operator
-5. [Bet365 review](/sport/betting/ireland/bet365-review.htm) - Market leader
-6. [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm) - Irish comparison
-7. [BoyleSports review](/sport/betting/ireland/boylesports-review.htm) - Irish-owned
+5. [Bet365 review](/sport/betting/ireland/22bet-review.htm) - Market leader
+6. [Paddy Power review](/sport/betting/ireland/lunubet-review.htm) - Irish comparison
+7. [BoyleSports review](/sport/betting/ireland/betalright-review.htm) - Irish-owned
 8. [betting apps Ireland](/sport/betting/ireland/betting-apps.htm) - Mobile focus
 9. [GAA betting](/sport/betting/gaelic-games.htm) - Irish sports
 10. [horse racing betting Ireland](/sport/betting/horse-racing.htm) - Major sport

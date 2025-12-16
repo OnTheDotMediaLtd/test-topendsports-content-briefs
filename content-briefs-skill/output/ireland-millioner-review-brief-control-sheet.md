@@ -324,13 +324,13 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 1. **"best betting sites ireland"** → `/sport/betting/ireland/index.htm`
    - Main Ireland betting hub - primary internal link
 
-2. **"Paddy Power review"** → `/sport/betting/ireland/paddypower-review.htm`
+2. **"Paddy Power review"** → `/sport/betting/ireland/lunubet-review.htm`
    - Comparison with market leader
 
-3. **"Boylesports review"** → `/sport/betting/ireland/boylesports-review.htm`
+3. **"Boylesports review"** → `/sport/betting/ireland/betalright-review.htm`
    - Comparison with #2 brand
 
-4. **"Bet365 Ireland review"** → `/sport/betting/ireland/bet365-review.htm`
+4. **"Bet365 Ireland review"** → `/sport/betting/ireland/22bet-review.htm`
    - International competitor context
 
 5. **"sports betting in Ireland"** → `/sport/betting/ireland/`

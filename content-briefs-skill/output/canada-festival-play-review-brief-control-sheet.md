@@ -325,7 +325,7 @@
 6. "Lucky7even Review" → `/sport/betting/canada/lucky7even-review.htm`
 
 ### Calculator Tools
-7. "Parlay Calculator" → `/sport/betting-tools/parlay-calculator.htm.htm`
+7. "Parlay Calculator" → `/sport/betting-tools/parlay-calculator.htm`
 8. "Odds Converter" → `/sport/betting-tools/odds-calculator.htm-converter.htm`
 
 ### Educational Guides

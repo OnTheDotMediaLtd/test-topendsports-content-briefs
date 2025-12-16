@@ -481,7 +481,7 @@ Cite specific Trustpilot reviews:
 
 **Verdict:** "Bet365 wins for sports bettors (live streaming, GAA depth). Rabona wins for casino players (3,000+ games vs Bet365's 500+)."
 
-**Internal link:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
+**Internal link:** [Bet365 Ireland review](/sport/betting/ireland/22bet-review.htm)
 
 #### H3: Rabona vs Paddy Power
 **Word Count:** 100-125 words
@@ -497,7 +497,7 @@ Cite specific Trustpilot reviews:
 
 **Verdict:** "Paddy Power is better for GAA enthusiasts and Irish racing fans. Rabona offers more casino variety and alternative payment methods (crypto)."
 
-**Internal link:** [Paddy Power Ireland](/sport/betting/ireland/paddypower-review.htm)
+**Internal link:** [Paddy Power Ireland](/sport/betting/ireland/lunubet-review.htm)
 
 #### H3: Rabona vs BoyleSports
 **Word Count:** 75-100 words
@@ -510,7 +510,7 @@ Cite specific Trustpilot reviews:
 - BoyleSports has better local customer support
 - BoyleSports understands Irish market better (GAA, racing)
 
-**Internal link:** [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)
+**Internal link:** [BoyleSports review](/sport/betting/ireland/betalright-review.htm)
 
 #### H3: Where Rabona Wins & Loses
 **Word Count:** 50-75 words

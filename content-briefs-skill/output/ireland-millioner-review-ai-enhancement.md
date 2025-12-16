@@ -1052,17 +1052,17 @@ window.addEventListener('DOMContentLoaded', function() {
 
   <ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
     <li>
-      <a href="/sport/betting/ireland/paddypower-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/lunubet-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Paddy Power Review
       </a>
     </li>
     <li>
-      <a href="/sport/betting/ireland/boylesports-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/betalright-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Boylesports Review
       </a>
     </li>
     <li>
-      <a href="/sport/betting/ireland/bet365-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/22bet-review.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Bet365 Ireland Review
       </a>
     </li>
