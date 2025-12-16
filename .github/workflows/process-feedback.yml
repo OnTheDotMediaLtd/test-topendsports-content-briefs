@@ -1,0 +1,67 @@
+name: Process Weekly Feedback
+
+on:
+  schedule:
+    - cron: '0 9 * * MON'  # Every Monday 9am UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  process-feedback:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install jsonschema pyyaml
+
+      - name: Check for pending feedback
+        id: check
+        run: |
+          if [ -d "feedback/submitted" ] && [ "$(ls -A feedback/submitted)" ]; then
+            echo "has_feedback=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_feedback=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Process submitted feedback
+        if: steps.check.outputs.has_feedback == 'true'
+        run: |
+          python scripts/ingest_feedback.py
+
+      - name: Update lessons learned
+        if: steps.check.outputs.has_feedback == 'true'
+        run: |
+          if [ -f "scripts/update_lessons.py" ]; then
+            python scripts/update_lessons.py
+          fi
+
+      - name: Commit changes
+        if: steps.check.outputs.has_feedback == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add feedback/ references/
+          git diff --staged --quiet || git commit -m "chore: process weekly feedback [automated]"
+
+      - name: Push changes
+        if: steps.check.outputs.has_feedback == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      - name: Create summary
+        if: steps.check.outputs.has_feedback == 'true'
+        run: |
+          echo "### Feedback Processing Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- Processed: $(ls feedback/validated/ 2>/dev/null | wc -l) items" >> $GITHUB_STEP_SUMMARY
+          echo "- Applied: $(ls feedback/applied/ 2>/dev/null | wc -l) items" >> $GITHUB_STEP_SUMMARY
