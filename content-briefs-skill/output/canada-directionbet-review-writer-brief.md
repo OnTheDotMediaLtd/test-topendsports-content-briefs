@@ -798,7 +798,9 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 ### Age & Legal
 - **Age Requirement:** Varies by province (typically 19+, 18+ in AB, MB, QC)
-- **Hotline:** ConnexOntario 1-866-531-2600
+- **Hotlines:** Provincial helplines vary by location
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
 - **Affiliate Disclosure:** Required in introduction (50-75 words, prominent placement)
 - **Provincial Licensing:** Verify DirectionBet licensing status in each province
 
@@ -819,7 +821,10 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - Provincial availability disclosure (where DirectionBet legal vs. not)
 - Ontario iGaming licensing status
 - Provincial age requirements by region (table format helpful)
-- Canadian gambling hotlines (ConnexOntario 1-866-531-2600)
+- Canadian gambling resources:
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - Provincial helplines vary by location
 - Currency: CAD primary (USD acceptable for context)
 
 ---

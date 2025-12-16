@@ -160,8 +160,8 @@
 ## INTERNAL LINKS (12 Total)
 
 1. "[Canada sports betting sites](/sport/betting/canada/betting-sites.htm)" → Parent hub
-2. "[parlay calculator](/sport/betting/calculators/parlay.htm)" → Calculator tool
-3. "[odds calculator](/sport/betting/calculators/odds.htm)" → Calculator tool
+2. "[parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm)" → Calculator tool
+3. "[odds calculator](/sport/betting-tools/odds-calculator.htm.htm)" → Calculator tool
 4. "[NHL betting in Canada](/sport/betting/canada/nhl.htm)" → Sport-specific
 5. "[NFL betting apps](/sport/betting/nfl/apps.htm)" → Related apps
 6. "[soccer betting apps Canada](/sport/betting/canada/soccer-apps.htm)" → Sport-specific
@@ -177,7 +177,8 @@
 ## COMPLIANCE (CANADA-SPECIFIC)
 
 - **Age Requirement:** 19+ (18+ in Alberta, Manitoba, Quebec)
-- **Gambling Hotline:** 1-866-531-2600 (ConnexOntario)
+- **Gambling Helplines:** Provincial helplines (AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140)
+- **National Resource:** Responsible Gambling Council (www.responsiblegambling.org)
 - **Affiliate Disclosure:** Required in introduction
 - **Offshore Disclaimer:** Note that offshore sites operate outside Canadian jurisdiction
 - **Responsible Gambling:** Section required at bottom
@@ -199,7 +200,7 @@
 ### TIER 1 (Must Have)
 - App Store reviews and ratings
 - Google Play Store reviews and ratings
-- Reddit: r/sportsbook, r/AskCanada, r/ontario
+- Reddit: r/sportsbook, r/AskCanada, r/canada
 - Brand official websites (bonus T&Cs)
 
 ### TIER 2 (Supporting)

@@ -14,7 +14,7 @@
 - **Word Count Target:** 3,500 words
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
-- **Compliance:** 19+ (18+ in AB, MB, QC) | Hotline: 1-866-531-2600 (ConnexOntario)
+- **Compliance:** 19+ (18+ in AB, MB, QC) | Resources: Responsible Gambling Council, CCSA
 
 ---
 
@@ -452,9 +452,10 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 - Cover:
   - **Lizaro's Tools:** Deposit limits, loss limits, session time limits, self-exclusion, reality checks, cool-off periods
   - **Canadian Resources:**
-    - Responsible Gambling Council (responsiblegambling.org)
-    - ConnexOntario: 1-866-531-2600
-  - **Provincial Resources:** Quebec (Aide aux Joueurs), Ontario (ConnexOntario), BC (GameSense)
+    - Responsible Gambling Council: https://www.responsiblegambling.org/
+    - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+    - Provincial helplines vary by location
+  - **Provincial Resources:** Quebec (Aide aux Joueurs), BC (GameSense), Manitoba, Alberta
   - **Problem Gambling Signs:** Brief mention of warning signs
   - **Self-Exclusion Options:** Provincial self-exclusion programs
   - **Age Verification Importance:** Preventing underage gambling
@@ -544,7 +545,7 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 
 **Must Include:**
 - [ ] Age requirement clearly stated: **19+ (18+ in AB, MB, QC)**
-- [ ] Problem gambling hotline: **1-866-531-2600 (ConnexOntario)**
+- [ ] Pan-Canadian resources: **Responsible Gambling Council and CCSA**
 - [ ] Responsible gambling organization: **Responsible Gambling Council (responsiblegambling.org)**
 - [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Last Updated badge after H1 (Phase 3 HTML component)

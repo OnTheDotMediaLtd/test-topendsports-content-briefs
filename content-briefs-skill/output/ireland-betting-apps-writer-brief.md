@@ -244,7 +244,7 @@ Condensed further:
 - Push notification promotions
 - How to claim bonuses in-app (mobile-specific process)
 - App vs desktop bonus differences
-- Link to comprehensive free bets guide: /sport/betting/ireland/free-bets/
+- Link to comprehensive free bets guide: /sport/betting/ireland/free-bets.htm
 - Link to all betting offers: /sport/betting/ireland/betting-offers/
 
 ---
@@ -410,7 +410,7 @@ Condensed further:
 5. **"Do betting apps offer exclusive bonuses in Ireland?"**
    - Explain app-exclusive promotions
    - Push notification bonuses
-   - Link to /sport/betting/ireland/free-bets/ for full free bet comparison
+   - Link to /sport/betting/ireland/free-bets.htm for full free bet comparison
 
 6. **"What's the difference between Irish betting apps and UK apps?"** ← ireland bookmakers (100/mo)
    - Licensing differences
@@ -508,10 +508,10 @@ Condensed further:
 ## INTERNAL LINKS (12 minimum required)
 
 1. "best betting sites ireland" → /sport/betting/ireland/ (Introduction)
-2. "free bets ireland" → /sport/betting/ireland/free-bets/ (App Bonuses section - link to comprehensive guide)
+2. "free bets ireland" → /sport/betting/ireland/free-bets.htm (App Bonuses section - link to comprehensive guide)
 3. "betting offers ireland" → /sport/betting/ireland/betting-offers/ (App Bonuses section)
 4. "betting calculator" → /sport/betting/calculators/ (App Bonuses section)
-4. "parlay calculator" → /sport/betting/calculators/parlay/ (Sports Betting section)
+4. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm/ (Sports Betting section)
 5. "live betting guide" → /sport/betting/live/ (Live Betting Apps section)
 6. "horse racing betting" → /sport/betting/horse-racing/ (Horse Racing subsection)
 7. "GAA betting guide" → /sport/betting/gaa/ (GAA subsection)
@@ -631,7 +631,7 @@ Include links to these calculators:
    - Placement: Free Bets section
    - Use: "Use our betting calculator to determine real bonus value"
 
-2. **Parlay Calculator** - /sport/betting/calculators/parlay/
+2. **Parlay Calculator** - /sport/betting-tools/parlay-calculator.htm/
    - Placement: Sports Betting section
    - Use: "Calculate your parlay returns with our parlay calculator"
 

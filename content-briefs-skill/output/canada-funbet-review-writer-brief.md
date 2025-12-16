@@ -13,7 +13,7 @@
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
 - **Age Requirement:** 19+ (varies by province: 18+ in AB, MB, QC)
-- **Hotline:** 1-866-531-2600 (Canada Problem Gambling Helpline)
+- **Resources:** Responsible Gambling Council and CCSA
 - **Priority:** Medium
 - **Letter Badge:** FNB (#E91E63)
 
@@ -860,7 +860,9 @@ Create comprehensive FAQ answers targeting these keywords:
 - Verification required at account creation
 
 **Problem Gambling Help:**
-- **Canada Problem Gambling Helpline: 1-866-531-2600**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 - Available 24/7, free, confidential
 - Trained counselors available
 - Referral to local services
@@ -875,9 +877,8 @@ Create comprehensive FAQ answers targeting these keywords:
 - Betting limits by sport
 
 **Provincial Resources:**
-- **Ontario:** ConnexOntario 1-866-531-2600
 - Responsible Gambling Council programs
-- Provincial problem gambling commissions
+- Provincial problem gambling commissions (vary by location)
 - Gamblers Anonymous meetings
 - Support group resources
 
@@ -915,10 +916,10 @@ Include these 12 internal links naturally throughout content:
 6. **[new betting sites canada](/sport/betting/canada/new-betting-sites.htm)**
    - Context: Emerging operator context - brand awareness section
 
-7. **[parlay calculator](/sport/betting/calculators/parlay.htm)**
+7. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm)**
    - Context: Sports betting tools section
 
-8. **[odds calculator](/sport/betting/calculators/odds.htm)**
+8. **[odds calculator](/sport/betting-tools/odds-calculator.htm.htm)**
    - Context: Sports betting tools section
 
 9. **[NHL betting](/sport/betting/nhl/index.htm)**
@@ -1059,7 +1060,7 @@ Describe Funbet's mobile app user experience **specifically for sports betting**
 ## COMPLIANCE CHECKLIST
 
 - [ ] Age requirement stated: 19+ (18+ in AB, MB, QC) - in multiple sections
-- [ ] Hotline included: 1-866-531-2600 (Canadian Problem Gambling Helpline) - in responsible gambling section
+- [ ] Pan-Canadian resources included: RGC and CCSA - in responsible gambling section
 - [ ] Affiliate disclosure at top: 50-75 words, clearly stated
 - [ ] Responsible gambling section at bottom: 150-200 words minimum
 - [ ] NO dated language in H1 (Last Updated badge will be added in Phase 3)

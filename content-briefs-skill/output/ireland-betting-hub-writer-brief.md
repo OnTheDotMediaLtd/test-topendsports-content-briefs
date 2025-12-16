@@ -188,7 +188,7 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 │
 ├── H2: Welcome Bonuses Overview (300-400 words)
 │   └── Brief overview of bonus types available
-│   └── Link to dedicated pages: /sport/betting/ireland/free-bets/ (detailed free bet comparison)
+│   └── Link to dedicated pages: /sport/betting/ireland/free-bets.htm (detailed free bet comparison)
 │   └── Link to: /sport/betting/ireland/betting-offers/ (all offer types)
 │   └── Focus: Why having multiple accounts matters for bonus shopping
 │
@@ -458,7 +458,7 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 - List bonus types: Welcome bonuses, deposit matches, cashback, enhanced odds
 - Explain that each site has different offers
 - Mention importance of reading terms & conditions
-- Link to dedicated pages: /sport/betting/ireland/free-bets/ and /sport/betting/ireland/betting-offers/
+- Link to dedicated pages: /sport/betting/ireland/free-bets.htm and /sport/betting/ireland/betting-offers/
 - Note: Bonus value depends on wagering requirements
 
 ---
@@ -547,11 +547,11 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 
 | Anchor Text | Target URL | Placement Section |
 |-------------|------------|-------------------|
-| best betting apps ireland | /sport/betting/ireland/betting-apps/ | Mobile Betting Apps section |
-| free bets ireland | /sport/betting/ireland/free-bets/ | Welcome Bonuses Overview section |
+| best betting apps ireland | /sport/betting/ireland/betting-apps.htm | Mobile Betting Apps section |
+| free bets ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonuses Overview section |
 | betting offers ireland | /sport/betting/ireland/betting-offers/ | Welcome Bonuses Overview section |
 | betting odds explained | /sport/betting/odds/ | How We Test section |
-| parlay calculator | /sport/betting/calculators/parlay/ | Sports Betting section |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm/ | Sports Betting section |
 | betting bonus calculator | /sport/betting/calculators/bonus/ | Welcome Bonuses Overview section |
 | live betting guide | /sport/betting/live/ | Brand reviews (live betting features) |
 | horse racing betting explained | /sport/betting/horse-racing/ | Horse Racing section |
@@ -574,7 +574,7 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 - **Context:** "Use our bonus calculator to calculate the real value of welcome offers after wagering requirements"
 
 ### 2. Parlay Calculator
-- **URL:** /sport/betting/calculators/parlay/
+- **URL:** /sport/betting-tools/parlay-calculator.htm/
 - **Placement:** Sports Betting Overview section
 - **Context:** "Calculate potential parlay payouts with our parlay calculator"
 

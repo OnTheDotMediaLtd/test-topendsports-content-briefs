@@ -948,7 +948,7 @@ While Highbet provides comprehensive live betting markets across multiple sports
 
 **Impact:** The absence of live streaming makes Highbet less appealing for in-play bettors who prefer to watch and bet simultaneously. Live stats and score updates are available, but visual confirmation is missing.
 
-If live streaming is essential, consider Bet365 or William Hill instead. [Best UK Betting Sites](/sport/betting/uk/best-betting-sites.htm)
+If live streaming is essential, consider Bet365 or William Hill instead. [Best UK Betting Sites](/sport/betting/uk/index.htm)
 
 ---
 
@@ -1141,7 +1141,7 @@ Before writing, complete these research tasks:
 **12 Required Internal Links:**
 
 1. **[UK Betting Hub](/sport/betting/uk/)** - Introduction or breadcrumb
-2. **[Best UK Betting Sites](/sport/betting/uk/best-betting-sites.htm)** - Introduction or comparison
+2. **[Best UK Betting Sites](/sport/betting/uk/index.htm)** - Introduction or comparison
 3. **[Best Football Betting Sites UK](/sport/betting/uk/best-football-betting-sites.htm)** - Football betting section
 4. **[Best UK Casino Sites](/sport/betting/uk/best-casino-sites.htm)** - Casino review section
 5. **[UK Betting Bonuses](/sport/betting/uk/betting-bonuses.htm)** - Welcome bonus section

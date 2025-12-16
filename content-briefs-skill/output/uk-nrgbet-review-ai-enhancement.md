@@ -681,7 +681,7 @@ These should be strategically placed within content sections:
 6. **Comparison:** "[bet365 Review](/sport/betting/uk/bet365-review.htm)" - Direct competitor comparison
 7. **Comparison:** "[William Hill Review](/sport/betting/uk/william-hill-review.htm)" - Direct competitor comparison
 8. **Licensing:** "[UK Gambling Commission Guide](/sport/betting/uk/ukgc-licensing.htm)" - UKGC info
-9. **Sports:** "[Football Betting UK](/sport/betting/uk/football-betting.htm)" - Football focus
+9. **Sports:** "[Football Betting UK](/sport/betting/uk/football-betting-sites.htm)" - Football focus
 10. **Accumulators:** "[Accumulator Betting Tips](/sport/betting/accumulator-tips.htm)" - Acca strategies
 11. **Responsible Gambling:** "[GamStop Self-Exclusion](/sport/betting/gamstop.htm)" - Self-exclusion
 12. **Responsible Gambling:** "[Responsible Gambling UK](/sport/betting/responsible-gambling.htm)" - Support resources

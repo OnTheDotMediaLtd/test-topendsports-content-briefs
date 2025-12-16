@@ -570,10 +570,10 @@ function toggleStrategy(element) {
   <h4 style="margin-top: 0;">Useful Tools & Resources</h4>
   <ul style="list-style: none; padding: 0;">
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/tools/odds-converter.htm">Odds Converter Tool</a></strong> - Convert between decimal, fractional, and American odds formats
+      <strong><a href="/sport/betting-tools/odds-calculator.htm">Odds Converter Tool</a></strong> - Convert between decimal, fractional, and American odds formats
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/tools/parlay-calculator.htm">Accumulator Calculator</a></strong> - Calculate combined odds and potential returns on multi-leg bets
+      <strong><a href="/sport/betting-tools/parlay-calculator.htm">Accumulator Calculator</a></strong> - Calculate combined odds and potential returns on multi-leg bets
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
       <strong><a href="/sport/betting/uk/premier-league-betting.htm">Premier League Betting Guide</a></strong> - In-depth Premier League betting strategies and market analysis

@@ -423,7 +423,7 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 4. **"free bet calculator"** → /sport/betting/calculators/free-bet-calculator.htm
    *Context:* Embedded calculator section + link to full calculator page
 
-5. **"odds calculator"** → /sport/betting/calculators/odds-calculator.htm
+5. **"odds calculator"** → /sport/betting-tools/odds-calculator.htm-calculator.htm
    *Context:* "Minimum Odds Requirements" H3 explanation
 
 6. **"accumulator calculator"** → /sport/betting/calculators/accumulator-calculator.htm
@@ -437,7 +437,7 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
    *Context:* LuckyMate brand section header or CTA
 
 ### Sport-Specific Links (2)
-9. **"football betting UK"** → /sport/betting/uk/football-betting.htm
+9. **"football betting UK"** → /sport/betting/uk/football-betting-sites.htm
    *Context:* "Football Free Bets" H3 subsection
 
 10. **"horse racing betting"** → /sport/betting/uk/horse-racing-betting.htm

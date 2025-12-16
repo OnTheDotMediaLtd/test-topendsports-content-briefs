@@ -250,7 +250,7 @@ High-volume transactional keywords show user intent:
 
 ## INTERNAL LINKS (8 Planned)
 
-1. "best UK betting sites" → /sport/betting/uk/best-betting-sites.htm
+1. "best UK betting sites" → /sport/betting/uk/index.htm
 2. "bet365 review" → /sport/betting/uk/bet365-review.htm
 3. "UK betting sites" → /sport/betting/uk/
 4. "football betting sites UK" → /sport/betting/uk/football-betting-sites.htm

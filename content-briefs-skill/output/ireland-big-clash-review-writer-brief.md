@@ -196,7 +196,7 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
 - **CRITICAL:** Emphasize GAA and Irish racing - this is a major content gap vs competitors
 - Mention specific Irish events (All-Ireland, Cheltenham)
 - Big Clash has strong esports coverage - unique selling point
-- Link to [parlay calculator](/sport/betting/calculators/parlay-calculator.htm) in this section
+- Link to [parlay calculator](/sport/betting-tools/parlay-calculator.htm-calculator.htm) in this section
 
 #### H3: Live Betting & In-Play Features (150 words)
 **Keywords:** big clash live betting
@@ -449,7 +449,7 @@ Yes, Big Clash is a legitimate sportsbook licensed by the Curacao Gaming Control
 **Keyword:** big clash odds
 
 **Answer:**
-Big Clash offers mid-range odds with typical payouts of 93-95% on football markets. While not the absolute best (Paddy Power and Pinnacle often have better odds), Big Clash is competitive on esports and niche markets. Their odds are similar to BoyleSports and better than many Curacao-licensed competitors. Use the [odds calculator](/sport/betting/calculators/odds-calculator.htm) to compare value across bookies before placing bets.
+Big Clash offers mid-range odds with typical payouts of 93-95% on football markets. While not the absolute best (Paddy Power and Pinnacle often have better odds), Big Clash is competitive on esports and niche markets. Their odds are similar to BoyleSports and better than many Curacao-licensed competitors. Use the [odds calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm) to compare value across bookies before placing bets.
 
 ---
 
@@ -561,8 +561,8 @@ Link to [responsible gambling resources](/sport/betting/responsible-gambling.htm
 | Betalright Sports review | /sport/betting/ireland/betalright-review.htm | Final Verdict |
 | 22bet Ireland review | /sport/betting/ireland/22bet-review.htm | Big Clash Sportsbook Review Overview |
 | Casina Sport review | /sport/betting/ireland/casina-review.htm | Final Verdict |
-| parlay calculator | /sport/betting/calculators/parlay-calculator.htm | Sports Markets & Betting Options |
-| odds calculator | /sport/betting/calculators/odds-calculator.htm | FAQ: How competitive are Big Clash odds? |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm-calculator.htm | Sports Markets & Betting Options |
+| odds calculator | /sport/betting-tools/odds-calculator.htm-calculator.htm | FAQ: How competitive are Big Clash odds? |
 | betting odds explained | /sport/betting/guides/odds-explained.htm | FAQ section |
 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Responsible Gambling Footer |
 | how to withdraw from bookmakers | /sport/betting/guides/withdrawal-guide.htm | Payment Methods & Withdrawals |

@@ -239,12 +239,12 @@ Each of the 9 brands must include:
 
 ## INTERNAL LINKS (12 Required)
 
-1. **Best betting sites UK** → `/sport/betting/uk/best-betting-sites.htm` (Parent category)
+1. **Best betting sites UK** → `/sport/betting/uk/index.htm` (Parent category)
 2. **Premier League betting tips** → `/sport/betting/uk/premier-league-betting.htm` (Related sport)
 3. **Champions League betting** → `/sport/betting/uk/champions-league-betting.htm` (Related competition)
 4. **Football accumulator tips** → `/sport/betting/uk/accumulator-tips.htm` (Related strategy)
-5. **Parlay calculator** → `/tools/parlay-calculator.htm` (Calculator tool)
-6. **Odds converter** → `/tools/odds-converter.htm` (Calculator tool)
+5. **Parlay calculator** → `/sport/betting-tools/parlay-calculator.htm` (Calculator tool)
+6. **Odds converter** → `/sport/betting-tools/odds-calculator.htm` (Calculator tool)
 7. **Bet365 review** → `/sport/betting/uk/bet365-review.htm` (Brand review, if exists)
 8. **William Hill review** → `/sport/betting/uk/william-hill-review.htm` (Brand review, if exists)
 9. **Football betting apps** → `/sport/betting/uk/football-apps.htm` (Related topic)

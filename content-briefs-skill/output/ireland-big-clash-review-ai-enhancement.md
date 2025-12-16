@@ -1319,7 +1319,7 @@ Integrate these links naturally within the content sections:
 <p>See how Big Clash compares to <a href="/sport/betting/ireland/lunubet-review.htm">Lunubet Sport review</a>, <a href="/sport/betting/ireland/betalright-review.htm">Betalright Sports review</a>, and <a href="/sport/betting/ireland/22bet-review.htm">22bet Ireland review</a>.</p>
 
 <!-- Tools & Guides -->
-<p>Calculate parlay payouts with our <a href="/sport/betting/calculators/parlay-calculator.htm">parlay calculator</a> and <a href="/sport/betting/calculators/odds-calculator.htm">odds calculator</a>.</p>
+<p>Calculate parlay payouts with our <a href="/sport/betting-tools/parlay-calculator.htm-calculator.htm">parlay calculator</a> and <a href="/sport/betting-tools/odds-calculator.htm-calculator.htm">odds calculator</a>.</p>
 
 <!-- Learning Resources -->
 <p>New to betting? Read our guide: <a href="/sport/betting/guides/odds-explained.htm">betting odds explained</a>.</p>

@@ -543,13 +543,13 @@ Create table showing all 9 brands with available payment methods, processing tim
 **Calculator Tools (with internal links):**
 
 1. **Parlay Calculator** (75 words)
-   - Link to: /sport/betting/calculators/parlay/
+   - Link to: /sport/betting-tools/parlay-calculator.htm/
    - What it calculates
    - How to use it
    - Benefits for Canadian bettors
 
 2. **Odds Calculator** (75 words)
-   - Link to: /sport/betting/calculators/odds/
+   - Link to: /sport/betting-tools/odds-calculator.htm/
    - Converting between formats (decimal, American, fractional)
    - Canadian preferences (decimal popular)
 
@@ -733,14 +733,15 @@ Create table showing all 9 brands with available payment methods, processing tim
 - Recognizing problem gambling signs
 
 **Resources (100 words):**
-- **Canadian Problem Gambling Hotline:** 1-866-531-2600 (24/7)
-- **Responsible Gambling Council (Canada):** responsiblegambling.org
-- **ConnexOntario:** 1-866-531-2600 (Ontario residents)
-- **Problem Gambling Institute of Ontario (PGIO)**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 - Provincial resources:
   - Alberta Gambling Helpline: 1-866-332-2322
   - BC Problem Gambling Help: 1-888-795-6111
+  - Manitoba: Problem Gambling Helpline
   - Quebec Gambling Help: 1-800-461-0140
+  - Other provinces: Contact provincial gambling authorities
 
 **Self-Help Tools (50 words):**
 - Deposit limits
@@ -886,8 +887,8 @@ Must include these specific internal links:
 | 5 | CFL betting guide | /sport/betting/cfl/ | Popular Sports section |
 | 6 | NBA betting in Canada | /sport/betting/nba/ | Popular Sports section |
 | 7 | MLB betting sites | /sport/betting/mlb/ | Popular Sports section |
-| 8 | parlay betting calculator | /sport/betting/calculators/parlay/ | Calculators section |
-| 9 | odds calculator | /sport/betting/calculators/odds/ | Calculators section |
+| 8 | parlay betting calculator | /sport/betting-tools/parlay-calculator.htm/ | Calculators section |
+| 9 | odds calculator | /sport/betting-tools/odds-calculator.htm/ | Calculators section |
 | 10 | betting units calculator | /sport/betting/calculators/units/ | Calculators section |
 | 11 | sports betting Ontario | /sport/betting/canada/ontario/ | Ontario section |
 | 12 | Alberta betting sites | /sport/betting/canada/alberta/ | Provincial discussion |
@@ -936,10 +937,12 @@ Must include these specific internal links:
 - Mention in introduction and FAQs
 - Include in Responsible Gambling section
 
-### Gambling Hotlines
-- **Primary:** 1-866-531-2600 (Canadian Problem Gambling Hotline)
+### Gambling Resources
+- **Primary Resources:**
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
 - Include in Responsible Gambling section
-- Provincial hotlines by province
+- Provincial helplines vary by location
 
 ### Affiliate Disclosure
 - **Placement:** Introduction (50-75 words)
@@ -1003,7 +1006,7 @@ Before submitting, verify:
 - [ ] NO keyword cannibalization (removed betting apps/sites comparison keywords)
 - [ ] Responsible gambling section with Canadian resources
 - [ ] Age requirements: 18+ (AB, MB, QC), 19+ (others)
-- [ ] Gambling hotline: 1-866-531-2600
+- [ ] Pan-Canadian gambling resources: Responsible Gambling Council and CCSA
 
 ---
 

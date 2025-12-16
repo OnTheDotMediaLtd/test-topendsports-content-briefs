@@ -727,14 +727,14 @@ window.addEventListener('load', calculateBonus);
 <!-- Place these links throughout relevant sections: -->
 
 <!-- Introduction Section -->
-<a href="/sport/betting/uk/best-betting-sites.htm" style="color: #2e7d32; text-decoration: underline;">best UK betting sites</a>
+<a href="/sport/betting/uk/index.htm" style="color: #2e7d32; text-decoration: underline;">best UK betting sites</a>
 
 <!-- Mobile App Section -->
-<a href="/sport/betting/uk/best-betting-apps.htm" style="color: #2e7d32; text-decoration: underline;">UK betting apps</a>
+<a href="/sport/betting/uk/betting-apps.htm" style="color: #2e7d32; text-decoration: underline;">UK betting apps</a>
 
 <!-- Sports Coverage Section -->
 <a href="/sport/betting/uk/best-football-betting-sites.htm" style="color: #2e7d32; text-decoration: underline;">football betting sites UK</a>
-<a href="/sport/betting/calculators/odds-converter.htm" style="color: #2e7d32; text-decoration: underline;">betting odds calculator</a>
+<a href="/sport/betting-tools/odds-calculator.htm-converter.htm" style="color: #2e7d32; text-decoration: underline;">betting odds calculator</a>
 <a href="/sport/betting/uk/horse-racing-betting.htm" style="color: #2e7d32; text-decoration: underline;">horse racing betting</a>
 
 <!-- Casino Section -->

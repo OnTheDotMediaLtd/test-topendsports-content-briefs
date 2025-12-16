@@ -529,7 +529,7 @@ Cite specific Trustpilot reviews:
 
 **Best use case:** "Rabona works best as a secondary bookmaker for Irish players seeking casino variety and alternative payment methods."
 
-**Internal link:** [best betting sites Ireland](/sport/betting/ireland/betting-hub.htm)
+**Internal link:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
 
 ---
 
@@ -792,7 +792,7 @@ Recognize warning signs: chasing losses, gambling with money you can't afford to
 
 Place these links naturally within relevant sections:
 
-1. **[best betting sites Ireland](/sport/betting/ireland/betting-hub.htm)** - Introduction or comparison section
+1. **[best betting sites Ireland](/sport/betting/ireland/index.htm)** - Introduction or comparison section
 2. **[online casino Ireland](/sport/betting/ireland/casino-hub.htm)** - Casino section
 3. **[sports betting Ireland guide](/sport/betting/ireland/guide.htm)** - Sports betting features
 4. **[parlay calculator](/sport/betting/calculator/parlay.htm)** - Sports betting section when discussing accumulators

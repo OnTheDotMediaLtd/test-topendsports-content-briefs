@@ -202,7 +202,7 @@ Map ALL 17 keywords to specific sections:
 - First-time user experience (ease of use)
 - Account security features
 
-**Internal Link:** "best UK betting sites" → `/sport/betting/uk/best-betting-sites.htm`
+**Internal Link:** "best UK betting sites" → `/sport/betting/uk/index.htm`
 
 ---
 
@@ -330,7 +330,7 @@ Map ALL 17 keywords to specific sections:
 **Internal Links:**
 - "football betting sites UK" → `/sport/betting/uk/best-football-betting-sites.htm`
 - "horse racing betting" → `/sport/betting/uk/horse-racing-betting.htm`
-- "betting odds calculator" → `/sport/betting/calculators/odds-converter.htm`
+- "betting odds calculator" → `/sport/betting-tools/odds-calculator.htm-converter.htm`
 
 ---
 
@@ -387,7 +387,7 @@ Map ALL 17 keywords to specific sections:
   - Those on slower internet connections
 - **Bottom Line:** Mobile website is functional but not ideal
 
-**Internal Link:** "UK betting apps" → `/sport/betting/uk/best-betting-apps.htm`
+**Internal Link:** "UK betting apps" → `/sport/betting/uk/betting-apps.htm`
 
 ---
 
@@ -809,7 +809,7 @@ Worth trying for experienced bettors seeking value. Set expectations: verify acc
 **Internal Links:**
 - "Bet365 review" → `/sport/betting/uk/bet365-review.htm`
 - "William Hill review" → `/sport/betting/uk/william-hill-review.htm`
-- "best UK betting sites" → `/sport/betting/uk/best-betting-sites.htm`
+- "best UK betting sites" → `/sport/betting/uk/index.htm`
 
 ---
 
@@ -870,12 +870,12 @@ Worth trying for experienced bettors seeking value. Set expectations: verify acc
 
 | Anchor Text | URL | Context/Placement |
 |-------------|-----|-------------------|
-| best UK betting sites | /sport/betting/uk/best-betting-sites.htm | Introduction comparison |
-| UK betting apps | /sport/betting/uk/best-betting-apps.htm | Mobile app section - comparison to app-based competitors |
+| best UK betting sites | /sport/betting/uk/index.htm | Introduction comparison |
+| UK betting apps | /sport/betting/uk/betting-apps.htm | Mobile app section - comparison to app-based competitors |
 | football betting sites UK | /sport/betting/uk/best-football-betting-sites.htm | Sports coverage section - football betting depth |
 | casino betting sites | /sport/betting/uk/best-casino-sites.htm | Casino section - comparison to dedicated casino sites |
 | free bet offers | /sport/betting/uk/free-bets.htm | Bonus section - free bet comparison |
-| betting odds calculator | /sport/betting/calculators/odds-converter.htm | Sportsbook features - odds conversion tool |
+| betting odds calculator | /sport/betting-tools/odds-calculator.htm-converter.htm | Sportsbook features - odds conversion tool |
 | horse racing betting | /sport/betting/uk/horse-racing-betting.htm | Sports coverage - horse racing markets |
 | betting sites with PayPal | /sport/betting/uk/paypal-betting-sites.htm | Payment methods - PayPal withdrawal times |
 | Bet365 review | /sport/betting/uk/bet365-review.htm | Competitor comparison in verdict - established alternative |

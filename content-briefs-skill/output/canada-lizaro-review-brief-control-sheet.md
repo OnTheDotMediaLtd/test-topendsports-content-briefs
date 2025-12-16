@@ -211,7 +211,7 @@ Since Lizaro has minimal direct search volume, we analyzed similar brand review 
 - [ ] Affiliate disclosure (top of page)
 - [ ] Age disclaimer: 19+ (18+ in AB, MB, QC)
 - [ ] Canadian responsible gambling resources
-- [ ] Hotline: 1-866-531-2600 (ConnexOntario)
+- [ ] Provincial helplines: AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140
 - [ ] Links to Responsible Gambling Council
 
 ---
@@ -238,7 +238,7 @@ Since Lizaro has minimal direct search volume, we analyzed similar brand review 
 - **Word Count Target:** 3,500 words
 - **Compliance:** Canadian market (varies by province)
 - **Age Requirement:** 19+ (most provinces), 18+ (AB, MB, QC)
-- **Helpline:** 1-866-531-2600 (ConnexOntario)
+- **Helplines:** Provincial helplines (AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140)
 - **Responsible Gambling:** Responsible Gambling Council
 - **Template:** Template 1 (Brand Review)
 - **Estimated Time:**

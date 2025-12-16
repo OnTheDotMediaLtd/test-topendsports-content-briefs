@@ -155,10 +155,10 @@ Based on competitor analysis, we will differentiate with:
 
 ## INTERNAL LINKS (12 Required)
 
-1. "best UK betting sites" → `/sport/betting/uk/best-betting-sites.htm`
+1. "best UK betting sites" → `/sport/betting/uk/index.htm`
 2. "best new betting sites UK" → `/sport/betting/uk/new-betting-sites.htm`
 3. "Bet365 review" → `/sport/betting/uk/bet365-review.htm`
-4. "best betting apps UK" → `/sport/betting/uk/best-betting-apps.htm`
+4. "best betting apps UK" → `/sport/betting/uk/betting-apps.htm`
 5. "free bets UK" → `/sport/betting/uk/free-bets.htm`
 6. "PayPal betting sites" → `/sport/betting/uk/paypal-betting-sites.htm`
 7. "esports betting sites" → `/sport/betting/esports-betting-sites.htm`

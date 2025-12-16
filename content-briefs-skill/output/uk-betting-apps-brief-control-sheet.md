@@ -181,10 +181,10 @@
 
 | Anchor Text | Target URL | Context |
 |-------------|------------|---------|
-| UK Sports Betting Sites | /sport/betting/uk/sports-betting.htm | Main UK betting hub |
-| UK Football Betting | /sport/betting/uk/football-betting.htm | Sport-specific page |
-| Parlay Calculator | /sport/betting/calculators/parlay.htm | Calculator tool |
-| Odds Calculator | /sport/betting/calculators/odds.htm | Calculator tool |
+| UK Sports Betting Sites | /sport/betting/uk/index.htm | Main UK betting hub |
+| UK Football Betting | /sport/betting/uk/football-betting-sites.htm | Sport-specific page |
+| Parlay Calculator | /sport/betting-tools/parlay-calculator.htm.htm | Calculator tool |
+| Odds Calculator | /sport/betting-tools/odds-calculator.htm.htm | Calculator tool |
 | UK Horse Racing Betting | /sport/betting/uk/horse-racing.htm | Sport-specific page |
 | Best Odds Guaranteed UK | /sport/betting/uk/best-odds-guaranteed.htm | Feature-specific page |
 | Live Betting UK | /sport/betting/uk/live-betting.htm | Feature-specific page |

@@ -238,8 +238,8 @@ Instead of 41 shallow listings, feature **9 carefully selected brands** with com
 
 | Anchor Text | Target URL | Relevance |
 |-------------|------------|-----------|
-| UK sports betting sites | /sport/betting/uk/betting-sites.htm | Parent category |
-| football betting sites UK | /sport/betting/uk/football-betting.htm | Related sport |
+| UK sports betting sites | /sport/betting/uk/index.htm | Parent category |
+| football betting sites UK | /sport/betting/uk/football-betting-sites.htm | Related sport |
 | tennis betting UK | /sport/betting/uk/tennis-betting.htm | Related sport |
 | Grand National betting guide | /sport/horse-racing/grand-national-betting.htm | Event guide |
 | Cheltenham Festival betting | /sport/horse-racing/cheltenham-betting.htm | Event guide |

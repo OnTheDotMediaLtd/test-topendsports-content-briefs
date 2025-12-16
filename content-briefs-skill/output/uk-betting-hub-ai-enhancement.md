@@ -1748,7 +1748,7 @@ function resetFilters() {
     <div style="margin-top: 2rem; padding-top: 2rem; border-top: 2px solid #2e7d32;">
         <h4 style="color: #2e7d32;">🔗 More Betting Calculators</h4>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
-            <a href="/sport/betting/calculators/odds-converter.htm" style="background: white; padding: 1rem; border-radius: 6px; text-decoration: none; color: #2e7d32; font-weight: 600; border: 2px solid #2e7d32; transition: all 0.3s;">
+            <a href="/sport/betting-tools/odds-calculator.htm-converter.htm" style="background: white; padding: 1rem; border-radius: 6px; text-decoration: none; color: #2e7d32; font-weight: 600; border: 2px solid #2e7d32; transition: all 0.3s;">
                 📐 Odds Converter
             </a>
             <a href="/sport/betting/calculators/each-way.htm" style="background: white; padding: 1rem; border-radius: 6px; text-decoration: none; color: #2e7d32; font-weight: 600; border: 2px solid #2e7d32; transition: all 0.3s;">
@@ -1806,7 +1806,7 @@ function calculateAccumulator() {
 
 ```html
 <!-- In Introduction/Early Content -->
-<p>Looking to compare odds formats? Use our <a href="/sport/betting/calculators/odds-converter.htm" style="color: #2e7d32; font-weight: 600;">odds converter calculator</a> to switch between decimal, fractional, and American odds instantly.</p>
+<p>Looking to compare odds formats? Use our <a href="/sport/betting-tools/odds-calculator.htm-converter.htm" style="color: #2e7d32; font-weight: 600;">odds converter calculator</a> to switch between decimal, fractional, and American odds instantly.</p>
 
 <!-- In Football Section -->
 <p>Premier League bettors should check our comprehensive <a href="/sport/betting/football/index.htm" style="color: #2e7d32; font-weight: 600;">football betting guide</a> for match analysis and accumulator tips.</p>

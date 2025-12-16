@@ -888,7 +888,7 @@ document.addEventListener('DOMContentLoaded', function() {
       "@type": "ListItem",
       "position": 3,
       "name": "UK Betting",
-      "item": "https://www.topendsports.com/sport/betting/uk/betting-sites.htm"
+      "item": "https://www.topendsports.com/sport/betting/uk/index.htm"
     },
     {
       "@type": "ListItem",
@@ -1083,8 +1083,8 @@ document.addEventListener('DOMContentLoaded', function() {
 **Production Ready:** All sections contain complete, verifiable content with zero placeholders.
 
 **Internal Links (to be implemented):**
-- [UK sports betting sites](/sport/betting/uk/betting-sites.htm)
-- [football betting sites UK](/sport/betting/uk/football-betting.htm)
+- [UK sports betting sites](/sport/betting/uk/index.htm)
+- [football betting sites UK](/sport/betting/uk/football-betting-sites.htm)
 - [tennis betting UK](/sport/betting/uk/tennis-betting.htm)
 - [Grand National betting guide](/sport/horse-racing/grand-national-betting.htm)
 - [Cheltenham Festival betting](/sport/horse-racing/cheltenham-betting.htm)

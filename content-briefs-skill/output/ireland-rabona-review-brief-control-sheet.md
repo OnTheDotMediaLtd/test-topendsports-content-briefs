@@ -275,7 +275,7 @@
 
 ## INTERNAL LINKS (12 Required)
 
-1. **"best betting sites Ireland"** → /sport/betting/ireland/betting-hub.htm (Introduction)
+1. **"best betting sites Ireland"** → /sport/betting/ireland/index.htm (Introduction)
 2. **"online casino Ireland"** → /sport/betting/ireland/casino-hub.htm (Feature analysis)
 3. **"sports betting Ireland guide"** → /sport/betting/ireland/guide.htm (Sports section)
 4. **"parlay calculator"** → /sport/betting/calculator/parlay.htm (Betting features)

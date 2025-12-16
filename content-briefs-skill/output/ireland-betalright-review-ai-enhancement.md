@@ -796,7 +796,7 @@
 The following internal links should be integrated into the content:
 
 ```
-1. "betting sites Ireland" → /sport/betting/ireland/betting-hub.htm
+1. "betting sites Ireland" → /sport/betting/ireland/index.htm
 2. "GAA betting" → /sport/betting/ireland/gaa-betting.htm
 3. "Paddy Power review" → /sport/betting/ireland/paddy-power-review.htm
 4. "BoyleSports review" → /sport/betting/ireland/boylesports-review.htm
@@ -805,7 +805,7 @@ The following internal links should be integrated into the content:
 7. "football betting Ireland" → /sport/betting/ireland/football-betting.htm
 8. "live betting Ireland" → /sport/betting/ireland/live-betting-guide.htm
 9. "best betting apps Ireland" → /sport/betting/ireland/betting-apps.htm
-10. "parlay calculator" → /tools/parlay-calculator.htm
+10. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm
 11. "odds calculator" → /tools/odds-calculator.htm
 12. "responsible gambling resources" → /sport/betting/responsible-gambling.htm
 ```

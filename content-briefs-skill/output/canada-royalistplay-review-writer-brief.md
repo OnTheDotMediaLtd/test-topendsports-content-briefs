@@ -713,10 +713,12 @@ Royalistplay's main offer is a 100% welcome bonus up to $150 CAD (promo code: WE
 **Canadian Gambling Helplines:**
 
 **National:**
-- ConnexOntario: **1-866-531-2600**
+- Responsible Gambling Council: https://www.responsiblegambling.org/
+- Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
 - Problem Gambling Help Line: 1-888-230-3505
 
 **Provincial Resources:**
+- Provincial helplines vary by location
 - **British Columbia:** GameSense BC
 - **Alberta:** Alberta Health Services Addiction Helpline
 - **Manitoba:** Problem Gambling Helpline
@@ -771,11 +773,11 @@ Place these naturally throughout the content:
    - Placement: Pros & Cons or competitors mention
    - Keyword: "festival play sport"
 
-8. **[Parlay Calculator](/sport/betting/calculators/parlay.htm)**
+8. **[Parlay Calculator](/sport/betting-tools/parlay-calculator.htm.htm)**
    - Placement: Sportsbook Analysis section or sidebar callout
    - Keyword: "parlay calculator"
 
-9. **[Odds Calculator](/sport/betting/calculators/odds.htm)**
+9. **[Odds Calculator](/sport/betting-tools/odds-calculator.htm.htm)**
    - Placement: Sportsbook Analysis section or sidebar callout
    - Keyword: "odds calculator"
 
@@ -819,9 +821,9 @@ Place these naturally throughout the content:
    - Verify license number and status
    - Explain what Curaçao licensing means
 
-5. **ConnexOntario**
-   - Verify helpline: 1-866-531-2600
-   - Responsible gambling resources
+5. **Responsible Gambling Council (Canada)**
+   - Website: responsiblegambling.org
+   - National responsible gambling resources
 
 6. **AGCO Ontario Regulations**
    - Context for why Royalistplay is geo-blocked in Ontario
@@ -884,7 +886,7 @@ Place these naturally throughout the content:
 Before submitting, ensure ALL of these are included:
 
 - [ ] Age restriction: **19+ (18+ in AB, MB, QC)** mentioned
-- [ ] Helpline: **1-866-531-2600 (ConnexOntario)** prominently displayed
+- [ ] Pan-Canadian resources: **RGC and CCSA** prominently displayed
 - [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible Gambling section at end with resources
 - [ ] NO dated language in H1 (no "2025", "December 2025", etc.)
@@ -975,7 +977,7 @@ Before submitting to Phase 3:
 **Compliance:**
 - [ ] Affiliate disclosure included
 - [ ] Age restrictions mentioned
-- [ ] Helpline visible
+- [ ] Pan-Canadian helplines visible
 - [ ] Responsible gambling section complete
 - [ ] NO dated language in H1
 

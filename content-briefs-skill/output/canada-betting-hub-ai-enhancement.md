@@ -793,7 +793,7 @@ function initStickyBar() {
             </tbody>
         </table>
     </div>
-    <p class="table-disclaimer">*Age requirement: 19+ (18+ in Alberta, Manitoba, Quebec). These are offshore operators serving Canadian players outside Ontario's regulated market. Must be physically located in Canada. T&Cs apply. Gamble responsibly. Call 1-866-531-2600 for help.</p>
+    <p class="table-disclaimer">*Age requirement: 19+ (18+ in Alberta, Manitoba, Quebec). These are offshore operators serving Canadian players outside Ontario's regulated market. Must be physically located in Canada. T&Cs apply. Gamble responsibly. Call Provincial helplines vary for help.</p>
 </div>
 ```
 
@@ -1458,7 +1458,7 @@ function initStickyBar() {
 
             <p class="critical-note"><strong>Critical:</strong> Lucky7even operates under Curacao gaming license (#8048/JAZ2020-015) and is not licensed in Ontario. Ontario residents must use iGaming Ontario regulated operators. The 38x wagering requirement means you need to bet $38,000 to clear a $1,000 bonus, which suits high-volume bettors but may be challenging for casual players. Consider your typical monthly betting volume before accepting this bonus.</p>
 
-            <p class="legal-terms">Complete Legal Terms: Full terms available at lucky7even.com/terms. Lucky7even reserves the right to modify, suspend, or cancel promotions at any time without notice. All disputes are governed by Curacao law and settled through Curacao Gaming Control Board arbitration. Players are responsible for understanding and complying with local gambling laws. Winnings may be subject to taxation; consult tax professional. Responsible gambling support available through Gambling Hotline 1-866-531-2600.</p>
+            <p class="legal-terms">Complete Legal Terms: Full terms available at lucky7even.com/terms. Lucky7even reserves the right to modify, suspend, or cancel promotions at any time without notice. All disputes are governed by Curacao law and settled through Curacao Gaming Control Board arbitration. Players are responsible for understanding and complying with local gambling laws. Winnings may be subject to taxation; consult tax professional. Responsible gambling support available through Gambling Hotline Provincial helplines vary.</p>
 
             <p class="last-verified">Last Verified: December 2025</p>
         </div>
@@ -1668,17 +1668,17 @@ function initStickyBar() {
         <div class="rg-column">
             <h3>Canadian Responsible Gambling Resources</h3>
             <div class="helpline-box">
-                <p class="helpline-number">🇨🇦 National Gambling Helpline<br><strong>1-866-531-2600</strong></p>
+                <p class="helpline-number">🇨🇦 National Gambling Helpline<br><strong>Provincial helplines vary</strong></p>
                 <p class="helpline-note">24/7 confidential support in English and French</p>
             </div>
 
             <h4>Provincial Resources</h4>
             <ul>
-                <li><strong>Ontario:</strong> ConnexOntario - 1-866-531-2600</li>
+                <li><strong>Ontario:</strong> Responsible Gambling Council - Provincial helplines vary</li>
                 <li><strong>Quebec:</strong> Gambling: Help and Referral - 1-800-461-0140</li>
                 <li><strong>Alberta:</strong> Alberta Health Services Helpline - 1-866-332-2322</li>
                 <li><strong>British Columbia:</strong> BC Problem Gambling Helpline - 1-888-795-6111</li>
-                <li><strong>Manitoba:</strong> Problem Gambling Helpline - 1-800-463-1554</li>
+                <li><strong>Manitoba:</strong> Problem Gambling Helpline - Provincial helplines vary</li>
                 <li><strong>Saskatchewan:</strong> Saskatchewan Health Line - 811</li>
             </ul>
 
@@ -1686,7 +1686,7 @@ function initStickyBar() {
             <ul>
                 <li><a href="https://www.responsiblegambling.org" target="_blank" rel="noopener">Responsible Gambling Council (Canada)</a></li>
                 <li><a href="https://www.problemgambling.ca" target="_blank" rel="noopener">Problem Gambling Institute of Ontario</a></li>
-                <li><a href="https://www.connexontario.ca" target="_blank" rel="noopener">ConnexOntario</a></li>
+                <li><a href="https://www.connexontario.ca" target="_blank" rel="noopener">Responsible Gambling Council</a></li>
             </ul>
         </div>
     </div>
@@ -1741,7 +1741,7 @@ function initStickyBar() {
     </div>
 
     <div class="rg-footer">
-        <p class="rg-final-message">Remember: The house always has an edge. Long-term, recreational bettors should expect to lose money. If betting stops being fun or causes stress, it's time to stop. Help is available 24/7 at <strong>1-866-531-2600</strong>.</p>
+        <p class="rg-final-message">Remember: The house always has an edge. Long-term, recreational bettors should expect to lose money. If betting stops being fun or causes stress, it's time to stop. Help is available 24/7 at <strong>Provincial helplines vary</strong>.</p>
     </div>
 </div>
 ```
@@ -2435,7 +2435,7 @@ All HTML, CSS, and JavaScript should be integrated into a single HTML file for t
 - [ ] All 9 brands have complete T&Cs (no placeholders)
 - [ ] Letter badges used (TRS, RYL, WYN, L7E, FPL, LZR, LGD, FUN, DRB)
 - [ ] Schema markup includes Article + FAQ + Breadcrumb
-- [ ] Canada-specific compliance (19+/18+, 1-866-531-2600)
+- [ ] Canada-specific compliance (19+/18+, Provincial helplines vary)
 - [ ] All JavaScript in `<head>` within single `<script>` tag
 - [ ] DOMContentLoaded wrapper for initialization
 - [ ] Console logging included for debugging
@@ -2505,7 +2505,7 @@ All HTML, CSS, and JavaScript should be integrated into a single HTML file for t
 This AI Enhancement brief provides complete, production-ready HTML/CSS/JS code for the Canada betting hub. All code is:
 
 - **Complete:** No placeholders, all 9 brands fully detailed
-- **Compliant:** Canada age requirements (19+/18+), hotline (1-866-531-2600), offshore operator disclosures
+- **Compliant:** Canada age requirements (19+/18+), hotline (Provincial helplines vary), offshore operator disclosures
 - **Functional:** All JavaScript tested patterns from gold-standard-templates.md
 - **Responsive:** Mobile-optimized with breakpoints at 768px
 - **SEO-Optimized:** Complete schema markup for Article, FAQ, and Breadcrumb

@@ -189,8 +189,8 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 9. "how to bet on sports in Canada" → `/sport/betting/canada/how-to-bet.htm`
 
 **Tools:**
-10. "parlay calculator" → `/sport/betting/calculators/parlay.htm`
-11. "odds calculator" → `/sport/betting/calculators/odds.htm`
+10. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm.htm`
+11. "odds calculator" → `/sport/betting-tools/odds-calculator.htm.htm`
 
 **Compliance:**
 12. "responsible gambling resources" → `/sport/betting/responsible-gambling.htm`

@@ -432,12 +432,12 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, sports
 
 Link to these pages throughout the content:
 
-1. **Ireland betting hub** → /sport/betting/ireland/
-2. **Best betting sites Ireland** → /sport/betting/ireland/best-sites.htm
-3. **Best betting apps Ireland** → /sport/betting/ireland/best-apps.htm
+1. **Ireland betting hub** → /sport/betting/ireland/index.htm
+2. **Best betting sites Ireland** → /sport/betting/ireland/index.htm
+3. **Best betting apps Ireland** → /sport/betting/ireland/betting-apps.htm
 4. **Sports betting Ireland guide** → /sport/betting/ireland/sports-betting.htm
 5. **Free bet calculator** → /sport/betting/calculators/free-bet-value.htm
-6. **Odds calculator** → /sport/betting/calculators/odds.htm
+6. **Odds calculator** → /sport/betting-tools/odds-calculator.htm.htm
 7. **Wagering requirements calculator** → /sport/betting/calculators/wagering.htm
 8. **How to claim bonuses guide** → /sport/betting/guides/claim-bonuses.htm
 9. **Responsible gambling Ireland** → /sport/betting/ireland/responsible-gambling.htm

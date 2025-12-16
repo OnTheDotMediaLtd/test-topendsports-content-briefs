@@ -659,10 +659,10 @@ Target 800 words total (75-100 words per answer)
 
 Place naturally throughout content:
 
-1. **"UK sports betting sites"** → `/sport/betting/uk/betting-sites.htm`
+1. **"UK sports betting sites"** → `/sport/betting/uk/index.htm`
    Placement: Introduction (parent category)
 
-2. **"football betting sites UK"** → `/sport/betting/uk/football-betting.htm`
+2. **"football betting sites UK"** → `/sport/betting/uk/football-betting-sites.htm`
    Placement: Conclusion/Related content
 
 3. **"tennis betting UK"** → `/sport/betting/uk/tennis-betting.htm`

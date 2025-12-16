@@ -448,14 +448,14 @@
 
 | # | Anchor Text | Target URL | Context Section |
 |---|-------------|------------|-----------------|
-| 1 | best betting sites Ireland | /sport/betting/ireland/best-betting-sites.htm | Introduction |
+| 1 | best betting sites Ireland | /sport/betting/ireland/index.htm | Introduction |
 | 2 | Bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Competitor comparison |
 | 3 | Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Competitor comparison |
 | 4 | BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Competitor comparison |
-| 5 | betting calculator | /sport/betting/calculators/odds-calculator.htm | Tools/bonus section |
+| 5 | betting calculator | /sport/betting-tools/odds-calculator.htm-calculator.htm | Tools/bonus section |
 | 6 | accumulator calculator | /sport/betting/calculators/accumulator-calculator.htm | Bonus wagering |
 | 7 | Irish betting sites comparison | /sport/betting/ireland/comparison.htm | Introduction |
-| 8 | betting apps Ireland | /sport/betting/ireland/best-apps.htm | Mobile app section |
+| 8 | betting apps Ireland | /sport/betting/ireland/betting-apps.htm | Mobile app section |
 | 9 | free bets Ireland | /sport/betting/ireland/free-bets.htm | Promotions section |
 | 10 | sports betting guide | /sport/betting/how-to-bet.htm | FAQ section |
 | 11 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Footer section |

@@ -179,7 +179,7 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 **Internal Link:**
 - Anchor: "best betting sites ireland"
-- URL: `/sport/betting/ireland/betting-hub.htm`
+- URL: `/sport/betting/ireland/index.htm`
 
 ---
 
@@ -224,9 +224,9 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 - Anchor: "rugby betting Ireland"
 - URL: `/sport/betting/ireland/rugby-betting.htm`
 - Anchor: "parlay calculator"
-- URL: `/sport/betting/calculators/parlay-calculator.htm`
+- URL: `/sport/betting-tools/parlay-calculator.htm-calculator.htm`
 - Anchor: "odds calculator"
-- URL: `/sport/betting/calculators/odds-calculator.htm`
+- URL: `/sport/betting-tools/odds-calculator.htm-calculator.htm`
 
 ---
 
@@ -679,13 +679,13 @@ Include these 12 internal links throughout the article:
 
 | # | Anchor Text | URL | Placement Section |
 |---|-------------|-----|-------------------|
-| 1 | best betting sites ireland | `/sport/betting/ireland/betting-hub.htm` | Introduction, Bonus section |
+| 1 | best betting sites ireland | `/sport/betting/ireland/index.htm` | Introduction, Bonus section |
 | 2 | Paddy Power review | `/sport/betting/ireland/paddypower-review.htm` | Comparison section |
 | 3 | Boylesports review | `/sport/betting/ireland/boylesports-review.htm` | Comparison section |
 | 4 | Bet365 Ireland review | `/sport/betting/ireland/bet365-review.htm` | Comparison section |
 | 5 | sports betting in Ireland | `/sport/betting/ireland/` | About Millioner section |
-| 6 | parlay calculator | `/sport/betting/calculators/parlay-calculator.htm` | Sports Markets section |
-| 7 | odds calculator | `/sport/betting/calculators/odds-calculator.htm` | Sports Markets section |
+| 6 | parlay calculator | `/sport/betting-tools/parlay-calculator.htm-calculator.htm` | Sports Markets section |
+| 7 | odds calculator | `/sport/betting-tools/odds-calculator.htm-calculator.htm` | Sports Markets section |
 | 8 | betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section |
 | 9 | GAA betting | `/sport/betting/ireland/gaa-betting.htm` | Sports Markets section |
 | 10 | rugby betting Ireland | `/sport/betting/ireland/rugby-betting.htm` | Sports Markets section |

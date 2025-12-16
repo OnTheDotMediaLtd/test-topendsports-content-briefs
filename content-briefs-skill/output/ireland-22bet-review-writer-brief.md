@@ -101,7 +101,7 @@ Map ALL 13 secondary keywords to specific sections:
   - 50+ payment methods including crypto
 - Affiliate disclosure (50-75 words)
 
-**Internal Link:** [best betting sites Ireland](/sport/betting/ireland/best-betting-sites.htm)
+**Internal Link:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
 
 ---
 
@@ -287,7 +287,7 @@ Map ALL 13 secondary keywords to specific sections:
 - Google Play reviews (Android ratings)
 - Reddit r/sportsbook (user experiences with app)
 
-**Internal Link:** [betting apps Ireland](/sport/betting/ireland/best-apps.htm)
+**Internal Link:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
 
 ---
 
@@ -352,7 +352,7 @@ Map ALL 13 secondary keywords to specific sections:
 | Bank Transfer | 1-3 days | 3-7 days | None | €1 | €1.50 |
 | Visa/Mastercard | Instant | 3-5 days | None | €1 | €1.50 |
 
-**Calculator Link:** [betting calculator](/sport/betting/calculators/odds-calculator.htm)
+**Calculator Link:** [betting calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm)
 
 ---
 
@@ -630,7 +630,7 @@ No promo code is required for the standard €122 welcome bonus. The bonus is au
 **Answer (75 words):**
 **iOS:** Change your App Store region to UK or Cyprus (Settings → Apple ID → Country/Region → UK), then search "22bet" and download. The app is 45MB and requires iOS 12.0+. **Android:** Download the APK directly from 22bet.com (33MB file). Enable "Unknown Sources" in Android settings before installing. Both apps offer live streaming, cash out, and a 10% mobile acca boost. Ratings: iOS 4.3/5, Android 4.1/5.
 
-**Internal Link:** [betting apps Ireland](/sport/betting/ireland/best-apps.htm)
+**Internal Link:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
 
 ---
 
@@ -778,13 +778,13 @@ Access these tools in your account settings under "Responsible Gambling." Rememb
 
 Place naturally throughout the content:
 
-1. **Introduction:** [best betting sites Ireland](/sport/betting/ireland/best-betting-sites.htm)
+1. **Introduction:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
 2. **Overview:** [Irish betting sites comparison](/sport/betting/ireland/comparison.htm)
 3. **Bonus Section:** [free bets Ireland](/sport/betting/ireland/free-bets.htm)
 4. **Bonus Section:** [accumulator calculator](/sport/betting/calculators/accumulator-calculator.htm)
 5. **Sports Section:** [GAA betting](/sport/betting/gaa-betting.htm)
-6. **Mobile App:** [betting apps Ireland](/sport/betting/ireland/best-apps.htm)
-7. **Payment Methods:** [betting calculator](/sport/betting/calculators/odds-calculator.htm)
+6. **Mobile App:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
+7. **Payment Methods:** [betting calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm)
 8. **Competitor Comparison:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
 9. **Competitor Comparison:** [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm)
 10. **Competitor Comparison:** [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)

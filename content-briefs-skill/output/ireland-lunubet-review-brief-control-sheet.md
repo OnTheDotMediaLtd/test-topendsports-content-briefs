@@ -191,7 +191,7 @@ Based on competitor analysis, TopEndSports can dominate with:
 
 ## INTERNAL LINKS (12 total)
 
-1. "best betting sites in Ireland" → `/sport/betting/ireland/betting-hub.htm`
+1. "best betting sites in Ireland" → `/sport/betting/ireland/index.htm`
 2. "sports betting in Ireland" → `/sport/betting/ireland/`
 3. "Bet365 Ireland review" → `/sport/betting/ireland/bet365-review.htm`
 4. "BoyleSports review" → `/sport/betting/ireland/boylesports-review.htm`

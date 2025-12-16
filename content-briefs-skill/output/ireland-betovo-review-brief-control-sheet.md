@@ -188,13 +188,13 @@
 
 ## INTERNAL LINKS (12 Required)
 
-1. "best betting sites in Ireland" → `/sport/betting/ireland/best-betting-sites.htm`
+1. "best betting sites in Ireland" → `/sport/betting/ireland/index.htm`
 2. "Irish betting apps" → `/sport/betting/ireland/betting-apps.htm`
 3. "GAA betting guide" → `/sport/betting/gaa/betting-guide.htm`
 4. "live betting strategies" → `/sport/betting/guides/live-betting.htm`
 5. "sports betting bonus guide" → `/sport/betting/guides/bonuses.htm`
-6. "betting odds calculator" → `/sport/betting/calculators/odds.htm`
-7. "parlay calculator" → `/sport/betting/calculators/parlay.htm`
+6. "betting odds calculator" → `/sport/betting-tools/odds-calculator.htm.htm`
+7. "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm.htm`
 8. "responsible gambling Ireland" → `/sport/betting/ireland/responsible-gambling.htm`
 9. "bet365 Ireland review" → `/sport/betting/ireland/bet365-review.htm`
 10. "Paddy Power review" → `/sport/betting/ireland/paddy-power-review.htm`

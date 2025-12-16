@@ -277,7 +277,7 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 
 | Anchor Text | Target URL | Context |
 |-------------|-----------|---------|
-| betting sites Ireland | /sport/betting/ireland/betting-hub.htm | Ireland landscape |
+| betting sites Ireland | /sport/betting/ireland/index.htm | Ireland landscape |
 | GAA betting | /sport/betting/ireland/gaa-betting.htm | GAA coverage |
 | Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Competitor comparison |
 | BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Competitor comparison |
@@ -286,7 +286,7 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 | football betting Ireland | /sport/betting/ireland/football-betting.htm | Sport-specific |
 | live betting Ireland | /sport/betting/ireland/live-betting-guide.htm | Betting type |
 | best betting apps Ireland | /sport/betting/ireland/betting-apps.htm | App comparison |
-| parlay calculator | /tools/parlay-calculator.htm | Calculator tool |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Calculator tool |
 | odds calculator | /tools/odds-calculator.htm | Calculator tool |
 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Compliance |
 

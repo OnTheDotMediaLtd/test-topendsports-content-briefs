@@ -1033,7 +1033,7 @@ Place these 12 internal links naturally throughout the content:
 8. **UK Gambling Commission Guide** → /sport/betting/uk/ukgc-licensing.htm
    *Placement:* Licensing & Safety section
 
-9. **Football Betting UK** → /sport/betting/uk/football-betting.htm
+9. **Football Betting UK** → /sport/betting/uk/football-betting-sites.htm
    *Placement:* Sports Markets section (when discussing football)
 
 10. **Accumulator Betting Tips** → /sport/betting/accumulator-tips.htm

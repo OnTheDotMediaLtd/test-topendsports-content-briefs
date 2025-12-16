@@ -523,7 +523,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <p>If gambling is affecting your life:</p>
     <div class="contact-box">
       <strong>Canadian Problem Gambling Helpline</strong><br>
-      <span class="phone">1-866-531-2600</span><br>
+      <span class="phone">Provincial helplines vary</span><br>
       <em>Free, confidential, 24/7 support</em>
     </div>
     <div class="resource-links">
@@ -895,7 +895,7 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 - [x] Comparison table with all 9 brands (interactive, responsive)
 - [x] T&Cs summary: 3-4 bullets per brand (all 9 detailed)
 - [x] Schema markup: Article + FAQ + Breadcrumb (complete)
-- [x] Canada compliance: 19+/18+, 1-866-531-2600 (included + provincial info)
+- [x] Canada compliance: 19+/18+, Provincial helplines vary (included + provincial info)
 - [x] Payment methods accordion (collapsible, interactive)
 - [x] Affiliate disclosure (transparent, prominent)
 - [x] All 12 internal links placed strategically
@@ -912,7 +912,7 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 3. **Responsive:** All tables, grids, and components tested for mobile (< 768px breakpoint)
 4. **Schema:** FAQPage schema includes all 8 FAQs from Phase 2
 5. **Color Badges:** Each brand uses unique background color from Phase 2 (hex values included)
-6. **Hotline Corrected:** Used 1-866-531-2600 per your specification (different from Phase 2 document)
+6. **Hotline Corrected:** Used Provincial helplines vary per your specification (different from Phase 2 document)
 7. **Compliance:** Covers age requirement (19+ / 18+ in AB/MB/QC), all major provincial regulators
 8. **T&Cs:** Every brand has specific bonus terms, wagering requirements, eligibility, and restrictions
 

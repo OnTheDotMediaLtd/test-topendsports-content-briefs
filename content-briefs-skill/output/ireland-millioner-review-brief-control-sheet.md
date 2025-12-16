@@ -321,7 +321,7 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 
 ## INTERNAL LINKS (12 Required)
 
-1. **"best betting sites ireland"** → `/sport/betting/ireland/betting-hub.htm`
+1. **"best betting sites ireland"** → `/sport/betting/ireland/index.htm`
    - Main Ireland betting hub - primary internal link
 
 2. **"Paddy Power review"** → `/sport/betting/ireland/paddypower-review.htm`
@@ -336,10 +336,10 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 5. **"sports betting in Ireland"** → `/sport/betting/ireland/`
    - Ireland sports betting overview page
 
-6. **"parlay calculator"** → `/sport/betting/calculators/parlay-calculator.htm`
+6. **"parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm-calculator.htm`
    - Betting tools integration
 
-7. **"odds calculator"** → `/sport/betting/calculators/odds-calculator.htm`
+7. **"odds calculator"** → `/sport/betting-tools/odds-calculator.htm-calculator.htm`
    - Betting tools integration
 
 8. **"betting apps Ireland"** → `/sport/betting/ireland/betting-apps.htm`

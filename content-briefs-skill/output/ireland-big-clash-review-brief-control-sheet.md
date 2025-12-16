@@ -281,8 +281,8 @@ Based on competitor analysis, TopEndSports can dominate with:
 7. [Casina Sport review](/sport/betting/ireland/casina-review.htm) - Comparison
 
 ### Calculator Tools (2)
-8. [parlay calculator](/sport/betting/calculators/parlay-calculator.htm) - Tools section
-9. [odds calculator](/sport/betting/calculators/odds-calculator.htm) - Tools section
+8. [parlay calculator](/sport/betting-tools/parlay-calculator.htm-calculator.htm) - Tools section
+9. [odds calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm) - Tools section
 
 ### Educational Content (3)
 10. [betting odds explained](/sport/betting/guides/odds-explained.htm) - Beginner guide

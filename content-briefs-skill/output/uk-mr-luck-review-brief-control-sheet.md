@@ -319,7 +319,7 @@ Unlike major UK operators (Bet365, William Hill, Ladbrokes), Mr Luck is a smalle
 ## INTERNAL LINKS (12 Required)
 
 ### UK Market Pages
-1. "Best UK Betting Sites" → `/sport/betting/uk/best-betting-sites.htm`
+1. "Best UK Betting Sites" → `/sport/betting/uk/index.htm`
 2. "Bet365 Review" → `/sport/betting/uk/bet365-review.htm`
 3. "William Hill Review" → `/sport/betting/uk/william-hill-review.htm`
 

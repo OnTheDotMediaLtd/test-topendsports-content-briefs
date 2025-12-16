@@ -447,12 +447,12 @@
 
 | Anchor Text | Target URL | Context |
 |-------------|-----------|---------|
-| best UK betting sites | /sport/betting/uk/best-betting-sites.htm | Introduction comparison |
-| UK betting apps | /sport/betting/uk/best-betting-apps.htm | Mobile app section |
+| best UK betting sites | /sport/betting/uk/index.htm | Introduction comparison |
+| UK betting apps | /sport/betting/uk/betting-apps.htm | Mobile app section |
 | football betting sites UK | /sport/betting/uk/best-football-betting-sites.htm | Sports coverage |
 | casino betting sites | /sport/betting/uk/best-casino-sites.htm | Casino section |
 | free bet offers | /sport/betting/uk/free-bets.htm | Bonus section |
-| betting odds calculator | /sport/betting/calculators/odds-converter.htm | Sportsbook features |
+| betting odds calculator | /sport/betting-tools/odds-calculator.htm-converter.htm | Sportsbook features |
 | horse racing betting | /sport/betting/uk/horse-racing-betting.htm | Sports coverage |
 | PayPal betting sites | /sport/betting/uk/paypal-betting-sites.htm | Payment methods |
 | Bet365 review | /sport/betting/uk/bet365-review.htm | Competitor comparison |

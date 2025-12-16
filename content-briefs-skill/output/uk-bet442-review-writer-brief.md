@@ -766,7 +766,7 @@ Example cons to research:
 
 | Anchor Text | URL | Placement Section | Context |
 |-------------|-----|-------------------|---------|
-| best UK betting sites | /sport/betting/uk/best-betting-sites.htm | Introduction | "For more options, see our guide to the [best UK betting sites]" |
+| best UK betting sites | /sport/betting/uk/index.htm | Introduction | "For more options, see our guide to the [best UK betting sites]" |
 | bet365 review | /sport/betting/uk/bet365-review.htm | FAQ or Comparison | "Read our [bet365 review] for comparison" |
 | UK betting sites | /sport/betting/uk/ | Introduction or Conclusion | "Explore more [UK betting sites]" |
 | football betting sites UK | /sport/betting/uk/football-betting-sites.htm | Sports Markets section | "See our [football betting sites UK] guide" |

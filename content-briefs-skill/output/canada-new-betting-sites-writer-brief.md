@@ -398,13 +398,16 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 - Age requirement: **19+ (18+ in Alberta, Manitoba, Quebec)**
 - Self-exclusion tools on new platforms
 - Deposit limits and controls
-- **Canadian Problem Gambling Helpline: 1-800-463-1554**
+- **Pan-Canadian Resources:**
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - Provincial helplines vary by location
 - Provincial support resources
 - Warning signs of problem gambling
 - Links to help organizations
 
 **DO NOT USE:** 1-800-GAMBLER (that's US only)
-**USE:** 1-800-463-1554 (Canada)
+**USE:** Pan-Canadian resources (RGC and CCSA)
 
 ---
 
@@ -498,8 +501,10 @@ Use natural anchor text. Include ALL 12 links in the content:
 - 19+ in most provinces
 - 18+ in Alberta, Manitoba, Quebec
 
-**Gambling Hotline:**
-- **1-800-463-1554** (Canadian Problem Gambling Helpline)
+**Gambling Resources:**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 - DO NOT use 1-800-GAMBLER (US only)
 
 **Provincial Regulators:**
@@ -589,7 +594,7 @@ Before submitting, verify:
 - [ ] All 12 secondary keywords mapped to sections
 - [ ] All 8 FAQs target specific keywords
 - [ ] All 12 internal links included
-- [ ] Canadian compliance (19+, 1-800-463-1554)
+- [ ] Canadian compliance (19+, RGC and CCSA resources)
 - [ ] ALL 9 brands have Mobile Experience subsection (100-150 words each)
 - [ ] T&Cs included for ALL 9 brands (not just top 3)
 - [ ] Payment methods comparison table included

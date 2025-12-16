@@ -294,7 +294,7 @@ High-volume opportunity keywords:
 6. "bet365 Review" → /sport/betting/uk/bet365-review.htm
 7. "William Hill Review" → /sport/betting/uk/william-hill-review.htm
 8. "UK Gambling Commission Guide" → /sport/betting/uk/ukgc-licensing.htm
-9. "Football Betting UK" → /sport/betting/uk/football-betting.htm
+9. "Football Betting UK" → /sport/betting/uk/football-betting-sites.htm
 10. "Accumulator Betting Tips" → /sport/betting/accumulator-tips.htm
 11. "GamStop Self-Exclusion" → /sport/betting/gamstop.htm
 12. "Responsible Gambling UK" → /sport/betting/responsible-gambling.htm

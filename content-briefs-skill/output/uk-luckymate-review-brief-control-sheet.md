@@ -273,7 +273,7 @@ UK punters who prioritize:
 9. **"GamStop Self-Exclusion"** → /sport/betting/gamstop.htm
 10. **"UKGC Licensed Betting Sites"** → /sport/betting/uk/ukgc-licensed.htm
 11. **"Best Betting Apps UK"** → /sport/betting/uk/betting-apps.htm (contrast - LuckyMate NO app)
-12. **"UK Football Betting Guide"** → /sport/betting/uk/football-betting.htm
+12. **"UK Football Betting Guide"** → /sport/betting/uk/football-betting-sites.htm
 
 ---
 

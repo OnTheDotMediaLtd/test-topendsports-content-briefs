@@ -123,7 +123,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Brief comparison with UK market leaders
 
 **Internal Links:**
-- Link "best UK betting sites" to `/sport/betting/uk/best-betting-sites.htm`
+- Link "best UK betting sites" to `/sport/betting/uk/index.htm`
 
 **Sources:**
 - UK Gambling Commission license database
@@ -259,7 +259,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Account features (deposits, withdrawals, history)
 
 **Internal Links:**
-- Link "best betting apps UK" to `/sport/betting/uk/best-betting-apps.htm`
+- Link "best betting apps UK" to `/sport/betting/uk/betting-apps.htm`
 
 **Sources:**
 - Mobile usability testing
@@ -572,7 +572,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
   - Worth trying with welcome offer
 
 **Internal Links:**
-- Link "best UK betting sites" to `/sport/betting/uk/best-betting-sites.htm`
+- Link "best UK betting sites" to `/sport/betting/uk/index.htm`
 
 ---
 
@@ -609,7 +609,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
 
 **Place these contextually throughout the article:**
 
-1. **best UK betting sites** → `/sport/betting/uk/best-betting-sites.htm`
+1. **best UK betting sites** → `/sport/betting/uk/index.htm`
    - Placement: Introduction, Overview, Final Verdict
 
 2. **best new betting sites UK** → `/sport/betting/uk/new-betting-sites.htm`
@@ -618,7 +618,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
 3. **Bet365 review** → `/sport/betting/uk/bet365-review.htm`
    - Placement: Sports Coverage (comparison context)
 
-4. **best betting apps UK** → `/sport/betting/uk/best-betting-apps.htm`
+4. **best betting apps UK** → `/sport/betting/uk/betting-apps.htm`
    - Placement: Mobile Experience section
 
 5. **free bets UK** → `/sport/betting/uk/free-bets.htm`

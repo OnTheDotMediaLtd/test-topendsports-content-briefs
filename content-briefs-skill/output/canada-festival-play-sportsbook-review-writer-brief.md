@@ -627,7 +627,9 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
   - Quebec, Alberta, Manitoba: 18+
 - Legal vs. accessible distinction
 - Responsible gambling resources by province
-- ConnexOntario: 1-866-531-2600
+- Responsible Gambling Council: https://www.responsiblegambling.org/
+- Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+- Provincial helplines vary by location
 
 ---
 
@@ -703,14 +705,14 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 
 | Anchor Text | URL | Context | Section |
 |---|---|---|---|
-| Best Sports Betting Sites Canada | `/sport/betting/canada/betting-hub.htm` | Compare to other Canadian operators | Intro/Comparison |
+| Best Sports Betting Sites Canada | `/sport/betting/canada/index.htm` | Compare to other Canadian operators | Intro/Comparison |
 | Best Betting Apps Canada | `/sport/betting/canada/betting-apps.htm` | Note: Festival Play has no app | Mobile section |
 | New Betting Sites Canada | `/sport/betting/canada/new-betting-sites.htm` | Other emerging offshore operators | Overview |
 | Treasure Spins Review | `/sport/betting/canada/treasure-spins-review.htm` | Alternative offshore operator | Comparison |
 | Royalistplay Review | `/sport/betting/canada/royalistplay-review.htm` | Another offshore option | Comparison |
 | Lucky7even Review | `/sport/betting/canada/lucky7even-review.htm` | Popular Canadian offshore alternative | Comparison |
-| Parlay Calculator | `/sport/betting/calculators/parlay.htm` | Calculate potential parlay winnings | Betting section |
-| Odds Converter | `/sport/betting/calculators/odds-converter.htm` | Convert between odds formats | Betting section |
+| Parlay Calculator | `/sport/betting-tools/parlay-calculator.htm.htm` | Calculate potential parlay winnings | Betting section |
+| Odds Converter | `/sport/betting-tools/odds-calculator.htm-converter.htm` | Convert between odds formats | Betting section |
 | Betting Odds Explained | `/sport/betting/guides/odds-explained.htm` | Understanding betting odds | FAQ/Education |
 | How to Bet on NHL | `/sport/betting/guides/nhl-betting.htm` | NHL betting guide for Canadians | Sports markets |
 | CFL Betting Guide | `/sport/betting/guides/cfl-betting.htm` | Canadian Football League betting | Sports markets |
@@ -722,7 +724,10 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 
 ### Age & Legal Disclosure
 - **Age Requirement:** 19+ (18+ in Alberta, Manitoba, Quebec)
-- **Helpline:** ConnexOntario 1-866-531-2600 (Ontario) or provincial resources
+- **Resources:**
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - Provincial helplines vary by location
 - **Responsible Gambling URL:** Must link to `/sport/betting/responsible-gambling.htm`
 
 ### Affiliate Disclosure (50-75 words)
@@ -736,8 +741,10 @@ not accept payments for ranking, ratings, or recommendations.
 ### Responsible Gambling Section (Required - Bottom of Page)
 **Content:**
 - Age requirement (19+, 18+ in AB/MB/QC)
-- Problem gambling hotline: 1-866-531-2600
-- Links to provincial gambling resources
+- Pan-Canadian resources:
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+- Links to provincial gambling resources (vary by location)
 - Self-exclusion tools available
 - Betting limits recommendations
 - Warning signs of problem gambling
@@ -903,7 +910,7 @@ Update entire "Welcome Bonus" H2 section and FAQ #2 with new:
 5. ✅ Source requirements (Tier 1 primary specified)
 6. ✅ Word count targets per section
 7. ✅ 12 internal links to Canada betting content
-8. ✅ Canada compliance (19+, 18+ in AB/MB/QC, ConnexOntario 1-866-531-2600)
+8. ✅ Canada compliance (19+, 18+ in AB/MB/QC, RGC and CCSA resources)
 9. ✅ Detailed outline structure
 10. ✅ Technical implementation notes
 11. ✅ Quality checklist for validation

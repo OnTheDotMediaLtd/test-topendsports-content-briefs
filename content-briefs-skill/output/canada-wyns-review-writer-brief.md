@@ -176,7 +176,7 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 - Processing times for deposits (instant vs 24-48 hours)
 - Overview linking to banking section below
 
-**Internal link:** [parlay calculator](/sport/betting/calculators/parlay.htm), [odds calculator](/sport/betting/calculators/odds.htm)
+**Internal link:** [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm), [odds calculator](/sport/betting-tools/odds-calculator.htm.htm)
 
 ---
 
@@ -552,15 +552,19 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 - Account cooling-off period
 
 **Canadian Problem Gambling Resources:**
-- **ConnexOntario:** 1-866-531-2600 (Ontario)
-- **Gambling Help Line:** 1-888-795-6111 (British Columbia)
-- **Alberta Health Services:** 1-866-332-2322
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location:**
+  - British Columbia: 1-888-795-6111
+  - Alberta: 1-866-332-2322
+  - Manitoba: Problem Gambling Helpline
+  - Quebec: 1-800-461-0140
 - **Gambling Therapy:** Free online support (www.gamblingtherapy.org)
 - **Gamblers Anonymous:** Local meetings across Canada
 
 **Provincial Resources:**
 - List varies by province - link to provincial health services
-- Self-exclusion registries (Ontario: gamesenselb.ca)
+- Self-exclusion registries vary by province
 
 **Internal link:** [responsible gambling resources](/sport/betting/responsible-gambling.htm)
 
@@ -648,8 +652,8 @@ Include these naturally throughout content:
 4. [Ontario sports betting guide](/sport/betting/canada/ontario.htm) - Ontario section
 5. [Canadian online casinos](/sport/betting/canada/online-casinos.htm) - Casino features section
 6. [sports betting odds explained](/sport/betting/guides/odds-explained.htm) - Betting markets section
-7. [parlay calculator](/sport/betting/calculators/parlay.htm) - Feature analysis section
-8. [odds calculator](/sport/betting/calculators/odds.htm) - Feature analysis section
+7. [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm) - Feature analysis section
+8. [odds calculator](/sport/betting-tools/odds-calculator.htm.htm) - Feature analysis section
 9. [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
 10. [how to bet on sports in Canada](/sport/betting/canada/how-to-bet.htm) - Introduction or Ontario section
 11. [Betway Canada review](/sport/betting/canada/betway-review.htm) - Comparison section
@@ -662,7 +666,7 @@ Include these naturally throughout content:
 ### Canadian Market Requirements:
 
 - ✅ **Age disclosure:** 19+ in most provinces (ON, BC, NB, NL, NS, PE, SK), 18+ in AB, MB, QC
-- ✅ **Helpline:** ConnexOntario: 1-866-531-2600 (Ontario), provincial helplines vary
+- ✅ **Resources:** Responsible Gambling Council and CCSA, provincial helplines vary
 - ✅ **Affiliate disclosure:** Required in introduction (50-75 words)
 - ✅ **Responsible gambling section:** Required at end
 - ✅ **No dated language in H1:** Use "Complete Guide" not "2025 Review"

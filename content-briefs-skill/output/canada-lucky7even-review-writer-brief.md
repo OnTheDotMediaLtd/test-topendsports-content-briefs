@@ -13,7 +13,7 @@
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
 - **Age Requirement:** 19+ (varies by province: 18+ in AB, MB, QC)
-- **Hotline:** 1-866-531-2600 (Canada Problem Gambling Helpline)
+- **Hotlines:** Provincial helplines vary by location
 - **Priority:** High
 
 ---
@@ -459,8 +459,9 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - Cooling-off periods
 
 - **Help Resources:**
-  - **Canada Problem Gambling Helpline: 1-866-531-2600**
-  - Provincial problem gambling organizations
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+  - Provincial problem gambling organizations (vary by location)
   - Online resources
 
 - **Link:** Full T&Cs on Lucky7even website
@@ -607,7 +608,9 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - 18+ in Alberta, Manitoba, Quebec
 
 - **Problem Gambling Help:**
-  - **Canada Problem Gambling Helpline: 1-866-531-2600**
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+  - **Provincial helplines vary by location**
   - Available 24/7
   - Free and confidential
 
@@ -617,9 +620,8 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - Reality checks and session timers
 
 - **Provincial Resources:**
-  - ConnexOntario (Ontario)
-  - Responsible Gambling Council
-  - Provincial problem gambling services
+  - Responsible Gambling Council (national)
+  - Provincial problem gambling services (vary by location)
 
 - **Warning Signs:**
   - Brief list of gambling problem indicators
@@ -739,7 +741,7 @@ Include these 12 internal links naturally throughout content:
 ## COMPLIANCE CHECKLIST
 
 - [ ] Age requirement stated: 19+ (18+ in AB, MB, QC)
-- [ ] Hotline included: 1-866-531-2600 (Canada Problem Gambling Helpline)
+- [ ] Pan-Canadian resources included: Responsible Gambling Council and CCSA
 - [ ] Affiliate disclosure at top (50-75 words)
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (Last Updated badge will be added in Phase 3)

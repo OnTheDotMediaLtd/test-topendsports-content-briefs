@@ -476,7 +476,7 @@ The best betting apps in Ireland are **Paddy Power** (4.8/5 stars, 50K+ reviews)
 **Answer (80-100 words):**
 Betalright compares favorably on payment variety (50+ methods vs 10-15 for competitors) but lags in mobile experience (no app) and licensing (offshore vs Irish-regulated). Paddy Power and BoyleSports offer better GAA coverage, Irish licensing, and dedicated apps. Bet365 provides superior live streaming and market depth. Betalright is best for players who need specific payment methods (crypto, alternative e-wallets) and don't prioritize GAA betting or mobile apps. For comprehensive Ireland betting site comparisons, see our Ireland betting hub.
 
-**Internal link:** "betting sites Ireland" → `/sport/betting/ireland/betting-hub.htm`
+**Internal link:** "betting sites Ireland" → `/sport/betting/ireland/index.htm`
 
 ---
 
@@ -567,7 +567,7 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 
 | # | Anchor Text | Target URL | Context/Section |
 |---|-------------|------------|-----------------|
-| 1 | betting sites Ireland | `/sport/betting/ireland/betting-hub.htm` | Introduction, Ireland landscape |
+| 1 | betting sites Ireland | `/sport/betting/ireland/index.htm` | Introduction, Ireland landscape |
 | 2 | GAA betting | `/sport/betting/ireland/gaa-betting.htm` | GAA Betting Coverage H3 |
 | 3 | Paddy Power review | `/sport/betting/ireland/paddy-power-review.htm` | Betalright vs Paddy Power comparison |
 | 4 | BoyleSports review | `/sport/betting/ireland/boylesports-review.htm` | Betalright vs BoyleSports comparison |
@@ -576,7 +576,7 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 | 7 | football betting Ireland | `/sport/betting/ireland/football-betting.htm` | Football Betting Markets H3 |
 | 8 | live betting Ireland | `/sport/betting/ireland/live-betting-guide.htm` | Live Betting & In-Play Features H3 |
 | 9 | best betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section + FAQ |
-| 10 | parlay calculator | `/tools/parlay-calculator.htm` | Sports Betting Markets section |
+| 10 | parlay calculator | `/sport/betting-tools/parlay-calculator.htm` | Sports Betting Markets section |
 | 11 | odds calculator | `/tools/odds-calculator.htm` | Sports Betting Markets section |
 | 12 | responsible gambling resources | `/sport/betting/responsible-gambling.htm` | Responsible Gambling section |
 

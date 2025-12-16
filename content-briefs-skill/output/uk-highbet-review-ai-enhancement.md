@@ -907,7 +907,7 @@ function calculateBonus() {
 
   <ul style="margin: 0; padding-left: 1.25rem; line-height: 2; color: #333;">
     <li><a href="/sport/betting/uk/" style="color: #1976d2; text-decoration: none; font-weight: 500;">UK Betting Hub</a> - Complete guide to legal UK betting sites</li>
-    <li><a href="/sport/betting/uk/best-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Betting Sites</a> - Top-rated sportsbooks comparison</li>
+    <li><a href="/sport/betting/uk/index.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Betting Sites</a> - Top-rated sportsbooks comparison</li>
     <li><a href="/sport/betting/uk/best-football-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best Football Betting Sites</a> - Premier League & EFL specialists</li>
     <li><a href="/sport/betting/uk/best-casino-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Casino Sites</a> - Online casino reviews</li>
     <li><a href="/sport/betting/uk/betting-bonuses.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">UK Betting Bonuses</a> - Current welcome offers guide</li>

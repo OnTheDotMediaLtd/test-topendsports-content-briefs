@@ -661,7 +661,7 @@ Insert naturally throughout content:
 | GamStop Self-Exclusion | /sport/betting/gamstop.htm | Responsible Gambling |
 | UKGC Licensed Betting Sites | /sport/betting/uk/ukgc-licensed.htm | Safety & Licensed |
 | Best Betting Apps UK | /sport/betting/uk/betting-apps.htm | Mobile Experience (contrast) |
-| UK Football Betting Guide | /sport/betting/uk/football-betting.htm | Sports Coverage |
+| UK Football Betting Guide | /sport/betting/uk/football-betting-sites.htm | Sports Coverage |
 
 ---
 

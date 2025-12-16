@@ -321,7 +321,7 @@ Each brand section MUST include:
 **Internal Links:**
 - [matched betting guide](/sport/betting/guides/matched-betting.htm)
 - [free bet calculator](/sport/betting/calculators/free-bet-calculator.htm)
-- [odds calculator](/sport/betting/calculators/odds-calculator.htm)
+- [odds calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm)
 
 ---
 
@@ -339,7 +339,7 @@ Each brand section MUST include:
 
 **Internal Links:**
 - [free bet calculator](/sport/betting/calculators/free-bet-calculator.htm)
-- [odds calculator](/sport/betting/calculators/odds-calculator.htm)
+- [odds calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm)
 - [accumulator calculator](/sport/betting/calculators/accumulator-calculator.htm)
 
 ---
@@ -372,7 +372,7 @@ Each brand section MUST include:
 - Enhanced odds for big matches
 - Accumulator insurance offers
 
-**Internal Link:** [football betting UK](/sport/betting/uk/football-betting.htm)
+**Internal Link:** [football betting UK](/sport/betting/uk/football-betting-sites.htm)
 
 ### H3: Horse Racing Free Bets (150-175 words)
 - Cheltenham Festival (March)
@@ -536,12 +536,12 @@ Target high-volume keywords with FAQ questions. Each answer: 100-200 words.
 1. [best betting sites UK](/sport/betting/uk/index.htm) - Introduction
 2. [betting apps UK](/sport/betting/uk/betting-apps.htm) - Introduction
 3. [free bet calculator](/sport/betting/calculators/free-bet-calculator.htm) - Calculator section
-4. [odds calculator](/sport/betting/calculators/odds-calculator.htm) - Min odds explanation
+4. [odds calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm) - Min odds explanation
 5. [accumulator calculator](/sport/betting/calculators/accumulator-calculator.htm) - Acca FAQ
 6. [matched betting guide](/sport/betting/guides/matched-betting.htm) - Matched betting section
 7. [Bet442 review](/sport/betting/uk/bet442-review.htm) - Bet442 brand section
 8. [LuckyMate review](/sport/betting/uk/luckymate-review.htm) - LuckyMate brand section
-9. [football betting UK](/sport/betting/uk/football-betting.htm) - Football free bets subsection
+9. [football betting UK](/sport/betting/uk/football-betting-sites.htm) - Football free bets subsection
 10. [horse racing betting](/sport/betting/uk/horse-racing-betting.htm) - Horse racing subsection
 11. [welcome bonuses UK](/sport/betting/uk/welcome-bonuses.htm) - Related bonus types
 12. [no deposit bonuses](/sport/betting/uk/no-deposit-bonuses.htm) - No deposit section

@@ -440,13 +440,13 @@ Place these links naturally in context:
 
 | Anchor Text | URL | Section |
 |-------------|-----|---------|
-| best betting sites in Ireland | /sport/betting/ireland/best-betting-sites.htm | Comparison section |
+| best betting sites in Ireland | /sport/betting/ireland/index.htm | Comparison section |
 | Irish betting apps | /sport/betting/ireland/betting-apps.htm | Mobile App Review |
 | GAA betting guide | /sport/betting/gaa/betting-guide.htm | GAA Betting section |
 | live betting strategies | /sport/betting/guides/live-betting.htm | Live Betting section |
 | sports betting bonus guide | /sport/betting/guides/bonuses.htm | Welcome Bonus subsection |
-| betting odds calculator | /sport/betting/calculators/odds.htm | Betting Markets subsection |
-| parlay calculator | /sport/betting/calculators/parlay.htm | Betting Markets subsection |
+| betting odds calculator | /sport/betting-tools/odds-calculator.htm.htm | Betting Markets subsection |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm.htm | Betting Markets subsection |
 | responsible gambling Ireland | /sport/betting/ireland/responsible-gambling.htm | Responsible Gambling section |
 | bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Comparison section |
 | Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Comparison section |

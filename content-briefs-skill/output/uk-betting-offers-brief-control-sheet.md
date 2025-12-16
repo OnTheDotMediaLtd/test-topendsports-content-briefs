@@ -232,7 +232,7 @@
 3. "UK Free Bets" → /sport/betting/uk/free-bets.htm
 4. "New Betting Sites UK" → /sport/betting/uk/new-betting-sites.htm
 5. "Best UK Bookmakers" → /sport/betting/uk/bookmakers.htm
-6. "Football Betting Sites UK" → /sport/betting/uk/football-betting.htm
+6. "Football Betting Sites UK" → /sport/betting/uk/football-betting-sites.htm
 7. "Horse Racing Betting UK" → /sport/betting/uk/horse-racing-betting.htm
 8. "Champions League Betting" → /sport/betting/champions-league.htm
 9. "Mobile Betting Apps UK" → /sport/betting/uk/mobile-betting.htm

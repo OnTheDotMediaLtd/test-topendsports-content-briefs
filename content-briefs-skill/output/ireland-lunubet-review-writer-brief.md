@@ -700,10 +700,10 @@ Lunubet is a Curacao-licensed sportsbook that accepts Irish players, offering co
 
 Link to these pages naturally throughout:
 
-1. **best betting sites in Ireland** → /sport/betting/ireland/betting-hub.htm
+1. **best betting sites in Ireland** → /sport/betting/ireland/index.htm
    Context: Comparison section
 
-2. **sports betting in Ireland** → /sport/betting/ireland/
+2. **sports betting in Ireland** → /sport/betting/ireland/index.htm
    Context: Introduction
 
 3. **Bet365 Ireland review** → /sport/betting/ireland/bet365-review.htm

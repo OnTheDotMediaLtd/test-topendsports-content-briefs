@@ -1067,7 +1067,7 @@ window.addEventListener('DOMContentLoaded', function() {
       </a>
     </li>
     <li>
-      <a href="/sport/betting/ireland/betting-hub.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
+      <a href="/sport/betting/ireland/index.htm" style="color: #2e7d32; text-decoration: none; font-weight: 600;">
         → Best Betting Sites Ireland
       </a>
     </li>

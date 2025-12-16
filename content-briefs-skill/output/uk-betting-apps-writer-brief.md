@@ -282,7 +282,7 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 - Comparison table of football coverage across apps
 - Best odds for Premier League, Champions League, etc.
 
-**Internal link:** [UK Football Betting](/sport/betting/uk/football-betting.htm)
+**Internal link:** [UK Football Betting](/sport/betting/uk/football-betting-sites.htm)
 
 ---
 
@@ -792,10 +792,10 @@ Place these naturally throughout the content. Context indicates where to use eac
 
 | Anchor Text | URL | Placement | Context |
 |-------------|-----|-----------|---------|
-| UK Sports Betting Sites | /sport/betting/uk/sports-betting.htm | Introduction or early section | Main UK betting hub |
-| UK Football Betting | /sport/betting/uk/football-betting.htm | Best Football Betting Apps section | Football-specific page |
-| Parlay Calculator | /sport/betting/calculators/parlay.htm | How-to or features section | Calculator tool for accumulator bets |
-| Odds Calculator | /sport/betting/calculators/odds.htm | How-to or features section | Calculator tool for odds conversion |
+| UK Sports Betting Sites | /sport/betting/uk/index.htm | Introduction or early section | Main UK betting hub |
+| UK Football Betting | /sport/betting/uk/football-betting-sites.htm | Best Football Betting Apps section | Football-specific page |
+| Parlay Calculator | /sport/betting-tools/parlay-calculator.htm.htm | How-to or features section | Calculator tool for accumulator bets |
+| Odds Calculator | /sport/betting-tools/odds-calculator.htm.htm | How-to or features section | Calculator tool for odds conversion |
 | UK Horse Racing Betting | /sport/betting/uk/horse-racing.htm | Sports coverage or BOG section | Horse racing apps discussion |
 | Best Odds Guaranteed UK | /sport/betting/uk/best-odds-guaranteed.htm | Best Odds Guaranteed Apps section | Detailed BOG explanation |
 | Live Betting UK | /sport/betting/uk/live-betting.htm | In-play features section | Live betting features |

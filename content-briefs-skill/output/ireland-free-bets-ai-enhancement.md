@@ -607,14 +607,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- In Introduction Section -->
 <p>
   Learn more about the <a href="/sport/betting/ireland/">Ireland betting hub</a>,
-  <a href="/sport/betting/ireland/best-sites.htm">best betting sites Ireland</a>,
+  <a href="/sport/betting/ireland/index.htm">best betting sites Ireland</a>,
   and our full <a href="/sport/betting/ireland/sports-betting.htm">sports betting Ireland guide</a>.
 </p>
 
 <!-- In Mobile Experience Sections -->
 <p>
   Claiming on mobile is streamlined across all sites. See our
-  <a href="/sport/betting/ireland/best-apps.htm">best betting apps Ireland</a> guide for detailed app reviews.
+  <a href="/sport/betting/ireland/betting-apps.htm">best betting apps Ireland</a> guide for detailed app reviews.
 </p>
 
 <!-- In Wagering Requirements Section -->

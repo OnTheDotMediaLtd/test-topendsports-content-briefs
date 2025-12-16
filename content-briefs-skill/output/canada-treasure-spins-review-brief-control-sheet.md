@@ -147,7 +147,7 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - [ ] **CAD Currency Support** - No exchange fees
 - [ ] **Provincial Regulations** - Age requirements vary (19+ most provinces, 18+ in AB, MB, QC)
 - [ ] **Canadian Customer Support Hours** - Time zone considerations
-- [ ] **Canadian Responsible Gambling Resources** - 1-866-531-2600, Responsible Gambling Council
+- [ ] **Canadian Responsible Gambling Resources** - Responsible Gambling Council, provincial helplines
 
 ---
 
@@ -257,8 +257,13 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - **18+ allowed:** Alberta, Manitoba, Quebec
 
 ### Canadian Gambling Resources
-- **Hotline:** 1-866-531-2600 (Canadian Problem Gambling Hotline)
-- **Organizations:** Responsible Gambling Council (Canada), ConnexOntario (Ontario), Gamblers Anonymous
+- **National:** Responsible Gambling Council (www.responsiblegambling.org)
+- **Provincial Helplines:**
+  - Alberta: 1-866-332-2322
+  - BC: 1-888-795-6111
+  - Quebec: 1-800-461-0140
+  - Ontario: 1-866-531-2600 (Responsible Gambling Council)
+- **Organizations:** Gamblers Anonymous
 
 ### Required Disclosures
 - [ ] Affiliate disclosure statement (top of page)

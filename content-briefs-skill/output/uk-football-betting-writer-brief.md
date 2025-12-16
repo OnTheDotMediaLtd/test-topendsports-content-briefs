@@ -226,7 +226,7 @@
 - Odds value and finding the best prices
 - Odds comparison across the 9 sites
 - Why odds vary between bookmakers
-- **LINK:** Odds converter tool (/tools/odds-converter.htm)
+- **LINK:** Odds converter tool (/sport/betting-tools/odds-calculator.htm)
 
 **Example:**
 ```
@@ -425,7 +425,7 @@ A bet builder lets you combine multiple selections from the same match into one 
 
 Place these links naturally throughout content:
 
-1. **"Best betting sites UK"** → /sport/betting/uk/best-betting-sites.htm
+1. **"Best betting sites UK"** → /sport/betting/uk/index.htm
    *Placement:* Introduction or Responsible Gambling section
 
 2. **"Premier League betting tips"** → /sport/betting/uk/premier-league-betting.htm
@@ -437,10 +437,10 @@ Place these links naturally throughout content:
 4. **"Football accumulator tips"** → /sport/betting/uk/accumulator-tips.htm
    *Placement:* Betting Tips section
 
-5. **"Parlay calculator"** → /tools/parlay-calculator.htm
+5. **"Parlay calculator"** → /sport/betting-tools/parlay-calculator.htm
    *Placement:* Betting Tips section or FAQ
 
-6. **"Odds converter"** → /tools/odds-converter.htm
+6. **"Odds converter"** → /sport/betting-tools/odds-calculator.htm
    *Placement:* Understanding Football Betting Odds section
 
 7. **"Bet365 review"** → /sport/betting/uk/bet365-review.htm

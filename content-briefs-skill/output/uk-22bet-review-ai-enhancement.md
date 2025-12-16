@@ -807,7 +807,7 @@
 <!-- Internal Links Implementation -->
 
 <!-- Introduction Section -->
-<a href="/sport/betting/uk/best-betting-sites.htm">best betting sites UK</a>
+<a href="/sport/betting/uk/index.htm">best betting sites UK</a>
 
 <!-- Betting Markets Section -->
 <a href="/sport/betting/uk/football-odds.htm">football betting odds</a>
@@ -815,7 +815,7 @@
 <a href="/sport/betting/odds-comparison.htm">odds comparison</a>
 
 <!-- Mobile App Section -->
-<a href="/sport/betting/uk/best-betting-apps.htm">betting apps UK</a>
+<a href="/sport/betting/uk/betting-apps.htm">betting apps UK</a>
 
 <!-- Bonus Section -->
 <a href="/sport/betting/uk/welcome-bonus-offers.htm">welcome bonus offers</a>
@@ -851,7 +851,7 @@
 
   <p><strong>22bet is best for:</strong> UK bettors seeking massive sports coverage (1000+ daily events), competitive odds, and combined sportsbook/casino in one account. If you're comfortable with Curacao regulation (vs UKGC) and want cryptocurrency payment options, 22bet offers excellent value.</p>
 
-  <p><strong>Consider alternatives if:</strong> You prioritize UKGC regulation, prefer established UK operators, or want 24/7 local customer support. <a href="/sport/betting/uk/best-betting-sites.htm">See our guide to best UK betting sites</a> for UKGC-licensed options.</p>
+  <p><strong>Consider alternatives if:</strong> You prioritize UKGC regulation, prefer established UK operators, or want 24/7 local customer support. <a href="/sport/betting/uk/index.htm">See our guide to best UK betting sites</a> for UKGC-licensed options.</p>
 
   <p><strong>Key Decision Factors:</strong></p>
   <ul>

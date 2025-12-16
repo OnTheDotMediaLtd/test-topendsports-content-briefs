@@ -298,8 +298,8 @@ Despite 0 volume primary keyword:
 6. **"Wyns sportsbook review"** → `/sport/betting/canada/wyns-review.htm` (Comparison)
 
 ### Calculator Tools (Unique Differentiator)
-7. **"parlay calculator"** → `/sport/betting/calculators/parlay.htm` (Tools section)
-8. **"odds calculator"** → `/sport/betting/calculators/odds.htm` (Tools section)
+7. **"parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm.htm` (Tools section)
+8. **"odds calculator"** → `/sport/betting-tools/odds-calculator.htm.htm` (Tools section)
 
 ### Sport-Specific Pages
 9. **"NHL betting"** → `/sport/betting/nhl/index.htm` (Sports coverage)

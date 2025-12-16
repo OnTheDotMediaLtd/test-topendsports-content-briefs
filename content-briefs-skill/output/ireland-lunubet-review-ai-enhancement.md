@@ -684,7 +684,7 @@ Place throughout relevant sections:
 
 ```html
 <!-- Intro/Comparison Section -->
-<a href="/sport/betting/ireland/betting-hub.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">best betting sites in Ireland</a>
+<a href="/sport/betting/ireland/index.htm" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">best betting sites in Ireland</a>
 
 <!-- Introduction -->
 <a href="/sport/betting/ireland/" style="color: #6B2D5B; text-decoration: none; font-weight: 600;">sports betting in Ireland</a>

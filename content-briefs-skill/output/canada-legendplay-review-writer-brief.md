@@ -410,8 +410,8 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 - How to use these tools with Legendplay bets (step-by-step)
 
 **Internal Links:**
-- [parlay calculator](/sport/betting/calculators/parlay.htm)
-- [odds calculator](/sport/betting/calculators/odds.htm)
+- [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm)
+- [odds calculator](/sport/betting-tools/odds-calculator.htm.htm)
 
 ---
 
@@ -623,8 +623,10 @@ Each FAQ should:
 **Age Requirement:**
 Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 
-**Canadian Problem Gambling Helpline:**
-**1-800-463-1554 (ConnexOntario)**
+**Canadian Problem Gambling Resources:**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **Provincial helplines vary by location**
 
 **Content Must Include:**
 - Age verification importance
@@ -634,9 +636,9 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 - Reality checks
 - Time-out features
 - Provincial resources:
-  - ConnexOntario: 1-800-463-1554
-  - Problem Gambling Institute of Ontario
-  - Responsible Gambling Council
+  - Responsible Gambling Council (national)
+  - Canadian Centre on Substance Use and Addiction
+  - Provincial helplines (vary by location)
 - Encouragement to gamble responsibly
 - "When the fun stops, stop" messaging
 
@@ -701,7 +703,7 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 Before submitting, verify:
 
 - [ ] Age requirement stated: 19+ (18+ in Alberta, Manitoba, Quebec)
-- [ ] Canadian helpline included: 1-800-463-1554
+- [ ] Pan-Canadian resources included: RGC and CCSA
 - [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1
@@ -749,8 +751,8 @@ Include these contextually throughout the content:
 2. [sports betting Ontario](/sport/betting/canada/ontario-betting.htm) - Provincial availability
 3. [Bet365 Canada review](/sport/betting/canada/bet365-review.htm) - Comparison section
 4. [NHL betting guide](/sport/betting/nhl-betting.htm) - NHL section
-5. [parlay calculator](/sport/betting/calculators/parlay.htm) - Tools section
-6. [odds calculator](/sport/betting/calculators/odds.htm) - Tools section
+5. [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm) - Tools section
+6. [odds calculator](/sport/betting-tools/odds-calculator.htm.htm) - Tools section
 7. [Canadian betting apps](/sport/betting/canada/best-betting-apps.htm) - Mobile app section
 8. [responsible gambling Canada](/sport/betting/responsible-gambling.htm) - Responsible gambling section
 9. [how to withdraw from sportsbooks](/sport/betting/guides/how-to-withdraw.htm) - Payment methods section
@@ -856,7 +858,7 @@ Before marking as complete:
 
 **Compliance:**
 - [ ] Age: 19+ (18+ in AB, MB, QC) stated
-- [ ] Helpline: 1-800-463-1554 included
+- [ ] Pan-Canadian resources: RGC and CCSA included
 - [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section at bottom
 - [ ] Provincial variations acknowledged

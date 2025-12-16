@@ -805,7 +805,7 @@ Place contextually within content:
 2. [UK betting apps](/sport/betting/uk/betting-apps.htm) - Mobile section
 3. [best UK bookmakers](/sport/betting/uk/best-bookmakers.htm) - Comparison section
 4. [online betting UK](/sport/betting/uk/online-betting.htm) - Online betting discussion
-5. [football betting sites UK](/sport/betting/uk/football-betting.htm) - Sports coverage
+5. [football betting sites UK](/sport/betting/uk/football-betting-sites.htm) - Sports coverage
 6. [UK free bets](/sport/betting/uk/free-bets.htm) - Welcome bonus section
 7. [betting bonuses UK](/sport/betting/uk/betting-bonuses.htm) - Latest offers
 8. [horse racing betting UK](/sport/betting/uk/horse-racing.htm) - Sports variety

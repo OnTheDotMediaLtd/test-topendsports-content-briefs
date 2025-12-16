@@ -25,7 +25,7 @@ This review targets **Canadian players exclusively**. Every section must emphasi
 1. **CAD Currency** - All amounts in Canadian dollars
 2. **Interac e-Transfer** - Critical payment method for Canadians (mention prominently)
 3. **Provincial Regulations** - Age varies: 19+ (most), 18+ (AB/MB/QC)
-4. **Canadian Hotline** - 1-866-531-2600 (not US hotline)
+4. **Canadian Resources** - Responsible Gambling Council and CCSA (not US hotlines)
 5. **Canadian Time Zones** - Support hours in EST/PST
 6. **Responsible Gambling Council** - Canadian resources, not US
 
@@ -883,11 +883,11 @@ Map FAQs to target keywords for SEO:
 - Warning signs of problem gambling
 - Self-help tools available at Treasure Spins
 - **Canadian Resources:**
-  - **Canadian Problem Gambling Hotline: 1-866-531-2600** (MUST include)
-  - Responsible Gambling Council (Canada): https://www.responsiblegambling.org/
-  - ConnexOntario (Ontario): 1-866-531-2600
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/ (MUST include)
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+  - **Provincial helplines:** Vary by location - see provincial gambling authorities
   - Gamblers Anonymous: https://www.gamblersanonymous.org/
-  - Provincial resources if applicable
+  - Provincial resources by location
 - Age restrictions reminder (19+/18+)
 - Encouragement to set limits and seek help if needed
 
@@ -969,7 +969,7 @@ Before submitting, ensure ALL of these are included:
 
 - [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Age requirement: "19+ in most provinces, 18+ in Alberta, Manitoba, Quebec"
-- [ ] Canadian gambling hotline: **1-866-531-2600**
+- [ ] Pan-Canadian gambling resources: **Responsible Gambling Council and CCSA**
 - [ ] Responsible Gambling Council link
 - [ ] Responsible gambling section at end
 - [ ] All amounts in CAD (never USD)
@@ -1076,7 +1076,7 @@ This is a **casino review** (not sportsbook) for the **Canadian market**. Key po
    - Every financial amount must be in CAD
    - Interac e-Transfer is THE most important payment method for Canadians - emphasize this heavily
    - Age requirements vary by province (19+ most, 18+ AB/MB/QC)
-   - Use Canadian gambling hotline: 1-866-531-2600
+   - Use pan-Canadian resources: Responsible Gambling Council and CCSA
    - Customer support hours in EST/PST
 
 3. **Research Required:**

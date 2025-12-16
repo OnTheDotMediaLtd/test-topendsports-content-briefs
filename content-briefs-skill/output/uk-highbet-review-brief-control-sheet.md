@@ -206,7 +206,7 @@
 
 ### Market & Category Links
 3. [UK Betting Hub](/sport/betting/uk/)
-4. [Best UK Betting Sites](/sport/betting/uk/best-betting-sites.htm)
+4. [Best UK Betting Sites](/sport/betting/uk/index.htm)
 5. [Best Football Betting Sites UK](/sport/betting/uk/best-football-betting-sites.htm)
 6. [UK Casino Sites](/sport/betting/uk/best-casino-sites.htm)
 

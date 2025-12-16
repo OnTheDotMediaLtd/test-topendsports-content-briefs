@@ -230,9 +230,9 @@ Must include these keywords:
 
 ## INTERNAL LINKS (Minimum 12)
 
-1. "best betting sites UK" → /sport/betting/uk/best-betting-sites.htm
+1. "best betting sites UK" → /sport/betting/uk/index.htm
 2. "football betting odds" → /sport/betting/uk/football-odds.htm
-3. "betting apps UK" → /sport/betting/uk/best-betting-apps.htm
+3. "betting apps UK" → /sport/betting/uk/betting-apps.htm
 4. "welcome bonus offers" → /sport/betting/uk/welcome-bonuses.htm
 5. "responsible gambling" → /sport/betting/responsible-gambling.htm
 6. "live betting guide" → /sport/betting/live-betting-guide.htm

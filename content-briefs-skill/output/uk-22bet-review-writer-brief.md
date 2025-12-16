@@ -131,7 +131,7 @@ Last Updated: December 15, 2025
 - 24/7 multilingual customer support
 - Combined sportsbook + casino platform
 
-**Internal Link:** [best betting sites UK](/sport/betting/uk/best-betting-sites.htm)
+**Internal Link:** [best betting sites UK](/sport/betting/uk/index.htm)
 
 ---
 
@@ -263,7 +263,7 @@ Last Updated: December 15, 2025
 
 **Source Required:** Google Play reviews, Reddit user feedback
 
-**Internal Link:** [betting apps UK](/sport/betting/uk/best-betting-apps.htm)
+**Internal Link:** [betting apps UK](/sport/betting/uk/betting-apps.htm)
 
 ---
 
@@ -649,9 +649,9 @@ Affiliate sites can be used for research only, never cited in final content.
 
 Place these contextually within the content:
 
-1. [best betting sites UK](/sport/betting/uk/best-betting-sites.htm) - Introduction
+1. [best betting sites UK](/sport/betting/uk/index.htm) - Introduction
 2. [football betting odds](/sport/betting/uk/football-odds.htm) - Betting Markets
-3. [betting apps UK](/sport/betting/uk/best-betting-apps.htm) - Mobile App
+3. [betting apps UK](/sport/betting/uk/betting-apps.htm) - Mobile App
 4. [welcome bonus offers](/sport/betting/uk/welcome-bonuses.htm) - Bonus section
 5. [responsible gambling](/sport/betting/responsible-gambling.htm) - Responsible Gambling
 6. [live betting guide](/sport/betting/live-betting-guide.htm) - Betting Markets
