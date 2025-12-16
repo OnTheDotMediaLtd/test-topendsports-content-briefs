@@ -106,7 +106,7 @@ python validate_phase_json.py phase1-output.json --phase 1
 - Impact level specification
 - Markdown syntax validation
 
-#### Filename Rules:
+### Filename Rules:
 ```
 Format: YYYY-MM-DD-topic.md
 Date: Must be valid calendar date
@@ -114,7 +114,7 @@ Topic: Lowercase letters, numbers, hyphens only
 Example: 2024-12-09-performance-improvement.md
 ```
 
-#### Required Content:
+### Required Content:
 ```
 ## Issue/Improvement
 [Minimum 50 words describing the issue]
