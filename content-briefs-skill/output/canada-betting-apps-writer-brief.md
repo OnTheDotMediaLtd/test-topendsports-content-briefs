@@ -25,14 +25,12 @@ Map EVERY secondary keyword to a specific section. Use exact titles provided.
 |---------|--------|--------------|-----------------|
 | best sports betting apps canada | 700/mo | H1 | "Best Sports Betting Apps Canada: Complete Guide" |
 | best betting apps canada | 500/mo | H2 | "Best Betting Apps Canada: Our Top 9 Picks" |
-| betting apps ontario | 350/mo | H2 | "Ontario vs Offshore Betting Apps: Key Differences" |
 | sports betting apps canada | 300/mo | Natural | Introduction paragraph (use 2-3 times) |
 | gambling apps canada | 300/mo | H2 + H3 | "Types of Gambling Apps Available in Canada" |
 | canadian betting apps | 250/mo | Natural | Introduction paragraph |
 | sports betting app canada | 200/mo | Natural | Introduction paragraph |
 | canadian sports betting apps | 150/mo | Natural | Introduction paragraph |
 | top sports betting apps canada | 80/mo | H2 | "Top Sports Betting Apps Canada: Comparison Table" |
-| bet365 app canada | 50/mo | H2 | "Bet365 App Availability in Canada" (200-250w) |
 | best soccer betting apps canada | 40/mo | H3 | Under "Best Betting Apps by Sport" |
 | top betting apps canada | 30/mo | Natural | Introduction paragraph |
 | android betting apps canada | 20/mo | H2 | "Android vs iOS Betting Apps: Which is Better?" |
@@ -40,7 +38,7 @@ Map EVERY secondary keyword to a specific section. Use exact titles provided.
 | mobile betting apps canada | 20/mo | H2 | "Mobile Betting App Features: What to Look For" |
 
 **Meta Keywords (for AI Enhancement phase):**
-betting apps canada, best sports betting apps canada, best betting apps canada, betting apps ontario, sports betting apps canada, gambling apps canada, canadian betting apps, sports betting app canada, canadian sports betting apps, top sports betting apps canada, bet365 app canada, best soccer betting apps canada, top betting apps canada, android betting apps canada, iphone betting apps canada, mobile betting apps canada
+betting apps canada, best sports betting apps canada, best betting apps canada, sports betting apps canada, gambling apps canada, canadian betting apps, sports betting app canada, canadian sports betting apps, top sports betting apps canada, best soccer betting apps canada, top betting apps canada, android betting apps canada, iphone betting apps canada, mobile betting apps canada
 
 ---
 
@@ -199,23 +197,6 @@ Create comprehensive comparison table with all 9 brands:
 
 ---
 
-### H2: Ontario vs Offshore Betting Apps: Key Differences (400-500 words)
-
-**Target Keyword:** betting apps ontario (350/mo)
-
-**Cover:**
-- Ontario's regulated market (AGCO oversight)
-- Regulated operators in Ontario (bet365, BetMGM Ontario, etc.)
-- Offshore apps overview (why Canadians use them)
-- Payment method differences (Interac availability)
-- Bonus restrictions in Ontario vs offshore
-- Privacy and anonymity considerations
-- Recommendation: When to choose each
-
-**Internal Link:** Link to "Ontario betting apps" page
-
----
-
 ### H2: Popular Payment Methods on Canadian Betting Apps (350-400 words)
 
 #### H3: Interac E-Transfer (100-125 words)
@@ -237,6 +218,40 @@ Create comprehensive comparison table with all 9 brands:
 - Limitations (some Canadian banks block gambling)
 - Processing times
 - Best for whom
+
+---
+
+### H2: Best Bonuses Across Canadian Betting Apps (400-450 words)
+
+**Competitor Gap:** Top-ranking competitor has this section - we need it too.
+
+#### H3: Welcome Bonus Comparison (150-175 words)
+- Compare welcome bonuses across all 9 apps
+- Bonus amounts (match percentage, max bonus)
+- Wagering requirements (20x, 30x, etc.)
+- Time limits to meet requirements
+- Best overall value (top 3 picks)
+
+#### H3: App-Exclusive Bonus Offers (125-150 words)
+- Mobile-only promotions
+- Download bonuses (bonus for installing app)
+- Push notification exclusive offers
+- In-app promo code entry
+- Which apps offer the best mobile-exclusive deals
+
+#### H3: Ongoing Promotions for Mobile Users (100-125 words)
+- Reload bonuses
+- Parlay boosts (especially for NHL/CFL)
+- Free bet promotions
+- Loyalty programs accessible via app
+- Best apps for regular promotions (top 3)
+
+**Table Required:**
+| App | Welcome Bonus | Wagering | App-Exclusive Offer |
+|-----|---------------|----------|---------------------|
+| Treasure Spins | [Amount] | [Req] | [Offer] |
+| Royalistplay | [Amount] | [Req] | [Offer] |
+| ... (all 9 brands) | | | |
 
 ---
 
@@ -367,23 +382,6 @@ Create comprehensive comparison table with all 9 brands:
 
 ---
 
-### H2: Bet365 App Availability in Canada (200-250 words)
-
-**Target Keyword:** bet365 app canada (50/mo)
-
-**Cover:**
-- Current legal status (Ontario only)
-- bet365 Ontario app (regulated)
-- bet365 offshore availability (limited)
-- Why bet365 isn't widely available
-- Best bet365 alternatives
-
-**Note:** bet365 is legal in Ontario through AGCO but not available offshore to Canadians
-
-**Internal Link:** Link to "offshore betting sites"
-
----
-
 ### H2: Frequently Asked Questions (1,200-1,400 words)
 
 **10 FAQs, 120-150 words each. Target high-value keywords.**
@@ -424,41 +422,40 @@ Create comprehensive comparison table with all 9 brands:
 - Limits and fees
 - Best apps for Interac (list 5+)
 
-#### 6. What's the difference between Ontario betting apps and offshore apps?
-**Target:** betting apps ontario (350/mo)
-- Regulatory oversight differences (AGCO vs offshore)
-- Payment method differences
-- Bonus restrictions in Ontario
-- Pros and cons of each
-- When to choose regulated vs offshore
-
-#### 7. Can I bet on CFL games with Canadian betting apps?
+#### 6. Can I bet on CFL games with Canadian betting apps?
 **Target:** cfl betting apps
 - CFL coverage by offshore apps
 - Best apps for CFL betting (top 3)
 - Grey Cup markets
 - Live betting availability during CFL games
 
-#### 8. Do betting apps in Canada accept cryptocurrency?
+#### 7. Do betting apps in Canada accept cryptocurrency?
 **Target:** crypto betting apps canada
 - Crypto payment options (Bitcoin, Ethereum, Litecoin)
 - Advantages of crypto betting (anonymity, speed)
 - Processing times (10 min - 2 hours)
 - Best apps for crypto (list top 5)
 
-#### 9. How do I download betting apps on iPhone in Canada?
+#### 8. How do I download betting apps on iPhone in Canada?
 **Target:** iphone betting apps canada (20/mo)
 - App Store availability (limited for offshore)
 - Geographic restrictions
 - Web app alternatives (how to add to home screen)
 - Step-by-step download guide
 
-#### 10. Which betting app has the best mobile experience?
+#### 9. Which betting app has the best mobile experience?
 **Target:** mobile betting apps canada (20/mo)
 - Top 3 for mobile UX
 - Key features (live betting, cash out, notifications)
 - App Store ratings (iOS and Android)
 - Performance and speed comparison
+
+#### 10. Which betting apps have the best welcome bonuses?
+**Target:** betting app bonuses canada
+- Top 3 apps for welcome bonus value
+- Bonus amounts and wagering requirements
+- App-exclusive bonus offers
+- How to claim bonuses via mobile app
 
 ---
 
@@ -468,14 +465,14 @@ Create comprehensive comparison table with all 9 brands:
 
 **Include:**
 - Age requirements: 19+ (18+ in Alberta, Manitoba, Quebec)
-- Gambling hotline: 1-866-531-2600 (ConnexOntario)
 - Self-exclusion programs
 - Deposit limits and responsible gambling tools
 - Warning signs of problem gambling
 - Resources:
-  - ConnexOntario: 1-866-531-2600
   - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
   - Gamblers Anonymous Canada
+  - Provincial helplines (vary by province)
 
 **Offshore Disclaimer:**
 "Note that offshore betting sites operate outside Canadian jurisdiction. While popular among Canadian bettors, they are not regulated by Canadian gaming authorities."
@@ -500,7 +497,7 @@ Create comprehensive comparison table with all 9 brands:
    - Citation: "Reddit users in r/sportsbook report [finding] (analyzed X threads)"
    - Use for: User experiences, pros/cons, app performance
 
-4. **Reddit: r/AskCanada, r/ontario** (if relevant)
+4. **Reddit: r/AskCanada, r/canada**
    - Citation: "Canadian users on Reddit note [finding]"
    - Use for: Canadian-specific betting experiences
 
@@ -565,45 +562,35 @@ All 9 brands must include 4 subsections each:
 
 ---
 
-## INTERNAL LINKS (12 MINIMUM)
+## INTERNAL LINKS (8 MINIMUM)
 
-**MUST include these 12 internal links:**
+**MUST include these internal links (verified to exist in site structure):**
 
-1. **"Canada sports betting sites"** → /sport/betting/canada/betting-sites.htm
+1. **"Canada sports betting hub"** → /sport/betting/canada/index.htm
    - Placement: Introduction
 
-2. **"parlay calculator"** → /sport/betting/calculators/parlay.htm
-   - Placement: Mobile features section
+2. **"parlay calculator"** → /sport/betting-tools/parlay-calculator.htm
+   - Placement: Mobile features section, Parlay builder mentions
 
-3. **"odds calculator"** → /sport/betting/calculators/odds.htm
-   - Placement: Understanding odds section
-
-4. **"NHL betting in Canada"** → /sport/betting/canada/nhl.htm
+3. **"Best NHL betting sites"** → /sport/betting/nhl/index.htm
    - Placement: Best NHL betting apps section
 
-5. **"NFL betting apps"** → /sport/betting/nfl/apps.htm
-   - Placement: Best apps by sport section
+4. **"Best NFL betting sites"** → /sport/betting/nfl/index.htm
+   - Placement: Best apps by sport section (NFL mention)
 
-6. **"soccer betting apps Canada"** → /sport/betting/canada/soccer-apps.htm
+5. **"Best soccer betting sites"** → /sport/betting/soccer/index.htm
    - Placement: Best soccer betting apps section
 
-7. **"mobile betting guide"** → /sport/betting/mobile-betting.htm
-   - Placement: Mobile features section
+6. **"New betting sites Canada"** → /sport/betting/canada/new-betting-sites.htm
+   - Placement: Introduction or brand comparison
 
-8. **"offshore betting sites"** → /sport/betting/offshore.htm
-   - Placement: Ontario vs offshore section
+7. **"NFL parlays guide"** → /sport/betting/nfl/parlays.htm
+   - Placement: Parlay/accumulator mentions
 
-9. **"Ontario betting apps"** → /sport/betting/canada/ontario/apps.htm
-   - Placement: Ontario comparison section
+8. **"Same game parlay guide"** → /sport/betting/guides/same-game-parlay.htm
+   - Placement: Parlay builder or SGP mentions
 
-10. **"Quebec sports betting"** → /sport/betting/canada/quebec.htm
-    - Placement: Provincial regulations section
-
-11. **"best welcome bonuses Canada"** → /sport/betting/canada/bonuses.htm
-    - Placement: Current bonus sections
-
-12. **"live betting apps"** → /sport/betting/live-betting-apps.htm
-    - Placement: Mobile features section
+**Note:** Only link to pages that exist in the site structure. Do not create placeholder links.
 
 ---
 
@@ -612,7 +599,7 @@ All 9 brands must include 4 subsections each:
 Every page MUST include:
 
 - [ ] Age requirement: 19+ (18+ in Alberta, Manitoba, Quebec)
-- [ ] Gambling hotline: 1-866-531-2600 (ConnexOntario)
+- [ ] Responsible gambling resources (Responsible Gambling Council, provincial helplines)
 - [ ] Affiliate disclosure (in introduction, 50-75 words)
 - [ ] Responsible gambling section (150-200 words at bottom)
 - [ ] Offshore disclaimer: "Note that offshore betting sites operate outside Canadian jurisdiction"
@@ -690,11 +677,11 @@ Each brand's Mobile Experience section MUST include:
 Before submitting to AI Enhancement (Phase 3):
 
 - [ ] 6,500 words total
-- [ ] All 15 secondary keywords mapped to sections
+- [ ] All 13 secondary keywords mapped to sections
 - [ ] 10 FAQs targeting keywords (120-150 words each)
 - [ ] Mobile Experience section for ALL 9 brands (100-150 words each)
 - [ ] App Store ratings cited for each brand (iOS + Android)
-- [ ] 12 internal links included
+- [ ] 8 internal links included (verified existing pages only)
 - [ ] Affiliate disclosure in intro (50-75 words)
 - [ ] Responsible gambling section (150-200 words)
 - [ ] Offshore disclaimer included
@@ -702,7 +689,7 @@ Before submitting to AI Enhancement (Phase 3):
 - [ ] All sources are TIER 1 (App Store, Google Play, Reddit)
 - [ ] NHL and CFL betting prominently featured
 - [ ] Interac and crypto payment methods covered
-- [ ] Ontario vs offshore comparison included
+- [ ] App bonuses comparison section included
 
 ---
 
