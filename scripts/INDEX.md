@@ -99,10 +99,10 @@ python validate_phase_json.py phase1-output.json --phase 1
 - Valid date in filename
 - Topic format (lowercase, hyphens only)
 - Required sections:
-  - ## Issue/Improvement (50+ words)
-  - ## Impact
-  - ## Suggested Solution
-  - ## Example (optional)
+  - `## Issue/Improvement` (50+ words)
+  - `## Impact`
+  - `## Suggested Solution`
+  - `## Example` (optional)
 - Impact level specification
 - Markdown syntax validation
 

@@ -87,10 +87,10 @@ Test 3: JSON output mode - PASSED
 - Date validation (must be valid calendar date)
 - Topic format (lowercase, hyphens only)
 - Required sections:
-  - ## Issue/Improvement (minimum 50 words)
-  - ## Impact (must include "Impact Level: Critical|High|Medium|Low")
-  - ## Suggested Solution
-  - ## Example (optional)
+  - `## Issue/Improvement` (minimum 50 words)
+  - `## Impact` (must include "Impact Level: Critical|High|Medium|Low")
+  - `## Suggested Solution`
+  - `## Example` (optional)
 - Markdown syntax validation
 - Link validation
 - Code block balancing
