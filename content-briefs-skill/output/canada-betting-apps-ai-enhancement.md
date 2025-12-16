@@ -901,9 +901,6 @@
   </div>
 
   <div class="compliance-box">
-    <h3>Affiliate Disclosure</h3>
-    <p>TopEnd Sports is an affiliate of the betting platforms reviewed on this page. We may earn commissions from signups and deposits through our links. This does not affect our editorial independence or the integrity of our reviews. Each app is evaluated on merit based on app store ratings, user feedback, and available features.</p>
-  </div>
 
   <div class="compliance-footer">
     <p><strong>Last Updated:</strong> December 15, 2025</p>

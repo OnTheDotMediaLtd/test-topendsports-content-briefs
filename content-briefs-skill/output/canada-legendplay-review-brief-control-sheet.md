@@ -133,7 +133,6 @@ Based on competitor analysis, Legendplay-specific content is minimal. Opportunit
 **Visual Elements:**
 - [ ] Last Updated badge (dynamic date)
 - [ ] Letter badge: **LGP** with color **#0288D1**
-- [ ] Affiliate disclosure (prominent)
 - [ ] 5-star rating display
 - [ ] Payment methods comparison table
 - [ ] Provincial availability table

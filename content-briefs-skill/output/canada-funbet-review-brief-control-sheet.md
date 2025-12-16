@@ -159,7 +159,6 @@ Despite 0 volume primary keyword:
 
 - [x] **Introduction** (150 words)
   - Keywords: funbet review, online sportsbook canada
-  - Affiliate disclosure
 
 - [x] **Funbet Overview** (300 words)
   - Keywords: funbet, funbet sport
@@ -345,7 +344,6 @@ Despite 0 volume primary keyword:
 
 ### Mandatory Sections
 - [ ] Age verification disclaimer (19+/18+ by province)
-- [ ] Affiliate disclosure (top of article)
 - [ ] Responsible gambling section (bottom)
 - [ ] Provincial availability disclaimer
 - [ ] Licensing transparency

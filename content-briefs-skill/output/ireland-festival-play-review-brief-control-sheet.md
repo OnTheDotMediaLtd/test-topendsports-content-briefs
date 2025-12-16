@@ -181,7 +181,6 @@
 ### 1. Introduction & Quick Answer (200-250 words)
 - [ ] Last Updated badge (December 2025)
 - [ ] Festival Play definition and positioning
-- [ ] Affiliate disclosure
 - [ ] Quick answer: Best for variety seekers, crypto users
 - [ ] What readers will learn
 
@@ -300,7 +299,6 @@
 - [ ] Best for: Crypto users, variety seekers, eSports fans
 - [ ] Consider alternatives: Players wanting Irish license, apps, live streaming
 - [ ] Alternative suggestions: Bet365, BoyleSports, Paddy Power
-- [ ] Call to action (with affiliate disclosure reminder)
 
 ### 10. Responsible Gambling (50-75 words)
 - [ ] Irish-specific resources
@@ -357,7 +355,6 @@ Festival Play is a **niche Curacao-licensed operator** targeting Irish players w
 - [ ] **Star rating display** - Interactive 5-star system
 - [ ] **License badge** - Curacao Gaming logo/mention
 - [ ] **Payment method icons** - Cards, eWallets, crypto logos
-- [ ] **Affiliate disclosure** - Prominent at top of page
 
 ### Interactive Elements
 - [ ] **T&Cs comparison table** - Expandable/collapsible
@@ -367,7 +364,6 @@ Festival Play is a **niche Curacao-licensed operator** targeting Irish players w
 ### Compliance
 - [ ] Age: 18+ (Ireland-specific)
 - [ ] Hotline: HSE Drugs and Alcohol Helpline: 1800 459 459
-- [ ] Affiliate disclosure in introduction
 - [ ] Responsible gambling section at bottom
 - [ ] Curacao license transparency
 

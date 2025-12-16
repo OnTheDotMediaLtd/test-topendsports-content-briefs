@@ -5,14 +5,50 @@
 
 ---
 
-## Step 1: Meta Tags
+## Step 1: Meta Tags (SERP-Optimized)
 
+**Reference:** `references/meta-title-optimization.md`
+
+### Process:
+1. Run SERP analysis for primary keyword (see meta-title-optimization.md)
+2. Analyze top 10 competitor titles for patterns
+3. Apply title formula based on page type
+4. Verify character limits (title: 60, description: 160)
+
+### Title Formula by Page Type:
+| Page Type | Formula |
+|-----------|---------|
+| Comparison | `Best [Topic] [Location] [Year] \| [Count] [Modifier]` |
+| Review | `[Brand] Review [Year]: [Key Benefit] + [Bonus]` |
+| How-To | `How to [Action] in [Location] ([Year] Guide)` |
+| Hub/State | `[Topic] in [Location]: [Key Info] [Year]` |
+
+### Output:
 ```html
-<meta name="title" content="[Title - NO dates]">
-<meta name="description" content="[160 chars with primary keyword]">
+<!-- Meta Title (XX chars) - SERP optimized -->
+<title>[Title based on SERP analysis - max 60 chars]</title>
+
+<!-- Meta Description (XXX chars) -->
+<meta name="description" content="[160 chars with primary keyword, unique value prop, specifics]">
+
+<!-- Additional Meta Tags -->
 <meta name="keywords" content="[ALL primary + secondary keywords]">
 <meta name="author" content="[Lewis/Tom/Gustavo]">
-<link rel="canonical" href="https://www.topendsports.com/sport/betting/[page].htm">
+<link rel="canonical" href="https://www.topendsports.com/sport/betting/[market]/[page].htm">
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content="[Title]">
+<meta property="og:description" content="[Description]">
+<meta property="og:type" content="article">
+<meta property="og:url" content="[Canonical URL]">
+```
+
+### SERP Analysis to Document:
+```markdown
+## SERP Title Analysis
+- Competitor pattern: [what top 10 titles have in common]
+- Our differentiation: [what we add that's unique]
+- Power words used: [Best, Top, Expert, etc.]
 ```
 
 ---
@@ -196,17 +232,9 @@ Place immediately after H1:
 
 ## Step 7: Compliance Sections
 
-### Affiliate Disclosure (Top)
-```html
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0;">
-  <p style="margin: 0; font-size: 14px;">
-    <strong>Disclosure:</strong> We may earn commission when you sign up through our links. 
-    Must be 21+. Gambling problem? Call 1-800-522-4700.
-  </p>
-</div>
-```
+**NOTE:** Affiliate disclosure is NOT included in content - it's already in the website sidebar.
 
-### Responsible Gambling (Bottom)
+### Responsible Gambling (Bottom - REQUIRED)
 ```html
 <div style="background: #fff3cd; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
   <h3 style="margin-top: 0; color: #856404;">Gamble Responsibly</h3>
@@ -286,15 +314,26 @@ END OF AI ENHANCEMENT BRIEF
 
 ## Self-Check
 
+### Meta Tags (SERP-Optimized)
+- [ ] SERP analysis documented for primary keyword
+- [ ] Title under 60 characters
+- [ ] Title includes primary keyword in first 40 chars
+- [ ] Title includes year (2025) and location
+- [ ] Description under 160 characters
+- [ ] Description has unique value proposition
 - [ ] Meta keywords include ALL secondary keywords
+
+### Content Elements
 - [ ] Last Updated badge built
 - [ ] Comparison table uses researched brands
 - [ ] Quick Answer Box included
 - [ ] Complete T&Cs for ALL brands (Template 1/2/4)
 - [ ] Interactive elements from gaps built
+
+### Schema & Compliance
 - [ ] Article schema complete
 - [ ] FAQ schema uses optimized questions
 - [ ] Breadcrumb schema complete
-- [ ] Affiliate disclosure included
-- [ ] Responsible gambling included
+- [ ] Responsible gambling section included
+- [ ] NO affiliate disclosure in content (it's in sidebar)
 - [ ] All HTML is complete (no placeholders)

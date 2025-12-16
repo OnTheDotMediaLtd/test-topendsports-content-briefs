@@ -113,7 +113,6 @@ Based on competitor analysis, we will differentiate with:
 ## CONTENT SECTIONS REQUIRED
 
 ### Core Review Sections
-- ✅ Introduction with affiliate disclosure
 - ✅ Quick Facts Box (license, launch date, age limit, welcome offer)
 - ✅ Welcome Offer & Bonus Terms (300 words)
 - ✅ Sports Markets Coverage (400 words) - emphasize 50+ sports
@@ -202,7 +201,6 @@ Based on competitor analysis, we will differentiate with:
   - BeGambleAware.org
   - GamCare
   - UK Gambling Commission self-exclusion tools
-- **Affiliate Disclosure:** Required in introduction paragraph
 - **T&C Links:** Link to official Myriadplay Terms & Conditions
 
 ---

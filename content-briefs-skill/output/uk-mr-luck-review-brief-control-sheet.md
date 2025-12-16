@@ -123,7 +123,6 @@
 **Include:**
 - Last Updated badge
 - Honest positioning (smaller operator, casino-first)
-- Affiliate disclosure
 - Quick answer (Best for: Alternative to major operators)
 - Introduction with context
 
@@ -250,7 +249,6 @@
 - UK Gambling Commission note
 - GamCare: 0808 8020 133
 - BeGambleAware link
-- Affiliate disclosure
 
 ---
 
@@ -311,7 +309,6 @@ Unlike major UK operators (Bet365, William Hill, Ladbrokes), Mr Luck is a smalle
 | **Regulator** | UK Gambling Commission |
 | **Responsible Gambling Orgs** | GamCare, BeGambleAware |
 | **Helpline** | National Gambling Helpline: 0808 8020 133 |
-| **Affiliate Disclosure** | Required (prominent placement) |
 | **BeGambleAware Logo** | Required on UK gambling content |
 
 ---

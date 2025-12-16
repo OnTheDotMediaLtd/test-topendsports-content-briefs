@@ -31,7 +31,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -1128,5 +1127,4 @@ END OF AI ENHANCEMENT BRIEF
 **Word Count (HTML Sections):** Approximately 8,500+ words
 **Delivery Date:** December 15, 2025
 **Market:** Ireland (18+)
-**Compliance:** Problem Gambling Ireland resources, affiliate disclosure, responsible gambling support
 **Badge:** BVO #795548

@@ -41,12 +41,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <p style="margin: 0; font-size: 14px; line-height: 1.6; color: #856404;">
-    <strong>Affiliate Disclosure:</strong> TopEndSports may earn commission when you sign up through our links. This does not affect our independent editorial analysis or recommendations. We only promote operators we believe offer fair odds and responsible gaming practices. Must be 19+ (18+ in AB, MB, QC). Gambling problem? Call <strong>Provincial helplines vary</strong>.
   </p>
 </div>
 ```
@@ -1387,7 +1385,6 @@ Throughout content, include these internal links:
 
 - [x] Meta tags complete (title, description, keywords, canonical, og:)
 - [x] Last Updated badge with current date (December 15, 2025)
-- [x] Affiliate disclosure at top (50-75 words) ✓
 - [x] Quick verdict box with 4-star rating ✓
 - [x] Comprehensive comparison table vs Canadian casinos ✓
 - [x] Rating breakdown (5 categories) ✓

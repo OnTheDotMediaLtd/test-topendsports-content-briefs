@@ -49,7 +49,6 @@ betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, 
 **Structure:**
 1. **Opening (40-50 words):** Direct answer - Is Betovo worth joining for Irish bettors? Lead with conclusion.
 2. **Market Context (100 words):** Position Betovo in Irish sports betting market. Reference "sports betting ireland" and "online betting ireland" naturally.
-3. **Affiliate Disclosure (50-75 words):** Standard disclosure per compliance requirements.
 
 **Forbidden:**
 - ❌ "Welcome to our Betovo review..."
@@ -81,7 +80,6 @@ betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, 
 - Direct answer: Is Betovo worth it?
 - Market context: Position in Irish sports betting landscape
 - Keywords: "sports betting ireland", "online betting ireland"
-- Include affiliate disclosure (50-75 words)
 
 ---
 
@@ -493,7 +491,6 @@ Place these links naturally in context:
 - **Age Requirement:** 18+ (Ireland)
 - **Helpline:** Problem Gambling Ireland
 - **Additional Support:** Gamblers Anonymous Ireland
-- **Affiliate Disclosure:** Required in introduction (50-75 words)
 - **Responsible Gambling Section:** Mandatory at bottom
 
 **Note:** Ireland uses 18+ (not 21+ like US states)

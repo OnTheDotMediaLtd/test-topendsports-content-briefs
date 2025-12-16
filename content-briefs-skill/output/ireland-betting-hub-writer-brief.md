@@ -41,7 +41,6 @@
 > The best betting sites in Ireland are Lunubet, Betalright, and Casina. These platforms offer competitive odds, comprehensive sports coverage including GAA and horse racing, and reliable payment options tailored for Irish players.
 
 **Disclosure (50-75 words):**
-> [Standard affiliate disclosure - We may earn commission from links on this page. This does not affect our editorial independence. All betting sites are tested using the same rigorous methodology, and we only recommend operators that are fully licensed and meet our strict quality standards for Irish players. Learn more about how we test and rank betting sites.]
 
 **FORBIDDEN:**
 - ❌ "Welcome to..."
@@ -590,7 +589,6 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 - MUST appear in Responsible Gambling section
 - Include in footer (dev team will add)
 
-### Affiliate Disclosure
 **MUST appear in introduction (50-75 words)**
 
 Example:
@@ -714,7 +712,6 @@ Before submission, verify:
 - [ ] Irish licensing explained (Revenue Commissioners)
 - [ ] Age requirement: 18+ (not 21+)
 - [ ] Responsible gambling hotline: 087 744 3577
-- [ ] Affiliate disclosure in intro (50-75 words)
 - [ ] Responsible Gambling section at bottom (300-400 words)
 - [ ] 5-10 source citations in References section
 - [ ] Total word count: 9,000 words (±500 acceptable)

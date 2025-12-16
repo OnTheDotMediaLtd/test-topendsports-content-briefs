@@ -100,7 +100,6 @@
 
 1. **Header & Introduction** (250 words)
    - Keywords: betovo, sports betting ireland
-   - Last Updated badge, affiliate disclosure
    - Quick answer positioning statement
 
 2. **Betovo Rating Summary** (200 words)
@@ -206,7 +205,6 @@
 ## COMPLIANCE (IRELAND)
 
 - **Age:** 18+ (prominently displayed)
-- **Affiliate Disclosure:** Required in introduction
 - **Responsible Gambling:** Dedicated section with Irish resources
   - Problem Gambling Ireland
   - Gamblers Anonymous Ireland

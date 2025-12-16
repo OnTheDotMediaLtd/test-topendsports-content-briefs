@@ -91,7 +91,6 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, sports
 ### 1. Introduction (150 words)
 - Top 3 free bet offers with amounts
 - Authority statement
-- Affiliate disclosure
 - **Internal Links:** Ireland betting hub, best betting sites Ireland
 
 ### 2. Quick Answer Box (100 words)
@@ -486,7 +485,6 @@ Before submitting, verify:
 - [ ] **Age:** 18+ stated (NOT 21+)
 - [ ] **Helpline:** National Gambling Helpline: 089 241 5401
 - [ ] **Currency:** All amounts in EUR with € symbol
-- [ ] **Affiliate Disclosure:** In introduction (50-75 words)
 - [ ] **Responsible Gambling Section:** At end with Irish resources
 - [ ] **NO Dated Language in H1:** No "2025" or "Review 2025"
 - [ ] **Last Updated Badge:** Noted for AI to add after H1

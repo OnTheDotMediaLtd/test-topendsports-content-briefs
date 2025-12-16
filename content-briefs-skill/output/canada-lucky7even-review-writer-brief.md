@@ -64,7 +64,6 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
    - "Lucky7even is a [description] online casino platform for Canadian players..."
    - Include authority statement about testing and analysis
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure language
    - Commission structure
    - Editorial independence statement
@@ -96,7 +95,6 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 ### INTRODUCTION (100-150 words)
 - Direct answer: Lucky7even positioning (casino vs sports)
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Brief overview of review scope
 
 ---
@@ -596,7 +594,6 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 - **Call to Action:**
   - Clear next steps
   - Link to Lucky7even with affiliate tracking
-  - Affiliate disclosure reminder
 
 ---
 
@@ -742,7 +739,6 @@ Include these 12 internal links naturally throughout content:
 
 - [ ] Age requirement stated: 19+ (18+ in AB, MB, QC)
 - [ ] Pan-Canadian resources included: Responsible Gambling Council and CCSA
-- [ ] Affiliate disclosure at top (50-75 words)
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (Last Updated badge will be added in Phase 3)
 - [ ] Province availability specified

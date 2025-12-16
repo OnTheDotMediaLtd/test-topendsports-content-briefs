@@ -56,8 +56,6 @@ betalright, betalright review, betalright sports, betting sites ireland, sports 
    - First sentence: Clear recommendation (or non-recommendation) with key reasons
    - Second sentence: Authority statement
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commissions
    - Statement about review integrity
 
 ### ❌ FORBIDDEN:
@@ -104,7 +102,6 @@ meet our strict standards for safety and user experience in the Ireland market.]
 ### Introduction & Quick Verdict (150-200 words)
 - Follow MANDATORY INTRO FORMAT above
 - Target keywords: betalright, sports betting ireland, betting sites ireland
-- Include affiliate disclosure
 - Quick verdict box highlighting: rating (X/5 stars), best for (payment variety), not best for (GAA specialists, app users)
 
 ---
@@ -667,7 +664,6 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 |-------------|---------|
 | **Age Requirement** | 18+ (Ireland legal gambling age) |
 | **Responsible Gambling Hotline** | Problem Gambling Ireland: https://www.problemgambling.ie/<br>Gamblers Anonymous Ireland: https://www.gamblersanonymous.ie/ |
-| **Affiliate Disclosure** | Required in introduction (50-75 words) |
 | **Currency** | EUR (Euro) - all amounts in € |
 | **Licensing Transparency** | Must note Anjouan offshore license - legal but not Irish-regulated |
 | **Responsible Gambling Section** | Mandatory at end with Irish resources |
@@ -689,7 +685,6 @@ The following elements will be added by AI in Phase 3:
 - ✅ FAQ schema markup (8 questions)
 - ✅ Article schema markup
 - ✅ Breadcrumb schema
-- ✅ Affiliate disclosure box (prominent)
 - ✅ Responsible gambling section with Irish resources
 
 ---

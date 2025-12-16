@@ -37,7 +37,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE (TOP OF PAGE)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -927,7 +926,6 @@ The following internal links should be placed naturally throughout the content:
 
 - [x] Meta tags complete with no dates
 - [x] Last Updated badge HTML
-- [x] Affiliate disclosure at top
 - [x] Quick Answer Box with 6 key facts
 - [x] Comparison table with 4 competitors (Festival Play vs FanDuel, BetMGM, Caesars)
 - [x] Interactive bonus calculator with working JavaScript

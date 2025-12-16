@@ -120,7 +120,6 @@ High-volume transactional keywords show user intent:
    - Keywords: bet442, bet442 review
    - Quick verdict on Bet442
    - UK Gambling Commission license mention
-   - Affiliate disclosure
 
 2. **Bet442 Overview** (300 words)
    - Keywords: bet442, 442 bet

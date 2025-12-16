@@ -38,8 +38,6 @@
   </div>
 </div>
 
-<p class="affiliate-disclosure">
-  <strong>Affiliate Disclosure:</strong> This review is independently written and contains affiliate links. We may earn commission on signups, but this does not affect our ratings. <strong>Age 18+</strong>. <strong>BeGambleAware:</strong> For free, confidential support call the National Gambling Helpline on <strong>0808 8020 133</strong> or visit <a href="https://www.begambleaware.org">BeGambleAware.org</a>.
 </p>
 
 <style>
@@ -62,7 +60,6 @@
     font-weight: bold;
   }
 
-  .affiliate-disclosure {
     background: #fff3cd;
     border: 1px solid #ffc107;
     padding: 12px 15px;
@@ -928,7 +925,6 @@
 - [x] Meta tags (title, description, keywords, OG tags)
 - [x] Last Updated badge (December 15, 2025)
 - [x] Brand badge (22B #1B5E20)
-- [x] Affiliate disclosure (18+, helpline, BeGambleAware)
 - [x] Quick answer box (5 key facts)
 - [x] Comparison table (22bet vs Bet365, William Hill, Ladbrokes)
 - [x] T&Cs section (8 subsections, complete but compact)

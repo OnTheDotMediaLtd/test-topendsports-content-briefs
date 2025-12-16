@@ -209,10 +209,6 @@
 - **Support:** GamCare (gamcare.org.uk)
 - **Helpline:** National Gambling Helpline: **0808 8020 133**
 
-### Affiliate Disclosure
-Include in introduction (paragraph 2):
-> "When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network."
-
 ---
 
 ## SOURCES REQUIRED (Phase 2)

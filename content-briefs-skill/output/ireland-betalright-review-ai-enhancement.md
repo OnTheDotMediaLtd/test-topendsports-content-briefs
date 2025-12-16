@@ -54,7 +54,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE BOX
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -817,7 +816,6 @@ The following internal links should be integrated into the content:
 - ✓ Meta tags complete with no date language
 - ✓ Last Updated badge with current date (December 15, 2025)
 - ✓ Letter badge BTR with color #1E88E5
-- ✓ Affiliate disclosure box prominent
 - ✓ Quick verdict box with 4.0/5.0 rating and key stats
 - ✓ Rating breakdown component with 6 metrics
 - ✓ Feature comparison table (4-brand matrix)

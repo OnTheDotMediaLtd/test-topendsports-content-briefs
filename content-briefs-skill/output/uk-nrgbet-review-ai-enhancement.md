@@ -36,7 +36,6 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE (TOP)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -703,13 +702,6 @@ These should be strategically placed within content sections:
 - [x] Green styling with #2e7d32 color
 - [x] Readable format for users
 
-**Affiliate Disclosure:**
-- [x] Top placement (after meta info)
-- [x] Clear statement about commission
-- [x] 18+ age requirement
-- [x] Responsible gambling mention
-- [x] Helpline number: 0808 8020 133
-
 **Quick Verdict Box:**
 - [x] Rating: 8.2/10
 - [x] Key highlights (5 items)
@@ -812,7 +804,6 @@ These should be strategically placed within content sections:
 ### Deliverables Included:
 1. ✓ Meta tags (title, description, keywords, author, canonical)
 2. ✓ Last Updated badge (December 15, 2025)
-3. ✓ Affiliate disclosure (top, with UK compliance)
 4. ✓ Quick verdict box (8.2/10 rating + key highlights)
 5. ✓ Feature comparison table (NRGbet vs 3 competitors, 8 categories)
 6. ✓ Rating breakdown (5 categories with progress bars)

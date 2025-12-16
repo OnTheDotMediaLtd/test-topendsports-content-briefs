@@ -44,35 +44,6 @@
 
 ---
 
-## 3. AFFILIATE DISCLOSURE & QUICK ANSWER BOX (HTML)
-
-```html
-<!-- Affiliate Disclosure -->
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-  <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Disclosure:</strong> TopEndSports may earn commission when you sign up through our links. We independently evaluate and recommend sportsbooks based on features, bonuses, and user experience. Must be 19+ (18+ in Alberta, Manitoba, Quebec). Gambling problem? Call <strong>Responsible Gambling Council: Provincial helplines vary</strong>.
-  </p>
-</div>
-
-<!-- Quick Answer Box -->
-<div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-left: 4px solid #2e7d32; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-  <h2 style="color: #2e7d32; margin-top: 0; font-size: 1.25rem; margin-bottom: 1rem;">Quick Answer: Is Legendplay Worth Using in Canada?</h2>
-  <p style="font-size: 1rem; margin-bottom: 1rem; line-height: 1.6;">Legendplay is an emerging Canadian sportsbook and casino platform offering competitive bonuses, combined sports and gaming options, and strong payment support for Canadian bettors. While it lacks the market presence of established operators like Bet365, it stands out for modern interface design, Interac support, and NHL/CFL coverage.</p>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1rem;">
-    <div>
-      <h4 style="color: #2e7d32; margin: 0 0 0.5rem 0; font-size: 0.95rem;">Best For:</h4>
-      <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">Canadian bettors seeking combined sports/casino experience with modern platform and competitive bonuses</p>
-    </div>
-    <div>
-      <h4 style="color: #2e7d32; margin: 0 0 0.5rem 0; font-size: 0.95rem;">Overall Rating:</h4>
-      <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;"><strong>4.2/5.0</strong> for Canadian players - Strong features, newer operator, solid support</p>
-    </div>
-  </div>
-</div>
-```
-
----
-
 ## 4. COMPARISON TABLE (HTML/CSS)
 
 ```html
@@ -1861,7 +1832,6 @@ function toggleFAQ(element) {
 ### ✅ Visual Elements
 - [x] Last Updated Badge (December 15, 2025)
 - [x] Letter Badge: LGP (#0288D1)
-- [x] Affiliate Disclosure (prominent in intro)
 - [x] Quick Answer Box
 - [x] Comparison Table (3 sportsbooks)
 - [x] Pros/Cons Table
@@ -1895,7 +1865,6 @@ function toggleFAQ(element) {
 - [x] Responsible Gambling Council helpline: Provincial helplines vary
 - [x] Responsible gambling section
 - [x] Provincial variations
-- [x] Affiliate disclosure
 - [x] T&Cs for Legendplay with complete terms
 - [x] No placeholder text - all sections complete
 

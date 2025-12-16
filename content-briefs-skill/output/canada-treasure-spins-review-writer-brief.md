@@ -83,7 +83,6 @@ treasure spins, treasure spins casino, treasure spins review, online casino cana
    - Quick rating/recommendation
    - Key strengths in one sentence
 
-2. **Affiliate Disclosure (50-75 words):**
    - Explain commission relationship
    - Affirm editorial independence
    - Note that recommendations serve reader's interest
@@ -135,7 +134,6 @@ Please gamble responsibly.]
 
 ### Introduction (100-150 words)
 - Quick verdict on Treasure Spins
-- Affiliate disclosure
 - See "Mandatory Intro Format" section above
 
 ---
@@ -967,7 +965,6 @@ Include these internal links naturally within content:
 
 Before submitting, ensure ALL of these are included:
 
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Age requirement: "19+ in most provinces, 18+ in Alberta, Manitoba, Quebec"
 - [ ] Pan-Canadian gambling resources: **Responsible Gambling Council and CCSA**
 - [ ] Responsible Gambling Council link

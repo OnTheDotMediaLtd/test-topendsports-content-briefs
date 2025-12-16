@@ -61,7 +61,6 @@ mogobet, mogobet sport, mogobet review, mogobet sign up offer, mogobet promo cod
 
 **Structure:**
 1. Opening: 40-50 words - Direct answer to "Is MogoBet worth using?"
-2. Disclosure: 50-75 words - UK-specific affiliate disclosure
 3. Total: 100-150 words MAXIMUM
 
 **FORBIDDEN:**
@@ -77,7 +76,6 @@ MogoBet is a UK-licensed betting site offering both sports betting and casino ga
 It provides competitive welcome bonuses and supports popular UK payment methods including
 PayPal and Skrill. Regulated by the UK Gambling Commission with GamStop integration.
 
-[AFFILIATE DISCLOSURE - 50-75 words about earning commission through links,
 no impact on editorial integrity, recommendations based on research, etc.]
 ```
 
@@ -104,7 +102,6 @@ no impact on editorial integrity, recommendations based on research, etc.]
 ### Introduction & Quick Answer (200 words)
 - Direct answer: What is MogoBet? Is it worth using?
 - Quick verdict on strengths
-- Affiliate disclosure (UK-specific)
 - What reader will learn
 
 **Keywords:** mogobet review, mogobet sport
@@ -756,7 +753,6 @@ Before submitting, verify:
 - [ ] H1 has NO dated language (no "2025", no month/year)
 - [ ] Introduction is 100-150 words max
 - [ ] Opening sentence is direct answer (40-50 words)
-- [ ] Affiliate disclosure included (50-75 words)
 - [ ] 10+ FAQ questions with keyword targeting
 - [ ] App Store citation included with format "According to X reviews..."
 - [ ] Google Play citation included

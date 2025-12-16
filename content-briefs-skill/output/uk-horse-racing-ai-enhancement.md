@@ -31,7 +31,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -1061,7 +1060,6 @@ document.addEventListener('DOMContentLoaded', function() {
   <h4 style="color: #333;">Age Verification</h4>
   <p style="line-height: 1.6;"><strong>You must be 18 years or older to open an account and place bets.</strong> All sites conduct age verification checks. It is illegal for anyone under 18 to gamble in the UK.</p>
 
-  <h4 style="color: #333;">Affiliate Disclosure</h4>
   <p style="line-height: 1.6;">Topend Sports is compensated by the sportsbooks listed on this page through affiliate commissions when users sign up via our links. This supports our research and independent testing. We only recommend licensed operators.</p>
 
   <h4 style="color: #333;">Data Protection</h4>

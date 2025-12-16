@@ -455,7 +455,6 @@ If any apply to you, contact support services above immediately.
 
 ---
 
-## Affiliate Disclosure
 
 TopEndSports receives affiliate commissions when readers click links to betting operators and create accounts. This does not affect the offers listed or our recommendations. We prioritize commission transparency and recommend offers based on value to you, not commission rates. All operator links are clearly marked as affiliate links.
 

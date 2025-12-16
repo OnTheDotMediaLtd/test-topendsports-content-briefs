@@ -68,7 +68,6 @@ funbet, funbet sport, funbet casino, funbet review, funbet bonus, funbet promo c
    - "Funbet Sport is a [description] online sportsbook and casino for Canadian players..."
    - Include authority statement about testing sports betting features
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure language
    - Commission structure
    - Editorial independence statement
@@ -100,7 +99,6 @@ funbet, funbet sport, funbet casino, funbet review, funbet bonus, funbet promo c
 ### INTRODUCTION (100-150 words)
 - Direct answer: Funbet positioning (sports betting focus with casino)
 - Authority statement about testing
-- Affiliate disclosure (50-75 words)
 - Brief overview of review scope
 
 ---
@@ -1061,7 +1059,6 @@ Describe Funbet's mobile app user experience **specifically for sports betting**
 
 - [ ] Age requirement stated: 19+ (18+ in AB, MB, QC) - in multiple sections
 - [ ] Pan-Canadian resources included: RGC and CCSA - in responsible gambling section
-- [ ] Affiliate disclosure at top: 50-75 words, clearly stated
 - [ ] Responsible gambling section at bottom: 150-200 words minimum
 - [ ] NO dated language in H1 (Last Updated badge will be added in Phase 3)
 - [ ] Province availability specified: In legal/availability section

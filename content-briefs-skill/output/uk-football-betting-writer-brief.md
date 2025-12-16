@@ -51,7 +51,6 @@
    - Sentence 1: Direct answer - "The best football betting sites in the UK are Bet442, LuckyMate, and NRGbet."
    - Sentence 2: Authority statement - Why trust this guide
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure: "We may earn commission when you use our links to sign up at betting sites. This does not affect our rankings or your experience. All sites reviewed here are fully licensed by the UK Gambling Commission. Our reviews are independent and based on features, odds quality, mobile experience, and customer feedback."
 
 **FORBIDDEN:**
@@ -125,7 +124,6 @@
 ### Introduction (100-150 words)
 - Direct answer: Top 3 sites are Bet442, LuckyMate, NRGbet
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - **Keywords:** football betting sites
 
 ---
@@ -515,7 +513,6 @@ Before submitting, verify:
 
 - [ ] Age requirement "18+" mentioned prominently
 - [ ] GamCare helpline (0808 8020 133) included
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] UKGC license verification for each brand
 - [ ] Responsible gambling section at end
 - [ ] Links to BeGambleAware.org and GAMSTOP.co.uk

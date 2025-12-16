@@ -439,7 +439,6 @@
 | **Age Restriction** | 18+ (UK standard) |
 | **Gambling Commission** | Link to https://www.gamblingcommission.gov.uk/ |
 | **Helpline** | BeGambleAware.org |
-| **Affiliate Disclosure** | Required in intro paragraph |
 | **Responsible Gambling Section** | Required at bottom of page |
 | **License Verification** | UKGC license numbers for each operator |
 

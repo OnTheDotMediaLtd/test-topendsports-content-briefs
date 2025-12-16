@@ -83,7 +83,6 @@ highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo
    - Mention key features (UKGC licensed, welcome bonus, sports + casino)
    - Authority statement
 
-2. **Affiliate Disclosure (50-75 words):**
    - "We may earn commission from operators featured on this page through affiliate links. This does not influence our independent editorial reviews. All recommendations are based on extensive testing of features, odds, payment processing, and customer support. Our goal is to help UK bettors find licensed, trustworthy sportsbooks. Read our full methodology."
 
 **Forbidden:**
@@ -122,7 +121,6 @@ highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo
 ### Introduction (100-150 words)
 - Direct answer: What is Highbet?
 - Key features: UKGC licensed, £30 bonus, sports + casino
-- Affiliate disclosure (50-75 words)
 - **Keywords:** highbet review, highbet uk
 
 ---
@@ -1163,7 +1161,6 @@ Before writing, complete these research tasks:
 
 - [ ] **Age Requirement:** 18+ stated in introduction and throughout
 - [ ] **Responsible Gambling Hotline:** 0808 8020 133 included
-- [ ] **Affiliate Disclosure:** 50-75 words in introduction explaining commission and editorial independence
 - [ ] **BeGambleAware Link:** Included in responsible gambling section
 - [ ] **GAMSTOP Mention:** Self-exclusion option mentioned in licensing/RG section
 - [ ] **UKGC License:** License 39483 verified and prominently featured
@@ -1225,7 +1222,6 @@ Before submitting to Phase 3, verify:
 - [ ] 12 internal links included naturally
 - [ ] UKGC license 39483 verified and mentioned
 - [ ] UK compliance: 18+, 0808 8020 133, BeGambleAware
-- [ ] Affiliate disclosure in intro (50-75 words)
 - [ ] Pros & cons comprehensive and honest
 - [ ] No dated language anywhere
 - [ ] UK English spelling throughout

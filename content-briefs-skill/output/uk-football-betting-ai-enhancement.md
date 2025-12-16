@@ -414,12 +414,6 @@
 </section>
 ```
 
-### Affiliate Disclosure
-```html
-<section class="affiliate-disclosure" style="background: #fef2f2; padding: 20px; margin: 30px 0; border: 1px solid #fecaca; border-radius: 6px; font-size: 13px;">
-  <strong>Affiliate Disclosure:</strong> TopEndSports may earn a commission when you click links to partner sportsbooks and open accounts. This does not affect the accuracy of our reviews or recommendations. We are transparent: we only recommend sites we would use ourselves. Commissions help us maintain free guides and testing resources. Our recommendations are always based on operator quality, not commission size.
-</section>
-```
 
 ---
 

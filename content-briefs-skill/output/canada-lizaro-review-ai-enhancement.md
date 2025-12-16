@@ -42,12 +42,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <p style="margin: 0; font-size: 14px; line-height: 1.6; color: #856404;">
-    <strong>Affiliate Disclosure:</strong> TopEndSports may earn commission when you sign up through our links. This does not affect our independent editorial analysis or recommendations. We only promote operators we believe offer fair odds and responsible gaming practices. Must be 19+ (18+ in AB, MB, QC). Gambling problem? Call <strong>Provincial helplines vary (Responsible Gambling Council)</strong>.
   </p>
 </div>
 ```

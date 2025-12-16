@@ -76,8 +76,6 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
    - Sentence 2: Authority statement about testing/verification
    - Focus on NON-ONTARIO market (offshore operators)
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commissions
    - Editorial independence statement
    - Only recommend tested sites
 
@@ -111,7 +109,6 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 ### Introduction (100-150 words)
 - Direct answer: Top 3 sites are Treasure Spins, Royalistplay, Lucky7even
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Non-Ontario market focus
 - **CRITICAL:** Include links to dedicated pages early (betting-apps, sports-betting-sites, new-betting-sites)
 
@@ -944,7 +941,6 @@ Must include these specific internal links:
 - Include in Responsible Gambling section
 - Provincial helplines vary by location
 
-### Affiliate Disclosure
 - **Placement:** Introduction (50-75 words)
 - **Message:** "We may earn commission from links on this page. This does not affect our editorial independence or recommendations. We only feature sites we've personally tested."
 
@@ -986,7 +982,6 @@ Before submitting, verify:
 
 - [ ] Introduction is 100-150 words (no more)
 - [ ] Direct answer format in first 2 sentences
-- [ ] Affiliate disclosure included (50-75 words)
 - [ ] NO dated language in H1 or content
 - [ ] All 8 hub-appropriate secondary keywords mapped to sections
 - [ ] All 10 FAQs target keywords

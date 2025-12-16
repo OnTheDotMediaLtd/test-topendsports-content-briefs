@@ -229,7 +229,6 @@ Each of the 9 brands must include:
 
 - [ ] UKGC license verification per brand
 - [ ] 18+ age verification notice
-- [ ] Affiliate disclosure at top
 - [ ] GamCare contact information
 - [ ] BeGambleAware.org links
 - [ ] Responsible gambling section at bottom

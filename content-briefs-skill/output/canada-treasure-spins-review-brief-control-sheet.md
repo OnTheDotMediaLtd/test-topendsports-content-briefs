@@ -123,7 +123,6 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 ## CONTENT SECTIONS (Template 1: Review)
 
 ### Required Sections
-- [ ] **Introduction** (150-200 words) - Quick answer, affiliate disclosure
 - [ ] **Treasure Spins Overview** (200-250 words) - What is it, positioning, key facts
 - [ ] **Rating Summary** (150-200 words) - Star rating, pros/cons at a glance
 - [ ] **Welcome Bonus Analysis** (300-350 words) - Bonus details, terms, comparison
@@ -183,7 +182,6 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - [ ] FAQ schema markup (all 10 questions)
 - [ ] Article schema markup
 - [ ] Breadcrumb schema markup
-- [ ] Affiliate disclosure statement (top of page)
 - [ ] Responsible gambling section (bottom of page)
 - [ ] Canadian compliance badges/logos
 
@@ -266,7 +264,6 @@ The primary keyword "treasure spins sport" appears to be a misnomer. The brand i
 - **Organizations:** Gamblers Anonymous
 
 ### Required Disclosures
-- [ ] Affiliate disclosure statement (top of page)
 - [ ] Age requirement (19+ in most provinces, 18+ in AB, MB, QC)
 - [ ] Provincial availability disclaimer
 - [ ] Responsible gambling resources

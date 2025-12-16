@@ -36,7 +36,6 @@ Place immediately after H1 (Festival Play Review: Comprehensive Analysis of This
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -828,7 +827,6 @@ function calculateBonus() {
   <p style="color: #555; line-height: 1.6;">TopEnd Sports promotes responsible gambling. We do not encourage excessive wagering and recommend setting deposit limits, taking regular breaks, and using self-exclusion tools when necessary. If you experience gambling-related issues, please seek help immediately through the resources listed above.</p>
 
   <h4 style="color: #333; margin-top: 1rem;">Affiliation Disclosure</h4>
-  <p style="color: #555; line-height: 1.6;">TopEnd Sports may earn affiliate commission when you sign up through our links. This commission does not increase your costs or affect the services you receive. Our reviews remain independent and objective regardless of affiliate relationships.</p>
 
   <h4 style="color: #333; margin-top: 1rem;">Accuracy & Updates</h4>
   <p style="color: #555; line-height: 1.6;">Information on this page was last verified on December 15, 2025. Festival Play may change bonus offers, terms, and features without notice. Always verify current promotions on the official Festival Play website before making deposits. TopEnd Sports is not responsible for changes made by Festival Play after publication.</p>
@@ -841,7 +839,6 @@ function calculateBonus() {
 
 - [x] Meta tags: Title, description, keywords with all secondary keywords
 - [x] Last Updated badge: December 15, 2025 with FPL badge (#FF9800)
-- [x] Affiliate disclosure: 50+ words, prominent placement, helpline included
 - [x] Quick verdict box: 7.4/10 rating with rating breakdown
 - [x] Feature comparison table: Festival Play vs Paddy Power, Bet365, BoyleSports (9 features)
 - [x] Rating breakdown HTML: 5 category ratings with progress bars (Sports, Bonus, Mobile, Banking, Support)

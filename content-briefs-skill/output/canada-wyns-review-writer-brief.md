@@ -55,7 +55,6 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
    - Authority statement (testing methodology)
    - NO rhetorical questions, NO "Welcome to..."
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure about commissions
    - Transparency about editorial independence
 
@@ -93,7 +92,6 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 
 ### Introduction (200 words)
 - Opening: Direct answer about Wyns (40-50 words)
-- Affiliate disclosure (50-75 words)
 - Canadian betting context, integrate "canada sports betting" keyword
 - Overview of Wyns sports + casino platform
 
@@ -667,7 +665,6 @@ Include these naturally throughout content:
 
 - ✅ **Age disclosure:** 19+ in most provinces (ON, BC, NB, NL, NS, PE, SK), 18+ in AB, MB, QC
 - ✅ **Resources:** Responsible Gambling Council and CCSA, provincial helplines vary
-- ✅ **Affiliate disclosure:** Required in introduction (50-75 words)
 - ✅ **Responsible gambling section:** Required at end
 - ✅ **No dated language in H1:** Use "Complete Guide" not "2025 Review"
 - ✅ **Last Updated badge:** Will be added by AI after H1 in Phase 3
@@ -794,7 +791,6 @@ Before submitting to AI for Phase 3:
 - [ ] All comparison brands addressed (Bet99, Sports Interaction, Betway, Proline)
 - [ ] Age requirements by province specified
 - [ ] Canadian helplines listed
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section included
 - [ ] NO dated language in H1 or headings
 - [ ] Objective, non-promotional tone maintained

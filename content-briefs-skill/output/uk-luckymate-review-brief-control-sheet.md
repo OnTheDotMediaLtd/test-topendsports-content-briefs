@@ -235,7 +235,6 @@ UK punters who prioritize:
 ### Mandatory Elements
 
 - [ ] **Last Updated Badge** - Below H1, current date (December 2025)
-- [ ] **Affiliate Disclosure** - Top of page, clear and prominent
 - [ ] **5-Star Rating Display** - Overall score with breakdown
 - [ ] **Pros/Cons Table** - Two-column with cited sources
 - [ ] **Payment Methods Table** - Method, min/max, processing time, fees (GBP)
@@ -355,7 +354,6 @@ UK punters who prioritize:
 - [ ] **Helpline:** BeGambleAware.org resources
 - [ ] **Self-Exclusion:** GamStop integration details
 - [ ] **Responsible Tools:** Deposit limits, loss limits, reality checks
-- [ ] **Affiliate Disclosure:** Clear statement at top of page
 - [ ] **T&Cs Date:** Verified December 2025
 - [ ] **Fund Protection:** Segregated accounts (UKGC requirement)
 

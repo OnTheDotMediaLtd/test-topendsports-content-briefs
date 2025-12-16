@@ -39,12 +39,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> Topend Sports may earn commission when you sign up through our links. This does not affect our review independence. Must be 18+ to participate. Gambling problem? Contact the National Gambling Helpline at 0808 8020 133.
   </p>
 </div>
 ```
@@ -759,7 +757,6 @@ calculateMrLuckBonus();
     </p>
 
     <p style="font-size: 13px; color: #666; line-height: 1.8; margin-bottom: 1rem;">
-      <strong>Affiliate Disclosure:</strong> Topend Sports is an affiliate of Mr Luck and may earn commission from signups through our links. This does not influence our review or ratings, which are based on independent research and analysis.
     </p>
 
     <p style="font-size: 13px; color: #666; line-height: 1.8; margin-bottom: 0;">
@@ -830,7 +827,6 @@ calculateMrLuckBonus();
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1rem;">
 
     <div>
-      <p style="margin: 0.5rem 0; color: #333;"><strong>✓ Affiliate Disclosure</strong> - Included at top</p>
       <p style="margin: 0.5rem 0; color: #333;"><strong>✓ Compliance Footer</strong> - 18+ age requirement noted</p>
       <p style="margin: 0.5rem 0; color: #333;"><strong>✓ Responsible Gambling</strong> - UK resources included</p>
     </div>

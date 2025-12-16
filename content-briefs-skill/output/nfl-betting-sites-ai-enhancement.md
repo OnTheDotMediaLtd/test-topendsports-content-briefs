@@ -34,7 +34,6 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE (Top of Page)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0;">
@@ -1279,7 +1278,6 @@ function toggleFAQ(faqId) {
 - ✅ Meta tags with ALL 16 keywords (primary + 14 secondary)
 - ✅ Last Updated badge (November 2025)
 - ✅ Quick Answer Box with top 3 winners
-- ✅ Affiliate disclosure at top
 - ✅ Responsible gambling section with 1-800-522-4700
 - ✅ Mobile-responsive design (overflow-x: auto for tables)
 - ✅ Green color scheme (#2e7d32 throughout)

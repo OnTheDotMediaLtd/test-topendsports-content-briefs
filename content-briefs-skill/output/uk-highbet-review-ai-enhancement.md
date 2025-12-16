@@ -32,12 +32,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>⚠️ Affiliate Disclosure:</strong> TopEndSports may earn commission when you sign up and place bets through our links. We conduct thorough testing and analysis to provide objective reviews. Must be 18+. Gambling involves risk. Please gamble responsibly.
   </p>
 </div>
 ```
@@ -943,7 +941,6 @@ function calculateBonus() {
 - Complete £30 free bet T&Cs with no ambiguity
 - 10 FAQ schema questions optimized for keywords
 - Pros/cons with app and live streaming listed as cons
-- Affiliate disclosure and responsible gambling section
 - 12 internal links to related TopEndSports content
 - Bonus calculator, sports checklist, and payment table
 - Comparison table with 5 competitors

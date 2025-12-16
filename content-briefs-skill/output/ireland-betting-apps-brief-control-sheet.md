@@ -134,7 +134,6 @@
 
 ### Mandatory Sections Checklist
 
-- [x] **Introduction** (150 words) - Top 3 picks, authority statement, affiliate disclosure
 - [x] **Comparison Table** (200 words) - Interactive, sortable, ALL 10 brands
 - [x] **Individual Brand Reviews** (6,000 words total)
   - [x] Key Features per brand (150-200 words each)
@@ -253,7 +252,6 @@
 - Hotline: Use Irish-appropriate responsible gambling resources
 
 **Keep from USA:**
-- Affiliate disclosure transparency
 - T&Cs verification requirements
 - Source citation standards (App Store, Reddit, official sites)
 

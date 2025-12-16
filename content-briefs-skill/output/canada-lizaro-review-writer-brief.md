@@ -73,7 +73,6 @@ lizaro sport, lizaro casino, online casino canada, online casino ontario, best o
    - Second sentence: Authority statement (licensed in Canada, combined casino/sportsbook)
    - Naturally incorporate "online gambling canada" (1,300/mo)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure: "We may earn commission from links on this page, but we only recommend sites we trust. Our reviews are based on extensive testing and research. Read our full methodology."
 
 **Total:** 100-150 words maximum
@@ -112,7 +111,6 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 - Open with direct answer: "Lizaro is a Canadian-licensed online casino and sportsbook offering [key features]."
 - State what makes Lizaro unique (combined platform, licensing)
 - Naturally work in "online gambling canada" (1,300/mo)
-- Follow with 50-75 word affiliate disclosure
 - Total 100-150 words
 
 ---
@@ -547,7 +545,6 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 - [ ] Age requirement clearly stated: **19+ (18+ in AB, MB, QC)**
 - [ ] Pan-Canadian resources: **Responsible Gambling Council and CCSA**
 - [ ] Responsible gambling organization: **Responsible Gambling Council (responsiblegambling.org)**
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Last Updated badge after H1 (Phase 3 HTML component)
 - [ ] NO dated language in H1 or content ("2025", "October 2025", etc.)
 - [ ] All 17 secondary keywords mapped to sections
@@ -664,7 +661,6 @@ If anything is unclear:
 - [ ] 12 internal links included with correct URLs
 - [ ] 8 FAQs with keyword targeting
 - [ ] No dated language in H1 or content
-- [ ] Affiliate disclosure in introduction
 - [ ] Canadian compliance (age, hotline, resources)
 - [ ] Interac emphasized in payment methods
 - [ ] Province-specific information included

@@ -165,7 +165,6 @@
 **Introduction (100-150 words):**
 - [ ] Direct answer: Festival Play rating and suitability
 - [ ] Authority statement
-- [ ] Affiliate disclosure (Canadian compliance)
 
 **Main Sections:**
 - [ ] Festival Play Overview (200-250 words)
@@ -380,7 +379,6 @@
 - **Ontario (Responsible Gambling Council):** 1-866-531-2600
 
 ### Mandatory Disclosures
-- [ ] Affiliate disclosure in introduction
 - [ ] Age requirement by province
 - [ ] Helpline information
 - [ ] Offshore operator status (not provincially licensed)

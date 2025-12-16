@@ -83,7 +83,6 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
    - Sentence 2: Authority statement about app testing
 
 2. **Disclosure (50-75 words):**
-   - Full affiliate disclosure
    - Transparency about commission
 
 ### Example:
@@ -119,7 +118,6 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
 ### Introduction (100-150 words)
 - Direct answer: Top 5 apps with App Store ratings
 - Authority statement about testing process
-- Affiliate disclosure
 
 ### Comparison Table
 - **Brands:** All 10 brands
@@ -531,7 +529,6 @@ Condensed further:
 - **Gamblers Anonymous Ireland: 087 744 3577**
 - (NOT 1-800-522-4700 which is USA)
 
-### Affiliate Disclosure:
 - MUST appear in introduction (50-75 words)
 - Transparency about app testing process
 
@@ -614,7 +611,6 @@ Before submitting, verify:
 - [ ] Payment methods comparison table
 - [ ] App ratings comparison table
 - [ ] Irish compliance (18+, Irish hotline)
-- [ ] Affiliate disclosure in intro
 - [ ] NO dated language in H1
 - [ ] Last Updated badge included
 - [ ] Word count: 7,000-8,000 words

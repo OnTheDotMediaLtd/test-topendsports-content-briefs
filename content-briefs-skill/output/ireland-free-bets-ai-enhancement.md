@@ -481,10 +481,8 @@ function sortTable(n) {
 
 ---
 
-## AFFILIATE DISCLOSURE (INTRO)
 
 ```html
-<div class="affiliate-disclosure" style="background: #fef3c7; border: 1px solid #fcd34d; padding: 12px 16px; border-radius: 4px; margin: 16px 0; font-size: 13px; color: #92400e;">
   <strong>Disclosure:</strong> This page contains affiliate links. We earn a commission if you sign up through our links, at no additional cost to you. All recommendations are tested by our team and unbiased. We comply with all UK gambling advertising standards.
 </div>
 ```
@@ -573,7 +571,6 @@ document.addEventListener('DOMContentLoaded', function() {
     font-size: 12px !important;
   }
 
-  .affiliate-disclosure {
     font-size: 11px !important;
   }
 }
@@ -646,7 +643,6 @@ document.addEventListener('DOMContentLoaded', function() {
 - [x] Article schema markup with complete structured data
 - [x] FAQ schema markup with 10 questions + answers
 - [x] Breadcrumb schema for navigation hierarchy
-- [x] Affiliate disclosure clearly displayed
 - [x] Ireland-specific compliance (18+, 087 744 3577 helpline)
 - [x] Free bet value calculator with working JavaScript
 - [x] Mobile responsive CSS with touch-friendly inputs

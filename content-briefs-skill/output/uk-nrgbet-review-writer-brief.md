@@ -50,7 +50,6 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 
 **Structure:**
 1. **Direct Verdict (40-50 words):** Quick answer on whether NRGbet is worth it for UK punters, mention UKGC licensing upfront
-2. **Affiliate Disclosure (50-75 words):** Standard disclosure about commissions and editorial independence
 
 **Total:** 100-150 words maximum
 
@@ -65,7 +64,6 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 - ✅ Direct answer in first sentence
 - ✅ UKGC license mention in opening
 - ✅ Who NRGbet is best for
-- ✅ Affiliate disclosure follows immediately
 
 ---
 
@@ -101,7 +99,6 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 - Direct verdict on NRGbet as a UK betting site
 - UKGC license mention upfront (verify license number first)
 - Who NRGbet is best for (e.g., mobile-first punters, new operator seekers)
-- Affiliate disclosure (50-75 words)
 
 **Format:** Direct answer first, then disclosure
 

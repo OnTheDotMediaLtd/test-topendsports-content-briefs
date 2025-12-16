@@ -49,7 +49,6 @@ new betting sites canada, newest betting sites, betting apps ontario, sports bet
    - Sentence 1: Direct answer naming top 3 new sites (Treasure Spins, Royalistplay, Wyns)
    - Sentence 2: Authority statement (testing methodology, innovation focus)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Clear statement that we earn commissions from links
    - Reassurance that this doesn't affect pricing or recommendations
    - Transparency about evaluation process
@@ -99,7 +98,6 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 **Requirements:**
 - First sentence: Name top 3 new sites
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Keywords: "new betting sites canada", "newest betting sites"
 
 ---
@@ -512,9 +510,6 @@ Use natural anchor text. Include ALL 12 links in the content:
 - Quebec: Loto-Quebec
 - Alberta: Alberta Gaming, Liquor and Cannabis (AGLC)
 
-**Affiliate Disclosure:**
-- Required in introduction (50-75 words)
-- Clear statement about earning commissions
 - Reassurance about unbiased recommendations
 
 **Responsible Gambling Section:**

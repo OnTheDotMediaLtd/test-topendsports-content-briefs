@@ -171,7 +171,6 @@ Based on competitor analysis, TopEndSports can dominate with:
 
 ### HTML/Interactive Elements
 - [ ] Last Updated badge (current date)
-- [ ] Affiliate disclosure box (Ireland-compliant wording)
 - [ ] Star rating visualization
 - [ ] Pros/Cons comparison table
 - [ ] Bonus breakdown table
@@ -219,7 +218,6 @@ Based on competitor analysis, TopEndSports can dominate with:
 - **Gamblers Anonymous Ireland:** www.gamblersanonymous.ie
 
 ### Required Disclosures
-- Affiliate disclosure (clear and prominent)
 - Age verification statement
 - Responsible gambling tools mention
 - License information with link

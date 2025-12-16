@@ -132,7 +132,6 @@
 #### 1. Header & Introduction (200-250 words)
 - H1: Rabona Casino Review Ireland 2024 | Sports Betting & Bonuses
 - Last Updated badge
-- Affiliate disclosure
 - Quick answer (50-75 words): What is Rabona? Who is it best for?
 - Brief intro (100-125 words)
 - **Keywords:** rabona, rabona casino, online casino ireland

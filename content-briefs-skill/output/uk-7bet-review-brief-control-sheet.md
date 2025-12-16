@@ -263,7 +263,6 @@
 - [x] **Introduction** (200-250 words)
   - Last Updated badge
   - 7BT letter badge (#E91E63)
-  - Affiliate disclosure
   - Quick answer box
   - Overview of 7bet positioning
 
@@ -416,7 +415,6 @@
 
 - [x] 7BT letter badge in #E91E63 color
 - [x] Last Updated badge (December 2025)
-- [x] Affiliate disclosure box
 - [x] Quick answer box with key takeaway
 - [x] Rating stars visualization (3.5/5)
 - [x] Pros/Cons styled bullets
@@ -473,7 +471,6 @@
 | **License Display** | UKGC License 048788-R-327401-009 |
 | **Helplines** | BeGambleAware.org, GamCare |
 | **Responsible Gambling** | Section required at bottom |
-| **Affiliate Disclosure** | Prominent placement in introduction |
 | **Last Updated Badge** | Current date displayed |
 | **Terms Verification** | Within 7 days of publish |
 
@@ -569,7 +566,6 @@
 - [ ] 18+ age disclaimer
 - [ ] BeGambleAware.org link
 - [ ] UKGC license displayed
-- [ ] Affiliate disclosure prominent
 - [ ] Last updated badge
 - [ ] Responsible gambling section
 

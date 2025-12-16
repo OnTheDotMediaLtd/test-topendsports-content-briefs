@@ -49,7 +49,6 @@ free bets uk, free bets no deposit, free bets today, best free bets, matched bet
    - Sentence 1: Direct answer with top 3 winners
    - Sentence 2: Authority/verification statement
 
-2. **Affiliate Disclosure (50-75 words):**
    - Clear commission disclosure
    - No impact on pricing statement
    - Testing transparency
@@ -88,7 +87,6 @@ Free Bets UK - Best No Deposit Offers & Welcome Bonuses
 ### Section 1: Introduction (100-150 words)
 - Direct answer with top 3 brands
 - Authority statement
-- Affiliate disclosure (50-75 words)
 - Internal links: [best betting sites UK](/sport/betting/uk/index.htm), [betting apps UK](/sport/betting/uk/betting-apps.htm)
 
 ### Section 2: Quick Answer Box (75-100 words)

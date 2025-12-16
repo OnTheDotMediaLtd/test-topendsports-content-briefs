@@ -52,7 +52,6 @@ Map ALL 13 secondary keywords to specific sections:
    - Key USPs: €122 bonus, 40+ sports, 15-minute withdrawals
    - Authority statement
 
-2. **Affiliate disclosure (50-75 words):**
    - Standard disclosure language
    - Commitment to honest reviews
    - Editorial independence statement
@@ -99,7 +98,6 @@ Map ALL 13 secondary keywords to specific sections:
   - 40+ sports including GAA and eSports
   - 15-minute withdrawals via e-wallets
   - 50+ payment methods including crypto
-- Affiliate disclosure (50-75 words)
 
 **Internal Link:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
 
@@ -797,7 +795,6 @@ Place naturally throughout the content:
 
 - ✅ **Age:** 18+ (Ireland-specific)
 - ✅ **Helplines:** BeGambleAware.org, GambleAware.ie, 089 241 5401
-- ✅ **Affiliate Disclosure:** In introduction (50-75 words)
 - ✅ **Responsible Gambling Section:** Bottom of page
 - ✅ **No Dated Language in H1:** Use Last Updated badge only
 - ✅ **License Information:** Curacao (8048/JAZ), Kahnawake

@@ -54,7 +54,6 @@ bet442, bet442 review, 442 bet, bet442 login, bet442 casino, bet442 app, bet442 
 
 **Structure:**
 1. **Opening (40-50 words):** Direct verdict on Bet442 - Is it worth using? What's it best for?
-2. **Affiliate Disclosure (50-75 words):** Standard affiliate disclosure statement
 
 **Example Format:**
 ```
@@ -143,7 +142,6 @@ Use UK terms throughout:
 **Include:**
 - Quick verdict on Bet442
 - UK Gambling Commission license mention
-- Affiliate disclosure
 - What reader will learn
 
 ---
@@ -918,7 +916,6 @@ Before submitting, verify:
 
 **Content Completeness:**
 - [ ] Introduction 100-150 words (NO MORE)
-- [ ] Affiliate disclosure included in intro
 - [ ] 8 FAQ questions included (80-120 words each)
 - [ ] Mobile Experience section 150-200+ words
 - [ ] Bet442 Login subsection (H3) included under Mobile App

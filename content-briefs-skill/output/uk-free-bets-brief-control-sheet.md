@@ -303,7 +303,6 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 - [ ] **Introduction (150-200 words)**
   - Top 3 free bet picks summary
   - Value calculation emphasis (real returns vs. headline figures)
-  - Affiliate disclosure + 18+ compliance
 
 - [ ] **Quick Comparison Table (Interactive)**
   - All 7 brands
@@ -462,8 +461,6 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 - [ ] **Self-Exclusion:** GamStop integration links + explanation of impact on free bet eligibility
 - [ ] **T&Cs Transparency:** "T&Cs apply" on all bonus mentions, link to operator's full terms
 - [ ] **No Misleading Claims:** Avoid "risk-free", "guaranteed", "free money" language (ASA rules)
-
-### Affiliate Disclosure
 
 **Required Text (Introduction):**
 "We may earn commission from operators featured on this page. This does not influence our rankings, which are based on independent research, real user feedback, and UKGC compliance verification. 18+. BeGambleAware.org"

@@ -147,7 +147,6 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 ### Must Include
 - [ ] Last Updated badge (December 2025)
 - [ ] Letter badge: **RPL** with color #4CAF50
-- [ ] Affiliate disclosure (top of page)
 - [ ] Rating widget/star rating visual
 - [ ] Pros/cons checklist or table
 - [ ] Payment methods comparison table
@@ -230,7 +229,6 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
   - Ontario: 1-866-531-2600 (Responsible Gambling Council)
 
 ### Mandatory Disclosures
-- [ ] Affiliate disclosure in introduction
 - [ ] Offshore licensing disclaimer (not Ontario-regulated)
 - [ ] Provincial availability statement
 - [ ] Responsible gambling section with resources

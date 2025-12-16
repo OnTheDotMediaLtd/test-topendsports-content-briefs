@@ -69,8 +69,6 @@ new customer betting offers, best betting offers, top 20 betting sites uk free, 
    - Mention total offer value available
    - Authority statement about testing methodology
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commission
    - Transparency about editorial independence
    - Link to full disclosure policy
 
@@ -78,7 +76,6 @@ new customer betting offers, best betting offers, top 20 betting sites uk free, 
 ```
 The best new customer betting offers in the UK come from Bet442, LuckyMate, and NRGbet, offering welcome bonuses worth over £1,000 combined. These operators provide competitive terms with clear wagering requirements and realistic completion conditions, verified through our independent testing process.
 
-[Standard affiliate disclosure - 50-75 words - We may earn commission from operators featured on this page through affiliate partnerships. This does not affect our editorial independence or the rankings presented. All betting offers are assessed using our transparent methodology, and we only feature operators licensed by the UK Gambling Commission. For full disclosure details, see our About page.]
 ```
 
 **FORBIDDEN:**
@@ -118,7 +115,6 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 
 ### Introduction (100-150 words)
 - Direct answer format (see above)
-- Affiliate disclosure
 
 ---
 
@@ -807,7 +803,6 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 
 - [ ] Age restriction: **18+** (mentioned in intro and responsible gambling section)
 - [ ] Helpline: **BeGambleAware.org** and **GamCare 0808 8020 133**
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible gambling section at bottom (150-200 words)
 - [ ] UK Gambling Commission mentioned as regulator
 - [ ] UKGC license verification for all 9 operators

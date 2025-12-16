@@ -137,7 +137,6 @@ High-volume opportunity keywords:
    - Keywords: nrgbet, nrgbet review, nrg bet
    - Quick verdict on NRGbet
    - UK Gambling Commission license mention
-   - Affiliate disclosure
 
 **2. NRGbet Overview** (300-350 words)
    - Keywords: nrgbet, nrg bet, nrg betting

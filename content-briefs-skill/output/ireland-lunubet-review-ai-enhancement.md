@@ -49,14 +49,12 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 Place at start of intro section:
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> We may earn commission when you sign up through our links. Must be 18+. Gambling can be addictive. For help, contact Dunlewey Addiction Services: 1800 911 029.
   </p>
 </div>
 ```
@@ -805,7 +803,6 @@ Or as inline badge:
 1. Meta Tags (HEAD)
 2. H1 Title
 3. Last Updated Badge
-4. Affiliate Disclosure
 5. Quick Verdict Box
 6. Rating Breakdown Component
 7. Feature Comparison Table
@@ -842,7 +839,6 @@ Or as inline badge:
 - [x] Currency: EUR throughout
 - [x] Helpline: Dunlewey Addiction Services 1800 911 029
 - [x] Support resources: Problem Gambling Ireland, Gamblers Anonymous Ireland, BeGambleAware
-- [x] Affiliate disclosure: Ireland-compliant, top of page
 - [x] Self-exclusion information: Included in T&Cs and footer
 - [x] Last Updated badge: December 15, 2025
 - [x] No dated language in H1: Uses "2025" not "December 2025"
@@ -865,7 +861,6 @@ Or as inline badge:
 **Sections Completed:**
 - Meta tags (8 tags + OpenGraph + Twitter)
 - Last Updated badge (HTML/CSS)
-- Affiliate disclosure (Ireland-compliant)
 - Quick verdict box (rating + pros/cons preview)
 - Rating breakdown component (6 rating metrics)
 - Feature comparison table (5 operators)

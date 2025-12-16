@@ -77,7 +77,6 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
    - Lead with: What Festival Play is + key differentiator (crypto-friendly offshore operator)
    - Statement: Authority claim
 
-2. **Affiliate Disclosure (50-75 words):** Standard TopendsPortes disclosure
    - Commission statement
    - Independence claim
    - Review methodology
@@ -110,7 +109,6 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 **Requirements:**
 - Open with definitive statement: Festival Play is a Curacao-licensed offshore sportsbook offering crypto payments for Canadians
 - Authority: Explain our testing methodology
-- Affiliate Disclosure: 50-75 words minimum
 - NO date references in body copy
 
 ---
@@ -730,11 +728,9 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
   - Provincial helplines vary by location
 - **Responsible Gambling URL:** Must link to `/sport/betting/responsible-gambling.htm`
 
-### Affiliate Disclosure (50-75 words)
 ```
 TopEnd Sports may earn commission when you sign up and place bets through
 our links. This review is independent and objective, based on our comprehensive
-testing and research. We adhere to strict affiliate disclosure guidelines and do
 not accept payments for ranking, ratings, or recommendations.
 ```
 
@@ -861,7 +857,6 @@ not accept payments for ranking, ratings, or recommendations.
 - [ ] Payment Methods comparison: Table + 150-200 words
 - [ ] 12 internal links placed strategically
 - [ ] Every secondary keyword placed in specific section
-- [ ] Intro: 100-150 words, NO dates, affiliate disclosure
 - [ ] Word count: 3,500-4,000 (FAQs + body)
 - [ ] H1: Brand name + review + timeless angle
 - [ ] Meta keywords provided

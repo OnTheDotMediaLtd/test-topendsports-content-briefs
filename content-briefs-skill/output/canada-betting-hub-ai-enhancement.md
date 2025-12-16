@@ -183,40 +183,6 @@ function initStickyBar() {
 
 ---
 
-## 3. AFFILIATE DISCLOSURE
-
-### HTML
-```html
-<div class="affiliate-disclosure">
-    <p><strong>Affiliate Disclosure:</strong> TopEndSports.com may receive compensation when you click on links to offshore sportsbooks featured on this page. This compensation helps us maintain our site and provide free content. We only recommend reputable offshore operators that accept Canadian players outside Ontario's regulated market. All recommendations are based on independent research, user reviews, and testing. Our editorial integrity is never influenced by commercial partnerships. Please read our full <a href="/sport/betting/disclosure/index.htm">affiliate disclosure policy</a> for complete transparency.</p>
-</div>
-```
-
-### CSS
-```css
-.affiliate-disclosure {
-    background: linear-gradient(135deg, #fff3cd 0%, #fff8e1 100%);
-    border-left: 4px solid #ffc107;
-    padding: 15px 20px;
-    margin: 20px 0;
-    border-radius: 8px;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    color: #664d03;
-}
-
-.affiliate-disclosure strong {
-    color: #5a3e02;
-}
-
-.affiliate-disclosure a {
-    color: #0066cc;
-    text-decoration: underline;
-}
-```
-
----
-
 ## 4. QUICK ANSWER BOX
 
 ### HTML
@@ -2419,7 +2385,6 @@ All HTML, CSS, and JavaScript should be integrated into a single HTML file for t
 <body>
     <!-- Last Updated Badge -->
     <!-- H1: Sports Betting in Canada: Complete Guide to the Best Betting Sites -->
-    <!-- Affiliate Disclosure -->
     <!-- Quick Answer Box -->
     <!-- Introduction (writer provides content) -->
     <!-- Comparison Table -->

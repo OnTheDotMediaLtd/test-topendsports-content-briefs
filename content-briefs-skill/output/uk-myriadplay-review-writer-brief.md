@@ -57,7 +57,6 @@ myriadplay sport, myriad play, myriad play casino, myriad play review, myriadpla
    - Authority statement
    - Mention UK license (#39483) and launch date (June 2024)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard UK disclosure format
    - Mention editorial independence
    - Link to methodology
@@ -66,7 +65,6 @@ myriadplay sport, myriad play, myriad play casino, myriad play review, myriadpla
 ```
 Myriadplay is a promising new UK betting site launched in June 2024, offering 50+ sports, an impressive Acca Boost up to 77%, and strong esports coverage. Licensed by the UK Gambling Commission (#39483) and operated by AG Communications Limited, it delivers competitive odds and a solid mobile experience, though it lacks a dedicated app and ongoing promotions.
 
-[Affiliate disclosure paragraph - 50-75 words about commission, editorial independence, etc.]
 ```
 
 **FORBIDDEN:**
@@ -101,7 +99,6 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Quick verdict on Myriadplay
 - UK license verification (#39483)
 - Launch date context (June 2024)
-- Affiliate disclosure
 
 **Keywords:** myriadplay sport, myriadplay uk
 
@@ -732,7 +729,6 @@ Visa, Mastercard, PayPal, Neteller, Skrill, Trustly, AstroPay, Paysafecard, Much
 - [ ] BeGambleAware.org resources mentioned
 - [ ] UK Gambling Commission license (#39483) verified and cited
 - [ ] GAMSTOP self-exclusion mentioned
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible gambling section at bottom (150 words)
 - [ ] NO dated language in H1
 - [ ] Last Updated badge placement noted (AI adds in Phase 3)
@@ -754,7 +750,6 @@ Visa, Mastercard, PayPal, Neteller, Skrill, Trustly, AstroPay, Paysafecard, Much
 - [ ] FAQ schema markup (8 questions)
 - [ ] Breadcrumb schema
 - [ ] Article schema
-- [ ] Affiliate disclosure styling
 - [ ] Responsible gambling footer styling
 - [ ] Calculator tool links (odds, acca)
 
@@ -821,7 +816,7 @@ Visa, Mastercard, PayPal, Neteller, Skrill, Trustly, AstroPay, Paysafecard, Much
 
 - [ ] All 15 secondary keywords mapped to sections
 - [ ] Minimum 8 FAQs targeting question keywords
-- [ ] Introduction follows 150-word format (40-50 opening + 50-75 disclosure)
+- [ ] Introduction follows 150-word format (100-150 opening paragraph)
 - [ ] NO dates in H1 or H2 headings
 - [ ] 12 internal links placed contextually
 - [ ] UK compliance language (18+, 0808 8020 133, BeGambleAware)

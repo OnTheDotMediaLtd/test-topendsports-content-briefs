@@ -46,7 +46,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE (UK)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -759,7 +758,6 @@ Schema Markup:
   ✓ All JSON-LD properly formatted
 
 Compliance Sections:
-  ✓ Affiliate disclosure (UK-specific)
   ✓ Responsible gambling section (UK hotline: 0808 8020 133)
   ✓ BeGambleAware.org links
   ✓ 18+ requirement

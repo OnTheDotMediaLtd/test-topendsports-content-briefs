@@ -31,7 +31,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -1054,7 +1053,6 @@ document.querySelectorAll('h3').forEach(heading => {
   </p>
 
   <p>
-    <strong>Affiliate Disclosure:</strong> TopEnd Sports may earn a commission when players sign up through our links. This does not affect pricing. Our reviews are independent analyses based on features, bonuses, security, and user experience.
   </p>
 
   <p>
@@ -1105,7 +1103,6 @@ Place these internal links naturally throughout content sections:
 
 - [x] Meta tags complete (title, description, keywords, canonical)
 - [x] Last Updated badge implemented (December 15, 2025)
-- [x] Affiliate disclosure included (top of article)
 - [x] Quick Verdict box with WYN badge (#3F51B5)
 - [x] Rating breakdown with 6 category ratings (4.0/5 overall)
 - [x] Pros/cons clearly listed (6 pros, 5 cons)
@@ -1127,7 +1124,6 @@ Place these internal links naturally throughout content sections:
 - [x] Breadcrumb schema complete
 - [x] Responsible gambling section with Canadian resources
 - [x] All provincial helplines included (ON: Provincial helplines vary, BC, AB, QC, MB, NS, NB, NL)
-- [x] Compliance disclaimers (age requirements, affiliate disclosure, no personal advice)
 - [x] 12 internal links integrated naturally
 - [x] Zero placeholders - all content complete and verified
 - [x] Mobile-responsive HTML styling

@@ -38,7 +38,6 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE (TOP OF PAGE)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -1097,7 +1096,6 @@ document.addEventListener('DOMContentLoaded', function() {
 ✓ Website: https://www.gamblingcare.ie/
 ✓ Letter badge: RAB (#512DA8)
 ✓ Last Updated badge: December 15, 2024
-✓ Affiliate disclosure: Top of page
 ✓ T&Cs section: Complete with all details
 ✓ Schema markup: Article, FAQ, Breadcrumb, Review
 ✓ FAQs: 8 questions targeting all secondary keywords
@@ -1173,7 +1171,6 @@ document.addEventListener('DOMContentLoaded', function() {
 - [x] Interactive elements: FAQ accordions with smooth transitions
 - [x] CSS fully responsive (mobile-first design)
 - [x] JavaScript: DOMContentLoaded wrapper, console logging
-- [x] Affiliate disclosure prominent
 - [x] Responsible gambling section comprehensive
 - [x] ZERO placeholders - all sections fully populated
 - [x] Brand comparison table with honest assessment

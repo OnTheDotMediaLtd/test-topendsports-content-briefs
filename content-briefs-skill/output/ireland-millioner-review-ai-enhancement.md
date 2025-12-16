@@ -773,15 +773,6 @@ window.addEventListener('DOMContentLoaded', function() {
 
 ## COMPLIANCE SECTIONS
 
-### Affiliate Disclosure
-
-```html
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
-  <p style="margin: 0; font-size: 14px; color: #856404;">
-    <strong>Affiliate Disclosure:</strong> TopendSports is a participant in affiliate partnerships. We may earn commission when you sign up through our links to play at Millioner. This disclosure does not influence our review process or recommendations. Must be 18+ to participate. Gambling problem? Call Gambling Care Ireland at <strong>1800 753 753</strong> (freephone, 24/7 support).
-  </p>
-</div>
-```
 
 ### Responsible Gambling Section
 

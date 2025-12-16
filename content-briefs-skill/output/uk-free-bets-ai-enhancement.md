@@ -662,9 +662,6 @@ document.getElementById('wageringMultiplier').addEventListener('change', calcula
     </div>
 
     <div class="compliance-box">
-        <h3>Affiliate Disclosure</h3>
-        <p><strong>Affiliate Notice:</strong> TopEndSports is compensated by the bookmakers listed when users click our links and complete registration. This never affects your offer terms or odds. We prioritize factual comparisons and your best interests.</p>
-    </div>
 
     <div class="warning-box">
         <h3>⚠️ Only Gamble What You Can Afford to Lose</h3>

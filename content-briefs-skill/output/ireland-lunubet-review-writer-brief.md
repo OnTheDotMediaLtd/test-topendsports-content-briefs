@@ -69,8 +69,6 @@ This is a **single-brand review** of Lunubet for the Irish market. Lunubet is a 
    - Sentence 2: Authority/context statement
 
 2. **Disclosure (50-75 words):**
-   - Ireland-compliant affiliate disclosure
-   - Clear and prominent
 
 **Example:**
 ```
@@ -748,7 +746,6 @@ Link to these pages naturally throughout:
 - **Resources:**
   - Problem Gambling Ireland: www.problemgambling.ie
   - Gamblers Anonymous Ireland: www.gamblersanonymous.ie
-- **Affiliate Disclosure:** Ireland-compliant (in intro)
 - **Responsible Gambling:** Footer section with Irish resources
 
 ### Regulatory Context:
@@ -806,7 +803,6 @@ Before submitting, verify:
 - [ ] 12 internal links included
 - [ ] Curacao license addressed honestly
 - [ ] No dated language in H1
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling footer with Irish resources
 - [ ] Word count: 3,500-4,000 words
 

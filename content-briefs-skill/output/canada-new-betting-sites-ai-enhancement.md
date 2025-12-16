@@ -533,10 +533,6 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
   </div>
 
-  <div class="affiliate-disclosure">
-    <h3>Affiliate Disclosure</h3>
-    <p>TopEndSports is an affiliate partner for featured betting sites. We receive compensation when you sign up through our links. This does not affect our editorial independence—we review all sites based on merit, features, and user value. Read our full disclosure policy.</p>
-  </div>
 </div>
 
 <style>
@@ -640,7 +636,6 @@ document.addEventListener('DOMContentLoaded', function() {
   border-color: #3182ce;
 }
 
-.affiliate-disclosure {
   margin-top: 24px;
   padding-top: 24px;
   border-top: 1px solid #cbd5e0;
@@ -829,7 +824,6 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 
 ---
 
-## AFFILIATE DISCLOSURE (TOP OF PAGE)
 
 ```html
 <div class="affiliate-banner">
@@ -897,7 +891,6 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 - [x] Schema markup: Article + FAQ + Breadcrumb (complete)
 - [x] Canada compliance: 19+/18+, Provincial helplines vary (included + provincial info)
 - [x] Payment methods accordion (collapsible, interactive)
-- [x] Affiliate disclosure (transparent, prominent)
 - [x] All 12 internal links placed strategically
 - [x] No placeholders or "[...]" syntax
 - [x] Mobile responsive CSS

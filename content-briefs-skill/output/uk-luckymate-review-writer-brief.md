@@ -79,10 +79,8 @@ All keywords MUST be naturally integrated. Keyword placement indicated below:
 **Example:**
 > LuckyMate is a UK-licensed betting site offering 0% margin odds on pre-match and in-play betting across 40+ sports, making it one of the most value-focused operators for serious punters. While it lacks a mobile app, the web platform delivers excellent in-play betting with over 100 markets per football match and features like Bet Builder and ACCA Boost.
 
-2. **Affiliate Disclosure (50-60 words)**
 
 **Example:**
-> Affiliate Disclosure: We may earn commission when you sign up through our links. This does not impact our editorial independence or the accuracy of our reviews. LuckyMate is licensed by the UK Gambling Commission (License #48789). Age 18+. Please gamble responsibly. BeGambleAware.org.
 
 3. **Overview paragraph (80-100 words)**
    - What reader will learn in this review
@@ -121,7 +119,6 @@ Green badge below H1 with current date
 **Keywords:** luckymate, luckymate review
 
 - Opening statement (50-60w)
-- Affiliate disclosure (50-60w)
 - Overview of what reader will learn (80-100w)
 
 ---
@@ -696,7 +693,6 @@ Insert naturally throughout content:
 Every page MUST have:
 - [ ] Age: **18+** (UK requirement, NOT 21+)
 - [ ] UK Gambling Commission license verification
-- [ ] Affiliate disclosure (in introduction)
 - [ ] **GamStop** mention (UK self-exclusion scheme)
 - [ ] **BeGambleAware.org** link
 - [ ] National Gambling Helpline: **0808 8020 133**

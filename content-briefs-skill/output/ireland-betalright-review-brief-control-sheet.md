@@ -126,7 +126,6 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 
 **1. Header & Introduction** (200-250 words)
 - Last Updated badge: December 2025
-- Affiliate disclosure (prominent)
 - Quick answer box: What is Betalright? Who is it best for?
 - Keywords: betalright, ireland, sports betting
 
@@ -252,7 +251,6 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 ### Mandatory Elements
 
 - [ ] Last Updated badge (December 2025)
-- [ ] Affiliate disclosure (top of page, prominent)
 - [ ] Quick answer box (Who is Betalright best for?)
 - [ ] Star rating system (3.5-4.0/5 realistic rating)
 - [ ] Pros/Cons comparison table
@@ -301,7 +299,6 @@ This is a comprehensive brand review for **Betalright**, a newer betting operato
 - **Responsible Gambling:**
   - Problem Gambling Ireland: https://www.problemgambling.ie/
   - Gamblers Anonymous Ireland: https://www.gamblersanonymous.ie/
-- **Affiliate Disclosure:** Required and prominent
 - **Transparency:** Address offshore licensing honestly
 
 ### Sources Required

@@ -51,7 +51,6 @@ Map ALL 15 secondary keywords to specific sections:
 
 **Structure:**
 1. **Opening (40-50 words):** Direct answer. What is 22bet? Start with the core answer.
-2. **Disclosure (50-75 words):** Affiliate disclosure per compliance standards.
 
 **Forbidden in Introduction:**
 - ❌ "Welcome to our review..."
@@ -108,7 +107,6 @@ Last Updated: December 15, 2025
 
 **Required Elements:**
 1. Direct answer opening (40-50 words) - What is 22bet?
-2. Affiliate disclosure (50-75 words)
 3. Quick overview of 22bet's position in UK market
 4. Key differentiators preview
 
@@ -674,7 +672,6 @@ Before submitting content, verify:
 - [ ] UK Gambling Helpline included: **0808 8020 133**
 - [ ] BeGambleAware.org link in Responsible Gambling section
 - [ ] GamCare link in Responsible Gambling section
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Last Updated badge below H1 (December 15, 2025)
 - [ ] NO dated language in H1 or section titles
 - [ ] Brand badge (22B, #1B5E20) included

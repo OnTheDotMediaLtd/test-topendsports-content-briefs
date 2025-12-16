@@ -46,7 +46,6 @@
 **Opening (40-50 words):**
 > The best betting sites UK are Bet442, LuckyMate, and NRGbet. These UK-licensed bookmakers offer the most competitive odds, comprehensive sports coverage, and secure payment methods, verified through extensive testing across mobile and desktop platforms.
 
-**Then:** Affiliate disclosure (50-75 words)
 
 **❌ FORBIDDEN PHRASES:**
 - "Welcome to..."
@@ -102,7 +101,6 @@
 
 ### Introduction (100-150 words)
 - Direct answer format: Name top 3 UK betting sites first
-- Then: Affiliate disclosure (50-75 words)
 
 ### Comparison Table
 - **ALL 9 brands featured:** Bet442, LuckyMate, NRGbet, Myriadplay, 7Bet, Mr Luck, MogoBet, 22bet, Highbet
@@ -590,7 +588,6 @@
 - [ ] GamStop, GamCare, BeGambleAware mentioned
 - [ ] Credit card ban explicitly stated
 - [ ] Tax-free betting explained
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (use Last Updated badge)
 - [ ] All 12 secondary keywords mapped to sections (NO cannibalization of dedicated pages)

@@ -94,7 +94,6 @@ Use these 5 brands for "How Wyns Compares" section:
 ## CONTENT SECTIONS (Template 1: Brand Review)
 
 ### Core Review Sections (2,400 words)
-- [ ] **Header & Introduction** (200 words) — Last Updated badge, affiliate disclosure, quick answer, Canadian market context
 - [ ] **Rating Summary** (200 words) — Overall rating, pros/cons, best for statement
 - [ ] **Comprehensive Feature Analysis** (900 words)
   - Betting Markets & Odds (250 words)
@@ -166,7 +165,6 @@ Transform low-volume brand review into high-traffic page by capturing broader Ca
 - [ ] Provincial age requirements (19+ most provinces, 18+ AB/MB/QC)
 - [ ] Provincial helpline numbers (varies by province)
 - [ ] iGaming Ontario (iGO) licensing context
-- [ ] Affiliate disclosure (prominent placement)
 - [ ] Responsible gambling section with Canadian resources
 
 ---

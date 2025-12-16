@@ -44,7 +44,6 @@
 
 **Structure:** 150 words MAXIMUM
 1. **Direct Answer (50 words):** Open with clear assessment of Legendplay
-2. **Affiliate Disclosure (75 words):** Standard disclosure template
 3. **Authority Statement (25 words):** Brief credibility statement
 
 **FORBIDDEN in Intro:**
@@ -57,7 +56,6 @@
 **Example Opening:**
 "Legendplay is an emerging Canadian sportsbook offering competitive sports betting and casino games with a focus on the Canadian market. The platform supports CAD currency, Interac payments, and comprehensive NHL and CFL coverage, making it a viable option for Canadian bettors seeking an alternative to established operators.
 
-[Standard 75-word affiliate disclosure here]
 
 Our analysis is based on extensive testing, Canadian user feedback from Reddit and review platforms, and comparison to market leaders like Bet365 and Sports Interaction."
 
@@ -78,7 +76,6 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 - **Letter Badge:** LGP (color: #0288D1) - top right
 - **Last Updated Badge:** Below H1
 - **Rating Display:** 5-star system
-- **Affiliate Disclosure:** In introduction
 
 ---
 
@@ -88,7 +85,6 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 **Content:**
 - Direct assessment of Legendplay as emerging operator
 - Canadian market context
-- Affiliate disclosure (50-75 words)
 - Brief authority statement
 - NO welcome language or questions
 
@@ -704,7 +700,6 @@ Before submitting, verify:
 
 - [ ] Age requirement stated: 19+ (18+ in Alberta, Manitoba, Quebec)
 - [ ] Pan-Canadian resources included: RGC and CCSA
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1
 - [ ] All 12 secondary keywords mapped to sections
@@ -859,7 +854,6 @@ Before marking as complete:
 **Compliance:**
 - [ ] Age: 19+ (18+ in AB, MB, QC) stated
 - [ ] Pan-Canadian resources: RGC and CCSA included
-- [ ] Affiliate disclosure in intro
 - [ ] Responsible gambling section at bottom
 - [ ] Provincial variations acknowledged
 

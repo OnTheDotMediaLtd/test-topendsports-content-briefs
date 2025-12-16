@@ -210,7 +210,6 @@ Must include these keywords:
 - [ ] Mobile app download badges (App Store, Google Play)
 - [ ] Responsive comparison tables
 - [ ] Schema markup: Article, Review, FAQ, Breadcrumb
-- [ ] Affiliate disclosure (prominent in intro)
 - [ ] CTA buttons with affiliate links
 
 ---
@@ -223,7 +222,6 @@ Must include these keywords:
   - BeGambleAware.org
   - GamCare
   - National Gambling Helpline: 0808 8020 133
-- **Affiliate Disclosure:** Required in introduction
 - **Transparency:** Clear about licensing implications for UK players
 
 ---

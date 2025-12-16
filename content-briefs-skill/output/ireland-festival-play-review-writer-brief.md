@@ -59,7 +59,6 @@
    - Sentence 2-3: Key features (38+ sports, Curacao license, crypto payments)
    - Sentence 4: Who it's best for
 
-2. **Affiliate Disclosure (50-75 words):** Standard disclosure
    - "We may earn commission from links on this page..."
    - Mention testing methodology
    - Emphasize transparency
@@ -72,7 +71,6 @@ it accepts cryptocurrency payments with 24-hour withdrawals and features a uniqu
 Early Payout option. While it lacks an Irish GRAI license and native mobile app,
 Festival Play suits players seeking sports variety and crypto payment options.
 
-[Affiliate disclosure paragraph 50-75 words...]
 ```
 
 **Forbidden:**
@@ -133,7 +131,6 @@ Festival Play suits players seeking sports variety and crypto payment options.
 
 **Writer Instructions:**
 - Start with direct answer (see Mandatory Intro Format above)
-- Include 50-75 word affiliate disclosure
 - Set expectations: This is a Curacao-licensed operator, not Irish-licensed
 - Total: 200-250 words max
 
@@ -874,7 +871,6 @@ Festival Play targets Irish players who:
 ### Age & Responsible Gambling:
 - **Age:** 18+ (Ireland)
 - **Helpline:** HSE Drugs and Alcohol Helpline: 1800 459 459
-- **Affiliate Disclosure:** Required in introduction (50-75 words)
 - **Responsible Gambling Section:** Required at bottom (75-100 words)
 
 ### Regulatory Context:
@@ -888,7 +884,6 @@ Festival Play targets Irish players who:
 - Explain legal status (legal to use, but not Irish-licensed)
 - Provide Irish-licensed alternatives (Paddy Power, BoyleSports)
 
-### Affiliate Disclosure Template:
 
 "We may earn commission from links on this page, but this does not influence our editorial independence. We've tested Festival Play extensively to provide honest, data-driven insights. Our reviews are based on [methodology]: real user experiences from Reddit discussions, feature verification from the official website, and comparison with Irish-licensed competitors. All recommendations prioritize player safety and value."
 
@@ -925,7 +920,6 @@ Before submitting, verify:
 - [ ] Responsible gambling section included (75-100 words)
 - [ ] HSE helpline mentioned: 1800 459 459
 - [ ] Age requirement stated: 18+
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Sources cited properly (Reddit, official site, competitor reviews)
 - [ ] NO claims about app store ratings (no app exists)
 - [ ] Cryptocurrency advantages emphasized (24-hour withdrawals)

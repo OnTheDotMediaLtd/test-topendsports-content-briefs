@@ -257,7 +257,6 @@ Based on competitor analysis, our unique advantages:
 - [x] Loto-Quebec regulation links
 - [x] Age requirement: 19+ (18+ in Alberta, Manitoba, Quebec)
 - [x] Canadian Problem Gambling helpline: 1-800-463-1554
-- [x] Affiliate disclosure in introduction
 - [x] Responsible gambling section (focus on new user caution)
 
 ---
@@ -341,7 +340,6 @@ What competitors are missing that we will include:
   - Alcohol and Gaming Commission of Ontario (AGCO)
   - Loto-Quebec (Quebec)
   - Alberta Gaming, Liquor and Cannabis (AGLC)
-- **Affiliate Disclosure:** Required in first 2 paragraphs
 - **Responsible Gambling Section:** Mandatory at bottom, focus on new user caution
 - **T&C Verification:** All 9 new sites require license verification and regulatory links
 

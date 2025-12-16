@@ -35,20 +35,6 @@ Place immediately after H1:
 
 ---
 
-## 3. AFFILIATE DISCLOSURE (UK-COMPLIANT)
-
-Place at top of content, before introduction:
-
-```html
-<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-  <p style="margin: 0; font-size: 14px; color: #856404;">
-    <strong>Disclosure:</strong> We may earn commission when you sign up through our links. All featured bookmakers hold valid UK Gambling Commission licenses. Must be 18+. Gambling problem? Call the National Gambling Helpline: <strong>0808 8020 133</strong> (free, confidential, 24/7).
-  </p>
-</div>
-```
-
----
-
 ## 4. QUICK ANSWER BOX
 
 ```html
@@ -2037,7 +2023,6 @@ function initTableInteractivity() {
    ```
    <h1>Best Betting Sites UK - Top Bookmakers Reviewed</h1>
    → Last Updated Badge (section 2)
-   → Affiliate Disclosure (section 3)
    → Quick Answer Box (section 4)
    → Comparison Table (section 5)
    → [Writer's main content sections from Phase 2]
@@ -2104,7 +2089,6 @@ function initTableInteractivity() {
 **Sections Delivered:**
 1. ✅ Meta Tags (UK market)
 2. ✅ Last Updated Badge (HTML/CSS)
-3. ✅ Affiliate Disclosure (UK-compliant)
 4. ✅ Quick Answer Box (top 3 picks)
 5. ✅ Interactive Comparison Table (9 brands, sortable, filterable)
 6. ✅ Payment Methods Table (UK-specific)

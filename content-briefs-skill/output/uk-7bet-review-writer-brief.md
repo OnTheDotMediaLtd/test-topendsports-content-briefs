@@ -81,14 +81,12 @@ Map ALL 17 keywords to specific sections:
    - Sentence 1: Direct verdict on 7Bet
    - Sentence 2: Authority statement (testing methodology)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure box explaining commission structure
    - Does not affect recommendations or ratings
 
 **Example Opening:**
 > "7Bet is a competitive odds specialist offering low betting margins (5.24%) and 37 sports markets, though it lacks a mobile app. This UKGC-licensed operator launched in the UK in mid-2024 with a dual sportsbook and casino offering. Our analysis is based on extensive platform testing and user review analysis."
 >
-> [Affiliate disclosure box - 50-75 words explaining commission structure]
 
 **FORBIDDEN:**
 - ❌ "Welcome to our 7Bet review..."
@@ -117,7 +115,6 @@ Map ALL 17 keywords to specific sections:
 ### Header Elements (Handled by AI Phase 3)
 - Last Updated badge (current date)
 - 7Bet letter badge (7BT) in #E91E63 color
-- Affiliate disclosure box
 
 ---
 
@@ -132,7 +129,6 @@ Map ALL 17 keywords to specific sections:
 **Structure:**
 - Opening paragraph (40-50 words): Direct verdict on 7Bet
 - Authority statement: How we tested 7Bet
-- Affiliate disclosure (50-75 words) in styled box
 - Quick answer box with key takeaway
 
 **Key Points:**
@@ -918,7 +914,6 @@ Worth trying for experienced bettors seeking value. Set expectations: verify acc
 - [ ] BeGambleAware.org link included
 - [ ] GamCare helpline (0808 8020 133) included
 - [ ] GAMSTOP mentioned in responsible gambling section
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Last Updated badge after H1 (handled by AI Phase 3)
 - [ ] NO dated language in H1 (no "2025", no "December 2025")
 - [ ] UKGC license number displayed (048788-R-327401-009)
@@ -934,7 +929,6 @@ These will be handled in Phase 3, but listed here for awareness:
 
 - 7BT letter badge in #E91E63 color (header)
 - Last Updated badge (current date)
-- Affiliate disclosure box (styled)
 - Quick answer box with key takeaway
 - Rating stars visualization (3.5/5)
 - Pros/Cons bullet styling with checkmarks/crosses

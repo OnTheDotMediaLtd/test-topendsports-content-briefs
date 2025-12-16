@@ -286,7 +286,6 @@
 
 ### Compliance
 
-- [ ] Affiliate disclosure (top of page, clear)
 - [ ] BeGambleAware.org link (footer + responsible gambling section)
 - [ ] UK Gambling Commission verification
 - [ ] 18+ age requirement (multiple placements)

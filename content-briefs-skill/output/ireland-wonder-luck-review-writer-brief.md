@@ -74,7 +74,6 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 - Sentence 2: Authority statement ("verified through research", "tested across…")
 - Example: "Wonder Luck is an emerging Irish-friendly sportsbook offering [bonus], competitive odds, and [key feature]. Our research tested [X features] across [Y categories] to verify its quality."
 
-**Affiliate Disclosure (50-75 words):**
 - "We may earn commission when you sign up through our links. This helps fund our independent testing and review process. Our ratings and recommendations are based solely on testing quality and user experience, not commission amounts. We tested Wonder Luck across [specific criteria] to assess its suitability for Irish players."
 
 **Forbidden Elements:**
@@ -101,7 +100,6 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 - Direct verdict opening (40-50 words)
 - Key USPs highlighted (bonus amount EUR, market focus, key features)
 - Authority statement ("tested and verified")
-- Affiliate disclosure (50-75 words)
 - Internal link: "best betting sites Ireland" (to /sport/betting/ireland/index.htm)
 
 **Tone:** Direct, authoritative, balanced assessment of newer operator
@@ -737,7 +735,6 @@ All FAQ questions must target secondary keywords. Use **Schema-ready format** fo
 - [ ] Currency: EUR throughout entire article
 - [ ] Helpline: Dunlewey Addiction Services: 1800 911 029
 - [ ] Resource link: www.gamblingcare.ie
-- [ ] Affiliate disclosure: 50-75 words in introduction
 - [ ] "Last Updated" badge: After H1 title
 - [ ] Responsible gambling section: Bottom of article
 - [ ] All 15 keywords mapped to specific sections
@@ -827,7 +824,6 @@ Before submitting for AI Enhancement (Phase 3):
 - [ ] Age requirement: 18+ mentioned explicitly
 - [ ] Currency: EUR used throughout
 - [ ] Responsible gambling section at bottom with Irish helpline
-- [ ] Affiliate disclosure 50-75 words
 - [ ] Last Updated badge format specified
 - [ ] No placeholders like "[Insert]" or "..."
 - [ ] No dated language in H1

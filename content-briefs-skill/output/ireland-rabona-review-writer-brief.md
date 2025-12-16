@@ -51,7 +51,6 @@ rabona casino, rabona, rabona ireland, online casino ireland, sports betting ire
    - Sentence 2-3: Key findings from testing (casino games, sports betting, bonuses)
    - Sentence 4: Authority statement
 
-2. **Affiliate Disclosure (75-100 words):**
    - Transparency about affiliate relationships
    - Editorial independence statement
    - Ireland-specific context
@@ -66,7 +65,6 @@ rabona casino, rabona, rabona ireland, online casino ireland, sports betting ire
 ```
 Rabona is a solid casino and sportsbook option for Irish players seeking extensive game variety and competitive bonuses, though it lacks the local market focus of established Irish operators. Our testing revealed 3,000+ casino games, comprehensive sports betting markets, and crypto payment support, but limited GAA coverage compared to Paddy Power or BoyleSports.
 
-[Affiliate disclosure paragraph...]
 ```
 
 ---
@@ -814,7 +812,6 @@ Place these links naturally within relevant sections:
 ✅ **Age Requirement:** 18+ for Ireland (mention prominently)
 ✅ **Gambling Hotline:** Gambling Care Ireland: 1800 936 725
 ✅ **Gambling Resources:** https://www.gamblingcare.ie/
-✅ **Affiliate Disclosure:** In introduction (50-75 words)
 ✅ **Responsible Gambling Section:** Required at bottom
 ✅ **NO Dated Language in H1:** Use timeless title
 ✅ **Last Updated Badge:** After H1 (AI will add)

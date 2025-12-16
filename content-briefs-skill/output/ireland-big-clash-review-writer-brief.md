@@ -64,7 +64,6 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
    - Sentence 1: Big Clash is a crypto-friendly sportsbook accepting Irish bettors with a €500 welcome bonus, Bitcoin/Ethereum payments, and 24/7 customer support.
    - Sentence 2: Licensed by Curacao and established in 2021, it targets young bettors and esports enthusiasts.
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard TopEndSports disclosure about earning commission from operator links
    - Maintain editorial independence statement
    - Quick guide promise
@@ -100,7 +99,6 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
 
 **Structure:**
 - Opening (40-50 words): Big Clash overview with key selling points
-- Affiliate disclosure (50-75 words): Standard compliance disclosure
 - Quick navigation promise (1 sentence)
 
 **Writing Notes:**
@@ -698,7 +696,6 @@ Link to [responsible gambling resources](/sport/betting/responsible-gambling.htm
 
 - [ ] Age requirement: 18+ (NOT 21+, this is Ireland)
 - [ ] Responsible gambling resources: Gamblers Anonymous Ireland, Dunlewey Addiction Services
-- [ ] Affiliate disclosure in introduction
 - [ ] No dated language in H1
 - [ ] Last Updated badge position noted (for AI to add)
 - [ ] Tax-free winnings note included

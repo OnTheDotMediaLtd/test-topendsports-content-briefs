@@ -46,7 +46,6 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE (INTRODUCTION)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -714,12 +713,10 @@ Place immediately after H1:
 
 ## COMPLIANCE SECTIONS
 
-### Affiliate Disclosure (Full HTML)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6; color: #333;">
-    <strong>Affiliate Disclosure:</strong> Topend Sports is an independent media company and may earn commission when readers click links and sign up for betting accounts. This does not affect the price you pay—your cost is identical whether you sign up directly or through our links. We maintain complete editorial independence and do not allow affiliate relationships to influence content quality, accuracy, or recommendations. Our reviews are based on platform features, user experience, regulatory status, and competitive analysis, not commission potential. We are transparent about limitations and risks, including licensing concerns (e.g., Casinia's Anjouan license vs UKGC regulation). For questions about our affiliate relationships, contact editor@topendsports.com.
   </p>
 </div>
 ```
@@ -789,7 +786,6 @@ Place immediately after H1:
 
 ✅ **Complete Meta Tags** - Title, description, keywords, author, canonical, OG tags included
 ✅ **Last Updated Badge** - December 15, 2025 displayed prominently after H1
-✅ **Affiliate Disclosure** - Full transparency about commission model (introduction section)
 ✅ **Quick Verdict Box** - Rating, highlights, concerns, welcome offer summarized
 ✅ **Feature Comparison Table** - Casinia vs BoyleSports, Paddy Power, Bet365 with license, bonus, crypto, mobile, rating columns
 ✅ **Rating Breakdown Component** - 5 categories scored with visual progress bars (Platform 9/10, Sports 9/10, Mobile 8/10, Payment 9/10, Licensing 6/10)
@@ -800,7 +796,6 @@ Place immediately after H1:
 ✅ **FAQ Schema** - 8 optimized questions with complete answers targeting high-volume keywords (best betting sites ireland, irish betting sites, betting companies ireland, best online bookies, crypto payments, BoyleSports comparison, sports coverage, mobile app)
 ✅ **Breadcrumb Schema** - JSON-LD navigation path: Home > Betting > Ireland Betting > Casina Sport Review
 ✅ **Compliance Sections:**
-  - Affiliate disclosure (transparent about commission model)
   - Responsible Gambling with Ireland-specific hotline (087 744 3577)
   - Gamblers Anonymous link, Gambling Therapy link, player protection tools on Casinia, self-assessment questions
   - 18+ age requirement clearly stated

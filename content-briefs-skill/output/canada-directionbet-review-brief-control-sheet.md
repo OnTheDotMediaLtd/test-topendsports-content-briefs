@@ -142,7 +142,6 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 
 | Section | Words | Key Focus |
 |---------|-------|-----------|
-| **Introduction & Quick Answer** | 200 | Position DirectionBet in Canadian market, manage expectations, affiliate disclosure |
 | **Rating Summary** | 175 | Honest assessment (not top-tier), clear pros/cons, best-for statement |
 | **Feature Analysis** | 900 | Sports markets (40+), welcome bonus (4-part structure), casino integration, payment methods |
 | **Mobile App Experience** | 350 | App availability, casino vs sports features, UX assessment |
@@ -167,7 +166,6 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 
 ### Mandatory Sections (Template 1)
 
-- [x] Introduction with affiliate disclosure
 - [x] Quick answer (manage expectations)
 - [x] Rating summary (honest assessment)
 - [x] Feature analysis (sports markets, odds, bonuses, UI)
@@ -286,7 +284,6 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 - [ ] Article schema (author, dateModified, organization)
 - [ ] Breadcrumb schema
 - [ ] Mobile-responsive tables
-- [ ] Affiliate disclosure box (prominent)
 - [ ] Responsible gambling box (footer)
 
 ### Schema Markup Requirements
@@ -315,7 +312,6 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 ### Age & Legal
 - **Age Requirement:** Varies by province (typically 19+, some provinces 18+)
 - **Hotline:** 1-800-522-4700
-- **Affiliate Disclosure:** Required in introduction (prominent placement)
 - **Provincial Licensing:** Verify DirectionBet licensing status in each province
 
 ### Responsible Gambling Section (Required)

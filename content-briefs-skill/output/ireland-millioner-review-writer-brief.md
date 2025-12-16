@@ -54,8 +54,6 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
    - NO rhetorical questions
    - NO "Welcome to..." language
 
-2. **Affiliate Disclosure (50-75 words):** Immediately after opening
-   - Standard disclosure about earning commission
    - Transparency on review process
 
 3. **Brief Context (remaining words):**
@@ -65,7 +63,6 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
 **Example Opening:**
 "Millioner Sport is a new betting platform entering Ireland's competitive market, offering [X feature] and [Y feature]. While it shows promise with [strength], it faces tough competition from established brands like Paddy Power and Boylesports. For Irish bettors seeking alternatives to major brands, Millioner is worth considering if [specific condition].
 
-[50-75 word affiliate disclosure]
 
 As one of Ireland's newest betting sites, Millioner aims to..."
 
@@ -101,7 +98,6 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 **Requirements:**
 - Direct opening: Is Millioner worth trying for Irish bettors? Answer immediately
-- Affiliate disclosure (50-75 words) right after opening
 - Brief context: Millioner as new entrant vs Paddy Power/Boylesports dominance
 - NO rhetorical questions
 - NO "Welcome to..." language
@@ -646,7 +642,6 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 - NOT the US hotline (1-800-522-4700)
 - Include in Responsible Gambling section
 
-**Affiliate Disclosure:**
 - Required at start of article (50-75 words)
 - Template: "We may earn commission from operators featured on this page through affiliate links. This does not influence our reviews, which are based on extensive testing and research. Learn more about our review process."
 

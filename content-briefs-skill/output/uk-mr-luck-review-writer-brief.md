@@ -69,7 +69,6 @@
    - Sentence 2: Quick verdict on casino-first focus
    - Sentence 3: Star rating (3.5-4.0 expected)
 
-2. **Affiliate Disclosure (50-75 words):**
    - Standard disclosure: "We may earn commission from brands featured..."
    - Mention editorial independence
    - Link to full disclosure page
@@ -113,7 +112,6 @@
 - Quick verdict on sports vs casino focus
 - Star rating (3.5-4.0 stars)
 - UK Gambling Commission licensing status
-- Affiliate disclosure (50-75 words)
 
 **Tone:** Honest acknowledgment that this is a casino-first operator with sports betting as secondary product.
 

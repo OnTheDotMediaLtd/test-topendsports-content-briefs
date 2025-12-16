@@ -583,7 +583,6 @@ function filterTable(filter) {
 </div>
 
 <p style="font-size: 12px; color: #666; margin-top: 24px;">
-    <strong>Affiliate Disclosure:</strong> TopEndSports is an affiliate website. When you click on links to various betting operators and complete an action (such as registering and placing a bet), this site may earn an affiliate commission. We maintain editorial independence and only recommend apps we believe offer genuine value to UK bettors. All apps must be UKGC licensed.
 </p>
 ```
 

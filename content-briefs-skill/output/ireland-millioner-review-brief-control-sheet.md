@@ -129,7 +129,6 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 - Last Updated badge
 - Millioner logo/badge (MIL, #9E9E9E)
 - Quick answer: What is Millioner? Best for whom?
-- Affiliate disclosure (Ireland-specific)
 - Overview of Ireland betting market context
 - **Keywords:** millioner sport, millioner ireland, irish betting sites, sports betting ireland
 
@@ -299,7 +298,6 @@ This is a **Template 1 (Brand Review)** page focusing on a single brand in-depth
 - **Currency:** Euro (€)
 - **Gambling Helpline:** Gambling Care - 1800 753 753 (Ireland)
 - **Regulator:** Verify Millioner's licensing with Irish gambling authorities
-- **Affiliate Disclosure:** Required at top of page
 - **Responsible Gambling:** Ireland-specific resources and self-exclusion info
 
 ### Schema Markup (Phase 3)

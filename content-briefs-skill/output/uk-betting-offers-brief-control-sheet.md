@@ -135,7 +135,6 @@
 
 ### Must-Have Sections:
 - [x] Introduction with top 3 offers (150 words)
-- [x] Affiliate disclosure (embedded in intro)
 - [x] What are betting offers? (Types: free bets, deposit match, risk-free, enhanced odds) - 300 words
 - [x] Comparison table (all 9 brands with offers, wagering requirements, min odds, expiry)
 - [x] Individual brand reviews (9 brands):
@@ -218,7 +217,6 @@
 - 18+ age restriction (UK market)
 - BeGambleAware.org helpline
 - UKGC license numbers for all 9 operators
-- Affiliate disclosure in introduction
 - Responsible gambling section at bottom
 - Full T&Cs for each offer with wagering requirements clearly stated
 - Offer verification date: December 2025
@@ -296,7 +294,6 @@
 ### Compliance:
 - Age: 18+ (UK market)
 - Helpline: BeGambleAware.org
-- Affiliate disclosure: Required in intro
 - Responsible gambling: Section at bottom
 - License verification: UKGC numbers for all 9 operators
 - T&Cs transparency: Full wagering requirements stated for each offer

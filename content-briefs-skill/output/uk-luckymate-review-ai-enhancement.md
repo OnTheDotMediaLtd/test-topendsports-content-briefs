@@ -42,12 +42,10 @@ Place immediately after H1:
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> We may earn commission when you sign up through our links. This does not impact our editorial independence or the accuracy of our reviews. LuckyMate is licensed by the UK Gambling Commission (License #48789). Age 18+. Please gamble responsibly. <a href="https://www.begambleaware.org" style="color: #856404; text-decoration: underline;">BeGambleAware.org</a>.
   </p>
 </div>
 ```
@@ -905,7 +903,6 @@ Place this alongside the LuckyMate brand name for visual identification.
 
 - [x] Meta tags complete (title, description, keywords, author, canonical)
 - [x] Last Updated badge built (green left border)
-- [x] Affiliate disclosure included (yellow background, top of page)
 - [x] Quick verdict box with 4.2/5 rating
 - [x] Rating breakdown component (6 rating categories with progress bars)
 - [x] Pros/Cons visual (5 pros cited, 5 cons cited with sources)
@@ -931,7 +928,6 @@ Place this alongside the LuckyMate brand name for visual identification.
 **Integration Points:**
 1. Place meta tags in `<head>` section
 2. Insert Last Updated badge immediately after `<h1>` tag
-3. Include affiliate disclosure in intro section
 4. Embed all schema markup in `<head>` with `<script type="application/ld+json">`
 5. Place Quick Verdict, Ratings, and Pros/Cons early in article (after intro)
 6. Position Calculator section near "0% Margin Odds Explained" H2
@@ -947,7 +943,6 @@ Place this alongside the LuckyMate brand name for visual identification.
 - [ ] Schema markup validates (schema.org validator)
 - [ ] All internal links functional
 - [ ] All external links open correctly
-- [ ] Affiliate disclosure visible and clear
 - [ ] Age requirement (18+) stated multiple times
 - [ ] GamStop and BeGambleAware links functional
 

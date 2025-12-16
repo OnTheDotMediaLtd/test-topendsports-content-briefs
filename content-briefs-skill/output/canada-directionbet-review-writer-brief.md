@@ -22,11 +22,10 @@
 
 ## MANDATORY INTRO FORMAT
 
-**Total:** 100-150 words (opening + affiliate disclosure)
+**Total:** 100-150 words (opening paragraph)
 
 **Structure:**
 1. **Opening (40-50 words):** Direct statement about DirectionBet as hybrid casino/sportsbook platform with cryptocurrency support. Position as niche option for specific audience.
-2. **Affiliate Disclosure (50-75 words):** Standard TES disclosure format about earning commissions.
 
 **Example Opening:**
 > "DirectionBet is a casino-focused platform with integrated sports betting, offering cryptocurrency payment options and a $1,500 welcome bonus. Unlike top-ranked Canadian sportsbooks, DirectionBet serves a specific audience seeking hybrid casino/sports platforms and fast crypto withdrawals."
@@ -86,15 +85,14 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 ---
 
-### SECTION 1: Introduction & Affiliate Disclosure
-**Word Count:** 150 words (40-50 opening + 50-75 disclosure)
+### SECTION 1: Introduction
+**Word Count:** 150 words (100-150 opening paragraph)
 
 **Content Focus:**
 - DirectionBet is a casino-focused platform with sports betting features
 - Serves specific audience: crypto users, hybrid platform seekers
 - Available in Canada with unique cryptocurrency payment option
 - Position as niche option (NOT top-tier sportsbook)
-- Affiliate disclosure in standard TES format
 
 **Keywords to Naturally Incorporate:** directionbet, betting sites canada, online betting canada
 
@@ -801,7 +799,6 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - **Hotlines:** Provincial helplines vary by location
   - Responsible Gambling Council: https://www.responsiblegambling.org/
   - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
-- **Affiliate Disclosure:** Required in introduction (50-75 words, prominent placement)
 - **Provincial Licensing:** Verify DirectionBet licensing status in each province
 
 ### Responsible Gambling Section (Required in Footer)
@@ -986,7 +983,6 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 ## QUALITY CHECKLIST FOR PHASE 2
 
-- [ ] Intro format correct: 40-50 opening + 50-75 affiliate disclosure = 100-150 words
 - [ ] All 17 secondary keywords mapped to specific sections
 - [ ] 10 FAQ questions created with keyword targeting
 - [ ] 12 internal links identified with placements
@@ -994,7 +990,7 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 - [ ] Payment Methods comparison table structured
 - [ ] Source requirements defined (Tier 1/2/3)
 - [ ] Word count targets per section specified (total 3,500-4,000)
-- [ ] Compliance requirements noted (Canada-specific: age, hotline, affiliate disclosure)
+- [ ] Compliance requirements noted (Canada-specific: age, hotline)
 - [ ] No dated language - using "Last Updated" badge instead
 - [ ] Unique angles identified (hybrid platform, crypto, 40x wagering analysis)
 - [ ] Pros & Cons balanced (3-5 each with evidence)

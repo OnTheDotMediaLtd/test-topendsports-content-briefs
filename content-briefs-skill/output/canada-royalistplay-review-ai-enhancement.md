@@ -60,12 +60,10 @@
 
 ---
 
-## AFFILIATE DISCLOSURE
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Affiliate Disclosure:</strong> We may earn commissions when you sign up through links on this page. This does not affect your pricing. We only recommend sportsbooks and casinos we've thoroughly tested. Must be 19+ (18+ in AB, MB, QC) to gamble. Gambling problem? Call Responsible Gambling Council: <strong>Provincial helplines vary</strong> (24/7, free, confidential).
   </p>
 </div>
 ```
@@ -852,7 +850,6 @@ The following internal links should be placed contextually throughout the articl
 
 - [x] Meta tags complete with all primary + secondary keywords
 - [x] Last Updated badge with December 15, 2025
-- [x] Affiliate disclosure (75 words, includes Canadian helpline)
 - [x] Quick verdict box with rating (4.0/5 stars)
 - [x] Competitive comparison table vs 4 Canadian competitors
 - [x] Rating breakdown with 5 metrics (visual progress bars)

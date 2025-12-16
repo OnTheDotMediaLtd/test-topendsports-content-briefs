@@ -255,7 +255,6 @@
 - Age requirement: 18+ (not 21+ like USA)
 - Gambling Commission license: 39483
 - Responsible gambling section required
-- Affiliate disclosure in introduction
 - BeGambleAware.org resources
 - Self-exclusion tool information
 

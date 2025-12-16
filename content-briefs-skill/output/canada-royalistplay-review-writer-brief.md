@@ -53,8 +53,6 @@ royalistplay sport, royalistplay, betting bonus, welcome bonus canada, sportsboo
    - Sentence 2: Key differentiator (offshore, 27 sports, $150 bonus)
    - Sentence 3: Authority statement
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commission
    - Does not influence rankings/reviews
    - Testing methodology mention
 
@@ -65,7 +63,6 @@ Canadian bettors access to 27 sporting categories and a 100% welcome bonus up to
 $150 CAD. Launched in 2022 with a Curaçao gaming license, it combines sports betting
 with casino games in a single platform.
 
-[Affiliate disclosure 50-75 words...]
 ```
 
 ### ❌ FORBIDDEN in Introduction:
@@ -96,7 +93,6 @@ with casino games in a single platform.
 
 ### Introduction (200-250 words)
 - Opening 40-50 words: What is Royalistplay?
-- Affiliate disclosure: 50-75 words
 - Quick context: Offshore (Curaçao) vs regulated Canadian markets
 - What reader will learn in this review
 - **Keywords:** royalistplay sport, online sportsbook, royalistplay casino review
@@ -887,7 +883,6 @@ Before submitting, ensure ALL of these are included:
 
 - [ ] Age restriction: **19+ (18+ in AB, MB, QC)** mentioned
 - [ ] Pan-Canadian resources: **RGC and CCSA** prominently displayed
-- [ ] Affiliate disclosure in introduction (50-75 words)
 - [ ] Responsible Gambling section at end with resources
 - [ ] NO dated language in H1 (no "2025", "December 2025", etc.)
 - [ ] Last Updated badge location noted (AI will add in Phase 3)
@@ -975,7 +970,6 @@ Before submitting to Phase 3:
 - [ ] Age restrictions correct for Canada
 
 **Compliance:**
-- [ ] Affiliate disclosure included
 - [ ] Age restrictions mentioned
 - [ ] Pan-Canadian helplines visible
 - [ ] Responsible gambling section complete

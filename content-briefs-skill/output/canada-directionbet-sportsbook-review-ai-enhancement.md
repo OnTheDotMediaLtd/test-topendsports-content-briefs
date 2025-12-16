@@ -32,7 +32,6 @@
 
 ---
 
-## AFFILIATE DISCLOSURE (Top of Page)
 
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem 1.25rem; margin: 1.5rem 0; border-radius: 4px;">
@@ -757,7 +756,6 @@ function toggleFAQ(element) {
 <div style="background: #e8f5e9; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; border-left: 4px solid #009688;">
   <h3 style="margin-top: 0; color: #009688;">Content Compliance Statement</h3>
   <ul style="line-height: 1.8; margin: 0; padding-left: 1.25rem; color: #333;">
-    <li>✓ Affiliate Disclosure: TopEndSports may earn commission from DirectionBet signups</li>
     <li>✓ Age Compliance: All references to 19+ (18+ in AB, MB, QC)</li>
     <li>✓ Gambling Hotline: Responsible Gambling Council Provincial helplines vary prominently displayed</li>
     <li>✓ Responsible Gambling: Section included with support resources</li>
@@ -847,7 +845,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 - [x] Meta tags (title, description, keywords, author, canonical)
 - [x] Last Updated badge (December 15, 2025)
-- [x] Affiliate Disclosure (top of page)
 - [x] Quick Answer Box (hero summary)
 - [x] Comparison Table (DirectionBet vs 4 Canadian competitors)
 - [x] Complete T&Cs Section (40x wagering highlighted honestly)

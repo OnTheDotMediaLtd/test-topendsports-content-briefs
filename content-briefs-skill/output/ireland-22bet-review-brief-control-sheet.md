@@ -156,7 +156,6 @@
 ## CONTENT SECTIONS BREAKDOWN
 
 ### 1. Introduction (150 words)
-- Affiliate disclosure (required)
 - Direct verdict: "22bet offers Irish punters €122 welcome bonus, 40+ sports, and industry-leading eSports coverage"
 - Quick USPs (3-4 bullets)
 - **Keywords:** 22bet ireland, 22bet review
@@ -497,7 +496,6 @@
 - [x] **Age Requirement:** 18+ (Ireland)
 - [x] **Jurisdiction:** Ireland (Republic of Ireland)
 - [x] **Hotline:** BeGambleAware.org, GambleAware.ie
-- [x] **Affiliate Disclosure:** Required in introduction
 - [x] **Responsible Gambling Section:** Mandatory at bottom
 - [x] **Forbidden Language:** Avoid "guaranteed wins," "can't lose," "risk-free"
 - [x] **Licensing Transparency:** Curacao + Kahnawake (note: not UKGC/MGA)

@@ -179,7 +179,6 @@
 - **Age Requirement:** 19+ (18+ in Alberta, Manitoba, Quebec)
 - **Gambling Helplines:** Provincial helplines (AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140)
 - **National Resource:** Responsible Gambling Council (www.responsiblegambling.org)
-- **Affiliate Disclosure:** Required in introduction
 - **Offshore Disclaimer:** Note that offshore sites operate outside Canadian jurisdiction
 - **Responsible Gambling:** Section required at bottom
 

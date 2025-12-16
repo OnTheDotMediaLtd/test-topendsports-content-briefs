@@ -127,8 +127,6 @@ ul, ol {
     color: var(--primary-green);
 }
 
-/* ===== AFFILIATE DISCLOSURE ===== */
-.affiliate-disclosure {
     background: var(--warning-yellow);
     border-left: 4px solid #ffc107;
     padding: 1rem;
@@ -136,7 +134,6 @@ ul, ol {
     border-radius: 4px;
 }
 
-.affiliate-disclosure p {
     margin: 0;
     font-size: 14px;
     color: #333;
@@ -738,14 +735,11 @@ Place immediately after H1 tag:
 
 ---
 
-## SECTION 2: AFFILIATE DISCLOSURE
 
 Place at top of page, before main content:
 
 ```html
-<div class="affiliate-disclosure">
   <p>
-    <strong>Affiliate Disclosure:</strong> We may earn commission when you sign up through our links. Must be 18+. Gambling problem? Call Gamblers Anonymous Ireland or visit <a href="https://www.gamblingcare.ie/" target="_blank">gamblingcare.ie</a>.
   </p>
 </div>
 ```
@@ -1338,7 +1332,6 @@ Integrate these links naturally within the content sections:
 ### Compliance Checklist
 - [x] Age requirement clearly stated (18+)
 - [x] Ireland-specific compliance resources (Gamblers Anonymous Ireland, Dunlewey Addiction Services, gamblingcare.ie)
-- [x] Affiliate disclosure visible at top
 - [x] Responsible gambling section at bottom
 - [x] No dated language in H1 (uses "2025" not specific date)
 - [x] License verification included (Curacao #8048/JAZ)
