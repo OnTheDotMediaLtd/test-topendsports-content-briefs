@@ -94,6 +94,136 @@ H1: Best [Category] Sites
 
 ---
 
+## Step 3A: Additional Required Sections
+
+**CRITICAL:** The following sections are MANDATORY for all briefs and must be included in the content outline.
+
+### 1. Mobile Experience Section (Per Brand)
+
+**Location:** Within each brand's main review section, after app features
+**Word Count:** 100-150 words per brand
+**Purpose:** Cover mobile-specific user experience beyond basic app features
+
+**Structure:**
+```markdown
+### [Brand] Mobile Experience
+
+**Content Requirements:**
+- Interface navigation (ease of use, menu structure)
+- Touch responsiveness and gesture controls
+- Performance on different devices (iOS vs Android)
+- Battery usage and data consumption
+- Push notification functionality
+- Offline capabilities (if any)
+- Mobile-specific features not available on desktop
+```
+
+**Example Bullet Points to Cover:**
+- "Navigation is intuitive with a bottom menu bar for quick access"
+- "Bet slip responds instantly to swipes and taps"
+- "Runs smoothly on older devices (tested on iPhone X and Samsung S10)"
+- "Push notifications for bet results and promo offers can be customized"
+- "Average battery drain of 5-7% per hour of active use"
+
+**Sources:**
+- TIER 1: Reddit threads about mobile experience ("mobile app review", "app vs desktop")
+- TIER 1: App Store reviews mentioning performance
+- TIER 1: Google Play reviews mentioning usability
+
+### 2. Payment Methods Comparison Section
+
+**Location:** As standalone H2 section OR within "Banking" section
+**Word Count:** 300-400 words
+**Purpose:** Compare deposit/withdrawal methods across featured brands
+
+**Structure:**
+```markdown
+## Payment Methods Comparison
+
+**Content Requirements:**
+Table comparing all featured brands:
+
+| Method | FanDuel | BetMGM | [Brand 3] | [Brand 4] |
+|--------|---------|--------|-----------|-----------|
+| **Deposits** |
+| Debit Card | ✅ Instant | ✅ Instant | ✅ Instant | ✅ Instant |
+| PayPal | ✅ Instant | ✅ Instant | ❌ No | ✅ Instant |
+| Venmo | ✅ Instant | ❌ No | ❌ No | ❌ No |
+| Online Banking | ✅ 1-3 days | ✅ 1-3 days | ✅ 1-3 days | ✅ 1-3 days |
+| Cash at Casino | ✅ Yes | ✅ Yes | ❌ No | ✅ Yes |
+| **Withdrawals** |
+| PayPal | ✅ 24-48h | ✅ 24-48h | ❌ No | ✅ 24-48h |
+| Bank Transfer | ✅ 3-5 days | ✅ 3-5 days | ✅ 3-5 days | ✅ 3-5 days |
+| Check | ✅ 7-14 days | ✅ 7-14 days | ✅ 7-14 days | ❌ No |
+| **Limits** |
+| Min Deposit | $5 | $10 | $10 | $5 |
+| Max Deposit | $2,000 | $2,500 | $1,000 | $2,000 |
+| Min Withdrawal | $10 | $10 | $20 | $10 |
+```
+
+**Additional Content:**
+- 1-2 paragraphs explaining fastest methods for each brand
+- Note any fees (most sportsbooks = no fees, but mention if exceptions)
+- Verification requirements before first withdrawal
+
+**Sources:**
+- TIER 2: Official sportsbook banking pages
+- TIER 1: Reddit threads about withdrawal experiences
+- TIER 1: App Store reviews mentioning payment issues/speed
+
+### 3. Calculator Tool Links
+
+**Location:** Contextually within relevant sections
+**Purpose:** Link to TopEndSports betting calculators to enhance user value
+
+**Calculator Integration Points:**
+
+**A. Parlay/Accumulator Articles:**
+```markdown
+Need help calculating your parlay payout? Use our [free parlay calculator](https://www.topendsports.com/sport/betting/tools/parlay-calculator.htm) to instantly see potential returns for any combination of bets.
+```
+
+**B. Odds Comparison Articles:**
+```markdown
+Convert between American, Decimal, and Fractional odds with our [odds converter tool](https://www.topendsports.com/sport/betting/tools/odds-converter.htm).
+```
+
+**C. Sports Betting How-To Guides:**
+```markdown
+**Helpful Tools:**
+- [Parlay Calculator](https://www.topendsports.com/sport/betting/tools/parlay-calculator.htm) - Calculate multi-leg bet payouts
+- [Odds Converter](https://www.topendsports.com/sport/betting/tools/odds-converter.htm) - Switch between odds formats
+- [Implied Probability Calculator](https://www.topendsports.com/sport/betting/tools/probability-calculator.htm) - Understand true odds
+```
+
+**Available Calculators:**
+1. **Parlay Calculator** - /sport/betting/tools/parlay-calculator.htm
+2. **Odds Converter** - /sport/betting/tools/odds-converter.htm
+3. **Implied Probability** - /sport/betting/tools/probability-calculator.htm
+4. **Betting Unit Calculator** - /sport/betting/tools/unit-calculator.htm
+5. **ROI Calculator** - /sport/betting/tools/roi-calculator.htm
+
+**Placement Rules:**
+- Include 1-2 calculator links per brief (don't overdo it)
+- Place contextually where they add genuine value
+- Use descriptive anchor text explaining calculator purpose
+- Add brief explanation (1 sentence) of what calculator does
+
+**Example Integration:**
+```markdown
+## Understanding Parlay Odds
+
+When combining multiple bets into a parlay, the odds multiply rather than add.
+A 3-leg parlay at +150, +200, +180 pays much more than three separate bets.
+
+Use our [parlay calculator](https://www.topendsports.com/sport/betting/tools/parlay-calculator.htm)
+to see exact payouts for any combination - just enter your odds and stake.
+
+FanDuel's parlay builder makes it easy to construct multi-leg bets...
+```
+
+---
+
 ## Step 4: Source Requirements
 
 **TIER 1 (Primary) - MUST USE:**
@@ -201,4 +331,7 @@ Compile all keywords for AI to add:
 - [ ] 12 internal links listed
 - [ ] Meta keywords provided
 - [ ] NO dated language in H1
+- [ ] **Mobile Experience section included (100-150w per brand)**
+- [ ] **Payment Methods Comparison table included (if applicable)**
+- [ ] **Calculator tool links integrated (1-2 contextual links)**
 - [ ] Brief is 2-3 pages
