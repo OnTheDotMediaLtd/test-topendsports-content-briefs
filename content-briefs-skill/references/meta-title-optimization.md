@@ -5,6 +5,17 @@
 
 ---
 
+## Critical Rules
+
+| Element | Requirement |
+|---------|-------------|
+| **Title** | < 60 chars, primary keyword at START, **NO YEAR** |
+| **Description** | < 155 chars |
+
+**Why NO YEAR?** Years in titles cause content to appear outdated when the year changes. Use the "Last Updated" badge in page content instead for freshness signals.
+
+---
+
 ## Why This Matters
 
 Meta titles and descriptions directly impact:
@@ -30,24 +41,26 @@ python3 .claude/scripts/ahrefs-api.py serp-overview/serp-overview \
 - Title patterns (what words appear in 5+ of top 10?)
 - Character lengths that rank well
 - Power words used (Best, Top, #1, Guide, etc.)
-- Year usage (2025 vs no year)
-- Brand mentions
+- How competitors start their titles (keyword placement)
+- SERP features present (Featured Snippets, PAA)
 
 ### Step 2: Title Formula Based on SERP Analysis
 
 | Page Type | Formula | Example |
 |-----------|---------|---------|
-| Comparison | `Best [Topic] [Location] [Year] \| [Count] [Modifier]` | "Best Betting Apps UK 2025 \| 9 Expert-Tested" |
-| Review | `[Brand] Review [Year]: [Key Benefit] + [Bonus]` | "Bet442 Review 2025: Fast Payouts + Free Bets" |
-| How-To | `How to [Action] in [Location] ([Year] Guide)` | "How to Bet on Football in UK (2025 Guide)" |
-| State/Region | `[Topic] in [Location]: [Key Info] [Year]` | "Sports Betting in Ireland: Legal Status & Apps 2025" |
+| Comparison | `[Primary Keyword] \| [Count] [Modifier]` | "Best Betting Apps UK \| 9 Expert-Tested Sportsbooks" |
+| Review | `[Brand] Review: [Key Benefit] + [Bonus Info]` | "Bet442 Review: Fast Payouts + Welcome Bonus" |
+| How-To | `How to [Action] in [Location] \| [Benefit]` | "How to Bet on Football in UK \| Complete Guide" |
+| Hub/State | `[Primary Keyword]: [Key Info]` | "Sports Betting in Ireland: Laws & Best Sites" |
+
+**Key Rule:** Primary keyword MUST be at the START of the title.
 
 ### Step 3: Character Limits
 
 | Element | Limit | Notes |
 |---------|-------|-------|
-| Title tag | 50-60 chars | Google truncates at ~60 |
-| Meta description | 150-160 chars | Google truncates at ~160 |
+| Title tag | < 60 chars | Primary keyword at start |
+| Meta description | < 155 chars | Google truncates around 155 |
 | OG title | 60-90 chars | Social media display |
 
 **Check before finalizing:** Count characters, ensure no truncation at key info.
@@ -57,16 +70,16 @@ python3 .claude/scripts/ahrefs-api.py serp-overview/serp-overview \
 ## Meta Title Requirements
 
 ### Must Include:
-1. **Primary keyword** - Within first 40 characters
+1. **Primary keyword** - At the START of the title
 2. **Location/Market** - UK, Ireland, Canada (where applicable)
-3. **Year** - 2025 (signals freshness)
-4. **Differentiator** - What makes this page unique
+3. **Differentiator** - What makes this page unique (count, modifier)
 
 ### Must Avoid:
-1. **Dated language** - Never "December 2025" or "Updated December"
-2. **Keyword stuffing** - Natural readability first
-3. **Clickbait** - Accuracy over sensationalism
-4. **Brand first** - Put keywords before "TopEndSports"
+1. **Year in title** - NO "2025" or any year
+2. **Dated language** - Never "December 2025" or "Updated December"
+3. **Keyword stuffing** - Natural readability first
+4. **Clickbait** - Accuracy over sensationalism
+5. **Brand first** - Put keywords before "TopEndSports"
 
 ### Power Words That Improve CTR:
 - Best, Top, #1, Expert, Tested, Reviewed
@@ -80,25 +93,24 @@ python3 .claude/scripts/ahrefs-api.py serp-overview/serp-overview \
 
 ### Formula:
 ```
-[Hook with primary keyword]. [Key benefit/USP]. [Social proof or specifics]. [Soft CTA].
+[Hook with primary keyword]. [Key benefit/USP]. [Social proof or specifics].
 ```
 
-### Example:
+### Example (154 chars):
 ```
-Compare the best UK betting apps for iOS and Android. 9 UKGC-licensed sportsbooks tested with real money. Expert ratings, bonuses, and app store scores.
+Compare the best UK betting apps for iOS and Android. 9 UKGC-licensed sportsbooks tested. Expert ratings, bonuses, and app store scores compared.
 ```
 
 ### Must Include:
 1. **Primary keyword** - Early in description
 2. **Unique value** - Why click THIS result?
 3. **Specifics** - Numbers, facts, not vague claims
-4. **Implicit CTA** - "Compare", "Find", "Discover"
 
 ### Must Avoid:
 1. **"Click here"** - Obvious and wastes characters
 2. **Repetition** - Don't repeat title exactly
 3. **Empty promises** - Only claim what's delivered
-4. **Passive voice** - Active verbs perform better
+4. **Years** - Same rule as titles - no years
 
 ---
 
@@ -123,13 +135,13 @@ After getting SERP data, document:
 ## SERP Title Analysis: [Keyword]
 
 **Top 10 Title Patterns:**
-| Position | Title | Chars | Year? | Number? |
-|----------|-------|-------|-------|---------|
-| 1 | [title] | [#] | Y/N | Y/N |
+| Position | Title | Chars | Keyword at Start? |
+|----------|-------|-------|-------------------|
+| 1 | [title] | [#] | Y/N |
 ...
 
 **Common Elements:**
-- X of 10 include year
+- X of 10 start with primary keyword
 - X of 10 include numbers
 - Average length: XX chars
 - Power words: [list]
@@ -149,8 +161,8 @@ After getting SERP data, document:
 
 ### Phase 3 (Technical):
 - Apply SERP insights to title creation
-- Use formula matching page type
-- Verify character counts
+- Ensure primary keyword is at START
+- Verify character counts (title < 60, description < 155)
 - Create meta description using formula
 
 ---
@@ -160,11 +172,11 @@ After getting SERP data, document:
 Add to AI Enhancement Brief:
 
 ```html
-<!-- Meta Title (XX chars) -->
-<title>[Optimized title based on SERP analysis]</title>
+<!-- Meta Title (XX chars) - NO YEAR, keyword at start -->
+<title>[Primary Keyword] | [Differentiator]</title>
 
-<!-- Meta Description (XXX chars) -->
-<meta name="description" content="[Description using formula]">
+<!-- Meta Description (XXX chars) - under 155 -->
+<meta name="description" content="[Description using formula - max 155 chars]">
 
 <!-- SERP Analysis Notes -->
 <!--
@@ -180,13 +192,13 @@ Add to AI Enhancement Brief:
 
 Before finalizing meta tags:
 
-- [ ] Primary keyword in title (first 40 chars)
+- [ ] Primary keyword at START of title
 - [ ] Title under 60 characters
-- [ ] Year included (2025)
+- [ ] **NO YEAR in title**
 - [ ] Location/market specified
-- [ ] Description under 160 characters
+- [ ] Description under 155 characters
 - [ ] Description has unique value prop
-- [ ] No dated language ("Updated December")
+- [ ] No dated language anywhere
 - [ ] SERP competitor analysis documented
 - [ ] Differentiator from competitors clear
 
@@ -196,23 +208,46 @@ Before finalizing meta tags:
 
 ### UK Betting Apps
 ```html
-<title>Best Betting Apps UK 2025 | 9 UKGC-Licensed Sportsbooks</title>
-<meta name="description" content="Compare top UK betting apps with expert reviews. 9 licensed sportsbooks tested on iOS and Android. App ratings, bonuses, and withdrawal speeds.">
+<title>Best Betting Apps UK | 9 UKGC-Licensed Sportsbooks Tested</title>
+<meta name="description" content="Compare the best UK betting apps for iOS and Android. 9 licensed sportsbooks tested with expert ratings, bonuses, and withdrawal speeds.">
 ```
+- Title: 54 chars ✓
+- Description: 147 chars ✓
+- Keyword "Best Betting Apps UK" at start ✓
+- No year ✓
 
 ### Ireland Free Bets
 ```html
-<title>Free Bets Ireland 2025 | Best Betting Offers Compared</title>
-<meta name="description" content="Claim the best free bet offers in Ireland. Compare welcome bonuses from 10 licensed bookmakers. Updated weekly with new promotions.">
+<title>Free Bets Ireland | Best Betting Offers Compared</title>
+<meta name="description" content="Claim the best free bet offers in Ireland. Compare welcome bonuses from 10 licensed bookmakers with no wagering requirements.">
 ```
+- Title: 49 chars ✓
+- Description: 130 chars ✓
+- Keyword "Free Bets Ireland" at start ✓
+- No year ✓
 
 ### Canada Betting Sites
 ```html
-<title>Best Betting Sites Canada 2025 | Top 9 Sportsbooks Rated</title>
-<meta name="description" content="Find Canada's best online betting sites. 9 licensed sportsbooks reviewed with bonuses, odds quality, and payment options compared.">
+<title>Best Betting Sites Canada | Top 9 Sportsbooks Rated</title>
+<meta name="description" content="Find Canada's best online betting sites. 9 licensed sportsbooks reviewed with bonuses, odds quality, and payment options.">
 ```
+- Title: 52 chars ✓
+- Description: 127 chars ✓
+- Keyword "Best Betting Sites Canada" at start ✓
+- No year ✓
 
 ---
 
-**Document Version:** 1.0
+## Direct Answer Alignment
+
+The first ~50 words after your H1 must directly answer the search query. This content feeds:
+- Featured snippets
+- AI Overviews
+- Voice search results
+
+Your title should align with this immediate answer, creating consistency across SERP features.
+
+---
+
+**Document Version:** 2.0
 **Last Updated:** December 2025

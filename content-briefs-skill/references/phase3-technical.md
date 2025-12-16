@@ -9,27 +9,35 @@
 
 **Reference:** `references/meta-title-optimization.md`
 
+### Critical Rules:
+| Element | Requirement |
+|---------|-------------|
+| **Title** | < 60 chars, primary keyword at START, **NO YEAR** |
+| **Description** | < 155 chars |
+
 ### Process:
 1. Run SERP analysis for primary keyword (see meta-title-optimization.md)
 2. Analyze top 10 competitor titles for patterns
 3. Apply title formula based on page type
-4. Verify character limits (title: 60, description: 160)
+4. Verify character limits (title < 60, description < 155)
 
 ### Title Formula by Page Type:
 | Page Type | Formula |
 |-----------|---------|
-| Comparison | `Best [Topic] [Location] [Year] \| [Count] [Modifier]` |
-| Review | `[Brand] Review [Year]: [Key Benefit] + [Bonus]` |
-| How-To | `How to [Action] in [Location] ([Year] Guide)` |
-| Hub/State | `[Topic] in [Location]: [Key Info] [Year]` |
+| Comparison | `[Primary Keyword] \| [Count] [Modifier]` |
+| Review | `[Brand] Review: [Key Benefit] + [Bonus Info]` |
+| How-To | `How to [Action] in [Location] \| [Benefit]` |
+| Hub/State | `[Primary Keyword]: [Key Info]` |
+
+**Key Rule:** Primary keyword MUST be at the START of the title. NO YEAR.
 
 ### Output:
 ```html
-<!-- Meta Title (XX chars) - SERP optimized -->
-<title>[Title based on SERP analysis - max 60 chars]</title>
+<!-- Meta Title (XX chars) - keyword at start, NO YEAR -->
+<title>[Primary Keyword] | [Differentiator]</title>
 
-<!-- Meta Description (XXX chars) -->
-<meta name="description" content="[160 chars with primary keyword, unique value prop, specifics]">
+<!-- Meta Description (XXX chars) - under 155 -->
+<meta name="description" content="[155 chars with primary keyword, unique value prop, specifics]">
 
 <!-- Additional Meta Tags -->
 <meta name="keywords" content="[ALL primary + secondary keywords]">
@@ -49,6 +57,7 @@
 - Competitor pattern: [what top 10 titles have in common]
 - Our differentiation: [what we add that's unique]
 - Power words used: [Best, Top, Expert, etc.]
+- Keyword placement: [how competitors start titles]
 ```
 
 ---
@@ -317,9 +326,10 @@ END OF AI ENHANCEMENT BRIEF
 ### Meta Tags (SERP-Optimized)
 - [ ] SERP analysis documented for primary keyword
 - [ ] Title under 60 characters
-- [ ] Title includes primary keyword in first 40 chars
-- [ ] Title includes year (2025) and location
-- [ ] Description under 160 characters
+- [ ] Primary keyword at START of title
+- [ ] **NO YEAR in title**
+- [ ] Location/market specified
+- [ ] Description under 155 characters
 - [ ] Description has unique value proposition
 - [ ] Meta keywords include ALL secondary keywords
 

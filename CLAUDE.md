@@ -229,8 +229,8 @@ bash content-briefs-skill/scripts/validate-phase.sh [phase] [page-name]
 
 ### Phase 3 Minimums
 - [ ] **SERP-optimized meta tags** (see `references/meta-title-optimization.md`)
-  - Title: Under 60 chars, primary keyword in first 40 chars, year included
-  - Description: Under 160 chars, unique value proposition
+  - Title: Under 60 chars, primary keyword at START, **NO YEAR**
+  - Description: Under 155 chars, unique value proposition
   - SERP competitor analysis documented
 - [ ] Last Updated badge HTML
 - [ ] Comparison table with ALL brands
