@@ -1,0 +1,4 @@
+# Test dependencies for content-briefs-skill scripts
+pytest>=7.4.0
+pytest-cov>=4.1.0
+python-docx>=0.8.11

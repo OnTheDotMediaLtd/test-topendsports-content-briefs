@@ -1,0 +1,63 @@
+name: TypeScript MCP Server Tests
+
+on:
+  push:
+    paths:
+      - 'mcp-server/**'
+  pull_request:
+    paths:
+      - 'mcp-server/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: mcp-server/package-lock.json
+
+    - name: Install dependencies
+      run: |
+        cd mcp-server
+        npm ci || npm install
+
+    - name: Build TypeScript
+      run: |
+        cd mcp-server
+        npm run build
+
+    - name: Run tests
+      run: |
+        cd mcp-server
+        npm test
+
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: mcp-server/package-lock.json
+
+    - name: Install dependencies
+      run: |
+        cd mcp-server
+        npm ci || npm install
+
+    - name: Type check
+      run: |
+        cd mcp-server
+        npx tsc --noEmit

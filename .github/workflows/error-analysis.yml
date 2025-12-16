@@ -1,0 +1,311 @@
+name: Weekly Error Analysis
+
+on:
+  schedule:
+    # Run every Monday at 9:00 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      force_lesson_generation:
+        description: 'Force lesson generation even if patterns are already processed'
+        required: false
+        default: 'false'
+        type: boolean
+      min_occurrences:
+        description: 'Minimum pattern occurrences to generate lessons'
+        required: false
+        default: '3'
+        type: string
+
+jobs:
+  analyze-errors:
+    name: Analyze Error Patterns
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for better analysis
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Check for error data
+        id: check-errors
+        run: |
+          ERROR_LOG="logs/errors/error_log.json"
+          PATTERNS_FILE="logs/errors/patterns.json"
+
+          if [ -f "$ERROR_LOG" ]; then
+            echo "has_errors=true" >> $GITHUB_OUTPUT
+            ERROR_COUNT=$(cat $ERROR_LOG | grep -o '"errors"' | wc -l)
+            echo "error_count=$ERROR_COUNT" >> $GITHUB_OUTPUT
+            echo "Found error log with data"
+          else
+            echo "has_errors=false" >> $GITHUB_OUTPUT
+            echo "error_count=0" >> $GITHUB_OUTPUT
+            echo "No error log found"
+          fi
+
+          if [ -f "$PATTERNS_FILE" ]; then
+            echo "has_patterns=true" >> $GITHUB_OUTPUT
+            echo "Found patterns file"
+          else
+            echo "has_patterns=false" >> $GITHUB_OUTPUT
+            echo "No patterns file found"
+          fi
+
+      - name: Generate error statistics
+        if: steps.check-errors.outputs.has_errors == 'true'
+        run: |
+          echo "=== Error Statistics ==="
+          python3 scripts/error_tracker.py stats
+
+      - name: Analyze error patterns
+        if: steps.check-errors.outputs.has_errors == 'true'
+        id: analyze
+        run: |
+          echo "=== Error Pattern Analysis ==="
+          python3 scripts/error_tracker.py analyze
+
+          # Capture output for summary
+          python3 scripts/error_tracker.py stats > /tmp/stats.txt
+          cat /tmp/stats.txt
+
+      - name: Check error thresholds
+        if: steps.check-errors.outputs.has_errors == 'true'
+        id: thresholds
+        run: |
+          python3 scripts/check_error_thresholds.py
+          THRESHOLD_EXIT=$?
+          echo "threshold_status=$THRESHOLD_EXIT" >> $GITHUB_OUTPUT
+
+          if [ $THRESHOLD_EXIT -eq 2 ]; then
+            echo "status=critical" >> $GITHUB_OUTPUT
+          elif [ $THRESHOLD_EXIT -eq 1 ]; then
+            echo "status=warning" >> $GITHUB_OUTPUT
+          else
+            echo "status=ok" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate lessons from patterns
+        if: steps.check-errors.outputs.has_patterns == 'true'
+        id: lessons
+        run: |
+          MIN_OCC="${{ github.event.inputs.min_occurrences || '3' }}"
+
+          echo "=== Generating Lessons from Error Patterns ==="
+          echo "Minimum occurrences: $MIN_OCC"
+
+          python3 scripts/error_tracker.py generate-lessons --min-occurrences $MIN_OCC > /tmp/lessons.txt
+          LESSONS_OUTPUT=$(cat /tmp/lessons.txt)
+
+          echo "$LESSONS_OUTPUT"
+
+          # Check if lessons were generated
+          if echo "$LESSONS_OUTPUT" | grep -q "Generated .* lessons"; then
+            echo "lessons_generated=true" >> $GITHUB_OUTPUT
+            LESSON_COUNT=$(echo "$LESSONS_OUTPUT" | grep -oP 'Generated \K\d+' | head -1)
+            echo "lesson_count=$LESSON_COUNT" >> $GITHUB_OUTPUT
+          else
+            echo "lessons_generated=false" >> $GITHUB_OUTPUT
+            echo "lesson_count=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create PR for lessons-learned updates
+        if: steps.lessons.outputs.lessons_generated == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create branch
+          BRANCH_NAME="automated/error-lessons-$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$BRANCH_NAME"
+
+          # Stage changes
+          git add content-briefs-skill/references/lessons-learned.md
+
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Commit
+          LESSON_COUNT="${{ steps.lessons.outputs.lesson_count }}"
+          MIN_OCC="${{ github.event.inputs.min_occurrences || '3' }}"
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          git commit -m "chore: Add $LESSON_COUNT auto-generated lessons from error patterns" \
+            -m "Automatically generated from recurring error pattern analysis." \
+            -m "" \
+            -m "- Source: Weekly error analysis workflow" \
+            -m "- Generated: $TIMESTAMP" \
+            -m "- Patterns analyzed: Weekly accumulated errors" \
+            -m "- Min occurrences: $MIN_OCC" \
+            -m "" \
+            -m "Review these lessons and merge if appropriate."
+
+          # Push
+          git push origin "$BRANCH_NAME"
+
+          # Create PR body file
+          cat > /tmp/pr_body.md <<PRBODY
+          ## Auto-Generated Lessons from Error Analysis
+
+          This PR adds lessons automatically generated from recurring error patterns detected in our test suite.
+
+          ### Summary
+          - **Lessons Generated**: $LESSON_COUNT
+          - **Source**: Weekly error pattern analysis
+          - **Generated**: $TIMESTAMP
+          - **Min Occurrences**: $MIN_OCC
+
+          ### What to Review
+          1. Check that lessons are accurate and actionable
+          2. Verify they don't duplicate existing lessons
+          3. Ensure recommended solutions are appropriate
+          4. Consider if any lessons should be expanded with more context
+
+          ### Files Changed
+          - \`content-briefs-skill/references/lessons-learned.md\`
+
+          ### Next Steps
+          - Review and approve if lessons are valuable
+          - Edit lessons if they need refinement
+          - Close PR if lessons are not relevant
+
+          ---
+          *This PR was automatically created by the error analysis workflow*
+          PRBODY
+
+          gh pr create \
+            --title "Add $LESSON_COUNT auto-generated lessons from error patterns" \
+            --body-file /tmp/pr_body.md \
+            --base main \
+            --head "$BRANCH_NAME"
+
+      - name: Generate analysis report
+        if: steps.check-errors.outputs.has_errors == 'true'
+        run: |
+          REPORT_FILE="logs/errors/weekly-report-$(date +%Y%m%d).md"
+          mkdir -p logs/errors
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          PATTERN_COUNT=$(cat logs/errors/patterns.json | grep -c '"fingerprint"' 2>/dev/null || echo "0")
+
+          # Write report header
+          cat > "$REPORT_FILE" <<REPORTEOF
+          # Weekly Error Analysis Report
+
+          Generated: $TIMESTAMP
+          Period: Last 7 days
+
+          ## Summary
+
+          - Total Error Patterns: $PATTERN_COUNT
+          - Errors Logged: ${{ steps.check-errors.outputs.error_count }}
+          - Lessons Generated: ${{ steps.lessons.outputs.lesson_count }}
+          - Threshold Status: ${{ steps.thresholds.outputs.status || 'N/A' }}
+
+          ## Error Statistics
+
+          REPORTEOF
+
+          # Add statistics
+          if [ -f "/tmp/stats.txt" ]; then
+            echo '```' >> "$REPORT_FILE"
+            cat /tmp/stats.txt >> "$REPORT_FILE"
+            echo '```' >> "$REPORT_FILE"
+          else
+            echo "No statistics available" >> "$REPORT_FILE"
+          fi
+
+          # Add pattern analysis
+          echo "" >> "$REPORT_FILE"
+          echo "## Pattern Analysis" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+          echo '```' >> "$REPORT_FILE"
+          python3 scripts/error_tracker.py analyze 2>/dev/null >> "$REPORT_FILE" || echo "No analysis available" >> "$REPORT_FILE"
+          echo '```' >> "$REPORT_FILE"
+
+          # Add recommendations
+          echo "" >> "$REPORT_FILE"
+          echo "## Recommendations" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+
+          # Add recommendations based on status
+          if [ "${{ steps.thresholds.outputs.status }}" == "critical" ]; then
+            echo "WARNING CRITICAL: Error thresholds exceeded. Immediate attention required." >> "$REPORT_FILE"
+          elif [ "${{ steps.thresholds.outputs.status }}" == "warning" ]; then
+            echo "WARNING: Some error patterns need attention." >> "$REPORT_FILE"
+          else
+            echo "OK: Error levels within acceptable thresholds." >> "$REPORT_FILE"
+          fi
+
+          if [ "${{ steps.lessons.outputs.lessons_generated }}" == "true" ]; then
+            echo "" >> "$REPORT_FILE"
+            echo "- Review and merge the auto-generated lessons PR" >> "$REPORT_FILE"
+          fi
+
+          echo "" >> "$REPORT_FILE"
+          echo "---" >> "$REPORT_FILE"
+          echo "Report generated by GitHub Actions workflow" >> "$REPORT_FILE"
+
+          echo "Report saved to: $REPORT_FILE"
+
+      - name: Upload analysis artifacts
+        if: always() && steps.check-errors.outputs.has_errors == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-analysis-report
+          path: |
+            logs/errors/weekly-report-*.md
+            logs/errors/*.json
+            /tmp/stats.txt
+            /tmp/lessons.txt
+          retention-days: 90
+          if-no-files-found: ignore
+
+      - name: Send notification for critical errors
+        if: steps.thresholds.outputs.status == 'critical'
+        run: |
+          echo "::error::Critical error thresholds exceeded! Review required."
+          echo "Check the error analysis artifacts for details."
+
+      - name: Archive old error data
+        if: steps.check-errors.outputs.has_errors == 'true'
+        run: |
+          # Archive errors older than 90 days
+          python3 scripts/error_tracker.py clear --days 90
+
+          # Commit archived changes if any
+          if ! git diff --quiet logs/errors/; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add logs/errors/
+            git commit -m "chore: Archive old error data (90+ days)" || true
+            git push origin main || true
+          fi
+
+  summary:
+    name: Analysis Summary
+    runs-on: ubuntu-latest
+    needs: analyze-errors
+    if: always()
+
+    steps:
+      - name: Print summary
+        run: |
+          echo "========================================"
+          echo "    WEEKLY ERROR ANALYSIS SUMMARY       "
+          echo "========================================"
+          echo ""
+          echo "Analysis Status: ${{ needs.analyze-errors.result }}"
+          echo ""
+          echo "========================================"

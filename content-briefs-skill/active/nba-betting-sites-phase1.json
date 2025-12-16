@@ -1,0 +1,60 @@
+{
+  "url": "/sport/betting/nba/index.htm",
+  "page_name": "Best NBA Betting Sites",
+  "target_keyword": "best nba betting sites",
+  "writer": "Lewis Humphries",
+  "priority": "Critical",
+  "template": "Template 2 - Comparison",
+  "keyword_cluster": {
+    "primary": {"keyword": "best nba betting sites", "volume": 700, "source": "CSV"},
+    "secondary": [
+      {"keyword": "best nba betting apps", "volume": 500, "placement": "H2", "title": "Best NBA Betting Apps for 2025", "source": "ESTIMATED"},
+      {"keyword": "nba betting sites legal", "volume": 300, "placement": "H2", "title": "Legal NBA Betting Sites by State", "source": "ESTIMATED"},
+      {"keyword": "nba player props", "volume": 400, "placement": "H2", "title": "Best Sites for NBA Player Props", "source": "ESTIMATED"},
+      {"keyword": "nba live betting", "volume": 250, "placement": "H2", "title": "Live NBA Betting Features", "source": "ESTIMATED"},
+      {"keyword": "nba same game parlay", "volume": 350, "placement": "H3", "title": "NBA Same Game Parlay Options", "source": "ESTIMATED"},
+      {"keyword": "nba futures betting", "volume": 200, "placement": "H3", "title": "NBA Futures and Championship Odds", "source": "ESTIMATED"},
+      {"keyword": "nba betting promos", "volume": 300, "placement": "H3", "title": "Best NBA Betting Bonuses & Promos", "source": "ESTIMATED"},
+      {"keyword": "is nba betting legal", "volume": 150, "placement": "FAQ", "question": "Is NBA betting legal in my state?", "source": "ESTIMATED"},
+      {"keyword": "best app for nba bets", "volume": 180, "placement": "FAQ", "question": "What is the best app for NBA betting?", "source": "ESTIMATED"},
+      {"keyword": "nba betting odds", "volume": 600, "placement": "H2", "title": "Understanding NBA Betting Odds", "source": "ESTIMATED"}
+    ],
+    "total_volume": 3930,
+    "increase_percentage": 461
+  },
+  "brand_selection": {
+    "locked": [
+      {"position": 1, "brand": "FanDuel", "usp": "Best overall experience, #1 US market share"},
+      {"position": 2, "brand": "BetMGM", "usp": "Best live betting, Lion's Boosts"}
+    ],
+    "research_driven": [
+      {"position": 3, "brand": "DraftKings", "reason": "Official NBA partner, 4.8 app rating, deep market coverage"},
+      {"position": 4, "brand": "Caesars", "reason": "Massive welcome bonus, excellent NBA pricing"},
+      {"position": 5, "brand": "bet365", "reason": "Best NBA futures, extensive player props"},
+      {"position": 6, "brand": "ESPN BET", "reason": "ESPN integration, watch & bet feature"},
+      {"position": 7, "brand": "Fanatics", "reason": "FanCash loyalty program, competitive markets"}
+    ]
+  },
+  "competitor_gaps": [
+    {"gap": "No interactive calculator", "build": "NBA parlay calculator"},
+    {"gap": "Limited state info", "build": "State-by-state legality table"},
+    {"gap": "Basic comparison tables", "build": "Sortable/filterable comparison table"},
+    {"gap": "Few FAQs", "build": "7+ FAQs with schema markup"}
+  ],
+  "internal_links": [
+    {"anchor": "parlay calculator", "url": "/sport/betting-tools/parlay-calculator.htm"},
+    {"anchor": "NFL betting sites", "url": "/sport/betting/nfl/index.htm"},
+    {"anchor": "sports betting apps", "url": "/sport/betting/best-apps.htm"},
+    {"anchor": "FanDuel review", "url": "/sport/betting/fanduel-review.htm"},
+    {"anchor": "BetMGM review", "url": "/sport/betting/betmgm-review.htm"},
+    {"anchor": "DraftKings review", "url": "/sport/betting/draftkings-review.htm"},
+    {"anchor": "NBA props betting", "url": "/sport/betting/nba/player-props.htm"},
+    {"anchor": "legal states", "url": "/sport/betting/legal-states/index.htm"},
+    {"anchor": "sportsbook bonuses", "url": "/sport/betting/best-bonuses.htm"},
+    {"anchor": "live betting guide", "url": "/sport/betting/live-betting.htm"},
+    {"anchor": "betting odds explained", "url": "/sport/betting/how-to/odds-explained.htm"},
+    {"anchor": "same game parlays", "url": "/sport/betting/same-game-parlay.htm"}
+  ],
+  "strategic_direction": "Position as the definitive NBA betting guide with emphasis on app quality, live betting features, and player props - areas where competitors are weak.",
+  "word_count_target": 3000
+}
