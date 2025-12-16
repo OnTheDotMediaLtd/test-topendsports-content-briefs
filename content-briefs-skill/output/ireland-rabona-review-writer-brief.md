@@ -793,17 +793,17 @@ Recognize warning signs: chasing losses, gambling with money you can't afford to
 Place these links naturally within relevant sections:
 
 1. **[best betting sites Ireland](/sport/betting/ireland/index.htm)** - Introduction or comparison section
-2. **[online casino Ireland](/sport/betting/ireland/casino-hub.htm)** - Casino section
-3. **[sports betting Ireland guide](/sport/betting/ireland/guide.htm)** - Sports betting features
-4. **[parlay calculator](/sport/betting/calculator/parlay.htm)** - Sports betting section when discussing accumulators
-5. **[odds calculator](/sport/betting/calculator/odds.htm)** - Sports betting section
-6. **[responsible gambling resources](/sport/betting/responsible-gambling.htm)** - Responsible gambling section
-7. **[Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)** - Comparison section
-8. **[BoyleSports review](/sport/betting/ireland/boylesports-review.htm)** - Comparison section
-9. **[Paddy Power Ireland](/sport/betting/ireland/paddypower-review.htm)** - Comparison section
-10. **[live betting guide](/sport/betting/live-betting-guide.htm)** - Live betting features section
-11. **[casino bonus terms explained](/sport/betting/bonus-terms-guide.htm)** - Bonus breakdown section
-12. **[how to verify your casino account](/sport/betting/how-to/verify-account.htm)** - Payment methods section
+2. **[betting apps Ireland](/sport/betting/ireland/betting-apps.htm)** - Mobile app section
+3. **[free bets Ireland](/sport/betting/ireland/free-bets.htm)** - Bonus section
+4. **[Lunubet review](/sport/betting/ireland/lunubet-review.htm)** - Comparison section
+5. **[Betalright review](/sport/betting/ireland/betalright-review.htm)** - Comparison section
+6. **[Casina review](/sport/betting/ireland/casina-review.htm)** - Comparison section
+7. **[Festival Play review](/sport/betting/ireland/festivalplay-review.htm)** - Comparison section
+8. **[Betovo review](/sport/betting/ireland/betovo-review.htm)** - Comparison section
+9. **[Millioner review](/sport/betting/ireland/millioner-review.htm)** - Comparison section
+10. **[22bet Ireland review](/sport/betting/ireland/22bet-review.htm)** - Comparison section
+11. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)** - Sports betting section when discussing accumulators
+12. **[responsible gambling resources](/sport/betting/responsible-gambling.htm)** - Responsible gambling section
 
 **Link format:** `[anchor text](/path/to/page.htm)`
 

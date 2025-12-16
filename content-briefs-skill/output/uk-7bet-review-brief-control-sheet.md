@@ -454,9 +454,9 @@
 | free bet offers | /sport/betting/uk/free-bets.htm | Bonus section |
 | betting odds calculator | /sport/betting-tools/odds-calculator.htm-converter.htm | Sportsbook features |
 | horse racing betting | /sport/betting/uk/horse-racing-betting.htm | Sports coverage |
-| PayPal betting sites | /sport/betting/uk/paypal-betting-sites.htm | Payment methods |
-| Bet365 review | /sport/betting/uk/bet365-review.htm | Competitor comparison |
-| William Hill review | /sport/betting/uk/william-hill-review.htm | Established brand comparison |
+| PayPal betting sites | /sport/betting/uk/index.htm | Payment methods |
+| Bet365 review | /sport/betting/uk/22bet-review.htm | Competitor comparison |
+| William Hill review | /sport/betting/uk/bet442-review.htm | Established brand comparison |
 | responsible gambling tools | /sport/betting/responsible-gambling.htm | Responsible gambling section |
 | how to claim a free bet | /sport/betting/guides/how-to-claim-free-bet.htm | Bonus claiming |
 

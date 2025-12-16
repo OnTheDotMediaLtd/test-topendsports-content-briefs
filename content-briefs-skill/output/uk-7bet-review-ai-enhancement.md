@@ -745,11 +745,11 @@ window.addEventListener('load', calculateBonus);
 <a href="/sport/betting/guides/how-to-claim-free-bet.htm" style="color: #2e7d32; text-decoration: underline;">how to claim a free bet</a>
 
 <!-- Payment Methods Section -->
-<a href="/sport/betting/uk/paypal-betting-sites.htm" style="color: #2e7d32; text-decoration: underline;">betting sites with PayPal</a>
+<a href="/sport/betting/uk/index.htm" style="color: #2e7d32; text-decoration: underline;">betting sites with PayPal</a>
 
 <!-- Final Verdict Section -->
-<a href="/sport/betting/uk/bet365-review.htm" style="color: #2e7d32; text-decoration: underline;">Bet365 review</a>
-<a href="/sport/betting/uk/william-hill-review.htm" style="color: #2e7d32; text-decoration: underline;">William Hill review</a>
+<a href="/sport/betting/uk/22bet-review.htm" style="color: #2e7d32; text-decoration: underline;">Bet365 review</a>
+<a href="/sport/betting/uk/bet442-review.htm" style="color: #2e7d32; text-decoration: underline;">William Hill review</a>
 
 <!-- Responsible Gambling Section -->
 <a href="/sport/betting/responsible-gambling.htm" style="color: #2e7d32; text-decoration: underline;">responsible gambling tools</a>

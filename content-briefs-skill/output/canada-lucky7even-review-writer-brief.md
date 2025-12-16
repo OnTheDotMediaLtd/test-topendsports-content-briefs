@@ -635,29 +635,29 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 
 Include these 12 internal links naturally throughout content:
 
-1. **[best online casinos Canada](/sport/betting/canada/best-online-casinos.htm)**
+1. **[best betting sites Canada](/sport/betting/canada/index.htm)**
    - Context: Main comparison page - link in intro and conclusion
 
-2. **[Canada sports betting sites](/sport/betting/canada/best-sports-betting-sites.htm)**
-   - Context: Alternative if Lucky7even lacks sports betting
+2. **[best betting apps Canada](/sport/betting/canada/betting-apps.htm)**
+   - Context: Mobile section and app-related content
 
-3. **[casino bonus calculator](/sport/betting/calculators/bonus-calculator.htm)**
-   - Context: Tool for bonus wagering calculations in bonus section
+3. **[new betting sites Canada](/sport/betting/canada/new-betting-sites.htm)**
+   - Context: Comparison and alternatives section
 
-4. **[responsible gambling Canada](/sport/betting/canada/responsible-gambling.htm)**
+4. **[responsible gambling](/sport/betting/responsible-gambling.htm)**
    - Context: Compliance requirement in responsible gambling section
 
-5. **[how to claim casino bonus](/sport/betting/how-to/claim-casino-bonus.htm)**
-   - Context: Related guide in bonus section
+5. **[Best NHL Betting Sites](/sport/betting/nhl/index.htm)**
+   - Context: Sports betting section if available
 
-6. **[Ontario online casinos](/sport/betting/canada/ontario-casinos.htm)**
-   - Context: Province-specific link in availability section
+6. **[Best NFL Betting Sites](/sport/betting/nfl/index.htm)**
+   - Context: Sports betting section if available
 
-7. **[Alberta gambling sites](/sport/betting/canada/alberta-casinos.htm)**
-   - Context: Province-specific link (18+ age requirement)
+7. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)**
+   - Context: Tool for betting calculations
 
-8. **[Quebec casinos](/sport/betting/canada/quebec-casinos.htm)**
-   - Context: Province-specific link (18+ age requirement)
+8. **[odds calculator](/sport/betting-tools/odds-calculator.htm)**
+   - Context: Tool for odds calculations
 
 9. **[Treasure Spins review](/sport/betting/canada/treasurespins-review.htm)**
    - Context: Competitor brand review - similar casino focus
@@ -668,8 +668,8 @@ Include these 12 internal links naturally throughout content:
 11. **[Wyns review](/sport/betting/canada/wyns-review.htm)**
     - Context: Competitor brand review - alternative option
 
-12. **[withdrawal processing times Canada](/sport/betting/canada/withdrawal-times.htm)**
-    - Context: Payment information in banking section
+12. **[Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm)**
+    - Context: Betting guides section
 
 ---
 

@@ -767,15 +767,15 @@ Example cons to research:
 | Anchor Text | URL | Placement Section | Context |
 |-------------|-----|-------------------|---------|
 | best UK betting sites | /sport/betting/uk/index.htm | Introduction | "For more options, see our guide to the [best UK betting sites]" |
-| bet365 review | /sport/betting/uk/bet365-review.htm | FAQ or Comparison | "Read our [bet365 review] for comparison" |
+| bet365 review | /sport/betting/uk/22bet-review.htm | FAQ or Comparison | "Read our [bet365 review] for comparison" |
 | UK betting sites | /sport/betting/uk/ | Introduction or Conclusion | "Explore more [UK betting sites]" |
 | football betting sites UK | /sport/betting/uk/football-betting-sites.htm | Sports Markets section | "See our [football betting sites UK] guide" |
 | UK betting apps | /sport/betting/uk/betting-apps.htm | Mobile App section | "Compare the [UK betting apps]" |
 | betting bonuses UK | /sport/betting/uk/bonuses.htm | Bonus section | "View all current [betting bonuses UK]" |
 | how to bet online UK | /sport/betting/uk/how-to-bet-online.htm | Introduction | "New to betting? Read [how to bet online UK]" |
 | UK betting license guide | /sport/betting/uk/licensing.htm | Legitimacy section | "Learn more in our [UK betting license guide]" |
-| William Hill review | /sport/betting/uk/william-hill-review.htm | Comparison or Conclusion | "Alternative: [William Hill review]" |
-| Ladbrokes review | /sport/betting/uk/ladbrokes-review.htm | Comparison or Conclusion | "Alternative: [Ladbrokes review]" |
+| William Hill review | /sport/betting/uk/bet442-review.htm | Comparison or Conclusion | "Alternative: [William Hill review]" |
+| Ladbrokes review | /sport/betting/uk/nrgbet-review.htm | Comparison or Conclusion | "Alternative: [Ladbrokes review]" |
 | horse racing betting UK | /sport/betting/uk/horse-racing.htm | Sports Markets section | "See [horse racing betting UK] for more" |
 | live betting UK | /sport/betting/uk/live-betting.htm | Live Betting discussion | "Read our [live betting UK] guide" |
 

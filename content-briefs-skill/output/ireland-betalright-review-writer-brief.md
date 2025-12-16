@@ -568,16 +568,16 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 | # | Anchor Text | Target URL | Context/Section |
 |---|-------------|------------|-----------------|
 | 1 | betting sites Ireland | `/sport/betting/ireland/index.htm` | Introduction, Ireland landscape |
-| 2 | GAA betting | `/sport/betting/ireland/gaa-betting.htm` | GAA Betting Coverage H3 |
-| 3 | Paddy Power review | `/sport/betting/ireland/paddy-power-review.htm` | Betalright vs Paddy Power comparison |
-| 4 | BoyleSports review | `/sport/betting/ireland/boylesports-review.htm` | Betalright vs BoyleSports comparison |
-| 5 | Bet365 Ireland review | `/sport/betting/ireland/bet365-review.htm` | Betalright vs Bet365 comparison |
-| 6 | sports betting Ireland | `/sport/betting/ireland/sports-betting-guide.htm` | Sports Betting Markets section |
-| 7 | football betting Ireland | `/sport/betting/ireland/football-betting.htm` | Football Betting Markets H3 |
-| 8 | live betting Ireland | `/sport/betting/ireland/live-betting-guide.htm` | Live Betting & In-Play Features H3 |
-| 9 | best betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section + FAQ |
+| 2 | betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section + FAQ |
+| 3 | free bets Ireland | `/sport/betting/ireland/free-bets.htm` | Welcome Bonus section |
+| 4 | Lunubet review | `/sport/betting/ireland/lunubet-review.htm` | Comparison section |
+| 5 | Casina review | `/sport/betting/ireland/casina-review.htm` | Comparison section |
+| 6 | Festival Play review | `/sport/betting/ireland/festivalplay-review.htm` | Comparison section |
+| 7 | Betovo review | `/sport/betting/ireland/betovo-review.htm` | Comparison section |
+| 8 | Millioner review | `/sport/betting/ireland/millioner-review.htm` | Comparison section |
+| 9 | 22bet Ireland review | `/sport/betting/ireland/22bet-review.htm` | Comparison section |
 | 10 | parlay calculator | `/sport/betting-tools/parlay-calculator.htm` | Sports Betting Markets section |
-| 11 | odds calculator | `/tools/odds-calculator.htm` | Sports Betting Markets section |
+| 11 | odds calculator | `/sport/betting-tools/odds-calculator.htm` | Sports Betting Markets section |
 | 12 | responsible gambling resources | `/sport/betting/responsible-gambling.htm` | Responsible Gambling section |
 
 ---

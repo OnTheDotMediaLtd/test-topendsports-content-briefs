@@ -783,13 +783,13 @@ calculateMrLuckBonus();
   <ul style="line-height: 2; margin: 0; padding-left: 1.25rem; color: #333;">
     <li>1. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">best UK betting sites</a> - Introduction/comparison context</li>
     <li>2. <a href="/sport/betting/uk/betting-apps.htm" style="color: #1976d2;">UK betting apps</a> - Mobile app section</li>
-    <li>3. <a href="/sport/betting/uk/best-betting-bonuses.htm" style="color: #1976d2;">UK betting bonuses</a> - Welcome bonus section</li>
-    <li>4. <a href="/sport/betting/uk/paypal-betting-sites.htm" style="color: #1976d2;">PayPal betting sites</a> - Payment methods section</li>
-    <li>5. <a href="/sport/betting/uk/fast-payout-betting-sites.htm" style="color: #1976d2;">fast withdrawal betting sites</a> - Withdrawal times section</li>
+    <li>3. <a href="/sport/betting/uk/betting-offers.htm" style="color: #1976d2;">UK betting bonuses</a> - Welcome bonus section</li>
+    <li>4. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">PayPal betting sites</a> - Payment methods section</li>
+    <li>5. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">fast withdrawal betting sites</a> - Withdrawal times section</li>
     <li>6. <a href="/sport/betting/uk/football-betting-sites.htm" style="color: #1976d2;">UK football betting sites</a> - Sports coverage section</li>
     <li>7. <a href="/sport/betting/uk/horse-racing-betting.htm" style="color: #1976d2;">UK horse racing betting</a> - Sports coverage section</li>
-    <li>8. <a href="/sport/betting/uk/live-betting-sites.htm" style="color: #1976d2;">live betting sites</a> - Live betting features section</li>
-    <li>9. <a href="/sport/betting/uk/best-online-casinos.htm" style="color: #1976d2;">online casino reviews</a> - Casino crossover section</li>
+    <li>8. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">live betting sites</a> - Live betting features section</li>
+    <li>9. <a href="/sport/betting/uk/index.htm" style="color: #1976d2;">online casino reviews</a> - Casino crossover section</li>
     <li>10. <a href="/sport/betting/responsible-gambling.htm" style="color: #1976d2;">responsible gambling tools</a> - Responsible gambling section</li>
     <li>11. <a href="/sport/betting-tools/odds-calculator.htm-calculator.htm" style="color: #1976d2;">betting calculator</a> - Natural content mention</li>
     <li>12. <a href="/sport/betting/uk/sister-sites-directory.htm" style="color: #1976d2;">betting site comparisons</a> - Sister sites section</li>

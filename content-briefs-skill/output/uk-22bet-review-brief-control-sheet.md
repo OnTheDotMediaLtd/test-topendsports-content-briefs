@@ -231,17 +231,17 @@ Must include these keywords:
 ## INTERNAL LINKS (Minimum 12)
 
 1. "best betting sites UK" → /sport/betting/uk/index.htm
-2. "football betting odds" → /sport/betting/uk/football-odds.htm
+2. "football betting odds" → /sport/betting/uk/football-betting-sites.htm
 3. "betting apps UK" → /sport/betting/uk/betting-apps.htm
-4. "welcome bonus offers" → /sport/betting/uk/welcome-bonuses.htm
+4. "welcome bonus offers" → /sport/betting/uk/betting-offers.htm
 5. "responsible gambling" → /sport/betting/responsible-gambling.htm
-6. "live betting guide" → /sport/betting/live-betting-guide.htm
-7. "odds comparison" → /sport/betting/odds-comparison.htm
-8. "casino bonuses UK" → /sport/betting/uk/casino-bonuses.htm
-9. "payment methods guide" → /sport/betting/payment-methods.htm
-10. "how to place a bet" → /sport/betting/how-to-place-bet.htm
-11. "betting strategies" → /sport/betting/strategies.htm
-12. "sports betting glossary" → /sport/betting/glossary.htm
+6. "live betting guide" → /sport/betting/guides/live-betting.htm
+7. "odds comparison" → /sport/betting/uk/index.htm
+8. "casino bonuses UK" → /sport/betting/uk/betting-offers.htm
+9. "payment methods guide" → /sport/betting/uk/index.htm
+10. "how to place a bet" → /sport/betting/guides/first-bet.htm
+11. "betting strategies" → /sport/betting/guides/parlay.htm
+12. "sports betting glossary" → /sport/betting/guides/betting-glossary.htm
 
 ---
 

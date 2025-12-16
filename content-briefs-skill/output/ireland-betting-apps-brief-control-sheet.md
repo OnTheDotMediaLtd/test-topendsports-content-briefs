@@ -38,7 +38,7 @@
 ### Top 3 Competitors Summary
 
 | Rank | Domain | DR | Traffic | Strengths |
-|------|--------|----|---------|-----------||
+|------|--------|----|---------|-----------
 | 1 | scs.ie | 44 | 513 | Local Irish authority, comprehensive app reviews |
 | 3 | betfree.ie | 53 | 162 | Transparent ranking methodology, Ireland-focused |
 | 4 | gambling.com/ie | 78 | 143 | High domain authority, international brand credibility |

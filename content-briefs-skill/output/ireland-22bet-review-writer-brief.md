@@ -779,16 +779,16 @@ Access these tools in your account settings under "Responsible Gambling." Rememb
 Place naturally throughout the content:
 
 1. **Introduction:** [best betting sites Ireland](/sport/betting/ireland/index.htm)
-2. **Overview:** [Irish betting sites comparison](/sport/betting/ireland/comparison.htm)
-3. **Bonus Section:** [free bets Ireland](/sport/betting/ireland/free-bets.htm)
-4. **Bonus Section:** [accumulator calculator](/sport/betting/calculators/accumulator-calculator.htm)
-5. **Sports Section:** [GAA betting](/sport/betting/gaa-betting.htm)
-6. **Mobile App:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
-7. **Payment Methods:** [betting calculator](/sport/betting-tools/odds-calculator.htm-calculator.htm)
-8. **Competitor Comparison:** [Bet365 Ireland review](/sport/betting/ireland/bet365-review.htm)
-9. **Competitor Comparison:** [Paddy Power review](/sport/betting/ireland/paddy-power-review.htm)
-10. **Competitor Comparison:** [BoyleSports review](/sport/betting/ireland/boylesports-review.htm)
-11. **FAQ Section:** [sports betting guide](/sport/betting/how-to-bet.htm)
+2. **Bonus Section:** [free bets Ireland](/sport/betting/ireland/free-bets.htm)
+3. **Bonus Section:** [accumulator calculator](/sport/betting-tools/parlay-calculator.htm)
+4. **Mobile App:** [betting apps Ireland](/sport/betting/ireland/betting-apps.htm)
+5. **Payment Methods:** [odds calculator](/sport/betting-tools/odds-calculator.htm)
+6. **Competitor Comparison:** [Lunubet review](/sport/betting/ireland/lunubet-review.htm)
+7. **Competitor Comparison:** [Betalright review](/sport/betting/ireland/betalright-review.htm)
+8. **Competitor Comparison:** [Casina review](/sport/betting/ireland/casina-review.htm)
+9. **Competitor Comparison:** [Festival Play review](/sport/betting/ireland/festivalplay-review.htm)
+10. **Competitor Comparison:** [Betovo review](/sport/betting/ireland/betovo-review.htm)
+11. **Competitor Comparison:** [Millioner review](/sport/betting/ireland/millioner-review.htm)
 12. **Responsible Gambling:** [responsible gambling resources](/sport/betting/responsible-gambling.htm)
 
 ---

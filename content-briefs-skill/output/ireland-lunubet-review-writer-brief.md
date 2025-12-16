@@ -706,35 +706,35 @@ Link to these pages naturally throughout:
 2. **sports betting in Ireland** → /sport/betting/ireland/index.htm
    Context: Introduction
 
-3. **Bet365 Ireland review** → /sport/betting/ireland/bet365-review.htm
-   Context: Comparison section
+3. **best betting apps Ireland** → /sport/betting/ireland/betting-apps.htm
+   Context: Mobile section
 
-4. **BoyleSports review** → /sport/betting/ireland/boylesports-review.htm
-   Context: Comparison section
+4. **free bets Ireland** → /sport/betting/ireland/free-bets.htm
+   Context: Bonus section
 
-5. **Paddy Power review** → /sport/betting/ireland/paddypower-review.htm
-   Context: Comparison section
+5. **parlay calculator** → /sport/betting-tools/parlay-calculator.htm
+   Context: Sports Markets section
 
-6. **betting odds explained** → /sport/betting/odds.htm
-   Context: Odds section
+6. **odds calculator** → /sport/betting-tools/odds-calculator.htm
+   Context: Sports Markets section
 
-7. **parlay calculator** → /calculators/parlay.htm
-   Context: Sports Markets or Final Verdict
-
-8. **odds calculator** → /calculators/odds.htm
-   Context: Sports Markets or Final Verdict
-
-9. **responsible gambling Ireland** → /sport/betting/ireland/responsible-gambling.htm
+7. **responsible gambling** → /sport/betting/responsible-gambling.htm
    Context: Responsible Gambling section
 
-10. **how to bet on GAA** → /sport/betting/ireland/gaa-betting.htm
-    Context: Sports Markets section
+8. **Betalright review** → /sport/betting/ireland/betalright-review.htm
+   Context: Comparison section
 
-11. **rugby betting Ireland** → /sport/betting/ireland/rugby-betting.htm
-    Context: Sports Markets section
+9. **Casina review** → /sport/betting/ireland/casina-review.htm
+   Context: Comparison section
 
-12. **live betting guide** → /sport/betting/live-betting.htm
-    Context: Sports Markets section
+10. **22bet review** → /sport/betting/ireland/22bet-review.htm
+    Context: Comparison section
+
+11. **Rabona review** → /sport/betting/ireland/rabona-review.htm
+    Context: Comparison section
+
+12. **Wonder Luck review** → /sport/betting/ireland/wonderluck-review.htm
+    Context: Comparison section
 
 ---
 

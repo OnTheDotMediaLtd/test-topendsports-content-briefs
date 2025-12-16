@@ -494,22 +494,22 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 ## INTERNAL LINKS (12 REQUIRED)
 
 **High Priority:**
-1. **"Best online casino sites in Canada"** → `/sport/betting/canada/` (Introduction)
+1. **"Best online casino sites in Canada"** → `/sport/betting/canada/index.htm` (Introduction)
 2. **"Treasure Spins review"** → `/sport/betting/canada/treasurespins-review.htm` (Alternatives)
 3. **"Royalistplay review"** → `/sport/betting/canada/royalistplay-review.htm` (Alternatives)
 4. **"Wyns review"** → `/sport/betting/canada/wyns-review.htm` (Alternatives)
-5. **"Online gambling laws in Canada"** → `/sport/betting/canada/legal/` (Legal section)
-6. **"Responsible gambling resources"** → `/sport/betting/responsible-gambling/` (Responsible gambling section)
+5. **"Lucky7even review"** → `/sport/betting/canada/lucky7even-review.htm` (Alternatives)
+6. **"Responsible gambling resources"** → `/sport/betting/responsible-gambling.htm` (Responsible gambling section)
 
 **Medium Priority:**
-7. **"Sports betting in Ontario"** → `/sport/betting/canada/ontario/` (Provincial availability)
-8. **"How to verify Canadian gambling licenses"** → `/sport/betting/canada/licensing/` (Legal section)
-9. **"Best sports betting apps Canada"** → `/sport/betting/canada/apps/` (Mobile section)
-10. **"Parlay calculator"** → `/calculators/parlay-calculator.htm` (Sports betting section)
-11. **"Odds calculator"** → `/calculators/odds-calculator.htm` (Sports betting section)
+7. **"New Betting Sites Canada"** → `/sport/betting/canada/new-betting-sites.htm` (Comparison section)
+8. **"Best Betting Apps Canada"** → `/sport/betting/canada/betting-apps.htm` (Mobile section)
+9. **"Best NHL Betting Sites"** → `/sport/betting/nhl/index.htm` (Sports betting section)
+10. **"Parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm` (Sports betting section)
+11. **"Odds calculator"** → `/sport/betting-tools/odds-calculator.htm` (Sports betting section)
 
 **Low Priority:**
-12. **"Casino bonus terms explained"** → `/sport/betting/bonuses/` (Bonus section)
+12. **"Same Game Parlay Guide"** → `/sport/betting/guides/same-game-parlay.htm` (Bonus section)
 
 ---
 

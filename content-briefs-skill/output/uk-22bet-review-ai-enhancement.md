@@ -810,9 +810,9 @@
 <a href="/sport/betting/uk/index.htm">best betting sites UK</a>
 
 <!-- Betting Markets Section -->
-<a href="/sport/betting/uk/football-odds.htm">football betting odds</a>
-<a href="/sport/betting/live-betting-guide.htm">live betting guide</a>
-<a href="/sport/betting/odds-comparison.htm">odds comparison</a>
+<a href="/sport/betting/uk/football-betting-sites.htm">football betting odds</a>
+<a href="/sport/betting/guides/live-betting.htm">live betting guide</a>
+<a href="/sport/betting/uk/index.htm">odds comparison</a>
 
 <!-- Mobile App Section -->
 <a href="/sport/betting/uk/betting-apps.htm">betting apps UK</a>
@@ -821,10 +821,10 @@
 <a href="/sport/betting/uk/welcome-bonus-offers.htm">welcome bonus offers</a>
 
 <!-- Casino Section -->
-<a href="/sport/betting/uk/casino-bonuses.htm">casino bonuses UK</a>
+<a href="/sport/betting/uk/betting-offers.htm">casino bonuses UK</a>
 
 <!-- Payment Methods Section -->
-<a href="/sport/betting/payment-methods.htm">payment methods guide</a>
+<a href="/sport/betting/uk/index.htm">payment methods guide</a>
 
 <!-- Getting Started Section -->
 <a href="/sport/betting/how-to-place-a-bet.htm">how to place a bet</a>
@@ -833,10 +833,10 @@
 <a href="/sport/betting/responsible-gambling.htm">responsible gambling</a>
 
 <!-- Final Verdict Section -->
-<a href="/sport/betting/strategies.htm">betting strategies</a>
+<a href="/sport/betting/guides/parlay.htm">betting strategies</a>
 
 <!-- FAQ Section -->
-<a href="/sport/betting/glossary.htm">sports betting glossary</a>
+<a href="/sport/betting/guides/betting-glossary.htm">sports betting glossary</a>
 ```
 
 ---

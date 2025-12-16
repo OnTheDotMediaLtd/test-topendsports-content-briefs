@@ -439,7 +439,7 @@ Map ALL 17 keywords to specific sections:
 - Upload through account dashboard
 - Processing time: 24-48 hours (verify)
 
-**Internal Link:** "betting sites with PayPal" → `/sport/betting/uk/paypal-betting-sites.htm`
+**Internal Link:** "betting sites with PayPal" → `/sport/betting/uk/index.htm`
 
 ---
 
@@ -807,8 +807,8 @@ Visit 7Bet to explore competitive odds and dual sportsbook/casino platform. New 
 Worth trying for experienced bettors seeking value. Set expectations: verify account early, be patient with first withdrawal, and don't expect app-level convenience.
 
 **Internal Links:**
-- "Bet365 review" → `/sport/betting/uk/bet365-review.htm`
-- "William Hill review" → `/sport/betting/uk/william-hill-review.htm`
+- "Bet365 review" → `/sport/betting/uk/22bet-review.htm`
+- "William Hill review" → `/sport/betting/uk/bet442-review.htm`
 - "best UK betting sites" → `/sport/betting/uk/index.htm`
 
 ---
@@ -877,9 +877,9 @@ Worth trying for experienced bettors seeking value. Set expectations: verify acc
 | free bet offers | /sport/betting/uk/free-bets.htm | Bonus section - free bet comparison |
 | betting odds calculator | /sport/betting-tools/odds-calculator.htm-converter.htm | Sportsbook features - odds conversion tool |
 | horse racing betting | /sport/betting/uk/horse-racing-betting.htm | Sports coverage - horse racing markets |
-| betting sites with PayPal | /sport/betting/uk/paypal-betting-sites.htm | Payment methods - PayPal withdrawal times |
-| Bet365 review | /sport/betting/uk/bet365-review.htm | Competitor comparison in verdict - established alternative |
-| William Hill review | /sport/betting/uk/william-hill-review.htm | Established brand comparison - app-based alternative |
+| betting sites with PayPal | /sport/betting/uk/index.htm | Payment methods - PayPal withdrawal times |
+| Bet365 review | /sport/betting/uk/22bet-review.htm | Competitor comparison in verdict - established alternative |
+| William Hill review | /sport/betting/uk/bet442-review.htm | Established brand comparison - app-based alternative |
 | responsible gambling tools | /sport/betting/responsible-gambling.htm | Responsible gambling section |
 | how to claim a free bet | /sport/betting/guides/how-to-claim-free-bet.htm | Bonus claiming process guide |
 

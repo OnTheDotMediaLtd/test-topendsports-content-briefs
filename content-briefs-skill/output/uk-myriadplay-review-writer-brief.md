@@ -219,7 +219,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 **Internal Links:**
 - Link "esports betting sites" to `/sport/betting/esports-betting-sites.htm`
 - Link "accumulator betting" to `/sport/betting/accumulator-betting.htm`
-- Link "Bet365 review" to `/sport/betting/uk/bet365-review.htm` (comparison context)
+- Link "Bet365 review" to `/sport/betting/uk/22bet-review.htm` (comparison context)
 
 **Sources:**
 - Sports count from site navigation
@@ -311,7 +311,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Security measures (SSL, 2FA if available)
 
 **Internal Links:**
-- Link "PayPal betting sites" to `/sport/betting/uk/paypal-betting-sites.htm`
+- Link "PayPal betting sites" to `/sport/betting/uk/index.htm`
 - Link "how to withdraw from betting sites" to `/sport/betting/how-to-withdraw.htm`
 
 **Sources:**
@@ -615,7 +615,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
 2. **best new betting sites UK** → `/sport/betting/uk/new-betting-sites.htm`
    - Placement: Overview, Welcome Bonus
 
-3. **Bet365 review** → `/sport/betting/uk/bet365-review.htm`
+3. **Bet365 review** → `/sport/betting/uk/22bet-review.htm`
    - Placement: Sports Coverage (comparison context)
 
 4. **best betting apps UK** → `/sport/betting/uk/betting-apps.htm`
@@ -624,7 +624,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
 5. **free bets UK** → `/sport/betting/uk/free-bets.htm`
    - Placement: Welcome Bonus section
 
-6. **PayPal betting sites** → `/sport/betting/uk/paypal-betting-sites.htm`
+6. **PayPal betting sites** → `/sport/betting/uk/index.htm`
    - Placement: Payment Methods section
 
 7. **esports betting sites** → `/sport/betting/esports-betting-sites.htm`

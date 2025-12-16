@@ -708,14 +708,14 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 | Best Sports Betting Sites Canada | `/sport/betting/canada/index.htm` | Compare to other Canadian operators | Intro/Comparison |
 | Best Betting Apps Canada | `/sport/betting/canada/betting-apps.htm` | Note: Festival Play has no app | Mobile section |
 | New Betting Sites Canada | `/sport/betting/canada/new-betting-sites.htm` | Other emerging offshore operators | Overview |
-| Treasure Spins Review | `/sport/betting/canada/treasure-spins-review.htm` | Alternative offshore operator | Comparison |
+| Treasure Spins Review | `/sport/betting/canada/treasurespins-review.htm` | Alternative offshore operator | Comparison |
 | Royalistplay Review | `/sport/betting/canada/royalistplay-review.htm` | Another offshore option | Comparison |
 | Lucky7even Review | `/sport/betting/canada/lucky7even-review.htm` | Popular Canadian offshore alternative | Comparison |
-| Parlay Calculator | `/sport/betting-tools/parlay-calculator.htm.htm` | Calculate potential parlay winnings | Betting section |
-| Odds Converter | `/sport/betting-tools/odds-calculator.htm-converter.htm` | Convert between odds formats | Betting section |
-| Betting Odds Explained | `/sport/betting/guides/odds-explained.htm` | Understanding betting odds | FAQ/Education |
-| How to Bet on NHL | `/sport/betting/guides/nhl-betting.htm` | NHL betting guide for Canadians | Sports markets |
-| CFL Betting Guide | `/sport/betting/guides/cfl-betting.htm` | Canadian Football League betting | Sports markets |
+| Wyns Review | `/sport/betting/canada/wyns-review.htm` | Alternative operator | Comparison |
+| Lizaro Review | `/sport/betting/canada/lizaro-review.htm` | Another alternative | Comparison |
+| Best NHL Betting Sites | `/sport/betting/nhl/index.htm` | NHL betting guide for Canadians | Sports markets |
+| Best NFL Betting Sites | `/sport/betting/nfl/index.htm` | NFL betting guide for Canadians | Sports markets |
+| Parlay Calculator | `/sport/betting-tools/parlay-calculator.htm` | Calculate potential parlay winnings | Betting section |
 | Responsible Gambling Canada | `/sport/betting/responsible-gambling.htm` | Canadian gambling resources | Compliance section |
 
 ---

@@ -901,18 +901,18 @@ Include these internal links naturally within content:
 
 | Anchor Text | Target URL | Section | Priority |
 |-------------|------------|---------|----------|
-| best online casino Canada | /sport/betting/canada/best-online-casino.htm | Comparison section | HIGH |
-| online casino bonuses | /sport/betting/canada/casino-bonuses.htm | Bonus section | HIGH |
-| mobile casino apps | /sport/betting/canada/mobile-casino-apps.htm | Mobile section | HIGH |
-| casino payment methods | /sport/betting/canada/casino-payment-methods.htm | Banking section | HIGH |
+| best betting sites Canada | /sport/betting/canada/index.htm | Comparison section | HIGH |
+| best betting apps Canada | /sport/betting/canada/betting-apps.htm | Mobile section | HIGH |
+| new betting sites Canada | /sport/betting/canada/new-betting-sites.htm | Emerging operators | HIGH |
+| Royalistplay review | /sport/betting/canada/royalistplay-review.htm | Comparison section | HIGH |
+| Wyns review | /sport/betting/canada/wyns-review.htm | Comparison section | HIGH |
+| Lucky7even review | /sport/betting/canada/lucky7even-review.htm | Comparison section | HIGH |
+| Lizaro review | /sport/betting/canada/lizaro-review.htm | Comparison section | MEDIUM |
+| Best NHL Betting Sites | /sport/betting/nhl/index.htm | Sports coverage | MEDIUM |
+| Best NFL Betting Sites | /sport/betting/nfl/index.htm | Sports coverage | MEDIUM |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Tools section | MEDIUM |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Tools section | MEDIUM |
 | responsible gambling | /sport/betting/responsible-gambling.htm | Closing section | CRITICAL |
-| online slots | /sport/betting/canada/online-slots.htm | Games section | MEDIUM |
-| live dealer games | /sport/betting/canada/live-dealer-games.htm | Games section | MEDIUM |
-| blackjack online | /sport/betting/canada/blackjack.htm | Table games | MEDIUM |
-| online roulette | /sport/betting/canada/roulette.htm | Table games | MEDIUM |
-| casino security | /sport/betting/casino-security.htm | Security section | MEDIUM |
-| Interac casinos | /sport/betting/canada/interac-casinos.htm | Payment methods | HIGH |
-| casino reviews | /sport/betting/canada/casino-reviews.htm | Comparison/Verdict | MEDIUM |
 
 ---
 

@@ -769,27 +769,27 @@ Place these naturally throughout the content:
    - Placement: Pros & Cons or competitors mention
    - Keyword: "lucky7even sport"
 
-7. **[Festival Play Sport Review](/sport/betting/canada/festivalplay-review.htm)**
+7. **[Lizaro Sport Review](/sport/betting/canada/lizaro-review.htm)**
    - Placement: Pros & Cons or competitors mention
-   - Keyword: "festival play sport"
+   - Keyword: "lizaro sport"
 
-8. **[Parlay Calculator](/sport/betting-tools/parlay-calculator.htm.htm)**
+8. **[Parlay Calculator](/sport/betting-tools/parlay-calculator.htm)**
    - Placement: Sportsbook Analysis section or sidebar callout
    - Keyword: "parlay calculator"
 
-9. **[Odds Calculator](/sport/betting-tools/odds-calculator.htm.htm)**
+9. **[Odds Calculator](/sport/betting-tools/odds-calculator.htm)**
    - Placement: Sportsbook Analysis section or sidebar callout
    - Keyword: "odds calculator"
 
-10. **[Sports Betting Odds Explained](/sport/betting/guides/odds-explained.htm)**
-    - Placement: Sportsbook Analysis or Getting Started
-    - Keyword: "betting odds"
+10. **[Best NHL Betting Sites](/sport/betting/nhl/index.htm)**
+    - Placement: Sportsbook Analysis or Sports Coverage
+    - Keyword: "NHL betting"
 
-11. **[How to Bet on Sports](/sport/betting/guides/how-to-bet.htm)**
-    - Placement: Introduction or Getting Started
-    - Keyword: "how to bet on sports"
+11. **[Best NFL Betting Sites](/sport/betting/nfl/index.htm)**
+    - Placement: Sportsbook Analysis or Sports Coverage
+    - Keyword: "NFL betting"
 
-12. **[Responsible Gambling Canada](/sport/betting/canada/responsible-gambling.htm)**
+12. **[Responsible Gambling](/sport/betting/responsible-gambling.htm)**
     - Placement: Responsible Gambling section
     - Keyword: "responsible gambling"
 

@@ -779,18 +779,18 @@ directionbet, directionbet casino, betting sites canada, online betting canada, 
 
 | # | Anchor Text | Target URL | Placement | Context |
 |---|------------|-----------|-----------|---------|
-| 1 | best betting sites in Canada | /sport/betting/canada/ | Intro, Comparison section, Final Verdict | Reference to top Canadian operators |
-| 2 | Sports Interaction review | /sport/betting/canada/sports-interaction-review.htm | H2: Comparison, H3: vs Sports Interaction | Direct competitor comparison |
-| 3 | bet365 Canada review | /sport/betting/canada/bet365-review.htm | H2: Comparison section | Direct competitor comparison |
-| 4 | Ontario betting sites | /sport/betting/canada/ontario/ | H2: Legal Status, H3: Provincial Availability | Provincial licensing info |
-| 5 | sports betting bonus guide | /sport/betting/bonuses/ | H2: Welcome Bonus section | Bonus comparison context |
-| 6 | how to withdraw from online sportsbooks | /sport/betting/how-to/withdraw/ | H2: Payment Methods, H3: Withdrawal Time | Withdrawal process explanation |
-| 7 | crypto betting guide | /sport/betting/crypto/ | H2: Payment Methods (crypto section) | Cryptocurrency payment options |
-| 8 | live betting strategies | /sport/betting/strategies/live-betting/ | H2: Sports Betting, H3: Live Betting | Live betting features |
-| 9 | responsible gambling resources | /sport/betting/responsible-gambling/ | Compliance section, Footer | Responsible gambling section |
-| 10 | mobile betting apps | /sport/betting/apps/ | H2: Mobile App section | App comparison context |
-| 11 | sportsbook payment methods | /sport/betting/payment-methods/ | H2: Payment Methods section | Payment options comparison |
-| 12 | Canadian sports betting laws | /sport/betting/canada/laws/ | H2: Legal Status section | Legal/regulatory context |
+| 1 | best betting sites in Canada | /sport/betting/canada/index.htm | Intro, Comparison section, Final Verdict | Reference to top Canadian operators |
+| 2 | best betting apps Canada | /sport/betting/canada/betting-apps.htm | H2: Mobile App section | App comparison context |
+| 3 | new betting sites Canada | /sport/betting/canada/new-betting-sites.htm | H2: Comparison section | Emerging operators comparison |
+| 4 | Treasure Spins review | /sport/betting/canada/treasurespins-review.htm | H2: Comparison section | Alternative offshore operator |
+| 5 | Royalistplay review | /sport/betting/canada/royalistplay-review.htm | H2: Comparison section | Alternative offshore operator |
+| 6 | Wyns review | /sport/betting/canada/wyns-review.htm | H2: Comparison section | Alternative operator |
+| 7 | Lucky7even review | /sport/betting/canada/lucky7even-review.htm | H2: Comparison section | Alternative operator |
+| 8 | Best NHL Betting Sites | /sport/betting/nhl/index.htm | H2: Sports Betting section | NHL betting markets |
+| 9 | Best NFL Betting Sites | /sport/betting/nfl/index.htm | H2: Sports Betting section | NFL betting markets |
+| 10 | parlay calculator | /sport/betting-tools/parlay-calculator.htm | H2: Welcome Bonus section | Betting tools |
+| 11 | odds calculator | /sport/betting-tools/odds-calculator.htm | H2: Sports Betting section | Betting tools |
+| 12 | responsible gambling resources | /sport/betting/responsible-gambling.htm | Compliance section, Footer | Responsible gambling section |
 
 ---
 

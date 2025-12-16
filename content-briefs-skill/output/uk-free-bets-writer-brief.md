@@ -543,7 +543,7 @@ Target high-volume keywords with FAQ questions. Each answer: 100-200 words.
 8. [LuckyMate review](/sport/betting/uk/luckymate-review.htm) - LuckyMate brand section
 9. [football betting UK](/sport/betting/uk/football-betting-sites.htm) - Football free bets subsection
 10. [horse racing betting](/sport/betting/uk/horse-racing-betting.htm) - Horse racing subsection
-11. [welcome bonuses UK](/sport/betting/uk/welcome-bonuses.htm) - Related bonus types
+11. [welcome bonuses UK](/sport/betting/uk/betting-offers.htm) - Related bonus types
 12. [no deposit bonuses](/sport/betting/uk/no-deposit-bonuses.htm) - No deposit section
 
 ---

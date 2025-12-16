@@ -665,7 +665,7 @@ Place naturally throughout content:
 2. **"football betting sites UK"** → `/sport/betting/uk/football-betting-sites.htm`
    Placement: Conclusion/Related content
 
-3. **"tennis betting UK"** → `/sport/betting/uk/tennis-betting.htm`
+3. **"tennis betting UK"** → `/sport/betting/uk/index.htm`
    Placement: Conclusion/Related content
 
 4. **"Grand National betting guide"** → `/sport/horse-racing/grand-national-betting.htm`
@@ -689,7 +689,7 @@ Place naturally throughout content:
 10. **"greyhound betting sites"** → `/sport/betting/uk/greyhound-betting.htm`
     Placement: Conclusion/Related content
 
-11. **"golf betting UK"** → `/sport/betting/uk/golf-betting.htm`
+11. **"golf betting UK"** → `/sport/betting/uk/index.htm`
     Placement: Conclusion/Related content
 
 12. **"best free bets UK"** → `/sport/betting/uk/free-bets.htm`

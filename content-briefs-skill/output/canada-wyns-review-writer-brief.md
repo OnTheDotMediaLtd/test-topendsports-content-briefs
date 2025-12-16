@@ -646,18 +646,18 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 
 Include these naturally throughout content:
 
-1. [best sports betting sites in Canada](/sport/betting/canada/best-sites.htm) - Introduction or comparison section
-2. [Bet99 review](/sport/betting/canada/bet99-review.htm) - Comparison section
-3. [Sports Interaction review](/sport/betting/canada/sports-interaction-review.htm) - Comparison section
-4. [Ontario sports betting guide](/sport/betting/canada/ontario.htm) - Ontario section
-5. [Canadian online casinos](/sport/betting/canada/online-casinos.htm) - Casino features section
-6. [sports betting odds explained](/sport/betting/guides/odds-explained.htm) - Betting markets section
-7. [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm) - Feature analysis section
-8. [odds calculator](/sport/betting-tools/odds-calculator.htm.htm) - Feature analysis section
-9. [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
-10. [how to bet on sports in Canada](/sport/betting/canada/how-to-bet.htm) - Introduction or Ontario section
-11. [Betway Canada review](/sport/betting/canada/betway-review.htm) - Comparison section
-12. [Proline betting guide](/sport/betting/canada/proline.htm) - Comparison section
+1. [best sports betting sites in Canada](/sport/betting/canada/index.htm) - Introduction or comparison section
+2. [best betting apps Canada](/sport/betting/canada/betting-apps.htm) - Mobile section
+3. [new betting sites Canada](/sport/betting/canada/new-betting-sites.htm) - Comparison section
+4. [Treasure Spins review](/sport/betting/canada/treasurespins-review.htm) - Comparison section
+5. [Royalistplay review](/sport/betting/canada/royalistplay-review.htm) - Comparison section
+6. [Lucky7even review](/sport/betting/canada/lucky7even-review.htm) - Comparison section
+7. [Lizaro review](/sport/betting/canada/lizaro-review.htm) - Comparison section
+8. [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Feature analysis section
+9. [odds calculator](/sport/betting-tools/odds-calculator.htm) - Feature analysis section
+10. [responsible gambling resources](/sport/betting/responsible-gambling.htm) - Responsible gambling section
+11. [Best NHL Betting Sites](/sport/betting/nhl/index.htm) - Sports betting section
+12. [Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm) - Betting guides
 
 ---
 

@@ -676,14 +676,14 @@ These should be strategically placed within content sections:
 1. **Introduction:** "[Best UK Betting Sites](/sport/betting/uk/index.htm)" - When comparing NRGbet to market context
 2. **Overview:** "[New Betting Sites UK](/sport/betting/uk/new-betting-sites.htm)" - Position NRGbet among new operators
 3. **Mobile Section:** "[UK Betting Apps](/sport/betting/uk/betting-apps.htm)" - Link for app comparison
-4. **Live Betting:** "[Live Betting Guide](/sport/betting/live-betting-guide.htm)" - Comprehensive live betting info
+4. **Live Betting:** "[Live Betting Guide](/sport/betting/guides/live-betting.htm)" - Comprehensive live betting info
 5. **Esports H3:** "[Esports Betting UK](/sport/betting/esports-betting.htm)" - Esports market details
-6. **Comparison:** "[bet365 Review](/sport/betting/uk/bet365-review.htm)" - Direct competitor comparison
-7. **Comparison:** "[William Hill Review](/sport/betting/uk/william-hill-review.htm)" - Direct competitor comparison
+6. **Comparison:** "[bet365 Review](/sport/betting/uk/22bet-review.htm)" - Direct competitor comparison
+7. **Comparison:** "[William Hill Review](/sport/betting/uk/bet442-review.htm)" - Direct competitor comparison
 8. **Licensing:** "[UK Gambling Commission Guide](/sport/betting/uk/ukgc-licensing.htm)" - UKGC info
 9. **Sports:** "[Football Betting UK](/sport/betting/uk/football-betting-sites.htm)" - Football focus
 10. **Accumulators:** "[Accumulator Betting Tips](/sport/betting/accumulator-tips.htm)" - Acca strategies
-11. **Responsible Gambling:** "[GamStop Self-Exclusion](/sport/betting/gamstop.htm)" - Self-exclusion
+11. **Responsible Gambling:** "[GamStop Self-Exclusion](/sport/betting/responsible-gambling.htm)" - Self-exclusion
 12. **Responsible Gambling:** "[Responsible Gambling UK](/sport/betting/responsible-gambling.htm)" - Support resources
 
 ---

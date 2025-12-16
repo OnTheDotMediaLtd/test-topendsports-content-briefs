@@ -912,7 +912,7 @@ function calculateBonus() {
     <li><a href="/sport/betting/uk/best-casino-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Best UK Casino Sites</a> - Online casino reviews</li>
     <li><a href="/sport/betting/uk/betting-bonuses.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">UK Betting Bonuses</a> - Current welcome offers guide</li>
     <li><a href="/sport/betting/uk/free-bets.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Free Bets UK</a> - Latest free bet offers</li>
-    <li><a href="/sport/betting/uk/paypal-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">PayPal Betting Sites</a> - PayPal-accepted operators</li>
+    <li><a href="/sport/betting/uk/index.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">PayPal Betting Sites</a> - PayPal-accepted operators</li>
     <li><a href="/sport/betting/uk/fast-withdrawal-betting-sites.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Fast Withdrawal Betting Sites</a> - Quick payout operators</li>
     <li><a href="/sport/betting/betting-odds-calculator.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Betting Odds Calculator</a> - Calculate potential winnings</li>
     <li><a href="/sport/betting/bonus-calculator.htm" style="color: #1976d2; text-decoration: none; font-weight: 500;">Bonus Calculator</a> - Welcome bonus value estimator</li>

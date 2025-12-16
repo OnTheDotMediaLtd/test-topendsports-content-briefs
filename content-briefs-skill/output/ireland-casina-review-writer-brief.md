@@ -691,15 +691,14 @@ Include:
 | free bets Ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonus section |
 | Lunubet review | /sport/betting/ireland/lunubet-review.htm | Comparison section |
 | Betalright review | /sport/betting/ireland/betalright-review.htm | Comparison section |
-| parlay calculator | /sport/betting/parlay-calculator.htm | Bet Builder subsection |
-| odds calculator | /sport/betting/odds-calculator.htm | Sports Coverage + FAQ #7 |
-| betting guides | /sport/betting/guides/ | Responsible Gambling |
-| BoyleSports review | /sport/betting/ireland/boylesports-review.htm | Comparison (if exists) |
-| Paddy Power review | /sport/betting/ireland/paddypower-review.htm | Comparison (if exists) |
-| Bet365 Ireland | /sport/betting/ireland/bet365-review.htm | Comparison (if exists) |
-| Ireland betting regulation | /sport/betting/ireland/regulation.htm | About/FAQ (if exists) |
-
-**Note:** Verify URL paths exist before linking. Use variations if needed.
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Betovo review | /sport/betting/ireland/betovo-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| 22bet Ireland review | /sport/betting/ireland/22bet-review.htm | Comparison section |
+| Big Clash review | /sport/betting/ireland/bigclash-review.htm | Comparison section |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Bet Builder subsection |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Sports Coverage + FAQ #7 |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling |
 
 ---
 

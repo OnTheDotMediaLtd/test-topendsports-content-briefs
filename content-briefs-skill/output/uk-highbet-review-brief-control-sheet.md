@@ -213,7 +213,7 @@
 ### Feature-Specific Links
 7. [UK Betting Bonuses](/sport/betting/uk/betting-bonuses.htm)
 8. [Free Bets UK](/sport/betting/uk/free-bets.htm)
-9. [PayPal Betting Sites](/sport/betting/uk/paypal-betting-sites.htm)
+9. [PayPal Betting Sites](/sport/betting/uk/index.htm)
 10. [Fast Withdrawal Betting Sites](/sport/betting/uk/fast-withdrawal-betting-sites.htm)
 
 ### Guide Links

@@ -576,13 +576,13 @@ function toggleStrategy(element) {
       <strong><a href="/sport/betting-tools/parlay-calculator.htm">Accumulator Calculator</a></strong> - Calculate combined odds and potential returns on multi-leg bets
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/sport/betting/uk/premier-league-betting.htm">Premier League Betting Guide</a></strong> - In-depth Premier League betting strategies and market analysis
+      <strong><a href="/sport/betting/uk/football-betting-sites.htm">Premier League Betting Guide</a></strong> - In-depth Premier League betting strategies and market analysis
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/sport/betting/uk/accumulator-tips.htm">Accumulator Betting Tips</a></strong> - Pro strategies for multi-leg accumulators
+      <strong><a href="/sport/betting/guides/parlay.htm">Accumulator Betting Tips</a></strong> - Pro strategies for multi-leg accumulators
     </li>
     <li style="padding: 8px 0; border-bottom: 1px solid #e5e7eb;">
-      <strong><a href="/sport/betting/uk/in-play-football.htm">Live Betting Guide</a></strong> - In-play football betting strategies and tips
+      <strong><a href="/sport/betting/uk/football-betting-sites.htm">Live Betting Guide</a></strong> - In-play football betting strategies and tips
     </li>
     <li style="padding: 8px 0;">
       <strong><a href="/sport/betting/responsible-gambling.htm">Responsible Gambling Hub</a></strong> - Support resources and safe betting practices

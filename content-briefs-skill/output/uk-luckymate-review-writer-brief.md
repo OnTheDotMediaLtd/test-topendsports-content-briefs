@@ -651,15 +651,15 @@ Insert naturally throughout content:
 | Anchor Text | URL | Section |
 |-------------|-----|---------|
 | Best UK Betting Sites | /sport/betting/uk/index.htm | Introduction |
-| UK Sports Betting Guide | /sport/betting/uk/guide.htm | Intro or Final Verdict |
-| In-Play Betting Strategies | /sport/betting/live-betting-guide.htm | In-Play section |
-| Bet Builder Guide | /sport/betting/bet-builder-explained.htm | Bet Builder subsection |
+| UK Sports Betting Guide | /sport/betting/uk/index.htm | Intro or Final Verdict |
+| In-Play Betting Strategies | /sport/betting/guides/live-betting.htm | In-Play section |
+| Bet Builder Guide | /sport/betting/guides/same-game-parlay.htm | Bet Builder subsection |
 | ACCA Betting Tips | /sport/betting/accumulator-tips.htm | ACCA Boost subsection |
-| UK Betting Odds Comparison | /sport/betting/uk/odds-comparison.htm | 0% Margin section |
+| UK Betting Odds Comparison | /sport/betting/uk/index.htm | 0% Margin section |
 | Responsible Gambling UK | /sport/betting/responsible-gambling.htm | Responsible Gambling |
-| UK Betting Payment Methods | /sport/betting/uk/payment-methods.htm | Payment Methods |
-| GamStop Self-Exclusion | /sport/betting/gamstop.htm | Responsible Gambling |
-| UKGC Licensed Betting Sites | /sport/betting/uk/ukgc-licensed.htm | Safety & Licensed |
+| UK Betting Payment Methods | /sport/betting/uk/index.htm | Payment Methods |
+| GamStop Self-Exclusion | /sport/betting/responsible-gambling.htm | Responsible Gambling |
+| UKGC Licensed Betting Sites | /sport/betting/uk/index.htm | Safety & Licensed |
 | Best Betting Apps UK | /sport/betting/uk/betting-apps.htm | Mobile Experience (contrast) |
 | UK Football Betting Guide | /sport/betting/uk/football-betting-sites.htm | Sports Coverage |
 

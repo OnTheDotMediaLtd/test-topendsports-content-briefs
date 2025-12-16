@@ -881,19 +881,19 @@ Must include these specific internal links:
 | # | Anchor Text | Target URL | Placement Section |
 |---|-------------|------------|-------------------|
 | 1 | Best Betting Apps Canada | /sport/betting/canada/betting-apps.htm | Mobile Betting section (PROMINENT) |
-| 2 | Best Sports Betting Sites Canada | /sport/betting/canada/sports-betting-sites.htm | Choosing a Site section (PROMINENT) |
-| 3 | New Betting Sites Canada | /sport/betting/canada/new-betting-sites.htm | Introduction or brand discussion |
-| 4 | NHL betting sites | /sport/betting/nhl/ | Popular Sports section |
-| 5 | CFL betting guide | /sport/betting/cfl/ | Popular Sports section |
-| 6 | NBA betting in Canada | /sport/betting/nba/ | Popular Sports section |
-| 7 | MLB betting sites | /sport/betting/mlb/ | Popular Sports section |
-| 8 | parlay betting calculator | /sport/betting-tools/parlay-calculator.htm/ | Calculators section |
-| 9 | odds calculator | /sport/betting-tools/odds-calculator.htm/ | Calculators section |
-| 10 | betting units calculator | /sport/betting/calculators/units/ | Calculators section |
-| 11 | sports betting Ontario | /sport/betting/canada/ontario/ | Ontario section |
-| 12 | Alberta betting sites | /sport/betting/canada/alberta/ | Provincial discussion |
-| 13 | Quebec betting sites | /sport/betting/canada/quebec/ | Provincial discussion |
-| 14 | how to bet on sports | /sport/betting/guides/how-to-bet/ | Getting Started section |
+| 2 | New Betting Sites Canada | /sport/betting/canada/new-betting-sites.htm | Introduction or brand discussion |
+| 3 | Treasure Spins review | /sport/betting/canada/treasurespins-review.htm | Brand reviews section |
+| 4 | Royalistplay review | /sport/betting/canada/royalistplay-review.htm | Brand reviews section |
+| 5 | Wyns review | /sport/betting/canada/wyns-review.htm | Brand reviews section |
+| 6 | Lucky7even review | /sport/betting/canada/lucky7even-review.htm | Brand reviews section |
+| 7 | NHL betting sites | /sport/betting/nhl/index.htm | Popular Sports section |
+| 8 | NBA betting in Canada | /sport/betting/nba/index.htm | Popular Sports section |
+| 9 | NFL betting sites | /sport/betting/nfl/index.htm | Popular Sports section |
+| 10 | Soccer betting sites | /sport/betting/soccer/index.htm | Popular Sports section |
+| 11 | parlay betting calculator | /sport/betting-tools/parlay-calculator.htm | Calculators section |
+| 12 | odds calculator | /sport/betting-tools/odds-calculator.htm | Calculators section |
+| 13 | Same Game Parlay Guide | /sport/betting/guides/same-game-parlay.htm | Betting guides section |
+| 14 | Responsible Gambling | /sport/betting/responsible-gambling.htm | Compliance section |
 
 ---
 

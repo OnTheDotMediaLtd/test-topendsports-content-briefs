@@ -549,18 +549,16 @@ H1: Best Betting Sites Ireland [TIMELESS - NO DATES]
 |-------------|------------|-------------------|
 | best betting apps ireland | /sport/betting/ireland/betting-apps.htm | Mobile Betting Apps section |
 | free bets ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonuses Overview section |
-| betting offers ireland | /sport/betting/ireland/betting-offers/ | Welcome Bonuses Overview section |
-| betting odds explained | /sport/betting/odds/ | How We Test section |
-| parlay calculator | /sport/betting-tools/parlay-calculator.htm/ | Sports Betting section |
-| betting bonus calculator | /sport/betting/calculators/bonus/ | Welcome Bonuses Overview section |
-| live betting guide | /sport/betting/live/ | Brand reviews (live betting features) |
-| horse racing betting explained | /sport/betting/horse-racing/ | Horse Racing section |
-| football betting tips | /sport/betting/football/ | Sports Betting Overview |
-| rugby betting guide | /sport/betting/rugby/ | Sports Betting Overview |
-| responsible gambling tools | /sport/betting/responsible-gambling/ | Responsible Gambling section |
-| betting site reviews | /sport/betting/reviews/ | How We Test section |
-| sports betting terms | /sport/betting/glossary/ | Introduction or How We Test |
-| betting strategies | /sport/betting/strategies/ | Sports Betting Overview |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Sports Betting section |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Sports Betting section |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling section |
+| Lunubet review | /sport/betting/ireland/lunubet-review.htm | Comparison section |
+| Betalright review | /sport/betting/ireland/betalright-review.htm | Comparison section |
+| Casina review | /sport/betting/ireland/casina-review.htm | Comparison section |
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| Betovo review | /sport/betting/ireland/betovo-review.htm | Comparison section |
+| 22bet review | /sport/betting/ireland/22bet-review.htm | Comparison section |
 
 ---
 

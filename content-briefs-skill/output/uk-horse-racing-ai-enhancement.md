@@ -1085,7 +1085,7 @@ document.addEventListener('DOMContentLoaded', function() {
 **Internal Links (to be implemented):**
 - [UK sports betting sites](/sport/betting/uk/index.htm)
 - [football betting sites UK](/sport/betting/uk/football-betting-sites.htm)
-- [tennis betting UK](/sport/betting/uk/tennis-betting.htm)
+- [tennis betting UK](/sport/betting/uk/index.htm)
 - [Grand National betting guide](/sport/horse-racing/grand-national-betting.htm)
 - [Cheltenham Festival betting](/sport/horse-racing/cheltenham-betting.htm)
 - [each way betting calculator](/betting/calculators/each-way-calculator.htm)
@@ -1093,7 +1093,7 @@ document.addEventListener('DOMContentLoaded', function() {
 - [accumulator calculator](/betting/calculators/accumulator-calculator.htm)
 - [best betting apps UK](/sport/betting/uk/betting-apps.htm)
 - [greyhound betting sites](/sport/betting/uk/greyhound-betting.htm)
-- [golf betting UK](/sport/betting/uk/golf-betting.htm)
+- [golf betting UK](/sport/betting/uk/index.htm)
 - [best free bets UK](/sport/betting/uk/free-bets.htm)
 
 ---

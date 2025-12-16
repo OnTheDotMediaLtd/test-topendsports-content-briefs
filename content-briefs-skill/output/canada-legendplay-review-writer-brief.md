@@ -747,18 +747,18 @@ When comparing Legendplay to competitors, use these brands:
 
 Include these contextually throughout the content:
 
-1. [best sportsbooks Canada](/sport/betting/canada/best-betting-sites.htm) - Comparison section
-2. [sports betting Ontario](/sport/betting/canada/ontario-betting.htm) - Provincial availability
-3. [Bet365 Canada review](/sport/betting/canada/bet365-review.htm) - Comparison section
-4. [NHL betting guide](/sport/betting/nhl-betting.htm) - NHL section
-5. [parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm) - Tools section
-6. [odds calculator](/sport/betting-tools/odds-calculator.htm.htm) - Tools section
-7. [Canadian betting apps](/sport/betting/canada/best-betting-apps.htm) - Mobile app section
-8. [responsible gambling Canada](/sport/betting/responsible-gambling.htm) - Responsible gambling section
-9. [how to withdraw from sportsbooks](/sport/betting/guides/how-to-withdraw.htm) - Payment methods section
-10. [sports betting bonuses explained](/sport/betting/guides/bonuses-explained.htm) - Bonus section
-11. [CFL betting odds](/sport/betting/cfl-betting.htm) - Sports coverage
-12. [live betting guide](/sport/betting/guides/live-betting.htm) - Live betting mention
+1. [best sportsbooks Canada](/sport/betting/canada/index.htm) - Comparison section
+2. [best betting apps Canada](/sport/betting/canada/betting-apps.htm) - Mobile app section
+3. [new betting sites Canada](/sport/betting/canada/new-betting-sites.htm) - Emerging operators
+4. [Treasure Spins review](/sport/betting/canada/treasurespins-review.htm) - Comparison section
+5. [Royalistplay review](/sport/betting/canada/royalistplay-review.htm) - Comparison section
+6. [Wyns review](/sport/betting/canada/wyns-review.htm) - Comparison section
+7. [Lucky7even review](/sport/betting/canada/lucky7even-review.htm) - Comparison section
+8. [Best NHL Betting Sites](/sport/betting/nhl/index.htm) - NHL section
+9. [Best NFL Betting Sites](/sport/betting/nfl/index.htm) - NFL section
+10. [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Tools section
+11. [odds calculator](/sport/betting-tools/odds-calculator.htm) - Tools section
+12. [responsible gambling](/sport/betting/responsible-gambling.htm) - Responsible gambling section
 
 **Link Naturally:** Don't force links. Use contextually where they add value for the reader.
 

@@ -507,19 +507,18 @@ Condensed further:
 
 ## INTERNAL LINKS (12 minimum required)
 
-1. "best betting sites ireland" → /sport/betting/ireland/ (Introduction)
-2. "free bets ireland" → /sport/betting/ireland/free-bets.htm (App Bonuses section - link to comprehensive guide)
-3. "betting offers ireland" → /sport/betting/ireland/betting-offers/ (App Bonuses section)
-4. "betting calculator" → /sport/betting/calculators/ (App Bonuses section)
-4. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm/ (Sports Betting section)
-5. "live betting guide" → /sport/betting/live/ (Live Betting Apps section)
-6. "horse racing betting" → /sport/betting/horse-racing/ (Horse Racing subsection)
-7. "GAA betting guide" → /sport/betting/gaa/ (GAA subsection)
-8. "rugby betting" → /sport/betting/rugby/ (Sports section)
-9. "football betting" → /sport/betting/football/ (Sports section)
-10. "responsible gambling" → /sport/betting/responsible-gambling/ (Responsible Gambling section)
-11. "betting odds explained" → /sport/betting/odds/ (How We Test section)
-12. "betting app reviews" → /sport/betting/apps/reviews/ (How We Test section)
+1. "best betting sites ireland" → /sport/betting/ireland/index.htm (Introduction)
+2. "free bets ireland" → /sport/betting/ireland/free-bets.htm (App Bonuses section)
+3. "parlay calculator" → /sport/betting-tools/parlay-calculator.htm (Sports Betting section)
+4. "odds calculator" → /sport/betting-tools/odds-calculator.htm (Betting Markets section)
+5. "responsible gambling" → /sport/betting/responsible-gambling.htm (Responsible Gambling section)
+6. "Lunubet review" → /sport/betting/ireland/lunubet-review.htm (App comparison section)
+7. "Betalright review" → /sport/betting/ireland/betalright-review.htm (App comparison section)
+8. "Casina review" → /sport/betting/ireland/casina-review.htm (App comparison section)
+9. "Festival Play review" → /sport/betting/ireland/festivalplay-review.htm (App comparison section)
+10. "Millioner review" → /sport/betting/ireland/millioner-review.htm (App comparison section)
+11. "Betovo review" → /sport/betting/ireland/betovo-review.htm (App comparison section)
+12. "22bet review" → /sport/betting/ireland/22bet-review.htm (App comparison section)
 
 ---
 

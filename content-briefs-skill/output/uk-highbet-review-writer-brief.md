@@ -442,7 +442,7 @@ Since there's no app, the mobile web experience is CRITICAL to evaluate:
 | Visa/Mastercard | £5 | [TBC] | Instant | None |
 ```
 
-**Link:** [PayPal Betting Sites UK](/sport/betting/uk/paypal-betting-sites.htm)
+**Link:** [PayPal Betting Sites UK](/sport/betting/uk/index.htm)
 
 #### H3: Highbet Withdrawal Times & Processing (250-300 words)
 **Target Keyword:** highbet withdrawal time (40/mo)
@@ -934,7 +934,7 @@ Highbet supports major UK payment methods for deposits and withdrawals:
 
 **Pros:** PayPal acceptance is a major advantage as it's the preferred payment method for many UK bettors due to buyer protection and ease of use.
 
-See our [PayPal Betting Sites UK](/sport/betting/uk/paypal-betting-sites.htm) guide for more options.
+See our [PayPal Betting Sites UK](/sport/betting/uk/index.htm) guide for more options.
 
 ---
 
@@ -1146,7 +1146,7 @@ Before writing, complete these research tasks:
 4. **[Best UK Casino Sites](/sport/betting/uk/best-casino-sites.htm)** - Casino review section
 5. **[UK Betting Bonuses](/sport/betting/uk/betting-bonuses.htm)** - Welcome bonus section
 6. **[Free Bets UK](/sport/betting/uk/free-bets.htm)** - Free bet offers section
-7. **[PayPal Betting Sites UK](/sport/betting/uk/paypal-betting-sites.htm)** - Banking section
+7. **[PayPal Betting Sites UK](/sport/betting/uk/index.htm)** - Banking section
 8. **[Fast Withdrawal Betting Sites UK](/sport/betting/uk/fast-withdrawal-betting-sites.htm)** - Withdrawal times section
 9. **[Betting Odds Calculator](/sport/betting/betting-odds-calculator.htm)** - Odds quality section
 10. **[Bonus Calculator](/sport/betting/bonus-calculator.htm)** - Welcome bonus section

@@ -173,7 +173,7 @@ Last Updated: December 15, 2025
 - Reload bonuses
 - Frequency of promotions
 
-**Internal Link:** [welcome bonus offers](/sport/betting/uk/welcome-bonuses.htm)
+**Internal Link:** [welcome bonus offers](/sport/betting/uk/betting-offers.htm)
 
 ---
 
@@ -205,9 +205,9 @@ Last Updated: December 15, 2025
 - Live streaming integration
 
 **Internal Links:**
-- [football betting odds](/sport/betting/uk/football-odds.htm)
-- [live betting guide](/sport/betting/live-betting-guide.htm)
-- [odds comparison](/sport/betting/odds-comparison.htm)
+- [football betting odds](/sport/betting/uk/football-betting-sites.htm)
+- [live betting guide](/sport/betting/guides/live-betting.htm)
+- [odds comparison](/sport/betting/uk/index.htm)
 
 ---
 
@@ -251,7 +251,7 @@ Last Updated: December 15, 2025
 - Account verification requirements
 - KYC document submission
 
-**Internal Link:** [how to place a bet](/sport/betting/how-to-place-bet.htm)
+**Internal Link:** [how to place a bet](/sport/betting/guides/first-bet.htm)
 
 #### H3: Mobile App Performance Review (50 words)
 
@@ -304,7 +304,7 @@ Last Updated: December 15, 2025
 - Ongoing casino promotions
 - How casino bonuses differ from sportsbook offers
 
-**Internal Link:** [casino bonuses UK](/sport/betting/uk/casino-bonuses.htm)
+**Internal Link:** [casino bonuses UK](/sport/betting/uk/betting-offers.htm)
 
 ---
 
@@ -351,7 +351,7 @@ Last Updated: December 15, 2025
 | Bitcoin | 10-30 min | 0-1 hour | Network fee | £X / £X |
 | Bank Transfer | 1-3 days | 3-5 days | £0 | £X / £X |
 
-**Internal Link:** [payment methods guide](/sport/betting/payment-methods.htm)
+**Internal Link:** [payment methods guide](/sport/betting/uk/index.htm)
 
 ---
 
@@ -554,7 +554,7 @@ Cover:
 - Help center/FAQ
 - No UK phone number
 
-**Internal Link:** [sports betting glossary](/sport/betting/glossary.htm)
+**Internal Link:** [sports betting glossary](/sport/betting/guides/betting-glossary.htm)
 
 ---
 
@@ -584,7 +584,7 @@ Cover:
    - Call to action (if appropriate)
    - Link to alternatives
 
-**Internal Link:** [betting strategies](/sport/betting/strategies.htm)
+**Internal Link:** [betting strategies](/sport/betting/guides/parlay.htm)
 
 ---
 
@@ -650,17 +650,17 @@ Affiliate sites can be used for research only, never cited in final content.
 Place these contextually within the content:
 
 1. [best betting sites UK](/sport/betting/uk/index.htm) - Introduction
-2. [football betting odds](/sport/betting/uk/football-odds.htm) - Betting Markets
+2. [football betting odds](/sport/betting/uk/football-betting-sites.htm) - Betting Markets
 3. [betting apps UK](/sport/betting/uk/betting-apps.htm) - Mobile App
-4. [welcome bonus offers](/sport/betting/uk/welcome-bonuses.htm) - Bonus section
+4. [welcome bonus offers](/sport/betting/uk/betting-offers.htm) - Bonus section
 5. [responsible gambling](/sport/betting/responsible-gambling.htm) - Responsible Gambling
-6. [live betting guide](/sport/betting/live-betting-guide.htm) - Betting Markets
-7. [odds comparison](/sport/betting/odds-comparison.htm) - Betting Markets
-8. [casino bonuses UK](/sport/betting/uk/casino-bonuses.htm) - Casino section
-9. [payment methods guide](/sport/betting/payment-methods.htm) - Payment Methods
-10. [how to place a bet](/sport/betting/how-to-place-bet.htm) - Getting Started
-11. [betting strategies](/sport/betting/strategies.htm) - Final Verdict
-12. [sports betting glossary](/sport/betting/glossary.htm) - FAQ section
+6. [live betting guide](/sport/betting/guides/live-betting.htm) - Betting Markets
+7. [odds comparison](/sport/betting/uk/index.htm) - Betting Markets
+8. [casino bonuses UK](/sport/betting/uk/betting-offers.htm) - Casino section
+9. [payment methods guide](/sport/betting/uk/index.htm) - Payment Methods
+10. [how to place a bet](/sport/betting/guides/first-bet.htm) - Getting Started
+11. [betting strategies](/sport/betting/guides/parlay.htm) - Final Verdict
+12. [sports betting glossary](/sport/betting/guides/betting-glossary.htm) - FAQ section
 
 **Note:** Integrate naturally. Do NOT force links. Anchor text should flow with surrounding content.
 

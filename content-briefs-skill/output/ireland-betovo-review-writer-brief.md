@@ -442,16 +442,16 @@ Place these links naturally in context:
 |-------------|-----|---------|
 | best betting sites in Ireland | /sport/betting/ireland/index.htm | Comparison section |
 | Irish betting apps | /sport/betting/ireland/betting-apps.htm | Mobile App Review |
-| GAA betting guide | /sport/betting/gaa/betting-guide.htm | GAA Betting section |
-| live betting strategies | /sport/betting/guides/live-betting.htm | Live Betting section |
-| sports betting bonus guide | /sport/betting/guides/bonuses.htm | Welcome Bonus subsection |
-| betting odds calculator | /sport/betting-tools/odds-calculator.htm.htm | Betting Markets subsection |
-| parlay calculator | /sport/betting-tools/parlay-calculator.htm.htm | Betting Markets subsection |
-| responsible gambling Ireland | /sport/betting/ireland/responsible-gambling.htm | Responsible Gambling section |
-| bet365 Ireland review | /sport/betting/ireland/bet365-review.htm | Comparison section |
-| Paddy Power review | /sport/betting/ireland/paddy-power-review.htm | Comparison section |
-| BoyleSports review | /sport/betting/ireland/boyle-sports-review.htm | Comparison section |
-| how to withdraw from betting sites | /sport/betting/guides/withdrawals.htm | Payment Methods subsection |
+| free bets Ireland | /sport/betting/ireland/free-bets.htm | Welcome Bonus section |
+| Lunubet review | /sport/betting/ireland/lunubet-review.htm | Comparison section |
+| Betalright review | /sport/betting/ireland/betalright-review.htm | Comparison section |
+| Casina review | /sport/betting/ireland/casina-review.htm | Comparison section |
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| 22bet Ireland review | /sport/betting/ireland/22bet-review.htm | Comparison section |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Betting Markets subsection |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Betting Markets subsection |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling section |
 
 ---
 

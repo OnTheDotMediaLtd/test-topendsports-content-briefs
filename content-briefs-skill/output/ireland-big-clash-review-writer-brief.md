@@ -561,11 +561,12 @@ Link to [responsible gambling resources](/sport/betting/responsible-gambling.htm
 | Betalright Sports review | /sport/betting/ireland/betalright-review.htm | Final Verdict |
 | 22bet Ireland review | /sport/betting/ireland/22bet-review.htm | Big Clash Sportsbook Review Overview |
 | Casina Sport review | /sport/betting/ireland/casina-review.htm | Final Verdict |
-| parlay calculator | /sport/betting-tools/parlay-calculator.htm-calculator.htm | Sports Markets & Betting Options |
-| odds calculator | /sport/betting-tools/odds-calculator.htm-calculator.htm | FAQ: How competitive are Big Clash odds? |
-| betting odds explained | /sport/betting/guides/odds-explained.htm | FAQ section |
-| responsible gambling resources | /sport/betting/responsible-gambling.htm | Responsible Gambling Footer |
-| how to withdraw from bookmakers | /sport/betting/guides/withdrawal-guide.htm | Payment Methods & Withdrawals |
+| Festival Play review | /sport/betting/ireland/festivalplay-review.htm | Comparison section |
+| Betovo review | /sport/betting/ireland/betovo-review.htm | Comparison section |
+| Millioner review | /sport/betting/ireland/millioner-review.htm | Comparison section |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Sports Markets & Betting Options |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | FAQ: How competitive are Big Clash odds? |
+| responsible gambling | /sport/betting/responsible-gambling.htm | Responsible Gambling Footer |
 
 ---
 

@@ -554,13 +554,13 @@ Trustpilot: "Customer support responded in 10 minutes" (review by John D., verif
 |-------------|-----------|-----------------|
 | best UK betting sites | `/sport/betting/uk/index.htm` | Introduction or overview |
 | UK betting apps | `/sport/betting/uk/betting-apps.htm` | Mobile app section |
-| UK betting bonuses | `/sport/betting/uk/best-betting-bonuses.htm` | Welcome bonus section |
-| PayPal betting sites | `/sport/betting/uk/paypal-betting-sites.htm` | Payment methods section |
-| fast withdrawal betting sites | `/sport/betting/uk/fast-payout-betting-sites.htm` | Withdrawal times section |
+| UK betting bonuses | `/sport/betting/uk/betting-offers.htm` | Welcome bonus section |
+| PayPal betting sites | `/sport/betting/uk/index.htm` | Payment methods section |
+| fast withdrawal betting sites | `/sport/betting/uk/index.htm` | Withdrawal times section |
 | UK football betting sites | `/sport/betting/uk/football-betting-sites.htm` | Sports coverage section |
 | UK horse racing betting | `/sport/betting/uk/horse-racing-betting.htm` | Sports coverage section |
-| live betting sites | `/sport/betting/uk/live-betting-sites.htm` | Live betting mention |
-| online casino reviews | `/sport/betting/uk/best-online-casinos.htm` | Casino crossover mention (if page exists) |
+| live betting sites | `/sport/betting/uk/index.htm` | Live betting mention |
+| online casino reviews | `/sport/betting/uk/index.htm` | Casino crossover mention (if page exists) |
 | responsible gambling tools | `/sport/betting/responsible-gambling.htm` | Responsible gambling section |
 | [Sister site name] review | Internal link (if exists) | Sister sites section |
 | betting calculator | `/sport/betting-tools/odds-calculator.htm-calculator.htm` | Natural mention in content |

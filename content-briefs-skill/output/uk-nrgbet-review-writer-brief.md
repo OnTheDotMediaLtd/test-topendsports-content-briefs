@@ -1018,16 +1018,16 @@ Place these 12 internal links naturally throughout the content:
 3. **UK Betting Apps** → /sport/betting/uk/betting-apps.htm
    *Placement:* Mobile App Review section
 
-4. **Live Betting Guide** → /sport/betting/live-betting-guide.htm
+4. **Live Betting Guide** → /sport/betting/guides/live-betting.htm
    *Placement:* Live Betting section
 
 5. **Esports Betting UK** → /sport/betting/esports-betting.htm
    *Placement:* Esports subsection (if NRGbet offers esports)
 
-6. **bet365 Review** → /sport/betting/uk/bet365-review.htm
+6. **bet365 Review** → /sport/betting/uk/22bet-review.htm
    *Placement:* Comparison section
 
-7. **William Hill Review** → /sport/betting/uk/william-hill-review.htm
+7. **William Hill Review** → /sport/betting/uk/bet442-review.htm
    *Placement:* Comparison section
 
 8. **UK Gambling Commission Guide** → /sport/betting/uk/ukgc-licensing.htm
@@ -1039,7 +1039,7 @@ Place these 12 internal links naturally throughout the content:
 10. **Accumulator Betting Tips** → /sport/betting/accumulator-tips.htm
     *Placement:* Accumulator subsection
 
-11. **GamStop Self-Exclusion** → /sport/betting/gamstop.htm
+11. **GamStop Self-Exclusion** → /sport/betting/responsible-gambling.htm
     *Placement:* Responsible Gambling section
 
 12. **Responsible Gambling UK** → /sport/betting/responsible-gambling.htm

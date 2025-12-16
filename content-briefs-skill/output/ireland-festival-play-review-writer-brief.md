@@ -735,41 +735,41 @@ Festival Play is a **suitable option for Irish players seeking sports variety an
 
 Place these links naturally throughout the content:
 
-1. **"best Irish betting sites"** → `/sport/betting/ireland/betting-sites.htm`
+1. **"best Irish betting sites"** → `/sport/betting/ireland/index.htm`
    - Placement: Introduction, Quick Answer Box, Final Verdict
 
-2. **"Bet365 Ireland review"** → `/sport/betting/ireland/bet365-review.htm`
-   - Placement: Comparison section
+2. **"betting apps Ireland"** → `/sport/betting/ireland/betting-apps.htm`
+   - Placement: Mobile app section
 
-3. **"Paddy Power review"** → `/sport/betting/ireland/paddy-power-review.htm`
-   - Placement: Comparison section, FAQ, Final Verdict
-
-4. **"BoyleSports review"** → `/sport/betting/ireland/boylesports-review.htm`
-   - Placement: Comparison section
-
-5. **"Irish betting regulations"** → `/sport/betting/ireland/regulations.htm`
-   - Placement: Licensing section, FAQ
-
-6. **"sports betting bonuses Ireland"** → `/sport/betting/ireland/bonuses.htm`
+3. **"free bets Ireland"** → `/sport/betting/ireland/free-bets.htm`
    - Placement: Bonus section, FAQ
 
-7. **"football betting Ireland"** → `/sport/betting/ireland/football-betting.htm`
-   - Placement: Sports markets section
+4. **"Lunubet review"** → `/sport/betting/ireland/lunubet-review.htm`
+   - Placement: Comparison section
 
-8. **"GAA betting sites"** → `/sport/betting/ireland/gaa-betting.htm`
-   - Placement: Sports markets section
+5. **"Betalright review"** → `/sport/betting/ireland/betalright-review.htm`
+   - Placement: Comparison section
 
-9. **"rugby betting Ireland"** → `/sport/betting/ireland/rugby-betting.htm`
-   - Placement: Sports markets section
+6. **"Casina review"** → `/sport/betting/ireland/casina-review.htm`
+   - Placement: Comparison section
 
-10. **"horse racing betting Ireland"** → `/sport/betting/ireland/horse-racing-betting.htm`
+7. **"Betovo review"** → `/sport/betting/ireland/betovo-review.htm`
+   - Placement: Comparison section
+
+8. **"Millioner review"** → `/sport/betting/ireland/millioner-review.htm`
+   - Placement: Comparison section
+
+9. **"22bet Ireland review"** → `/sport/betting/ireland/22bet-review.htm`
+   - Placement: Comparison section
+
+10. **"Big Clash review"** → `/sport/betting/ireland/bigclash-review.htm`
+    - Placement: Comparison section
+
+11. **"parlay calculator"** → `/sport/betting-tools/parlay-calculator.htm`
     - Placement: Sports markets section
 
-11. **"responsible gambling Ireland"** → `/sport/betting/ireland/responsible-gambling.htm`
+12. **"responsible gambling"** → `/sport/betting/responsible-gambling.htm`
     - Placement: Responsible Gambling section
-
-12. **"crypto betting sites"** → `/sport/betting/crypto-betting-sites.htm`
-    - Placement: Payment methods section, FAQ
 
 ---
 

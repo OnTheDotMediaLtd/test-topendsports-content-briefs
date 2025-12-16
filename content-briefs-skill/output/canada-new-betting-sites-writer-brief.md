@@ -480,18 +480,18 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 Use natural anchor text. Include ALL 12 links in the content:
 
-1. [best betting sites Canada](/sport/betting/canada/betting-sites.htm) - Comparison to established operators
-2. [Ontario sports betting](/sport/betting/canada/ontario.htm) - Provincial licensing section
-3. [Quebec sports betting](/sport/betting/canada/quebec.htm) - Provincial licensing section
-4. [betting apps Canada](/sport/betting/canada/apps.htm) - Mobile betting section
-5. [NHL betting sites](/sport/betting/canada/nhl-betting-sites.htm) - Sports coverage section
-6. [NFL betting Canada](/sport/betting/canada/nfl-betting-sites.htm) - Sports coverage section
-7. [CFL betting sites](/sport/betting/canada/cfl-betting-sites.htm) - Sports coverage section
-8. [parlay calculator](/calculators/parlay-calculator.htm) - Bonus value calculation
-9. [odds calculator](/calculators/odds-calculator.htm) - Understanding odds
-10. [betting bonus requirements](/sport/betting/bonuses.htm) - Welcome bonus section
+1. [best betting sites Canada](/sport/betting/canada/index.htm) - Comparison to established operators
+2. [betting apps Canada](/sport/betting/canada/betting-apps.htm) - Mobile betting section
+3. [Treasure Spins review](/sport/betting/canada/treasurespins-review.htm) - Brand review link
+4. [Royalistplay review](/sport/betting/canada/royalistplay-review.htm) - Brand review link
+5. [Wyns review](/sport/betting/canada/wyns-review.htm) - Brand review link
+6. [Lucky7even review](/sport/betting/canada/lucky7even-review.htm) - Brand review link
+7. [NHL betting sites](/sport/betting/nhl/index.htm) - Sports coverage section
+8. [NFL betting sites](/sport/betting/nfl/index.htm) - Sports coverage section
+9. [parlay calculator](/sport/betting-tools/parlay-calculator.htm) - Bonus value calculation
+10. [odds calculator](/sport/betting-tools/odds-calculator.htm) - Understanding odds
 11. [responsible gambling tools](/sport/betting/responsible-gambling.htm) - Safety section
-12. [how to verify betting sites](/sport/betting/how-to-choose.htm) - Trust and safety
+12. [Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm) - Betting guides
 
 ---
 

@@ -435,15 +435,15 @@ Link to these pages throughout the content:
 1. **Ireland betting hub** → /sport/betting/ireland/index.htm
 2. **Best betting sites Ireland** → /sport/betting/ireland/index.htm
 3. **Best betting apps Ireland** → /sport/betting/ireland/betting-apps.htm
-4. **Sports betting Ireland guide** → /sport/betting/ireland/sports-betting.htm
-5. **Free bet calculator** → /sport/betting/calculators/free-bet-value.htm
-6. **Odds calculator** → /sport/betting-tools/odds-calculator.htm.htm
-7. **Wagering requirements calculator** → /sport/betting/calculators/wagering.htm
-8. **How to claim bonuses guide** → /sport/betting/guides/claim-bonuses.htm
-9. **Responsible gambling Ireland** → /sport/betting/ireland/responsible-gambling.htm
-10. **No deposit bonus guide** → /sport/betting/guides/no-deposit.htm
-11. **Matched betting guide** → /sport/betting/guides/matched-betting.htm
-12. **GAA betting guide** → /sport/betting/ireland/gaa.htm
+4. **Parlay calculator** → /sport/betting-tools/parlay-calculator.htm
+5. **Odds calculator** → /sport/betting-tools/odds-calculator.htm
+6. **Responsible gambling** → /sport/betting/responsible-gambling.htm
+7. **Lunubet review** → /sport/betting/ireland/lunubet-review.htm
+8. **Betalright review** → /sport/betting/ireland/betalright-review.htm
+9. **Casina review** → /sport/betting/ireland/casina-review.htm
+10. **Festival Play review** → /sport/betting/ireland/festivalplay-review.htm
+11. **Millioner review** → /sport/betting/ireland/millioner-review.htm
+12. **Betovo review** → /sport/betting/ireland/betovo-review.htm
 
 **Placement:** Natural context within relevant sections (not forced)
 

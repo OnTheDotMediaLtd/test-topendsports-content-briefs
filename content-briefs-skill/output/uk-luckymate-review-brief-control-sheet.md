@@ -263,15 +263,15 @@ UK punters who prioritize:
 ## INTERNAL LINKS (12 required)
 
 1. **"Best UK Betting Sites"** → /sport/betting/uk/index.htm
-2. **"UK Sports Betting Guide"** → /sport/betting/uk/guide.htm
-3. **"In-Play Betting Strategies"** → /sport/betting/live-betting-guide.htm
-4. **"Bet Builder Guide"** → /sport/betting/bet-builder-explained.htm
+2. **"UK Sports Betting Guide"** → /sport/betting/uk/index.htm
+3. **"In-Play Betting Strategies"** → /sport/betting/guides/live-betting.htm
+4. **"Bet Builder Guide"** → /sport/betting/guides/same-game-parlay.htm
 5. **"ACCA Betting Tips"** → /sport/betting/accumulator-tips.htm
-6. **"UK Betting Odds Comparison"** → /sport/betting/uk/odds-comparison.htm
+6. **"UK Betting Odds Comparison"** → /sport/betting/uk/index.htm
 7. **"Responsible Gambling UK"** → /sport/betting/responsible-gambling.htm
-8. **"UK Betting Payment Methods"** → /sport/betting/uk/payment-methods.htm
-9. **"GamStop Self-Exclusion"** → /sport/betting/gamstop.htm
-10. **"UKGC Licensed Betting Sites"** → /sport/betting/uk/ukgc-licensed.htm
+8. **"UK Betting Payment Methods"** → /sport/betting/uk/index.htm
+9. **"GamStop Self-Exclusion"** → /sport/betting/responsible-gambling.htm
+10. **"UKGC Licensed Betting Sites"** → /sport/betting/uk/index.htm
 11. **"Best Betting Apps UK"** → /sport/betting/uk/betting-apps.htm (contrast - LuckyMate NO app)
 12. **"UK Football Betting Guide"** → /sport/betting/uk/football-betting-sites.htm
 

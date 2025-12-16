@@ -416,7 +416,7 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 2. **"betting apps UK"** → /sport/betting/uk/betting-apps.htm
    *Context:* Mobile Experience section H2
 
-3. **"welcome bonuses UK"** → /sport/betting/uk/welcome-bonuses.htm
+3. **"welcome bonuses UK"** → /sport/betting/uk/betting-offers.htm
    *Context:* "Betting Offers UK - Welcome Bonuses" H2 section
 
 ### Calculator Links (3)

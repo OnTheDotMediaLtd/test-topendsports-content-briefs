@@ -680,17 +680,17 @@ Include these 12 internal links throughout the article:
 | # | Anchor Text | URL | Placement Section |
 |---|-------------|-----|-------------------|
 | 1 | best betting sites ireland | `/sport/betting/ireland/index.htm` | Introduction, Bonus section |
-| 2 | Paddy Power review | `/sport/betting/ireland/paddypower-review.htm` | Comparison section |
-| 3 | Boylesports review | `/sport/betting/ireland/boylesports-review.htm` | Comparison section |
-| 4 | Bet365 Ireland review | `/sport/betting/ireland/bet365-review.htm` | Comparison section |
-| 5 | sports betting in Ireland | `/sport/betting/ireland/` | About Millioner section |
-| 6 | parlay calculator | `/sport/betting-tools/parlay-calculator.htm-calculator.htm` | Sports Markets section |
-| 7 | odds calculator | `/sport/betting-tools/odds-calculator.htm-calculator.htm` | Sports Markets section |
-| 8 | betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section |
-| 9 | GAA betting | `/sport/betting/ireland/gaa-betting.htm` | Sports Markets section |
-| 10 | rugby betting Ireland | `/sport/betting/ireland/rugby-betting.htm` | Sports Markets section |
-| 11 | responsible gambling Ireland | `/sport/betting/responsible-gambling.htm` | Responsible Gambling section |
-| 12 | how to withdraw winnings | `/sport/betting/how-to/withdraw-winnings.htm` | Payment Methods section |
+| 2 | betting apps Ireland | `/sport/betting/ireland/betting-apps.htm` | Mobile Experience section |
+| 3 | free bets Ireland | `/sport/betting/ireland/free-bets.htm` | Bonus section |
+| 4 | Lunubet review | `/sport/betting/ireland/lunubet-review.htm` | Comparison section |
+| 5 | Betalright review | `/sport/betting/ireland/betalright-review.htm` | Comparison section |
+| 6 | Casina review | `/sport/betting/ireland/casina-review.htm` | Comparison section |
+| 7 | Festival Play review | `/sport/betting/ireland/festivalplay-review.htm` | Comparison section |
+| 8 | Betovo review | `/sport/betting/ireland/betovo-review.htm` | Comparison section |
+| 9 | 22bet Ireland review | `/sport/betting/ireland/22bet-review.htm` | Comparison section |
+| 10 | parlay calculator | `/sport/betting-tools/parlay-calculator.htm` | Sports Markets section |
+| 11 | odds calculator | `/sport/betting-tools/odds-calculator.htm` | Sports Markets section |
+| 12 | responsible gambling | `/sport/betting/responsible-gambling.htm` | Responsible Gambling section |
 
 ---
 

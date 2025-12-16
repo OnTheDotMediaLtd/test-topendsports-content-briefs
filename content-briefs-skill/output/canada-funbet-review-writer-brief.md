@@ -916,10 +916,10 @@ Include these 12 internal links naturally throughout content:
 6. **[new betting sites canada](/sport/betting/canada/new-betting-sites.htm)**
    - Context: Emerging operator context - brand awareness section
 
-7. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm.htm)**
+7. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)**
    - Context: Sports betting tools section
 
-8. **[odds calculator](/sport/betting-tools/odds-calculator.htm.htm)**
+8. **[odds calculator](/sport/betting-tools/odds-calculator.htm)**
    - Context: Sports betting tools section
 
 9. **[NHL betting](/sport/betting/nhl/index.htm)**
@@ -928,8 +928,8 @@ Include these 12 internal links naturally throughout content:
 10. **[NBA betting](/sport/betting/nba/index.htm)**
     - Context: Sports coverage section
 
-11. **[CFL betting](/sport/betting/cfl/index.htm)**
-    - Context: Sports coverage section - Canadian-specific sport
+11. **[Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm)**
+    - Context: Betting guides section
 
 12. **[responsible gambling resources](/sport/betting/responsible-gambling.htm)**
     - Context: Responsible gambling section (MANDATORY)

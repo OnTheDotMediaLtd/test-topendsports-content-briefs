@@ -428,13 +428,13 @@ Place these links naturally throughout content:
 1. **"Best betting sites UK"** → /sport/betting/uk/index.htm
    *Placement:* Introduction or Responsible Gambling section
 
-2. **"Premier League betting tips"** → /sport/betting/uk/premier-league-betting.htm
+2. **"Premier League betting tips"** → /sport/betting/uk/football-betting-sites.htm
    *Placement:* Premier League section or Tips section
 
-3. **"Champions League betting"** → /sport/betting/uk/champions-league-betting.htm
+3. **"Champions League betting"** → /sport/betting/uk/football-betting-sites.htm
    *Placement:* Brand reviews when mentioning European football
 
-4. **"Football accumulator tips"** → /sport/betting/uk/accumulator-tips.htm
+4. **"Football accumulator tips"** → /sport/betting/guides/parlay.htm
    *Placement:* Betting Tips section
 
 5. **"Parlay calculator"** → /sport/betting-tools/parlay-calculator.htm
@@ -443,16 +443,16 @@ Place these links naturally throughout content:
 6. **"Odds converter"** → /sport/betting-tools/odds-calculator.htm
    *Placement:* Understanding Football Betting Odds section
 
-7. **"Bet365 review"** → /sport/betting/uk/bet365-review.htm
+7. **"Bet365 review"** → /sport/betting/uk/22bet-review.htm
    *Placement:* When referencing live streaming capabilities
 
-8. **"William Hill review"** → /sport/betting/uk/william-hill-review.htm
+8. **"William Hill review"** → /sport/betting/uk/bet442-review.htm
    *Placement:* When referencing traditional bookmakers
 
-9. **"Football betting apps"** → /sport/betting/uk/football-apps.htm
+9. **"Football betting apps"** → /sport/betting/uk/betting-apps.htm
    *Placement:* Top Football Betting Apps UK section
 
-10. **"In-play football betting"** → /sport/betting/uk/in-play-football.htm
+10. **"In-play football betting"** → /sport/betting/uk/football-betting-sites.htm
     *Placement:* Betting Tips section or mobile apps section
 
 11. **"Best free bets UK"** → /sport/betting/uk/free-bets.htm
