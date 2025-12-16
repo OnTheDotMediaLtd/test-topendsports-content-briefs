@@ -279,8 +279,9 @@ Before delivering ANY content artifact, verify the following:
    | ranking | best_position |
    | traffic | sum_traffic |
    | query | keyword |
-✅ If API call fails, re-check field names against Ahrefs:doc
-✅ Ahrefs is MANDATORY, not optional
+
+- ✅ If API call fails, re-check field names against Ahrefs:doc
+- ✅ Ahrefs is MANDATORY, not optional
 
 ### Output Format Rules
 ✅ For Excel-ready output, use TSV (tab-separated), NEVER CSV with commas
