@@ -40,7 +40,7 @@
 ### Top 3 Competitors Summary
 
 | Rank | Domain | DR | Traffic | Strengths |
-|------|--------|----|---------|-----------
+|------|--------|----|---------|-----------|
 | 1 | bonusfinder.ie | 67 | 450 | Ireland-specific, comprehensive aggregator, strong T&Cs transparency |
 | 2 | freebets.ie | 52 | 320 | Local Irish authority, dedicated niche, regularly updated |
 | 3 | gambling.com/ie | 78 | 280 | High domain authority, international credibility, Ireland section |
