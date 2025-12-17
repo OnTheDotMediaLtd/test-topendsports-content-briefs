@@ -56,6 +56,24 @@
 
 ---
 
+## CRITICAL INTERNAL LINKS (First 500 Words)
+
+**MANDATORY:** The following dedicated pages MUST be linked within the introduction or opening sections (first 500 words):
+
+| Link Text | Target URL | Context |
+|-----------|------------|---------|
+| Best Betting Apps UK | /uk/betting-apps.htm | Mention mobile betting experience |
+| Free Bets UK | /uk/free-bets.htm | Reference welcome offers/bonuses |
+| Betting Offers UK | /uk/betting-offers.htm | Discuss promotional landscape |
+| New Betting Sites UK | /uk/new-betting-sites.htm | Compare established vs new operators |
+
+**Example Integration:**
+> "Whether you're looking for the [best betting apps UK](/uk/betting-apps.htm), exploring [free bets UK](/uk/free-bets.htm) operators offer, or comparing [betting offers UK](/uk/betting-offers.htm) bookmakers provide, this guide covers everything. We also track [new betting sites UK](/uk/new-betting-sites.htm) entering the market."
+
+**Critical:** These links establish hub-spoke architecture and must appear EARLY in the content (introduction or Quick Answer Box).
+
+---
+
 ## NO DATED LANGUAGE IN H1
 
 - **❌ WRONG:** "Best Betting Sites UK 2025"

@@ -29,7 +29,7 @@
 - **URL:** https://www.topendsports.com/sport/betting/canada/index.htm
 - **Target Keyword:** "sports betting canada"
 - **Primary Search Volume:** 2,300/mo
-- **Total Cluster Volume:** 6,400/mo (hub-appropriate keywords only)
+- **Total Cluster Volume:** 5,650/mo (hub-appropriate keywords only, NO cannibalization)
 - **Target Word Count:** 7,500 words
 - **Template:** Hub Page (Overview + Links to Dedicated Pages)
 - **Market:** Canada (Non-Ontario offshore focus)
@@ -45,12 +45,17 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 |---------|--------|--------------|----------------------|
 | sports betting ontario | 1,100/mo | H2 | "Ontario vs Non-Ontario Betting" |
 | online betting canada | 1,000/mo | H2 | "How Online Betting Works in Canada" |
+| canadian betting sites | 800/mo | H2 | "Top Canadian Betting Sites Ranked" |
 | online sports betting canada | 700/mo | H3 | "Getting Started with Online Sports Betting" |
 | canada sports betting | 700/mo | H2 | "Popular Sports for Betting in Canada" |
 | is sports betting legal in canada | 350/mo | FAQ | "Is sports betting legal in Canada?" |
+| best canadian sportsbooks | 350/mo | H3 | "Canadian Sportsbook Selection Criteria" |
+| betting websites canada | 250/mo | Natural | Natural mentions throughout |
 | how to bet on sports in canada | 200/mo | FAQ | "How do I start betting on sports in Canada?" |
 | sports gambling canada | 200/mo | H3 | "Sports Gambling Regulations" |
+| top betting sites canada | 200/mo | Natural | Natural in intro |
 | sports betting canada legal | 150/mo | FAQ | "What are Canada's sports betting laws?" |
+| canada betting apps | 150/mo | Natural | Natural in app section |
 
 ### Branded Keywords to Target
 
@@ -62,7 +67,7 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 | wyns casino | 150/mo | Wyns brand section |
 | royalistplay | 100/mo | Royalistplay brand section |
 
-**Meta Keywords (for Phase 3):** sports betting canada, sports betting ontario, online betting canada, online sports betting canada, canada sports betting, is sports betting legal in canada, how to bet on sports in canada, sports gambling canada, sports betting canada legal
+**Meta Keywords (for Phase 3):** sports betting canada, sports betting ontario, online betting canada, canadian betting sites, online sports betting canada, canada sports betting, is sports betting legal in canada, how to bet on sports in canada, sports gambling canada, sports betting canada legal
 
 ---
 
@@ -368,7 +373,6 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Pros/cons comparison table
 
 **H3: Licensed vs Offshore Sites (250 words)**
-**Target Keyword:** "sports betting sites canada" (500/mo)
 - Clear comparison of both types
 - Safety considerations
 - Pros and cons of each
@@ -404,7 +408,6 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Account setup tips
 
 **H3: Licensed vs Offshore Sites (250 words)**
-**Target Keyword:** "sports betting sites canada" (500/mo)
 - Detailed comparison
 - Regulatory differences
 - Safety and security considerations
@@ -941,8 +944,9 @@ Must include these specific internal links:
 - Include in Responsible Gambling section
 - Provincial helplines vary by location
 
-- **Placement:** Introduction (50-75 words)
-- **Message:** "We may earn commission from links on this page. This does not affect our editorial independence or recommendations. We only feature sites we've personally tested."
+### Editorial Independence
+- **NOTE:** Affiliate disclosure is in website sidebar - NOT in content
+- Do NOT add inline affiliate disclosure text to the article
 
 ### Responsible Gambling Section
 - Mandatory at bottom of page
@@ -983,7 +987,7 @@ Before submitting, verify:
 - [ ] Introduction is 100-150 words (no more)
 - [ ] Direct answer format in first 2 sentences
 - [ ] NO dated language in H1 or content
-- [ ] All 8 hub-appropriate secondary keywords mapped to sections
+- [ ] All 13 hub-appropriate secondary keywords mapped to sections
 - [ ] All 10 FAQs target keywords
 - [ ] PROMINENT links to dedicated pages (betting-apps, sports-betting-sites, new-betting-sites)
 - [ ] EVERY brand has Mobile Experience section (100-150w) with App Store ratings

@@ -40,7 +40,7 @@ Place immediately after H1 (Festival Play Review: Comprehensive Analysis of This
 ```html
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
   <p style="margin: 0; font-size: 14px; line-height: 1.6;">
-    <strong>Disclosure:</strong> TopEnd Sports may earn commission when you sign up through our links. This review is independent and objective. We receive no compensation for positive ratings. Players must be 18+ to gamble in Ireland. If you're struggling with gambling, contact the HSE Drugs and Alcohol Helpline: <strong>1800 459 459</strong>.
+    <strong>Disclosure:</strong> TopEnd Sports may earn commission when you sign up through our links. This review is independent and objective. We receive no compensation for positive ratings. Players must be 18+ to gamble in Ireland. If you're struggling with gambling, contact Gamblers Anonymous Ireland: <strong>087 744 3577</strong>.
   </p>
 </div>
 ```
@@ -783,7 +783,7 @@ function calculateBonus() {
   <div style="background: #fff; padding: 1.5rem; border-radius: 6px; margin-bottom: 1rem;">
     <h4 style="margin-top: 0; color: #333; font-size: 1.05rem;">Ireland Gambling Support Services</h4>
     <ul style="line-height: 1.8; margin: 0; padding-left: 1.5rem; color: #333;">
-      <li><strong>HSE Drugs and Alcohol Helpline:</strong> <strong style="color: #d32f2f;">1800 459 459</strong> (24/7, free and confidential)</li>
+      <li><strong>Gamblers Anonymous Ireland:</strong> <strong style="color: #d32f2f;">087 744 3577</strong> (gambling-specific support)</li>
       <li><strong>Gamblers Anonymous Ireland:</strong> <strong>087 748 9504</strong> (support meetings nationwide)</li>
       <li><strong>Problem Gambling Ireland:</strong> <strong>1800 936 936</strong> (counseling service)</li>
       <li><strong>Dunlewey Addiction Services:</strong> <strong>1800 406 406</strong> (community support)</li>
@@ -847,7 +847,7 @@ function calculateBonus() {
 - [x] Schema markup: Article + FAQ (10 questions) + Breadcrumb (all JSON-LD)
 - [x] Pros/Cons: 8 pros + 8 cons in grid layout
 - [x] FAQ section: 10 complete questions with expandable answers
-- [x] Responsible gambling: Irish hotlines (1800 459 459, 087 748 9504, 1800 936 936), Festival Play tools
+- [x] Responsible gambling: Irish hotlines (087 744 3577, 087 748 9504, 1800 936 936), Festival Play tools
 - [x] Zero placeholders: All content complete and specific
 - [x] Ireland compliance: 18+ age, GRAI context, Curacao license explanation
 - [x] Internal links: 12 anchors to related Ireland pages (best Irish betting sites, Paddy Power review, BoyleSports, responsible gambling, etc.)

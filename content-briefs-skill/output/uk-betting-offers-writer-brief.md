@@ -10,7 +10,7 @@
 - **Market:** United Kingdom
 - **Primary Keyword:** "new customer betting offers"
 - **Total Search Volume:** 9,150/month (763% increase from primary alone)
-- **Target Word Count:** 4,000 words
+- **Target Word Count:** 6,500-7,000 words
 - **Template:** Comparison (Template 2)
 - **Content Type:** Offers Hub
 
@@ -838,9 +838,9 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 | How We Test & Rank | 400 |
 | FAQs (10 questions) | 1,500 |
 | Responsible Gambling | 200 |
-| **TOTAL** | **~9,000** |
+| **TOTAL** | **~7,000** |
 
-**Note:** Target of 4,000 words is for core content. With all sections including FAQs and brand reviews, total will be ~9,000 words. This is intentional for comprehensive coverage and keyword targeting.
+**Note:** The 6,500-7,000 word target reflects comprehensive coverage including brand reviews, FAQs, and all keyword-optimized sections. Individual section targets above provide flexibility - prioritize brand reviews (450 words each for top 3) and FAQs (1,500 words total) as these are most keyword-dense.
 
 ---
 

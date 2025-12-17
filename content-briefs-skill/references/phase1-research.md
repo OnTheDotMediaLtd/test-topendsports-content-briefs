@@ -35,6 +35,35 @@ For "best X" keywords, analyze AFFILIATE sites:
 
 ---
 
+## Step 1.5: Page Type Identification (CRITICAL)
+
+**Reference:** `references/hub-page-strategy.md`
+
+Before keyword research, identify the page type:
+
+| Page Type | URL Pattern | Keyword Strategy |
+|-----------|-------------|------------------|
+| **Hub Page** | `/[market]/index.htm` | Broad market keywords, legal info, how-to. See hub-page-strategy.md |
+| **Comparison Page** | `/best-[category].htm`, `/[category]-apps.htm` | Specific category keywords, full depth |
+| **Review Page** | `/[brand]-review.htm` | Brand-specific keywords only |
+| **How-To Page** | `/how-to-[action].htm` | Action-oriented keywords |
+
+### If Hub Page Identified:
+1. Reference `references/hub-page-strategy.md` for keyword rules
+2. Identify dedicated pages that own specific keyword clusters
+3. EXCLUDE keywords belonging to dedicated pages
+4. Target word count: ~7,500 (not 9,000+)
+5. Ensure dedicated page links in first 500 words
+
+### Dedicated Pages by Market:
+| Market | Dedicated Pages |
+|--------|-----------------|
+| Canada | `/betting-apps.htm`, `/sports-betting-sites.htm`, `/new-betting-sites.htm` |
+| UK | `/betting-apps.htm`, `/new-betting-sites.htm`, `/free-bets.htm`, `/betting-offers.htm` |
+| Ireland | `/betting-apps.htm`, `/free-bets.htm` |
+
+---
+
 ## Step 2: Competitor Content Analysis (NEW - CRITICAL)
 
 **Reference:** `references/competitor-content-analysis.md`

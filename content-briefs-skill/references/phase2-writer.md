@@ -17,6 +17,25 @@ Extract from Brief Control Sheet:
 
 ---
 
+## Step 1.5: Hub Page Check (CRITICAL)
+
+**Reference:** `references/hub-page-strategy.md`
+
+Before building the outline, check if this is a hub page:
+
+| Page Type | URL Pattern | Special Rules |
+|-----------|-------------|---------------|
+| **Hub Page** | `/[market]/index.htm` | See hub-page-strategy.md |
+| Other pages | All other patterns | Standard template rules |
+
+### If Hub Page:
+1. Word count target: ~7,500 (NOT 9,000+)
+2. Link to dedicated pages in first 500 words (CRITICAL)
+3. Content is overview, NOT exhaustive comparison
+4. Exclude keywords belonging to dedicated pages
+
+---
+
 ## Step 2: Mandatory Intro Format
 
 **Total:** 100-150 words
@@ -25,22 +44,25 @@ Extract from Brief Control Sheet:
 1. Opening (40-50 words)
    - Sentence 1: Direct answer with winners
    - Sentence 2: Authority statement
-2. Disclosure (50-75 words)
 
 **Example:**
 ```
-The best NFL betting sites are FanDuel, DraftKings, and BetMGM. They offer 
-the most competitive NFL odds and comprehensive prop markets, verified through 
+The best NFL betting sites are FanDuel, DraftKings, and BetMGM. They offer
+the most competitive NFL odds and comprehensive prop markets, verified through
 extensive testing.
 
-[Disclosure: We may earn commission...50-75 words...]
+Our team tested all platforms with real deposits to evaluate odds quality,
+betting markets, and withdrawal speeds.
 ```
 
 **Forbidden:**
 - ❌ "Welcome to..."
 - ❌ "Looking for..."
+- ❌ "In this guide..."
+- ❌ "If you're searching for..."
 - ❌ Rhetorical questions
 - ❌ Over 150 words
+- ❌ Affiliate disclosure (it's in website sidebar)
 
 ---
 
@@ -81,16 +103,43 @@ H1: [Brand] Sportsbook Review: [Timeless Angle]
 H1: Best [Category] Sites
 ├── [Last Updated Badge]
 ├── Introduction (100-150w)
-├── Comparison Table (5-7 brands)
+├── Comparison Table (5-10 brands)
 ├── Quick Answer Box
 ├── H2: [Brand #1] Review (500w)
+│   ├── H3: Key Features (150-200w)
+│   ├── H3: Mobile Experience (100-150w) ← NEW REQUIRED
+│   └── H3: Pros & Cons (100-150w)
 ├── H2: [Brand #2] Review (400w)
-├── H2: [Brand #3-5] Reviews (300-350w each)
+│   ├── H3: Key Features (150-200w)
+│   ├── H3: Mobile Experience (100-150w) ← NEW REQUIRED
+│   └── H3: Pros & Cons (100-150w)
+├── H2: [Brand #3-10] Reviews (300-350w each)
 ├── H2: Complete Bonus Terms (ALL brands)
+├── H2: Payment Methods Comparison ← NEW REQUIRED
 ├── H2: How We Test & Rank (400w)
-├── FAQs (5-7)
+├── H2: Calculator Tools ← NEW REQUIRED (link to existing calculators)
+├── FAQs (7-10)
 └── Responsible Gambling
 ```
+
+### NEW Required Sections:
+
+**Mobile Experience (per brand):**
+- App Store rating and review count
+- Key mobile-specific features
+- iOS vs Android differences
+- Download/installation notes
+
+**Payment Methods Comparison:**
+- Deposit methods by brand
+- Withdrawal methods and speeds
+- Minimum/maximum limits
+- Fees (if any)
+
+**Calculator Tool Links:**
+- Link to existing parlay calculator
+- Link to odds calculator
+- Link to other relevant tools
 
 ---
 
@@ -255,7 +304,43 @@ Create 7 FAQ questions targeting high-volume keywords:
 
 ---
 
-## Step 6: Meta Keywords List
+## Step 6: Complete Keyword-to-Section Mapping (CRITICAL)
+
+**EVERY keyword from Phase 1 MUST be mapped to a specific section.**
+
+### Mapping Format:
+```markdown
+## KEYWORD-TO-SECTION MAPPING
+
+| Keyword | Volume | Section Type | Exact Section Title |
+|---------|--------|--------------|---------------------|
+| [primary keyword] | X,XXX/mo | H1 | "[H1 title]" |
+| [secondary 1] | XXX/mo | H2 | "[exact H2 title]" |
+| [secondary 2] | XXX/mo | H3 | "[exact H3 title]" |
+| [secondary 3] | XXX/mo | FAQ | "[exact FAQ question]" |
+| [secondary 4] | XXX/mo | Natural | [Section where naturally placed] |
+
+**Unmapped Keywords:** NONE (all must be mapped)
+```
+
+### Mapping Rules:
+| Volume | Recommended Section |
+|--------|---------------------|
+| 500+/mo | H2 section title |
+| 200-500/mo | H2 or H3 |
+| 100-200/mo | H3 subsection |
+| 50-100/mo | FAQ question |
+| <50/mo | Natural mention in relevant section |
+
+### Validation:
+- [ ] ALL keywords from Phase 1 appear in mapping
+- [ ] No duplicate section assignments
+- [ ] Section titles contain the keyword naturally
+- [ ] FAQs target question-based keywords
+
+---
+
+## Step 7: Meta Keywords List
 
 Compile all keywords for AI to add:
 ```
@@ -277,21 +362,26 @@ Compile all keywords for AI to add:
 - Total Search Volume: X,XXX/mo
 - Word Count: [Target]
 - Template: [1/2/3/4]
+- Page Type: [Hub/Comparison/Review/How-To]
 
-## SECONDARY KEYWORD OPTIMIZATION
+## KEYWORD-TO-SECTION MAPPING (COMPLETE)
 
-| Keyword | Volume | Section | Title |
-|---------|--------|---------|-------|
+| Keyword | Volume | Section Type | Exact Section Title |
+|---------|--------|--------------|---------------------|
+| [primary] | X,XXX/mo | H1 | "[title]" |
 | [kw1] | XXX/mo | H2 | "[title]" |
 | [kw2] | XXX/mo | H3 | "[title]" |
 | [kw3] | XXX/mo | FAQ | "[question]" |
+| [kw4] | XXX/mo | Natural | [Section name] |
 
+**Unmapped Keywords:** NONE
 **Meta Keywords:** [comma-separated list]
 
 ## MANDATORY INTRO FORMAT
 - Opening: 40-50 words, direct answer first
-- Then: Affiliate disclosure 50-75 words
+- Authority statement: 30-50 words
 - Total: 100-150 words max
+- NO affiliate disclosure (it's in website sidebar)
 
 ## NO DATED LANGUAGE
 ❌ NEVER: "October 2025", "Review 2025"
@@ -300,38 +390,80 @@ Compile all keywords for AI to add:
 ## CONTENT OUTLINE
 [Full outline with H2/H3 and word counts]
 
-## SOURCE REQUIREMENTS
-- MUST cite App Store, Google Play, Reddit
-- DO NOT use affiliate sites for pros/cons
+### Required Sections:
+- [ ] Mobile Experience per brand (100-150w each)
+- [ ] Payment Methods Comparison
+- [ ] Calculator Tool Links
+
+## SOURCE REQUIREMENTS (TIERED)
+
+**TIER 1 (MUST USE):**
+- App Store: "[rating] ([X] reviews)"
+- Reddit: "X threads report [finding]"
+
+**TIER 2 (Verification):**
+- Official brand sites for features
+
+**TIER 4 (Sparingly):**
+- Affiliate sites for research gaps ONLY
+- ❌ NEVER for pros/cons
 
 ## BRANDS TO FEATURE
 1. FanDuel - [USP]
 2. BetMGM - [USP]
 3. [Brand] - WHY: [rationale]
 
-## OPTIMIZED FAQs (7)
+## OPTIMIZED FAQs (7-10)
 1. [Question] ← "[keyword]"
-[...7 total]
+[...7-10 total]
+
+## INTERNAL LINKS (12)
+1. "[anchor]" → [url]
+[...12 total, including calculator links]
 
 ## COMPLIANCE
-- 21+, 1-800-522-4700, affiliate disclosure
+- 21+, 1-800-522-4700
+- Responsible gambling section at bottom
+- NO affiliate disclosure in content
 ```
 
 ---
 
 ## Self-Check
 
+### Assignment & Structure
 - [ ] Correct writer assigned (Spanish = Gustavo)
 - [ ] Template identified
-- [ ] All H2/H3 titles optimized with keywords
-- [ ] FAQ questions target searches
-- [ ] Intro format specified (100-150w)
-- [ ] Source requirements specified
-- [ ] Brand rationale from Phase 1 included
-- [ ] 12 internal links listed
-- [ ] Meta keywords provided
+- [ ] Page type identified (Hub/Comparison/Review/How-To)
+- [ ] If hub page: Referenced hub-page-strategy.md
+
+### Keyword Mapping (CRITICAL)
+- [ ] ALL keywords from Phase 1 mapped to sections
+- [ ] Mapping table complete (no gaps)
+- [ ] "Unmapped Keywords: NONE" verified
+- [ ] All H2/H3 titles contain keywords naturally
+- [ ] FAQ questions target question-based keywords
+
+### Content Requirements
+- [ ] Intro format specified (100-150w, NO affiliate disclosure)
+- [ ] Mobile Experience section per brand (100-150w each)
+- [ ] Payment Methods Comparison section planned
+- [ ] Calculator Tool Links section planned
 - [ ] NO dated language in H1
-- [ ] **Mobile Experience section included (100-150w per brand)**
-- [ ] **Payment Methods Comparison table included (if applicable)**
-- [ ] **Calculator tool links integrated (1-2 contextual links)**
+
+### Source Requirements
+- [ ] TIER 1 sources specified (App Store, Reddit)
+- [ ] TIER 2 sources specified (official sites)
+- [ ] TIER 4 warning included (affiliate sites sparingly)
+- [ ] NO affiliate sites for pros/cons
+
+### Links & Compliance
+- [ ] 12 internal links listed (including calculator links)
+- [ ] Brand rationale from Phase 1 included
+- [ ] Meta keywords provided
+- [ ] Compliance: 21+, 1-800-522-4700
+- [ ] NO affiliate disclosure (it's in sidebar)
+
+### Final Check
 - [ ] Brief is 2-3 pages
+- [ ] All Phase 1 data incorporated

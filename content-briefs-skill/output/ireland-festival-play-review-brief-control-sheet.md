@@ -302,7 +302,7 @@
 
 ### 10. Responsible Gambling (50-75 words)
 - [ ] Irish-specific resources
-- [ ] HSE Drugs and Alcohol Helpline: 1800 459 459
+- [ ] Gamblers Anonymous Ireland: 087 744 3577
 - [ ] Self-exclusion tools at Festival Play
 - [ ] Deposit limit information
 - [ ] Problem gambling awareness
@@ -363,7 +363,7 @@ Festival Play is a **niche Curacao-licensed operator** targeting Irish players w
 
 ### Compliance
 - [ ] Age: 18+ (Ireland-specific)
-- [ ] Hotline: HSE Drugs and Alcohol Helpline: 1800 459 459
+- [ ] Hotline: Gamblers Anonymous Ireland: 087 744 3577
 - [ ] Responsible gambling section at bottom
 - [ ] Curacao license transparency
 

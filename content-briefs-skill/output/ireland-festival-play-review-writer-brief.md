@@ -14,7 +14,7 @@
 - **Template:** Template 1 (Brand Review)
 - **Market:** Ireland
 - **Age Requirement:** 18+
-- **Compliance Hotline:** HSE Drugs and Alcohol Helpline: 1800 459 459
+- **Compliance Hotline:** Gamblers Anonymous Ireland: 087 744 3577
 
 ---
 
@@ -715,7 +715,7 @@ Festival Play is a **suitable option for Irish players seeking sports variety an
 
 **Content:**
 - **Age Requirement:** You must be 18 or older to bet in Ireland
-- **Helpline:** HSE Drugs and Alcohol Helpline: 1800 459 459
+- **Helpline:** Gamblers Anonymous Ireland: 087 744 3577
 - **Responsible Gambling Tools:** Deposit limits, self-exclusion, time-out periods
 - **Note:** Festival Play offers basic responsible gambling tools. For more comprehensive protections, consider Irish-licensed operators like Paddy Power or BoyleSports.
 - **Link:** See our [responsible gambling Ireland](#) page for support resources
@@ -870,7 +870,7 @@ Festival Play targets Irish players who:
 
 ### Age & Responsible Gambling:
 - **Age:** 18+ (Ireland)
-- **Helpline:** HSE Drugs and Alcohol Helpline: 1800 459 459
+- **Helpline:** Gamblers Anonymous Ireland: 087 744 3577
 - **Responsible Gambling Section:** Required at bottom (75-100 words)
 
 ### Regulatory Context:
@@ -918,7 +918,7 @@ Before submitting, verify:
 - [ ] Mobile app section clarifies NO APP (mobile web only)
 - [ ] Licensing section explains Curacao vs Irish license
 - [ ] Responsible gambling section included (75-100 words)
-- [ ] HSE helpline mentioned: 1800 459 459
+- [ ] Gamblers Anonymous Ireland helpline mentioned: 087 744 3577
 - [ ] Age requirement stated: 18+
 - [ ] Sources cited properly (Reddit, official site, competitor reviews)
 - [ ] NO claims about app store ratings (no app exists)

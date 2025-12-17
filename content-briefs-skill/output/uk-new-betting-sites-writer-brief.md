@@ -10,7 +10,7 @@
 - **Target Keyword:** "new betting sites uk"
 - **Primary Search Volume:** 1,800/mo
 - **Total Cluster Volume:** 6,720/mo (373% increase over primary)
-- **Word Count:** 3,500 words
+- **Word Count:** 5,000-5,500 words
 - **Template:** Template 2 - Comparison/Best-Of
 - **Market:** United Kingdom
 - **Compliance:** 18+ (UK), UKGC licensed operators only, BeGambleAware.org
@@ -888,7 +888,7 @@ Place contextually within content:
 | Responsible Gambling | 150 |
 | **TOTAL** | **~5,950** |
 
-**Note:** Target is 3,500 words. The outline above totals ~6,000 to give flexibility. Prioritize the brand reviews (2,500 words) and FAQs (800 words) as these are keyword-heavy. Other sections can be adjusted as needed.
+**Note:** The 5,000-5,500 word target balances comprehensive coverage with readability. Prioritize the brand reviews (2,500 words) and FAQs (800 words) as these are most keyword-dense. Other sections provide flexibility and can be adjusted as needed.
 
 ---
 
