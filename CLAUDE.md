@@ -330,3 +330,35 @@ python3 content-briefs-skill/scripts/ingest-feedback.py --update-lessons
 | `feedback/validated/` | Reviewed and confirmed feedback |
 | `feedback/applied/` | Feedback that updated docs |
 | `feedback/FEEDBACK-LOG.md` | Changelog of all feedback |
+
+---
+
+## 📚 Skills Library
+
+This project includes **7 foundational skills** for autonomous learning and optimization:
+
+| Skill | Purpose | When to Use |
+|-------|---------|-------------|
+| **validation-html-structure** | Validate TopEndSports HTML structure | Before delivery, debugging layout |
+| **content-preservation** | Preserve Rob Wood's expert content | Optimizing existing content |
+| **seo-keyword-integration** | Natural keyword placement | After keyword research |
+| **internal-linking-strategy** | Safe internal links (verified URLs only) | Adding contextual links |
+| **cta-placement-strategy** | Value-first CTA placement | Improving conversion |
+| **interactive-elements** | 7 engagement element types | Pages over 1,500 words |
+| **research-workflow** | Complete 4-phase optimization | Starting any project |
+
+### Accessing Skills
+
+Skills are located in `.claude/skills/` directory:
+- **Quick reference:** `.claude/skills/index.md`
+- **Individual skills:** `.claude/skills/[skill-name].md`
+
+### Skills Are Self-Learning
+
+Skills improve automatically through feedback:
+1. Submit feedback via `/submit-feedback [category]`
+2. Weekly processing updates skill documentation
+3. Lessons learned prevent future issues
+
+**See:** `.claude/skills/index.md` for complete documentation
+
