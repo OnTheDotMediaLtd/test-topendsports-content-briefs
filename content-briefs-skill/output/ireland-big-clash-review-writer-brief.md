@@ -60,19 +60,18 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
 **Total:** 100-150 words
 
 **Structure:**
-1. **Opening (40-50 words):** Direct answer with Big Clash summary
+1. **Opening (100-150 words total):** Direct answer with Big Clash summary
    - Sentence 1: Big Clash is a crypto-friendly sportsbook accepting Irish bettors with a €500 welcome bonus, Bitcoin/Ethereum payments, and 24/7 customer support.
    - Sentence 2: Licensed by Curacao and established in 2021, it targets young bettors and esports enthusiasts.
-
-   - Standard TopEndSports disclosure about earning commission from operator links
-   - Maintain editorial independence statement
-   - Quick guide promise
+   - Additional context: Market positioning, key differentiators (crypto, esports, GAA)
+2. **NO affiliate disclosure** (it's in website sidebar)
 
 **Forbidden:**
 - ❌ "Welcome to..."
 - ❌ "Looking for..."
 - ❌ Rhetorical questions
 - ❌ Over 150 words
+- ❌ Affiliate disclosure in intro
 
 ---
 
@@ -395,8 +394,8 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
 - **Time-Out Tools:** Cool-off periods (24 hours, 7 days, 30 days)
 - **Reality Checks:** Time/spend alerts
 - **Support Links:**
-  - Gamblers Anonymous Ireland: [website/phone]
-  - Dunlewey Addiction Services: [website/phone]
+  - Gamblers Anonymous Ireland: 087 744 3577
+  - Dunlewey Addiction Services: 1800 911 029
 - **Age Verification:** 18+ requirement enforced
 
 **Writing Notes:**
@@ -534,9 +533,9 @@ For a comprehensive comparison of all bookies available in Ireland, see our [bes
 
 **Gambling can be addictive. If you or someone you know has a gambling problem, help is available:**
 
-- **Gamblers Anonymous Ireland:** [Website/Phone]
-- **Dunlewey Addiction Services:** [Website/Phone]
-- **National Problem Gambling Helpline:** [Phone]
+- **Gamblers Anonymous Ireland:** 087 744 3577
+- **Dunlewey Addiction Services:** 1800 911 029
+- **National Problem Gambling Helpline:** 087 744 3577
 
 **Tax-Free Winnings:** All betting winnings are tax-free in Ireland (no betting tax since 2002).
 

@@ -37,6 +37,8 @@ Map EVERY secondary keyword to a specific section. Use exact titles provided.
 | iphone betting apps canada | 20/mo | H2 | Same section as Android |
 | mobile betting apps canada | 20/mo | H2 | "Mobile Betting App Features: What to Look For" |
 
+**VERIFICATION:** Unmapped Keywords: NONE ✓
+
 **Meta Keywords (for AI Enhancement phase):**
 betting apps canada, best sports betting apps canada, best betting apps canada, sports betting apps canada, gambling apps canada, canadian betting apps, sports betting app canada, canadian sports betting apps, top sports betting apps canada, best soccer betting apps canada, top betting apps canada, android betting apps canada, iphone betting apps canada, mobile betting apps canada
 
@@ -50,14 +52,13 @@ betting apps canada, best sports betting apps canada, best betting apps canada, 
 1. **Opening (40-50 words):** Direct answer with top 3 winners
    - Example: "The best sports betting apps in Canada are Treasure Spins, Royalistplay, and Wyns. These offshore betting apps offer Canadian bettors superior odds, extensive NHL and CFL coverage, and fast crypto payouts."
 
-   - Does not impact pricing or editorial independence
-   - Transparent about affiliate relationships
-
 **FORBIDDEN:**
 - ❌ "Welcome to..."
 - ❌ "Looking for..."
+- ❌ "In this guide..."
 - ❌ Rhetorical questions
 - ❌ Over 150 words
+- ❌ NO affiliate disclosure in content (it's in website sidebar)
 
 ---
 
@@ -73,6 +74,20 @@ betting apps canada, best sports betting apps canada, best betting apps canada, 
 - Last Updated badge
 - Within content: "As of December 2025..."
 - T&Cs verification date
+
+---
+
+## V2 CRITICAL REQUIREMENTS
+
+**This brief follows V2 standards. Ensure ALL requirements are met:**
+
+1. ✅ **Keyword Mapping:** Every keyword mapped to specific section (verified above)
+2. ✅ **Mobile Experience:** 100-150 words per brand (MANDATORY for all 9 brands)
+3. ✅ **Payment Methods:** Dedicated 350-400w section with comparison table
+4. ✅ **Calculator Links:** 1-2 contextual links to parlay/odds calculators
+5. ✅ **Intro Format:** 100-150w max, NO "Welcome to...", NO affiliate disclosure
+6. ✅ **Source Requirements:** TIER 1 (App Store, Reddit), TIER 2 (Brand sites), TIER 4 warning (No affiliate sources for pros/cons)
+7. ✅ **Compliance:** Canada-specific helplines, 19+ age, NO affiliate disclosure in content
 
 ---
 
@@ -351,7 +366,9 @@ Create comprehensive comparison table with all 9 brands:
 - Stats integration
 - Bet tracking and history
 
-**Internal Link:** Link to "parlay calculator" and "odds calculator"
+**REQUIRED: Calculator Tool Links (1-2 contextual links)**
+- Link to "parlay calculator" where discussing parlay builders
+- Link to "odds calculator" where discussing odds comparison
 
 ---
 
@@ -462,6 +479,7 @@ Create comprehensive comparison table with all 9 brands:
 
 **Include:**
 - Age requirements: 19+ (18+ in Alberta, Manitoba, Quebec)
+- ConnexOntario: 1-866-531-2600
 - Self-exclusion programs
 - Deposit limits and responsible gambling tools
 - Warning signs of problem gambling
@@ -469,10 +487,17 @@ Create comprehensive comparison table with all 9 brands:
   - Responsible Gambling Council: https://www.responsiblegambling.org/
   - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
   - Gamblers Anonymous Canada
-  - Provincial helplines (vary by province)
+  - ConnexOntario Helpline: 1-866-531-2600 (Ontario problem gambling support)
+  - Provincial helplines:
+    - Alberta: 1-866-332-2322
+    - British Columbia: 1-888-795-6111
+    - Quebec: 1-800-461-0140
+    - Other provinces: Contact local health services
 
 **Offshore Disclaimer:**
 "Note that offshore betting sites operate outside Canadian jurisdiction. While popular among Canadian bettors, they are not regulated by Canadian gaming authorities."
+
+**NO affiliate disclosure in content (it's in website sidebar)**
 
 ---
 
@@ -668,19 +693,22 @@ Each brand's Mobile Experience section MUST include:
 
 ---
 
-## FINAL DELIVERABLE CHECKLIST
+## FINAL DELIVERABLE CHECKLIST (V2 STANDARDS)
 
 Before submitting to AI Enhancement (Phase 3):
 
 - [ ] 6,500 words total
-- [ ] All 13 secondary keywords mapped to sections
+- [ ] All 13 secondary keywords mapped to sections with "Unmapped Keywords: NONE" verified
 - [ ] 10 FAQs targeting keywords (120-150 words each)
-- [ ] Mobile Experience section for ALL 9 brands (100-150 words each)
+- [ ] Mobile Experience section for ALL 9 brands (100-150 words each) ⭐ **V2 CRITICAL**
 - [ ] App Store ratings cited for each brand (iOS + Android)
+- [ ] Payment Methods Comparison section (350-400w with table) ⭐ **V2 CRITICAL**
+- [ ] Calculator Tool Links (1-2 contextual links to parlay/odds calculators) ⭐ **V2 CRITICAL**
 - [ ] 8 internal links included (verified existing pages only)
-- [ ] Responsible gambling section (150-200 words)
+- [ ] Responsible gambling section (150-200 words) with specific Canadian helplines
 - [ ] Offshore disclaimer included
 - [ ] NO dated language in H1/title
+- [ ] NO affiliate disclosure in content (it's in sidebar) ⭐ **V2 CRITICAL**
 - [ ] All sources are TIER 1 (App Store, Google Play, Reddit)
 - [ ] NHL and CFL betting prominently featured
 - [ ] Interac and crypto payment methods covered

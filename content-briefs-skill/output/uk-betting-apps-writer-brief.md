@@ -39,6 +39,8 @@ All secondary keywords MUST be mapped to specific sections. Use exact keyword ph
 **Meta Keywords (for AI to add):**
 best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, betting app uk, sports betting apps uk, top betting apps uk, best football betting apps uk, online betting apps uk, best sports betting apps uk, betting apps with free bets, betting app reviews uk, best odds betting app uk
 
+**Unmapped Keywords: NONE** ✅
+
 ---
 
 ## MANDATORY INTRO FORMAT
@@ -49,7 +51,10 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 1. **Opening (40-50 words):** Direct answer first
    - Sentence 1: "The best betting apps in the UK are [Bet442, LuckyMate, and NRGbet]."
    - Sentence 2: Authority statement (how tested, what criteria)
-
+2. **Supporting detail (50-100 words):** Key differentiators
+   - What makes these apps stand out
+   - Testing methodology
+   - Licensing/compliance statement
 
 **FORBIDDEN:**
 - ❌ "Welcome to our guide..."
@@ -57,11 +62,12 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 - ❌ Any rhetorical questions
 - ❌ Dated language ("December 2025", "Review 2025")
 - ❌ Exceeding 150 words
+- ❌ **NO AFFILIATE DISCLOSURE** (it's in website sidebar, NOT in content)
 
 **CORRECT EXAMPLE:**
 "The best betting apps in the UK are Bet442, LuckyMate, and NRGbet, offering superior mobile experiences, competitive odds, and comprehensive sports coverage verified through extensive testing across iOS and Android platforms.
 
-[Disclosure: When you click links to betting sites on this page and make a deposit, we may earn a commission. This does not influence our rankings, which are based on independent testing, user reviews from the App Store and Google Play, and analysis of features, performance, and value. All recommended apps are licensed by the UK Gambling Commission. Gambling can be addictive. Please play responsibly. 18+. BeGambleAware.org]"
+Our rankings are based on independent testing of app performance, user reviews from the App Store and Google Play (analyzing over 50,000 user ratings), and detailed analysis of features, odds competitiveness, and mobile-specific functionality. All recommended apps are licensed by the UK Gambling Commission and support responsible gambling tools including deposit limits and self-exclusion."
 
 ---
 
@@ -84,6 +90,7 @@ best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, bettin
 - Direct answer with top 3 apps
 - Authority statement on testing methodology
 - **NO "Welcome to..." or rhetorical questions**
+- **NO affiliate disclosure** (handled in website sidebar)
 
 ---
 
@@ -826,7 +833,7 @@ Place these naturally throughout the content. Context indicates where to use eac
 - **GamCare:** https://www.gamcare.org.uk/
 
 **Helpline:**
-- **National Gambling Helpline:** 0808 8020 133
+- **GamCare National Gambling Helpline:** 0808 8020 133
 - Display prominently at end of article
 
 **Payment Regulations:**
@@ -834,9 +841,10 @@ Place these naturally throughout the content. Context indicates where to use eac
 - ONLY mention debit cards, e-wallets, bank transfers, mobile payments, prepaid cards
 - Explain credit card ban in payment methods section
 
-
-**Format:**
-"When you click on links to betting sites on this page and make a deposit, we may earn a commission. This does not influence our rankings, which are based on independent testing, user reviews from App Store and Google Play, and analysis of features, performance, and value. All recommended apps are licensed by the UK Gambling Commission. Gambling can be addictive. Please play responsibly. 18+. BeGambleAware.org"
+**Affiliate Disclosure:**
+- ❌ **DO NOT include affiliate disclosure in content body**
+- ✅ Disclosure is handled in website sidebar (not in article content)
+- ✅ Focus on objective testing methodology and compliance instead
 
 ---
 
@@ -854,7 +862,7 @@ Place these naturally throughout the content. Context indicates where to use eac
    - BeGambleAware: https://www.begambleaware.org/
    - GamStop (self-exclusion): https://www.gamstop.co.uk/
    - GamCare: https://www.gamcare.org.uk/
-   - National Gambling Helpline: 0808 8020 133
+   - GamCare National Gambling Helpline: 0808 8020 133
 5. App-based tools available:
    - Deposit limits
    - Loss limits

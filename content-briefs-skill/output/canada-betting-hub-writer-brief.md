@@ -57,6 +57,9 @@ All keywords MUST be mapped to specific sections. This table shows where each ke
 | sports betting canada legal | 150/mo | FAQ | "What are Canada's sports betting laws?" |
 | canada betting apps | 150/mo | Natural | Natural in app section |
 
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+All 13 secondary keywords + 5 branded keywords are explicitly mapped to H2, H3, FAQ, or Natural placement sections.
+
 ### Branded Keywords to Target
 
 | Brand Keyword | Volume | Placement |
@@ -528,8 +531,14 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Higher limits
 - Fees
 
-**Comparison Table:**
-Create table showing all 9 brands with available payment methods, processing times, and fees.
+**Payment Methods Comparison Table (REQUIRED):**
+Create comprehensive table showing ALL 9 brands with:
+- Available payment methods (Interac, Crypto, Cards, E-wallets, Bank Transfer)
+- Deposit processing times
+- Withdrawal processing times
+- Fees (if any)
+- Minimum/maximum limits
+Format: Sortable/filterable table in Phase 3
 
 ---
 
@@ -735,13 +744,16 @@ Create table showing all 9 brands with available payment methods, processing tim
 **Resources (100 words):**
 - **Responsible Gambling Council:** https://www.responsiblegambling.org/
 - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
-- **Provincial helplines vary by location**
-- Provincial resources:
-  - Alberta Gambling Helpline: 1-866-332-2322
-  - BC Problem Gambling Help: 1-888-795-6111
-  - Manitoba: Problem Gambling Helpline
-  - Quebec Gambling Help: 1-800-461-0140
-  - Other provinces: Contact provincial gambling authorities
+- **National Problem Gambling Helpline:** 1-800-463-1554
+- **Provincial helplines:**
+  - **Ontario:** ConnexOntario 1-866-531-2600
+  - **Alberta:** Gambling Helpline 1-866-332-2322
+  - **British Columbia:** Problem Gambling Help 1-888-795-6111
+  - **Manitoba:** Problem Gambling Helpline 1-800-463-1554
+  - **Quebec:** Gambling Help 1-800-461-0140
+  - **Saskatchewan:** Problem Gambling Helpline 1-800-306-6789
+  - **Nova Scotia:** Problem Gambling Services 1-888-347-8888
+  - **New Brunswick, PEI, Newfoundland:** Contact provincial health services
 
 **Self-Help Tools (50 words):**
 - Deposit limits
@@ -938,11 +950,19 @@ Must include these specific internal links:
 - Include in Responsible Gambling section
 
 ### Gambling Resources
-- **Primary Resources:**
+- **National Resources:**
   - Responsible Gambling Council: https://www.responsiblegambling.org/
   - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
-- Include in Responsible Gambling section
-- Provincial helplines vary by location
+  - National Problem Gambling Helpline: 1-800-463-1554
+- **Provincial Helplines:**
+  - Ontario: ConnexOntario 1-866-531-2600
+  - Alberta: 1-866-332-2322
+  - British Columbia: 1-888-795-6111
+  - Manitoba: 1-800-463-1554
+  - Quebec: 1-800-461-0140
+  - Saskatchewan: 1-800-306-6789
+  - Nova Scotia: 1-888-347-8888
+- Include comprehensive list in Responsible Gambling section
 
 ### Editorial Independence
 - **NOTE:** Affiliate disclosure is in website sidebar - NOT in content
@@ -988,12 +1008,13 @@ Before submitting, verify:
 - [ ] Direct answer format in first 2 sentences
 - [ ] NO dated language in H1 or content
 - [ ] All 13 hub-appropriate secondary keywords mapped to sections
+- [ ] **Keyword mapping verification: "Unmapped Keywords: NONE" confirmed**
 - [ ] All 10 FAQs target keywords
 - [ ] PROMINENT links to dedicated pages (betting-apps, sports-betting-sites, new-betting-sites)
 - [ ] EVERY brand has Mobile Experience section (100-150w) with App Store ratings
 - [ ] EVERY brand has complete bonus T&Cs
 - [ ] 14 internal links included (including 3 to dedicated pages)
-- [ ] Payment methods comparison table included
+- [ ] **Payment methods comparison table included (ALL 9 brands with methods, times, fees, limits)**
 - [ ] NHL and CFL prominently featured
 - [ ] Ontario vs non-Ontario clearly explained
 - [ ] Canadian spelling throughout (honour, centre)
@@ -1005,7 +1026,7 @@ Before submitting, verify:
 - [ ] NO keyword cannibalization (removed betting apps/sites comparison keywords)
 - [ ] Responsible gambling section with Canadian resources
 - [ ] Age requirements: 18+ (AB, MB, QC), 19+ (others)
-- [ ] Pan-Canadian gambling resources: Responsible Gambling Council and CCSA
+- [ ] **Comprehensive gambling helplines: National (1-800-463-1554), ConnexOntario (1-866-531-2600), and all provincial resources**
 
 ---
 

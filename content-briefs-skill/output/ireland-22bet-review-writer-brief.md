@@ -47,20 +47,18 @@ Map ALL 13 secondary keywords to specific sections:
 **Total:** 100-150 words maximum
 
 **Structure:**
-1. **Opening verdict (40-50 words):**
+1. **Opening verdict (100-150 words):**
    - Direct answer: "22bet is a solid offshore betting site for Irish players seeking..."
    - Key USPs: €122 bonus, 40+ sports, 15-minute withdrawals
    - Authority statement
-
-   - Standard disclosure language
-   - Commitment to honest reviews
-   - Editorial independence statement
+   - Market positioning for Irish bettors
 
 **Forbidden:**
 - ❌ "Welcome to our review..."
 - ❌ "Looking for a betting site?"
 - ❌ Rhetorical questions
 - ❌ Over 150 words total
+- ❌ Affiliate disclosure in intro (it's in website sidebar)
 
 ---
 
@@ -723,7 +721,7 @@ Gambling can be addictive. 22bet is available to players aged 18 and over in Ire
 **Resources:**
 - **BeGambleAware.org** – Free support and guidance
 - **GambleAware.ie** – Ireland-specific resources
-- **National Problem Gambling Helpline:** 089 241 5401 (Ireland)
+- **Gamblers Anonymous Ireland:** 087 744 3577
 
 **22bet Responsible Gambling Tools:**
 - **Deposit Limits:** Set daily, weekly, or monthly limits

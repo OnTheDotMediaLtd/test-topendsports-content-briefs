@@ -271,7 +271,7 @@
 - No state-by-state variations (Ireland is one market)
 - Regulatory body: Reference Irish gambling regulation and licensing
 - Responsible gambling resources: Irish-specific helplines and support services
-- Hotline: Use Irish appropriate resources (not USA 1-800-522-4700)
+- Hotline: Gamblers Anonymous Ireland: 087 744 3577 (not USA 1-800-522-4700)
 
 **Keep from USA:**
 - T&Cs verification requirements (CRITICAL for free bet offers)

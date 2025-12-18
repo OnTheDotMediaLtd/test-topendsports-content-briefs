@@ -1,5 +1,7 @@
 # Phase 3: AI Enhancement - Canada New Betting Sites
 
+**✅ V2 STANDARDS COMPLIANT** (Updated: December 2025)
+
 **URL:** https://www.topendsports.com/sport/betting/canada/new-betting-sites.htm
 
 ---
@@ -8,12 +10,12 @@
 
 ```html
 <!-- Page Title & Meta Description -->
-<title>New Betting Sites Canada 2025: 9 Latest Operators Reviewed</title>
-<meta name="description" content="Discover Canada's newest betting sites for 2025. Compare 9 new operators with innovative features, crypto payments, and competitive bonuses. Ontario & Quebec coverage included.">
+<title>New Betting Sites Canada: 9 Latest Operators Reviewed</title>
+<meta name="description" content="Discover Canada's newest betting sites. Compare 9 new operators with innovative features, crypto payments, and competitive bonuses. Ontario & Quebec coverage included.">
 <meta name="keywords" content="new betting sites canada, betting apps ontario, sports betting quebec, sports betting apps canada, top betting sites canada">
 
 <!-- Open Graph for Social Sharing -->
-<meta property="og:title" content="New Betting Sites Canada 2025: 9 Latest Operators Reviewed">
+<meta property="og:title" content="New Betting Sites Canada: 9 Latest Operators Reviewed">
 <meta property="og:description" content="Compare Canada's newest betting platforms with innovative features and competitive bonuses.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.topendsports.com/sport/betting/canada/new-betting-sites.htm">
@@ -336,7 +338,7 @@ document.addEventListener('DOMContentLoaded', function() {
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "New Betting Sites Canada 2025: 9 Latest Operators Reviewed",
+  "headline": "New Betting Sites Canada: 9 Latest Operators Reviewed",
   "description": "Comprehensive review of Canada's 9 newest betting sites with innovative features, crypto payments, and competitive bonuses.",
   "image": {
     "@type": "ImageObject",
@@ -522,14 +524,14 @@ document.addEventListener('DOMContentLoaded', function() {
     <h3>Get Help</h3>
     <p>If gambling is affecting your life:</p>
     <div class="contact-box">
-      <strong>Canadian Problem Gambling Helpline</strong><br>
-      <span class="phone">Provincial helplines vary</span><br>
-      <em>Free, confidential, 24/7 support</em>
+      <strong>Canadian Gambling Support Resources</strong><br>
+      <span class="phone">Provincial helplines vary by location</span><br>
+      <em>Free, confidential, 24/7 support available</em>
     </div>
     <div class="resource-links">
-      <a href="https://www.problemgambling.ca" target="_blank">Problem Gambling Canada</a>
-      <a href="https://www.begambleaware.org/gambling-and-you" target="_blank">BeGambleAware</a>
-      <a href="https://www.ontario.ca/page/gaming-and-gambling" target="_blank">Ontario Gaming Info</a>
+      <a href="https://www.responsiblegambling.org/" target="_blank" rel="noopener">Responsible Gambling Council</a>
+      <a href="https://www.ccsa.ca/" target="_blank" rel="noopener">Canadian Centre on Substance Use and Addiction</a>
+      <a href="https://www.ontario.ca/page/gaming-and-gambling" target="_blank" rel="noopener">Ontario Gaming Info</a>
     </div>
   </div>
 
@@ -824,34 +826,6 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 
 ---
 
-
-```html
-<div class="affiliate-banner">
-  <div class="banner-content">
-    <strong>Disclosure:</strong> TopEndSports earns affiliate commissions when you register through our links. This doesn't affect pricing—you pay the same whether you click our link or visit the site directly. We maintain editorial independence and only recommend sites meeting our quality standards.
-  </div>
-</div>
-
-<style>
-.affiliate-banner {
-  background: #edf2f7;
-  border-left: 4px solid #4299e1;
-  border-radius: 4px;
-  padding: 12px 16px;
-  margin-bottom: 20px;
-  font-size: 13px;
-  color: #2d3748;
-}
-
-.banner-content {
-  display: flex;
-  gap: 8px;
-}
-</style>
-```
-
----
-
 ## INTERNAL LINKS PLACEMENT
 
 ```html
@@ -882,14 +856,15 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 
 ---
 
-## VALIDATION CHECKLIST
+## VALIDATION CHECKLIST (V2 STANDARDS)
 
-- [x] Meta title & description included (59 chars, 188 chars)
+- [x] Meta title & description included (NO YEAR - V2 compliant)
+- [x] **NO affiliate disclosure banner** (it's in website sidebar)
 - [x] Last Updated badge component (dynamic date)
 - [x] Comparison table with all 9 brands (interactive, responsive)
 - [x] T&Cs summary: 3-4 bullets per brand (all 9 detailed)
-- [x] Schema markup: Article + FAQ + Breadcrumb (complete)
-- [x] Canada compliance: 19+/18+, Provincial helplines vary (included + provincial info)
+- [x] Schema markup: Article + FAQ + Breadcrumb (complete, NO YEAR)
+- [x] Canada compliance: 19+/18+, RGC and CCSA resources, Provincial helplines
 - [x] Payment methods accordion (collapsible, interactive)
 - [x] All 12 internal links placed strategically
 - [x] No placeholders or "[...]" syntax
@@ -898,16 +873,18 @@ document.querySelectorAll('.accordion-header').forEach(button => {
 
 ---
 
-## NOTES FOR IMPLEMENTATION
+## NOTES FOR IMPLEMENTATION (V2 STANDARDS)
 
 1. **Date Dynamic:** The "Last Updated" badge uses JavaScript to auto-populate current date
-2. **Accordion:** Payment methods use vanilla JS with no dependencies
-3. **Responsive:** All tables, grids, and components tested for mobile (< 768px breakpoint)
-4. **Schema:** FAQPage schema includes all 8 FAQs from Phase 2
-5. **Color Badges:** Each brand uses unique background color from Phase 2 (hex values included)
-6. **Hotline Corrected:** Used Provincial helplines vary per your specification (different from Phase 2 document)
-7. **Compliance:** Covers age requirement (19+ / 18+ in AB/MB/QC), all major provincial regulators
-8. **T&Cs:** Every brand has specific bonus terms, wagering requirements, eligibility, and restrictions
+2. **NO YEAR in Titles:** Removed "2025" from meta title, OG tags, and schema per V2 standards
+3. **NO Affiliate Disclosure:** Removed affiliate banner - disclosure is in website sidebar
+4. **Accordion:** Payment methods use vanilla JS with no dependencies
+5. **Responsive:** All tables, grids, and components tested for mobile (< 768px breakpoint)
+6. **Schema:** FAQPage schema includes all 8 FAQs from Phase 2
+7. **Color Badges:** Each brand uses unique background color from Phase 2 (hex values included)
+8. **Canadian Resources:** RGC and CCSA links per V2 compliance standards
+9. **Compliance:** Covers age requirement (19+ / 18+ in AB/MB/QC), all major provincial regulators
+10. **T&Cs:** Every brand has specific bonus terms, wagering requirements, eligibility, and restrictions
 
-**Ready for developer handoff to integrate into HTML template.**
+**V2 COMPLIANT - Ready for developer handoff to integrate into HTML template.**
 

@@ -18,15 +18,16 @@
 
 ---
 
-## SECONDARY KEYWORD OPTIMIZATION
+## KEYWORD-TO-SECTION MAPPING (COMPLETE)
 
 Map ALL 14 keywords to specific sections:
 
-| Keyword | Volume/mo | Difficulty | Placement | Section Title |
-|---------|-----------|------------|-----------|---------------|
+| Keyword | Volume/mo | Difficulty | Section Type | Exact Section Title |
+|---------|-----------|------------|--------------|---------------------|
+| wyns sport | N/A | N/A | H1 | "Wyns Sportsbook Review: Complete Guide for Canadian Bettors" |
 | ontario sports betting | 1,000 | 79 | H2 | "Ontario Sports Betting: Wyns in the Regulated Market" |
-| online betting canada | 1,000 | 83 | H2/Intro | "Wyns Sportsbook Features" + natural integration |
-| online sports betting canada | 700 | 84 | H2 | "Ontario Sports Betting" section |
+| online betting canada | 1,000 | 83 | H2 | "Wyns Sportsbook Features: In-Depth Analysis" |
+| online sports betting canada | 700 | 84 | H2 | "Ontario Sports Betting: Wyns in the Regulated Market" |
 | canada sports betting | 700 | 81 | Introduction | Natural integration in intro context |
 | sports betting sites canada | 500 | 83 | H2 | "How Wyns Compares to Top Canadian Sportsbooks" |
 | canadian sportsbooks | 400 | 80 | H3 | "Wyns Positioning in Canadian Market" |
@@ -39,6 +40,8 @@ Map ALL 14 keywords to specific sections:
 | wyns canada | 10 | N/A | Natural | Throughout content |
 | wyns online casino reviews | 10 | N/A | FAQ | "What are Wyns Casino reviews saying?" |
 
+**Unmapped Keywords:** NONE (all 14 keywords mapped)
+
 **Meta Keywords (for AI to add):**
 ```
 wyns sport, wyns casino, wyns casino review, ontario sports betting, online betting canada, online sports betting canada, canada sports betting, sports betting sites canada, canadian sportsbooks, best sportsbook canada, is wyns casino legit, wyns canada, wyns online casino, wyns online casino reviews
@@ -48,26 +51,30 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 
 ## MANDATORY INTRO FORMAT
 
-**Structure (200 words total):**
+**Structure (100-150 words total):**
 
 1. **Opening Paragraph (40-50 words):**
    - Start with direct answer about Wyns positioning in Canadian market
    - Authority statement (testing methodology)
    - NO rhetorical questions, NO "Welcome to..."
 
-   - Standard disclosure about commissions
-   - Transparency about editorial independence
-
-3. **Context (50-75 words):**
+2. **Context (50-100 words):**
    - Canadian sports betting landscape
    - Integrate "canada sports betting" keyword naturally
    - Overview of Wyns sports and casino offerings
+
+**CRITICAL: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The affiliate disclosure is in the website sidebar
+- DO NOT add any affiliate disclosure text to the article content
+- Focus on editorial independence only
 
 **❌ FORBIDDEN:**
 - "Welcome to our Wyns review..."
 - "Looking for a new sportsbook?"
 - Any rhetorical questions
 - Dated language: "2025 Review", "December 2025"
+- "This post contains affiliate links"
+- Any disclosure language about compensation or affiliate relationships
 
 **✅ APPROVED STYLE:**
 "Wyns is an emerging Canadian sportsbook and casino platform offering [key features]. Through extensive testing of the platform's betting markets, mobile experience, and banking options, we've analyzed how Wyns compares to established Canadian operators like Bet99 and Sports Interaction."
@@ -90,10 +97,11 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 
 ---
 
-### Introduction (200 words)
+### Introduction (100-150 words)
 - Opening: Direct answer about Wyns (40-50 words)
 - Canadian betting context, integrate "canada sports betting" keyword
 - Overview of Wyns sports + casino platform
+- NO affiliate disclosure (it's in website sidebar)
 
 **Keywords to integrate naturally:** canada sports betting, wyns canada
 
@@ -150,19 +158,31 @@ wyns sport, wyns casino, wyns casino review, ontario sports betting, online bett
 
 **Note:** Complete T&Cs will be added by AI in Phase 3
 
-#### H3: User Interface & Mobile Experience (200 words)
+#### H3: User Interface & Desktop Platform (100 words)
 
 **Cover:**
 - Desktop platform navigation and design
+- Bet slip functionality
+- Live streaming options
+- Overall usability and layout
+
+#### H3: Wyns Mobile Experience (100-150 words) ← REQUIRED V2 SECTION
+
+**Cover:**
 - Mobile app availability (iOS/Android)
 - App Store ratings: Cite actual ratings
 - Mobile app features (live streaming, cash out, bet builder)
-- Bet slip functionality
-- Live streaming options
+- Interface navigation (ease of use, menu structure)
+- Touch responsiveness and gesture controls
+- Performance on different devices (iOS vs Android)
+- Battery usage and data consumption
+- Push notification functionality
+- Mobile-specific features not available on desktop
 
 **Sources Required:**
-- App Store: "[Rating]/5 (X reviews analyzed [date range])"
-- Google Play: "[Rating]/5 (X reviews)"
+- TIER 1: App Store: "[Rating]/5 (X reviews analyzed [date range])"
+- TIER 1: Google Play: "[Rating]/5 (X reviews)"
+- TIER 1: Reddit threads about mobile experience
 - Cite specific user feedback
 
 #### H3: Payment Methods for Canadian Players (200 words)
@@ -549,20 +569,21 @@ Position Wyns within the Canadian market landscape. Acknowledge major competitor
 - Reality checks (pop-ups after X hours)
 - Account cooling-off period
 
-**Canadian Problem Gambling Resources:**
-- **Responsible Gambling Council:** https://www.responsiblegambling.org/
-- **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
-- **Provincial helplines vary by location:**
-  - British Columbia: 1-888-795-6111
-  - Alberta: 1-866-332-2322
-  - Manitoba: Problem Gambling Helpline
-  - Quebec: 1-800-461-0140
+**Pan-Canadian Problem Gambling Resources (MUST INCLUDE):**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/ (Primary Canadian resource)
+- **Canadian Centre on Substance Use and Addiction (CCSA):** https://www.ccsa.ca/
+
+**Provincial Helplines:**
+- **Ontario:** ConnexOntario 1-866-531-2600
+- **British Columbia:** 1-888-795-6111
+- **Alberta:** 1-866-332-2322
+- **Quebec:** 1-800-461-0140
+- **Manitoba:** Problem Gambling Helpline
+- **Other provinces:** See provincial gambling authorities
+
+**Additional Resources:**
 - **Gambling Therapy:** Free online support (www.gamblingtherapy.org)
 - **Gamblers Anonymous:** Local meetings across Canada
-
-**Provincial Resources:**
-- List varies by province - link to provincial health services
-- Self-exclusion registries vary by province
 
 **Internal link:** [responsible gambling resources](/sport/betting/responsible-gambling.htm)
 
@@ -659,15 +680,22 @@ Include these naturally throughout content:
 
 ---
 
-## COMPLIANCE CHECKLIST
+## COMPLIANCE CHECKLIST (V2 STANDARDS)
 
 ### Canadian Market Requirements:
 
 - ✅ **Age disclosure:** 19+ in most provinces (ON, BC, NB, NL, NS, PE, SK), 18+ in AB, MB, QC
-- ✅ **Resources:** Responsible Gambling Council and CCSA, provincial helplines vary
+- ✅ **Pan-Canadian resources:** Responsible Gambling Council and CCSA (prominently featured)
+- ✅ **Responsible Gambling Council link:** https://www.responsiblegambling.org/
+- ✅ **CCSA link:** https://www.ccsa.ca/
+- ✅ **Provincial helplines:** ConnexOntario 1-866-531-2600 (ON), BC: 1-888-795-6111, AB: 1-866-332-2322, QC: 1-800-461-0140
 - ✅ **Responsible gambling section:** Required at end
 - ✅ **No dated language in H1:** Use "Complete Guide" not "2025 Review"
 - ✅ **Last Updated badge:** Will be added by AI after H1 in Phase 3
+- ✅ **Mobile Experience section:** 100-150 words with App Store/Google Play ratings
+- ✅ **Payment Methods section:** Separate H2 section included
+- ✅ **Calculator tool links:** Parlay and odds calculators included
+- ✅ **NO affiliate disclosure in content:** It's in website sidebar only
 
 ### Regulatory Notes:
 

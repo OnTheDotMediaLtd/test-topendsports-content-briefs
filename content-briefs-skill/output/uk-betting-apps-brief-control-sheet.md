@@ -79,6 +79,8 @@
 | betting app reviews uk | ~80/mo | — | Natural | Independent App Reviews |
 | best odds betting app uk | ~60/mo | — | H3 | Best Odds Guaranteed Apps |
 
+**Unmapped Keywords: NONE** ✅
+
 ### Keyword Cluster Performance
 - **Total Search Volume:** 4,040/mo
 - **Volume Increase vs Primary:** 573%
@@ -207,7 +209,7 @@
 - **Primary Resource:** BeGambleAware (begambleaware.org)
 - **Self-Exclusion:** GamStop (gamstop.co.uk)
 - **Support:** GamCare (gamcare.org.uk)
-- **Helpline:** National Gambling Helpline: **0808 8020 133**
+- **Helpline:** GamCare National Gambling Helpline: **0808 8020 133**
 
 ---
 

@@ -178,11 +178,12 @@
   - Comparison to Canadian competitors
   - Promo code requirements (if any)
 
-- [ ] Festival Play Mobile Experience (300-350 words)
+- [ ] Festival Play Mobile Experience (300-350 words) **V2 REQUIRED**
   - Mobile-optimized website analysis
   - Comparison to native apps
   - Browser compatibility
   - Touch optimization and UX
+  - 100-150 word minimum for mobile UX details
 
 - [ ] Festival Play Sports Markets & Odds (350-400 words)
   - 38+ sports breakdown
@@ -191,11 +192,17 @@
   - Event betting specialization
   - Odds competitiveness
 
-- [ ] Festival Play Payment Methods (300-350 words)
+- [ ] Festival Play Payment Methods (300-350 words) **V2 REQUIRED**
   - Cryptocurrency advantage
   - Canadian banking (Interac, e-transfer)
   - Withdrawal times and limits
   - Fees analysis
+  - Payment methods comparison table
+
+- [ ] Betting Calculator Tools (100-150 words) **V2 REQUIRED**
+  - Parlay calculator integration
+  - Odds converter integration
+  - Contextual links with explanations
 
 - [ ] Festival Play as Offshore Sportsbook (250-300 words)
   - Curacao license explanation
@@ -239,7 +246,7 @@
 
 ---
 
-## TECHNICAL REQUIREMENTS
+## TECHNICAL REQUIREMENTS (V2 STANDARDS)
 
 **Phase 3 AI Enhancement Must Include:**
 
@@ -256,7 +263,7 @@
   - Customer Support: 7.0/10
   - Overall: 7.4/10
 
-- [ ] Payment methods comparison section
+- [ ] Payment methods comparison section (V2 REQUIRED)
   - Festival Play vs 3 competitors
   - Highlight crypto advantage
   - Canadian banking methods
@@ -264,6 +271,10 @@
 - [ ] Provincial age requirements table
   - 18+: Alberta, Manitoba, Quebec
   - 19+: All other provinces
+
+- [ ] Calculator tool integration (V2 REQUIRED)
+  - Parlay calculator link with context
+  - Odds converter link with context
 
 ### Schema Markup
 - [ ] Article schema (ReviewArticle type)
@@ -311,7 +322,7 @@
 
 ---
 
-## INTERNAL LINKS (12 Required)
+## INTERNAL LINKS (13 Required - V2)
 
 ### Canadian Comparison Pages
 1. "Best Sports Betting Sites Canada" → `/sport/betting/canada/index.htm`
@@ -325,7 +336,7 @@
 
 ### Calculator Tools
 7. "Parlay Calculator" → `/sport/betting-tools/parlay-calculator.htm`
-8. "Odds Converter" → `/sport/betting-tools/odds-calculator.htm-converter.htm`
+8. "Odds Converter" → `/sport/betting-tools/odds-converter.htm`
 
 ### Educational Guides
 9. "Betting Odds Explained" → `/sport/betting/guides/odds-explained.htm`
@@ -518,4 +529,21 @@ Target these questions from secondary keywords and user intent:
 
 **Phase 1 Status:** ✅ COMPLETE
 **Ready for Phase 2:** YES
+**V2 Compliance Status:** ✅ COMPLETE
 **Date:** December 15, 2025
+
+---
+
+## V2 COMPLIANCE CHECKLIST
+
+**Review Page Requirements:**
+- [✓] Keyword-to-Section Mapping Table: Complete (13 secondary keywords)
+- [✓] Mobile Experience Section: Specified (100-150w minimum)
+- [✓] Payment Methods Comparison: Specified (table + text)
+- [✓] Calculator Tool Links: Specified (Parlay + Odds Converter)
+- [✓] Intro Format: 100-150 words, NO forbidden patterns
+- [✓] Source Requirements: TIER 1 (Reddit, Trustpilot), TIER 2 (Official), TIER 4 warning
+- [✓] Compliance: Canada helplines, 19+ age (18+ in AB/MB/QC)
+- [✓] NO affiliate disclosure in content (website sidebar only)
+
+**V2 Standards:** FULLY COMPLIANT

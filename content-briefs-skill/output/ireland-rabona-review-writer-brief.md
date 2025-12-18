@@ -41,30 +41,33 @@ rabona casino, rabona, rabona ireland, online casino ireland, sports betting ire
 
 ---
 
-## MANDATORY INTRO FORMAT
+## MANDATORY INTRO FORMAT (V2 STANDARD)
 
-**Total: 150-200 words**
+**Total: 100-150 words**
 
 ### Structure:
-1. **Opening (50-75 words):**
+1. **Opening (100-150 words):**
    - Sentence 1: Direct answer - "Is Rabona a good casino/sportsbook for Irish players?"
    - Sentence 2-3: Key findings from testing (casino games, sports betting, bonuses)
    - Sentence 4: Authority statement
+   - Testing verification statement
 
-   - Transparency about affiliate relationships
-   - Editorial independence statement
-   - Ireland-specific context
+**⚠️ CRITICAL V2 REQUIREMENT: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The website sidebar contains the affiliate disclosure
+- Do NOT include "We may earn commission..." in article content
+- Do NOT mention affiliate relationships in introduction
+- Focus purely on brand assessment and features
 
 ### Forbidden:
 - ❌ "Welcome to..."
 - ❌ "Looking for..."
 - ❌ Rhetorical questions
-- ❌ Over 200 words total
+- ❌ Affiliate disclosure statements
+- ❌ Over 150 words total
 
 **Example Opening:**
 ```
-Rabona is a solid casino and sportsbook option for Irish players seeking extensive game variety and competitive bonuses, though it lacks the local market focus of established Irish operators. Our testing revealed 3,000+ casino games, comprehensive sports betting markets, and crypto payment support, but limited GAA coverage compared to Paddy Power or BoyleSports.
-
+Rabona is a solid casino and sportsbook option for Irish players seeking extensive game variety and competitive bonuses, though it lacks the local market focus of established Irish operators. Our testing revealed 3,000+ casino games, comprehensive sports betting markets, and crypto payment support, but limited GAA coverage compared to Paddy Power or BoyleSports. This assessment is based on direct platform testing, payment processing verification, and analysis of customer support quality across multiple sessions.
 ```
 
 ---
@@ -273,15 +276,17 @@ List 5-8 major providers: NetEnt, Pragmatic Play, Evolution Gaming, Play'n GO, e
 ---
 
 ### H2: Rabona Mobile App: iOS & Android Experience
-**Word Count:** 300-350 words
+**Word Count:** 300-350 words total (includes 100-150w Mobile Experience subsection)
 **Keywords:** rabona app, live betting
+
+**⚠️ V2 REQUIREMENT:** Mobile Experience subsection must be 100-150 words strict limit.
 
 **TIER 1 SOURCES MANDATORY:**
 - App Store: Check Rabona app listing, ratings, recent reviews
 - Google Play: Check Rabona app listing, ratings, recent reviews
 
-#### H3: App Features & Interface
-**Word Count:** 125-150 words
+#### H3: Mobile Experience (100-150 words) ⚠️ V2 REQUIRED SECTION
+**Word Count:** 100-150 words (STRICT LIMIT - V2 STANDARD)
 **Keywords:** rabona app
 
 **Cite actual ratings:**
@@ -325,9 +330,11 @@ Example: "While Rabona's mobile website is fully functional, the native app offe
 
 ---
 
-### H2: Payment Methods for Irish Players: Banking in EUR
+### H2: Payment Methods for Irish Players: Banking in EUR ⚠️ V2 REQUIRED SECTION
 **Word Count:** 250-300 words
 **Keywords:** betting sites ireland
+
+**⚠️ V2 REQUIREMENT:** Payment methods comparison table is MANDATORY for review pages.
 
 **CRITICAL:** Focus on EUR transactions and Irish bank compatibility.
 
@@ -807,14 +814,21 @@ Place these links naturally within relevant sections:
 
 ---
 
-## COMPLIANCE CHECKLIST
+## COMPLIANCE CHECKLIST (V2 STANDARDS)
 
 ✅ **Age Requirement:** 18+ for Ireland (mention prominently)
-✅ **Gambling Hotline:** Gambling Care Ireland: 1800 936 725
+✅ **Gambling Hotline:** Gamblers Anonymous Ireland: 087 744 3577 ✅ CORRECT (V2 Standard)
 ✅ **Gambling Resources:** https://www.gamblingcare.ie/
 ✅ **Responsible Gambling Section:** Required at bottom
 ✅ **NO Dated Language in H1:** Use timeless title
 ✅ **Last Updated Badge:** After H1 (AI will add)
+
+**⚠️ CRITICAL V2 COMPLIANCE:**
+- **NO AFFILIATE DISCLOSURE IN CONTENT** - Disclosure is in website sidebar only
+- **BRAND-SPECIFIC KEYWORDS ONLY** - Focus on "rabona" variations
+- **MOBILE EXPERIENCE:** 100-150 words strict limit (subsection)
+- **PAYMENT METHODS:** Comparison table required
+- **CALCULATOR LINKS:** Parlay and odds calculators must be linked
 
 ---
 

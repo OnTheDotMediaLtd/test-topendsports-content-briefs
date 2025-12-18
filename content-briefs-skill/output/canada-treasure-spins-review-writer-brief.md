@@ -68,6 +68,8 @@ Map these keywords to specific sections:
 | **blackjack** | 18,000/mo | H3 | "Table Games: Blackjack, Roulette & More" |
 | **roulette** | 11,000/mo | H3 | Same as blackjack section |
 
+**Unmapped Keywords:** NONE (all keywords assigned to specific sections)
+
 **Meta Keywords (for AI enhancement):**
 treasure spins, treasure spins casino, treasure spins review, online casino canada, best online casino canada, casino bonus, casino welcome bonus, casino free spins, mobile casino, casino app, slots, blackjack, roulette, casino bonus canada, casino promo code
 
@@ -83,9 +85,15 @@ treasure spins, treasure spins casino, treasure spins review, online casino cana
    - Quick rating/recommendation
    - Key strengths in one sentence
 
-   - Explain commission relationship
-   - Affirm editorial independence
-   - Note that recommendations serve reader's interest
+2. **Authority Statement (30-50 words):** How we evaluated
+   - Testing methodology
+   - What we examined
+   - Credentials/approach
+
+**CRITICAL: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The affiliate disclosure is in the website sidebar
+- DO NOT add any affiliate disclosure text to the article content
+- Focus on editorial independence only
 
 **FORBIDDEN PHRASES:**
 - ❌ "Welcome to..."
@@ -93,6 +101,8 @@ treasure spins, treasure spins casino, treasure spins review, online casino cana
 - ❌ "Are you wondering..."
 - ❌ "In this article, we'll..."
 - ❌ Any rhetorical questions
+- ❌ "This post contains affiliate links"
+- ❌ Any disclosure language about compensation
 
 **Example Structure:**
 ```
@@ -100,12 +110,9 @@ Treasure Spins is [verdict: good/average/below average] for Canadian players,
 offering [key strength]. We rate it [X/5] based on [primary factors].
 [One sentence on who it's best for].
 
-[Disclosure: We may earn commission from products featured on this page.
-This does not influence our editorial content. Our reviews are based on
-independent research and testing, and we only recommend products that
-serve our readers' best interests. For more information, see our
-editorial policy. 19+ in most provinces, 18+ in AB/MB/QC.
-Please gamble responsibly.]
+Our team tested Treasure Spins with real deposits to evaluate game selection,
+bonus terms, and withdrawal speeds. This review is based on independent research
+and verification of all claims.
 ```
 
 ---
@@ -294,43 +301,31 @@ Please gamble responsibly.]
 
 ---
 
-### H2: Mobile Casino Experience (400-500 words)
+### H2: Mobile Casino Experience (100-150 words) ← **V2 REQUIRED SECTION**
 **Keywords:** mobile casino (1,300/mo), casino app (800/mo)
 
 **Content Requirements:**
-1. **Mobile Browser Access:**
-   - iOS compatibility (Safari)
-   - Android compatibility (Chrome, Firefox)
-   - No download required
-   - Mobile site responsiveness
-   - Mobile game selection vs desktop
+1. **App Availability:**
+   - iOS app availability (App Store)
+   - Android app availability (Google Play)
+   - If no app: Mobile browser experience
+   - **REQUIRED: Cite App Store/Google Play ratings** - Format: "X.X/5 based on X reviews"
 
-2. **Native App (if available):**
-   - iOS app (App Store link)
-   - Android app (Google Play or APK)
-   - App size
-   - App features vs mobile browser
-   - Download and installation process
-   - **If no app exists, state this clearly**
-
-3. **Mobile Performance:**
-   - Page load times
-   - Game loading speeds
-   - Navigation ease on small screens
+2. **Mobile Performance:**
+   - Navigation and ease of use
+   - Game loading speeds and performance
    - Touchscreen optimization
-   - Portrait/landscape mode support
+   - Mobile deposit/withdrawal functionality
 
-4. **Mobile Features:**
-   - Mobile deposit/withdrawal
-   - Mobile bonuses
-   - Mobile customer support
-   - Notifications/alerts
-   - Mobile-exclusive promotions
+3. **Mobile Features:**
+   - Game selection on mobile vs desktop
+   - Mobile-exclusive promotions if any
+   - Push notifications
 
-5. **Testing Notes:**
-   - Devices tested if possible
-   - Any issues encountered
-   - Overall mobile experience rating
+4. **Source Requirements:**
+   - **TIER 1:** App Store ratings (cite exact rating and review count)
+   - **TIER 1:** Google Play ratings (cite exact rating and review count)
+   - **TIER 1:** Reddit user feedback on mobile experience
 
 **Internal link:** "mobile casino apps" → /sport/betting/canada/mobile-casino-apps.htm
 
@@ -410,6 +405,37 @@ Please gamble responsibly.]
 - **Withdrawal tips:**
   - How to speed up withdrawals
   - Best withdrawal methods for Canadians
+
+---
+
+### H2: Casino Tools & Calculators (150-200 words)
+
+**Content Requirements:**
+- Introduction to useful betting tools for casino players
+- Link to relevant calculators on TopEndSports
+
+**Calculator Integration:**
+
+**Parlay/Accumulator Calculator:**
+```
+Planning multiple bets? Our [parlay calculator](https://www.topendsports.com/sport/betting-tools/parlay-calculator.htm)
+helps you calculate potential returns for any combination of wagers.
+```
+
+**Odds Converter:**
+```
+Convert between American, Decimal, and Fractional odds with our
+[odds converter tool](https://www.topendsports.com/sport/betting-tools/odds-converter.htm).
+```
+
+**Other Useful Tools:**
+- [Implied Probability Calculator](https://www.topendsports.com/sport/betting-tools/odds-calculator.htm) - Understand true odds
+- [Betting Unit Calculator](https://www.topendsports.com/sport/betting-tools/unit-calculator.htm) - Manage your bankroll effectively
+
+**Placement Notes:**
+- Include 1-2 calculator links naturally in context
+- Focus on tools that add genuine value for casino players
+- Brief explanation (1 sentence) of what each calculator does
 
 ---
 
@@ -880,12 +906,20 @@ Map FAQs to target keywords for SEO:
 - Importance of gambling responsibly
 - Warning signs of problem gambling
 - Self-help tools available at Treasure Spins
-- **Canadian Resources:**
-  - **Responsible Gambling Council:** https://www.responsiblegambling.org/ (MUST include)
-  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
-  - **Provincial helplines:** Vary by location - see provincial gambling authorities
-  - Gamblers Anonymous: https://www.gamblersanonymous.org/
-  - Provincial resources by location
+- **Pan-Canadian Resources (MUST INCLUDE):**
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/ (Primary Canadian resource)
+  - **Canadian Centre on Substance Use and Addiction (CCSA):** https://www.ccsa.ca/
+
+**Provincial Helplines:**
+  - **Ontario:** ConnexOntario 1-866-531-2600
+  - **British Columbia:** 1-888-795-6111
+  - **Alberta:** 1-866-332-2322
+  - **Quebec:** 1-800-461-0140
+  - **Manitoba:** Problem Gambling Helpline
+  - **Other provinces:** See provincial gambling authorities
+
+**Additional Resources:**
+- Gamblers Anonymous: https://www.gamblersanonymous.org/
 - Age restrictions reminder (19+/18+)
 - Encouragement to set limits and seek help if needed
 
@@ -961,13 +995,15 @@ Include these internal links naturally within content:
 
 ---
 
-## COMPLIANCE CHECKLIST
+## COMPLIANCE CHECKLIST (V2 STANDARDS)
 
 Before submitting, ensure ALL of these are included:
 
 - [ ] Age requirement: "19+ in most provinces, 18+ in Alberta, Manitoba, Quebec"
-- [ ] Pan-Canadian gambling resources: **Responsible Gambling Council and CCSA**
-- [ ] Responsible Gambling Council link
+- [ ] **Pan-Canadian gambling resources: Responsible Gambling Council and CCSA (prominently featured)**
+- [ ] Responsible Gambling Council link: https://www.responsiblegambling.org/
+- [ ] CCSA link: https://www.ccsa.ca/
+- [ ] Provincial helplines listed (ConnexOntario 1-866-531-2600 for Ontario)
 - [ ] Responsible gambling section at end
 - [ ] All amounts in CAD (never USD)
 - [ ] Interac prominently mentioned in payment section
@@ -976,6 +1012,8 @@ Before submitting, ensure ALL of these are included:
 - [ ] Letter badge: TRS (#FFD700)
 - [ ] No dated language in H1
 - [ ] 12 internal links included naturally
+- [ ] **Mobile Experience section: 100-150 words with App Store/Google Play ratings**
+- [ ] **NO affiliate disclosure in content** (it's in website sidebar only)
 
 ---
 

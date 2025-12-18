@@ -18,6 +18,15 @@
 
 ---
 
+## COMPLIANCE
+
+- **Age:** 18+
+- **GamCare Helpline:** 0808 8020 133
+- **BeGambleAware:** www.begambleaware.org
+- **NO affiliate disclosure in content** (it's in website sidebar)
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 Map ALL 15 secondary keywords to specific sections:
@@ -102,15 +111,17 @@ Last Updated: December 15, 2025
 
 ---
 
-### Introduction (200 words)
+### Introduction (100-150 words)
 **Keywords:** 22bet review, 22bet
 
 **Required Elements:**
 1. Direct answer opening (40-50 words) - What is 22bet?
-3. Quick overview of 22bet's position in UK market
-4. Key differentiators preview
+2. Quick overview of 22bet's position in UK market
+3. Key differentiators preview
 
 **Tone:** Professional, balanced, immediately useful
+
+**Note:** MUST stay within 100-150 word limit (V2 requirement)
 
 ---
 
@@ -261,6 +272,33 @@ Last Updated: December 15, 2025
 
 **Source Required:** Google Play reviews, Reddit user feedback
 
+#### H3: 22bet Mobile Experience (100-150 words)
+
+**V2 REQUIRED SECTION - Cover mobile-specific UX beyond app features:**
+
+**Interface & Navigation:**
+- Touch responsiveness and gesture controls
+- Menu structure and ease of navigation
+- Bet slip functionality (swipes, taps)
+- Bottom menu bar or navigation pattern
+
+**Performance Across Devices:**
+- iOS vs Android experience differences
+- Performance on older devices (specify models tested)
+- Battery usage (estimate % drain per hour)
+- Data consumption
+
+**Mobile-Specific Features:**
+- Push notification functionality and customization
+- Mobile-exclusive features not on desktop
+- Offline capabilities (if any)
+- Biometric login (Face ID, fingerprint)
+
+**Sources:**
+- TIER 1: Reddit threads about mobile experience
+- TIER 1: App Store reviews mentioning performance/usability
+- TIER 1: Google Play reviews about navigation/interface
+
 **Internal Link:** [betting apps UK](/sport/betting/uk/betting-apps.htm)
 
 ---
@@ -338,16 +376,27 @@ Last Updated: December 15, 2025
 
 **Phase 3 will format as interactive table**
 
-#### H3: Payment Methods Comparison Table (100 words)
+#### H3: Payment Methods Comparison Table (200 words)
+
+**V2 REQUIRED: Complete payment comparison with actual data**
 
 **Provide payment method data in markdown format below (Phase 3 will create interactive table):**
 
-| Method | Deposit Time | Withdrawal Time | Fees | Min/Max |
-|--------|--------------|-----------------|------|---------|
-| Visa/Mastercard | Instant | 1-3 days | £0 | £X / £X |
-| Skrill | Instant | 0-24 hours | £0 | £X / £X |
-| Bitcoin | 10-30 min | 0-1 hour | Network fee | £X / £X |
-| Bank Transfer | 1-3 days | 3-5 days | £0 | £X / £X |
+| Method | Deposit Time | Withdrawal Time | Fees | Min Deposit | Max Deposit | Min Withdrawal |
+|--------|--------------|-----------------|------|-------------|-------------|----------------|
+| Visa/Mastercard | Instant | 1-3 days | £0 | £1 | £5,000 | £10 |
+| Skrill | Instant | 0-24 hours | £0 | £1 | £5,000 | £10 |
+| Neteller | Instant | 0-24 hours | £0 | £1 | £5,000 | £10 |
+| Bitcoin | 10-30 min | 0-1 hour | Network fee | £10 | £10,000 | £10 |
+| Ethereum | 10-30 min | 0-1 hour | Network fee | £10 | £10,000 | £10 |
+| Bank Transfer | 1-3 days | 3-5 days | £0 | £1 | £10,000 | £10 |
+
+**Additional Content (2 paragraphs):**
+1. **Fastest Methods:** E-wallets (Skrill, Neteller) and cryptocurrency offer the fastest withdrawal times (0-24 hours for e-wallets, under 1 hour for crypto). Cards take 1-3 days, while bank transfers can take up to 5 days.
+
+2. **Verification Requirements:** First withdrawal requires KYC verification (ID, proof of address). This process can take 24-48 hours. After initial verification, subsequent withdrawals are faster.
+
+**Note:** Actual limits may vary - verify from 22bet official banking page. Update table with confirmed data.
 
 **Internal Link:** [payment methods guide](/sport/betting/uk/index.htm)
 
@@ -434,6 +483,35 @@ Last Updated: December 15, 2025
 7. **Withdrawal Speeds:** Slower than UKGC-licensed competitors for certain methods
 
 **Tone:** Honest, balanced. Do NOT sugarcoat cons. Provide context.
+
+---
+
+### H2: Calculator Tools for 22bet Bettors (150 words)
+
+**V2 REQUIRED SECTION - Link to TopEndSports betting calculators**
+
+**Introduction (50 words):**
+Explain how betting calculators can help 22bet users understand potential returns and make smarter betting decisions.
+
+**Calculator Links:**
+
+1. **[Parlay Calculator](/sport/betting/tools/parlay-calculator.htm)**
+   - Calculate multi-leg accumulator payouts
+   - Essential for combining multiple 22bet markets
+   - Instantly see potential returns
+
+2. **[Odds Converter](/sport/betting/tools/odds-converter.htm)**
+   - Convert between Decimal, Fractional, and American odds
+   - 22bet displays multiple formats
+   - Understand odds in your preferred format
+
+3. **[Implied Probability Calculator](/sport/betting/tools/probability-calculator.htm)**
+   - Convert odds to win probability
+   - Identify value bets
+   - Compare 22bet odds to true probability
+
+**Usage Example (50 words):**
+"Planning a 3-leg Premier League accumulator on 22bet? Use our parlay calculator to see your potential return before placing the bet. Simply enter the odds for each selection and your stake amount."
 
 ---
 
@@ -639,14 +717,29 @@ Use for features and factual verification only:
 - Recommendations
 - User experiences
 
-Affiliate sites can be used for research only, never cited in final content.
+### TIER 4 - USE SPARINGLY
+
+**Affiliate Sites (Research Gaps Only):**
+- Use ONLY when TIER 1/2 sources don't cover specific information
+- ❌ NEVER cite for pros/cons, ratings, or recommendations
+- ❌ NEVER use as primary source
+- ✅ OK for: Obscure feature verification, historical information
+- **Citation format:** "According to industry sources..." (no direct site naming)
+
+**When to use TIER 4:**
+- Filling gaps in technical specifications
+- Historical brand information not on official site
+- Feature comparisons where Reddit/App Store don't provide data
+
+**CRITICAL:** Affiliate sites should represent <10% of total sources. Prioritize TIER 1 always.
 
 ---
 
-## INTERNAL LINKS (12 REQUIRED)
+## INTERNAL LINKS (15 REQUIRED)
 
 Place these contextually within the content:
 
+### Standard Internal Links (12):
 1. [best betting sites UK](/sport/betting/uk/index.htm) - Introduction
 2. [football betting odds](/sport/betting/uk/football-betting-sites.htm) - Betting Markets
 3. [betting apps UK](/sport/betting/uk/betting-apps.htm) - Mobile App
@@ -660,6 +753,11 @@ Place these contextually within the content:
 11. [betting strategies](/sport/betting/guides/parlay.htm) - Final Verdict
 12. [sports betting glossary](/sport/betting/guides/betting-glossary.htm) - FAQ section
 
+### V2 Required Calculator Links (3):
+13. [Parlay Calculator](/sport/betting/tools/parlay-calculator.htm) - Calculator Tools section
+14. [Odds Converter](/sport/betting/tools/odds-converter.htm) - Calculator Tools section
+15. [Implied Probability Calculator](/sport/betting/tools/probability-calculator.htm) - Calculator Tools section
+
 **Note:** Integrate naturally. Do NOT force links. Anchor text should flow with surrounding content.
 
 ---
@@ -668,6 +766,14 @@ Place these contextually within the content:
 
 Before submitting content, verify:
 
+### V2 Requirements:
+- [ ] **Introduction: 100-150 words** (V2 standard, NOT 200 words)
+- [ ] **Mobile Experience subsection** (100-150w) included
+- [ ] **Payment Methods Comparison** with complete data (no placeholders)
+- [ ] **Calculator Tool Links** section included (3 calculators minimum)
+- [ ] **TIER 4 source warning** acknowledged in source requirements
+
+### Standard Compliance:
 - [ ] Age requirement stated as **18+** (UK market, not 21+)
 - [ ] UK Gambling Helpline included: **0808 8020 133**
 - [ ] BeGambleAware.org link in Responsible Gambling section
@@ -678,11 +784,12 @@ Before submitting content, verify:
 - [ ] Licensing transparency (Curacao vs UKGC clearly explained)
 - [ ] All 15 secondary keywords mapped to sections
 - [ ] 10 FAQs included with keyword targeting
-- [ ] 12 internal links placed contextually
+- [ ] 15 internal links placed contextually (12 standard + 3 calculator)
 - [ ] Tier 1 sources cited (App Store, Google Play, Reddit)
 - [ ] Word count: 3,500-4,000 words
 - [ ] Pros and cons balanced (5-7 each)
 - [ ] Responsible gambling section at bottom
+- [ ] NO affiliate disclosure in content (it's in website sidebar)
 
 ---
 

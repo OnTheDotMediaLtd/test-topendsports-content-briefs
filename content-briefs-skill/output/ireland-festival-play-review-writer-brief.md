@@ -51,17 +51,20 @@
 
 ## MANDATORY INTRO FORMAT
 
-**Total Length:** 200-250 words maximum
+**Total Length:** 100-150 words maximum
 
 **Structure:**
-1. **Opening (50-75 words):** Direct answer with key information
+1. **Opening (100-150 words):** Direct answer with key information
    - Sentence 1: What is Festival Play?
    - Sentence 2-3: Key features (38+ sports, Curacao license, crypto payments)
    - Sentence 4: Who it's best for
+   - Authority statement about testing/verification
 
-   - "We may earn commission from links on this page..."
-   - Mention testing methodology
-   - Emphasize transparency
+**⚠️ CRITICAL V2 REQUIREMENT: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The website sidebar contains the affiliate disclosure
+- Do NOT include "We may earn commission..." in article content
+- Do NOT mention affiliate relationships in introduction
+- Focus purely on brand assessment and features
 
 **Example Opening:**
 ```
@@ -69,8 +72,8 @@ Festival Play is a Curacao-licensed sportsbook offering 38+ sports markets to Ir
 players, including football, GAA, rugby, and eSports betting. Operated by NewEra B.V.,
 it accepts cryptocurrency payments with 24-hour withdrawals and features a unique
 Early Payout option. While it lacks an Irish GRAI license and native mobile app,
-Festival Play suits players seeking sports variety and crypto payment options.
-
+Festival Play suits players seeking sports variety and crypto payment options. Our
+testing verified these features across multiple sessions.
 ```
 
 **Forbidden:**
@@ -78,7 +81,8 @@ Festival Play suits players seeking sports variety and crypto payment options.
 - ❌ "Looking for information about Festival Play?"
 - ❌ "Are you wondering if Festival Play is right for you?"
 - ❌ Any rhetorical questions
-- ❌ Over 250 words total
+- ❌ Affiliate disclosure statements
+- ❌ Over 150 words total
 
 ---
 
@@ -193,6 +197,11 @@ Festival Play suits players seeking sports variety and crypto payment options.
 - Link to "rugby betting Ireland"
 - Link to "horse racing betting Ireland"
 
+**⚠️ V2 REQUIRED: Calculator Tool Links**
+- Link to "parlay calculator" → `/sport/betting-tools/parlay-calculator.htm`
+- Link to "odds calculator" → `/sport/betting-tools/odds-calculator.htm`
+- Context: Mention when discussing accumulator bets or betting markets
+
 ---
 
 ### H2: Festival Play Bonus: 100% Up to €100 Welcome Offer
@@ -239,9 +248,11 @@ Festival Play suits players seeking sports variety and crypto payment options.
 
 ---
 
-### H2: Festival Play Payment Methods: Crypto & Traditional Options
+### H2: Festival Play Payment Methods: Crypto & Traditional Options ⚠️ V2 REQUIRED SECTION
 **Word Count:** 200-250 words
 **Keywords:** festival play payment methods, festival play withdrawal
+
+**⚠️ V2 REQUIREMENT:** Payment methods comparison table is MANDATORY for review pages.
 
 **Subsections:**
 
@@ -305,15 +316,15 @@ Festival Play suits players seeking sports variety and crypto payment options.
 ---
 
 ### H2: Festival Play App: Mobile-Optimized Website Review
-**Word Count:** 350-400 words
+**Word Count:** 300-350 words total (includes 100-150w Mobile Experience subsection)
 **Keywords:** festival play app
 
 **⚠️ CRITICAL: NO NATIVE APP EXISTS**
 
 **Subsections:**
 
-#### H3: No Native App - Mobile Web Experience
-**Word Count:** 120-150 words
+#### H3: Mobile Experience (100-150 words) ⚠️ V2 REQUIRED SECTION
+**Word Count:** 100-150 words (STRICT LIMIT - V2 STANDARD)
 
 **Key Points:**
 - ❌ NO iOS app (not in App Store)
@@ -866,12 +877,19 @@ Festival Play targets Irish players who:
 
 ---
 
-## COMPLIANCE REQUIREMENTS
+## COMPLIANCE REQUIREMENTS (V2 STANDARDS)
 
 ### Age & Responsible Gambling:
 - **Age:** 18+ (Ireland)
-- **Helpline:** Gamblers Anonymous Ireland: 087 744 3577
+- **Helpline:** Gamblers Anonymous Ireland: 087 744 3577 ✅ CORRECT (V2 Standard)
 - **Responsible Gambling Section:** Required at bottom (75-100 words)
+
+### ⚠️ CRITICAL V2 COMPLIANCE:
+- **NO AFFILIATE DISCLOSURE IN CONTENT** - Disclosure is in website sidebar only
+- **BRAND-SPECIFIC KEYWORDS ONLY** - Focus on "festival play" variations, not generic "free bets"
+- **MOBILE EXPERIENCE:** 100-150 words strict limit
+- **PAYMENT METHODS:** Comparison table required
+- **CALCULATOR LINKS:** Parlay and odds calculators must be linked
 
 ### Regulatory Context:
 - **Irish Law:** Gambling Regulation Act 2024

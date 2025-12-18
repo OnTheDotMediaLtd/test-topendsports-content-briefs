@@ -91,7 +91,7 @@ High-volume transactional keywords show user intent:
 |--------|---------------|---------------|
 | Age | 18+ | 21+ (18+ in MT, NH, RI, WY, DC) |
 | Regulator | UK Gambling Commission | State-by-state |
-| Helpline | 0808 8020 133 | 1-800-522-4700 |
+| Helpline | GamCare: 0808 8020 133 | 1-800-522-4700 |
 | Self-Exclusion | GamStop | State programs |
 | Support Org | BeGambleAware.org | NCPG |
 | Credit Cards | BANNED since April 2020 | Allowed |
@@ -114,7 +114,7 @@ High-volume transactional keywords show user intent:
 
 ## CONTENT SECTIONS BREAKDOWN
 
-### Mandatory Sections (11 Total)
+### Mandatory Sections (12 Total - V2 Updated)
 
 1. **Introduction** (150 words)
    - Keywords: bet442, bet442 review
@@ -166,14 +166,21 @@ High-volume transactional keywords show user intent:
    - Minimum/maximum limits
    - Note on credit card ban
 
-8. **Customer Support** (200 words)
+8. **Betting Calculators & Tools** (200 words) **[V2 MANDATORY]**
+   - Odds calculator link
+   - Accumulator calculator link
+   - Betting margin calculator link
+   - How calculators improve strategy
+   - Bet442-specific tools (if available)
+
+9. **Customer Support** (200 words)
    - Live chat availability
    - Email support
    - Phone support (UK number)
    - Help center quality
    - Response time testing
 
-9. **Pros & Cons** (250 words)
+10. **Pros & Cons** (250 words)
    - Keywords: bet442 review
    - Balanced assessment
    - Citations from Trustpilot reviews
@@ -181,7 +188,7 @@ High-volume transactional keywords show user intent:
    - Areas for improvement
    - Comparison to major UK bookmakers
 
-10. **FAQs** (600 words, 7+ questions)
+11. **FAQs** (600 words, 7+ questions)
     - Is Bet442 legit? (licensing verification)
     - How do I register with Bet442?
     - What is the Bet442 promo code?
@@ -190,14 +197,14 @@ High-volume transactional keywords show user intent:
     - What payment methods does Bet442 accept?
     - How long do Bet442 withdrawals take?
 
-11. **Responsible Gambling** (150 words)
+12. **Responsible Gambling** (150 words)
     - GamStop self-exclusion program
     - BeGambleAware.org resources
-    - UK National Gambling Helpline: 0808 8020 133
+    - GamCare Helpline: 0808 8020 133
     - Deposit limits and tools
     - Age verification (18+)
 
-**Total Estimated Words:** 3,350 words
+**Total Estimated Words:** 3,550 words (V2 includes calculator section)
 
 ---
 
@@ -247,8 +254,9 @@ High-volume transactional keywords show user intent:
 
 ---
 
-## INTERNAL LINKS (8 Planned)
+## INTERNAL LINKS (15 Planned - V2 Updated)
 
+**Hub & Context Links:**
 1. "best UK betting sites" → /sport/betting/uk/index.htm
 2. "bet365 review" → /sport/betting/uk/22bet-review.htm
 3. "UK betting sites" → /sport/betting/uk/
@@ -257,6 +265,15 @@ High-volume transactional keywords show user intent:
 6. "betting bonuses UK" → /sport/betting/uk/bonuses.htm
 7. "how to bet online UK" → /sport/betting/uk/how-to-bet-online.htm
 8. "UK betting license guide" → /sport/betting/uk/licensing.htm
+9. "William Hill review" → /sport/betting/uk/bet442-review.htm
+10. "Ladbrokes review" → /sport/betting/uk/nrgbet-review.htm
+11. "horse racing betting UK" → /sport/betting/uk/horse-racing.htm
+12. "live betting UK" → /sport/betting/uk/live-betting.htm
+
+**Calculator Tool Links (V2 MANDATORY):**
+13. "odds calculator" → /sport/calculators/odds-calculator.htm
+14. "accumulator calculator" → /sport/calculators/accumulator-calculator.htm
+15. "betting margin calculator" → /sport/calculators/betting-margin-calculator.htm
 
 ---
 
@@ -266,12 +283,13 @@ High-volume transactional keywords show user intent:
 |---------|---------------|-------------|
 | Age requirement | 18+ | 21+ (18+ in 5 jurisdictions) |
 | Regulator | UK Gambling Commission | State commissions |
-| Helpline | 0808 8020 133 | 1-800-522-4700 |
+| Helpline | GamCare: 0808 8020 133 | 1-800-522-4700 |
 | Self-exclusion | GamStop | State programs |
 | Support org | BeGambleAware | NCPG |
 | Payment | Debit cards only | Credit + debit allowed |
 | Market structure | National license | State-by-state |
 | Brand landscape | bet365, William Hill, Ladbrokes | FanDuel, DraftKings, BetMGM |
+| Calculator links | Required (V2) | Required (V2) |
 
 ---
 

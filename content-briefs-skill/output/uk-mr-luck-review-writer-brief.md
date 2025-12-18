@@ -69,9 +69,7 @@
    - Sentence 2: Quick verdict on casino-first focus
    - Sentence 3: Star rating (3.5-4.0 expected)
 
-   - Standard disclosure: "We may earn commission from brands featured..."
-   - Mention editorial independence
-   - Link to full disclosure page
+**NO affiliate disclosure in intro** (it's in website sidebar, NOT in content)
 
 ### Keywords to Include:
 - "mr luck"
@@ -199,19 +197,18 @@
 
 ---
 
-### H2: Mobile Experience & App Review (300-350 words)
+### H2: Mobile Experience (100-150 words)
 **Keywords:** None (but important for user experience)
 
 **Required Content:**
-- iOS app availability (App Store link)
-- Android app availability (Google Play link)
-- **MUST CITE:** App Store ratings (e.g., "4.5/5 from 12,000 reviews")
-- **MUST CITE:** Google Play ratings (e.g., "4.3/5 from 8,500 reviews")
+- iOS app availability status (App Store link)
+- Android app availability status (Google Play link)
+- **MUST CITE:** App Store ratings if app exists (e.g., "4.5/5 from 12,000 reviews")
+- **MUST CITE:** Google Play ratings if app exists (e.g., "4.3/5 from 8,500 reviews")
 - Mobile browser alternative (if no app or as backup)
 - User interface quality and navigation
-- Feature parity with desktop (are all sports markets available?)
-- Performance and reliability (loading times, crashes)
-- App size and device requirements
+- Key mobile features
+- Performance and reliability
 
 **Sources Required:**
 - App Store data (actual ratings and review count)
@@ -502,7 +499,7 @@
 
 **Required Content (UK-Specific):**
 - Age requirement: **18+ only**
-- National Gambling Helpline: **0808 8020 133** (free, confidential)
+- GamCare: **0808 8020 133** (free, confidential)
 - Responsible gambling organizations:
   - **GamCare:** [https://www.gamcare.org.uk/](https://www.gamcare.org.uk/)
   - **BeGambleAware.org:** [https://www.begambleaware.org/](https://www.begambleaware.org/)
@@ -515,6 +512,8 @@
 - Link to Mr Luck responsible gambling page
 
 **Tone:** Serious, supportive, emphasize help is available.
+
+**CRITICAL:** NO affiliate disclosure in content (it's in website sidebar)
 
 ---
 
@@ -546,12 +545,14 @@ Trustpilot: "Customer support responded in 10 minutes" (review by John D., verif
 
 ---
 
-## INTERNAL LINKS (12 REQUIRED)
+## INTERNAL LINKS & CALCULATOR TOOLS (12 REQUIRED)
+
+### Internal Links
 
 | Anchor Text | Target URL | Context Section |
 |-------------|-----------|-----------------|
 | best UK betting sites | `/sport/betting/uk/index.htm` | Introduction or overview |
-| UK betting apps | `/sport/betting/uk/betting-apps.htm` | Mobile app section |
+| UK betting apps | `/sport/betting/uk/betting-apps.htm` | Mobile Experience section |
 | UK betting bonuses | `/sport/betting/uk/betting-offers.htm` | Welcome bonus section |
 | PayPal betting sites | `/sport/betting/uk/index.htm` | Payment methods section |
 | fast withdrawal betting sites | `/sport/betting/uk/index.htm` | Withdrawal times section |
@@ -561,7 +562,13 @@ Trustpilot: "Customer support responded in 10 minutes" (review by John D., verif
 | online casino reviews | `/sport/betting/uk/index.htm` | Casino crossover mention (if page exists) |
 | responsible gambling tools | `/sport/betting/responsible-gambling.htm` | Responsible gambling section |
 | [Sister site name] review | Internal link (if exists) | Sister sites section |
-| betting calculator | `/sport/betting-tools/odds-calculator.htm-calculator.htm` | Natural mention in content |
+
+### Calculator Tool Links (Required)
+
+Link to these calculator tools naturally in relevant sections:
+
+- **Odds Calculator** → `/sport/betting/tools/odds-calculator.htm` (Betting features section)
+- **Accumulator Calculator** → `/sport/betting/tools/accumulator-calculator.htm` (If accumulators mentioned)
 
 **Placement:** Distribute naturally throughout content. Use exact anchor text for SEO.
 

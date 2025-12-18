@@ -124,12 +124,13 @@ Since Lizaro has minimal direct search volume, we analyzed similar brand review 
 - H3: Payment Methods & Withdrawals (150 words)
 - H3: Customer Support (100 words)
 
-**Section 4: Mobile Experience** (300 words)
+**Section 4: Mobile Experience** (100-150 words)
+- App Store and Google Play ratings (required)
 - Mobile platform (app vs browser-based)
 - Navigation and ease of use
 - Sports betting on mobile
 - Casino games performance
-- Live betting features
+- Reddit user feedback on mobile experience
 
 **Section 5: Detailed Bonus Breakdown** (300 words)
 - Welcome bonus specifics

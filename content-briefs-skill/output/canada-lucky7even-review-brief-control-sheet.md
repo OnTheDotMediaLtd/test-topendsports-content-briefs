@@ -1,8 +1,19 @@
 # BRIEF CONTROL SHEET: Lucky7even Sport Review (Canada)
 
 **Generated:** December 15, 2025
+**Updated:** December 17, 2025 (V2 Standards Applied)
 **Phase:** 1 (Research & Discovery)
 **Market:** Canada
+
+---
+
+## V2 UPDATES APPLIED
+
+✅ **Calculator Tool Links:** Added to content requirements
+✅ **Mobile Experience:** Already included (350-400 words)
+✅ **Source Tiers:** Updated TIER 3 → TIER 4 with affiliate warning
+✅ **Intro Format:** Removed affiliate disclosure (in sidebar)
+✅ **Internal Links:** Updated with calculator links (12 total)
 
 ---
 
@@ -14,7 +25,7 @@
 | **Writer** | Tom Goldsmith |
 | **Priority** | High |
 | **Template** | Template 1 (Brand Review) |
-| **Word Count** | 3,500-4,000 words |
+| **Word Count** | 3,700-4,200 words (updated for Calculator Tools) |
 | **Market** | Canada |
 | **Age Requirement** | 19+ (18+ in AB, MB, QC) |
 
@@ -147,6 +158,13 @@ Based on site structure, similar Canadian brand reviews include:
   - Key features
   - Performance testing
   - Download links with App Store badges
+
+- [x] **Betting Calculators & Tools** (200-250 words)
+  - Casino bonus calculator link
+  - Parlay calculator (if sports betting available)
+  - Odds calculator
+  - Usage examples and scenarios
+  - Free tool access
 
 - [x] **Detailed Bonus Breakdown** (300-350 words)
   - Welcome bonus exact details
@@ -318,13 +336,13 @@ Based on site structure, similar Canadian brand reviews include:
 | Anchor Text | URL | Relevance |
 |-------------|-----|-----------|
 | best online casinos Canada | /sport/betting/canada/best-online-casinos.htm | Main comparison |
-| Canada sports betting sites | /sport/betting/canada/best-sports-betting-sites.htm | If sports available |
-| casino bonus calculator | /sport/betting/calculators/bonus-calculator.htm | Tool integration |
+| Canada sports betting sites | /sport/betting/canada/best-sports-betting-sites.htm | If sports unavailable |
+| casino bonus calculator | /sport/betting/calculators/bonus-calculator.htm | Calculator Tools section |
+| parlay calculator | /sport/betting-tools/parlay-calculator.htm | Calculator Tools section |
+| odds calculator | /sport/betting-tools/odds-calculator.htm | Calculator Tools section |
 | responsible gambling Canada | /sport/betting/canada/responsible-gambling.htm | Compliance |
-| how to claim casino bonus | /sport/betting/how-to/claim-casino-bonus.htm | Related guide |
-| Ontario online casinos | /sport/betting/canada/ontario-casinos.htm | Province-specific |
-| Alberta gambling sites | /sport/betting/canada/alberta-casinos.htm | Province-specific |
-| Quebec casinos | /sport/betting/canada/quebec-casinos.htm | Province-specific |
+| best betting apps Canada | /sport/betting/canada/betting-apps.htm | Mobile section |
+| new betting sites Canada | /sport/betting/canada/new-betting-sites.htm | Alternatives section |
 | Treasure Spins review | /sport/betting/canada/treasurespins-review.htm | Competitor brand |
 | Royalistplay review | /sport/betting/canada/royalistplay-review.htm | Competitor brand |
 | Wyns review | /sport/betting/canada/wyns-review.htm | Competitor brand |
@@ -353,17 +371,21 @@ Based on site structure, similar Canadian brand reviews include:
 
 **Usage:** Verify features, licensing status, province availability
 
-### Tier 3 (Facts)
+### Tier 4 (Sparingly - Use Only When Necessary)
+
+**⚠️ WARNING:** Use affiliate sites ONLY for research gaps where TIER 1 and TIER 2 sources lack information.
 
 **Industry Data:**
 - Canadian gambling industry reports
 - Payment processor information (Interac, etc.)
-
-**Usage:** Market context, payment method details
+- Affiliate site content: ONLY for filling factual gaps
 
 ### Forbidden Sources
 
 ❌ **DO NOT cite affiliate sites** for pros/cons (competitors like casino.org, etc.)
+❌ **DO NOT use competitor reviews as primary sources**
+❌ **DO NOT cite unverified user comments**
+❌ **DO NOT fabricate ratings or review counts**
 
 ---
 

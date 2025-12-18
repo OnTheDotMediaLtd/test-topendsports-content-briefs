@@ -457,13 +457,11 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 
 - [ ] **Age Verification:** "18+ only" prominent display
 - [ ] **Licensing:** All 7 operators' UKGC license numbers verified and displayed
-- [ ] **Helpline:** National Gambling Helpline (0808 8020 133) in footer and responsible gambling section
+- [ ] **Helpline:** GamCare (0808 8020 133) in footer and responsible gambling section
 - [ ] **Self-Exclusion:** GamStop integration links + explanation of impact on free bet eligibility
 - [ ] **T&Cs Transparency:** "T&Cs apply" on all bonus mentions, link to operator's full terms
 - [ ] **No Misleading Claims:** Avoid "risk-free", "guaranteed", "free money" language (ASA rules)
-
-**Required Text (Introduction):**
-"We may earn commission from operators featured on this page. This does not influence our rankings, which are based on independent research, real user feedback, and UKGC compliance verification. 18+. BeGambleAware.org"
+- [ ] **NO Affiliate Disclosure in Content:** All affiliate disclosures are in the website sidebar (NOT in article content)
 
 ### Responsible Gambling Section (Footer)
 
@@ -471,7 +469,7 @@ Unlike competitors who list maximum offers, we transparently calculate real valu
 - GamStop logo + link (www.gamstop.co.uk)
 - GamCare logo + link (www.gamcare.org.uk)
 - BeGambleAware logo + link (www.begambleaware.org)
-- National Gambling Helpline: 0808 8020 133
+- GamCare: 0808 8020 133 (24/7, free, confidential)
 - "When the fun stops, stop" messaging
 
 ### Legal Requirements (Gambling Act 2005)

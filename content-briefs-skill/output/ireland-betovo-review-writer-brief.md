@@ -47,14 +47,18 @@ betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, 
 **Total: 250 words (includes disclosure)**
 
 **Structure:**
-1. **Opening (40-50 words):** Direct answer - Is Betovo worth joining for Irish bettors? Lead with conclusion.
-2. **Market Context (100 words):** Position Betovo in Irish sports betting market. Reference "sports betting ireland" and "online betting ireland" naturally.
+1. **Opening (100-150 words total):** Direct answer - Is Betovo worth joining for Irish bettors? Lead with conclusion.
+   - First sentence: Clear verdict on Betovo
+   - Key USPs: Bet Mentor tool, zero-margin markets, crypto support
+   - Market positioning in Ireland betting landscape
+2. **NO affiliate disclosure** (it's in website sidebar)
 
 **Forbidden:**
 - ❌ "Welcome to our Betovo review..."
 - ❌ "Looking for a new betting site?"
 - ❌ Rhetorical questions
 - ❌ "Betovo Review 2025" or any dated language in H1
+- ❌ Affiliate disclosure in intro
 
 ---
 
@@ -371,8 +375,8 @@ Link to "Irish betting apps" comparison page.
 
 **Cover:**
 - 18+ age requirement (Ireland)
-- Problem Gambling Ireland contact
-- Gamblers Anonymous Ireland
+- **Gamblers Anonymous Ireland:** 087 744 3577
+- Problem Gambling Ireland: https://www.problemgambling.ie/
 - Self-exclusion tools on Betovo
 - Deposit limits
 - Time-out options

@@ -68,9 +68,10 @@ funbet, funbet sport, funbet casino, funbet review, funbet bonus, funbet promo c
    - "Funbet Sport is a [description] online sportsbook and casino for Canadian players..."
    - Include authority statement about testing sports betting features
 
-   - Standard disclosure language
-   - Commission structure
-   - Editorial independence statement
+2. **Value proposition (60-100 words):** What makes Funbet unique
+   - Sports betting focus with casino offerings
+   - Canadian market specifics
+   - Key differentiators
 
 **❌ FORBIDDEN:**
 - "Welcome to..."
@@ -78,6 +79,7 @@ funbet, funbet sport, funbet casino, funbet review, funbet bonus, funbet promo c
 - Rhetorical questions
 - Over 150 words total
 - Dated language like "2025" or "December"
+- **NO AFFILIATE DISCLOSURE** (it's in website sidebar, not content)
 
 ---
 
@@ -860,10 +862,13 @@ Create comprehensive FAQ answers targeting these keywords:
 **Problem Gambling Help:**
 - **Responsible Gambling Council:** https://www.responsiblegambling.org/
 - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
+- **ConnexOntario Helpline:** 1-866-531-2600 (Ontario problem gambling support)
 - **Provincial helplines vary by location**
 - Available 24/7, free, confidential
 - Trained counselors available
 - Referral to local services
+
+**NO affiliate disclosure in content (it's in website sidebar)**
 
 **Self-Help Tools Available on Funbet:**
 - Self-exclusion options (temporary or permanent)
@@ -988,7 +993,15 @@ Include these 12 internal links naturally throughout content:
 - Canadian gambling industry reports
 - Payment processor documentation
 
-### FORBIDDEN:
+### TIER 4 (FORBIDDEN - DO NOT USE):
+
+- ❌ Affiliate review sites (gamblingsites.com, casino.guru, askgamblers)
+- ❌ Competitor betting site reviews
+- ❌ Unverified forum posts or comments
+- ❌ Marketing materials from Funbet (use official site only for facts)
+- ❌ AI-generated or fabricated reviews
+
+### FORBIDDEN PRACTICES:
 
 - ❌ DO NOT cite affiliate sites for pros/cons
 - ❌ DO NOT use competitor reviews as primary sources
@@ -1065,6 +1078,7 @@ Describe Funbet's mobile app user experience **specifically for sports betting**
 - [ ] Canadian English spelling: favour, colour, centre, honour, etc.
 - [ ] Currency in CAD: All monetary values in Canadian dollars
 - [ ] Legal disclaimers: Include "19+/18+ (varies by province). Terms apply."
+- [ ] **NO AFFILIATE DISCLOSURE IN CONTENT** (it's in website sidebar)
 - [ ] Ontario restrictions noted: Not available in Ontario - mentioned in legal section
 - [ ] Grey market status disclosed: "Available in Canada except Ontario"
 - [ ] All 14 keywords integrated naturally

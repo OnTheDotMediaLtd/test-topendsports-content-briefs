@@ -18,7 +18,7 @@
 
 ---
 
-## SECONDARY KEYWORD OPTIMIZATION
+## KEYWORD-TO-SECTION MAPPING TABLE (V2 REQUIREMENT)
 
 **ALL 11 secondary keywords MUST be mapped to specific sections:**
 
@@ -53,8 +53,9 @@ royalistplay sport, royalistplay, betting bonus, welcome bonus canada, sportsboo
    - Sentence 2: Key differentiator (offshore, 27 sports, $150 bonus)
    - Sentence 3: Authority statement
 
-   - Does not influence rankings/reviews
-   - Testing methodology mention
+2. **Editorial Independence (15-20 words):**
+   - Testing methodology: "Our expert team tests every sportsbook independently."
+   - Independence: "Commercial partnerships do not influence our reviews or rankings."
 
 ### Example Opening:
 ```
@@ -63,6 +64,8 @@ Canadian bettors access to 27 sporting categories and a 100% welcome bonus up to
 $150 CAD. Launched in 2022 with a Curaçao gaming license, it combines sports betting
 with casino games in a single platform.
 
+Our expert team tests every sportsbook independently. Commercial partnerships do not
+influence our reviews or rankings.
 ```
 
 ### ❌ FORBIDDEN in Introduction:
@@ -71,6 +74,7 @@ with casino games in a single platform.
 - Rhetorical questions
 - Over 150 words total
 - Any mention of "2025" or dates in H1
+- Affiliate disclosure (handled by website sidebar - NOT in content per V2)
 
 ---
 
@@ -91,8 +95,9 @@ with casino games in a single platform.
 
 ---
 
-### Introduction (200-250 words)
+### Introduction (100-150 words)
 - Opening 40-50 words: What is Royalistplay?
+- Editorial independence statement (15-20 words)
 - Quick context: Offshore (Curaçao) vs regulated Canadian markets
 - What reader will learn in this review
 - **Keywords:** royalistplay sport, online sportsbook, royalistplay casino review
@@ -697,6 +702,8 @@ Royalistplay's main offer is a 100% welcome bonus up to $150 CAD (promo code: WE
 
 ### H2: Responsible Gambling (150-200 words)
 
+**⚠️ V2 IMPORTANT:** NO affiliate disclosure in this section (or anywhere in content). Disclosure is handled by website sidebar.
+
 **Royalistplay's Responsible Gambling Tools:**
 - Self-exclusion options (temporary or permanent)
 - Deposit limits (daily, weekly, monthly)
@@ -714,11 +721,12 @@ Royalistplay's main offer is a 100% welcome bonus up to $150 CAD (promo code: WE
 - Problem Gambling Help Line: 1-888-230-3505
 
 **Provincial Resources:**
-- Provincial helplines vary by location
-- **British Columbia:** GameSense BC
-- **Alberta:** Alberta Health Services Addiction Helpline
-- **Manitoba:** Problem Gambling Helpline
-- **Quebec:** Gambling: Help and Referral
+- **Ontario:** 1-866-531-2600 (ConnexOntario)
+- **Alberta:** 1-866-332-2322 (Alberta Health Services Addiction Helpline)
+- **British Columbia:** 1-888-795-6111 (GameSense BC)
+- **Manitoba:** 1-800-463-1554 (Problem Gambling Helpline)
+- **Quebec:** 1-800-461-0140 (Gambling: Help and Referral)
+- **Saskatchewan:** 1-800-306-6789
 
 **Warning Signs of Problem Gambling:**
 - Betting more than you can afford to lose
@@ -877,7 +885,7 @@ Place these naturally throughout the content:
 
 ---
 
-## COMPLIANCE CHECKLIST
+## COMPLIANCE CHECKLIST (V2 STANDARDS)
 
 Before submitting, ensure ALL of these are included:
 
@@ -891,6 +899,9 @@ Before submitting, ensure ALL of these are included:
 - [ ] 12 internal links naturally placed
 - [ ] Offshore vs regulated context explained
 - [ ] Ontario geo-blocking mentioned
+- [ ] **V2 CRITICAL:** NO affiliate disclosure in content (handled by website sidebar)
+- [ ] **V2 CRITICAL:** Editorial independence statement in intro (15-20 words)
+- [ ] **V2 CRITICAL:** Intro total 100-150 words maximum
 
 ---
 

@@ -1,5 +1,7 @@
 # BRIEF CONTROL SHEET: New Betting Sites Canada
 
+**✅ V2 STANDARDS COMPLIANT** (Updated: December 2025)
+
 **Generated:** December 15, 2025
 **Phase:** 1 - Research & Discovery
 **Status:** COMPLETE
@@ -256,8 +258,9 @@ Based on competitor analysis, our unique advantages:
 - [x] AGCO license verification links
 - [x] Loto-Quebec regulation links
 - [x] Age requirement: 19+ (18+ in Alberta, Manitoba, Quebec)
-- [x] Canadian Problem Gambling helpline: 1-800-463-1554
+- [x] Canadian gambling resources: RGC (responsiblegambling.org) and CCSA (ccsa.ca)
 - [x] Responsible gambling section (focus on new user caution)
+- [x] NO affiliate disclosure in content (it's in website sidebar)
 
 ---
 
@@ -335,11 +338,16 @@ What competitors are missing that we will include:
 ### Compliance Requirements
 
 - **Age Restriction:** 19+ (18+ in Alberta, Manitoba, Quebec)
-- **Gambling Hotline:** 1-800-463-1554 (Canadian Problem Gambling Helpline)
+- **Gambling Resources:**
+  - Responsible Gambling Council: https://www.responsiblegambling.org/
+  - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - Provincial helplines vary by location
+  - DO NOT use US hotlines (1-800-GAMBLER)
 - **Provincial Regulators:**
   - Alcohol and Gaming Commission of Ontario (AGCO)
   - Loto-Quebec (Quebec)
   - Alberta Gaming, Liquor and Cannabis (AGLC)
+- **Affiliate Disclosure:** DO NOT include in content (it's in website sidebar)
 - **Responsible Gambling Section:** Mandatory at bottom, focus on new user caution
 - **T&C Verification:** All 9 new sites require license verification and regulatory links
 

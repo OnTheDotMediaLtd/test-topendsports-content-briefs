@@ -69,9 +69,6 @@ new customer betting offers, best betting offers, top 20 betting sites uk free, 
    - Mention total offer value available
    - Authority statement about testing methodology
 
-   - Transparency about editorial independence
-   - Link to full disclosure policy
-
 **Example Opening:**
 ```
 The best new customer betting offers in the UK come from Bet442, LuckyMate, and NRGbet, offering welcome bonuses worth over £1,000 combined. These operators provide competitive terms with clear wagering requirements and realistic completion conditions, verified through our independent testing process.
@@ -483,17 +480,60 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 
 ---
 
-### H2: Payment Methods for Qualifying Deposits (350 words)
+### H2: Payment Methods Comparison for Qualifying Deposits (400 words)
 
 **Content Focus:**
-- Which payment methods qualify for offers across all 9 operators
-- **Faster Payments:** Instant deposits, widely accepted
-- **Open Banking:** New UK option, instant verification
+- **Comparison table showing all 9 operators** - which payment methods qualify for their welcome offers
+- **Faster Payments:** Instant deposits, widely accepted (which brands support)
+- **Open Banking:** New UK option, instant verification (availability by brand)
 - **Debit Cards:** Traditional method, declining acceptance post-UKGC rules
-- **E-wallets (PayPal, Skrill, Neteller):** Often excluded from offers - WARNING
+- **E-wallets (PayPal, Skrill, Neteller):** Often excluded from offers - WARNING - brand-by-brand breakdown
 - **Prepaid Cards (Paysafecard):** Limited availability
-- Payment method exclusions table (which brands exclude e-wallets)
+- **Payment method exclusions table:**
+  - Bet442: [Excluded methods]
+  - LuckyMate: [Excluded methods]
+  - NRGbet: [Excluded methods]
+  - (All 9 brands listed)
 - Deposit speed comparison for offer activation
+- Recommended payment method per offer type
+
+**Table Required:**
+| Operator | Faster Payments | Open Banking | Debit Card | PayPal | Skrill/Neteller | Paysafecard |
+|----------|----------------|--------------|------------|--------|-----------------|-------------|
+| Bet442 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
+| LuckyMate | ... | ... | ... | ... | ... | ... |
+| (All 9 brands) |
+
+---
+
+### H2: Calculator Tools for Betting Offers (300 words)
+
+**Content Focus:**
+- **Interactive calculator tools available on our site**
+- Link to betting calculator hub: /sport/betting/calculator.htm
+- **Offer Value Calculator** - Calculate actual value considering wagering requirements
+  - Input: Bonus amount, wagering requirement, minimum odds
+  - Output: Expected value and completion probability
+  - Example calculation walkthrough
+- **Wagering Requirement Calculator** - How much must you bet to clear bonus
+  - Input: Bonus amount, playthrough multiplier
+  - Output: Total betting required
+- **Qualifying Bet Calculator** - Determine minimum stake needed
+  - Input: Offer minimum deposit, minimum odds
+  - Output: Optimal qualifying bet size
+- **Returns Calculator** - Project potential winnings from free bets
+  - Input: Free bet stake, odds, stake returned vs not returned
+  - Output: Potential profit
+- **How to use calculators with our featured offers:**
+  - Bet442 offer example
+  - LuckyMate offer example
+  - NRGbet offer example
+- Step-by-step: Using calculator before claiming offer
+
+**Internal Links Required:**
+- Main calculator hub: /sport/betting/calculator.htm
+- Offer value calculator (if exists)
+- Wagering calculator (if exists)
 
 ---
 
@@ -503,6 +543,7 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 - Methodology transparency
 - **Offer Value Calculation:**
   - (Bonus Amount) ÷ (Wagering Requirement × Minimum Odds) = Actual Value Score
+  - Link to calculator tool for DIY calculations
 - **Testing Process:**
   1. Create account with each operator
   2. Verify wagering requirements from official T&Cs
@@ -834,11 +875,12 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 | Welcome Offers: How to Claim | 400 |
 | Complete UK T&Cs | 500 |
 | Champions League Offers | 400 |
-| Payment Methods | 350 |
+| Payment Methods Comparison | 400 |
+| Calculator Tools | 300 |
 | How We Test & Rank | 400 |
 | FAQs (10 questions) | 1,500 |
 | Responsible Gambling | 200 |
-| **TOTAL** | **~7,000** |
+| **TOTAL** | **~7,300** |
 
 **Note:** The 6,500-7,000 word target reflects comprehensive coverage including brand reviews, FAQs, and all keyword-optimized sections. Individual section targets above provide flexibility - prioritize brand reviews (450 words each for top 3) and FAQs (1,500 words total) as these are most keyword-dense.
 
@@ -857,9 +899,10 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 - [ ] Meta keywords provided (19 total)
 - [ ] NO dated language in H1 or outline
 - [ ] Mobile Experience section required for all 9 brands (100-150 words each)
-- [ ] Payment methods section for top 3 brands
+- [ ] Payment Methods Comparison section with table for all 9 brands
+- [ ] Calculator Tool Links section with examples
 - [ ] Responsible gambling section included
-- [ ] Compliance requirements listed (18+, helplines, disclosure)
+- [ ] Compliance requirements listed (18+, GamCare 0808 8020 133)
 
 ---
 

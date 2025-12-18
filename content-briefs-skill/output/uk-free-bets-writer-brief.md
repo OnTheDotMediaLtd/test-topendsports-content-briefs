@@ -25,18 +25,21 @@ All keywords MUST be mapped to specific sections:
 | **free bets no deposit** | 1,000/mo | H2 | "Free Bets No Deposit UK - Best No Risk Offers" |
 | **free bets today** | 700/mo | H2 | "Free Bets Today - Daily Updated Offers" |
 | **best free bets** | 700/mo | H2 | "Best Free Bets UK - Top Offers Compared" |
+| **betting offers uk** | 600/mo | H2 | "Betting Offers UK - Welcome Bonuses" |
 | **matched betting uk** | 600/mo | H2 | "Matched Betting UK - How to Maximize Free Bets" |
+| **sign up offers betting** | 450/mo | H3 | "Sign Up Offers Betting - New Customer Deals" |
 | **free bet offers uk** | 300/mo | H3 | "Free Bet Offers UK - How to Claim" |
 | **free bet no deposit uk** | 200/mo | H3 | "Free Bet No Deposit UK - Risk-Free Options" |
 | **free betting offers uk** | 200/mo | H3 | "Free Betting Offers UK - Terms Explained" |
 | **free spins betting** | 200/mo | H3 | "Free Spins Betting - Casino Crossover Bonuses" |
 | **bookmaker free bets** | 150/mo | FAQ | "Which bookmakers offer the best free bets?" |
 | **betting bonus codes** | 100/mo | FAQ | "Do I need a betting bonus code?" |
+| **betting company offers** | 100/mo | FAQ | "What types of betting company offers are available?" |
 | **best free bets uk** | 80/mo | FAQ | "What are the best free bets UK right now?" |
 | **free betting sites uk** | 30/mo | FAQ | "Are there completely free betting sites UK?" |
 
 **Meta Keywords (for AI Enhancement):**
-free bets uk, free bets no deposit, free bets today, best free bets, matched betting uk, free bet offers uk, free bet no deposit uk, free betting offers uk, free spins betting, bookmaker free bets, betting bonus codes, best free bets uk, free betting sites uk
+free bets uk, free bets no deposit, free bets today, best free bets, betting offers uk, matched betting uk, sign up offers betting, free bet offers uk, free bet no deposit uk, free betting offers uk, free spins betting, bookmaker free bets, betting bonus codes, betting company offers, best free bets uk, free betting sites uk
 
 ---
 
@@ -45,18 +48,13 @@ free bets uk, free bets no deposit, free bets today, best free bets, matched bet
 **Total:** 100-150 words
 
 ### Structure:
-1. **Opening (40-50 words):**
+1. **Opening (100-150 words total):**
    - Sentence 1: Direct answer with top 3 winners
    - Sentence 2: Authority/verification statement
-
-   - Clear commission disclosure
-   - No impact on pricing statement
-   - Testing transparency
+   - Sentence 3-4: Key benefits and testing methodology
 
 ### Example Opening:
-"The best free bets UK are offered by Bet442, LuckyMate, and NRGbet, with welcome bonuses ranging from £10 to £50 and competitive wagering requirements verified through direct testing across December 2025.
-
-[Disclosure: We may earn commission when you sign up through our links. This does not affect pricing or our rankings, which are based on independent testing of free bet quality, wagering requirements, minimum odds, and claim processes. All bookmakers featured are licensed by the UK Gambling Commission.]"
+"The best free bets UK are offered by Bet442, LuckyMate, and NRGbet, with welcome bonuses ranging from £10 to £50 and competitive wagering requirements. We verified all offers through direct testing across December 2025 and analyzed App Store ratings, Reddit user feedback, and official terms and conditions. Our testing covered 7 UKGC-licensed operators across 5 criteria: bonus amount, wagering requirements, minimum odds, expiry terms, and mobile claim process."
 
 ### FORBIDDEN:
 - ❌ "Welcome to..."
@@ -553,7 +551,7 @@ Target high-volume keywords with FAQ questions. Each answer: 100-200 words.
 - **Location:** UK residents, physically in UK to bet
 
 ### Responsible Gambling:
-- **Helpline:** National Gambling Helpline: 0808 8020 133
+- **Helpline:** GamCare: 0808 8020 133 (24/7, free, confidential)
 - **Self-Exclusion:** GamStop link and explanation
 - **Support Organizations:**
   - GamCare: www.gamcare.org.uk
@@ -566,8 +564,11 @@ Target high-volume keywords with FAQ questions. Each answer: 100-200 words.
 - **Free Bet Law:** Cannot be withdrawn as cash (Gambling Act 2005)
 - **Taxation:** Betting winnings tax-free for UK consumers
 
-### Required Disclaimer:
-"All bookmakers featured are licensed and regulated by the UK Gambling Commission. Free bets cannot be withdrawn as cash and are subject to wagering requirements. Gamble responsibly. 18+. BeGambleAware.org"
+### Required Disclaimer (End of Responsible Gambling Section):
+"All bookmakers featured are licensed and regulated by the UK Gambling Commission. Free bets cannot be withdrawn as cash and are subject to wagering requirements. Gamble responsibly. 18+. GamCare: 0808 8020 133. BeGambleAware.org"
+
+### ⚠️ IMPORTANT - NO AFFILIATE DISCLOSURE IN CONTENT:
+**DO NOT include affiliate commission disclosures in the article content.** All affiliate disclosures are handled in the website sidebar. The intro should focus ONLY on editorial authority and testing methodology.
 
 ---
 
@@ -586,7 +587,7 @@ Target high-volume keywords with FAQ questions. Each answer: 100-200 words.
 - "When the fun stops, stop" messaging
 
 **Example:**
-"Responsible gambling is essential when claiming free bet offers. All bookmakers featured provide deposit limit tools, loss limits, and reality check notifications. If you feel your gambling is becoming problematic, free help is available 24/7 through the National Gambling Helpline (0808 8020 133).
+"Responsible gambling is essential when claiming free bet offers. All bookmakers featured provide deposit limit tools, loss limits, and reality check notifications. If you feel your gambling is becoming problematic, free help is available 24/7 through GamCare (0808 8020 133).
 
 GamStop (www.gamstop.co.uk) offers free self-exclusion across all UKGC-licensed operators for periods of 6 months, 1 year, or 5 years. For ongoing support, contact GamCare (www.gamcare.org.uk) or BeGambleAware.org.
 
@@ -598,7 +599,7 @@ Remember: Free bets are entertainment, not income. Never chase losses or bet mor
 
 Before submitting, verify:
 
-- [ ] All 15 secondary keywords mapped to specific sections
+- [ ] All 15 secondary keywords mapped to specific sections (Table updated with all 15)
 - [ ] 10 FAQs targeting keywords
 - [ ] 12 internal links included
 - [ ] 7 brands featured with complete sections

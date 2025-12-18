@@ -259,10 +259,11 @@ Instead of 41 shallow listings, feature **9 carefully selected brands** with com
 
 - **Age requirement:** 18+ (UK standard)
 - **Licensing:** All featured brands must have UK Gambling Commission license
-- **Responsible gambling hotline:** 0808 8020 133 (National Gambling Helpline)
-- **BeGambleAware.org:** Link required in footer
+- **Responsible gambling hotline:** GamCare 0808 8020 133
+- **BeGambleAware.org:** Link required in responsible gambling section
 - **GamStop mention:** Required in responsible gambling section
 - **Self-exclusion tools:** Mention per brand where available
+- **NO affiliate disclosure in content** (handled in website sidebar)
 
 ### Content Guidelines
 

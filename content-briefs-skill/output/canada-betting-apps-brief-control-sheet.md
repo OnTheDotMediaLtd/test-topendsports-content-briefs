@@ -1,8 +1,21 @@
 # BRIEF CONTROL SHEET: Best Sports Betting Apps Canada
 
 **Generated:** December 15, 2025
+**Updated:** December 17, 2025 (V2 Standards Applied)
 **Phase:** 1 - Research & Discovery
 **Status:** Complete
+
+---
+
+## V2 STANDARDS APPLIED
+
+**This brief meets all V2 requirements:**
+- ✅ Keyword-to-section mapping with verification
+- ✅ Mobile Experience section per brand (100-150w)
+- ✅ Payment Methods Comparison (350-400w with table)
+- ✅ Calculator tool links (parlay/odds calculators)
+- ✅ NO affiliate disclosure in content (sidebar only)
+- ✅ Canada-specific compliance (helplines, age requirements)
 
 ---
 

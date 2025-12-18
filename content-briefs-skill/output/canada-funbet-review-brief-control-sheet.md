@@ -271,10 +271,11 @@ Despite 0 volume primary keyword:
 - [ ] Breadcrumb schema
 
 ### Meta Elements
-- **Title:** "Funbet Review Canada 2025: Sports Betting & Casino"
+- **Title:** "Funbet Review Canada: Sports Betting & Casino Guide"
 - **Description:** "Comprehensive Funbet review for Canadian players. Detailed analysis of sports betting features, casino games, bonuses, mobile app, and payment methods."
 - **Keywords:** funbet, funbet review, funbet canada, funbet sport, funbet casino
 - **Last Updated Badge:** Yes (HTML + Schema dateModified)
+- **Note:** NO year in title - use Last Updated badge instead
 
 ### HTML Elements
 - Letter badge: FNB (#E91E63)
@@ -330,7 +331,17 @@ Despite 0 volume primary keyword:
 - [ ] Legal Sports Report Canada (regulatory news)
 - [ ] Payment processor documentation
 
-**FORBIDDEN:** Do NOT cite competitor review sites (gamblingsites.com, casino.guru) for pros/cons
+### TIER 4: FORBIDDEN SOURCES (DO NOT USE)
+- ❌ Affiliate review sites (gamblingsites.com, casino.guru, askgamblers)
+- ❌ Competitor betting site reviews
+- ❌ Unverified forum posts or comments
+- ❌ Marketing materials from Funbet (use official site only for facts)
+- ❌ AI-generated or fabricated reviews
+
+**FORBIDDEN PRACTICES:**
+- Do NOT cite competitor review sites for pros/cons
+- Do NOT fabricate user reviews or ratings
+- Do NOT use TIER 4 sources under any circumstances
 
 ---
 
@@ -340,13 +351,14 @@ Despite 0 volume primary keyword:
 - **Age requirement:** 19+ (18+ in Alberta, Manitoba, Quebec)
 - **Helpline:** 1-866-531-2600 (Canadian Problem Gambling Helpline)
 - **Legal status:** Available outside Ontario (provincial iGaming restrictions apply)
-- **Disclosure:** Affiliate relationship must be disclosed in introduction
+- **Disclosure:** **NO AFFILIATE DISCLOSURE IN CONTENT** (it's in website sidebar)
 
 ### Mandatory Sections
 - [ ] Age verification disclaimer (19+/18+ by province)
 - [ ] Responsible gambling section (bottom)
 - [ ] Provincial availability disclaimer
 - [ ] Licensing transparency
+- [ ] NO affiliate disclosure in content (it's in sidebar)
 
 ### Forbidden Language
 - ❌ "Guaranteed wins"
@@ -354,6 +366,7 @@ Despite 0 volume primary keyword:
 - ❌ "Risk-free betting"
 - ❌ "Beat the house"
 - ❌ Dating in H1 ("Review 2025")
+- ❌ Affiliate disclosure in content body
 
 ---
 

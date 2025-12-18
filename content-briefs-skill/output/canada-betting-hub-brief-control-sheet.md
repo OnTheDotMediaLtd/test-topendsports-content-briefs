@@ -79,6 +79,8 @@
 **Total Search Volume:** 7,350/mo
 **Volume Increase vs Primary:** 220%
 
+**✅ Keyword Mapping Verification:** All 13 secondary keywords + 5 branded keywords mapped to specific H2, H3, FAQ, or Natural sections in Writer Brief. Zero unmapped keywords.
+
 ---
 
 ## BRAND SELECTION
@@ -184,7 +186,10 @@
   - Age: 18+ (AB, MB, QC), 19+ (most provinces)
   - Focus on offshore operators (non-Ontario)
   - Provincial regulations disclosure
-  - Responsible gambling: 1-800-522-4700 (if applicable), provincial resources
+  - Responsible gambling helplines:
+    - National: 1-800-463-1554
+    - Ontario: ConnexOntario 1-866-531-2600
+    - Provincial resources for AB, BC, MB, QC, SK, NS, etc.
 - **Timeline:** Phase 2 (Writer Brief) ready for immediate handoff
 
 ---

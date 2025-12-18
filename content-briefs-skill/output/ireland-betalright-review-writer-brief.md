@@ -52,11 +52,11 @@ betalright, betalright review, betalright sports, betting sites ireland, sports 
 **CRITICAL: Follow this structure exactly (100-150 words total)**
 
 ### Structure:
-1. **Opening (40-50 words):** Direct verdict on Betalright
+1. **Opening (100-150 words):** Direct verdict on Betalright
    - First sentence: Clear recommendation (or non-recommendation) with key reasons
    - Second sentence: Authority statement
-
-   - Statement about review integrity
+   - Third sentence: Market positioning for Irish bettors
+   - Key differentiators (50+ payment methods, sports coverage)
 
 ### ❌ FORBIDDEN:
 - "Welcome to..."
@@ -64,6 +64,7 @@ betalright, betalright review, betalright sports, betting sites ireland, sports 
 - Rhetorical questions
 - Exceeding 150 words
 - Dated language in intro
+- ❌ Affiliate disclosure in intro (it's in website sidebar)
 
 ### Example Structure:
 ```
@@ -71,12 +72,9 @@ Betalright is a newer betting site in Ireland operated by Rabidi N.V. under an
 Anjouan license, offering 50+ payment methods and competitive sports coverage.
 While it provides solid betting options, the lack of a dedicated mobile app and
 offshore licensing make it less appealing than established Irish brands like
-Paddy Power or BoyleSports for most Irish punters.
-
-[Disclosure: We may earn commission from links on this page, but this does not
-influence our reviews. Our ratings are based on extensive testing of features,
-odds, payment speed, and customer support. We only recommend betting sites that
-meet our strict standards for safety and user experience in the Ireland market.]
+Paddy Power or BoyleSports for most Irish punters. However, for bettors prioritizing
+payment flexibility and variety, Betalright's extensive payment options provide
+a genuine advantage over traditional Irish bookmakers.
 ```
 
 ---
@@ -548,8 +546,8 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 - Self-exclusion (6 months, 1 year, permanent)
 
 **Irish Responsible Gambling Resources:**
-- **Problem Gambling Ireland:** https://www.problemgambling.ie/ (Free confidential helpline and support)
-- **Gamblers Anonymous Ireland:** https://www.gamblersanonymous.ie/ (Support groups across Ireland)
+- **Gamblers Anonymous Ireland:** 087 744 3577 (Free confidential helpline)
+- **Problem Gambling Ireland:** https://www.problemgambling.ie/ (Support and guidance)
 - **Gambling Support Services:** Additional resources available
 
 **Warning:** Gambling can be addictive. Bet within your means. If you feel you're losing control, seek help immediately.

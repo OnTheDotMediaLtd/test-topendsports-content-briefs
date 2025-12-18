@@ -1,5 +1,7 @@
 # WRITER BRIEF: New Betting Sites Canada
 
+**✅ V2 STANDARDS COMPLIANT** (Updated: December 2025)
+
 ## ASSIGNED TO: Tom Goldsmith
 
 ---
@@ -45,25 +47,31 @@ new betting sites canada, newest betting sites, betting apps ontario, sports bet
 **Total: 100-150 words**
 
 **Structure:**
-1. **Opening (40-50 words):**
-   - Sentence 1: Direct answer naming top 3 new sites (Treasure Spins, Royalistplay, Wyns)
-   - Sentence 2: Authority statement (testing methodology, innovation focus)
+1. **Opening sentence (40-50 words):**
+   - Direct answer naming top 3 new sites (Treasure Spins, Royalistplay, Wyns)
+   - Include primary keyword naturally
 
-   - Clear statement that we earn commissions from links
-   - Reassurance that this doesn't affect pricing or recommendations
-   - Transparency about evaluation process
+2. **Authority statement (30-40 words):**
+   - Testing methodology
+   - What makes these sites qualify as "new"
+   - Innovation focus areas
+
+3. **Value proposition (30-40 words):**
+   - What readers will learn
+   - Key decision factors covered
+   - Provincial considerations
 
 **Example Format:**
 ```
-The newest betting sites in Canada are [Treasure Spins], [Royalistplay], and [Wyns],
+The newest betting sites in Canada are Treasure Spins, Royalistplay, and Wyns,
 all launched in 2024-2025 with innovative features like gamification, crypto payments,
 and AI-powered recommendations. We've tested each platform for mobile performance,
-bonus value, and sports coverage.
+bonus value, and sports coverage against established operators like Bet365 and FanDuel.
 
-[Disclosure: We earn affiliate commissions when you use our links to sign up for
-betting sites. This does not impact the price you pay or influence our rankings.
-All recommendations are based on independent testing of features, bonuses, user
-reviews, and platform performance. Your trust is our priority.]
+This guide covers licensing verification, provincial availability, and key innovations
+that distinguish new platforms from established brands. We analyze welcome bonuses,
+mobile experience, and sports coverage to help you decide if newer sites suit your
+betting needs.
 ```
 
 **FORBIDDEN:**
@@ -93,12 +101,14 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ---
 
-### Section 2: Introduction with Disclosure
+### Section 2: Introduction
 **Word Count:** 100-150 words
 **Requirements:**
 - First sentence: Name top 3 new sites
-- Authority statement
+- Authority statement (testing methodology)
+- Value proposition (what readers will learn)
 - Keywords: "new betting sites canada", "newest betting sites"
+- **NO affiliate disclosure** (it's in website sidebar)
 
 ---
 
@@ -394,18 +404,22 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 **Word Count:** 300 words
 **Requirements:**
 - Age requirement: **19+ (18+ in Alberta, Manitoba, Quebec)**
+- ConnexOntario: 1-866-531-2600
 - Self-exclusion tools on new platforms
 - Deposit limits and controls
 - **Pan-Canadian Resources:**
   - Responsible Gambling Council: https://www.responsiblegambling.org/
   - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - ConnexOntario Helpline: 1-866-531-2600 (Ontario problem gambling support)
   - Provincial helplines vary by location
 - Provincial support resources
 - Warning signs of problem gambling
 - Links to help organizations
 
 **DO NOT USE:** 1-800-GAMBLER (that's US only)
-**USE:** Pan-Canadian resources (RGC and CCSA)
+**USE:** Pan-Canadian resources (RGC and CCSA) + ConnexOntario for Ontario players
+
+**NO affiliate disclosure in content (it's in website sidebar)**
 
 ---
 
@@ -510,7 +524,10 @@ Use natural anchor text. Include ALL 12 links in the content:
 - Quebec: Loto-Quebec
 - Alberta: Alberta Gaming, Liquor and Cannabis (AGLC)
 
-- Reassurance about unbiased recommendations
+**Affiliate Disclosure:**
+- **DO NOT include in content** (it's in website sidebar)
+- NO disclosure statements in intro or body
+- Focus on content value, not monetization
 
 **Responsible Gambling Section:**
 - Mandatory at bottom
@@ -580,23 +597,24 @@ value and user engagement.
 
 ---
 
-## QUALITY CHECKLIST
+## QUALITY CHECKLIST (V2 STANDARDS)
 
 Before submitting, verify:
 
 - [ ] Intro is 100-150 words (not longer)
+- [ ] **NO affiliate disclosure in intro or content** (it's in sidebar)
 - [ ] NO year in H1 ("2025" removed)
 - [ ] All 12 secondary keywords mapped to sections
 - [ ] All 8 FAQs target specific keywords
 - [ ] All 12 internal links included
-- [ ] Canadian compliance (19+, RGC and CCSA resources)
+- [ ] Canadian compliance (19+, RGC and CCSA resources, NO US hotlines)
 - [ ] ALL 9 brands have Mobile Experience subsection (100-150 words each)
 - [ ] T&Cs included for ALL 9 brands (not just top 3)
 - [ ] Payment methods comparison table included
 - [ ] Provincial focus (Ontario & Quebec)
 - [ ] NO affiliate sites cited for pros/cons
-- [ ] App Store/Google Play cited for ratings
-- [ ] Reddit cited for user experiences
+- [ ] App Store/Google Play cited for ratings (TIER 1 sources)
+- [ ] Reddit cited for user experiences (TIER 1 sources)
 - [ ] Word count target: 9,000 words
 
 ---

@@ -143,22 +143,25 @@ Based on competitor analysis, we MUST include:
 
 ---
 
-## CONTENT SECTIONS (15 Required)
+## CONTENT SECTIONS (18 Required - V2 Standards)
 
 ### Core Sections
-- [ ] Header & Introduction (200-250 words) - Last Updated, quick answer
+- [ ] Header & Introduction (100-150 words) - Last Updated, quick answer **[V2: 100-150w max]**
 - [ ] Rating Summary (150-200 words) - Star rating, pros/cons
 - [ ] Betting Markets & Odds (200-250 words) - Sports coverage, live betting
 - [ ] Welcome Bonus & Promotions (200-250 words) - Bonus details, wagering
 - [ ] Promo Code Details (150-200 words) - How to use codes
 - [ ] Mobile App Experience (300-400 words) - iOS/Android, download guide
+- [ ] **Mobile Experience UX** (100-150 words) - **[V2 REQUIRED]** Navigation, performance, battery
 - [ ] User Interface & Account Setup (150-200 words) - Registration, login
 - [ ] Casino & Live Casino (200-250 words) - Games, providers
 - [ ] Payment Methods & Withdrawals (150-200 words) - UK methods, times
+- [ ] **Payment Methods Comparison** (200 words) - **[V2 REQUIRED]** Complete table with actual data
 - [ ] Customer Support (100-150 words) - Channels, response times
 - [ ] Detailed Bonus Breakdown (300-350 words) - Complete terms, examples
 - [ ] Terms & Conditions Summary (300-350 words) - Age, rules, licensing
 - [ ] Pros & Cons Summary (200-250 words) - 5 pros, 5 cons detailed
+- [ ] **Calculator Tools** (150 words) - **[V2 REQUIRED]** Parlay, odds converter, probability
 - [ ] FAQ Section (400-500 words) - 8-10 questions
 - [ ] Final Verdict (100-150 words) - Recommendation, CTA
 
@@ -205,6 +208,13 @@ Must include these keywords:
 
 ## TECHNICAL REQUIREMENTS
 
+### V2 Standards:
+- [ ] **Mobile Experience subsection** (100-150w) - Navigation, battery, performance
+- [ ] **Payment Methods Comparison table** - Complete with actual limits (no placeholders)
+- [ ] **Calculator tool links** - Minimum 3 calculators linked
+- [ ] **TIER 4 source warning** - Affiliate sites sparingly, never for pros/cons
+
+### Standard Requirements:
 - [ ] Last Updated badge (top of page)
 - [ ] Brand badge: 22B (green #1B5E20)
 - [ ] Mobile app download badges (App Store, Google Play)
@@ -226,8 +236,9 @@ Must include these keywords:
 
 ---
 
-## INTERNAL LINKS (Minimum 12)
+## INTERNAL LINKS (15 Required - V2 Standards)
 
+### Standard Internal Links (12):
 1. "best betting sites UK" → /sport/betting/uk/index.htm
 2. "football betting odds" → /sport/betting/uk/football-betting-sites.htm
 3. "betting apps UK" → /sport/betting/uk/betting-apps.htm
@@ -240,6 +251,11 @@ Must include these keywords:
 10. "how to place a bet" → /sport/betting/guides/first-bet.htm
 11. "betting strategies" → /sport/betting/guides/parlay.htm
 12. "sports betting glossary" → /sport/betting/guides/betting-glossary.htm
+
+### V2 Required Calculator Links (3):
+13. "Parlay Calculator" → /sport/betting/tools/parlay-calculator.htm
+14. "Odds Converter" → /sport/betting/tools/odds-converter.htm
+15. "Implied Probability Calculator" → /sport/betting/tools/probability-calculator.htm
 
 ---
 
@@ -263,19 +279,29 @@ Must include these keywords:
 
 ## SUCCESS METRICS
 
-**Content Quality:**
+**V2 Content Quality:**
+- Introduction: 100-150 words (NOT 200) ✓
+- Mobile Experience subsection (100-150w) ✓
+- Payment Methods Comparison (complete data) ✓
+- Calculator Tool Links (3 minimum) ✓
+- TIER 4 source warning included ✓
+
+**Standard Content Quality:**
 - All 15 keywords mapped to sections ✓
 - 3,500-4,000 word count target ✓
-- 8+ FAQ questions ✓
-- 12+ internal links ✓
+- 10 FAQ questions ✓
+- 15 internal links (12 standard + 3 calculator) ✓
 - UK-specific information throughout ✓
 - Licensing transparency ✓
+- NO affiliate disclosure in content ✓
 
 **Competitive Positioning:**
 - Exceeds #9 competitor word count ✓
 - Addresses gaps in competitor content ✓
 - Unique UK market perspective ✓
+- V2 standards applied ✓
 
 ---
 
+**Status:** V2 UPDATED - December 17, 2025
 **Next Phase:** Phase 2 - Writer Brief (detailed outline with H2/H3 structure, word counts per section, source requirements)

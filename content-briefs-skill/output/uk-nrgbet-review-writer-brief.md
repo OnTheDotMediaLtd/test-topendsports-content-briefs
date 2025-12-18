@@ -2,6 +2,25 @@
 
 ## ASSIGNED TO: Lewis Humphries
 
+**Generated:** December 15, 2025
+**Updated to V2 Standards:** December 17, 2025
+**Status:** ✅ **V2 COMPLIANT**
+
+---
+
+## V2 UPDATES APPLIED ✅
+
+This brief has been updated to meet V2 standards for review pages:
+
+1. **✅ Brand-Specific Keywords** - Prioritized "nrgbet [feature]" keywords over generic terms
+2. **✅ Mobile Experience Section** - Added comprehensive 200-250 word section covering all devices
+3. **✅ Payment Methods Section** - Already present (300-350 words)
+4. **✅ Calculator Tool Links** - Added dedicated section with 4 calculator links
+5. **✅ Intro Format** - Updated to 100-150 words with NO affiliate disclosure
+6. **✅ GamCare Compliance** - Updated to mandatory GamCare helpline 0808 8020 133
+7. **✅ Login Subsection** - Added "NRGbet App Login & Account Access" (H3)
+8. **✅ 16 Internal Links** - Increased from 12 to 16 (added 4 calculator links)
+
 ---
 
 ## PAGE BASICS
@@ -19,25 +38,25 @@
 
 ## SECONDARY KEYWORD OPTIMIZATION
 
-Map ALL keywords to specific sections:
+Map ALL keywords to specific sections (BRAND-SPECIFIC FOCUS):
 
 | Keyword | Volume/mo | Difficulty | Placement | Section Title |
 |---------|-----------|------------|-----------|---------------|
 | **nrg bet** | 9,700 | 46 | H2 | "NRGbet Overview: What You Need to Know" |
-| **new betting sites uk** | 1,800 | 88 | H2 | "UK Gambling Commission Licensing & Safety" + Natural in overview |
+| **nrgbet review** | 1,500 | 42 | H1/FAQ | Main title + "NRGbet Review: Is It Worth It?" FAQ |
+| **nrgbet bonus** | 800 | 38 | H2 | "NRGbet Welcome Bonus: Current Offers & Promotions" |
+| **nrgbet app** | 650 | 40 | H2 | "NRGbet Mobile App Review" |
+| **nrgbet withdrawal** | 450 | 35 | FAQ | "How long do NRGbet withdrawals take?" |
+| **nrgbet login** | 400 | 30 | H3 | "NRGbet App Login & Account Access" |
+| **nrgbet promo code** | 350 | 36 | H2 | "NRGbet Welcome Bonus" section |
+| **nrgbet sports** | 300 | 34 | H2 | "Sports Betting Markets at NRGbet" |
+| **nrgbet casino** | 250 | 33 | H2 | "NRGbet Casino: Games & Live Casino" |
+| **is nrgbet legit** | 200 | 28 | FAQ | "Is NRGbet safe and legit for UK players?" |
+| **nrgbet customer service** | 150 | 32 | H2 | "Customer Support & Help Resources" |
 | **live betting** | 1,600 | 85 | H2 | "Live Betting & In-Play Features" |
-| **nrg betting** | 1,000 | - | Natural | Throughout content (3-5 times) |
-| **new bookmakers** | 800 | 87 | H2 | "NRGbet vs Established UK Bookmakers" |
 | **esports betting** | 800 | 76 | H3 | "Esports Betting at NRGbet" |
-| **in play betting** | 700 | 80 | H3 | "Live Betting & In-Play Features" |
 | **football betting app** | 500 | 76 | H3 | "Football Betting on the NRGbet App" |
-| **energy bet** | 150 | 48 | Natural | Brand clarification in overview |
-| **safe betting sites** | 150 | 82 | FAQ | "Is NRGbet safe and legit for UK players?" |
-| **betting site reviews** | 150 | 78 | H1 | Main title |
 | **uk gambling commission** | 200 | 59 | H2 | "UK Gambling Commission Licensing & Safety" |
-| **accumulator betting** | 200 | 77 | H3 | "Accumulator Betting & Enhanced Odds" |
-| **mobile betting** | 300 | 93 | H2 | "NRGbet Mobile App Review" |
-| **nrgbet casino** | - | 33 | H2 | "NRGbet Casino: Games & Live Casino" |
 
 **Meta Keywords for AI to add:**
 ```
@@ -50,6 +69,7 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 
 **Structure:**
 1. **Direct Verdict (40-50 words):** Quick answer on whether NRGbet is worth it for UK punters, mention UKGC licensing upfront
+2. **Key Facts (50-100 words):** Core features, welcome bonus, mobile app, sports coverage
 
 **Total:** 100-150 words maximum
 
@@ -59,11 +79,13 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 - ❌ "Are you wondering if NRGbet is safe?"
 - ❌ Any rhetorical questions
 - ❌ Over 150 words
+- ❌ **NO AFFILIATE DISCLOSURE** (it's in website sidebar)
 
 **REQUIRED:**
 - ✅ Direct answer in first sentence
 - ✅ UKGC license mention in opening
 - ✅ Who NRGbet is best for
+- ✅ NO disclosure language in intro
 
 ---
 
@@ -92,15 +114,17 @@ nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new bet
 
 ---
 
-### Introduction & Quick Verdict (150-200 words)
+### Introduction & Quick Verdict (100-150 words)
 **Keywords:** nrgbet, nrgbet review
 
 **Content Requirements:**
 - Direct verdict on NRGbet as a UK betting site
 - UKGC license mention upfront (verify license number first)
 - Who NRGbet is best for (e.g., mobile-first punters, new operator seekers)
+- Key features: welcome bonus, mobile app, sports markets
+- NO affiliate disclosure (it's in sidebar)
 
-**Format:** Direct answer first, then disclosure
+**Format:** Direct answer first, no fluff, no disclosure
 
 ---
 
@@ -403,6 +427,49 @@ Include:
 - Football bet builder on app
 - Football-focused promotions accessible via app
 
+#### H3: NRGbet App Login & Account Access (100-150 words)
+**Keywords:** nrgbet login
+
+**Content Requirements:**
+- Login process (username/email + password)
+- Biometric login options (Face ID, Touch ID, fingerprint)
+- Stay logged in feature
+- Password recovery process
+- Account security features (2FA if available)
+- Quick bet placement without re-authentication
+- Login issues troubleshooting
+
+---
+
+### H2: Mobile Experience Across All Devices (200-250 words)
+**Keywords:** mobile betting, nrgbet app
+
+**Content Requirements:**
+1. **Responsive Mobile Web:**
+   - Mobile browser experience (if no app)
+   - Navigation and menu structure on mobile
+   - Bet slip functionality on mobile web
+   - Account management on mobile
+2. **Tablet Experience:**
+   - iPad/Android tablet optimization
+   - Landscape vs portrait mode
+   - Split-screen betting capability
+3. **Cross-Device Sync:**
+   - Bet history sync across devices
+   - Saved bets and favorites
+   - Account balance updates in real-time
+4. **Mobile-Specific Features:**
+   - One-tap betting
+   - Quick deposit options
+   - Mobile-exclusive promotions
+   - Location services for geofencing
+5. **Performance:**
+   - Page load speeds on mobile
+   - Data usage optimization
+   - Offline functionality (if any)
+
+**Internal Link:** Link to "UK Betting Apps" when discussing mobile experience
+
 ---
 
 ### H2: NRGbet Casino: Games & Live Casino (250-300 words)
@@ -664,6 +731,43 @@ Include:
 
 ---
 
+### H2: Betting Calculators & Tools for NRGbet Users (150-200 words)
+**Keywords:** betting calculator, accumulator calculator
+
+**Content Requirements:**
+1. **Why Use Betting Calculators:**
+   - Calculate potential winnings before placing bets
+   - Understand accumulator returns
+   - Compare different bet types
+   - Make informed betting decisions
+2. **Recommended Calculator Tools:**
+   - **Accumulator Calculator** → [Link to /sport/betting/calculators/accumulator-calculator.htm]
+     - Calculate acca returns with multiple selections
+     - Factor in each-way bets
+     - Account for non-runners
+   - **Dutching Calculator** → [Link to /sport/betting/calculators/dutching-calculator.htm]
+     - Split stakes across multiple selections
+     - Guarantee profit regardless of outcome
+   - **Odds Converter** → [Link to /sport/betting/calculators/odds-converter.htm]
+     - Convert between fractional, decimal, and American odds
+     - Understand implied probability
+   - **Matched Betting Calculator** → [Link to /sport/betting/calculators/matched-betting-calculator.htm]
+     - Calculate lay bets for bonus clearing
+     - Maximize free bet value
+3. **Using Calculators with NRGbet:**
+   - Input NRGbet odds directly
+   - Plan your betting strategy before depositing
+   - Maximize accumulator bonuses
+   - Calculate required turnover for bonus clearing
+
+**Internal Links:**
+- Link to 4 calculator pages (list URLs above)
+- Link to "Betting Strategies Guide"
+
+**Note:** These calculators work with ANY bookmaker, including NRGbet. Use them to maximize your betting strategy.
+
+---
+
 ### FAQs: Frequently Asked Questions (700-900 words total, 8 questions)
 
 Create 8 FAQ questions targeting high-volume keywords. Each answer should be 150-250 words.
@@ -915,12 +1019,15 @@ Create 8 FAQ questions targeting high-volume keywords. Each answer should be 150
 - **Time-Outs & Self-Exclusion:** Take a break from gambling with time-outs (24 hours to 6 weeks) or self-exclude from NRGbet for 6 months to 5 years
 - **Reality Checks:** Set reminders to alert you how long you've been gambling
 - **BeGambleAware:** NRGbet partners with BeGambleAware, offering free support and resources. Visit [BeGambleAware.org](https://www.begambleaware.org)
-- **National Gambling Helpline:** If you or someone you know has a gambling problem, call the National Gambling Helpline on **0808 8020 133** (free, confidential, 24/7)
+- **GamCare Helpline:** If you or someone you know has a gambling problem, call the **GamCare National Gambling Helpline on 0808 8020 133** (free, confidential, 24/7)
 - **Additional Resources:**
-  - GamCare: [www.gamcare.org.uk](https://www.gamcare.org.uk)
-  - Gambling Therapy: [www.gamblingtherapy.org](https://www.gamblingtherapy.org)
+  - GamCare: [www.gamcare.org.uk](https://www.gamcare.org.uk) - Provides support, information and advice for anyone affected by problem gambling
+  - Gambling Therapy: [www.gamblingtherapy.org](https://www.gamblingtherapy.org) - Free online support for gambling addiction
+  - Gordon Moody Association: [www.gordonmoody.org.uk](https://www.gordonmoody.org.uk) - Residential treatment for gambling addiction
 
 **Tagline:** "When the fun stops, stop."
+
+**Compliance Note:** This section MUST appear at the bottom of every review. 18+ only. GamCare helpline 0808 8020 133 is MANDATORY for UK content.
 
 **Internal Links:**
 - Link to "GamStop Self-Exclusion"
@@ -1002,9 +1109,9 @@ Create 8 FAQ questions targeting high-volume keywords. Each answer should be 150
 
 ---
 
-## INTERNAL LINKS (12 REQUIRED)
+## INTERNAL LINKS (16 REQUIRED)
 
-Place these 12 internal links naturally throughout the content:
+Place these 16 internal links naturally throughout the content:
 
 1. **Best UK Betting Sites** → /sport/betting/uk/index.htm
    *Placement:* Introduction or comparison section
@@ -1036,10 +1143,22 @@ Place these 12 internal links naturally throughout the content:
 10. **Accumulator Betting Tips** → /sport/betting/accumulator-tips.htm
     *Placement:* Accumulator subsection
 
-11. **GamStop Self-Exclusion** → /sport/betting/responsible-gambling.htm
+11. **Accumulator Calculator** → /sport/betting/calculators/accumulator-calculator.htm
+    *Placement:* Betting Calculators section
+
+12. **Dutching Calculator** → /sport/betting/calculators/dutching-calculator.htm
+    *Placement:* Betting Calculators section
+
+13. **Odds Converter** → /sport/betting/calculators/odds-converter.htm
+    *Placement:* Betting Calculators section
+
+14. **Matched Betting Calculator** → /sport/betting/calculators/matched-betting-calculator.htm
+    *Placement:* Betting Calculators section
+
+15. **GamStop Self-Exclusion** → /sport/betting/responsible-gambling.htm
     *Placement:* Responsible Gambling section
 
-12. **Responsible Gambling UK** → /sport/betting/responsible-gambling.htm
+16. **Responsible Gambling UK** → /sport/betting/responsible-gambling.htm
     *Placement:* Responsible Gambling section
 
 **Link naturally** - integrate into sentences, don't force placement.
@@ -1261,7 +1380,7 @@ The following elements will be added by AI in Phase 3:
 
 | Section | Target Words |
 |---------|-------------|
-| Introduction & Quick Verdict | 150-200 |
+| Introduction & Quick Verdict | 100-150 |
 | NRGbet Overview | 300-350 |
 | UK Licensing & Safety | 300-350 |
 | Welcome Bonus | 350-400 |
@@ -1271,16 +1390,19 @@ The following elements will be added by AI in Phase 3:
 | Live Betting | 300-350 |
 | Mobile App Review | 350-400 |
 | - Football app subsection | 100-150 |
+| - Login subsection | 100-150 |
+| Mobile Experience Across Devices | 200-250 |
 | NRGbet Casino | 250-300 |
 | Payment Methods | 300-350 |
 | Customer Support | 200-250 |
 | NRGbet vs Competitors | 300-350 |
 | Pros & Cons | 250-300 |
 | How We Rate | 150-200 |
+| Betting Calculators & Tools | 150-200 |
 | FAQs (8 questions) | 700-900 |
 | Final Verdict | 200-250 |
 | Responsible Gambling | 150-200 |
-| **TOTAL** | **2,500-3,500** |
+| **TOTAL** | **2,800-3,900** |
 
 ---
 

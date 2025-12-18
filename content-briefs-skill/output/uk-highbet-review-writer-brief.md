@@ -1,5 +1,8 @@
 # WRITER BRIEF: Highbet Review (UK Market)
 
+**VERSION:** V2 (Updated 2025-12-17)
+**STATUS:** Ready for Writer Assignment
+
 ## ASSIGNED TO: TBD
 
 ---
@@ -78,18 +81,18 @@ highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo
 **Total Word Count:** 100-150 words MAX
 
 **Structure:**
-1. **Opening (40-50 words):** Direct answer first
+1. **Opening (100-150 words):** Direct answer first
    - State what Highbet is
    - Mention key features (UKGC licensed, welcome bonus, sports + casino)
    - Authority statement
-
-   - "We may earn commission from operators featured on this page through affiliate links. This does not influence our independent editorial reviews. All recommendations are based on extensive testing of features, odds, payment processing, and customer support. Our goal is to help UK bettors find licensed, trustworthy sportsbooks. Read our full methodology."
+   - Brief overview of testing methodology
 
 **Forbidden:**
 - ❌ "Welcome to..."
 - ❌ "Looking for the best betting site?"
 - ❌ Any rhetorical questions
 - ❌ Over 150 words
+- ❌ Affiliate disclosure (handled by website sidebar)
 
 **Example Opening Sentence:**
 "Highbet is a UK Gambling Commission licensed sportsbook and casino offering competitive football betting, 22 sports markets, and a £30 free bet welcome bonus split across horse racing and football accumulators."
@@ -1160,13 +1163,14 @@ Before writing, complete these research tasks:
 **UK Market Requirements:**
 
 - [ ] **Age Requirement:** 18+ stated in introduction and throughout
-- [ ] **Responsible Gambling Hotline:** 0808 8020 133 included
+- [ ] **Responsible Gambling Hotline:** GamCare 0808 8020 133 included
 - [ ] **BeGambleAware Link:** Included in responsible gambling section
 - [ ] **GAMSTOP Mention:** Self-exclusion option mentioned in licensing/RG section
 - [ ] **UKGC License:** License 39483 verified and prominently featured
 - [ ] **Regulatory Body:** UK Gambling Commission mentioned as regulatory authority
 - [ ] **Last Updated Badge:** Phase 3 will add after H1 (writer does NOT include date in H1)
 - [ ] **No Dated Language in H1:** H1 is timeless (e.g., "Highbet Review: Sports Betting & Casino Analysis")
+- [ ] **NO Affiliate Disclosure:** Affiliate disclosure is in website sidebar, NOT in content
 
 ---
 
@@ -1212,8 +1216,8 @@ Before submitting to Phase 3, verify:
 
 - [ ] Word count: 8,500-9,000 words
 - [ ] H1 is timeless (no dates, no "2025")
-- [ ] Introduction: 100-150 words max (direct answer + disclosure)
-- [ ] All 18 secondary keywords mapped to H2/H3/FAQ sections
+- [ ] Introduction: 100-150 words max (direct answer, NO affiliate disclosure)
+- [ ] All 18 secondary keywords mapped to H2/H3/FAQ sections (brand-specific)
 - [ ] 10 FAQs completed with keyword targeting
 - [ ] All TIER 1 research tasks completed
 - [ ] Real testing conducted (withdrawal, customer support, mobile web)
@@ -1221,17 +1225,20 @@ Before submitting to Phase 3, verify:
 - [ ] Reddit sentiment analysis completed
 - [ ] 12 internal links included naturally
 - [ ] UKGC license 39483 verified and mentioned
-- [ ] UK compliance: 18+, 0808 8020 133, BeGambleAware
+- [ ] UK compliance: 18+, GamCare 0808 8020 133, BeGambleAware
 - [ ] Pros & cons comprehensive and honest
 - [ ] No dated language anywhere
 - [ ] UK English spelling throughout
 - [ ] Sources cited (no affiliate site citations for pros/cons)
 - [ ] Responsible gambling section complete
-- [ ] Payment methods table with processing times
+- [ ] Payment methods section with comparison table
+- [ ] Mobile Experience section (comprehensive review)
+- [ ] Calculator tool links integrated (Betting Odds, Bonus Calculator)
 - [ ] Sport coverage table/checklist
 - [ ] Mobile web screenshots described
 - [ ] No promotional/biased language
 - [ ] Balanced analysis (acknowledges cons like no app, no streaming)
+- [ ] NO affiliate disclosure in content
 
 ---
 

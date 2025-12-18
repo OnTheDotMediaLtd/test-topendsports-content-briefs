@@ -59,23 +59,33 @@ This is a **single-brand review** of Lunubet for the Irish market. Lunubet is a 
 
 ---
 
-## MANDATORY INTRO FORMAT
+## MANDATORY INTRO FORMAT (V2 STANDARD)
 
 **Total:** 100-150 words max
 
 **Structure:**
-1. **Opening (40-50 words):**
+1. **Opening (100-150 words):**
    - Sentence 1: Direct answer with positioning
    - Sentence 2: Authority/context statement
+   - Key features and assessment
+   - Testing/verification statement
 
-2. **Disclosure (50-75 words):**
+**⚠️ CRITICAL V2 REQUIREMENT: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The website sidebar contains the affiliate disclosure
+- Do NOT include "We may earn commission..." in article content
+- Do NOT mention affiliate relationships in introduction
+- Focus purely on brand assessment and features
 
 **Example:**
 ```
-Lunubet is a Curacao-licensed sportsbook that accepts Irish players, offering competitive odds across major sports including GAA and rugby. While not as established as Irish market leaders, Lunubet provides a solid alternative with competitive bonuses and a comprehensive betting platform.
-
-[Disclosure: We may earn commission when you sign up through our links. This helps us provide free, unbiased reviews to Irish bettors. We only recommend operators we've thoroughly researched and that accept Irish players. All assessments are based on extensive testing and verified user feedback. 18+ only. Problem Gambling Ireland: www.problemgambling.ie]
+Lunubet is a Curacao-licensed sportsbook that accepts Irish players, offering competitive odds across major sports including GAA and rugby. While not as established as Irish market leaders, Lunubet provides a solid alternative with competitive bonuses and a comprehensive betting platform. Our testing verified features across multiple sessions, analyzing mobile experience, payment processing, and customer support quality. This review is based on direct platform testing and verified user feedback from Irish bettors.
 ```
+
+**Forbidden:**
+- ❌ Affiliate disclosure statements
+- ❌ Commission-earning language
+- ❌ "We may earn..." phrasing
+- ❌ Over 150 words total
 
 ---
 
@@ -208,13 +218,15 @@ Lunubet is a Curacao-licensed sportsbook that accepts Irish players, offering co
 
 ---
 
-### H2: Lunubet App: Mobile Betting Experience (300-400 words) ⚠️ CRITICAL
+### H2: Lunubet App: Mobile Betting Experience (300-400 words total)
 **Keywords:** lunubet app
 
-**⚠️ THIS SECTION MUST BE 300-400 WORDS - DO NOT SKIP OR SHORTEN**
+**⚠️ V2 REQUIREMENT: Mobile Experience subsection must be 100-150 words**
 
-#### H3: iOS and Android Availability (100-150 words)
+#### H3: Mobile Experience (100-150 words) ⚠️ V2 REQUIRED SECTION
 **Keywords:** lunubet app
+
+**⚠️ STRICT WORD LIMIT: 100-150 words (V2 standard for all review pages)**
 
 **Include:**
 - App Store availability (check and link)
@@ -279,8 +291,10 @@ Lunubet is a Curacao-licensed sportsbook that accepts Irish players, offering co
 
 ---
 
-### H2: Payment Methods & Banking (400-450 words)
+### H2: Payment Methods & Banking (400-450 words) ⚠️ V2 REQUIRED SECTION
 **Keywords:** lunubet withdrawal
+
+**⚠️ V2 REQUIREMENT:** Payment methods comparison table is MANDATORY for review pages.
 
 #### H3: Deposit Options for Irish Players (150-200 words)
 **Keywords:** lunubet
@@ -625,11 +639,13 @@ Lunubet is a Curacao-licensed sportsbook that accepts Irish players, offering co
 **Include:**
 - **Age requirement:** 18+ (not 21+)
 - **Helpline:** Dunlewey Addiction Services: 1800 911 029
+- **Gamblers Anonymous Ireland:** 087 744 3577
 - **Problem Gambling Ireland:** www.problemgambling.ie
-- **Gamblers Anonymous Ireland:** www.gamblersanonymous.ie
+- **Gamblers Anonymous Ireland Website:** www.gamblersanonymous.ie
 - **BeGambleAware:** www.begambleaware.org
 - Self-exclusion information
 - "Gambling can be addictive" warning
+- **NO affiliate disclosure in content (it's in website sidebar)**
 
 **Writing Notes:** Ireland-specific compliance. Different from USA (21+, 1-800-522-4700).
 
@@ -743,6 +759,8 @@ Link to these pages naturally throughout:
 - **Age:** 18+ (NOT 21+)
 - **Currency:** EUR (NOT USD/GBP)
 - **Helpline:** Dunlewey Addiction Services: 1800 911 029
+- **Gamblers Anonymous Ireland:** 087 744 3577
+- **NO affiliate disclosure in content (it's in website sidebar)**
 - **Resources:**
   - Problem Gambling Ireland: www.problemgambling.ie
   - Gamblers Anonymous Ireland: www.gamblersanonymous.ie

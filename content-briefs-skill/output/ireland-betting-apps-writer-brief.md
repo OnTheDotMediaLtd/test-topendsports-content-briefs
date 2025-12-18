@@ -82,19 +82,21 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
    - Sentence 1: Direct answer with top 5 betting apps
    - Sentence 2: Authority statement about app testing
 
-2. **Disclosure (50-75 words):**
-   - Transparency about commission
+2. **Context (50-75 words):**
+   - Key features and Irish market relevance
+   - Testing methodology brief
 
 ### Example:
 > The best betting apps in Ireland are Lunubet, Betalright, Casina, Festival Play, and Millioner. These apps offer the most comprehensive mobile betting experience with superior App Store ratings, extensive GAA and horse racing coverage, and app-exclusive bonuses verified through extensive testing.
 >
-> [Disclosure: We may earn commission when you use our links to sign up for betting apps. This does not affect our rankings or recommendations. All app ratings are verified from the App Store and Google Play. We test each app independently on both iOS and Android devices to ensure accurate reviews. Our testing process includes real-money deposits and withdrawals to verify all features work as advertised.]
+> All app ratings are verified from the App Store and Google Play. We test each app independently on both iOS and Android devices to ensure accurate reviews. Our testing process includes real-money deposits and withdrawals to verify all features work as advertised.
 
 ### FORBIDDEN in Intro:
 - ❌ "Welcome to..."
 - ❌ "Looking for the best betting apps?"
 - ❌ Rhetorical questions
 - ❌ Over 150 words total
+- ❌ **NO affiliate disclosure** (it's in website sidebar)
 
 ---
 
@@ -118,6 +120,7 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
 ### Introduction (100-150 words)
 - Direct answer: Top 5 apps with App Store ratings
 - Authority statement about testing process
+- **NO affiliate disclosure** (it's in website sidebar)
 
 ### Comparison Table
 - **Brands:** All 10 brands
@@ -472,9 +475,11 @@ Condensed further:
 - Irish Revenue Commissioners licensing database
 - App Store/Google Play "What's New" sections
 
-### TIER 3 (Sparingly):
+### TIER 4 (Sparingly - Research Gaps Only):
 - Competitor affiliate sites for research gaps ONLY
-- ❌ NEVER cite affiliate sites for app pros/cons
+- ❌ **NEVER cite affiliate sites for pros/cons or recommendations**
+- ❌ **NEVER cite affiliate sites for app ratings**
+- Use only for "competitors offer X" comparisons
 
 ---
 
@@ -529,8 +534,9 @@ Condensed further:
 - **Gamblers Anonymous Ireland: 087 744 3577**
 - (NOT 1-800-522-4700 which is USA)
 
-- MUST appear in introduction (50-75 words)
-- Transparency about app testing process
+### Affiliate Disclosure:
+- **NO affiliate disclosure in content** (it's in website sidebar)
+- Remove all commission/earnings mentions from intro and content
 
 ### Licensing:
 - Irish Revenue Commissioners licensing system
@@ -594,23 +600,29 @@ Condensed further:
 
 ---
 
-## QUALITY CHECKLIST
+## QUALITY CHECKLIST (V2 STANDARDS)
 
 Before submitting, verify:
 
+### V2 Critical Requirements:
+- [ ] **NO affiliate disclosure in content** (it's in website sidebar) ⭐ **V2 CRITICAL**
+- [ ] Intro is 100-150 words (not longer)
+- [ ] Mobile Experience section (150-200 words) for ALL 10 brands ⭐ **V2 CRITICAL**
+- [ ] Payment Methods Comparison table included ⭐ **V2 CRITICAL**
+- [ ] Calculator Tool Links section with contextual links ⭐ **V2 CRITICAL**
+- [ ] TIER 4 source warning in Source Requirements ⭐ **V2 CRITICAL**
+- [ ] All 11 secondary keywords mapped to sections
+
+### Standard Requirements:
 - [ ] App Store rating cited for EVERY brand (iOS)
 - [ ] Google Play rating cited for EVERY brand (Android)
-- [ ] Mobile Experience section (150-200 words) for ALL 10 brands
 - [ ] GAA app features covered (where relevant)
 - [ ] Horse racing app interface covered (where relevant)
 - [ ] iOS download guide (step-by-step)
 - [ ] Android download guide (step-by-step)
-- [ ] All 11 secondary keywords mapped to sections (removed "free bets ireland" - PRIMARY keyword of free-bets page)
 - [ ] 10 FAQs targeting keywords (100-125 words each)
 - [ ] 12+ internal links included
-- [ ] Payment methods comparison table
-- [ ] App ratings comparison table
-- [ ] Irish compliance (18+, Irish hotline)
+- [ ] Irish compliance (18+, Gamblers Anonymous Ireland: 087 744 3577)
 - [ ] NO dated language in H1
 - [ ] Last Updated badge included
 - [ ] Word count: 7,000-8,000 words

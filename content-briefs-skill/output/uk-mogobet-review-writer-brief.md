@@ -75,9 +75,9 @@ mogobet, mogobet sport, mogobet review, mogobet sign up offer, mogobet promo cod
 MogoBet is a UK-licensed betting site offering both sports betting and casino games.
 It provides competitive welcome bonuses and supports popular UK payment methods including
 PayPal and Skrill. Regulated by the UK Gambling Commission with GamStop integration.
-
-no impact on editorial integrity, recommendations based on research, etc.]
 ```
+
+**NO affiliate disclosure in intro** (it's in website sidebar, NOT in content)
 
 ---
 
@@ -240,43 +240,26 @@ Dual sports + casino coverage differentiates MogoBet from sports-only competitor
 
 ---
 
-### H2: MogoBet Mobile App Review (350 words)
+### H2: Mobile Experience (100-150 words)
 
 **Target keyword:** mogobet app (10/mo)
 
-#### H3: App Availability & Download (100 words)
-- iOS app available? (Check App Store)
-- Android app available? (Check Google Play)
-- Or mobile-optimized website only?
-- Download links and QR codes
-- Installation process
-- App size (MB)
+**Content Requirements:**
+- iOS app availability status (Check App Store)
+- Android app availability status (Check Google Play)
+- Or mobile-optimized website approach
+- **MUST CITE:** App Store ratings if app exists (e.g., "4.5/5 from 12,000 reviews")
+- **MUST CITE:** Google Play ratings if app exists (e.g., "4.3/5 from 8,500 reviews")
+- User interface quality and navigation
+- Performance and reliability
+- Key mobile features (live betting, quick deposits, cashout)
 
-#### H3: App Features & User Experience (150 words)
-- Navigation ease (menu structure, bet slip access)
-- Speed and performance
-- Live betting experience on mobile
-- Touch ID/Face ID login
-- Notifications and alerts
-- Account management features
-- Cash out on mobile
-- Streaming availability (if any)
+**If No App:** Explain mobile browser experience
 
-#### H3: App Store Ratings (100 words)
-
-**TIER 1 SOURCE REQUIRED:**
-- iOS rating: X.X/5 stars (X,XXX reviews) - analyzed [date range]
-- Android rating: X.X/5 stars (X,XXX reviews) - analyzed [date range]
-- Common praise themes from reviews
-- Common complaint themes from reviews
-- Recent updates and improvements
-
-**Citation format:**
-"According to X reviews on App Store, users report [finding]"
-"Google Play reviews show [rating] with users praising [feature]"
-
-**Internal link:**
-- [Best Betting Apps UK](/sport/betting/uk/betting-apps.htm)
+**Sources Required:**
+- App Store data (actual ratings and review count)
+- Google Play data (actual ratings and review count)
+- Reddit user experiences: r/SoccerBetting (cite specific user quotes if available)
 
 ---
 
@@ -602,7 +585,9 @@ Check Reddit r/SoccerBetting or Trustpilot for user-reported support experiences
 - UK Helpline: **0808 8020 133**
 
 **Format:**
-"MogoBet is committed to responsible gambling. All customers must be 18 or over. The site offers deposit limits, loss limits, and reality checks. UK customers can self-exclude via GamStop. For help with gambling problems, visit BeGambleAware.org or call 0808 8020 133."
+"MogoBet is committed to responsible gambling. All customers must be 18 or over. The site offers deposit limits, loss limits, and reality checks. UK customers can self-exclude via GamStop. For help with gambling problems, visit BeGambleAware.org or call GamCare: 0808 8020 133."
+
+**CRITICAL:** NO affiliate disclosure in content (it's in website sidebar)
 
 ---
 
@@ -627,10 +612,11 @@ Check Reddit r/SoccerBetting or Trustpilot for user-reported support experiences
 
 ---
 
-## INTERNAL LINKS REQUIRED (Minimum 12)
+## INTERNAL LINKS & CALCULATOR TOOLS (Minimum 12)
 
+### Internal Links
 1. [Best Betting Sites UK](/sport/betting/uk/index.htm) - Introduction/Final Verdict
-2. [Best Betting Apps UK](/sport/betting/uk/betting-apps.htm) - Mobile App section
+2. [Best Betting Apps UK](/sport/betting/uk/betting-apps.htm) - Mobile Experience section
 3. [New Betting Sites UK](/sport/betting/uk/new-betting-sites.htm) - Introduction if applicable
 4. [Free Bets UK](/sport/betting/uk/free-bets.htm) - Bonus section
 5. [Football Betting Sites UK](/sport/betting/uk/football-betting-sites.htm) - Sports Markets section
@@ -641,6 +627,13 @@ Check Reddit r/SoccerBetting or Trustpilot for user-reported support experiences
 10. [UK Betting Offers](/sport/betting/uk/betting-offers.htm) - Bonus comparison
 11. [Horse Racing Betting Sites](/sport/betting/uk/horse-racing-betting.htm) - Sports Markets if applicable
 12. [BeGambleAware.org](https://www.begambleaware.org) - Responsible Gambling (external)
+
+### Calculator Tool Links (Required)
+
+Link to these calculator tools naturally in relevant sections:
+
+- **Odds Calculator** → `/sport/betting/tools/odds-calculator.htm` (Betting Features section)
+- **Accumulator Calculator** → `/sport/betting/tools/accumulator-calculator.htm` (If accumulators mentioned)
 
 **Placement:**
 - Use naturally in body text where contextually relevant

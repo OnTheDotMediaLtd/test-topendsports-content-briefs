@@ -55,7 +55,7 @@
 ### Primary Keyword
 **"best betting sites ireland"** (450/mo, KD 74, 2,400 traffic potential)
 
-### Secondary Keywords (14 total)
+### Secondary Keywords (13 total)
 
 **High Volume (500-900/mo):**
 - "betting sites ireland" (900/mo) → H2: "Comprehensive Guide to Betting Sites in Ireland"
@@ -72,16 +72,20 @@
 - "horse betting sites" (150/mo) → H2: "Best Horse Racing Betting Sites Ireland"
 - "betting companies ireland" (100/mo) → H3: "Licensed Betting Companies"
 - "irish bookmakers" (100/mo) → FAQ
-- "betting sites with free bets" (100/mo) → H2: "Free Bets and Welcome Bonuses"
 - "best online bookies" (90/mo) → FAQ
 
 **Low Volume (Natural Integration):**
 - "best bookies ireland" (40/mo)
 - "best irish bookmakers" (20/mo)
 
+**Unmapped Keywords:** NONE (all 13 keywords mapped to sections)
+
+**Removed for Cannibalization:**
+- ❌ "betting sites with free bets" (100/mo) → Belongs to /ireland/free-bets.htm dedicated page
+
 ### Volume Analysis
-- **Total Cluster Volume:** 3,610/mo
-- **Increase vs Primary:** 702% (8.0x multiplier)
+- **Total Cluster Volume:** 3,510/mo
+- **Increase vs Primary:** 680% (7.8x multiplier)
 - **Traffic Potential:** 2,400+ (primary alone)
 
 ---
@@ -184,11 +188,12 @@
 
 ## LOGISTICS
 
-- **Word Count Target:** 8,000-9,000 words (based on #2 competitor analysis)
+- **Word Count Target:** ~7,500 words (HUB PAGE - focused depth, links to dedicated pages)
 - **Estimated Time:** 3-4 days (including Ahrefs research, writing, technical implementation)
 - **Compliance:** Ireland-specific (18+, Irish hotline, Revenue Commissioners license)
 - **Review Requirements:** Verify all 10 brands accept Irish players
 - **Launch Dependencies:** Individual brand review pages should launch simultaneously
+- **Hub Strategy:** Link to dedicated pages (free-bets, betting-apps) in first 500 words to avoid cannibalization
 
 ---
 

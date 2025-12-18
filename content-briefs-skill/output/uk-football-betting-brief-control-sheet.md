@@ -21,13 +21,12 @@
 ### Primary Keyword
 **"football betting sites"** (3,200/mo) - Difficulty: 91
 
-### Secondary Keywords (12 Mapped)
+### Keyword-to-Section Mapping Table (11 Secondary Keywords)
 
 | Keyword | Volume | Difficulty | Placement | Target Section |
 |---------|--------|------------|-----------|----------------|
 | **football betting tips** | 10,000/mo | 86 | **H2** | Top Football Betting Tips for UK Punters |
 | **football betting odds** | 1,700/mo | 88 | **H2** | Understanding Football Betting Odds |
-| **top 20 betting sites uk free** | 1,300/mo | 89 | **H2** | Best Free Bet Offers at UK Football Betting Sites |
 | **online football betting uk** | 450/mo | 87 | **H2** | How Online Football Betting Works in the UK |
 | **best football betting sites uk** | 400/mo | 74 | **H2** | Best Football Betting Sites UK Ranked |
 | **best football betting site** | 400/mo | 84 | Natural | Throughout content |
@@ -37,6 +36,8 @@
 | **whats the best betting site** | 80/mo | 80 | **FAQ** | What's the best betting site for football in the UK? |
 | **new betting account** | 60/mo | 91 | **H3** | Opening a New Betting Account |
 | **newest sports betting sites** | 20/mo | 83 | **FAQ** | What are the newest sports betting sites in the UK? |
+
+**Note:** Removed "top 20 betting sites uk free" (1,300/mo) - this general keyword belongs to [UK Betting Hub](/sport/betting/uk/index.htm) and [UK Free Bets](/sport/betting/uk/free-bets/) pages to avoid keyword cannibalization.
 
 ### High-Volume Branded Keywords (For Reference/Comparison)
 
@@ -52,9 +53,9 @@ These traditional UK bookmakers have massive search volume and should be referen
 
 ### Total Keyword Cluster
 - **Primary Volume:** 3,200/mo
-- **Secondary Total:** 35,420/mo
-- **Combined Opportunity:** 38,620/mo
-- **Volume Increase:** 1,107% above primary keyword
+- **Secondary Total:** 34,120/mo (after removing cannibalized keyword)
+- **Combined Opportunity:** 37,320/mo
+- **Volume Increase:** 1,066% above primary keyword
 
 ---
 
@@ -149,10 +150,10 @@ Each of the 9 brands must include:
 | Premier League Betting | 300-400 | Premier league betting sites (150/mo) |
 | Football Betting Tips | 500-600 | Football betting tips (10,000/mo) |
 | Understanding Odds | 400-500 | Football betting odds (1,700/mo) |
-| Free Bet Offers | 350-450 | Top 20 betting sites uk free (1,300/mo) |
+| Football Betting Bonuses & Promotions | 300-400 | Betting company offers (100/mo) - links to dedicated free bets pages |
 | How Online Betting Works | 300-400 | Online football betting uk (450/mo) |
 | Football Betting Apps | 250-350 | Football betting apps uk (80/mo) |
-| Payment Methods Comparison | 200-300 | New betting account (60/mo) |
+| Payment Methods Comparison | 200-300 | Supporting content |
 | Opening New Account | 150-200 | New betting account (60/mo) |
 | FAQs (10 questions) | 1,200-1,500 | Multiple question keywords |
 | Responsible Gambling | 150-200 | UK compliance |
@@ -339,8 +340,8 @@ Phase 1 Complete. Ready for Phase 2 (Writer Brief Creation).
 
 **Validation Checklist:**
 - [x] Primary keyword with real Ahrefs volume (3,200/mo)
-- [x] 12 secondary keywords with real volumes
-- [x] Total cluster volume calculated (38,620/mo)
+- [x] 11 secondary keywords with real volumes (removed 1 for cannibalization avoidance)
+- [x] Total cluster volume calculated (37,320/mo)
 - [x] 9 brands selected with rationale
 - [x] Competitor gaps identified
 - [x] Per-brand section structure defined (3 sections each)

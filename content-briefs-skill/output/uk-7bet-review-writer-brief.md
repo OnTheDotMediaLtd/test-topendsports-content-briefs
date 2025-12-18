@@ -80,13 +80,10 @@ Map ALL 17 keywords to specific sections:
 1. **Opening (40-50 words):**
    - Sentence 1: Direct verdict on 7Bet
    - Sentence 2: Authority statement (testing methodology)
-
-   - Standard disclosure box explaining commission structure
-   - Does not affect recommendations or ratings
+   - Sentence 3: Key differentiator or value proposition
 
 **Example Opening:**
 > "7Bet is a competitive odds specialist offering low betting margins (5.24%) and 37 sports markets, though it lacks a mobile app. This UKGC-licensed operator launched in the UK in mid-2024 with a dual sportsbook and casino offering. Our analysis is based on extensive platform testing and user review analysis."
->
 
 **FORBIDDEN:**
 - ❌ "Welcome to our 7Bet review..."
@@ -94,6 +91,7 @@ Map ALL 17 keywords to specific sections:
 - ❌ Rhetorical questions
 - ❌ Dated language in H1 ("2025", "December 2025")
 - ❌ Over 150 words total
+- ❌ Affiliate disclosure in intro (it's in website sidebar)
 
 ---
 
@@ -253,6 +251,7 @@ Map ALL 17 keywords to specific sections:
 - 1x wagering on free bet (good!)
 - 5 days to use free bet (tight window)
 - Winnings paid as cash (no wagering on winnings)
+- **Calculator Tool:** Estimate free bet returns with [free bet calculator](/sport/betting-tools/free-bet-calculator.htm)
 
 **Casino T&Cs Breakdown:**
 - Deposit £10, get £50 to play (total £60)
@@ -260,6 +259,7 @@ Map ALL 17 keywords to specific sections:
 - £2 maximum bet while wagering (standard)
 - 30 days to complete wagering (reasonable)
 - Only non-jackpot slots and crash games count
+- **Calculator Tool:** Calculate wagering progress with [bonus wagering calculator](/sport/betting-tools/wagering-calculator.htm)
 
 **Comparison:** Which bonus is better?
 - Sports bonus: Lower value but easier terms (1x wagering, cash winnings)
@@ -298,9 +298,11 @@ Map ALL 17 keywords to specific sections:
   - 5.24% average (VERY competitive)
   - UK market average: 6-7%
   - Better value for bettors compared to established brands
+  - **Calculator Tool:** Use [betting margin calculator](/sport/betting-tools/margin-calculator.htm) to compare value across bookmakers
 - **Odds Quality:**
   - Competitive positioning vs Bet365, William Hill
   - Odds format options (decimal, fractional, American)
+  - **Calculator Tool:** Convert odds formats with [odds converter](/sport/betting-tools/odds-converter.htm)
 - **Live Betting Features:**
   - In-play betting available
   - Live betting markets offered
@@ -318,6 +320,7 @@ Map ALL 17 keywords to specific sections:
   - ❌ NO best odds guaranteed (limitation vs competitors)
   - Each-way terms
   - Ante-post markets
+  - **Calculator Tool:** Calculate each-way returns with [each-way calculator](/sport/betting-tools/each-way-calculator.htm)
 - **Market Depth:**
   - Pre-match markets per event
   - Prop bet availability
@@ -326,11 +329,11 @@ Map ALL 17 keywords to specific sections:
 **Internal Links:**
 - "football betting sites UK" → `/sport/betting/uk/best-football-betting-sites.htm`
 - "horse racing betting" → `/sport/betting/uk/horse-racing-betting.htm`
-- "betting odds calculator" → `/sport/betting-tools/odds-calculator.htm-converter.htm`
+- "betting odds calculator" → `/sport/betting-tools/odds-calculator.htm`
 
 ---
 
-### H2: 7Bet App: Mobile Website vs Native App (300 words)
+### H2: Mobile Experience: App & Mobile Website (300 words)
 **Keywords:** 7bet app, 7bet app download
 
 **Critical Message: NO NATIVE APP AVAILABLE**
@@ -369,6 +372,7 @@ Map ALL 17 keywords to specific sections:
   - Quick bet placement
   - Accumulator builder
   - Cash out (if available on mobile)
+  - **Calculator Integration:** Use [odds calculator](/sport/betting-tools/odds-calculator.htm) to verify potential returns before placing bets
 - **Comparison to App-Based Competitors:**
   - Bet365 app features vs 7Bet mobile web
   - William Hill app features vs 7Bet mobile web
@@ -830,6 +834,11 @@ Worth trying for experienced bettors seeking value. Set expectations: verify acc
 - Gambling can be addictive - play responsibly
 - Last Updated: [Current Date] (handled by AI in Phase 3)
 
+**Calculator Tools:**
+- [Betting Calculator Hub](/sport/betting-tools/) - Access all betting calculators
+- [Odds Calculator](/sport/betting-tools/odds-calculator.htm) - Calculate potential returns
+- [Accumulator Calculator](/sport/betting-tools/accumulator-calculator.htm) - Multi-bet calculations
+
 **Internal Link:** "responsible gambling tools" → `/sport/betting/responsible-gambling.htm`
 
 ---
@@ -871,13 +880,16 @@ Worth trying for experienced bettors seeking value. Set expectations: verify acc
 | football betting sites UK | /sport/betting/uk/best-football-betting-sites.htm | Sports coverage section - football betting depth |
 | casino betting sites | /sport/betting/uk/best-casino-sites.htm | Casino section - comparison to dedicated casino sites |
 | free bet offers | /sport/betting/uk/free-bets.htm | Bonus section - free bet comparison |
-| betting odds calculator | /sport/betting-tools/odds-calculator.htm-converter.htm | Sportsbook features - odds conversion tool |
+| betting odds calculator | /sport/betting-tools/odds-calculator.htm | Sportsbook features - odds conversion tool |
 | horse racing betting | /sport/betting/uk/horse-racing-betting.htm | Sports coverage - horse racing markets |
 | betting sites with PayPal | /sport/betting/uk/index.htm | Payment methods - PayPal withdrawal times |
 | Bet365 review | /sport/betting/uk/22bet-review.htm | Competitor comparison in verdict - established alternative |
 | William Hill review | /sport/betting/uk/bet442-review.htm | Established brand comparison - app-based alternative |
 | responsible gambling tools | /sport/betting/responsible-gambling.htm | Responsible gambling section |
 | how to claim a free bet | /sport/betting/guides/how-to-claim-free-bet.htm | Bonus claiming process guide |
+| free bet calculator | /sport/betting-tools/free-bet-calculator.htm | Bonus section - calculate free bet value |
+| accumulator calculator | /sport/betting-tools/accumulator-calculator.htm | Sports section - multi-bet calculations |
+| each-way calculator | /sport/betting-tools/each-way-calculator.htm | Horse racing section - each-way bet calculations |
 
 ---
 

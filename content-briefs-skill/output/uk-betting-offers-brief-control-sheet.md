@@ -148,7 +148,8 @@
 - [x] Mobile App Exclusive Offers - 200 words
 - [x] Champions League & Seasonal Offers - 200 words
 - [x] Understanding Wagering Requirements - 250 words
-- [x] Payment Methods for Qualifying Deposits - 200 words
+- [x] Payment Methods Comparison Table (all 9 brands) - 400 words
+- [x] Calculator Tool Links (offer value, wagering, returns calculators) - 300 words
 - [x] Best Free Bets Without Wagering Requirements - 200 words
 - [x] FAQs (8-10 questions) - 400 words
 - [x] Responsible gambling section - 100 words
@@ -216,6 +217,7 @@
 ### Compliance:
 - 18+ age restriction (UK market)
 - BeGambleAware.org helpline
+- GamCare helpline: 0808 8020 133
 - UKGC license numbers for all 9 operators
 - Responsible gambling section at bottom
 - Full T&Cs for each offer with wagering requirements clearly stated
@@ -271,11 +273,11 @@
 ## LOGISTICS
 
 ### Target Metrics:
-- **Word Count:** 4,000+ words
+- **Word Count:** 7,000-7,300 words
 - **Target Word Count per Brand:** 400-450 words (top 3), 350-400 (mid-tier), 300-350 (lower tier)
 - **Introduction:** 150 words
-- **FAQ Section:** 400 words (8-10 questions)
-- **Supporting Sections:** 2,000 words
+- **FAQ Section:** 1,500 words (10 questions)
+- **Supporting Sections:** 2,800 words (includes Payment Methods Comparison + Calculator Tools)
 
 ### Timeline Estimate:
 - Research & verification: 3-4 hours
@@ -294,6 +296,7 @@
 ### Compliance:
 - Age: 18+ (UK market)
 - Helpline: BeGambleAware.org
+- Phone: GamCare 0808 8020 133
 - Responsible gambling: Section at bottom
 - License verification: UKGC numbers for all 9 operators
 - T&Cs transparency: Full wagering requirements stated for each offer

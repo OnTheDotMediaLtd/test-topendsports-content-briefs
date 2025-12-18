@@ -2,7 +2,21 @@
 
 **Generated:** December 15, 2025
 **Phase:** 1 - Research & Discovery
-**Status:** Complete
+**Status:** Complete ✅ **UPDATED TO V2 STANDARDS**
+
+---
+
+## V2 COMPLIANCE STATUS
+
+| Requirement | Status | Notes |
+|-------------|--------|-------|
+| **Keyword-to-Section Mapping** | ✅ Complete | All 12 secondary keywords mapped in writer brief |
+| **Mobile Experience Section** | ✅ Mandated | 150-200 words per brand (all 10 brands) |
+| **Payment Methods Comparison** | ✅ Included | Dedicated section in outline |
+| **Calculator Tool Links** | ✅ Included | Parlay calculator, odds calculator links |
+| **Intro Format** | ✅ Updated | 100-150w, NO affiliate disclosure |
+| **Source Requirements** | ✅ Updated | TIER 1, TIER 2, TIER 4 warning added |
+| **Compliance** | ✅ Ireland-Specific | Gamblers Anonymous Ireland: 087 744 3577, 18+ |
 
 ---
 

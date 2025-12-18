@@ -51,21 +51,18 @@
 
 ## MANDATORY INTRO FORMAT
 
-**Structure (150 words MAXIMUM):**
+**Structure (100-150 words):**
 
-1. **Quick Verdict (40-50 words):**
+1. **Complete Intro (100-150 words total):**
    - Sentence 1: What is Casinia and who operates it?
    - Sentence 2: Key strengths (35,000+ fixtures, crypto support, Altenar platform)
    - Sentence 3: Primary consideration (Anjouan license)
-
-   - Standard TES disclosure language
-   - Transparent about commission structure
-
-3. **Brief Context (25-30 words):**
-   - Ireland sports betting landscape mention
+   - Additional context: Ireland sports betting landscape mention
    - Position Casinia as international operator targeting Irish market
 
-**Total:** 150 words maximum
+2. **NO affiliate disclosure** (it's in website sidebar)
+
+**Total:** 100-150 words maximum
 
 **FORBIDDEN:**
 - ❌ "Welcome to..."
@@ -73,6 +70,7 @@
 - ❌ Rhetorical questions
 - ❌ Over 150 words
 - ❌ Dated language
+- ❌ Affiliate disclosure in intro
 
 **Example Opening:**
 > "Casinia is an Altenar-powered sportsbook operated by Stellar Ltd, offering 35,000+ fixtures across 40+ sports with cryptocurrency payment support (USDT). The platform delivers modern features including Bet Builder, Cash Out functionality, and a dedicated mobile app, though it operates under an Anjouan license rather than Tier 1 regulation.
@@ -642,7 +640,9 @@ Include:
 - Self-exclusion functionality
 - Time-out/cooling-off features
 - 18+ age requirement for Ireland
+- **Gamblers Anonymous Ireland:** 087 744 3577
 - **Problem gambling helpline: 087 744 3577 (Ireland)**
+- **NO affiliate disclosure in content (it's in website sidebar)**
 
 **CRITICAL:** Use Ireland-specific hotline (087 744 3577), NOT US number (1-800-522-4700)
 
@@ -740,8 +740,10 @@ Include:
 
 ### Ireland-Specific:
 - ✅ **Age Requirement:** 18+ (Ireland)
+- ✅ **Gamblers Anonymous Ireland:** 087 744 3577
 - ✅ **Hotline:** 087 744 3577 (Ireland problem gambling hotline)
 - ✅ **Responsible Gambling Section:** Required at bottom
+- ✅ **NO affiliate disclosure in content (it's in website sidebar)**
 - ✅ **GRAI Context:** Note Ireland's Gambling Regulatory Authority launching 2025-2026
 
 ### License Transparency:

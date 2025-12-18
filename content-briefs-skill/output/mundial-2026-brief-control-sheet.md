@@ -262,7 +262,7 @@ Primary keyword (4,900/mo) qualifies for **8 brands** per high-volume guidelines
 |-------------|-------|
 | **Age** | 21+ (18+ in MT, NH, RI, WY, DC) |
 | **Hotline** | 1-800-522-4700 |
-| **Affiliate Disclosure** | Required in intro |
+| **Affiliate Disclosure** | **NO** - In website sidebar, NOT in content |
 | **Language** | USA Spanish (ustedes, NOT vosotros) |
 | **Market** | USA sportsbooks only (NOT European/LatAm) |
 

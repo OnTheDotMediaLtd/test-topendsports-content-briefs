@@ -20,7 +20,7 @@
 
 ---
 
-## SECONDARY KEYWORD OPTIMIZATION
+## KEYWORD-TO-SECTION MAPPING TABLE
 
 | Keyword | Volume/mo | Difficulty | Placement | Section Title |
 |---------|-----------|------------|-----------|---------------|
@@ -49,11 +49,15 @@
 **Structure:**
 1. **Opening (40-50 words):**
    - Sentence 1: Direct answer - "The best football betting sites in the UK are Bet442, LuckyMate, and NRGbet."
-   - Sentence 2: Authority statement - Why trust this guide
+   - Sentence 2: Authority statement - Why trust this guide (based on testing, research, user feedback)
 
-   - Standard disclosure: "We may earn commission when you use our links to sign up at betting sites. This does not affect our rankings or your experience. All sites reviewed here are fully licensed by the UK Gambling Commission. Our reviews are independent and based on features, odds quality, mobile experience, and customer feedback."
+2. **Context (50-100 words):**
+   - What makes these sites stand out
+   - Key evaluation criteria (odds, mobile experience, markets, reliability)
+   - All sites are UKGC-licensed and verified
 
 **FORBIDDEN:**
+- ❌ **NO affiliate disclosure in content** (it's in website sidebar)
 - ❌ "Welcome to our guide..."
 - ❌ "Looking for the best..."
 - ❌ Rhetorical questions
@@ -497,13 +501,15 @@ Place these links naturally throughout content:
 ✅ **BeGambleAware.org** - for responsible gambling statistics
 ✅ **Industry publications** - for UK betting market context
 
-### FORBIDDEN SOURCES
+### TIER 4 - FORBIDDEN SOURCES ⚠️
 
 ❌ **DO NOT cite:**
 - Affiliate sites (ActionNetwork, Covers, TheLines, Oddschecker) for pros/cons
 - Competitor comparison sites
 - Unverified user reviews from unknown forums
 - Wikipedia for brand information
+- **DO NOT fabricate:** App ratings, review counts, Trustpilot scores, Reddit threads
+- **DO NOT invent:** Statistics, user testimonials, withdrawal times without verification
 
 ---
 

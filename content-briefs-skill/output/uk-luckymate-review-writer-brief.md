@@ -79,10 +79,7 @@ All keywords MUST be naturally integrated. Keyword placement indicated below:
 **Example:**
 > LuckyMate is a UK-licensed betting site offering 0% margin odds on pre-match and in-play betting across 40+ sports, making it one of the most value-focused operators for serious punters. While it lacks a mobile app, the web platform delivers excellent in-play betting with over 100 markets per football match and features like Bet Builder and ACCA Boost.
 
-
-**Example:**
-
-3. **Overview paragraph (80-100 words)**
+**Overview paragraph (80-100 words)**
    - What reader will learn in this review
 
 ### ❌ FORBIDDEN PHRASES:
@@ -339,29 +336,19 @@ Green badge below H1 with current date
 
 ---
 
-### H2: Mobile Experience - NO Dedicated App (300-400 words)
+### H2: Mobile Experience - NO Dedicated App (100-150 words)
 **Keywords:** luckymate app, mobile betting
 
-**🚨 CRITICAL SECTION: Be honest and direct about app absence**
+**🚨 CRITICAL MESSAGE: NO app available**
 
-#### Key Points:
-1. **NO iOS or Android app available** (100-120 words)
-   - App Store search confirmed: NO LuckyMate app (December 2025)
-   - Google Play search confirmed: NO LuckyMate app (December 2025)
-   - This is a MAJOR weakness vs competitors
-
-2. **Mobile web browser experience** (100-120 words)
-   - Can access via LuckyMate.co.uk on mobile browser
-   - Functional but not optimized
-   - Navigation issues reported
-   - No app notifications or quick bet placement
-   - Slower than dedicated app
-
-3. **Comparison with competitors' apps** (80-100 words)
-   - Bet365: 4.8/5 App Store rating
-   - William Hill: 4.7/5 rating
-   - Ladbrokes: 4.6/5 rating
-   - LuckyMate: NO APP - significant disadvantage
+**Key Points:**
+- **NO iOS or Android app** - App Store and Google Play searches confirm no LuckyMate app (December 2025)
+- **Mobile web browser only** - Access via LuckyMate.co.uk on mobile browser
+- Functional but not optimized compared to dedicated apps
+- Navigation issues reported by users
+- No push notifications or quick bet placement
+- Comparison: Bet365 (4.8/5), William Hill (4.7/5), Ladbrokes (4.6/5) all have apps
+- **Major weakness** vs competitors
 
 **Recommendation:** Use desktop or laptop for best LuckyMate experience.
 
@@ -478,7 +465,7 @@ Green badge below H1 with current date
 
 **UK Helplines:**
 - BeGambleAware.org
-- National Gambling Helpline: 0808 8020 133
+- GamCare: 0808 8020 133
 - GamStop.co.uk
 
 ---
@@ -635,13 +622,14 @@ Green badge below H1 with current date
 - Link to BeGambleAware.org
 - Link to GamStop.co.uk (UK self-exclusion)
 - Link to Gambling Commission advice
-- National Gambling Helpline: 0808 8020 133
+- GamCare: 0808 8020 133
 - Reminder to gamble responsibly
 - Problem gambling warning signs
+- **NO affiliate disclosure in content** (it's in website sidebar)
 
 ---
 
-## INTERNAL LINKS (12 Required)
+## INTERNAL LINKS & CALCULATOR TOOLS (12 Required)
 
 Insert naturally throughout content:
 
@@ -659,6 +647,13 @@ Insert naturally throughout content:
 | UKGC Licensed Betting Sites | /sport/betting/uk/index.htm | Safety & Licensed |
 | Best Betting Apps UK | /sport/betting/uk/betting-apps.htm | Mobile Experience (contrast) |
 | UK Football Betting Guide | /sport/betting/uk/football-betting-sites.htm | Sports Coverage |
+
+### Calculator Tool Links (Required)
+
+Link to these calculator tools naturally in relevant sections:
+
+- **Odds Calculator** → `/sport/betting/tools/odds-calculator.htm` (0% Margin section, Payment Methods)
+- **Accumulator Calculator** → `/sport/betting/tools/accumulator-calculator.htm` (ACCA Boost section)
 
 ---
 

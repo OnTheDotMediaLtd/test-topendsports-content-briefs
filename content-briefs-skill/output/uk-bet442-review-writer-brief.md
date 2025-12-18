@@ -53,7 +53,7 @@ bet442, bet442 review, 442 bet, bet442 login, bet442 casino, bet442 app, bet442 
 **Total Word Count:** 100-150 words (NO MORE)
 
 **Structure:**
-1. **Opening (40-50 words):** Direct verdict on Bet442 - Is it worth using? What's it best for?
+1. **Opening (100-150 words):** Direct verdict on Bet442 - Is it worth using? What's it best for?
 
 **Example Format:**
 ```
@@ -61,10 +61,11 @@ Bet442 is a UK-licensed bookmaker offering [quick verdict - sports betting and c
 UK Gambling Commission licensed, it competes with [mention bet365/William Hill for context].
 Best for [target audience].
 
-[DISCLOSURE: We may earn commission when you sign up through our links. This does not
-affect our reviews, which are based on independent research, user feedback, and direct
-testing. All operators featured are licensed by the UK Gambling Commission.]
+[Add 2-3 sentences covering what reader will learn from this review - e.g., bonus breakdown,
+mobile app performance, payment speeds, and how it compares to major UK bookmakers.]
 ```
+
+**NOTE:** NO affiliate disclosure in content body - it appears in the website sidebar.
 
 **FORBIDDEN:**
 - ❌ "Welcome to..."
@@ -98,7 +99,7 @@ testing. All operators featured are licensed by the UK Gambling Commission.]
 - **UK Gambling Commission license:** MUST verify and mention license number
 - **GamStop:** Self-exclusion program (UK-specific)
 - **BeGambleAware.org:** Mandatory resource link
-- **National Gambling Helpline:** 0808 8020 133 (UK number, NOT US 1-800 number)
+- **GamCare Helpline:** 0808 8020 133 (UK number, NOT US 1-800 number)
 
 ### Payment Methods
 **CRITICAL:** Credit cards are BANNED for online gambling in UK since April 2020.
@@ -471,6 +472,35 @@ Use UK terms throughout:
 
 ---
 
+### H2: Betting Calculators & Tools (200 words)
+**Keywords:** bet442
+
+**Requirements:**
+
+**V2 MANDATORY SECTION**
+
+1. **Calculator Tool Links**
+   - Link to odds calculator: /sport/calculators/odds-calculator.htm
+   - Link to accumulator calculator: /sport/calculators/accumulator-calculator.htm
+   - Link to betting margin calculator: /sport/calculators/betting-margin-calculator.htm
+   - Context: "Use our [odds calculator] to work out potential returns before placing bets"
+
+2. **How Calculators Help**
+   - Explain how calculators improve betting strategy
+   - Example: "Calculate accumulator returns across multiple selections"
+   - Example: "Check bookmaker margins to find best value"
+
+3. **Bet442-Specific Tools**
+   - Does Bet442 offer built-in betting calculators?
+   - Bet builder features (if available)
+   - Cash out calculator integration (if available)
+
+**Sources:**
+- Test Bet442.com for built-in tools
+- Internal calculator pages for linking
+
+---
+
 ### H2: Customer Support (250 words)
 **Keywords:** bet442
 
@@ -714,14 +744,16 @@ Example cons to research:
    - Gambling addiction screening
    - Links to support organizations
 
-6. **UK National Gambling Helpline**
+6. **GamCare National Gambling Helpline**
    - **Phone:** 0808 8020 133 (NOT US 1-800 number)
+   - Operated by GamCare
    - Free, confidential, 24/7 support
+   - Website: https://www.gamcare.org.uk/
 
 7. **Additional Resources**
-   - GamCare: https://www.gamcare.org.uk/
    - Gordon Moody Association
    - Gamblers Anonymous UK
+   - NHS Gambling Support
 
 **Tone:** Serious, supportive, informative
 
@@ -760,7 +792,7 @@ Example cons to research:
 
 ## INTERNAL LINKING STRATEGY
 
-**MANDATORY: Include ALL 12 internal links naturally throughout content**
+**MANDATORY: Include ALL 15 internal links naturally throughout content**
 
 | Anchor Text | URL | Placement Section | Context |
 |-------------|-----|-------------------|---------|
@@ -776,6 +808,9 @@ Example cons to research:
 | Ladbrokes review | /sport/betting/uk/nrgbet-review.htm | Comparison or Conclusion | "Alternative: [Ladbrokes review]" |
 | horse racing betting UK | /sport/betting/uk/horse-racing.htm | Sports Markets section | "See [horse racing betting UK] for more" |
 | live betting UK | /sport/betting/uk/live-betting.htm | Live Betting discussion | "Read our [live betting UK] guide" |
+| odds calculator | /sport/calculators/odds-calculator.htm | Calculator Tools section | "Use our [odds calculator] to work out returns" (V2) |
+| accumulator calculator | /sport/calculators/accumulator-calculator.htm | Calculator Tools section | "[Accumulator calculator] for multi-bet returns" (V2) |
+| betting margin calculator | /sport/calculators/betting-margin-calculator.htm | Calculator Tools section | "[Betting margin calculator] to find best value" (V2) |
 
 **Note:** Links must flow naturally. Don't force them. Use contextually relevant anchor text.
 
@@ -897,7 +932,7 @@ Example cons to research:
 - ✅ UK Gambling Commission (not state gaming boards)
 - ✅ GamStop (UK self-exclusion)
 - ✅ BeGambleAware (not NCPG)
-- ✅ 0808 8020 133 (UK hotline, not US 1-800 number)
+- ✅ GamCare: 0808 8020 133 (UK hotline, not US 1-800 number)
 
 ### Payment Methods
 - ✅ Debit cards, PayPal, Skrill, Neteller, Paysafecard
@@ -927,12 +962,13 @@ Before submitting, verify:
 - [ ] UK Gambling Commission license verified and mentioned
 - [ ] GamStop mentioned in responsible gambling section
 - [ ] BeGambleAware.org linked
-- [ ] UK National Gambling Helpline (0808 8020 133) included
+- [ ] GamCare Helpline (0808 8020 133) included
 - [ ] Age requirement: 18+ (NOT 21+)
 - [ ] NO credit cards mentioned in payment methods
 - [ ] UK spelling throughout (licence, favourite, etc.)
 - [ ] UK terminology (bookmaker, football, accumulator)
 - [ ] Currency in GBP (£)
+- [ ] Calculator tool links included (V2 requirement)
 
 **Technical:**
 - [ ] H1 has NO year/date (e.g., NOT "Bet442 Review 2025")
@@ -1021,8 +1057,10 @@ Don't force keywords. Use naturally:
 - 18+ (not 21+)
 - NO credit cards
 - UK Gambling Commission (not state regulators)
-- GamStop + BeGambleAware (not NCPG)
+- GamStop + BeGambleAware + GamCare (not NCPG)
+- GamCare helpline: 0808 8020 133
 - UK spelling and terminology
+- Calculator tool links (V2 requirement)
 - Honest about 3.2/5 Trustpilot rating
 
 **Good luck, Lewis! Create a balanced, honest, valuable review for UK bettors.**

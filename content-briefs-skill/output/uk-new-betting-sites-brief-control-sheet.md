@@ -230,13 +230,20 @@
     - Faster Payments adoption
     - Apple Pay / Google Pay support
 
-11. **Responsible Gambling Tools Comparison**
+11. **Betting Calculators & Tools Integration**
+    - Each Way Calculator links
+    - Accumulator Calculator links
+    - Odds Converter tools
+    - Dutching Calculator
+    - How to use calculators with new site bonuses
+
+12. **Responsible Gambling Tools Comparison**
     - Deposit limits
     - Self-exclusion options
     - Reality checks
     - GamStop integration
 
-12. **New Operator Innovation Spotlight**
+13. **New Operator Innovation Spotlight**
     - Unique features not found at established bookies
     - Technology advantages (modern platforms)
     - Better odds due to lower overheads
@@ -375,16 +382,23 @@
     - Apple Pay / Google Pay support
     - E-wallet options (PayPal, Skrill, Neteller)
 
-11. **Responsible Gambling at New Operators** (200 words)
+11. **Betting Calculators & Tools** (200 words)
+    - Each Way Calculator
+    - Accumulator Calculator
+    - Odds Converter
+    - Dutching Calculator
+    - How to use calculators with new site bonuses
+
+12. **Responsible Gambling at New Operators** (200 words)
     - Required tools (deposit limits, self-exclusion)
     - GamStop integration
     - Age verification processes
-    - Support resources (BeGambleAware, GamCare)
+    - Support resources (GamCare 0808 8020 133, BeGambleAware)
 
-12. **FAQs About New Betting Sites UK** (300 words)
+13. **FAQs About New Betting Sites UK** (300 words)
     - 7+ questions targeting secondary keywords
 
-**Total Word Count:** ~3,500 words
+**Total Word Count:** ~3,700 words
 
 ---
 
@@ -416,7 +430,7 @@
 
 ### Internal Linking Strategy
 
-**Target:** 12+ internal links
+**Target:** 13+ internal links
 
 **Priority Link Targets:**
 1. UK Betting Sites hub
@@ -429,8 +443,9 @@
 8. Football Betting Sites UK
 9. Horse Racing Betting UK
 10. Casino Sites UK
-11. Betting Sites Reviews
-12. Responsible Gambling UK
+11. Betting Calculators
+12. Betting Sites Reviews
+13. Responsible Gambling UK
 
 ### Compliance Requirements
 
@@ -438,9 +453,11 @@
 |-------------|---------|
 | **Age Restriction** | 18+ (UK standard) |
 | **Gambling Commission** | Link to https://www.gamblingcommission.gov.uk/ |
-| **Helpline** | BeGambleAware.org |
+| **Helpline (Primary)** | GamCare: 0808 8020 133 |
+| **Helpline (Secondary)** | BeGambleAware.org |
 | **Responsible Gambling Section** | Required at bottom of page |
 | **License Verification** | UKGC license numbers for each operator |
+| **GAMSTOP** | UK self-exclusion scheme mention required |
 
 ---
 
@@ -459,6 +476,12 @@
 - AskGamblers operator data
 - ThePogg.com UK operator profiles
 - UK betting forums (Betting.Betfair community)
+
+### TIER 4 Sources (Use With Caution)
+- ⚠️ **WARNING:** Affiliate sites for research gaps ONLY
+- ❌ NEVER cite affiliate sites for pros/cons
+- ❌ NEVER use as primary sources - commercially biased
+- Always verify affiliate claims with TIER 1/2 sources
 
 ### Verification Checklist
 - [ ] UKGC license number verified for each operator

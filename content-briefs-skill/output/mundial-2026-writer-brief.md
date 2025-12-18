@@ -93,7 +93,7 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 ## MANDATORY INTRO FORMAT
 
-**Total: 150 words maximum**
+**Total: 100-150 words maximum**
 
 ### Opening (40-50 words)
 - **Sentence 1:** Direct answer naming top 3 picks
@@ -101,9 +101,11 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 - **Sentence 2:** Authority statement
   - Example: "Estas plataformas ofrecen las mejores cuotas, mercados de fútbol completos y bonos de bienvenida verificados."
 
-### Affiliate Disclosure (50-75 words)
-- Spanish disclosure required
-- "Divulgación: Podemos ganar comisión..."
+### Value Proposition (50-100 words)
+- Explain methodology
+- What makes these stand out for World Cup betting
+- Key benefits for Spanish-speaking US bettors
+- **NO affiliate disclosure** (it's in website sidebar)
 
 ### FORBIDDEN
 
@@ -111,6 +113,7 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 - ❌ "¿Estás buscando...?"
 - ❌ Rhetorical questions
 - ❌ More than 150 words
+- ❌ **NO affiliate disclosure in content**
 
 ---
 
@@ -132,10 +135,11 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 ---
 
-### Introduction (150 words)
+### Introduction (100-150 words)
 - Opening with top 3 picks
 - Authority statement
-- Affiliate disclosure
+- Value proposition and methodology
+- **NO affiliate disclosure** (it's in website sidebar)
 
 ---
 
@@ -544,7 +548,7 @@ Include in betting guide section:
 |-------------|-------|
 | **Age** | 21+ (18+ en MT, NH, RI, WY, DC) |
 | **Hotline** | 1-800-522-4700 |
-| **Affiliate Disclosure** | Required in intro |
+| **Affiliate Disclosure** | **NO** - In website sidebar, NOT in content |
 | **Language** | Spanish (ustedes form, NOT vosotros) |
 | **Market** | USA sportsbooks ONLY |
 

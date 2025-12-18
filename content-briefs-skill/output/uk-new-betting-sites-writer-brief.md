@@ -606,6 +606,31 @@ Table columns:
 
 ---
 
+### H2: Betting Calculators & Tools (200 words)
+
+**Content Points:**
+- Link to betting calculator tools available on site
+- Each Way Calculator: Calculate each-way bet returns
+- Accumulator Calculator: Calculate acca returns and optimize selections
+- Odds Converter: Convert between fractional, decimal, and American odds
+- Dutching Calculator: Spread stakes across multiple selections
+- How calculators help maximize value from new betting site bonuses
+
+**Tool Links to Include:**
+```
+[Each Way Calculator](/sport/betting/calculators/each-way.htm)
+[Accumulator Calculator](/sport/betting/calculators/accumulator.htm)
+[Odds Converter](/sport/betting/calculators/odds-converter.htm)
+[Dutching Calculator](/sport/betting/calculators/dutching.htm)
+```
+
+**Educational Angle:**
+- Explain how new bettors can use calculators to understand returns
+- How to calculate wagering requirements on welcome bonuses
+- Using odds comparison with calculators to find best value
+
+---
+
 ### H2: Frequently Asked Questions (800 words total)
 
 **10 Questions - Each 80-120 words**
@@ -718,9 +743,11 @@ Table columns:
 
 **UK-Specific Requirements:**
 - 18+ age requirement (UK law)
-- BeGambleAware.org resources:
-  - Website: www.begambleaware.org
+- GamCare resources:
+  - Website: www.gamcare.org.uk
   - Helpline: 0808 8020 133
+- BeGambleAware.org:
+  - Website: www.begambleaware.org
 - Self-exclusion tools:
   - GAMSTOP (UK national self-exclusion scheme)
   - Individual operator tools
@@ -755,9 +782,11 @@ Table columns:
 - ThePogg.com UK operator profiles
 - UK betting forums (Betting.Betfair community)
 
-### TIER 4 (Sparingly):
+### TIER 4 (Sparingly - USE WITH CAUTION):
 - Affiliate sites for research gaps ONLY
 - ❌ NEVER cite affiliate sites for pros/cons
+- ❌ NEVER use affiliate sites as primary sources
+- ⚠️ **WARNING:** Affiliate content is commercially biased - verify all claims with TIER 1/2 sources
 
 ---
 
@@ -793,7 +822,7 @@ Table columns:
 
 ---
 
-## INTERNAL LINKS (12 Required)
+## INTERNAL LINKS (13 Required)
 
 Place contextually within content:
 
@@ -807,8 +836,9 @@ Place contextually within content:
 8. [horse racing betting UK](/sport/betting/uk/horse-racing.htm) - Sports variety
 9. [mobile betting UK](/sport/betting/uk/mobile-betting.htm) - Mobile apps section
 10. [casino sites UK](/sport/betting/uk/casino-sites.htm) - LuckyMate hybrid operator
-11. [responsible gambling UK](/sport/betting/responsible-gambling.htm) - Responsible gambling section
-12. [UK Gambling Commission](https://www.gamblingcommission.gov.uk/) - License verification (external, dofollow)
+11. [betting calculators](/sport/betting/calculators/) - Calculator tools section
+12. [responsible gambling UK](/sport/betting/responsible-gambling.htm) - Responsible gambling section
+13. [UK Gambling Commission](https://www.gamblingcommission.gov.uk/) - License verification (external, dofollow)
 
 ---
 
@@ -816,7 +846,8 @@ Place contextually within content:
 
 ### Mandatory Elements:
 - ✅ 18+ age restriction (NOT 21+ - this is UK)
-- ✅ BeGambleAware.org link and phone: 0808 8020 133
+- ✅ GamCare helpline: 0808 8020 133 (primary)
+- ✅ BeGambleAware.org resources (secondary)
 - ✅ Responsible gambling section at bottom
 - ✅ UKGC license numbers for ALL 7 operators
 - ✅ Complete T&Cs for all bonuses
@@ -884,9 +915,10 @@ Place contextually within content:
 | Payment Methods Section | 350 |
 | Verification Section | 300 |
 | 2025 Launches Section | 250 |
+| Betting Calculators & Tools | 200 |
 | FAQs (10 questions) | 800 |
 | Responsible Gambling | 150 |
-| **TOTAL** | **~5,950** |
+| **TOTAL** | **~6,150** |
 
 **Note:** The 5,000-5,500 word target balances comprehensive coverage with readability. Prioritize the brand reviews (2,500 words) and FAQs (800 words) as these are most keyword-dense. Other sections provide flexibility and can be adjusted as needed.
 
@@ -901,7 +933,7 @@ Before submitting, verify:
 - [ ] Every brand has Mobile Experience section (100-150 words)
 - [ ] All 7 brands have complete T&Cs
 - [ ] All 7 brands have 5+ pros and 3+ cons
-- [ ] 12 internal links placed contextually
+- [ ] 13 internal links placed contextually
 - [ ] UKGC license numbers for all 7 brands
 - [ ] UK compliance: 18+, BeGambleAware.org, GAMSTOP
 - [ ] No dated language in H1
@@ -911,6 +943,8 @@ Before submitting, verify:
 - [ ] Payment methods comparison table described
 - [ ] Mobile experience comparison table described
 - [ ] New vs Established comparison table described
+- [ ] Calculator tool links included (4+ calculators)
+- [ ] GamCare helpline included: 0808 8020 133
 
 ---
 

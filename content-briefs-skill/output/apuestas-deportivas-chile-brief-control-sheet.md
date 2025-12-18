@@ -223,7 +223,7 @@
 | **Responsible Gambling** | SENDA Chile: www.senda.gob.cl |
 | **Hotline** | 600 360 7777 |
 | **Legal Note** | Sports betting operates under international licenses. Local regulation pending. |
-| **Affiliate Disclosure** | Required in intro |
+| **Affiliate Disclosure** | **NO** - In website sidebar, NOT in content |
 
 ---
 

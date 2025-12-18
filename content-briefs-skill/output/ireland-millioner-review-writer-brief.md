@@ -43,28 +43,33 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
 
 ---
 
-## MANDATORY INTRO FORMAT
+## MANDATORY INTRO FORMAT (V2 STANDARD)
 
-**Total Length:** 150 words MAXIMUM
+**Total Length:** 100-150 words MAXIMUM
 
 **Structure:**
-1. **Opening (40-50 words):** Direct answer first
+1. **Opening (100-150 words):** Direct answer first
    - Is Millioner worth trying for Irish bettors?
    - Quick verdict upfront (yes/no with qualifier)
+   - Key features and positioning
+   - Testing/verification statement
    - NO rhetorical questions
    - NO "Welcome to..." language
 
-   - Transparency on review process
-
-3. **Brief Context (remaining words):**
-   - Position Millioner as new entrant to Ireland market
-   - Context against Paddy Power/Boylesports
+**⚠️ CRITICAL V2 REQUIREMENT: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The website sidebar contains the affiliate disclosure
+- Do NOT include "We may earn commission..." in article content
+- Do NOT mention affiliate relationships in introduction
+- Focus purely on brand assessment and features
 
 **Example Opening:**
-"Millioner Sport is a new betting platform entering Ireland's competitive market, offering [X feature] and [Y feature]. While it shows promise with [strength], it faces tough competition from established brands like Paddy Power and Boylesports. For Irish bettors seeking alternatives to major brands, Millioner is worth considering if [specific condition].
+"Millioner Sport is a new betting platform entering Ireland's competitive market, offering competitive odds across major sports and a €100 welcome bonus. While it shows promise with its modern platform and user-friendly interface, it faces tough competition from established brands like Paddy Power and Boylesports. For Irish bettors seeking alternatives to major brands, Millioner is worth considering for its fresh approach and competitive bonuses. Our testing verified platform features, withdrawal times, and customer support quality across multiple sessions."
 
-
-As one of Ireland's newest betting sites, Millioner aims to..."
+**Forbidden:**
+- ❌ Affiliate disclosure statements
+- ❌ Commission-earning language
+- ❌ "We may earn..." phrasing
+- ❌ Over 150 words total
 
 ---
 
@@ -219,14 +224,20 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 - URL: `/sport/betting/ireland/gaa-betting.htm`
 - Anchor: "rugby betting Ireland"
 - URL: `/sport/betting/ireland/rugby-betting.htm`
+
+**⚠️ V2 REQUIRED: Calculator Tool Links**
 - Anchor: "parlay calculator"
-- URL: `/sport/betting-tools/parlay-calculator.htm-calculator.htm`
+- URL: `/sport/betting-tools/parlay-calculator.htm`
+- Context: Mention when discussing accumulator bets or betting markets
 - Anchor: "odds calculator"
-- URL: `/sport/betting-tools/odds-calculator.htm-calculator.htm`
+- URL: `/sport/betting-tools/odds-calculator.htm`
+- Context: Mention when discussing betting odds or value
 
 ---
 
-### Section 5: H2 - Millioner App: Mobile Betting in Ireland (300 words)
+### Section 5: H2 - Millioner App: Mobile Betting in Ireland (300 words total, includes 100-150w Mobile Experience subsection)
+
+**⚠️ V2 REQUIREMENT:** Mobile Experience subsection must be 100-150 words strict limit.
 
 **Keywords:** millioner app
 
@@ -261,9 +272,11 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 ---
 
-### Section 6: H2 - Payment Methods & Banking in Euros (250 words)
+### Section 6: H2 - Payment Methods & Banking in Euros (250 words) ⚠️ V2 REQUIRED SECTION
 
 **Keywords:** millioner withdrawal
+
+**⚠️ V2 REQUIREMENT:** Payment methods comparison table is MANDATORY for review pages.
 
 **Main Content (150 words):**
 - Deposit methods accepted in Ireland:
@@ -631,16 +644,24 @@ As one of Ireland's newest betting sites, Millioner aims to..."
 
 ---
 
-## COMPLIANCE (IRELAND-SPECIFIC)
+## COMPLIANCE (IRELAND-SPECIFIC - V2 STANDARDS)
 
 **Age Requirement:**
 - **18+ in Ireland** (NOT 21+ like USA)
 - Mention in About section and Responsible Gambling section
 
 **Gambling Helpline:**
-- **Gambling Care Ireland: 1800 753 753** (freephone)
+- **Gamblers Anonymous Ireland: 087 744 3577** ✅ CORRECT (V2 Standard)
 - NOT the US hotline (1-800-522-4700)
+- NOT Gambling Care Ireland (wrong number)
 - Include in Responsible Gambling section
+
+**⚠️ CRITICAL V2 COMPLIANCE:**
+- **NO AFFILIATE DISCLOSURE IN CONTENT** - Disclosure is in website sidebar only
+- **BRAND-SPECIFIC KEYWORDS ONLY** - Focus on "millioner" variations
+- **MOBILE EXPERIENCE:** 100-150 words strict limit (subsection)
+- **PAYMENT METHODS:** Comparison table required
+- **CALCULATOR LINKS:** Parlay and odds calculators must be linked
 
 - Required at start of article (50-75 words)
 - Template: "We may earn commission from operators featured on this page through affiliate links. This does not influence our reviews, which are based on extensive testing and research. Learn more about our review process."

@@ -11,8 +11,8 @@
 
 - **Target Keyword:** best betting sites uk (from Site Structure)
 - **Writer:** Lewis Humphries
-- **Opportunity:** HIGH (2,300/mo primary + 22,400/mo cluster = 974% volume increase)
-- **Template:** Template 2 (Comparison)
+- **Opportunity:** HIGH (2,300/mo primary + 18,300/mo total cluster = 696% volume increase)
+- **Template:** Template 2 (Comparison) - Hub Page
 - **Priority:** Critical
 
 ---
@@ -39,7 +39,7 @@
 
 ### Our Target:
 - **Brands:** 9 detailed reviews (matching quality of top competitors' detailed sections)
-- **Word count:** 9,000 words (competitive with #1 ranking page)
+- **Word count:** ~7,500 words (hub page standard - detailed content without cannibalization)
 - **Differentiation:** UK-specific compliance focus, payment methods comparison, mobile experience testing, calculator integration
 
 ---
@@ -48,26 +48,29 @@
 
 **Primary:** "best betting sites uk" (2,300/mo, Difficulty 86)
 
-**Secondary Keywords (15 mapped):**
+**Secondary Keywords (12 mapped - NO cannibalization):**
 
 1. "betting sites uk" (8,300/mo, D:91) → H2: "UK Betting Sites Comparison 2025"
 2. "uk betting sites" (4,300/mo, D:90) → H2: "Top UK Betting Sites Ranked"
-3. "betting apps uk" (1,800/mo, D:88) → H2: "Best Betting Apps UK - Mobile Experience"
-4. "sports betting uk" (1,300/mo, D:93) → H2: "Sports Betting UK - Market Overview"
-5. "top 20 betting sites uk free" (1,300/mo, D:89) → FAQ: "What are the top 20 betting sites UK?"
-6. "online betting uk" (1,100/mo, D:93) → H3: "Online Betting UK Regulations"
-7. "sports betting online" (900/mo, D:95) → H3: "Sports Betting Online vs Retail"
-8. "top betting sites uk" (600/mo, D:83) → H3: "How We Rank Top Betting Sites UK"
-9. "best betting apps uk" (600/mo, D:67) → H2: "Best Betting Apps UK Reviewed"
-10. "best online betting sites uk" (600/mo, D:88) → H3: "Best Online Betting Sites UK Features"
-11. "uk sports betting sites" (500/mo, D:92) → H3: "UK Sports Betting Sites - Sport Coverage"
-12. "online sports betting uk" (400/mo, D:93) → H3: "Online Sports Betting UK Guide"
-13. "best bookies uk" (400/mo, D:84) → FAQ: "Who are the best bookies UK?"
-14. "best uk bookmakers" (350/mo, D:86) → H3: "Best UK Bookmakers - Traditional vs New"
-15. "best betting sites for football uk" (200/mo, D:78) → H3: "Best Betting Sites for Football UK"
+3. "sports betting uk" (1,300/mo, D:93) → H2: "Sports Betting UK - Market Overview"
+4. "top 20 betting sites uk free" (1,300/mo, D:89) → FAQ: "What are the top 20 betting sites UK?"
+5. "online betting uk" (1,100/mo, D:93) → H3: "Online Betting UK Regulations"
+6. "sports betting online" (900/mo, D:95) → H3: "Sports Betting Online vs Retail"
+7. "top betting sites uk" (600/mo, D:83) → H3: "How We Rank Top Betting Sites UK"
+8. "best online betting sites uk" (600/mo, D:88) → H3: "Best Online Betting Sites UK Features"
+9. "uk sports betting sites" (500/mo, D:92) → H3: "UK Sports Betting Sites - Sport Coverage"
+10. "online sports betting uk" (400/mo, D:93) → H3: "Online Sports Betting UK Guide"
+11. "best bookies uk" (400/mo, D:84) → FAQ: "Who are the best bookies UK?"
+12. "best uk bookmakers" (350/mo, D:86) → H3: "Best UK Bookmakers - Traditional vs New"
 
-**Total Cluster Volume:** 22,400/mo
-**Volume Increase:** 974% vs primary keyword
+**Keywords EXCLUDED (dedicated pages exist):**
+- ❌ "betting apps uk" (1,800/mo) → Links to /uk/betting-apps/ instead
+- ❌ "best betting apps uk" (600/mo) → Links to /uk/betting-apps/ instead
+
+**Unmapped Keywords:** NONE (All 12 secondary keywords mapped to specific sections)
+
+**Total Cluster Volume:** 18,300/mo
+**Volume Increase:** 696% vs primary keyword
 
 ---
 
@@ -96,14 +99,15 @@
 - [x] **Current Bonus** (75-100 words) - Exact offer text, key terms summary
 
 ### Additional Content Sections:
-- [x] Introduction with top 3 picks (150 words)
+- [x] Introduction with top 3 picks (150 words) - **NO affiliate disclosure in content**
 - [x] Comparison table (ALL 9 brands)
 - [x] Best Betting Apps UK - Mobile testing methodology (300 words)
 - [x] UK Sports Focus - Football, Horse Racing, Cricket coverage (400 words)
-- [x] **Payment Methods Comparison Table** (250 words) - UK-specific (Faster Payments, Bacs, no credit cards)
+- [x] **Payment Methods Comparison Table** (300-400 words) - UK-specific (Faster Payments, Bacs, no credit cards)
 - [x] **UKGC Licensing & Compliance** (300 words) - Regulatory requirements
 - [x] **Responsible Gambling Tools** (200 words) - GamStop, GamCare, BeGambleAware
 - [x] **New vs Established Bookmakers Guide** (250 words)
+- [x] **Calculator Tool Links** (1-2 contextual mentions + dedicated section)
 - [x] FAQs (10 questions, 120 words each = 1,200 words)
 - [x] Responsible gambling footer (150 words)
 
@@ -181,16 +185,19 @@
 - **Responsible Gambling:** GamStop (self-exclusion), GamCare, BeGambleAware
 - **Payment Restrictions:** Credit card ban (April 2020) - debit cards and e-wallets only
 - **Taxation:** UK betting is tax-free for consumers (operators pay Point of Consumption Tax)
+- **NO Affiliate Disclosure in Content:** Disclosure appears in website sidebar (site-wide), not in page content
 
 ---
 
 ## LOGISTICS
 
-- **Word Count Target:** 9,000 words (based on #1 competitor analysis)
-- **Brands Featured:** 9 detailed reviews (600-700 words per brand = 5,400-6,300 words)
-- **FAQs:** 10 questions (1,200 words)
-- **Supporting Content:** 2,400 words (intro, comparison, sport sections, compliance)
-- **Compliance:** UK standards (18+, UKGC licensing, GamStop integration)
+- **Word Count Target:** ~7,500 words (hub page standard - avoids cannibalization)
+- **Brands Featured:** 9 detailed reviews (~350-500 words per brand = 3,500-4,000 words)
+- **FAQs:** 10 questions (~1,500 words total)
+- **Supporting Content:** ~2,000-2,500 words (intro, comparison, sport sections, payment methods, compliance)
+- **Hub Page Strategy:** Links to dedicated pages (betting-apps, free-bets, offers) in first 500 words, NO keyword cannibalization
+- **Compliance:** UK standards (18+, UKGC licensing, GamStop integration, NO affiliate disclosure in content)
+- **V2 Requirements Met:** Keyword mapping table with "Unmapped: NONE", Mobile Experience per brand (100-150w), Payment Methods (300-400w), Calculator links (1-2 contextual)
 - **Timeline:** Phase 2 (Writer Brief) to follow immediately after approval
 - **Deliverables:** Phase 1 JSON (complete), Brief Control Sheet (this document), Phase 2 Writer Brief (next)
 

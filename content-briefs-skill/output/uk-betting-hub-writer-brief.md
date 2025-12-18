@@ -16,6 +16,15 @@
 
 ---
 
+## COMPLIANCE
+
+- **Age:** 18+
+- **GamCare Helpline:** 0808 8020 133
+- **BeGambleAware:** www.begambleaware.org
+- **NO affiliate disclosure in content** (it's in website sidebar)
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 **ALL 12 secondary keywords MUST be mapped to specific sections:**
@@ -35,6 +44,8 @@
 | best bookies uk | 400/mo | FAQ | "Who are the best bookies UK?" |
 | best uk bookmakers | 350/mo | H3 | "Best UK Bookmakers - Traditional vs New" |
 
+**Unmapped Keywords:** NONE (All 12 secondary keywords mapped to specific sections)
+
 **Meta Keywords to Add:** best betting sites uk, betting sites uk, uk betting sites, sports betting uk, online betting uk, top betting sites uk, best online betting sites uk, uk sports betting sites, best bookies uk, best uk bookmakers, sports betting online, online sports betting uk
 
 ---
@@ -46,6 +57,10 @@
 **Opening (40-50 words):**
 > The best betting sites UK are Bet442, LuckyMate, and NRGbet. These UK-licensed bookmakers offer the most competitive odds, comprehensive sports coverage, and secure payment methods, verified through extensive testing across mobile and desktop platforms.
 
+**❌ NO AFFILIATE DISCLOSURE IN CONTENT:**
+- Affiliate disclosure appears in website sidebar (site-wide)
+- DO NOT include affiliate disclosure statements in page content
+- Focus on editorial content only
 
 **❌ FORBIDDEN PHRASES:**
 - "Welcome to..."
@@ -298,7 +313,7 @@
 
 ---
 
-### H2: Payment Methods & Banking (500-600 words)
+### H2: Payment Methods & Banking (300-400 words)
 
 **MANDATORY ELEMENTS:**
 - UK payment methods comparison table
@@ -346,7 +361,13 @@
 
 ### H2: Betting Calculators & Tools (300-400 words)
 
-**MANDATORY INTERNAL LINKS:**
+**CONTEXTUAL CALCULATOR INTEGRATION:**
+Throughout the content, weave in 1-2 contextual mentions of calculators where relevant:
+- When discussing accumulator bets → link to [accumulator calculator](/sport/betting/calculators/accumulator.htm)
+- When explaining odds formats → link to [odds converter calculator](/sport/betting-tools/odds-calculator.htm-converter.htm)
+
+**CALCULATOR TOOLS SECTION - Full List:**
+This dedicated section should showcase all available tools:
 1. [odds converter calculator](/sport/betting-tools/odds-calculator.htm-converter.htm) - Convert between decimal, fractional, American odds
 2. [accumulator calculator](/sport/betting/calculators/accumulator.htm) - Calculate potential returns on accas
 3. [each-way calculator](/sport/betting/calculators/each-way.htm) - Work out each-way bet returns
@@ -608,13 +629,17 @@
 - [ ] Tax-free betting explained
 - [ ] Responsible gambling section at bottom
 - [ ] NO dated language in H1 (use Last Updated badge)
-- [ ] All 12 secondary keywords mapped to sections (NO cannibalization of dedicated pages)
+- [ ] **NO affiliate disclosure in content** (it's in website sidebar)
+- [ ] All 12 secondary keywords mapped to sections with "Unmapped Keywords: NONE" statement
+- [ ] NO keyword cannibalization of dedicated pages
 - [ ] 10 FAQs with schema markup
 - [ ] 15+ internal links (including 6 links to UK dedicated pages)
 - [ ] Mobile Experience section per brand (100-150w each)
-- [ ] Payment Methods comparison table
-- [ ] Calculator tool links (minimum 4)
+- [ ] Payment Methods comparison table (300-400w section)
+- [ ] Calculator tool links (1-2 contextual + dedicated section)
 - [ ] Links to dedicated pages for betting apps, offers, free bets, football, horse racing, new sites
+- [ ] Hub page word count ~7,500 words
+- [ ] Links to dedicated pages in first 500 words
 
 ---
 

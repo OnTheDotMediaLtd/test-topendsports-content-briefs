@@ -1,8 +1,21 @@
 # BRIEF CONTROL SHEET: DirectionBet Sport Review (Canada)
 
 **Generated:** December 15, 2025
+**Updated to V2 Standards:** December 17, 2025
 **Phase:** Phase 1 - Research & Discovery
 **Status:** Ready for Phase 2
+
+---
+
+## ✅ V2 COMPLIANCE STATUS
+
+This control sheet has been updated to V2 standards for REVIEW pages:
+
+- ✅ **Brand-Specific Keyword Focus**: Primary targets are DirectionBet brand terms (~119/mo)
+- ✅ **Market Keywords Repositioned**: High-volume market terms marked as contextual only
+- ✅ **Calculator Tool Requirements**: Documented in technical requirements
+- ✅ **Canadian Compliance**: Proper Canadian helplines and provincial age requirements
+- ✅ **Review Page Strategy**: Clear positioning as brand review, not market overview
 
 ---
 
@@ -64,36 +77,43 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 ## KEYWORD CLUSTER OPTIMIZATION
 
 ### Primary Keyword
-**"directionbet sport"** - 0 searches/month
-*(No Ahrefs data - extremely low volume)*
+**"directionbet"** - 20 searches/month (brand name)
 
-### Secondary Keywords (17 total)
+**⚠️ REVIEW PAGE STRATEGY:** This is a BRAND review page. Primary focus should be BRAND-SPECIFIC keywords, NOT market keywords. Market terms are contextual mentions only.
+
+### Brand-Specific Keywords (PRIMARY TARGETS)
 
 | Keyword | Volume/mo | Difficulty | Placement | Rationale |
 |---------|-----------|------------|-----------|-----------|
-| directionbet | 20 | - | H1, intro, natural | Primary brand |
-| directionbet casino | 40 | - | H3 section | Highest volume brand keyword |
-| **Canadian Market Keywords** |
-| betting sites canada | 1,400 | 79 | Natural mentions | High-volume context |
-| online betting canada | 1,000 | 83 | Natural mentions | Broad market |
-| online sports betting canada | 700 | 84 | Natural mentions | Market context |
-| sports betting sites canada | 500 | 83 | Natural mentions | Category keyword |
-| canadian sports betting | 450 | 84 | Natural mentions | Market context |
-| sportsbook canada | 400 | 84 | H3 - Comparison | Competitive position |
-| ontario betting sites | 400 | 71 | H3 - Provincial | Provincial keyword |
-| best sportsbook canada | 300 | 80 | FAQ | Competitive context |
-| sports interaction review | 200 | 40 | Competitor section | Top competitor |
-| betway canada review | 150 | 59 | Competitor section | Competitor mention |
-| live betting canada | 150 | 89 | H3 - Features | Feature keyword |
-| new betting sites canada | 100 | 77 | H3 - Positioning | Market positioning |
-| casino app canada | 100 | 79 | H3 - Mobile | App keyword |
-| online casino canada | 11,000 | 88 | Natural mention | High-volume (casino focus) |
-| crypto betting canada | 50 | 73 | FAQ/Payment section | Unique feature |
+| directionbet | 20 | Low | H1, intro, throughout | Primary brand term |
+| directionbet casino | 40 | Low | H2, H3 sections | Highest volume brand keyword |
+| directionbet review | ~15 | Low | H1, meta title | Review-specific brand |
+| directionbet canada | ~10 | Low | Legal/provincial sections | Geographic brand term |
+| directionbet sportsbook | ~8 | Low | Sports betting sections | Feature brand term |
+| is directionbet legit | ~8 | Low | FAQ, legal section | Trust/legitimacy brand |
+| directionbet app | ~5 | Low | Mobile app section | App-specific brand |
+| directionbet bonus | ~5 | Low | Bonus section | Promotion brand term |
+| directionbet withdrawal | ~5 | Low | Payment methods | Payment brand term |
+| directionbet sports betting | ~3 | Low | Sports section | Feature brand term |
 
-**Total Cluster Volume:** 16,050 searches/month
-**Volume Increase vs Primary:** 80,250% (from 20 to 16,050)
+**Total Brand Keyword Cluster:** ~119 searches/month
 
-**Strategy Note:** Since DirectionBet has minimal branded search volume, we're targeting broader Canadian betting keywords naturally. High cluster volume driven by contextual market keywords that users searching for Canadian betting options would use.
+### Market Keywords (CONTEXTUAL MENTIONS ONLY)
+
+These market keywords should appear naturally in context for comparison and positioning, but are NOT primary targets:
+
+| Keyword | Volume/mo | Usage | Notes |
+|---------|-----------|-------|-------|
+| betting sites canada | 1,400 | Contextual comparison | Market context only |
+| online betting canada | 1,000 | Natural language | Market context only |
+| canadian sports betting | 450 | Natural mention | Market context only |
+| best sportsbook canada | 300 | Comparison FAQ | Competitive context |
+| ontario betting sites | 400 | Legal section | Geographic context |
+| crypto betting canada | 50 | Payment methods | Feature context |
+| live betting canada | 150 | Features subsection | Feature context |
+| casino app canada | 100 | Mobile app context | Category context |
+
+**Strategy Note:** Focus on building authority for DirectionBet brand terms. Market keywords provide context but should not dilute brand focus. Review pages succeed by ranking for brand+modifier combinations.
 
 ---
 
@@ -285,6 +305,16 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 - [ ] Breadcrumb schema
 - [ ] Mobile-responsive tables
 - [ ] Responsible gambling box (footer)
+- [ ] **Calculator tool links** (parlay, odds, unit calculators)
+
+### Calculator Tool Requirements (V2 Standard)
+
+**Required Calculator Links:**
+- Parlay calculator (/sport/betting-tools/parlay-calculator.htm) - in bonus and sports sections
+- Odds calculator (/sport/betting-tools/odds-calculator.htm) - in sports and getting started sections
+- Betting unit calculator (/sport/betting-tools/unit-calculator.htm) - in bonus section
+
+**Purpose:** Help readers calculate wagering requirements, potential returns, and bankroll management
 
 ### Schema Markup Requirements
 
@@ -310,8 +340,14 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 ## COMPLIANCE REQUIREMENTS (Canada)
 
 ### Age & Legal
-- **Age Requirement:** Varies by province (typically 19+, some provinces 18+)
-- **Hotline:** 1-800-522-4700
+- **Age Requirement:** Varies by province
+  - **19+:** Ontario, British Columbia, Nova Scotia, New Brunswick, Newfoundland, Saskatchewan, Northwest Territories, Nunavut, Yukon
+  - **18+:** Alberta, Manitoba, Quebec
+- **Canadian Helplines:**
+  - **ConnexOntario:** 1-866-531-2600 (Ontario)
+  - **Responsible Gambling Council:** https://www.responsiblegambling.org/ (National)
+  - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/ (National)
+  - **Provincial helplines:** Each province has specific resources
 - **Provincial Licensing:** Verify DirectionBet licensing status in each province
 
 ### Responsible Gambling Section (Required)
@@ -326,13 +362,16 @@ DirectionBet is a **casino-focused platform with sports betting features**, not 
 - ❌ "Can't lose"
 - ❌ "Risk-free"
 - ❌ "Beat the house"
+- ❌ "Guaranteed profit"
+- ❌ Dated language in H1 ("2025 review")
 
 ### Canadian-Specific Requirements
 - Provincial availability disclosure
-- Ontario iGaming licensing status
+- Ontario iGaming licensing status (AGCO)
 - Provincial age requirements by region
-- Canadian gambling hotlines
+- Canadian gambling resources (use Canadian sources, NOT US hotlines)
 - Currency: CAD primary
+- **NO affiliate disclosure in content** (it's in website sidebar)
 
 ---
 

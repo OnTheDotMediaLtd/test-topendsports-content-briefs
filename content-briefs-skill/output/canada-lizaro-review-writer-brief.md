@@ -57,6 +57,9 @@
 | **lizaro casino** | 20 | H2 | "Lizaro Casino Games & Slots" |
 | **lizaro** | 10 | H1 | Main title |
 
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+All 17 secondary keywords are explicitly mapped to H2, H3, FAQ, or Natural placement sections.
+
 **Meta Keywords (for AI Enhancement Phase):**
 ```
 lizaro sport, lizaro casino, online casino canada, online casino ontario, best online casino canada, sports betting canada, betting sites canada, online gambling canada, sports betting ontario, online casino reviews, best betting sites canada, online sports betting canada, casino bonus canada, casino sites canada, sportsbook canada, real money casino canada, sportsbook review
@@ -73,15 +76,25 @@ lizaro sport, lizaro casino, online casino canada, online casino ontario, best o
    - Second sentence: Authority statement (licensed in Canada, combined casino/sportsbook)
    - Naturally incorporate "online gambling canada" (1,300/mo)
 
-   - Standard disclosure: "We may earn commission from links on this page, but we only recommend sites we trust. Our reviews are based on extensive testing and research. Read our full methodology."
+2. **Editorial Independence Statement (10-15 words):**
+   - Editorial independence statement only
+   - Only recommend tested sites
+   - **NO affiliate disclosure text**
 
 **Total:** 100-150 words maximum
+
+**CRITICAL: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The affiliate disclosure is in the website sidebar
+- DO NOT add any affiliate disclosure text to the article content
+- Focus on editorial independence only
 
 **Forbidden:**
 - ❌ "Welcome to our review..."
 - ❌ "Looking for a new casino?"
 - ❌ Rhetorical questions
 - ❌ Dated language ("2025", "December 2025", etc.)
+- ❌ "This post contains affiliate links"
+- ❌ Any disclosure language about compensation or affiliate relationships
 
 ---
 
@@ -105,13 +118,21 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 ---
 
 ### Introduction
-**Word Count:** 150 words
+**Word Count:** 100-150 words
 
 **Instructions:**
-- Open with direct answer: "Lizaro is a Canadian-licensed online casino and sportsbook offering [key features]."
-- State what makes Lizaro unique (combined platform, licensing)
-- Naturally work in "online gambling canada" (1,300/mo)
-- Total 100-150 words
+- **Opening (40-50 words):** Direct answer format
+  - Sentence 1: "Lizaro is a Canadian-licensed online casino and sportsbook offering [key features]."
+  - Sentence 2: Authority statement about testing/verification
+  - Naturally incorporate "online gambling canada" (1,300/mo)
+- **Editorial Independence (10-15 words):**
+  - Editorial independence statement only
+  - Only recommend tested sites
+
+**CRITICAL: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The affiliate disclosure is in the website sidebar - NOT in article content
+- DO NOT add "this post contains affiliate links" or similar text
+- Focus on editorial independence statement only
 
 ---
 
@@ -248,18 +269,19 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 ---
 
 ### H2: Lizaro Mobile App & Mobile Experience
-**Word Count:** 300 words
+**Word Count:** 100-150 words
 
 **Instructions:**
+- **CRITICAL:** Include App Store and Google Play ratings with format: "X.X/5 based on X reviews"
 - Cover:
   - **Mobile App Availability:** iOS app, Android app, or mobile browser only?
-  - **App Download Process:** Where to download (App Store, Google Play)
+  - **App Store/Google Play Ratings:** Exact ratings with review counts
   - **Navigation & UX:** Ease of use, menu layout, search functionality
   - **Casino on Mobile:** Game selection on mobile, loading times, graphics quality
   - **Sports Betting on Mobile:** Live betting experience, bet slip functionality
-  - **Account Management:** Deposits, withdrawals, account settings on mobile
-  - **Performance:** Loading speeds, stability, battery usage
+  - **Performance:** Loading speeds, stability
   - **Platform Comparison:** App vs mobile browser experience
+  - **Reddit User Feedback:** Cite user experiences from r/CanadianGamblers
 
 - Link to: **"Best sports betting apps Canada"** → `/sport/betting/canada/apps/`
 
@@ -449,14 +471,24 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 **Instructions:**
 - Cover:
   - **Lizaro's Tools:** Deposit limits, loss limits, session time limits, self-exclusion, reality checks, cool-off periods
-  - **Canadian Resources:**
-    - Responsible Gambling Council: https://www.responsiblegambling.org/
-    - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
-    - Provincial helplines vary by location
-  - **Provincial Resources:** Quebec (Aide aux Joueurs), BC (GameSense), Manitoba, Alberta
-  - **Problem Gambling Signs:** Brief mention of warning signs
-  - **Self-Exclusion Options:** Provincial self-exclusion programs
-  - **Age Verification Importance:** Preventing underage gambling
+
+**Pan-Canadian Resources (MUST INCLUDE PROMINENTLY):**
+- **Responsible Gambling Council:** https://www.responsiblegambling.org/ (Primary Canadian resource)
+- **Canadian Centre on Substance Use and Addiction (CCSA):** https://www.ccsa.ca/
+
+**Provincial Helplines:**
+- **Ontario:** ConnexOntario 1-866-531-2600
+- **British Columbia:** 1-888-795-6111
+- **Alberta:** 1-866-332-2322
+- **Quebec:** 1-800-461-0140
+- **Manitoba:** Problem Gambling Helpline
+- **Other provinces:** See provincial gambling authorities
+
+**Additional Content:**
+- **Provincial Resources:** Quebec (Aide aux Joueurs), BC (GameSense)
+- **Problem Gambling Signs:** Brief mention of warning signs
+- **Self-Exclusion Options:** Provincial self-exclusion programs
+- **Age Verification Importance:** Preventing underage gambling (19+ most provinces, 18+ AB/MB/QC)
 
 **Link:**
 - **"Responsible gambling resources"** → `/sport/betting/responsible-gambling/`
@@ -513,25 +545,44 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 
 ## SOURCE REQUIREMENTS
 
-### TIER 1 (Primary Sources - MUST USE):
-- **Lizaro Official Website:** For feature verification only (not for pros/cons claims)
-- **iGaming Ontario Registry:** To verify licensing status
-- **Provincial Gambling Authority Websites:** For licensing and legal information
+### TIER 1 (Primary - MUST USE)
 
-### TIER 2 (User Experience Verification):
-- **Reddit r/CanadianGamblers:** For user experiences and real-world feedback
-  - Format: "Reddit users report [finding] (X threads analyzed)"
-- **Trustpilot Reviews:** If available for Lizaro
-- **Canadian Gambling Forums:** For community sentiment
+**App Store Ratings:**
+- Format: "X.X/5 based on X reviews (analyzed [month/year])"
+- Required for Mobile Experience section
+- Both iOS and Android ratings
 
-### TIER 3 (Reference Only):
-- **Competitor Reviews:** For comparison data only
-- **Industry Reports:** Canadian gambling market data
+**Reddit:**
+- Subreddits: r/CanadianGamblers, r/sportsbook
+- Format: "Reddit users report [finding] (analyzed X threads from [timeframe])"
+- Use for user sentiment, payment experiences, withdrawal times
+- Cite specific complaints or praise
 
-### FORBIDDEN:
-- ❌ **Do NOT cite affiliate sites** for pros/cons or recommendations
-- ❌ **Do NOT use unverified bonus claims** (always check official T&Cs)
-- ❌ **Do NOT reference outdated licensing information**
+**Google Play Store:**
+- Android app ratings
+- Recent review analysis
+- Update frequency verification
+
+### TIER 2 (Verification)
+
+**Lizaro Official Website:**
+- ONLY for feature verification
+- ❌ DO NOT cite for pros/cons
+- T&Cs verification
+- Bonus terms accuracy
+
+**Regulatory Sources:**
+- iGaming Ontario official site
+- Provincial gaming commission websites
+- Licensing authority websites
+
+### TIER 4 (Sparingly)
+
+**⚠️ WARNING: Competitor/Affiliate Sites:**
+- ONLY for research gaps
+- ❌ NEVER cite for pros/cons
+- Background research only
+- Do not list in references
 
 **Verification Standard:**
 - Every factual claim (bonus amounts, wagering requirements, licensing status) MUST be verified from official source
@@ -539,18 +590,30 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 
 ---
 
-## COMPLIANCE CHECKLIST
+## COMPLIANCE CHECKLIST (V2 STANDARDS)
 
 **Must Include:**
 - [ ] Age requirement clearly stated: **19+ (18+ in AB, MB, QC)**
-- [ ] Pan-Canadian resources: **Responsible Gambling Council and CCSA**
-- [ ] Responsible gambling organization: **Responsible Gambling Council (responsiblegambling.org)**
+- [ ] **Pan-Canadian resources prominently featured: Responsible Gambling Council and CCSA**
+- [ ] Responsible Gambling Council link: **https://www.responsiblegambling.org/**
+- [ ] CCSA link: **https://www.ccsa.ca/**
+- [ ] **Provincial helplines listed:** ConnexOntario 1-866-531-2600 (ON), BC: 1-888-795-6111, AB: 1-866-332-2322, QC: 1-800-461-0140
 - [ ] Last Updated badge after H1 (Phase 3 HTML component)
 - [ ] NO dated language in H1 or content ("2025", "October 2025", etc.)
 - [ ] All 17 secondary keywords mapped to sections
 - [ ] 12 internal links included
 - [ ] 8 FAQs with keyword targeting
 - [ ] Responsible gambling section at end
+- [ ] **NO affiliate disclosure in content** (it's in website sidebar only)
+- [ ] **Mobile Experience section: 100-150 words with App Store/Google Play ratings (TIER 1 sources)**
+- [ ] **Payment Methods section included** with Interac emphasis
+- [ ] **Calculator tool links included** (parlay and odds calculators)
+- [ ] All claims sourced from TIER 1 (Reddit, App Stores) or TIER 2 (official sites)
+
+### Editorial Independence
+- **CRITICAL:** Affiliate disclosure is in website sidebar - NOT in article content
+- Do NOT add "this post contains affiliate links" or any disclosure text to the article
+- Focus on editorial independence statement only (1 sentence in intro)
 
 ---
 
@@ -564,7 +627,7 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 | Welcome Bonus | 300 |
 | Casino Games | 400 |
 | Sports Betting | 300 |
-| Mobile App | 300 |
+| Mobile App | 100-150 |
 | Payment Methods | 250 |
 | Customer Support | 200 |
 | Legal & Licensing | 250 |
@@ -573,7 +636,7 @@ The Last Updated badge will appear directly after the H1 as a dynamic component 
 | Detailed Pros & Cons | 200 |
 | FAQs (8 questions) | 450 |
 | Responsible Gambling | 150 |
-| **TOTAL** | **3,850** |
+| **TOTAL** | **3,700-3,750** |
 
 **Note:** Target is 3,500 words. Ranges allow flexibility - stay within ±200 words of target.
 
@@ -657,16 +720,26 @@ If anything is unclear:
 
 ## FINAL CHECKLIST BEFORE SUBMISSION
 
+**V2 Requirements:**
 - [ ] All 17 secondary keywords used in designated sections
 - [ ] 12 internal links included with correct URLs
 - [ ] 8 FAQs with keyword targeting
 - [ ] No dated language in H1 or content
-- [ ] Canadian compliance (age, hotline, resources)
+- [ ] **NO affiliate disclosure in content** (it's in website sidebar)
+- [ ] Mobile Experience section is 100-150 words with App Store/Google Play ratings
+- [ ] All claims sourced from TIER 1 (Reddit, App Stores) or TIER 2 (official sites)
+- [ ] Intro is 100-150 words with editorial independence statement (NO affiliate disclosure)
+
+**Canada Compliance:**
+- [ ] Age requirement: 19+ (18+ in AB, MB, QC)
+- [ ] Canadian compliance (Responsible Gambling Council, CCSA)
 - [ ] Interac emphasized in payment methods
 - [ ] Province-specific information included
+
+**Content Quality:**
 - [ ] Word count within ±200 words of 3,500 target
 - [ ] All H2 and H3 headings match outline
-- [ ] Sources cited appropriately (Reddit, official sites, forums)
+- [ ] Sources cited appropriately (Reddit, official sites, App Stores)
 - [ ] Balanced tone (both pros and cons)
 - [ ] Canadian spelling used throughout
 

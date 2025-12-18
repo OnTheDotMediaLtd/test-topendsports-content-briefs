@@ -1,4 +1,5 @@
 # WRITER BRIEF: Legendplay Sportsbook Review Canada
+**✅ V2 COMPLIANT - Updated to V2 Standards**
 
 ## ASSIGNED TO: Tom Goldsmith
 
@@ -14,6 +15,23 @@
 - **Target Word Count:** 3,500-4,000 words
 - **Template Type:** 1 (Brand Review)
 - **Priority:** Medium
+
+---
+
+## ⭐ V2 REQUIREMENTS SUMMARY
+
+This brief meets all V2 standards for Review pages:
+
+| V2 Requirement | Status | Location |
+|----------------|--------|----------|
+| **Keyword-to-Section Mapping Table** | ✅ Complete | Lines 20-40 |
+| **Mobile Experience Section** | ✅ Mandatory | H2: Legendplay Mobile App (100-150w per subsection) |
+| **Payment Methods Comparison** | ✅ Mandatory | H2: Payment Methods (250w total) |
+| **Calculator Tool Links** | ✅ Mandatory | H2: Betting Tools and Calculators (150w) |
+| **Intro Format** | ✅ 100-150 words | NO affiliate disclosure, NO forbidden patterns |
+| **Source Requirements** | ✅ Complete | TIER 1, TIER 2, TIER 4 warning included |
+| **Compliance** | ✅ Canada-specific | 19+/18+ age, provincial helplines with phone numbers |
+| **NO Affiliate Disclosure** | ✅ Confirmed | Content is clean - website sidebar handles disclosure |
 
 ---
 
@@ -40,10 +58,11 @@
 
 ---
 
-## MANDATORY INTRO FORMAT
+## MANDATORY INTRO FORMAT (V2 STANDARD)
 
-**Structure:** 150 words MAXIMUM
+**Structure:** 100-150 words (NO affiliate disclosure in content - it's in sidebar)
 1. **Direct Answer (50 words):** Open with clear assessment of Legendplay
+2. **Key Features/Context (50 words):** Canadian-specific details (CAD, Interac, NHL)
 3. **Authority Statement (25 words):** Brief credibility statement
 
 **FORBIDDEN in Intro:**
@@ -52,12 +71,12 @@
 - ❌ Any rhetorical questions
 - ❌ Dated language ("2025", "October")
 - ❌ Over 150 words total
+- ❌ Affiliate disclosure (handled by website sidebar)
 
 **Example Opening:**
 "Legendplay is an emerging Canadian sportsbook offering competitive sports betting and casino games with a focus on the Canadian market. The platform supports CAD currency, Interac payments, and comprehensive NHL and CFL coverage, making it a viable option for Canadian bettors seeking an alternative to established operators.
 
-
-Our analysis is based on extensive testing, Canadian user feedback from Reddit and review platforms, and comparison to market leaders like Bet365 and Sports Interaction."
+Our analysis is based on extensive testing of the platform, analysis of Canadian user feedback from Reddit and review platforms, and direct comparison to market leaders like Bet365 and Sports Interaction."
 
 ---
 
@@ -237,6 +256,7 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 
 ### H2: Legendplay Mobile App: Canadian Betting on the Go (300 words total)
 **Keyword Target:** canadian betting apps (250/mo)
+**⭐ V2 MANDATORY SECTION: Mobile Experience (100-150 words per subsection)**
 
 #### H3: App Download and Installation (100 words)
 
@@ -276,6 +296,7 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 ---
 
 ### H2: Payment Methods: Banking for Canadian Players (250 words total)
+**⭐ V2 MANDATORY SECTION: Payment Methods Comparison**
 
 #### H3: Canadian-Friendly Deposit Options (100 words)
 
@@ -395,6 +416,7 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 ---
 
 ### H2: Betting Tools and Calculators (150 words)
+**⭐ V2 MANDATORY SECTION: Calculator Tool Links**
 
 **Content:**
 - Importance of betting calculators for informed betting
@@ -405,7 +427,7 @@ Our analysis is based on extensive testing, Canadian user feedback from Reddit a
 - **Other Tools:** Arbitrage calculator, hedge calculator
 - How to use these tools with Legendplay bets (step-by-step)
 
-**Internal Links:**
+**Internal Links (REQUIRED):**
 - [parlay calculator](/sport/betting-tools/parlay-calculator.htm)
 - [odds calculator](/sport/betting-tools/odds-calculator.htm)
 
@@ -613,6 +635,7 @@ Each FAQ should:
 ---
 
 ## Responsible Gambling Section (150 words)
+**⚠️ NO AFFILIATE DISCLOSURE IN CONTENT - It's handled by website sidebar**
 
 **CANADA-SPECIFIC REQUIREMENTS:**
 
@@ -620,9 +643,15 @@ Each FAQ should:
 Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 
 **Canadian Problem Gambling Resources:**
-- **Responsible Gambling Council:** https://www.responsiblegambling.org/
+- **Responsible Gambling Council (National):** 1-888-230-3505 | https://www.responsiblegambling.org/
 - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
-- **Provincial helplines vary by location**
+- **Provincial Helplines:**
+  - **Alberta:** 1-866-332-2322
+  - **British Columbia:** 1-888-795-6111
+  - **Ontario:** 1-866-531-2600 (ConnexOntario)
+  - **Quebec:** 1-800-461-0140 (Jeu: aide et référence)
+  - **Manitoba:** 1-800-463-1554
+  - **Saskatchewan:** 1-800-306-6789
 
 **Content Must Include:**
 - Age verification importance
@@ -631,10 +660,7 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 - Deposit and loss limits
 - Reality checks
 - Time-out features
-- Provincial resources:
-  - Responsible Gambling Council (national)
-  - Canadian Centre on Substance Use and Addiction
-  - Provincial helplines (vary by location)
+- Provincial resources listed above
 - Encouragement to gamble responsibly
 - "When the fun stops, stop" messaging
 
@@ -680,11 +706,20 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 3. **Competitor Official Sites**
    - Use for: Feature benchmarking (Bet365, Sports Interaction)
 
+### TIER 4 (WARNING - Use with Caution):
+
+⚠️ **Social Media (Twitter, Facebook, Instagram)**
+   - Use ONLY for: Recent promotions, customer service response verification
+   - NEVER use as primary source for claims
+   - ALWAYS verify social media info against official website
+   - DO NOT cite social media for bonus T&Cs or critical features
+
 ### FORBIDDEN SOURCES:
 
 ❌ **NO affiliate sites for pros/cons** (research only)
 ❌ **NO Wikipedia** for factual claims
 ❌ **NO outdated sources** (bonus info must be current)
+❌ **NO social media as primary source** (TIER 4 verification only)
 
 ### Citation Format Examples:
 
@@ -694,21 +729,35 @@ Must be 19+ in most provinces (18+ in Alberta, Manitoba, Quebec)
 
 ---
 
-## COMPLIANCE CHECKLIST
+## V2 COMPLIANCE CHECKLIST
 
-Before submitting, verify:
+Before submitting, verify all V2 requirements:
 
+**V2 Mandatory Sections:**
+- [ ] Keyword-to-Section Mapping Table (lines 20-40) ✓
+- [ ] Mobile Experience section (100-150 words per subsection)
+- [ ] Payment Methods comparison section
+- [ ] Calculator Tool Links section with required internal links
+- [ ] Intro: 100-150 words, NO affiliate disclosure, NO forbidden patterns
+- [ ] Source Requirements: TIER 1, TIER 2, TIER 4 warning included
+
+**Canada-Specific Compliance:**
 - [ ] Age requirement stated: 19+ (18+ in Alberta, Manitoba, Quebec)
-- [ ] Pan-Canadian resources included: RGC and CCSA
+- [ ] Provincial helplines listed with phone numbers (AB, BC, ON, QC, MB, SK)
+- [ ] Responsible Gambling Council (National): 1-888-230-3505
+- [ ] Canadian Centre on Substance Use and Addiction included
 - [ ] Responsible gambling section at bottom
+- [ ] Provincial variations acknowledged
+- [ ] CAD currency support emphasized
+- [ ] Canadian payment methods (Interac, EFT) detailed
+
+**Content Quality:**
 - [ ] NO dated language in H1
 - [ ] All 12 secondary keywords mapped to sections
 - [ ] 10 FAQs created with keyword targeting
 - [ ] 12 internal links included contextually
 - [ ] Last Updated badge placement noted
-- [ ] Provincial variations acknowledged
-- [ ] CAD currency support emphasized
-- [ ] Canadian payment methods (Interac, EFT) detailed
+- [ ] NO affiliate disclosure in content (it's in website sidebar)
 
 ---
 

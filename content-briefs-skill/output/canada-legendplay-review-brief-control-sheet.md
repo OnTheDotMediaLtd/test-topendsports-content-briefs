@@ -1,7 +1,9 @@
 # BRIEF CONTROL SHEET: Legendplay Sport Review (Canada)
+**✅ V2 COMPLIANT - Updated to V2 Standards**
 
 **Page URL:** /sport/betting/canada/legendplay-review.htm
 **Created:** December 15, 2025
+**Updated:** December 17, 2025 (V2 Compliance)
 **Phase:** 1 - Research & Discovery
 
 ---
@@ -14,6 +16,21 @@
 **Template:** Template 1 (Brand Review)
 **Market:** Canada
 **Word Count Target:** 3,500-4,000 words
+
+---
+
+## ⭐ V2 COMPLIANCE STATUS
+
+| V2 Requirement | Status |
+|----------------|--------|
+| Keyword-to-Section Mapping | ✅ Complete (12 keywords mapped) |
+| Mobile Experience Section | ✅ Included in writer brief |
+| Payment Methods Comparison | ✅ Included in writer brief |
+| Calculator Tool Links | ✅ Included in writer brief |
+| Intro: 100-150 words, NO affiliate disclosure | ✅ Template provided |
+| Source Requirements: TIER 1, TIER 2, TIER 4 | ✅ All tiers documented |
+| Canada Compliance: Provincial helplines | ✅ All 6 provinces with phone numbers |
+| NO Affiliate Disclosure in Content | ✅ Confirmed |
 
 ---
 
@@ -145,12 +162,20 @@ Based on competitor analysis, Legendplay-specific content is minimal. Opportunit
 - [ ] Breadcrumb schema
 - [ ] Quick answer box (50-75 words)
 
-**Compliance:**
+**V2 Compliance Requirements:**
 - [ ] Age: 19+ (18+ in AB, MB, QC)
-- [ ] Helplines: Provincial helplines (AB: 1-866-332-2322, BC: 1-888-795-6111, QC: 1-800-461-0140)
-- [ ] National Resource: Responsible Gambling Council (www.responsiblegambling.org)
+- [ ] Provincial helplines with phone numbers:
+  - Alberta: 1-866-332-2322
+  - British Columbia: 1-888-795-6111
+  - Ontario: 1-866-531-2600
+  - Quebec: 1-800-461-0140
+  - Manitoba: 1-800-463-1554
+  - Saskatchewan: 1-800-306-6789
+- [ ] National Resource: Responsible Gambling Council: 1-888-230-3505
+- [ ] Canadian Centre on Substance Use and Addiction
 - [ ] Provincial variations noted
 - [ ] Responsible gambling footer
+- [ ] NO affiliate disclosure in content (website sidebar handles this)
 
 ---
 
@@ -186,20 +211,33 @@ Based on competitor analysis, Legendplay-specific content is minimal. Opportunit
 
 ---
 
-## SOURCE REQUIREMENTS
+## SOURCE REQUIREMENTS (V2 STANDARDS)
 
-**TIER 1 (Primary Sources):**
+**TIER 1 (Primary Sources - MANDATORY):**
 - Legendplay.com official website
 - Provincial gaming regulators (AGCO for Ontario, etc.)
 - Reddit r/sportsbook Canada discussion threads
 - Trustpilot Legendplay reviews
 - App Store / Google Play store reviews and ratings
 
-**TIER 2 (Supporting Sources):**
+**TIER 2 (Supporting Sources - Verification):**
 - Canadian gambling news and industry sites
 - Payment processor documentation (Interac, Canadian banks)
 - Competitor sportsbook feature comparisons
 - Industry reports on Canadian betting market growth
+
+**TIER 4 (WARNING - Use with Caution):**
+⚠️ Social Media (Twitter, Facebook, Instagram)
+- Use ONLY for: Recent promotions, customer service response verification
+- NEVER use as primary source for claims
+- ALWAYS verify social media info against official website
+- DO NOT cite social media for bonus T&Cs or critical features
+
+**FORBIDDEN:**
+❌ NO affiliate sites for pros/cons (research only)
+❌ NO Wikipedia for factual claims
+❌ NO outdated sources (bonus info must be current)
+❌ NO social media as primary source
 
 ---
 

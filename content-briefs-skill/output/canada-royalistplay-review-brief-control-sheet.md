@@ -161,9 +161,11 @@ Position this review as a **comprehensive analysis of Royalistplay as an offshor
 3. **Breadcrumb** (if applicable)
 
 ### Meta Data
-- **Title:** "Royalistplay Sport Review Canada 2025 - Bonus, Sports & Safety"
+- **Title:** "Royalistplay Sport Review Canada - Bonus, Sports & Safety"
 - **Description:** "Comprehensive Royalistplay sportsbook review for Canadian bettors. $150 welcome bonus, 27 sports, offshore licensing, mobile betting. Is it safe? Read our analysis."
 - **Meta Keywords:** royalistplay sport, royalistplay canada, royalistplay review, offshore sportsbook canada
+
+**Note:** Last Updated badge handles date display (no year in title per V2 standards)
 
 ---
 
@@ -288,7 +290,22 @@ Final phase will produce: `canada-royalistplay-review-ai-enhancement.md` with HT
 - [x] Source hierarchy defined
 - [x] Letter badge specified (RPL, #4CAF50)
 
-**Status:** ✅ Ready for Phase 2 (Writer Brief Generation)
+**Status:** ✅ Ready for Phase 2 (Writer Brief Generation) - V2 COMPLIANT
+
+---
+
+## V2 COMPLIANCE VALIDATION
+
+This brief meets all V2 requirements for REVIEW pages:
+
+- [x] **Keyword-to-Section Mapping Table:** All 11 keywords mapped (see control sheet line 44-60)
+- [x] **Mobile Experience Section:** 350-400 words across H2/H3 structure (writer brief line 280-340)
+- [x] **Payment Methods Section:** Table format in Deposits & Withdrawals (writer brief line 342-386)
+- [x] **Calculator Tool Links:** Parlay Calculator + Odds Calculator (writer brief line 772-778)
+- [x] **Intro Format:** 100-150 words, editorial independence, NO affiliate disclosure (writer brief line 46-73)
+- [x] **Source Requirements:** TIER 1 (user feedback), TIER 2 (verification), TIER 4 warning (writer brief line 794-846)
+- [x] **Canada Compliance:** 19+ (18+ AB/MB/QC), pan-Canadian helplines, NO affiliate disclosure in content (writer brief line 710-736)
+- [x] **NO YEAR in meta title:** Removed "2025" per V2 standards (control sheet line 164)
 
 ---
 

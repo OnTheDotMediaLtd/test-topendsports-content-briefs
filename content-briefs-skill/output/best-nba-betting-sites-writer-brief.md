@@ -46,13 +46,17 @@
    - Sentence 1: "The best NBA betting sites are FanDuel, BetMGM, and DraftKings, offering the widest NBA prop markets, competitive odds, and exclusive features like Same Game Parlays and live betting."
    - Sentence 2: Authority statement referencing testing methodology
 
-2. **Affiliate Disclosure (50-75 words):** Standard disclosure
+2. **Context (50-75 words):**
+   - Brief explanation of what makes these sites best for NBA
+   - Why NBA bettors should care about site selection
+   - What this guide covers
 
 **FORBIDDEN:**
 - "Welcome to..."
 - "Looking for..."
 - Rhetorical questions
 - Over 150 words
+- **Affiliate disclosure** (appears in website sidebar, NOT in content)
 
 ---
 
@@ -76,7 +80,8 @@ H1: Best NBA Betting Sites
 Introduction (100-150w)
 ├── Direct answer: FanDuel, BetMGM, DraftKings as top 3
 ├── Authority statement
-└── Affiliate disclosure
+└── Brief context on NBA betting importance
+**NO affiliate disclosure** (in website sidebar)
 
 [Comparison Table - 7 brands - HTML component]
 
@@ -88,6 +93,8 @@ H2: Best NBA Betting Sites Ranked (200w intro + individual reviews)
 │   ├── NBA Features: Same Game Parlays, alternate lines, NBA-specific boosts
 │   ├── Current Bonus: Bet $5, Get $150 in Bonus Bets (if you win)
 │   ├── App Rating: 4.9/5 iOS, 4.7/5 Android
+│   ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+│   │   - iOS/Android ratings, app performance, navigation
 │   └── Best For: Casual and serious NBA bettors
 │
 ├── H3: #2 BetMGM - Best for NBA Props (400-450w)
@@ -95,6 +102,8 @@ H2: Best NBA Betting Sites Ranked (200w intro + individual reviews)
 │   ├── NBA Features: Extensive player props, parlay builder, Edit My Bet
 │   ├── Current Bonus: Up to $1,500 in bonus bets (first bet insurance)
 │   ├── App Rating: 4.8/5 iOS, 4.2/5 Android
+│   ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+│   │   - iOS/Android ratings, app performance, navigation
 │   └── Best For: Prop bettors and parlay builders
 │
 ├── H3: #3 DraftKings - Best for NBA Promotions (350-400w)
@@ -102,26 +111,36 @@ H2: Best NBA Betting Sites Ranked (200w intro + individual reviews)
 │   ├── NBA Features: Flash Bets, NBA Shaq Pack (Wednesday boosts), SGP+
 │   ├── Current Bonus: Bet $5, Get $300 + 3 months NBA League Pass
 │   ├── App Rating: 4.8/5 iOS, 4.6/5 Android
+│   ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+│   │   - iOS/Android ratings, app performance, navigation
 │   └── Best For: Promo hunters, microbettors
 │
 ├── H3: #4 Caesars Sportsbook - Best for Live NBA Betting (300-350w)
 │   ├── NBA Features: FireBets, live streaming, Caesars Rewards
 │   ├── Current Bonus: Up to $1,000 first bet
+│   ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+│   │   - iOS/Android ratings, app performance, navigation
 │   └── Best For: Live bettors, rewards enthusiasts
 │
 ├── H3: #5 bet365 - Best NBA Market Depth (300-350w)
 │   ├── NBA Features: 140+ markets per game, Early Payout
 │   ├── Current Bonus: Bet $5, Get $150 OR $1,000 Safety Net
+│   ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+│   │   - iOS/Android ratings, app performance, navigation
 │   └── Best For: Sharp bettors, market variety seekers
 │
 ├── H3: #6 Fanatics Sportsbook - Best for NBA Fan Rewards (250-300w)
 │   ├── NBA Features: FanCash rewards, merchandise tie-ins
 │   ├── Current Bonus: Varies by state
+│   ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+│   │   - iOS/Android ratings, app performance, navigation
 │   └── Best For: Sports merchandise enthusiasts
 │
 └── H3: #7 ESPN BET - Best for Analytics (250-300w)
     ├── NBA Features: ESPN integration, analytics tools, data-driven props
     ├── Current Bonus: Up to $1,000 bet reset
+    ├── **H4: Mobile Experience (100-150w) [REQUIRED V2]**
+    │   - iOS/Android ratings, app performance, navigation
     └── Best For: Stats-focused NBA bettors
 
 H2: Complete NBA Betting Bonus Terms (All 7 Brands) (400-500w)
@@ -149,6 +168,18 @@ H2: NBA Live Betting Features (250-300w)
 ├── Cash out features
 ├── Live streaming availability
 └── Best apps for live NBA betting
+
+H2: Payment Methods & Withdrawal Speeds (250-300w) **[REQUIRED V2]**
+├── Fastest payout methods per sportsbook
+├── Timeframe comparison table
+├── PayPal/Play+/bank transfers/debit cards
+└── Minimum withdrawal amounts
+
+H2: Calculator Tool Integration (100w) **[REQUIRED V2]**
+├── Link to NBA Parlay Calculator (https://www.topendsports.com/sport/betting-tools/parlay-calculator.htm)
+├── Link to Odds Calculator (https://www.topendsports.com/sport/betting-tools/odds-calculator.htm)
+├── Brief explanation of how calculators help NBA bettors
+└── Mention other TopEndSports betting tools
 
 H2: How We Test & Rank NBA Betting Sites (300-350w)
 ├── Methodology overview
@@ -254,6 +285,8 @@ References (5-10)
 10. [DraftKings review](/sport/betting/draftkings-review.htm)
 11. [Best sportsbook bonuses](/sport/betting/best-bonuses.htm)
 12. [Best sports betting apps](/sport/betting/best-apps.htm)
+13. **[NBA Parlay Calculator](/sport/betting-tools/parlay-calculator.htm)** - PROMINENT in parlay section
+14. **[Odds Calculator](/sport/betting-tools/odds-calculator.htm)** - In calculator section
 
 ---
 

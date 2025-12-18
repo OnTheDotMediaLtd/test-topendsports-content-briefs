@@ -1,9 +1,10 @@
 # BRIEF CONTROL SHEET: 7Bet Sport Review (UK Market)
 
-**Date:** December 15, 2025
+**Date:** December 17, 2025
 **Market:** United Kingdom
 **Template:** Template 1 (Brand Review)
-**Phase:** Phase 1 Complete
+**Phase:** Phase 1 Complete (V2 Standards Applied)
+**Version:** V2
 
 ---
 
@@ -256,15 +257,27 @@
 
 ---
 
+## V2 COMPLIANCE CHECKLIST
+
+- [x] **Keyword-to-Section Mapping** - All keywords are BRAND-SPECIFIC (7bet, 7bet uk, 7bet casino, etc.)
+- [x] **Mobile Experience Section** - Comprehensive coverage of mobile website and app status
+- [x] **Payment Methods Section** - Detailed payment methods and withdrawal times
+- [x] **Calculator Tool Links** - Multiple calculator integrations throughout content
+- [x] **Intro Format** - 100-150 words, NO affiliate disclosure
+- [x] **Compliance** - GamCare 0808 8020 133, 18+ age requirement
+
+---
+
 ## CONTENT SECTIONS
 
 ### Template 1 (Brand Review) Structure
 
-- [x] **Introduction** (200-250 words)
+- [x] **Introduction** (100-150 words)
   - Last Updated badge
   - 7BT letter badge (#E91E63)
   - Quick answer box
   - Overview of 7bet positioning
+  - **V2 REQUIREMENT:** NO affiliate disclosure in intro (handled by website sidebar)
 
 - [x] **Rating Summary** (150-200 words)
   - Overall rating: 3.5/5 stars
@@ -300,14 +313,16 @@
   - Processing times per method
   - Fees: None
   - Address Trustpilot withdrawal complaints
+  - **V2 REQUIREMENT:** Payment methods section included
 
-- [x] **Mobile App Experience** (300-400 words)
+- [x] **Mobile Experience: App & Mobile Website** (300-400 words)
   - No native app available
   - Mobile-optimized website review
   - Mobile betting features
   - Browser performance (iOS/Android)
   - Comparison to app-based competitors
   - Impact on user experience
+  - **V2 REQUIREMENT:** Comprehensive mobile experience coverage
 
 - [x] **Casino Offering & Games** (300-350 words)
   - 1,600+ casino games
@@ -396,8 +411,25 @@
 3. **Altenar Platform Deep Dive** — Explain what makes this platform competitive
 4. **Lithuanian Operator Context** — Compare to Highbet and other European operators
 5. **Payment Method Comparison Table** — Visual comparison of processing times
-6. **Calculator Tool Links** — Integrate odds converter, acca calculator
+6. **Calculator Tool Links** — Integrate odds converter, acca calculator, free bet calculator, each-way calculator, wagering calculator
 7. **Mobile Web Quality Assessment** — Since no app, thoroughly review mobile site
+
+### V2 Enhancements Applied
+
+1. **Calculator Tool Integration** - 7+ calculator links throughout content:
+   - Free bet calculator (bonus section)
+   - Wagering calculator (casino bonus)
+   - Odds calculator (mobile betting)
+   - Margin calculator (sports section)
+   - Odds converter (sports section)
+   - Each-way calculator (horse racing)
+   - Accumulator calculator (responsible gambling section)
+
+2. **Mobile Experience** - Comprehensive section covering both app status and mobile website quality
+
+3. **Intro Format** - Strict 100-150 words, NO affiliate disclosure
+
+4. **Brand-Specific Keywords** - All 17 keywords are 7Bet-specific variations
 
 ### Tone & Approach
 
@@ -469,10 +501,11 @@
 | **Age** | 18+ (UK standard) |
 | **Regulatory Body** | UK Gambling Commission (UKGC) |
 | **License Display** | UKGC License 048788-R-327401-009 |
-| **Helplines** | BeGambleAware.org, GamCare |
+| **Helplines** | BeGambleAware.org, **GamCare: 0808 8020 133** |
 | **Responsible Gambling** | Section required at bottom |
 | **Last Updated Badge** | Current date displayed |
 | **Terms Verification** | Within 7 days of publish |
+| **Affiliate Disclosure** | **V2:** NOT in content intro (handled by website sidebar) |
 
 ### Required Disclaimers
 

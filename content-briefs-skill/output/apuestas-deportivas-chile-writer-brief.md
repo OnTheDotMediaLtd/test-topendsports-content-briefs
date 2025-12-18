@@ -70,9 +70,8 @@ apuestas deportivas, apuestas deportivas chile, mejores casas de apuestas, casas
 
 ## MANDATORY INTRO FORMAT
 
-**Opening:** 40-50 words, direct answer first
-**Then:** Affiliate disclosure 50-75 words
 **Total:** 100-150 words max
+**Structure:** Direct answer first (40-50 words), then expand on value proposition
 
 **Example Structure:**
 ```
@@ -80,9 +79,8 @@ Las mejores casas de apuestas deportivas en Chile son Casino Infinity, JugaBet y
 Estas plataformas ofrecen las cuotas más competitivas, métodos de pago locales como WebPay
 y MACH, y amplia cobertura de la Liga Chilena, verificado por nuestro equipo de expertos.
 
-[Disclosure: Podemos recibir comisiones cuando te registras a través de nuestros enlaces.
-Debes ser mayor de 18 años para apostar. ¿Problemas con el juego? Llama al 600 360 7777
-o visita SENDA Chile.]
+[Continue with 50-100 more words explaining methodology, what makes these stand out,
+and key benefits for Chilean bettors - NO affiliate disclosure, it's in website sidebar]
 ```
 
 **Forbidden:**
@@ -90,6 +88,7 @@ o visita SENDA Chile.]
 - "¿Buscas las mejores...?"
 - Preguntas retóricas
 - Más de 150 palabras
+- **NO affiliate disclosure in content** (it's in website sidebar)
 
 ---
 
@@ -107,7 +106,8 @@ o visita SENDA Chile.]
 
 ### Introduction (100-150 words)
 - Direct answer with top 3 picks
-- Affiliate disclosure
+- Value proposition and methodology
+- **NO affiliate disclosure** (it's in website sidebar)
 - Keywords: apuestas deportivas, apuestas deportivas chile
 
 ---
@@ -631,7 +631,7 @@ Key factors:
 | **Juego Responsable** | SENDA Chile: www.senda.gob.cl |
 | **Línea de Ayuda** | 600 360 7777 |
 | **Nota Legal** | Las apuestas deportivas operan bajo licencias internacionales. Regulación local pendiente. |
-| **Disclosure** | Obligatorio en introducción |
+| **Affiliate Disclosure** | **NO** - Affiliate disclosure is in website sidebar, NOT in content |
 
 ---
 

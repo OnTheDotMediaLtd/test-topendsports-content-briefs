@@ -65,7 +65,6 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, sports
 1. **Sentence 1:** Direct answer - "The best free bets in Ireland are [Lunubet €X], [Betalright €X], and [Casina €X]."
 2. **Sentence 2:** Authority statement - "We tested over 30 Irish betting offers, analyzing wagering requirements, expiry terms, and market restrictions to identify genuine value."
 3. **Sentences 3-4:** What makes a good free bet (low wagering requirements, flexible markets, reasonable expiry)
-4. **Disclosure paragraph:** 50-75 words explaining affiliate partnerships, editorial independence, commission structure
 
 **FORBIDDEN:**
 - ❌ "Welcome to our guide..."
@@ -73,6 +72,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, sports
 - ❌ Any rhetorical questions
 - ❌ Dated language ("2025", "this year")
 - ❌ More than 150 words total
+- ❌ **NO AFFILIATE DISCLOSURE** (it's in website sidebar - do NOT include in content)
 
 ---
 
@@ -332,8 +332,7 @@ free bets ireland, free bet no deposit ireland, no deposit bonus ireland, sports
 ### 16. H2: Responsible Gambling in Ireland (200 words)
 - Age requirement: **18+** (Ireland legal gambling age - NOT 21+ like USA)
 - Problem Gambling Ireland resources
-- National Gambling Helpline: 089 241 5401
-- Gamblers Anonymous Ireland
+- Gamblers Anonymous Ireland: 087 744 3577
 - Setting deposit limits before claiming bonuses
 - Self-exclusion options at Irish betting sites
 - Recognizing problem gambling signs
@@ -457,8 +456,7 @@ Link to these pages throughout the content:
 
 ### Support Resources
 - Problem Gambling Ireland
-- Gamblers Anonymous Ireland
-- National Gambling Helpline: 089 241 5401
+- Gamblers Anonymous Ireland: 087 744 3577
 
 ### Payment Methods
 Highlight Irish-popular methods:
@@ -483,7 +481,7 @@ Reference traditional Irish bookmakers (Boylesports, Paddy Power, Ladbrokes) to 
 Before submitting, verify:
 
 - [ ] **Age:** 18+ stated (NOT 21+)
-- [ ] **Helpline:** National Gambling Helpline: 089 241 5401
+- [ ] **Helpline:** Gamblers Anonymous Ireland: 087 744 3577
 - [ ] **Currency:** All amounts in EUR with € symbol
 - [ ] **Responsible Gambling Section:** At end with Irish resources
 - [ ] **NO Dated Language in H1:** No "2025" or "Review 2025"
@@ -494,6 +492,7 @@ Before submitting, verify:
 - [ ] **Keyword Mapping:** All 14 secondary keywords in designated sections
 - [ ] **FAQs:** 10 questions with schema markup note
 - [ ] **Sources:** Tier 1 sources cited (App Store, Google Play, Reddit, T&Cs)
+- [ ] **NO Affiliate Disclosure in Intro:** Disclosure is in website sidebar only
 
 ---
 

@@ -2,6 +2,20 @@
 
 ## ASSIGNED TO: Tom Goldsmith
 
+**Generated:** December 15, 2025
+**Updated:** December 17, 2025 (V2 Standards Applied)
+
+---
+
+## V2 UPDATES APPLIED
+
+✅ **Calculator Tools Section:** Added H2 section (200-250 words) with bonus, parlay, and odds calculators
+✅ **Mobile Experience:** Already included as H2 section (350-400 words)
+✅ **Intro Format:** Removed affiliate disclosure language (it's in website sidebar)
+✅ **Source Tiers:** Updated TIER 3 → TIER 4 with affiliate warning
+✅ **Internal Links:** Updated with calculator tool links (12 total)
+✅ **Quality Checklist:** Updated to include V2 requirements
+
 ---
 
 ## PAGE BASICS
@@ -9,7 +23,7 @@
 - **URL:** `/sport/betting/canada/lucky7even-review.htm`
 - **Target Keyword:** "lucky7even sport" (0/mo) + "lucky7even" (1,600/mo)
 - **Total Search Volume:** 2,980/mo across 13 keywords
-- **Word Count:** 3,500-4,000 words
+- **Word Count:** 3,700-4,200 words (updated for Calculator Tools section)
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
 - **Age Requirement:** 19+ (varies by province: 18+ in AB, MB, QC)
@@ -64,16 +78,13 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
    - "Lucky7even is a [description] online casino platform for Canadian players..."
    - Include authority statement about testing and analysis
 
-   - Standard disclosure language
-   - Commission structure
-   - Editorial independence statement
-
 **❌ FORBIDDEN:**
 - "Welcome to..."
 - "Looking for..."
 - Rhetorical questions
 - Over 150 words total
 - Dated language
+- Affiliate disclosure (it's in website sidebar)
 
 ---
 
@@ -325,6 +336,33 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
   - Include: method, deposit time, withdrawal time, fees, limits
 
 **Link:** [withdrawal processing times Canada](/sport/betting/canada/withdrawal-times.htm)
+
+---
+
+### H2: Betting Calculators & Tools (200-250 words)
+
+**Cover:**
+- **Casino Bonus Calculator:**
+  - Calculate wagering requirements for Lucky7even bonuses
+  - Link: [casino bonus calculator](/sport/betting/calculators/bonus-calculator.htm)
+  - Example: "Calculate exactly how much you need to wager to clear a 30x bonus requirement"
+
+- **Parlay Calculator:**
+  - For sports betting if available
+  - Link: [parlay calculator](/sport/betting-tools/parlay-calculator.htm)
+  - Helps calculate potential returns on multi-leg bets
+
+- **Odds Calculator:**
+  - Convert between odds formats (decimal, American, fractional)
+  - Link: [odds calculator](/sport/betting-tools/odds-calculator.htm)
+  - Useful for comparing odds across platforms
+
+- **How to Use:**
+  - Brief explanation of when each calculator is most useful
+  - Example scenarios (e.g., "Use the bonus calculator before claiming any welcome offer to understand the playthrough requirement")
+  - All tools are free to use
+
+**Note:** Focus primarily on bonus calculator since Lucky7even is casino-focused. Include sports calculators only if sports betting is available.
 
 ---
 
@@ -607,7 +645,13 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 - **Problem Gambling Help:**
   - **Responsible Gambling Council:** https://www.responsiblegambling.org/
   - **Canadian Centre on Substance Use and Addiction:** https://www.ccsa.ca/
-  - **Provincial helplines vary by location**
+  - **Provincial Helplines:**
+    - **Ontario:** 1-866-531-2600 (ConnexOntario)
+    - **Alberta:** 1-866-332-2322
+    - **British Columbia:** 1-888-795-6111
+    - **Quebec:** 1-800-461-0140
+    - **Manitoba:** 1-800-463-1554
+    - **Saskatchewan:** 1-800-306-6789
   - Available 24/7
   - Free and confidential
 
@@ -632,7 +676,7 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 
 Include these 12 internal links naturally throughout content:
 
-1. **[best betting sites Canada](/sport/betting/canada/index.htm)**
+1. **[best online casinos Canada](/sport/betting/canada/best-online-casinos.htm)**
    - Context: Main comparison page - link in intro and conclusion
 
 2. **[best betting apps Canada](/sport/betting/canada/betting-apps.htm)**
@@ -644,17 +688,17 @@ Include these 12 internal links naturally throughout content:
 4. **[responsible gambling](/sport/betting/responsible-gambling.htm)**
    - Context: Compliance requirement in responsible gambling section
 
-5. **[Best NHL Betting Sites](/sport/betting/nhl/index.htm)**
-   - Context: Sports betting section if available
+5. **[casino bonus calculator](/sport/betting/calculators/bonus-calculator.htm)**
+   - Context: Calculator Tools section - bonus wagering calculations
 
-6. **[Best NFL Betting Sites](/sport/betting/nfl/index.htm)**
-   - Context: Sports betting section if available
+6. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)**
+   - Context: Calculator Tools section (if sports betting available)
 
-7. **[parlay calculator](/sport/betting-tools/parlay-calculator.htm)**
-   - Context: Tool for betting calculations
+7. **[odds calculator](/sport/betting-tools/odds-calculator.htm)**
+   - Context: Calculator Tools section
 
-8. **[odds calculator](/sport/betting-tools/odds-calculator.htm)**
-   - Context: Tool for odds calculations
+8. **[withdrawal processing times Canada](/sport/betting/canada/withdrawal-times.htm)**
+   - Context: Payment Methods section
 
 9. **[Treasure Spins review](/sport/betting/canada/treasurespins-review.htm)**
    - Context: Competitor brand review - similar casino focus
@@ -665,8 +709,8 @@ Include these 12 internal links naturally throughout content:
 11. **[Wyns review](/sport/betting/canada/wyns-review.htm)**
     - Context: Competitor brand review - alternative option
 
-12. **[Same Game Parlay Guide](/sport/betting/guides/same-game-parlay.htm)**
-    - Context: Betting guides section
+12. **[Canada sports betting sites](/sport/betting/canada/best-sports-betting-sites.htm)**
+    - Context: Alternative if sports betting not available
 
 ---
 
@@ -705,13 +749,15 @@ Include these 12 internal links naturally throughout content:
 - Canadian gaming commission records: Licensing verification
 - Provincial gaming regulators: Availability confirmation
 
-### TIER 3 (BACKGROUND):
+### TIER 4 (SPARINGLY) - Use Only When Necessary:
+
+**⚠️ WARNING:** Use affiliate sites ONLY for research gaps where TIER 1 and TIER 2 sources lack information.
 
 - Canadian gambling industry reports: Market context
 - Payment processor information: Interac details
+- Affiliate site content: ONLY for filling factual gaps
 
-### FORBIDDEN:
-
+**FORBIDDEN:**
 - ❌ DO NOT cite affiliate sites for pros/cons
 - ❌ DO NOT use competitor reviews as primary sources
 - ❌ DO NOT cite unverified user comments
@@ -789,20 +835,23 @@ Include these 12 internal links naturally throughout content:
 
 ## QUALITY CHECKLIST BEFORE SUBMISSION
 
-- [ ] Word count: 3,500-4,000 words
+- [ ] Word count: 3,700-4,200 words (includes Calculator Tools section)
 - [ ] All 13 keywords mapped to specific sections
 - [ ] 8 FAQs included with keyword targeting
-- [ ] 12 internal links included naturally
+- [ ] 12 internal links included naturally (including calculator links)
 - [ ] Tier 1 sources cited (App Store, Google Play, Reddit)
-- [ ] Intro follows 100-150 word mandate
+- [ ] Intro follows 100-150 word mandate (NO affiliate disclosure)
 - [ ] NO dated language in H1
+- [ ] Mobile Experience section included (100-150w minimum)
+- [ ] Calculator Tools section included with links
 - [ ] Casino-first positioning clear throughout
 - [ ] Sports betting status clarified
 - [ ] Interac featured prominently in payments
 - [ ] Mobile app includes actual ratings
 - [ ] Province availability specified
 - [ ] Age requirements by province included
-- [ ] Canadian compliance complete (hotline, age, disclosure)
+- [ ] Canadian compliance complete (hotline, age)
+- [ ] NO affiliate disclosure in content (it's in sidebar)
 - [ ] Responsible gambling section included
 - [ ] Pros/cons cite Tier 1 sources only
 

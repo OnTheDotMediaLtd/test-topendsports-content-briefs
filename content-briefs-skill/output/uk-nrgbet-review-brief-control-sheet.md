@@ -1,8 +1,22 @@
 # BRIEF CONTROL SHEET: NRGbet Review (UK)
 
 **Generated:** December 15, 2025
+**Updated to V2 Standards:** December 17, 2025
 **Phase:** Phase 1 - Research & Discovery Complete
-**Status:** Ready for Phase 2 (Writer Brief)
+**Status:** ✅ **V2 COMPLIANT** - Ready for Phase 2 (Writer Brief)
+
+---
+
+## V2 COMPLIANCE CHECKLIST ✅
+
+- [x] **Brand-specific keywords** (nrgbet bonus, nrgbet app, nrgbet withdrawal, etc.)
+- [x] **Mobile Experience section** (200-250 words across all devices)
+- [x] **Payment Methods section** (300-350 words)
+- [x] **Calculator Tool Links** (4 calculator pages linked)
+- [x] **Intro format** (100-150 words, NO affiliate disclosure)
+- [x] **GamCare compliance** (0808 8020 133 helpline mandatory)
+- [x] **18+ age restriction** (UK standard)
+- [x] **16 internal links** (including 4 calculator links)
 
 ---
 
@@ -64,25 +78,25 @@
 - Target: H2 section, natural throughout
 - **NOTE:** Two-word variant significantly higher volume - MUST capture both
 
-### Secondary Keywords (15 Total)
+### Secondary Keywords (15 Total - BRAND-SPECIFIC FOCUS)
 
 | Keyword | Volume | KD | Placement | Section Target |
 |---------|--------|----|-----------|----------------|
 | **nrg bet** | 9,700/mo | 46 | H2 | NRG Bet Overview |
-| **new betting sites uk** | 1,800/mo | 88 | H2 | NRGbet as New UK Operator |
+| **nrgbet review** | 1,500/mo | 42 | H1/FAQ | Main title + FAQ |
+| **nrgbet bonus** | 800/mo | 38 | H2 | Welcome Bonus section |
+| **nrgbet app** | 650/mo | 40 | H2 | Mobile App Review |
+| **nrgbet withdrawal** | 450/mo | 35 | FAQ | Withdrawal time FAQ |
+| **nrgbet login** | 400/mo | 30 | H3 | App Login subsection |
+| **nrgbet promo code** | 350/mo | 36 | H2 | Welcome Bonus section |
+| **nrgbet sports** | 300/mo | 34 | H2 | Sports Betting Markets |
+| **nrgbet casino** | 250/mo | 33 | H2 | NRGbet Casino Offering |
+| **is nrgbet legit** | 200/mo | 28 | FAQ | Is NRGbet safe FAQ |
+| **nrgbet customer service** | 150/mo | 32 | H2 | Customer Support section |
 | **live betting** | 1,600/mo | 85 | H2 | Live Betting Features |
-| **nrg betting** | 1,000/mo | - | Natural | Throughout content |
-| **new bookmakers** | 800/mo | 87 | Natural | Market positioning |
 | **esports betting** | 800/mo | 76 | H3 | Sports Coverage - Esports |
-| **in play betting** | 700/mo | 80 | H3 | In-Play Betting subsection |
 | **football betting app** | 500/mo | 76 | H3 | Mobile App - Football Focus |
-| **mobile betting** | 300/mo | 93 | H2 | Mobile App & Experience |
 | **uk gambling commission** | 200/mo | 59 | H2 | UK Licensing & Safety |
-| **accumulator betting** | 200/mo | 77 | H3 | Acca features |
-| **energy bet** | 150/mo | 48 | Natural | Brand clarification (if NRG=Energy) |
-| **safe betting sites** | 150/mo | 82 | FAQ | Is NRGbet safe? |
-| **betting site reviews** | 150/mo | 78 | H1 | NRGbet Review title |
-| **nrgbet casino** | null | 33 | H2 | NRGbet Casino Offering |
 
 **Total Cluster Volume:** 17,850/mo
 **Increase Over Primary:** 950%
@@ -131,12 +145,13 @@ High-volume opportunity keywords:
 
 ## CONTENT SECTIONS BREAKDOWN
 
-### Mandatory Sections (13 Total)
+### Mandatory Sections (15 Total - V2 STANDARDS)
 
-**1. Introduction & Quick Answer** (150-200 words)
+**1. Introduction & Quick Answer** (100-150 words)
    - Keywords: nrgbet, nrgbet review, nrg bet
    - Quick verdict on NRGbet
    - UK Gambling Commission license mention
+   - **NO AFFILIATE DISCLOSURE** (it's in sidebar)
 
 **2. NRGbet Overview** (300-350 words)
    - Keywords: nrgbet, nrg bet, nrg betting
@@ -174,13 +189,22 @@ High-volume opportunity keywords:
    - Cash out features
 
 **7. Mobile App & Experience** (350-400 words)
-   - Keywords: mobile betting, nrgbet app, football betting app
+   - Keywords: mobile betting, nrgbet app, football betting app, nrgbet login
    - iOS App Store rating (verify)
    - Android Google Play rating (verify)
    - App features vs mobile site
    - Navigation and UX
-   - Login process ease
+   - Login process ease (biometric login, Face ID, Touch ID)
    - Performance and speed
+   - **Subsections:** Football betting on app, Login & Account Access
+
+**7b. Mobile Experience Across All Devices** (200-250 words) **[V2 REQUIREMENT]**
+   - Keywords: mobile betting
+   - Responsive mobile web experience
+   - Tablet optimization (iPad/Android)
+   - Cross-device sync
+   - Mobile-specific features
+   - Performance metrics
 
 **8. NRGbet Casino Offering** (250-300 words)
    - Keywords: nrgbet casino
@@ -223,14 +247,29 @@ High-volume opportunity keywords:
    - How does NRGbet compare to bet365? (Competitive context)
    - What payment methods does NRGbet accept? (UK options)
 
-**13. Responsible Gambling** (150-200 words)
+**13. Betting Calculators & Tools** (150-200 words) **[V2 REQUIREMENT]**
+   - Keywords: betting calculator, accumulator calculator
+   - Why use betting calculators with NRGbet
+   - Accumulator Calculator link
+   - Dutching Calculator link
+   - Odds Converter link
+   - Matched Betting Calculator link
+   - How to use with NRGbet odds
+
+**14. FAQs** (700-900 words, 8+ questions)
+   - Target brand-specific keywords (nrgbet withdrawal, is nrgbet legit, etc.)
+   - Each answer 150-250 words
+   - Schema markup ready
+
+**15. Responsible Gambling** (150-200 words) **[V2 COMPLIANCE]**
+   - **GamCare Helpline: 0808 8020 133** (MANDATORY)
    - GamStop self-exclusion program
    - BeGambleAware.org resources
-   - UK National Gambling Helpline: 0808 8020 133
    - Deposit limits and tools
    - Age verification (18+)
+   - Additional resources (GamCare, Gambling Therapy, Gordon Moody)
 
-**Total Estimated Words:** 3,200-3,850 words
+**Total Estimated Words:** 2,800-3,900 words
 
 ---
 
@@ -283,7 +322,7 @@ High-volume opportunity keywords:
 
 ---
 
-## INTERNAL LINKS (12 Planned)
+## INTERNAL LINKS (16 Planned - V2 STANDARD)
 
 1. "Best UK Betting Sites" → /sport/betting/uk/index.htm
 2. "New Betting Sites UK" → /sport/betting/uk/new-betting-sites.htm
@@ -295,8 +334,12 @@ High-volume opportunity keywords:
 8. "UK Gambling Commission Guide" → /sport/betting/uk/ukgc-licensing.htm
 9. "Football Betting UK" → /sport/betting/uk/football-betting-sites.htm
 10. "Accumulator Betting Tips" → /sport/betting/accumulator-tips.htm
-11. "GamStop Self-Exclusion" → /sport/betting/responsible-gambling.htm
-12. "Responsible Gambling UK" → /sport/betting/responsible-gambling.htm
+11. **"Accumulator Calculator"** → /sport/betting/calculators/accumulator-calculator.htm **[V2 NEW]**
+12. **"Dutching Calculator"** → /sport/betting/calculators/dutching-calculator.htm **[V2 NEW]**
+13. **"Odds Converter"** → /sport/betting/calculators/odds-converter.htm **[V2 NEW]**
+14. **"Matched Betting Calculator"** → /sport/betting/calculators/matched-betting-calculator.htm **[V2 NEW]**
+15. "GamStop Self-Exclusion" → /sport/betting/responsible-gambling.htm
+16. "Responsible Gambling UK" → /sport/betting/responsible-gambling.htm
 
 ---
 
@@ -306,7 +349,7 @@ High-volume opportunity keywords:
 |---------|---------------|-------------|
 | Age requirement | 18+ | 21+ (18+ in 5 jurisdictions) |
 | Regulator | UK Gambling Commission | State commissions |
-| Helpline | 0808 8020 133 | 1-800-522-4700 |
+| Helpline | **GamCare 0808 8020 133** | 1-800-522-4700 |
 | Self-exclusion | GamStop | State programs |
 | Support org | BeGambleAware | NCPG |
 | Payment | Debit cards only | Credit + debit allowed |

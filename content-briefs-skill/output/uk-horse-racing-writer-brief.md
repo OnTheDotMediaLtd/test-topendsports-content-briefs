@@ -55,23 +55,24 @@ horse racing betting sites, grand national betting, ante post betting, best hors
 **Total:** 100-150 words maximum
 
 **Structure:**
-1. **Opening (40-50 words):**
+1. **Opening (40-60 words):**
    - Sentence 1: Direct answer with top 3 winners (Bet442, LuckyMate, NRGbet)
    - Sentence 2: Authority statement (why these are best)
 
-2. **Disclosure (50-75 words):**
-   - Does not impact pricing
-   - Transparent relationship
+2. **Supporting Detail (40-90 words):**
+   - Key features that set these apart
+   - What readers will learn in this guide
 
 **Example Opening:**
 ```
 The best horse racing betting sites in the UK are Bet442, LuckyMate, and NRGbet.
 These operators offer Best Odds Guaranteed, live streaming, and comprehensive
-racing markets verified through extensive testing across major events.
+racing markets verified through extensive testing across major events including
+the Grand National and Cheltenham Festival.
 
-[Disclosure: We may earn commission when you sign up through our links. This
-helps fund our independent testing but does not impact pricing or influence our
-rankings, which are based solely on our research methodology...]
+This guide compares 9 UK-licensed betting sites across mobile experience, odds
+competitiveness, and racing-specific features to help you choose the right
+platform for your betting strategy.
 ```
 
 **FORBIDDEN:**
@@ -505,7 +506,7 @@ Each brand gets **4 subsections** (H3 level):
 
 **Testing Period:** October-December 2024
 **Update Frequency:** Monthly reviews
-**Transparency:** Affiliate relationships disclosed, no bias in rankings
+**Transparency:** Independent rankings based solely on testing criteria
 
 ---
 
@@ -785,23 +786,21 @@ Place naturally throughout content:
 - Must be stated in introduction and responsible gambling section
 
 ### Helpline
+- **GamCare:** 0808 8020 133
 - **BeGambleAware.org**
-- **UK Hotline:** 0808 8020 133
 - Display prominently in responsible gambling section
-
-- Clear statement: "We may earn commission..."
-- Does not impact pricing
-- Does not influence rankings
 
 ### Responsible Gambling Section
 **Required at bottom (150 words):**
 - 18+ age requirement
-- BeGambleAware.org and hotline
+- GamCare hotline: 0808 8020 133
+- BeGambleAware.org link
 - Deposit limits available
 - Self-exclusion tools
 - GamStop mention (national self-exclusion scheme)
 - Reality checks
 - Link to support organizations
+- **NO affiliate disclosure** (handled in website sidebar)
 
 ### Licensing
 - All brands must be UK Gambling Commission licensed

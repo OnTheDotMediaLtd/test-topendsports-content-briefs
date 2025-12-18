@@ -64,8 +64,9 @@ myriadplay sport, myriad play, myriad play casino, myriad play review, myriadpla
 **Example Opening:**
 ```
 Myriadplay is a promising new UK betting site launched in June 2024, offering 50+ sports, an impressive Acca Boost up to 77%, and strong esports coverage. Licensed by the UK Gambling Commission (#39483) and operated by AG Communications Limited, it delivers competitive odds and a solid mobile experience, though it lacks a dedicated app and ongoing promotions.
-
 ```
+
+**NO affiliate disclosure in intro** (it's in website sidebar, NOT in content)
 
 **FORBIDDEN:**
 - ❌ "Welcome to our review..."
@@ -224,7 +225,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 
 ---
 
-### H2: Myriadplay Mobile Experience & App Review (250 words)
+### H2: Mobile Experience (100-150 words)
 
 **Keywords:** myriadplay app
 
@@ -237,7 +238,6 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
   - Touch-optimized interface
   - Quick bet functionality
   - Speed and performance
-- Mobile web features:
   - Navigation structure
   - Bet slip usability
   - Live betting interface
@@ -245,15 +245,7 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 - Comparison: Mobile web vs competitor apps
   - Pros of mobile web (no download, always updated)
   - Cons (no push notifications, home screen access)
-- Is lack of app a dealbreaker? (perspective)
-
-#### H3: Mobile Web Features (75 words)
-
-**Content:**
-- Interface quality on phones/tablets
-- Bet placement speed
-- Live betting functionality
-- Account features (deposits, withdrawals, history)
+- Brief assessment: Is lack of app a dealbreaker?
 
 **Internal Links:**
 - Link "best betting apps UK" to `/sport/betting/uk/betting-apps.htm`
@@ -584,7 +576,7 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
   - GAMSTOP (national self-exclusion scheme)
 - **Problem gambling resources:**
   - **BeGambleAware.org** - Free support and advice
-  - **GamCare** - Counseling services: 0808 8020 133
+  - **GamCare:** 0808 8020 133 - Counseling services
   - **UK Gambling Commission** - Regulatory resources
 - **Safer gambling tips:**
   - Set deposit limits before you start
@@ -597,12 +589,16 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
   - Time-outs
   - Self-exclusion
 
+**CRITICAL:** NO affiliate disclosure in content (it's in website sidebar)
+
 **Internal Links:**
 - Link "responsible gambling UK" to `/sport/betting/responsible-gambling.htm`
 
 ---
 
-## INTERNAL LINKS (12 Required)
+## INTERNAL LINKS & CALCULATOR TOOLS (12 Required)
+
+### Internal Links
 
 **Place these contextually throughout the article:**
 
@@ -630,17 +626,21 @@ Myriadplay's Acca Boost increases your accumulator winnings by up to 77%. The bo
 8. **accumulator betting** → `/sport/betting/accumulator-betting.htm`
    - Placement: Key Features (Acca Boost)
 
-9. **odds calculator** → `/sport/betting/odds-calculator.htm`
-   - Placement: Key Features section
+9. **how to withdraw from betting sites** → `/sport/betting/how-to-withdraw.htm`
+   - Placement: Payment Methods section
 
-10. **accumulator calculator** → `/sport/betting/accumulator-calculator.htm`
-    - Placement: Key Features (Acca Boost subsection)
-
-11. **how to withdraw from betting sites** → `/sport/betting/how-to-withdraw.htm`
-    - Placement: Payment Methods section
-
-12. **responsible gambling UK** → `/sport/betting/responsible-gambling.htm`
+10. **responsible gambling UK** → `/sport/betting/responsible-gambling.htm`
     - Placement: Responsible Gambling section
+
+### Calculator Tool Links (Required)
+
+Link naturally in relevant sections:
+
+11. **odds calculator** → `/sport/betting/tools/odds-calculator.htm`
+    - Placement: Key Features section, Acca Boost example
+
+12. **accumulator calculator** → `/sport/betting/tools/accumulator-calculator.htm`
+    - Placement: Key Features (Acca Boost subsection)
 
 ---
 

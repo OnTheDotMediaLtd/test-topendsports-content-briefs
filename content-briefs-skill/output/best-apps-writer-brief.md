@@ -65,15 +65,16 @@ sports betting apps, betting apps, best sports betting app, sports betting app, 
    - Sentence 1: Direct answer naming top 3 apps (FanDuel, BetMGM, Bet365)
    - Sentence 2: Authority statement explaining why these are best
 
-2. **Affiliate Disclosure (50-75 words):**
-   - Standard disclosure about earning commission
-   - Maintains editorial independence
+2. **Context (50-75 words):**
+   - Brief explanation of what makes these apps best
+   - Why app choice matters for sports bettors
+   - What this comprehensive guide covers
 
 **Example Format:**
 ```
 The best sports betting apps are FanDuel, BetMGM, and Bet365. These platforms combine user-friendly interfaces, competitive odds, extensive betting markets, and fast payouts based on our comprehensive testing of App Store ratings, user reviews, and real-world performance.
 
-[Disclosure: We may earn commission from links on this page. This does not influence our rankings, which are based on extensive research, App Store ratings, user reviews, and hands-on testing. All operators featured are licensed and regulated. For T&Cs, visit operator sites. Gambling problem? Call 1-800-522-4700.]
+Mobile betting apps have transformed sports wagering with instant access to live odds, same-game parlays, and fast withdrawals. This guide reviews 10 top betting apps across iOS and Android, comparing features, bonuses, and user experience to help you choose the right platform.
 ```
 
 **FORBIDDEN:**
@@ -82,6 +83,7 @@ The best sports betting apps are FanDuel, BetMGM, and Bet365. These platforms co
 - ❌ Any rhetorical questions
 - ❌ "In this article, we will..."
 - ❌ Over 150 words total
+- ❌ **Affiliate disclosure** (appears in website sidebar, NOT in content)
 
 ---
 
@@ -107,7 +109,7 @@ This approach keeps the URL and H1 evergreen while showing freshness.
 **Opening Elements:**
 - H1: Best Sports Betting Apps (0 words - title only)
 - Last Updated Badge: "Last Updated: December 2025"
-- Introduction (150 words) - Direct answer + disclosure
+- Introduction (150 words) - Direct answer + context (**NO affiliate disclosure - in sidebar**)
 - H2: Quick Answer: Top Sports Betting Apps Ranked (100 words)
 - H2: Comparison Table (50 words + table)
 
@@ -524,12 +526,13 @@ Include these internal links naturally throughout the content:
 
 ### Problem Gambling Hotline:
 - **Number:** 1-800-522-4700
-- **Placement:** Intro disclosure AND Responsible Gambling section
+- **Placement:** Responsible Gambling section (NOT in intro)
 
 ### Affiliate Disclosure:
-- **Length:** 50-75 words
-- **Placement:** In introduction (after direct answer opening)
-- **Content:** Explain commission relationship, maintain editorial independence claim
+- **NOT required in content** - appears in website sidebar
+- Do NOT include affiliate disclosure in the intro
+- Sidebar disclosure is standard across all pages
+- Focus intro on direct answer and context only
 
 ### Responsible Gambling Section:
 - **Required:** Yes, at end of content (before references if applicable)

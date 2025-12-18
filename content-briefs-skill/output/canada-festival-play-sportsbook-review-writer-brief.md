@@ -485,6 +485,32 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 
 ---
 
+### H2: Betting Calculator Tools for Festival Play
+**Word Count Target:** 100-150 words
+**Keywords:** parlay calculator, odds calculator (natural)
+**Requirements:**
+- Link to TopEndSports betting calculators
+- Contextual integration (how tools help with Festival Play betting)
+- Brief explanation of each calculator's purpose
+
+**Calculator Links to Include:**
+1. **Parlay Calculator** → `/sport/betting-tools/parlay-calculator.htm`
+   - "Calculate potential parlay payouts for Festival Play multi-leg bets"
+2. **Odds Converter** → `/sport/betting-tools/odds-converter.htm`
+   - "Convert between American, Decimal, and Fractional odds"
+
+**Structure:**
+- Intro: Tools to enhance betting strategy (30-40 words)
+- Parlay calculator integration (40-50 words)
+  - When to use (multi-leg bets)
+  - How it helps with Festival Play parlays
+- Odds converter integration (30-40 words)
+  - Understanding Festival Play odds formats
+  - Calculating implied probability
+- Closing: Strategic betting with tools (20-30 words)
+
+---
+
 ### PROS & CONS SUMMARY
 **Word Count Target:** 150-200 words
 **Format:** Bullet-point lists
@@ -699,7 +725,7 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 
 ---
 
-## INTERNAL LINKS (12 Total)
+## INTERNAL LINKS (13 Total)
 
 | Anchor Text | URL | Context | Section |
 |---|---|---|---|
@@ -713,7 +739,8 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
 | Lizaro Review | `/sport/betting/canada/lizaro-review.htm` | Another alternative | Comparison |
 | Best NHL Betting Sites | `/sport/betting/nhl/index.htm` | NHL betting guide for Canadians | Sports markets |
 | Best NFL Betting Sites | `/sport/betting/nfl/index.htm` | NFL betting guide for Canadians | Sports markets |
-| Parlay Calculator | `/sport/betting-tools/parlay-calculator.htm` | Calculate potential parlay winnings | Betting section |
+| Parlay Calculator | `/sport/betting-tools/parlay-calculator.htm` | Calculate potential parlay winnings | Calculator tools section |
+| Odds Converter | `/sport/betting-tools/odds-converter.htm` | Convert between odds formats | Calculator tools section |
 | Responsible Gambling Canada | `/sport/betting/responsible-gambling.htm` | Canadian gambling resources | Compliance section |
 
 ---
@@ -728,22 +755,25 @@ festival play promo code, offshore sportsbook, crypto sportsbook, canadian betti
   - Provincial helplines vary by location
 - **Responsible Gambling URL:** Must link to `/sport/betting/responsible-gambling.htm`
 
-```
-TopEnd Sports may earn commission when you sign up and place bets through
-our links. This review is independent and objective, based on our comprehensive
-not accept payments for ranking, ratings, or recommendations.
-```
+**CRITICAL: NO AFFILIATE DISCLOSURE IN CONTENT**
+- Affiliate disclosure appears in website sidebar (NOT in article content)
+- Do NOT add commission statements or affiliate disclaimers to content
+- Focus solely on review content and compliance requirements
 
 ### Responsible Gambling Section (Required - Bottom of Page)
 **Content:**
 - Age requirement (19+, 18+ in AB/MB/QC)
+- ConnexOntario: 1-866-531-2600
 - Pan-Canadian resources:
   - Responsible Gambling Council: https://www.responsiblegambling.org/
   - Canadian Centre on Substance Use and Addiction: https://www.ccsa.ca/
+  - ConnexOntario Helpline: 1-866-531-2600 (Ontario problem gambling support)
 - Links to provincial gambling resources (vary by location)
 - Self-exclusion tools available
 - Betting limits recommendations
 - Warning signs of problem gambling
+
+**NO affiliate disclosure in content (it's in website sidebar)**
 
 ---
 
@@ -769,10 +799,10 @@ not accept payments for ranking, ratings, or recommendations.
 
 ### Content Structure Validation
 - [ ] H1: Unique, includes primary keyword, NO dates
-- [ ] H2s: 8-10 total, keyword-optimized
+- [ ] H2s: 9-11 total, keyword-optimized (includes Calculator Tools section)
 - [ ] H3s: 20-25 total under H2s
 - [ ] FAQs: 10 questions, Q&A schema ready
-- [ ] Internal links: 12 total, relevant anchors
+- [ ] Internal links: 13 total, relevant anchors (includes calculator links)
 - [ ] Images: Logo, UI screenshots, rating visuals
 - [ ] Word count: 3,500-4,000 total (NOT including tables)
 
@@ -795,10 +825,11 @@ not accept payments for ranking, ratings, or recommendations.
 | vs Competitors H2 | 400-450 | - |
 | Live Betting H2 | 300-350 | - |
 | Casino Integration H2 | 300-350 | - |
+| Calculator Tools H2 | 100-150 | V2 requirement |
 | Pros & Cons | 150-200 | - |
 | FAQs (10) | 800-1,000 | 80-100 words each |
 | Final Verdict | 200-250 | - |
-| **TOTAL ESTIMATE** | **5,425-6,225** | *Pare down or use tighter writing* |
+| **TOTAL ESTIMATE** | **5,525-6,375** | *Pare down or use tighter writing* |
 
 **INSTRUCTION:** Focus on highest-value sections (Bonus, Mobile, Banking, Legal, FAQs). Tighten overview sections to 250-280 words where possible to hit 3,500-4,000 target.
 
@@ -850,18 +881,20 @@ not accept payments for ranking, ratings, or recommendations.
 
 ---
 
-## QUALITY CHECKLIST BEFORE SUBMISSION
+## QUALITY CHECKLIST BEFORE SUBMISSION (V2 STANDARDS)
 
 - [ ] All 10 FAQs written (80-120 words each)
-- [ ] Mobile Experience section: 100-150 words minimum
-- [ ] Payment Methods comparison: Table + 150-200 words
-- [ ] 12 internal links placed strategically
+- [ ] Mobile Experience section: 100-150 words minimum (V2 REQUIRED)
+- [ ] Payment Methods comparison: Table + 150-200 words (V2 REQUIRED)
+- [ ] Calculator Tools section: 100-150 words with links (V2 REQUIRED)
+- [ ] 13 internal links placed strategically (includes 2 calculator links)
 - [ ] Every secondary keyword placed in specific section
 - [ ] Word count: 3,500-4,000 (FAQs + body)
 - [ ] H1: Brand name + review + timeless angle
 - [ ] Meta keywords provided
 - [ ] Source requirements cited (Tier 1 primary)
 - [ ] Compliance sections: Age, helpline, responsible gambling
+- [ ] NO affiliate disclosure in content (it's in website sidebar)
 - [ ] Last Updated badge placement specified
 - [ ] No "..." or "[Insert]" placeholders
 - [ ] No competitors promoted over Festival Play (maintain balance)
@@ -895,21 +928,24 @@ Update entire "Welcome Bonus" H2 section and FAQ #2 with new:
 
 ---
 
-## DELIVERABLES CONFIRMATION
+## DELIVERABLES CONFIRMATION (V2 STANDARDS)
 
 **This Writer Brief includes:**
 1. ✅ Complete keyword mapping (13 secondary keywords placed)
 2. ✅ 10 FAQs targeting specific keywords
-3. ✅ Mobile Experience section (100-150 words)
-4. ✅ Payment Methods comparison (table + text)
-5. ✅ Source requirements (Tier 1 primary specified)
-6. ✅ Word count targets per section
-7. ✅ 12 internal links to Canada betting content
-8. ✅ Canada compliance (19+, 18+ in AB/MB/QC, RGC and CCSA resources)
-9. ✅ Detailed outline structure
-10. ✅ Technical implementation notes
-11. ✅ Quality checklist for validation
+3. ✅ Mobile Experience section (100-150 words) - V2 REQUIRED
+4. ✅ Payment Methods comparison (table + text) - V2 REQUIRED
+5. ✅ Calculator Tools section (100-150 words) - V2 REQUIRED
+6. ✅ Source requirements (Tier 1 primary specified)
+7. ✅ Word count targets per section
+8. ✅ 13 internal links to Canada betting content (includes calculator links)
+9. ✅ Canada compliance (19+, 18+ in AB/MB/QC, RGC and CCSA resources)
+10. ✅ NO affiliate disclosure in content (website sidebar only)
+11. ✅ Detailed outline structure
+12. ✅ Technical implementation notes
+13. ✅ Quality checklist for validation
 
+**V2 Compliance:** COMPLETE
 **Status:** Ready for writer assignment to Tom Goldsmith
 
 ---

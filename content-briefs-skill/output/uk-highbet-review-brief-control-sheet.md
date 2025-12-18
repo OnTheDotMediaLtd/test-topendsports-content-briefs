@@ -3,7 +3,8 @@
 **Page URL:** /sport/betting/uk/highbet-review.htm
 **Template:** Template 1 (Review)
 **Market:** United Kingdom (18+)
-**Status:** Phase 1 Research Complete
+**Version:** V2 (Updated 2025-12-17)
+**Status:** Phase 1 Research Complete - V2 Standards Applied
 
 ---
 
@@ -254,9 +255,11 @@
 ### UK Market Compliance
 - Age requirement: 18+ (not 21+ like USA)
 - Gambling Commission license: 39483
+- Responsible gambling hotline: GamCare 0808 8020 133
 - Responsible gambling section required
 - BeGambleAware.org resources
 - Self-exclusion tool information
+- NO affiliate disclosure in content (handled by website sidebar)
 
 ### Quality Standards
 - Match OLBG word count (8,500-9,000 words)

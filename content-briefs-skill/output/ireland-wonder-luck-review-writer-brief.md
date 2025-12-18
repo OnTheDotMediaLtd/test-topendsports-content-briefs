@@ -68,13 +68,18 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 
 ### Structure (Total: 100-150 words maximum)
 
-**Opening Statement (40-50 words):**
+**Opening Statement (100-150 words):**
 - Start with a direct verdict about Wonder Luck
 - Include key USPs (welcome bonus amount in EUR, key features, positioning)
 - Sentence 2: Authority statement ("verified through research", "tested across…")
-- Example: "Wonder Luck is an emerging Irish-friendly sportsbook offering [bonus], competitive odds, and [key feature]. Our research tested [X features] across [Y categories] to verify its quality."
+- Testing verification statement
+- Example: "Wonder Luck is an emerging Irish-friendly sportsbook offering competitive welcome bonuses, modern platform features, and comprehensive sports markets. Our research tested payment processing, mobile experience, and customer support across multiple sessions to verify platform quality and assess its suitability for Irish players. While newer to the market, Wonder Luck shows promise with its user-friendly interface and competitive odds."
 
-- "We may earn commission when you sign up through our links. This helps fund our independent testing and review process. Our ratings and recommendations are based solely on testing quality and user experience, not commission amounts. We tested Wonder Luck across [specific criteria] to assess its suitability for Irish players."
+**⚠️ CRITICAL V2 REQUIREMENT: NO AFFILIATE DISCLOSURE IN CONTENT**
+- The website sidebar contains the affiliate disclosure
+- Do NOT include "We may earn commission..." in article content
+- Do NOT mention affiliate relationships in introduction
+- Focus purely on brand assessment and features
 
 **Forbidden Elements:**
 - ❌ "Welcome to Wonder Luck"
@@ -82,6 +87,8 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 - ❌ Rhetorical questions
 - ❌ Overly cautious language
 - ❌ Dated language ("Review 2025", "October 2025")
+- ❌ Affiliate disclosure statements
+- ❌ Over 150 words total
 
 ---
 
@@ -264,9 +271,11 @@ Wonder Luck's mobile app provides a streamlined betting experience optimized for
 
 ---
 
-### H2: Banking & Payments: Withdrawals, Deposits & Methods
+### H2: Banking & Payments: Withdrawals, Deposits & Methods ⚠️ V2 REQUIRED SECTION
 **Word Count:** 300 words total
 **Keywords:** wonder luck withdrawal, online betting ireland
+
+**⚠️ V2 REQUIREMENT:** Payment methods comparison table is MANDATORY for review pages.
 
 **H3: Withdrawal Times & Payment Methods**
 - **Word Count:** 100 words
@@ -730,10 +739,10 @@ All FAQ questions must target secondary keywords. Use **Schema-ready format** fo
 
 ## COMPLIANCE CHECKLIST
 
-**MUST INCLUDE:**
+**MUST INCLUDE (V2 STANDARDS):**
 - [ ] Age requirement: 18+ (not 21+, this is Ireland!)
 - [ ] Currency: EUR throughout entire article
-- [ ] Helpline: Dunlewey Addiction Services: 1800 911 029
+- [ ] Helpline: Gamblers Anonymous Ireland: 087 744 3577 ✅ CORRECT (V2 Standard)
 - [ ] Resource link: www.gamblingcare.ie
 - [ ] "Last Updated" badge: After H1 title
 - [ ] Responsible gambling section: Bottom of article
@@ -744,7 +753,9 @@ All FAQ questions must target secondary keywords. Use **Schema-ready format** fo
 - [ ] Payment methods table included
 - [ ] Comparison table vs Irish competitors
 - [ ] Sports coverage table included
-- [ ] Mobile Experience section: 100-150 words max
+- [ ] Mobile Experience section: 100-150 words max (STRICT)
+- [ ] NO AFFILIATE DISCLOSURE IN CONTENT
+- [ ] Calculator tool links included (parlay and odds calculators)
 
 ---
 
