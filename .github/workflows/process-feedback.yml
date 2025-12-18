@@ -1,70 +1,57 @@
-name: Process Weekly Feedback
+name: Process Feedback Daily
 
 on:
   schedule:
-    - cron: '0 9 * * MON'  # Every Monday 9am UTC
-  workflow_dispatch:  # Allow manual trigger
-
-permissions:
-  contents: write  # Required to push changes
+    - cron: '0 9 * * *'  # Daily at 9am UTC
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   process-feedback:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Full history for proper git operations
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install tes-shared-infrastructure
         run: |
-          pip install jsonschema pyyaml
+          cd ..
+          if [ ! -d "tes-shared-infrastructure" ]; then
+            git clone https://github.com/OnTheDotMediaLtd/tes-shared-infrastructure.git
+          fi
+          pip install -e tes-shared-infrastructure/
 
-      - name: Check for pending feedback
-        id: check
+      - name: Validate Feedback
         run: |
           if [ -d "feedback/submitted" ] && [ "$(ls -A feedback/submitted)" ]; then
-            echo "has_feedback=true" >> $GITHUB_OUTPUT
+            python -m tes_shared_infrastructure.feedback.validate_feedback \
+              feedback/submitted/ --move --verbose || echo "No feedback to validate"
           else
-            echo "has_feedback=false" >> $GITHUB_OUTPUT
+            echo "No feedback submissions found"
           fi
 
-      - name: Process submitted feedback
-        if: steps.check.outputs.has_feedback == 'true'
+      - name: Process and Update Docs
         run: |
-          python scripts/ingest_feedback.py
-
-      - name: Update lessons learned
-        if: steps.check.outputs.has_feedback == 'true'
-        run: |
-          if [ -f "scripts/update_lessons.py" ]; then
-            python scripts/update_lessons.py
+          if [ -d "feedback/validated" ] && [ "$(ls -A feedback/validated)" ]; then
+            python -m tes_shared_infrastructure.feedback.ingest_feedback \
+              --update-docs --verbose || echo "No feedback to process"
+          else
+            echo "No validated feedback found"
           fi
 
-      - name: Commit changes
-        if: steps.check.outputs.has_feedback == 'true'
+      - name: Commit Updates
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add feedback/ references/
-          git diff --staged --quiet || git commit -m "chore: process weekly feedback [automated]"
-
-      - name: Push changes
-        if: steps.check.outputs.has_feedback == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-
-      - name: Create summary
-        if: steps.check.outputs.has_feedback == 'true'
-        run: |
-          echo "### Feedback Processing Summary" >> $GITHUB_STEP_SUMMARY
-          echo "- Processed: $(ls feedback/validated/ 2>/dev/null | wc -l) items" >> $GITHUB_STEP_SUMMARY
-          echo "- Applied: $(ls feedback/applied/ 2>/dev/null | wc -l) items" >> $GITHUB_STEP_SUMMARY
+          git config user.name "TES Feedback Bot"
+          git config user.email "bot@topendsports.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: process feedback and update documentation [automated]"
+            git push
+          fi
