@@ -1,0 +1,439 @@
+{
+  "page_metadata": {
+    "page_name": "uk-highbet-review",
+    "url": "/sport/betting/uk/highbet-review.htm",
+    "market": "UK",
+    "template_type": "Template 1 (Review)",
+    "content_type": "Single Brand Review",
+    "primary_keyword": "highbet review",
+    "writer_assigned": "TBD",
+    "priority": "Medium",
+    "compliance": {
+      "age_requirement": "18+",
+      "gambling_commission": "UKGC License 39483",
+      "responsible_gambling": true,
+      "affiliate_disclosure": true
+    }
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "highbet review",
+      "volume": 200,
+      "difficulty": 20,
+      "traffic_potential": 600,
+      "country": "gb"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "highbet casino",
+        "volume": 350,
+        "difficulty": 42,
+        "placement": "H2",
+        "target_section": "Highbet Casino Review"
+      },
+      {
+        "keyword": "highbet welcome offer",
+        "volume": 250,
+        "difficulty": 55,
+        "placement": "H2",
+        "target_section": "Welcome Bonus & Promotions"
+      },
+      {
+        "keyword": "highbet uk",
+        "volume": 200,
+        "difficulty": 40,
+        "placement": "Natural",
+        "target_section": "Throughout content"
+      },
+      {
+        "keyword": "highbet promo code",
+        "volume": 150,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Promo Code Requirements"
+      },
+      {
+        "keyword": "highbet casino review",
+        "volume": 90,
+        "difficulty": null,
+        "placement": "H2",
+        "target_section": "Casino Games & Slots"
+      },
+      {
+        "keyword": "highbet free bet",
+        "volume": 80,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Free Bet Offers"
+      },
+      {
+        "keyword": "highbet bonus",
+        "volume": 70,
+        "difficulty": null,
+        "placement": "H2",
+        "target_section": "Bonus & Promotions"
+      },
+      {
+        "keyword": "highbet login",
+        "volume": 60,
+        "difficulty": 26,
+        "placement": "H3",
+        "target_section": "Account Access & Login"
+      },
+      {
+        "keyword": "highbet withdrawal time",
+        "volume": 40,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Withdrawal Processing"
+      },
+      {
+        "keyword": "is highbet legit",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "FAQ",
+        "target_section": "Is Highbet Legitimate?"
+      },
+      {
+        "keyword": "highbet trustpilot",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "H3",
+        "target_section": "Customer Reviews & Ratings"
+      },
+      {
+        "keyword": "highbet app",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "H2",
+        "target_section": "Mobile Experience & App"
+      },
+      {
+        "keyword": "highbet casino no deposit bonus",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "FAQ",
+        "target_section": "No Deposit Bonus Availability"
+      },
+      {
+        "keyword": "highbet sportsbook",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H2",
+        "target_section": "Sports Betting Review"
+      }
+    ],
+    "high_volume_casino_keywords": [
+      {
+        "keyword": "free welcome bonus highbet",
+        "volume": 12000,
+        "difficulty": 44,
+        "placement": "H2",
+        "target_section": "Welcome Bonus",
+        "note": "Primary casino-focused traffic driver"
+      },
+      {
+        "keyword": "bonus code highbet",
+        "volume": 4900,
+        "difficulty": 33,
+        "placement": "H3",
+        "target_section": "Bonus Code Details"
+      },
+      {
+        "keyword": "online live casino highbet",
+        "volume": 4500,
+        "difficulty": 34,
+        "placement": "H2",
+        "target_section": "Live Casino"
+      },
+      {
+        "keyword": "uk online casino highbet",
+        "volume": 3700,
+        "difficulty": 45,
+        "placement": "H2",
+        "target_section": "UK Casino Review"
+      }
+    ],
+    "total_search_volume": {
+      "primary": 200,
+      "secondary_sportsbook": 1370,
+      "high_volume_casino": 25100,
+      "total_cluster": 26670,
+      "increase_vs_primary": "13235%"
+    }
+  },
+  "competitor_analysis": {
+    "serp_position_1": {
+      "domain": "trustpilot.com",
+      "url": "https://uk.trustpilot.com/review/highbet.com",
+      "domain_rating": 94,
+      "type": "User review platform",
+      "note": "Not a content competitor - user-generated reviews"
+    },
+    "serp_position_2": {
+      "domain": "olbg.com",
+      "url": "https://www.olbg.com/bookmakers/reviews/highbet",
+      "domain_rating": 73,
+      "word_count": "8500-9000",
+      "brands_covered": 1,
+      "key_sections": [
+        "About Highbet",
+        "What OLBG Likes",
+        "Full Review",
+        "Advantages and Disadvantages",
+        "Live Betting",
+        "Betting Odds",
+        "Sport-by-sport coverage (22 sports)",
+        "Account Opening Process",
+        "Navigation and User Experience",
+        "Responsible Gambling Features",
+        "Banking Options",
+        "User Reviews",
+        "FAQ"
+      ],
+      "unique_elements": [
+        "Interactive polar chart for football betting",
+        "User ratings system (4.0/5 from 26 ratings)",
+        "Sport-by-sport detailed analysis",
+        "Banking table with processing times",
+        "Expert contributor attribution"
+      ],
+      "pros": [
+        "Really good football betting",
+        "Great coverage of smaller sports",
+        "Decent live and in-play betting"
+      ],
+      "cons": [
+        "No app available to download",
+        "No live streaming"
+      ],
+      "bonus_offer": "Get £30 in free bets when you bet £10",
+      "content_gaps": [
+        "No calculator integration",
+        "Limited payment method comparison",
+        "No Reddit/community sentiment analysis",
+        "No app (mobile web only)"
+      ]
+    },
+    "serp_position_4": {
+      "domain": "bettinglounge.co.uk",
+      "url": "https://bettinglounge.co.uk/review/highbet/",
+      "domain_rating": 37,
+      "note": "Page unavailable during analysis"
+    },
+    "competitive_benchmark": {
+      "target_word_count": "8500-9000",
+      "rationale": "Match OLBG (#2 ranking) comprehensive sport-by-sport coverage",
+      "brands_to_cover": 1,
+      "sections_required": [
+        "Company overview",
+        "Welcome bonus detailed analysis",
+        "Sports betting review",
+        "Casino review (major traffic driver)",
+        "Live betting & streaming",
+        "Sport-by-sport coverage",
+        "Mobile experience",
+        "Banking & withdrawals",
+        "Customer support",
+        "Licensing & safety",
+        "User reviews analysis",
+        "FAQs"
+      ]
+    }
+  },
+  "content_strategy": {
+    "unique_angles": [
+      "Dual sports + casino focus (casino drives 94% of search volume)",
+      "Integrate Trustpilot sentiment analysis",
+      "Reddit community feedback integration",
+      "No native app - detailed mobile web review",
+      "UK Gambling Commission compliance details",
+      "Payment method comparison with processing times",
+      "Expert testing methodology transparency"
+    ],
+    "content_gaps_to_exploit": [
+      "Casino keywords are the primary traffic driver - give equal weight to casino & sports",
+      "Community sentiment: Analyze Trustpilot reviews (competitor only links, doesn't analyze)",
+      "Mobile web vs app comparison (no native app available)",
+      "Detailed withdrawal time testing",
+      "Payment method fee comparison",
+      "Responsible gambling tools testing",
+      "Live betting interface walkthrough"
+    ],
+    "differentiation": [
+      "TopEndSports sports expertise + casino coverage",
+      "Calculator tool integration (odds, parlay)",
+      "Reddit sentiment analysis",
+      "Real user testing (withdrawal times, customer support response)",
+      "Screenshot-based UI walkthrough"
+    ]
+  },
+  "brand_details": {
+    "brand_name": "Highbet",
+    "operator": "Highgate Communications Ltd",
+    "license": "UK Gambling Commission 39483",
+    "established": "Not specified",
+    "headquarters": "United Kingdom",
+    "key_features": [
+      "UKGC licensed",
+      "Sports betting + online casino",
+      "Mobile-optimized web platform (no native app)",
+      "PayPal, Trustly, Skrill payment options",
+      "24-hour customer support",
+      "Cash out available",
+      "Bet builder functionality",
+      "Live betting (including esports)",
+      "No live streaming"
+    ],
+    "current_bonus": {
+      "offer": "Get £30 in free bets when you bet £10",
+      "structure": "2x£10 Horse Racing + 1x£10 Football Acca free bets",
+      "minimum_odds": "1/1+",
+      "eligibility": "Verified UK customers",
+      "time_limit": "7 days from registration"
+    },
+    "pros": [
+      "Strong football betting markets",
+      "Good coverage of niche sports",
+      "Multiple payment methods including PayPal",
+      "Decent live betting platform",
+      "UKGC licensed and regulated",
+      "Fast 24-hour customer support"
+    ],
+    "cons": [
+      "No dedicated mobile app",
+      "No live streaming available",
+      "Limited brand recognition vs major operators",
+      "Mixed Trustpilot reviews"
+    ],
+    "trustpilot_rating": {
+      "olbg_user_rating": "4.0/5 from 26 ratings",
+      "trustpilot_position": "SERP position 1 (high brand search interest)"
+    }
+  },
+  "technical_requirements": {
+    "letter_badge": {
+      "code": "HBT",
+      "color": "#FF9800",
+      "text_color": "#FFFFFF"
+    },
+    "interactive_elements": [
+      "Banking options comparison table",
+      "Sport coverage checklist",
+      "Bonus calculator integration",
+      "Odds calculator link",
+      "Mobile experience screenshots",
+      "Payment method processing time table"
+    ],
+    "schema_markup": [
+      "Article schema",
+      "Review schema (aggregate rating if available)",
+      "FAQ schema",
+      "Organization schema (Highbet)",
+      "Breadcrumb schema"
+    ]
+  },
+  "internal_linking": {
+    "priority_links": [
+      "/sport/betting/uk/ - UK Betting Hub",
+      "/sport/betting/betting-odds-calculator.htm - Odds Calculator",
+      "/sport/betting/parlay-calculator.htm - Parlay Calculator",
+      "/sport/betting/uk/best-betting-sites.htm - Best UK Betting Sites",
+      "/sport/betting/uk/best-football-betting-sites.htm - Football Betting",
+      "/sport/betting/uk/best-casino-sites.htm - UK Casino Sites",
+      "/sport/betting/uk/betting-bonuses.htm - UK Betting Bonuses",
+      "/sport/betting/uk/free-bets.htm - Free Bets UK",
+      "/sport/betting/uk/paypal-betting-sites.htm - PayPal Betting",
+      "/sport/betting/uk/fast-withdrawal-betting-sites.htm - Fast Withdrawals",
+      "/sport/betting/responsible-gambling.htm - Responsible Gambling",
+      "/sport/betting/how-to-bet-on-football.htm - Football Betting Guide"
+    ]
+  },
+  "source_requirements": {
+    "tier_1_sources": [
+      "Highbet official website (highbet.com)",
+      "UK Gambling Commission license verification",
+      "Trustpilot reviews (uk.trustpilot.com/review/highbet.com)",
+      "Reddit discussions (r/UKGambling, r/sportsbook)",
+      "Banking pages (deposit/withdrawal terms)"
+    ],
+    "tier_2_sources": [
+      "OLBG user reviews",
+      "Terms and conditions (welcome offer)",
+      "Responsible gambling policies",
+      "Privacy policy",
+      "Customer support testing (live chat/email)"
+    ],
+    "research_tasks": [
+      "Test withdrawal processing time",
+      "Screenshot mobile web interface",
+      "Verify current bonus offer availability",
+      "Check payment method fees",
+      "Test customer support response time",
+      "Verify license status with UKGC",
+      "Analyze Trustpilot review sentiment"
+    ]
+  },
+  "faq_targets": [
+    {
+      "question": "Is Highbet legit and safe to use?",
+      "target_keyword": "is highbet legit",
+      "volume": 30,
+      "answer_focus": "UKGC license 39483, regulatory compliance, safety measures"
+    },
+    {
+      "question": "Does Highbet have a mobile app?",
+      "target_keyword": "highbet app",
+      "volume": 30,
+      "answer_focus": "No native app - mobile-optimized website available"
+    },
+    {
+      "question": "What is the Highbet welcome bonus?",
+      "target_keyword": "highbet welcome offer",
+      "volume": 250,
+      "answer_focus": "£30 free bets when you bet £10, structure, terms"
+    },
+    {
+      "question": "Do I need a Highbet promo code?",
+      "target_keyword": "highbet promo code",
+      "volume": 150,
+      "answer_focus": "Promo code requirements, how to apply, current codes"
+    },
+    {
+      "question": "How long do Highbet withdrawals take?",
+      "target_keyword": "highbet withdrawal time",
+      "volume": 40,
+      "answer_focus": "Processing times by method, verification requirements"
+    },
+    {
+      "question": "Does Highbet offer a no deposit bonus?",
+      "target_keyword": "highbet casino no deposit bonus",
+      "volume": 30,
+      "answer_focus": "Current no deposit bonus availability"
+    },
+    {
+      "question": "What are Highbet's payment methods?",
+      "target_keyword": "banking options",
+      "volume": null,
+      "answer_focus": "PayPal, Trustly, Skrill, debit cards, minimums, fees"
+    },
+    {
+      "question": "Does Highbet offer live streaming?",
+      "target_keyword": "live streaming",
+      "volume": null,
+      "answer_focus": "No live streaming - live betting available"
+    },
+    {
+      "question": "What sports can I bet on at Highbet?",
+      "target_keyword": "highbet sports",
+      "volume": 0,
+      "answer_focus": "Football, horse racing, tennis, plus niche sports"
+    },
+    {
+      "question": "What do Highbet reviews say on Trustpilot?",
+      "target_keyword": "highbet trustpilot",
+      "volume": 30,
+      "answer_focus": "Trustpilot rating summary, common themes"
+    }
+  ]
+}

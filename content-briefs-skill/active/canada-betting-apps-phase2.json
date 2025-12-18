@@ -1,0 +1,993 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/canada/betting-apps.htm",
+    "page_name": "Best Sports Betting Apps Canada",
+    "market": "Canada",
+    "writer": "Lewis Humphries",
+    "template": 2,
+    "priority": "HIGH",
+    "target_word_count": 6500,
+    "brief_type": "Comparison/Best-Of"
+  },
+  "h1_structure": {
+    "title": "Best Sports Betting Apps Canada: Complete Guide",
+    "last_updated_badge": true,
+    "no_dated_language": true
+  },
+  "introduction": {
+    "word_count": "100-150",
+    "structure": [
+      {
+        "section": "Opening",
+        "words": "40-50",
+        "content_type": "Direct answer with top 3 picks",
+        "example": "The best sports betting apps in Canada are Treasure Spins, Royalistplay, and Wyns. These offshore betting apps offer Canadian bettors superior odds, extensive NHL and CFL coverage, and fast crypto payouts."
+      },
+      {
+        "section": "Disclosure",
+        "words": "50-75",
+        "content_type": "Affiliate disclosure statement",
+        "mandatory": true
+      }
+    ],
+    "forbidden_phrases": [
+      "Welcome to...",
+      "Looking for...",
+      "Rhetorical questions"
+    ]
+  },
+  "keyword_mapping": [
+    {
+      "keyword": "best sports betting apps canada",
+      "volume": 700,
+      "placement": "H1",
+      "section_title": "Best Sports Betting Apps Canada: Complete Guide",
+      "target_section": "H1/Primary focus"
+    },
+    {
+      "keyword": "best betting apps canada",
+      "volume": 500,
+      "placement": "H2",
+      "section_title": "Best Betting Apps Canada: Our Top 9 Picks",
+      "target_section": "Introduction/Primary Rankings"
+    },
+    {
+      "keyword": "betting apps ontario",
+      "volume": 350,
+      "placement": "H2",
+      "section_title": "Ontario vs Offshore Betting Apps: Key Differences",
+      "target_section": "Ontario Comparison",
+      "word_count": "400-500"
+    },
+    {
+      "keyword": "sports betting apps canada",
+      "volume": 300,
+      "placement": "Natural",
+      "section_title": "Introduction",
+      "target_section": "Introduction paragraph"
+    },
+    {
+      "keyword": "gambling apps canada",
+      "volume": 300,
+      "placement": "H3",
+      "section_title": "Types of Gambling Apps Available in Canada",
+      "target_section": "App Types Breakdown",
+      "word_count": "250-300"
+    },
+    {
+      "keyword": "canadian betting apps",
+      "volume": 250,
+      "placement": "Natural",
+      "section_title": "Introduction",
+      "target_section": "Introduction paragraph"
+    },
+    {
+      "keyword": "sports betting app canada",
+      "volume": 200,
+      "placement": "Natural",
+      "section_title": "Introduction",
+      "target_section": "Introduction paragraph"
+    },
+    {
+      "keyword": "canadian sports betting apps",
+      "volume": 150,
+      "placement": "Natural",
+      "section_title": "Introduction",
+      "target_section": "Introduction paragraph"
+    },
+    {
+      "keyword": "top sports betting apps canada",
+      "volume": 80,
+      "placement": "H2",
+      "section_title": "Top Sports Betting Apps Canada: Comparison Table",
+      "target_section": "Comparison table header"
+    },
+    {
+      "keyword": "bet365 app canada",
+      "volume": 50,
+      "placement": "H3",
+      "section_title": "Bet365 App Availability in Canada",
+      "target_section": "Brand availability note",
+      "word_count": "150-200"
+    },
+    {
+      "keyword": "best soccer betting apps canada",
+      "volume": 40,
+      "placement": "H3",
+      "section_title": "Best Soccer Betting Apps Canada",
+      "target_section": "Sport-specific rankings",
+      "word_count": "200-250"
+    },
+    {
+      "keyword": "top betting apps canada",
+      "volume": 30,
+      "placement": "Natural",
+      "section_title": "Introduction",
+      "target_section": "Introduction paragraph"
+    },
+    {
+      "keyword": "android betting apps canada",
+      "volume": 20,
+      "placement": "H3",
+      "section_title": "Android vs iOS Betting Apps: Which is Better?",
+      "target_section": "Platform comparison",
+      "word_count": "300-350"
+    },
+    {
+      "keyword": "iphone betting apps canada",
+      "volume": 20,
+      "placement": "H3",
+      "section_title": "Android vs iOS Betting Apps: Which is Better?",
+      "target_section": "Platform comparison (same section as android)",
+      "word_count": "300-350"
+    },
+    {
+      "keyword": "mobile betting apps canada",
+      "volume": 20,
+      "placement": "H3",
+      "section_title": "Mobile Betting App Features: What to Look For",
+      "target_section": "Feature checklist",
+      "word_count": "300-350"
+    }
+  ],
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Best Sports Betting Apps Canada: Complete Guide",
+      "word_count": 0,
+      "notes": "Title only, includes Last Updated badge"
+    },
+    {
+      "section": "Introduction",
+      "title": "Introduction",
+      "word_count": "100-150",
+      "subsections": [],
+      "keywords_targeted": [
+        "best sports betting apps canada",
+        "best betting apps canada",
+        "sports betting apps canada",
+        "canadian betting apps",
+        "sports betting app canada",
+        "canadian sports betting apps",
+        "top betting apps canada"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Top Sports Betting Apps Canada: Comparison Table",
+      "word_count": "400-500",
+      "subsections": [],
+      "keywords_targeted": ["top sports betting apps canada"],
+      "requirements": [
+        "Interactive table with all 9 brands",
+        "Sort/filter functionality",
+        "Columns: App Rating, Bonus, NHL Markets, Live Betting, Payment Methods, Download Links",
+        "App Store and Google Play ratings displayed"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Treasure Spins Betting App",
+      "word_count": "500-550",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true,
+          "requirements": [
+            "App Store rating (iOS)",
+            "Google Play rating (Android)",
+            "Navigation speed",
+            "Live betting experience",
+            "Unique mobile features"
+          ]
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Royalistplay Betting App",
+      "word_count": "450-500",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Wyns Betting App",
+      "word_count": "400-450",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Lucky7even Betting App",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Festival Play Betting App",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Lizaro Betting App",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Legendplay Betting App",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Funbet Betting App",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "DirectionBet Betting App",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Key Features",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Mobile Experience",
+          "word_count": "100-150",
+          "critical": true
+        },
+        {
+          "section": "H3",
+          "title": "Pros & Cons",
+          "word_count": "100-150"
+        },
+        {
+          "section": "H3",
+          "title": "Current Bonus",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Ontario vs Offshore Betting Apps: Key Differences",
+      "word_count": "400-500",
+      "subsections": [],
+      "keywords_targeted": ["betting apps ontario"],
+      "requirements": [
+        "Regulatory differences",
+        "Payment method differences",
+        "Bonus restrictions in Ontario",
+        "Why offshore apps are popular"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Popular Payment Methods on Canadian Betting Apps",
+      "word_count": "350-400",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Interac E-Transfer",
+          "word_count": "100-125"
+        },
+        {
+          "section": "H3",
+          "title": "Cryptocurrency Options",
+          "word_count": "100-125",
+          "requirements": [
+            "Bitcoin",
+            "Ethereum",
+            "Litecoin",
+            "Processing times",
+            "Anonymity benefits"
+          ]
+        },
+        {
+          "section": "H3",
+          "title": "Traditional Methods (Credit/Debit)",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "How to Download Betting Apps in Canada",
+      "word_count": "400-450",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "iOS Download Guide",
+          "word_count": "150-200"
+        },
+        {
+          "section": "H3",
+          "title": "Android Download Guide",
+          "word_count": "150-200"
+        }
+      ],
+      "keywords_targeted": []
+    },
+    {
+      "section": "H2",
+      "title": "Best Betting Apps by Sport",
+      "word_count": "500-550",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Best NHL Betting Apps",
+          "word_count": "150-175",
+          "requirements": [
+            "Puck line markets",
+            "Player props",
+            "Live betting speed",
+            "Top 3 apps for NHL"
+          ]
+        },
+        {
+          "section": "H3",
+          "title": "Best CFL Betting Apps",
+          "word_count": "125-150",
+          "requirements": [
+            "CFL coverage",
+            "Grey Cup markets",
+            "Top 3 apps for CFL"
+          ]
+        },
+        {
+          "section": "H3",
+          "title": "Best Soccer Betting Apps Canada",
+          "word_count": "125-150",
+          "keywords_targeted": ["best soccer betting apps canada"]
+        },
+        {
+          "section": "H3",
+          "title": "Best NBA/NFL Betting Apps",
+          "word_count": "100-125"
+        }
+      ],
+      "keywords_targeted": ["best soccer betting apps canada"]
+    },
+    {
+      "section": "H2",
+      "title": "Android vs iOS Betting Apps: Which is Better?",
+      "word_count": "350-400",
+      "subsections": [],
+      "keywords_targeted": ["android betting apps canada", "iphone betting apps canada"],
+      "requirements": [
+        "Performance comparison",
+        "Feature parity",
+        "Download process differences",
+        "Recommendation by platform"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Mobile Betting App Features: What to Look For",
+      "word_count": "300-350",
+      "subsections": [],
+      "keywords_targeted": ["mobile betting apps canada"],
+      "requirements": [
+        "Live betting speed",
+        "Touch ID / Face ID",
+        "Push notifications",
+        "Bet slip functionality",
+        "Cash out options"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Types of Gambling Apps Available in Canada",
+      "word_count": "250-300",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Sports Betting Apps",
+          "word_count": "75-100"
+        },
+        {
+          "section": "H3",
+          "title": "Casino Apps",
+          "word_count": "75-100"
+        },
+        {
+          "section": "H3",
+          "title": "Hybrid Apps (Sports + Casino)",
+          "word_count": "75-100"
+        }
+      ],
+      "keywords_targeted": ["gambling apps canada"]
+    },
+    {
+      "section": "H2",
+      "title": "Bet365 App Availability in Canada",
+      "word_count": "200-250",
+      "subsections": [],
+      "keywords_targeted": ["bet365 app canada"],
+      "requirements": [
+        "Current legal status",
+        "Ontario availability",
+        "Offshore alternatives"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Frequently Asked Questions",
+      "word_count": "1200-1400",
+      "subsections": [],
+      "notes": "8-10 FAQs, 120-150 words each"
+    },
+    {
+      "section": "H2",
+      "title": "Responsible Gambling in Canada",
+      "word_count": "150-200",
+      "subsections": [],
+      "notes": "Required compliance section"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the best sports betting apps in Canada?",
+      "target_keyword": "best sports betting apps canada",
+      "keyword_volume": 700,
+      "word_count": "120-150",
+      "answer_points": [
+        "Top 3 picks: Treasure Spins, Royalistplay, Wyns",
+        "Why they rank #1-3",
+        "Key features of each",
+        "Offshore vs Ontario apps difference"
+      ]
+    },
+    {
+      "question": "Are betting apps legal in Canada?",
+      "target_keyword": "betting apps legal canada",
+      "keyword_volume": null,
+      "word_count": "120-150",
+      "answer_points": [
+        "Provincial regulations overview",
+        "Ontario's regulated market",
+        "Offshore apps legality",
+        "Age requirements (19+ in most provinces, 18+ in AB, MB, QC)"
+      ]
+    },
+    {
+      "question": "Which betting app is best for NHL betting?",
+      "target_keyword": "nhl betting apps canada",
+      "keyword_volume": null,
+      "word_count": "120-150",
+      "answer_points": [
+        "Top 3 apps for NHL",
+        "Puck line and player prop availability",
+        "Live betting speed during games",
+        "Canadian team coverage"
+      ]
+    },
+    {
+      "question": "Can I use Android betting apps in Canada?",
+      "target_keyword": "android betting apps canada",
+      "keyword_volume": 20,
+      "word_count": "120-150",
+      "answer_points": [
+        "Android app availability",
+        "Download process (APK vs Google Play)",
+        "Performance comparison to iOS",
+        "Best Android betting apps"
+      ]
+    },
+    {
+      "question": "Do Canadian betting apps accept Interac?",
+      "target_keyword": "interac betting apps",
+      "keyword_volume": null,
+      "word_count": "120-150",
+      "answer_points": [
+        "Interac E-Transfer availability",
+        "Processing times",
+        "Limits and fees",
+        "Best apps for Interac"
+      ]
+    },
+    {
+      "question": "What's the difference between Ontario betting apps and offshore apps?",
+      "target_keyword": "betting apps ontario",
+      "keyword_volume": 350,
+      "word_count": "120-150",
+      "answer_points": [
+        "Regulatory oversight differences",
+        "Payment method differences",
+        "Bonus restrictions in Ontario",
+        "Pros and cons of each"
+      ]
+    },
+    {
+      "question": "Can I bet on CFL games with Canadian betting apps?",
+      "target_keyword": "cfl betting apps",
+      "keyword_volume": null,
+      "word_count": "120-150",
+      "answer_points": [
+        "CFL coverage by offshore apps",
+        "Best apps for CFL betting",
+        "Grey Cup markets",
+        "Live betting availability"
+      ]
+    },
+    {
+      "question": "Do betting apps in Canada accept cryptocurrency?",
+      "target_keyword": "crypto betting apps canada",
+      "keyword_volume": null,
+      "word_count": "120-150",
+      "answer_points": [
+        "Crypto payment options (Bitcoin, Ethereum, Litecoin)",
+        "Advantages of crypto betting",
+        "Processing times",
+        "Best apps for crypto"
+      ]
+    },
+    {
+      "question": "How do I download betting apps on iPhone in Canada?",
+      "target_keyword": "iphone betting apps canada",
+      "keyword_volume": 20,
+      "word_count": "120-150",
+      "answer_points": [
+        "App Store availability",
+        "Geographic restrictions",
+        "Web app alternatives",
+        "Step-by-step download guide"
+      ]
+    },
+    {
+      "question": "Which betting app has the best mobile experience?",
+      "target_keyword": "mobile betting apps canada",
+      "keyword_volume": 20,
+      "word_count": "120-150",
+      "answer_points": [
+        "Top 3 for mobile UX",
+        "Key features (live betting, cash out, notifications)",
+        "App Store ratings",
+        "Performance and speed"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Canada sports betting sites",
+      "url": "/sport/betting/canada/betting-sites.htm",
+      "relevance": "Parent hub page",
+      "placement": "Introduction"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "relevance": "Calculator tool integration",
+      "placement": "How to use betting apps section"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "relevance": "Calculator tool integration",
+      "placement": "Understanding odds section"
+    },
+    {
+      "anchor": "NHL betting in Canada",
+      "url": "/sport/betting/canada/nhl.htm",
+      "relevance": "Sport-specific content",
+      "placement": "Best NHL betting apps section"
+    },
+    {
+      "anchor": "NFL betting apps",
+      "url": "/sport/betting/nfl/apps.htm",
+      "relevance": "Related betting app content",
+      "placement": "Best apps by sport section"
+    },
+    {
+      "anchor": "soccer betting apps Canada",
+      "url": "/sport/betting/canada/soccer-apps.htm",
+      "relevance": "Sport-specific app content",
+      "placement": "Best soccer betting apps section"
+    },
+    {
+      "anchor": "mobile betting guide",
+      "url": "/sport/betting/mobile-betting.htm",
+      "relevance": "Mobile betting education",
+      "placement": "Mobile features section"
+    },
+    {
+      "anchor": "offshore betting sites",
+      "url": "/sport/betting/offshore.htm",
+      "relevance": "Offshore betting context",
+      "placement": "Ontario vs offshore section"
+    },
+    {
+      "anchor": "Ontario betting apps",
+      "url": "/sport/betting/canada/ontario/apps.htm",
+      "relevance": "Regional app content",
+      "placement": "Ontario comparison section"
+    },
+    {
+      "anchor": "Quebec sports betting",
+      "url": "/sport/betting/canada/quebec.htm",
+      "relevance": "Regional betting content",
+      "placement": "Provincial regulations section"
+    },
+    {
+      "anchor": "best welcome bonuses Canada",
+      "url": "/sport/betting/canada/bonuses.htm",
+      "relevance": "Bonus-focused content",
+      "placement": "Current bonus sections"
+    },
+    {
+      "anchor": "live betting apps",
+      "url": "/sport/betting/live-betting-apps.htm",
+      "relevance": "Feature-specific content",
+      "placement": "Mobile features section"
+    }
+  ],
+  "sources_required": [
+    {
+      "tier": 1,
+      "source": "App Store reviews and ratings",
+      "use_for": "Mobile experience ratings for iOS",
+      "citation_format": "App Store rating: 4.X/5 stars (X,XXX reviews) - verified [date]",
+      "mandatory": true
+    },
+    {
+      "tier": 1,
+      "source": "Google Play Store reviews and ratings",
+      "use_for": "Mobile experience ratings for Android",
+      "citation_format": "Google Play rating: 4.X/5 stars (X,XXX reviews) - verified [date]",
+      "mandatory": true
+    },
+    {
+      "tier": 1,
+      "source": "Reddit: r/sportsbook",
+      "use_for": "User experiences and app reviews",
+      "citation_format": "Reddit users in r/sportsbook report [finding] (analyzed X threads)",
+      "mandatory": true
+    },
+    {
+      "tier": 1,
+      "source": "Reddit: r/AskCanada",
+      "use_for": "Canadian-specific betting experiences",
+      "citation_format": "Canadian users on Reddit note [finding]",
+      "mandatory": false
+    },
+    {
+      "tier": 1,
+      "source": "Reddit: r/ontario",
+      "use_for": "Ontario betting app experiences",
+      "citation_format": "Ontario users report [finding]",
+      "mandatory": false
+    },
+    {
+      "tier": 2,
+      "source": "Brand official websites",
+      "use_for": "Bonus terms, features only",
+      "citation_format": "According to [Brand]'s official site",
+      "mandatory": true
+    },
+    {
+      "tier": 2,
+      "source": "AGCO (Ontario)",
+      "use_for": "Ontario regulatory context",
+      "citation_format": "Per AGCO regulations",
+      "mandatory": false
+    }
+  ],
+  "compliance": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "gambling_hotline": "1-866-531-2600 (ConnexOntario)",
+    "affiliate_disclosure": "Required in introduction (50-75 words)",
+    "responsible_gambling": "Required at bottom (150-200 words)",
+    "offshore_disclaimer": "Note that offshore sites operate outside Canadian jurisdiction"
+  },
+  "meta_keywords": [
+    "betting apps canada",
+    "best sports betting apps canada",
+    "best betting apps canada",
+    "betting apps ontario",
+    "sports betting apps canada",
+    "gambling apps canada",
+    "canadian betting apps",
+    "sports betting app canada",
+    "canadian sports betting apps",
+    "top sports betting apps canada",
+    "bet365 app canada",
+    "best soccer betting apps canada",
+    "top betting apps canada",
+    "android betting apps canada",
+    "iphone betting apps canada",
+    "mobile betting apps canada"
+  ],
+  "brand_requirements": {
+    "all_brands": [
+      {
+        "name": "Treasure Spins",
+        "position": 1,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Royalistplay",
+        "position": 2,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Wyns",
+        "position": 3,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Lucky7even",
+        "position": 4,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Festival Play",
+        "position": 5,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Lizaro",
+        "position": 6,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Legendplay",
+        "position": 7,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "Funbet",
+        "position": 8,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      },
+      {
+        "name": "DirectionBet",
+        "position": 9,
+        "sections_required": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"],
+        "mobile_experience_mandatory": true,
+        "app_store_rating_required": true,
+        "google_play_rating_required": true
+      }
+    ]
+  },
+  "unique_angles": [
+    "Offshore betting focus (non-Ontario market emphasis)",
+    "Canadian-specific payment methods (Interac, local options)",
+    "Hockey betting prominence (NHL as primary sport)",
+    "Provincial regulations overview",
+    "Calculator tool integration (parlay, odds converters)",
+    "Cryptocurrency payment options for offshore books",
+    "CFL coverage (uniquely Canadian sport)",
+    "App Store ratings for each brand (iOS and Android)",
+    "Mobile-first approach (dedicated Mobile Experience sections)"
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/ireland/betting-apps.htm",
+    "page_name": "Best Betting Apps Ireland",
+    "market": "Ireland",
+    "writer": "Lewis Humphries",
+    "priority": "High",
+    "template": "2 - Comparison",
+    "phase": 1
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "best betting apps ireland",
+      "volume": 150,
+      "difficulty": 69,
+      "traffic_potential": 500
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "betting apps ireland",
+        "volume": 200,
+        "difficulty": 71,
+        "traffic_potential": 400,
+        "placement": "H2"
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "difficulty": 82,
+        "traffic_potential": 2200,
+        "placement": "H2"
+      },
+      {
+        "keyword": "free bets ireland",
+        "volume": 300,
+        "difficulty": 78,
+        "traffic_potential": 600,
+        "placement": "H2"
+      },
+      {
+        "keyword": "irish betting apps",
+        "volume": 100,
+        "difficulty": 75,
+        "traffic_potential": 100,
+        "placement": "H3"
+      },
+      {
+        "keyword": "ireland bookmakers",
+        "volume": 100,
+        "difficulty": 81,
+        "traffic_potential": 1500,
+        "placement": "H3"
+      },
+      {
+        "keyword": "mobile betting ireland",
+        "volume": 50,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3"
+      },
+      {
+        "keyword": "betting apps ios ireland",
+        "volume": 20,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "betting apps android ireland",
+        "volume": 20,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "online betting apps ireland",
+        "volume": 30,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "best online betting ireland",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "licensed betting ireland",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "live betting apps ireland",
+        "volume": 40,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3"
+      }
+    ],
+    "branded_keywords": [
+      {
+        "keyword": "boylesports app",
+        "volume": 7900,
+        "difficulty": 78,
+        "traffic_potential": 13000,
+        "note": "Top Irish bookmaker app - highly relevant for Ireland market context"
+      },
+      {
+        "keyword": "paddy power app",
+        "volume": 2500,
+        "difficulty": 71,
+        "traffic_potential": 273000,
+        "note": "Major Irish brand - mention in Irish market context"
+      },
+      {
+        "keyword": "bet365 ireland",
+        "volume": 2600,
+        "difficulty": 65,
+        "traffic_potential": 184000,
+        "note": "International brand with strong Ireland presence"
+      },
+      {
+        "keyword": "bet365 app",
+        "volume": 1500,
+        "difficulty": 76,
+        "traffic_potential": 307000,
+        "note": "High-volume app keyword"
+      },
+      {
+        "keyword": "ladbrokes ireland",
+        "volume": 4900,
+        "difficulty": 63,
+        "traffic_potential": 104000,
+        "note": "Established Irish market presence"
+      }
+    ],
+    "total_volume": 1490,
+    "volume_increase_percent": 993
+  },
+  "competitor_analysis": {
+    "number_one_page": {
+      "url": "https://www.scs.ie/betting-sites/apps/",
+      "domain": "scs.ie",
+      "position": 1,
+      "domain_rating": 44,
+      "estimated_traffic": 513,
+      "brands_covered": "8-10 (estimated from SERP)",
+      "estimated_word_count": "6,000-8,000",
+      "key_sections": [
+        "Best Apps for 2025",
+        "How We Rank the Best Betting Apps",
+        "Individual brand reviews with app features",
+        "Best App For Number of Sports (Ladbrokes mentioned)"
+      ]
+    },
+    "top_competitors": [
+      {
+        "domain": "scs.ie",
+        "position": 1,
+        "domain_rating": 44,
+        "traffic": 513,
+        "strengths": "Local Irish site, trusted authority, comprehensive app reviews"
+      },
+      {
+        "domain": "betfree.ie",
+        "position": 3,
+        "domain_rating": 53,
+        "traffic": 162,
+        "strengths": "How we rank section, focus on Irish betting apps specifically"
+      },
+      {
+        "domain": "gambling.com/ie",
+        "position": 4,
+        "domain_rating": 78,
+        "traffic": 143,
+        "strengths": "High domain authority, international brand with Ireland focus"
+      }
+    ],
+    "content_gaps": [
+      "No interactive comparison table with sortable features",
+      "Limited mobile experience details per app",
+      "No payment methods comparison section",
+      "Missing calculator tool integration",
+      "Limited FAQ coverage (competitors have 3-5, opportunity for 10+)",
+      "No schema markup for FAQs",
+      "Minimal discussion of app-specific features (live betting UI, streaming, bet builders)"
+    ],
+    "our_target": {
+      "brands": "10 brands (match/exceed #1 page)",
+      "word_count": "7,000-8,000 (match #1 competitor)",
+      "sections_per_brand": 3,
+      "faqs": "10+ with schema markup"
+    }
+  },
+  "brand_selection": {
+    "brands": [
+      {
+        "position": 1,
+        "name": "Lunubet",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 2,
+        "name": "Betalright",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 3,
+        "name": "Casina",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 4,
+        "name": "Festival Play",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 5,
+        "name": "Millioner",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 6,
+        "name": "Betovo",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 7,
+        "name": "22bet",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 8,
+        "name": "Big Clash",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 9,
+        "name": "Rabona",
+        "rationale": "Assigned by client - Ireland market brand"
+      },
+      {
+        "position": 10,
+        "name": "Wonder Luck",
+        "rationale": "Assigned by client - Ireland market brand"
+      }
+    ],
+    "market_context": "NOTE: Traditional Irish bookmakers (Boylesports, Paddy Power, Ladbrokes) have high search volumes but client-specified brands are international operators. Content should acknowledge Irish market leaders while featuring specified brands."
+  },
+  "content_sections": [
+    {
+      "section": "Introduction",
+      "word_count": 150,
+      "requirements": "Top 3 app picks, authority statement, affiliate disclosure"
+    },
+    {
+      "section": "Comparison Table",
+      "word_count": 200,
+      "requirements": "Interactive sortable table, ALL 10 brands, key metrics (rating, bonus, features)"
+    },
+    {
+      "section": "Individual Brand Reviews",
+      "word_count": 6000,
+      "requirements": "600 words per brand × 10 brands. Each brand must have: Key Features (150-200), Mobile Experience (100-150), Pros & Cons (100-150), Current Bonus (75-100)"
+    },
+    {
+      "section": "Payment Methods Comparison",
+      "word_count": 250,
+      "requirements": "Compare deposit/withdrawal options across brands, include Apple Pay, Google Pay, card, e-wallets"
+    },
+    {
+      "section": "How to Download",
+      "word_count": 300,
+      "requirements": "iOS App Store guide, Android Google Play guide"
+    },
+    {
+      "section": "Live Betting Features",
+      "word_count": 250,
+      "requirements": "Compare in-play betting interfaces across apps"
+    },
+    {
+      "section": "FAQs",
+      "word_count": 1200,
+      "requirements": "10-12 FAQs targeting secondary keywords with schema markup"
+    },
+    {
+      "section": "Responsible Gambling",
+      "word_count": 150,
+      "requirements": "Standard compliance section"
+    }
+  ],
+  "internal_links": [
+    "Link to Ireland betting hub page",
+    "Link to best betting sites Ireland page",
+    "Link to free bets Ireland offers",
+    "Link to sports betting guides",
+    "Link to individual brand review pages (if available)",
+    "Link to betting odds calculator",
+    "Link to parlay calculator",
+    "Link to betting calculator tools section",
+    "Link to responsible gambling resources",
+    "Link to how to bet on sports guide",
+    "Link to mobile betting guide",
+    "Link to live betting guide"
+  ],
+  "technical_requirements": [
+    "Interactive comparison table with sort/filter functionality",
+    "Schema markup: Article, FAQ, Breadcrumb",
+    "Last Updated badge with dynamic date",
+    "Mobile-responsive design optimized for app-focused content",
+    "App Store and Google Play buttons/links",
+    "App screenshot examples (optional)",
+    "Complete T&Cs for all 10 brands"
+  ],
+  "strategic_notes": {
+    "opportunity": "HIGH - Ireland market has limited competition (DR 44 at #1), significant content gaps",
+    "unique_angles": [
+      "Focus on mobile-first experience (apps vs desktop sites)",
+      "Payment methods specific to Ireland market",
+      "Interactive comparison table (competitors lack this)",
+      "Comprehensive FAQ coverage with schema",
+      "Calculator tool integration"
+    ],
+    "ireland_market_specifics": [
+      "Legal age: 18+ (different from USA 21+)",
+      "Currency: EUR",
+      "Payment methods: Popular Irish e-wallets, Irish bank cards",
+      "Regulatory body: Mention Irish gambling regulation context",
+      "Popular sports: GAA, rugby, soccer, horse racing"
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/ireland/free-bets.htm",
+    "page_name": "Free Bets Ireland",
+    "market": "Ireland",
+    "writer": "Lewis Humphries",
+    "priority": "High",
+    "template": "2 - Comparison",
+    "phase": 1
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "free bets ireland",
+      "volume": 300,
+      "difficulty": 78,
+      "traffic_potential": 600
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "free bet no deposit ireland",
+        "volume": 100,
+        "difficulty": 73,
+        "traffic_potential": 250,
+        "placement": "H2"
+      },
+      {
+        "keyword": "no deposit bonus ireland",
+        "volume": 200,
+        "difficulty": 62,
+        "traffic_potential": 2800,
+        "placement": "H2"
+      },
+      {
+        "keyword": "betting offers ireland",
+        "volume": 60,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H2"
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "difficulty": 82,
+        "traffic_potential": 2200,
+        "placement": "H2"
+      },
+      {
+        "keyword": "irish betting sites",
+        "volume": 400,
+        "difficulty": 81,
+        "traffic_potential": 1800,
+        "placement": "H3"
+      },
+      {
+        "keyword": "online betting sites ireland",
+        "volume": 200,
+        "difficulty": 82,
+        "traffic_potential": 2200,
+        "placement": "H3"
+      },
+      {
+        "keyword": "best gambling sites ireland",
+        "volume": 150,
+        "difficulty": 75,
+        "traffic_potential": 2200,
+        "placement": "H3"
+      },
+      {
+        "keyword": "betting sites with free bets",
+        "volume": 100,
+        "difficulty": 80,
+        "traffic_potential": 1300,
+        "placement": "H3"
+      },
+      {
+        "keyword": "casino bonus ireland",
+        "volume": 150,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3"
+      },
+      {
+        "keyword": "no deposit casino bonus ireland",
+        "volume": 100,
+        "difficulty": 66,
+        "traffic_potential": 2900,
+        "placement": "H3"
+      },
+      {
+        "keyword": "best online bookies",
+        "volume": 90,
+        "difficulty": 87,
+        "traffic_potential": 700,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "welcome offer",
+        "volume": 80,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "free bet offers ireland",
+        "volume": 40,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "free 10 euro no deposit",
+        "volume": 40,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "free bet casino",
+        "volume": 70,
+        "difficulty": 81,
+        "traffic_potential": 0,
+        "placement": "FAQ"
+      }
+    ],
+    "branded_keywords": [
+      {
+        "keyword": "boylesports free bet",
+        "volume": 0,
+        "difficulty": null,
+        "traffic_potential": null,
+        "note": "Major Irish bookmaker - reference in market context"
+      },
+      {
+        "keyword": "paddy power free bet",
+        "volume": 0,
+        "difficulty": null,
+        "traffic_potential": null,
+        "note": "Iconic Irish brand - reference in market context"
+      },
+      {
+        "keyword": "bet365 free bet",
+        "volume": 0,
+        "difficulty": null,
+        "traffic_potential": null,
+        "note": "International leader - reference in market context"
+      }
+    ],
+    "total_volume": 2640,
+    "volume_increase_percent": 880
+  },
+  "competitor_analysis": {
+    "number_one_page": {
+      "url": "https://www.bonusfinder.ie/free-bets",
+      "domain": "bonusfinder.ie",
+      "position": 1,
+      "domain_rating": 67,
+      "estimated_traffic": 450,
+      "brands_covered": "15-20 (estimated based on free bet offers aggregator model)",
+      "estimated_word_count": "5,000-6,000",
+      "key_sections": [
+        "Best Free Bet Offers",
+        "What Are Free Bets?",
+        "How to Claim Free Bets",
+        "Types of Free Bets (matched, risk-free, no deposit)",
+        "Individual bookmaker free bet listings",
+        "Free bet terms and conditions guide"
+      ]
+    },
+    "top_competitors": [
+      {
+        "domain": "bonusfinder.ie",
+        "position": 1,
+        "domain_rating": 67,
+        "traffic": 450,
+        "strengths": "Ireland-specific domain, comprehensive free bet aggregator, strong T&Cs transparency"
+      },
+      {
+        "domain": "freebets.ie",
+        "position": 2,
+        "domain_rating": 52,
+        "traffic": 320,
+        "strengths": "Local Irish authority, dedicated free bets niche, updated offers regularly"
+      },
+      {
+        "domain": "gambling.com/ie",
+        "position": 3,
+        "domain_rating": 78,
+        "traffic": 280,
+        "strengths": "High domain authority, international credibility, Ireland-specific section"
+      }
+    ],
+    "content_gaps": [
+      "No interactive comparison of free bet value (e.g., true value calculator)",
+      "Limited explanation of wagering requirements differences between offers",
+      "No step-by-step visual guides for claiming free bets",
+      "Missing FAQ schema markup (only 3-5 FAQs typically)",
+      "No calculator tools for bet value or wagering requirements",
+      "Surface-level T&Cs summaries (opportunity for detailed breakdowns)",
+      "No comparison of no deposit vs matched bet offers side-by-side",
+      "Limited mobile experience details for claiming process"
+    ],
+    "our_target": {
+      "brands": "10 brands (focused quality over quantity vs aggregator approach)",
+      "word_count": "6,000-7,000 (matches or exceeds #1 competitor)",
+      "sections_per_brand": 3,
+      "faqs": "10+ with schema markup"
+    }
+  },
+  "brand_selection": {
+    "brands": [
+      {
+        "position": 1,
+        "name": "Lunubet",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 2,
+        "name": "Betalright",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 3,
+        "name": "Casina",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 4,
+        "name": "Festival Play",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 5,
+        "name": "Millioner",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 6,
+        "name": "Betovo",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 7,
+        "name": "22bet",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 8,
+        "name": "Big Clash",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 9,
+        "name": "Rabona",
+        "rationale": "Client-specified Ireland market brand"
+      },
+      {
+        "position": 10,
+        "name": "Wonder Luck",
+        "rationale": "Client-specified Ireland market brand"
+      }
+    ],
+    "market_context": "Traditional Irish bookmakers (Boylesports, Paddy Power, Ladbrokes) are market leaders. Content should acknowledge Irish betting landscape while featuring specified international brands available to Irish players."
+  },
+  "content_sections": [
+    {
+      "section": "Introduction",
+      "word_count": 150,
+      "requirements": "Top 3 free bet offers, authority statement, affiliate disclosure, what makes a good free bet offer"
+    },
+    {
+      "section": "Comparison Table",
+      "word_count": 200,
+      "requirements": "Interactive sortable table, ALL 10 brands, key metrics (free bet amount, wagering requirements, min deposit, expiry)"
+    },
+    {
+      "section": "Individual Free Bet Reviews",
+      "word_count": 5000,
+      "requirements": "500 words per brand × 10 brands. Each brand must have: Key Offer Details (150-200), How to Claim (100-150), Terms & Conditions Breakdown (100-150), Value Assessment (75-100)"
+    },
+    {
+      "section": "Types of Free Bets Explained",
+      "word_count": 400,
+      "requirements": "Matched free bets, risk-free bets, no deposit free bets, cash vs bonus bets"
+    },
+    {
+      "section": "How to Claim Free Bets",
+      "word_count": 350,
+      "requirements": "Step-by-step guide with common requirements (registration, deposit, promo code)"
+    },
+    {
+      "section": "Wagering Requirements Guide",
+      "word_count": 300,
+      "requirements": "Explain playthrough requirements, comparison across brands, what to look for"
+    },
+    {
+      "section": "Free Bet Value Calculator",
+      "word_count": 200,
+      "requirements": "Link to calculator tool, explain how to calculate true value of free bet offers"
+    },
+    {
+      "section": "FAQs",
+      "word_count": 1200,
+      "requirements": "10-12 FAQs targeting secondary keywords with schema markup"
+    },
+    {
+      "section": "Responsible Gambling",
+      "word_count": 150,
+      "requirements": "Ireland-specific compliance section with Irish resources"
+    }
+  ],
+  "internal_links": [
+    "Link to Ireland betting hub page",
+    "Link to best betting sites Ireland",
+    "Link to best betting apps Ireland",
+    "Link to sports betting Ireland guide",
+    "Link to free bet calculator tool",
+    "Link to odds calculator",
+    "Link to wagering requirements calculator",
+    "Link to how to claim bonuses guide",
+    "Link to responsible gambling Ireland",
+    "Link to individual brand review pages (if available)",
+    "Link to no deposit bonus guide",
+    "Link to matched betting guide"
+  ],
+  "technical_requirements": [
+    "Interactive comparison table with sort/filter by: free bet amount, wagering requirements, min deposit, offer type",
+    "Schema markup: Article, FAQ, Breadcrumb",
+    "Last Updated badge with dynamic date",
+    "Free bet value calculator integration (or link to calculator page)",
+    "Step-by-step claim process with visual elements",
+    "T&Cs accordion/expandable sections for each brand",
+    "Complete T&Cs for all 10 brands with verified details",
+    "Highlight key T&Cs differences between offers",
+    "Mobile-responsive design for on-the-go claim process"
+  ],
+  "strategic_notes": {
+    "opportunity": "HIGH - Free bets is high-intent commercial keyword with established Irish competition but significant content gaps",
+    "unique_angles": [
+      "Free bet value calculator (true value after wagering requirements)",
+      "Interactive comparison with wagering requirement filtering",
+      "Detailed T&Cs breakdown per offer (not just summaries)",
+      "Step-by-step visual claiming guides",
+      "Comprehensive FAQ with schema markup",
+      "Types of free bets comparison (matched vs risk-free vs no deposit)"
+    ],
+    "ireland_market_specifics": [
+      "Legal age: 18+ (different from USA 21+)",
+      "Currency: EUR (all offers in euros)",
+      "Payment methods: Popular Irish deposit options (Visa, Mastercard, PayPal, Apple Pay)",
+      "Regulatory context: Irish gambling regulation and licensing requirements",
+      "Popular sports for free bets: GAA, rugby, soccer, horse racing",
+      "Local context: Reference major Irish bookmakers' free bet offerings for credibility"
+    ],
+    "content_differentiation": {
+      "vs_bonusfinder_ie": "More in-depth T&Cs analysis, calculator integration, better FAQ coverage with schema",
+      "vs_freebets_ie": "Interactive comparison table, wagering requirements calculator, step-by-step guides",
+      "vs_gambling_com": "Ireland-specific focus with local sports examples, detailed claiming process"
+    }
+  }
+}

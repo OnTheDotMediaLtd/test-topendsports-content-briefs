@@ -1,0 +1,495 @@
+{
+  "page_info": {
+    "page_name": "uk-luckymate-review",
+    "url": "https://www.topendsports.com/sport/betting/uk/luckymate-review.htm",
+    "title": "LuckyMate Sport Review",
+    "market": "UK",
+    "template": 1,
+    "template_name": "Review (Single Brand)",
+    "writer": "Lewis Humphries",
+    "priority": "Critical",
+    "status": "Phase 1 Complete",
+    "phase": "PHASE 1",
+    "notes": "UK Brand #2"
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "luckymate",
+      "volume": 1100,
+      "difficulty": 0,
+      "placement": "H1, meta title, throughout content",
+      "rationale": "Main brand search term with highest volume"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "luckymate review",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H2: Complete LuckyMate Review",
+        "rationale": "Review-focused search intent"
+      },
+      {
+        "keyword": "luckymate casino",
+        "volume": 80,
+        "difficulty": 0,
+        "placement": "H2: LuckyMate Casino & Sports Offering",
+        "rationale": "Dual vertical - casino and sports"
+      },
+      {
+        "keyword": "bet builder",
+        "volume": 1900,
+        "difficulty": 82,
+        "placement": "H3: Bet Builder Feature",
+        "rationale": "Key feature LuckyMate offers"
+      },
+      {
+        "keyword": "in play betting",
+        "volume": 700,
+        "difficulty": 80,
+        "placement": "H2: In-Play Betting Excellence",
+        "rationale": "LuckyMate's core strength per competitor analysis"
+      },
+      {
+        "keyword": "acca boost",
+        "volume": 150,
+        "difficulty": 21,
+        "placement": "H3: ACCA Boost Feature",
+        "rationale": "Feature they offer, moderate search volume"
+      },
+      {
+        "keyword": "live betting uk",
+        "volume": 100,
+        "difficulty": 85,
+        "placement": "Natural mention in in-play section",
+        "rationale": "Related to their in-play strength"
+      },
+      {
+        "keyword": "luckymate sister sites",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "FAQ: What are LuckyMate sister sites?",
+        "rationale": "Common user question, Anakatech network"
+      },
+      {
+        "keyword": "luckymate withdrawal time",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H3: Withdrawal Methods & Processing Times",
+        "rationale": "Key user concern"
+      },
+      {
+        "keyword": "luckymate login",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H3: Account Setup & Login Process",
+        "rationale": "User intent keyword"
+      },
+      {
+        "keyword": "luckymate bet",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "Natural throughout",
+        "rationale": "Navigational search"
+      },
+      {
+        "keyword": "is luckymate safe",
+        "volume": null,
+        "difficulty": null,
+        "placement": "FAQ: Is LuckyMate safe and legit?",
+        "rationale": "Trust/safety question"
+      },
+      {
+        "keyword": "is luckymate legit",
+        "volume": null,
+        "difficulty": null,
+        "placement": "H2: Is LuckyMate Safe & Licensed?",
+        "rationale": "Trust/safety question"
+      }
+    ],
+    "total_volume": 4000,
+    "volume_increase_vs_primary": "264%",
+    "branded_keywords": [
+      {
+        "keyword": "luckymate sport",
+        "volume": 0,
+        "notes": "Listed in site structure but has no search volume"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "top_competitor": {
+      "domain": "sportsboom.co.uk",
+      "url": "https://www.sportsboom.co.uk/betting/reviews/luckymate",
+      "estimated_word_count": "8500-9500",
+      "domain_rating": "~55-60 (estimated)",
+      "key_sections": [
+        "Rating Summary",
+        "How We Rated Lucky Mate",
+        "Is Lucky Mate Safe & Legit?",
+        "Key Features",
+        "Pros & Cons",
+        "Bonuses & Promotions",
+        "SPORTSBOOK Review",
+        "CASINO Review",
+        "Esports Betting",
+        "User Experience & Website Design",
+        "Customer Support",
+        "Deposit & Withdrawal Methods",
+        "Registration Process",
+        "Security Measures",
+        "Responsible Betting",
+        "Final Verdict",
+        "FAQs"
+      ],
+      "unique_elements": [
+        "SB Market Index methodology",
+        "Step-by-step bonus claim guide with screenshots",
+        "VIP tier comparison table",
+        "Comparative odds analysis",
+        "Common issues troubleshooting table"
+      ],
+      "brand_count": 1,
+      "notes": "Extremely comprehensive single-brand review. Strong focus on both sportsbook AND casino offerings."
+    },
+    "other_competitors": [
+      {
+        "domain": "betting.co.uk",
+        "url": "https://www.betting.co.uk/reviews/luckymate/",
+        "structure": "Comparison-focused template with quick reference details"
+      },
+      {
+        "domain": "bestbettingsites.co.uk",
+        "url": "https://www.bestbettingsites.co.uk/luckymate/",
+        "structure": "Template-driven with operator branding and rating"
+      },
+      {
+        "domain": "bettinglounge.co.uk",
+        "url": "https://bettinglounge.co.uk/review/lucky-mate/",
+        "focus": "Expert tests and detailed analysis"
+      },
+      {
+        "domain": "olbg.com",
+        "url": "https://www.olbg.com/bookmakers/reviews/luckymate",
+        "focus": "User reviews and ratings"
+      }
+    ],
+    "content_gaps": [
+      {
+        "gap": "No sports-specific analysis (NFL, NBA, football)",
+        "opportunity": "Add UK sports-specific sections (Premier League, Champions League, horse racing availability)"
+      },
+      {
+        "gap": "Limited payment method comparison",
+        "opportunity": "Detailed payment comparison with processing times for UK users"
+      },
+      {
+        "gap": "Generic responsible gambling section",
+        "opportunity": "UK-specific responsible gambling tools (GamStop, UKGC requirements)"
+      },
+      {
+        "gap": "No mobile app review",
+        "opportunity": "CRITICAL: Address that LuckyMate has NO mobile app - this is a major weakness"
+      },
+      {
+        "gap": "Weak on 0% margin odds explanation",
+        "opportunity": "Deep dive on their 0% margin offering - how it works, which markets, value analysis"
+      }
+    ]
+  },
+  "brand_details": {
+    "brand_name": "LuckyMate",
+    "operator": "Anakatech Interactive Limited",
+    "license": "UK Gambling Commission (UKGC #48789)",
+    "launch_date": "2024-2025",
+    "positioning": "UK Brand #2",
+    "unique_selling_points": [
+      "0% margin odds on pre-match and in-play betting",
+      "Excellent in-play betting platform (fast and reliable)",
+      "40+ sports categories covered",
+      "Over 100 markets per football match",
+      "Bet Builder, ACCA Boost, Bore Draw, Cashout, Early Payout features",
+      "1,186+ casino games with RTP transparency",
+      "Good payment method selection (Visa, Google Pay, Skrill, Neteller, Paysafecard)"
+    ],
+    "major_weaknesses": [
+      "NO mobile app for iOS or Android (as of December 2025)",
+      "NO sports-specific welcome bonus (casino only - 50 free spins)",
+      "NO UK horse racing coverage",
+      "Limited live streaming",
+      "Customer support limited to email and live chat (no phone)",
+      "Navigation issues on mobile web browser"
+    ],
+    "target_audience": "UK punters who value core product quality and 0% margin odds over flashy promotions",
+    "sister_sites": [
+      "Betnero",
+      "7bet"
+    ]
+  },
+  "content_structure": {
+    "estimated_word_count": "8500-9500",
+    "rationale": "Match top competitor (sportsboom.co.uk). Template 1 requires 3,500-4,000 minimum, but competitor analysis shows 8,500-9,500 needed to compete.",
+    "major_sections": [
+      {
+        "section": "Introduction & Quick Answer",
+        "word_count": "200-250",
+        "keywords": ["luckymate", "luckymate review"]
+      },
+      {
+        "section": "Rating Summary",
+        "word_count": "150-200",
+        "keywords": ["luckymate review"]
+      },
+      {
+        "section": "Is LuckyMate Safe & Licensed?",
+        "word_count": "300-350",
+        "keywords": ["is luckymate safe", "is luckymate legit"]
+      },
+      {
+        "section": "LuckyMate Key Features",
+        "word_count": "400-500",
+        "keywords": ["luckymate", "bet builder", "acca boost"]
+      },
+      {
+        "section": "Pros & Cons Analysis",
+        "word_count": "400-500",
+        "keywords": ["luckymate review"]
+      },
+      {
+        "section": "Bonuses & Promotions",
+        "word_count": "400-500",
+        "keywords": ["luckymate bonus", "luckymate offer"]
+      },
+      {
+        "section": "Sportsbook Review - In-Play Betting Excellence",
+        "word_count": "800-1000",
+        "keywords": ["in play betting", "live betting uk", "luckymate sport"]
+      },
+      {
+        "section": "0% Margin Odds Explained",
+        "word_count": "400-500",
+        "keywords": ["0% margin betting"]
+      },
+      {
+        "section": "Bet Builder & ACCA Boost Features",
+        "word_count": "400-500",
+        "keywords": ["bet builder", "acca boost"]
+      },
+      {
+        "section": "Sports Coverage & Markets",
+        "word_count": "400-500",
+        "keywords": ["luckymate sport"]
+      },
+      {
+        "section": "Casino & Esports Offering",
+        "word_count": "500-600",
+        "keywords": ["luckymate casino"]
+      },
+      {
+        "section": "Mobile Experience (NO APP)",
+        "word_count": "300-400",
+        "keywords": ["luckymate app", "mobile betting"]
+      },
+      {
+        "section": "User Experience & Website Design",
+        "word_count": "300-400",
+        "keywords": ["luckymate login"]
+      },
+      {
+        "section": "Payment Methods & Withdrawals",
+        "word_count": "400-500",
+        "keywords": ["luckymate withdrawal time"]
+      },
+      {
+        "section": "Customer Support",
+        "word_count": "250-300",
+        "keywords": ["luckymate live chat"]
+      },
+      {
+        "section": "Registration & Account Setup",
+        "word_count": "250-300",
+        "keywords": ["luckymate login"]
+      },
+      {
+        "section": "Security & Responsible Gambling",
+        "word_count": "300-400",
+        "keywords": ["is luckymate safe"]
+      },
+      {
+        "section": "FAQs",
+        "word_count": "800-1000",
+        "keywords": ["luckymate sister sites", "is luckymate safe", "luckymate withdrawal time"]
+      },
+      {
+        "section": "Final Verdict",
+        "word_count": "150-200",
+        "keywords": ["luckymate review"]
+      }
+    ],
+    "mandatory_elements": [
+      "Last Updated badge",
+      "Affiliate disclosure",
+      "UKGC license verification",
+      "Complete T&Cs for casino bonus",
+      "Responsible gambling resources (UK-specific)",
+      "GamStop information",
+      "Payment methods table",
+      "8-10 FAQs with schema markup"
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "Best UK Betting Sites",
+      "url": "/sport/betting/uk/index.htm",
+      "rationale": "Main UK betting hub"
+    },
+    {
+      "anchor": "UK Sports Betting Guide",
+      "url": "/sport/betting/uk/guide.htm",
+      "rationale": "Supporting guide content"
+    },
+    {
+      "anchor": "In-Play Betting Strategies",
+      "url": "/sport/betting/live-betting-guide.htm",
+      "rationale": "Related to LuckyMate's strength"
+      },
+    {
+      "anchor": "Bet Builder Guide",
+      "url": "/sport/betting/bet-builder-explained.htm",
+      "rationale": "Feature they offer"
+    },
+    {
+      "anchor": "ACCA Betting Tips",
+      "url": "/sport/betting/accumulator-tips.htm",
+      "rationale": "ACCA boost feature"
+    },
+    {
+      "anchor": "UK Betting Odds Comparison",
+      "url": "/sport/betting/uk/odds-comparison.htm",
+      "rationale": "Related to 0% margin odds"
+    },
+    {
+      "anchor": "Responsible Gambling UK",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "rationale": "Compliance link"
+    },
+    {
+      "anchor": "UK Betting Payment Methods",
+      "url": "/sport/betting/uk/payment-methods.htm",
+      "rationale": "Payment section support"
+    },
+    {
+      "anchor": "GamStop Self-Exclusion",
+      "url": "/sport/betting/gamstop.htm",
+      "rationale": "UK responsible gambling"
+    },
+    {
+      "anchor": "UKGC Licensed Betting Sites",
+      "url": "/sport/betting/uk/ukgc-licensed.htm",
+      "rationale": "Safety/licensing context"
+    },
+    {
+      "anchor": "Best Betting Apps UK",
+      "url": "/sport/betting/uk/betting-apps.htm",
+      "rationale": "Contrast - LuckyMate has NO app"
+    },
+    {
+      "anchor": "UK Football Betting Guide",
+      "url": "/sport/betting/uk/football-betting.htm",
+      "rationale": "100+ markets per match stat"
+    }
+  ],
+  "technical_requirements": [
+    {
+      "element": "Rating display",
+      "implementation": "5-star rating graphic with numerical score (e.g., 4.7/5)",
+      "priority": "High"
+    },
+    {
+      "element": "Pros/Cons table",
+      "implementation": "Two-column table with cited sources (App Store, Trustpilot, Reddit)",
+      "priority": "High"
+    },
+    {
+      "element": "Payment methods table",
+      "implementation": "Table showing method, min/max, processing time, fees",
+      "priority": "High"
+    },
+    {
+      "element": "Feature comparison",
+      "implementation": "0% margin odds calculator or value comparison tool",
+      "priority": "Medium"
+    },
+    {
+      "element": "FAQ Schema",
+      "implementation": "JSON-LD FAQPage schema for 8-10 questions",
+      "priority": "High"
+    },
+    {
+      "element": "Article Schema",
+      "implementation": "JSON-LD Article schema with author, datePublished, dateModified",
+      "priority": "High"
+    },
+    {
+      "element": "Breadcrumb Schema",
+      "implementation": "JSON-LD BreadcrumbList for navigation",
+      "priority": "Medium"
+    },
+    {
+      "element": "Last Updated badge",
+      "implementation": "Visible badge below H1 with current date",
+      "priority": "High"
+    },
+    {
+      "element": "Mobile responsiveness",
+      "implementation": "Optimize for mobile web (since no app available)",
+      "priority": "High"
+    }
+  ],
+  "compliance": {
+    "age_requirement": "18+",
+    "license_authority": "UK Gambling Commission",
+    "license_number": "48789",
+    "responsible_gambling_resources": [
+      "GamStop (UK self-exclusion)",
+      "BeGambleAware.org",
+      "Gambling Commission advice",
+      "Deposit limits",
+      "Loss limits",
+      "Reality checks"
+    ],
+    "affiliate_disclosure": "Required at top of page",
+    "terms_verification_date": "December 2025"
+  },
+  "sources": {
+    "tier_1_primary": [
+      "Trustpilot.com/review/luckymate.co.uk",
+      "App Store reviews (N/A - no app)",
+      "Google Play reviews (N/A - no app)",
+      "Reddit.com/r/sportsbook discussions",
+      "OLBG.com user reviews"
+    ],
+    "tier_2_verification": [
+      "LuckyMate.co.uk official website",
+      "UK Gambling Commission license database",
+      "Anakatech Interactive Limited company info"
+    ],
+    "tier_3_facts": [
+      "Industry publications on 0% margin betting",
+      "UKGC regulatory standards",
+      "Payment provider documentation"
+    ]
+  },
+  "strategic_direction": [
+    "Position as honest review acknowledging both strengths (0% margin odds, in-play excellence) and critical weaknesses (no app, no sports bonus)",
+    "Emphasize value for serious punters who prioritize odds quality over promotions",
+    "Address mobile app absence head-on - major differentiator vs competitors",
+    "Deep dive on 0% margin odds - explain what this means in practical terms (£1000 bet = £X more profit vs competitors)",
+    "UK-specific compliance focus (GamStop, UKGC standards)",
+    "Sister sites context (Anakatech network - Betnero, 7bet)",
+    "Target SEO for 'luckymate' brand searches + in-play betting features"
+  ],
+  "next_steps": {
+    "phase_2_writer_brief": "Map all keywords to H2/H3 sections, create detailed FAQs, specify sources for each claim",
+    "phase_3_technical": "Implement rating display, payment table, FAQ schema, article schema, pros/cons table with citations"
+  }
+}

@@ -1,0 +1,757 @@
+{
+  "phase": "Phase 2 - Writer Brief Complete",
+  "date_completed": "2025-11-28",
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/nfl/index.htm",
+    "page_name": "Best NFL Betting Sites: Top Sportsbooks for Football",
+    "target_keyword": "best nfl betting sites",
+    "total_search_volume": 48900,
+    "word_count": 3100,
+    "template": "2 (Comparison)",
+    "writer": "Lewis Humphries",
+    "priority": "Critical"
+  },
+  "keyword_optimization": {
+    "primary_keywords": [
+      {
+        "keyword": "best nfl betting sites",
+        "volume": 400,
+        "placement": "H1, Title, Introduction, throughout"
+      },
+      {
+        "keyword": "best nfl betting apps",
+        "volume": 400,
+        "placement": "H1 variant, Introduction, App sections"
+      }
+    ],
+    "secondary_keyword_mapping": [
+      {
+        "keyword": "nfl betting odds",
+        "volume": 28000,
+        "section": "H3",
+        "title": "Understanding NFL Odds",
+        "parent_section": "How to Bet on NFL Games",
+        "notes": "HIGHEST volume keyword - must be prominent H3"
+      },
+      {
+        "keyword": "nfl player props",
+        "volume": 6500,
+        "section": "H2",
+        "title": "Best Sites for NFL Player Props",
+        "notes": "Highlight FanDuel (40+ props), BetMGM, DraftKings organization by category"
+      },
+      {
+        "keyword": "nfl betting promo codes",
+        "volume": 3500,
+        "section": "H2",
+        "title": "Best NFL Betting Promos & Bonus Codes",
+        "notes": "Cover all 7 brands' current welcome offers"
+      },
+      {
+        "keyword": "nfl parlay betting",
+        "volume": 1500,
+        "section": "H2",
+        "title": "Best NFL Parlay Betting Sites",
+        "notes": "Include link to TES parlay calculator"
+      },
+      {
+        "keyword": "nfl same game parlays",
+        "volume": 1400,
+        "section": "H3",
+        "title": "NFL Same Game Parlay Features",
+        "parent_section": "Best NFL Parlay Betting Sites",
+        "notes": "Feature FanDuel SGP builder, Caesars 12-leg capability"
+      },
+      {
+        "keyword": "nfl spread betting",
+        "volume": 1200,
+        "section": "H3",
+        "title": "NFL Spread Betting Markets",
+        "parent_section": "How to Bet on NFL Games",
+        "notes": "Cite Caesars best spread pricing, DraftKings competitive averages"
+      },
+      {
+        "keyword": "nfl over under betting",
+        "volume": 900,
+        "section": "H3",
+        "title": "NFL Totals (Over/Under)",
+        "parent_section": "How to Bet on NFL Games",
+        "notes": "Explain totals betting for NFL games"
+      },
+      {
+        "keyword": "nfl moneyline betting",
+        "volume": 800,
+        "section": "H3",
+        "title": "NFL Moneyline Bets",
+        "parent_section": "How to Bet on NFL Games",
+        "notes": "Cite FanDuel 29.1% best underdog prices, DraftKings 29.9%"
+      },
+      {
+        "keyword": "nfl live betting",
+        "volume": 700,
+        "section": "H2",
+        "title": "Best Live Betting Features for NFL",
+        "notes": "Feature DraftKings Flash Betting, Caesars live streaming, bet365 depth"
+      },
+      {
+        "keyword": "how to bet on nfl",
+        "volume": 600,
+        "section": "H2",
+        "title": "How to Bet on NFL Games",
+        "notes": "Educational section with H3 subsections for bet types"
+      },
+      {
+        "keyword": "fanduel vs draftkings nfl",
+        "volume": 500,
+        "section": "FAQ",
+        "title": "Which is better for NFL betting: FanDuel or DraftKings?",
+        "notes": "Compare SGP experience, odds, props variety, Flash Betting"
+      },
+      {
+        "keyword": "fastest payout sportsbook nfl",
+        "volume": 400,
+        "section": "H3",
+        "title": "Withdrawal Methods & Payout Speeds",
+        "parent_section": "How We Test & Rank NFL Betting Sites",
+        "notes": "BetMGM 2 hours, FanDuel 48 hours via PayPal/Play+"
+      },
+      {
+        "keyword": "nfl futures betting",
+        "volume": 300,
+        "section": "H3",
+        "title": "NFL Futures & Season-Long Bets",
+        "parent_section": "How to Bet on NFL Games",
+        "notes": "Include link to NFL Futures page"
+      },
+      {
+        "keyword": "nfl betting apps legal states",
+        "volume": 300,
+        "section": "FAQ",
+        "title": "Where is NFL betting legal?",
+        "notes": "List states, link to state pages"
+      }
+    ],
+    "meta_keywords": "best nfl betting sites, best nfl betting apps, nfl betting odds, nfl player props, nfl betting promo codes, nfl parlay betting, nfl same game parlays, nfl spread betting, nfl over under betting, nfl moneyline betting, nfl live betting, how to bet on nfl, fanduel vs draftkings nfl, fastest payout sportsbook nfl, nfl futures betting, nfl betting apps legal states"
+  },
+  "content_outline": {
+    "h1": "Best NFL Betting Sites: Top Sportsbooks for Football",
+    "h1_notes": "NO dated language - timeless title",
+    "last_updated_badge": "Display after H1 with current date",
+    "sections": [
+      {
+        "section": "Introduction",
+        "word_count": "100-150 words",
+        "requirements": [
+          "Sentence 1: Direct answer - 'The best NFL betting sites are FanDuel, DraftKings, and BetMGM...'",
+          "Sentence 2: Authority statement about testing/verification",
+          "Sentences 3-5: Affiliate disclosure (50-75 words)",
+          "Total: 100-150 words maximum"
+        ],
+        "forbidden": [
+          "Welcome to...",
+          "Looking for...",
+          "Rhetorical questions",
+          "Over 150 words"
+        ]
+      },
+      {
+        "section": "Comparison Table",
+        "placement": "Before main content",
+        "requirements": [
+          "7 sportsbooks (FanDuel, BetMGM, DraftKings, Caesars, bet365, Fanatics, ESPN BET)",
+          "Criteria: Best For, Welcome Bonus, NFL Props, Live Betting, Payout Speed, App Rating, States Available",
+          "Sortable/filterable functionality",
+          "CTA buttons for each brand"
+        ]
+      },
+      {
+        "section": "Quick Answer Box",
+        "word_count": "100 words max",
+        "content": "Summary of top 3 picks with key differentiators"
+      },
+      {
+        "section": "H2: Quick Winner Summaries",
+        "word_count": "700 words (100 words each x 7)",
+        "structure": [
+          "FanDuel - Best Overall (100w)",
+          "DraftKings - Best for Props Variety (100w)",
+          "BetMGM - Best for Loyalty Rewards (100w)",
+          "Caesars - Best for Odds Boosts (100w)",
+          "bet365 - Best for Live Betting (100w)",
+          "Fanatics - Best for FanCash Rewards (100w)",
+          "ESPN BET - Best for Casual Bettors (100w)"
+        ]
+      },
+      {
+        "section": "H2: FanDuel Sportsbook Review",
+        "word_count": "500 words",
+        "keyword_targeting": "best nfl betting sites, best nfl betting apps",
+        "requirements": [
+          "MUST cite: App Store 4.9/5 rating from 1.7M reviews",
+          "Market share leadership",
+          "SGP builder interface and experience",
+          "40+ player props per game",
+          "29.1% best NFL underdog prices",
+          "Early cash-out on moneylines",
+          "PayPal/Play+ 48-hour withdrawals",
+          "Link to FanDuel review page"
+        ]
+      },
+      {
+        "section": "H2: DraftKings Sportsbook Review",
+        "word_count": "400 words",
+        "requirements": [
+          "29.9% best NFL underdog prices (highest in industry)",
+          "Most extensive NFL markets",
+          "Props grouped by category for navigation",
+          "Flash Betting (bet on every down)",
+          "Early line posting",
+          "Best average spread prices",
+          "Link to DraftKings review page"
+        ]
+      },
+      {
+        "section": "H2: BetMGM Sportsbook Review",
+        "word_count": "400 words",
+        "requirements": [
+          "Industry-leading welcome bonus up to $1,500",
+          "Edit My Bet feature",
+          "More prop bets than competitors",
+          "60+ alternative lines posted early",
+          "MGM Rewards integration nationwide",
+          "2-hour PayPal/Play+ payouts (fastest)",
+          "Link to BetMGM review page"
+        ]
+      },
+      {
+        "section": "H2: Caesars Sportsbook Review",
+        "word_count": "350 words",
+        "requirements": [
+          "Best average NFL spread prices per Action Network",
+          "#1 for NFL odds boosts frequency",
+          "Live NFL streaming in mobile app",
+          "Best spread favorites pricing",
+          "VIP experience for high-rollers"
+        ]
+      },
+      {
+        "section": "H2: bet365 Sportsbook Review",
+        "word_count": "350 words",
+        "requirements": [
+          "Sharpest NFL lines in industry",
+          "40+ props per NFL game",
+          "Parlay Boosts on major matchups",
+          "Live streaming with $1 minimum bet",
+          "International reputation for quality",
+          "Responsive app performance on NFL Sundays"
+        ]
+      },
+      {
+        "section": "H2: Fanatics Sportsbook Review",
+        "word_count": "300 words",
+        "requirements": [
+          "Unique FanCash rewards (up to 10% back)",
+          "NFL streaming with $1 bet",
+          "60+ alternative lines early",
+          "Early payout on 17+ point leads",
+          "Fair Play Protection (injury refunds on props)",
+          "Earn NFL gear through betting"
+        ]
+      },
+      {
+        "section": "H2: ESPN BET Sportsbook Review",
+        "word_count": "300 words",
+        "requirements": [
+          "IMPORTANT: Note rebranding to theScore Bet on December 1, 2025",
+          "NFL Power Hour (boosted First TD Scorer odds)",
+          "Injury Insurance for NFL player props",
+          "FanCenter links ESPN Fantasy teams",
+          "BetVision streaming with live betting",
+          "Better prices than Caesars and DraftKings on NFL lines"
+        ]
+      },
+      {
+        "section": "H2: Best NFL Betting Promos & Bonus Codes",
+        "keyword": "nfl betting promo codes (3,500/mo)",
+        "word_count": "400-500 words",
+        "requirements": [
+          "Current welcome offers for all 7 brands",
+          "Promo code requirements (if applicable)",
+          "Brief T&C summaries for each",
+          "Note: Complete T&Cs in dedicated section below"
+        ]
+      },
+      {
+        "section": "H2: Best Sites for NFL Player Props",
+        "keyword": "nfl player props (6,500/mo)",
+        "word_count": "500 words",
+        "requirements": [
+          "FanDuel: 40+ props per game, SGP builder",
+          "BetMGM: Most props in industry",
+          "DraftKings: Props organized by category",
+          "bet365: 40+ props with competitive odds",
+          "Types: Passing yards, rushing yards, receptions, TDs, etc.",
+          "Link to NFL Player Props Guide"
+        ]
+      },
+      {
+        "section": "H2: Best NFL Parlay Betting Sites",
+        "keyword": "nfl parlay betting (1,500/mo)",
+        "word_count": "450 words",
+        "h3_subsection": {
+          "title": "H3: NFL Same Game Parlay Features",
+          "keyword": "nfl same game parlays (1,400/mo)",
+          "word_count": "Included in 450w total",
+          "requirements": [
+            "FanDuel: Industry-leading SGP builder and experience",
+            "Caesars: 12-leg SGP capability (most in industry)",
+            "DraftKings: Comprehensive SGP options",
+            "BetMGM: Edit My Bet feature for parlays",
+            "Parlay insurance and boost features"
+          ]
+        },
+        "requirements": [
+          "MUST include prominent link to TES Parlay Calculator",
+          "Traditional parlays vs Same Game Parlays",
+          "Best sites for parlay insurance and boosts",
+          "Link to NFL Parlay Betting Strategy page"
+        ]
+      },
+      {
+        "section": "H2: Best Live Betting Features for NFL",
+        "keyword": "nfl live betting (700/mo)",
+        "word_count": "400-450 words",
+        "requirements": [
+          "DraftKings: Flash Betting (bet on every down)",
+          "Caesars: Live streaming integrated in app",
+          "bet365: Most comprehensive live betting depth",
+          "Fanatics: BetVision streaming on same screen",
+          "ESPN BET: BetVision with live betting interface",
+          "Early cash-out features",
+          "Link to NFL Live Betting Strategy page"
+        ]
+      },
+      {
+        "section": "H2: How to Bet on NFL Games",
+        "keyword": "how to bet on nfl (600/mo)",
+        "word_count": "700-800 words total",
+        "h3_subsections": [
+          {
+            "title": "H3: Understanding NFL Odds",
+            "keyword": "nfl betting odds (28,000/mo - HIGHEST VOLUME)",
+            "requirements": [
+              "American odds format (-110, +150, etc.)",
+              "How to read NFL point spreads",
+              "Moneyline odds explanation",
+              "Totals (Over/Under) odds",
+              "Implied probability calculations"
+            ]
+          },
+          {
+            "title": "H3: NFL Spread Betting Markets",
+            "keyword": "nfl spread betting (1,200/mo)",
+            "requirements": [
+              "How NFL spreads work",
+              "Caesars: Best spread favorites pricing",
+              "DraftKings: Best average spread prices",
+              "Alternative spreads (60+ at BetMGM, Fanatics)",
+              "Link to NFL Spread Betting Guide"
+            ]
+          },
+          {
+            "title": "H3: NFL Moneyline Bets",
+            "keyword": "nfl moneyline betting (800/mo)",
+            "requirements": [
+              "When to bet moneyline vs spread",
+              "FanDuel: 29.1% best underdog prices",
+              "DraftKings: 29.9% best underdog prices (highest)",
+              "Favorite vs underdog pricing"
+            ]
+          },
+          {
+            "title": "H3: NFL Totals (Over/Under)",
+            "keyword": "nfl over under betting (900/mo)",
+            "requirements": [
+              "How totals betting works",
+              "Weather impact on totals",
+              "Best sites for competitive totals lines",
+              "Alternative totals options"
+            ]
+          },
+          {
+            "title": "H3: NFL Futures & Season-Long Bets",
+            "keyword": "nfl futures betting (300/mo)",
+            "requirements": [
+              "Super Bowl winner",
+              "Conference champions",
+              "Division winners",
+              "MVP, Offensive/Defensive Player of Year",
+              "Link to Best NFL Futures Betting Sites page"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "H2: Complete Bonus Terms & Conditions",
+        "word_count": "600-700 words",
+        "requirements": [
+          "CRITICAL: Complete T&Cs for ALL 7 brands (Template 2 requirement)",
+          "FanDuel T&Cs",
+          "BetMGM T&Cs",
+          "DraftKings T&Cs",
+          "Caesars T&Cs",
+          "bet365 T&Cs",
+          "Fanatics T&Cs",
+          "ESPN BET T&Cs",
+          "Include: Wagering requirements, time limits, odds restrictions, eligible bet types, state restrictions, max bet limits"
+        ]
+      },
+      {
+        "section": "H2: How We Test & Rank NFL Betting Sites",
+        "word_count": "500 words",
+        "h3_subsection": {
+          "title": "H3: Withdrawal Methods & Payout Speeds",
+          "keyword": "fastest payout sportsbook nfl (400/mo)",
+          "requirements": [
+            "BetMGM: 2 hours via PayPal/Play+ (fastest)",
+            "FanDuel: 48 hours via PayPal/Play+",
+            "Comparison table of payout speeds by method",
+            "PayPal, Play+, bank transfer, debit card timeframes"
+          ]
+        },
+        "requirements": [
+          "Testing methodology",
+          "Criteria: NFL odds quality, props variety, live betting features, mobile app performance, payout speed, customer support, bonuses",
+          "TIER 1 sources: App Store ratings, Google Play reviews, Reddit user feedback",
+          "Verification process",
+          "Update frequency"
+        ]
+      },
+      {
+        "section": "H2: Alternative NFL Betting Sites",
+        "word_count": "250-300 words",
+        "requirements": [
+          "Brief mentions of other reputable options",
+          "Why they didn't make top 7",
+          "BetRivers, Borgata, etc.",
+          "State-specific alternatives"
+        ]
+      },
+      {
+        "section": "H2: What to Look For in NFL Betting Sites",
+        "word_count": "400 words",
+        "requirements": [
+          "Competitive NFL odds",
+          "Player props variety (40+)",
+          "Same Game Parlay builders",
+          "Live betting and streaming",
+          "Fast payouts",
+          "NFL-specific promotions",
+          "Mobile app quality",
+          "Responsible gambling tools"
+        ]
+      },
+      {
+        "section": "Pros & Cons Summary",
+        "word_count": "300 words",
+        "requirements": [
+          "Quick pros/cons for top 3 brands",
+          "FanDuel, DraftKings, BetMGM",
+          "3-4 pros and 2-3 cons each"
+        ]
+      }
+    ]
+  },
+  "faq_questions": [
+    {
+      "question": "Which is better for NFL betting: FanDuel or DraftKings?",
+      "keyword": "fanduel vs draftkings nfl (500/mo)",
+      "answer_points": [
+        "FanDuel: Best for user experience, SGP builder interface, 4.9/5 app rating",
+        "DraftKings: Best for props variety, Flash Betting, 29.9% best underdog prices",
+        "FanDuel leads in market share and casual bettor satisfaction",
+        "DraftKings offers more extensive markets and props organization",
+        "Both offer competitive odds - recommend having accounts at both for line shopping",
+        "FanDuel better for SGPs, DraftKings better for live betting depth"
+      ],
+      "schema": true
+    },
+    {
+      "question": "Where is NFL betting legal?",
+      "keyword": "nfl betting apps legal states (300/mo)",
+      "answer_points": [
+        "Legal in 30+ states plus DC",
+        "Major states: NY, NJ, PA, IL, MI, CO, AZ, VA, MD, OH, LA, MA, KS, KY, etc.",
+        "All 7 featured sportsbooks available in majority of legal states",
+        "Age requirement: 21+ in most states (18+ in MT, NH, RI, WY, DC)",
+        "List top 10 states with links to state pages",
+        "Not legal: CA, TX, FL, GA (as of November 2025)"
+      ],
+      "schema": true
+    },
+    {
+      "question": "What are the best NFL player prop bets?",
+      "keyword": "nfl player props (6,500/mo)",
+      "answer_points": [
+        "Most popular: Passing yards, rushing yards, receiving yards, touchdowns",
+        "FanDuel offers 40+ props per game with SGP integration",
+        "BetMGM has most props in industry",
+        "DraftKings organizes props by category for easy navigation",
+        "Anytime TD scorer, first TD scorer very popular",
+        "Link to NFL Player Props Guide for strategy"
+      ],
+      "schema": true
+    },
+    {
+      "question": "How do NFL Same Game Parlays work?",
+      "keyword": "nfl same game parlays (1,400/mo)",
+      "answer_points": [
+        "Combine multiple bets from single NFL game into one parlay",
+        "FanDuel has industry-leading SGP builder and interface",
+        "Caesars offers up to 12 legs (most in industry)",
+        "Can mix spreads, totals, player props from same game",
+        "Higher payouts but correlated outcomes",
+        "Use TES Parlay Calculator to estimate payouts"
+      ],
+      "schema": true
+    },
+    {
+      "question": "Which sportsbook has the fastest payouts for NFL betting?",
+      "keyword": "fastest payout sportsbook nfl (400/mo)",
+      "answer_points": [
+        "BetMGM fastest: 2 hours via PayPal/Play+",
+        "FanDuel: 48 hours via PayPal/Play+",
+        "DraftKings: 48-72 hours via PayPal/Play+",
+        "Play+ prepaid card typically fastest method across all sites",
+        "Bank transfers take 3-5 business days",
+        "Debit card withdrawals 1-3 days depending on bank"
+      ],
+      "schema": true
+    },
+    {
+      "question": "What NFL betting promos are available right now?",
+      "keyword": "nfl betting promo codes (3,500/mo)",
+      "answer_points": [
+        "FanDuel: [Current welcome offer]",
+        "BetMGM: Up to $1,500 first bet offer",
+        "DraftKings: [Current welcome offer]",
+        "Caesars: [Current welcome offer]",
+        "bet365: [Current welcome offer]",
+        "Odds boosts and profit boosts during NFL season",
+        "See Complete Bonus T&Cs section for full details"
+      ],
+      "schema": true
+    },
+    {
+      "question": "Can I live bet on NFL games?",
+      "keyword": "nfl live betting (700/mo)",
+      "answer_points": [
+        "Yes - all 7 featured sportsbooks offer NFL live betting",
+        "DraftKings Flash Betting: Bet on every down",
+        "Caesars and bet365: Live streaming integrated",
+        "Live spreads, totals, props update in real-time",
+        "ESPN BET BetVision: Stream and bet on same screen",
+        "Early cash-out available on many live bets",
+        "Link to NFL Live Betting Strategy page"
+      ],
+      "schema": true
+    },
+    {
+      "question": "How do I read NFL betting odds?",
+      "keyword": "nfl betting odds (28,000/mo)",
+      "answer_points": [
+        "American odds format: Negative (-110) = favorite, Positive (+150) = underdog",
+        "Spread: Team must win by more than point spread",
+        "Moneyline: Straight-up winner, no spread",
+        "Totals: Combined score over or under number",
+        "-110 odds = bet $110 to win $100",
+        "+150 odds = bet $100 to win $150",
+        "See Understanding NFL Odds section for detailed explanation"
+      ],
+      "schema": true
+    }
+  ],
+  "source_requirements": {
+    "tier_1_primary": {
+      "required": true,
+      "sources": [
+        "App Store: FanDuel 4.9/5 rating from 1.7M reviews - cite specific",
+        "Google Play: User feedback and ratings for all featured apps",
+        "Reddit: r/sportsbook user discussions and experiences",
+        "Trustpilot: Verified user reviews"
+      ],
+      "usage": "User feedback, app quality assessment, withdrawal experiences"
+    },
+    "tier_2_verification": {
+      "sources": [
+        "Brand official websites: Feature verification only",
+        "State gaming commissions: Legal information",
+        "App Store/Google Play: Feature descriptions"
+      ],
+      "usage": "Feature availability, terms verification"
+    },
+    "tier_3_facts": {
+      "sources": [
+        "Action Network: NFL odds pricing data (Caesars best spread prices)",
+        "Industry publications: Market share data"
+      ],
+      "usage": "Market data, competitive pricing analysis"
+    },
+    "tier_4_sparingly": {
+      "sources": [
+        "Competitor affiliate sites: Research gaps ONLY"
+      ],
+      "forbidden": "NEVER cite for pros/cons, user feedback, or subjective assessments"
+    }
+  },
+  "brands_to_feature": {
+    "position_1": {
+      "brand": "FanDuel",
+      "usp": "Best Overall NFL Betting Experience",
+      "rationale": "#1 US sportsbook by market share, 4.9/5 app rating from 1.7M reviews, industry-leading SGP builder",
+      "best_for": "User experience, Same Game Parlays, mobile interface, casual bettors",
+      "word_count": "500 words"
+    },
+    "position_2": {
+      "brand": "DraftKings",
+      "usp": "Best for NFL Props Variety",
+      "rationale": "29.9% best underdog prices (highest in industry), most extensive NFL markets, props grouped by category",
+      "best_for": "Props variety, Flash Betting, competitive odds, live betting depth",
+      "word_count": "400 words"
+    },
+    "position_3": {
+      "brand": "BetMGM",
+      "usp": "Best for Loyalty Rewards",
+      "rationale": "MGM Rewards integration, more prop bets than competitors, fastest payouts (2 hours)",
+      "best_for": "Props variety, MGM Rewards, Edit My Bet feature, fast payouts",
+      "word_count": "400 words"
+    },
+    "position_4": {
+      "brand": "Caesars",
+      "usp": "Best for Odds Boosts",
+      "rationale": "Best average NFL spread prices, #1 for daily odds boosts frequency, live streaming",
+      "best_for": "Competitive odds, daily boosts, VIP rewards, live streaming",
+      "word_count": "350 words"
+    },
+    "position_5": {
+      "brand": "bet365",
+      "usp": "Best for Live Betting",
+      "rationale": "Sharpest NFL lines, international reputation, live streaming with $1 bet",
+      "best_for": "Live betting depth, sharp lines, live streaming, app performance",
+      "word_count": "350 words"
+    },
+    "position_6": {
+      "brand": "Fanatics",
+      "usp": "Best for FanCash Rewards",
+      "rationale": "Unique FanCash rewards system (up to 10% back), Fair Play Protection, earn NFL gear",
+      "best_for": "Loyalty rewards, alternative lines, injury insurance, merchandise",
+      "word_count": "300 words"
+    },
+    "position_7": {
+      "brand": "ESPN BET",
+      "usp": "Best for Casual Bettors",
+      "rationale": "ESPN integration, FanCenter fantasy links, NFL Power Hour, BetVision streaming",
+      "best_for": "Casual bettors, ESPN fantasy integration, unique features",
+      "word_count": "300 words",
+      "important_note": "REBRANDING to theScore Bet on December 1, 2025 - MUST mention"
+    }
+  },
+  "internal_links": [
+    {
+      "anchor": "FanDuel Sportsbook Review",
+      "url": "https://www.topendsports.com/sport/betting/fanduel-review.htm",
+      "placement": "FanDuel brand section"
+    },
+    {
+      "anchor": "BetMGM Sportsbook Review",
+      "url": "https://www.topendsports.com/sport/betting/betmgm-review.htm",
+      "placement": "BetMGM brand section"
+    },
+    {
+      "anchor": "DraftKings Sportsbook Review",
+      "url": "https://www.topendsports.com/sport/betting/draftkings-review.htm",
+      "placement": "DraftKings brand section"
+    },
+    {
+      "anchor": "NFL Player Props Guide",
+      "url": "https://www.topendsports.com/sport/betting/nfl/props/player-props.htm",
+      "placement": "Player props section"
+    },
+    {
+      "anchor": "NFL Same Game Parlays",
+      "url": "https://www.topendsports.com/sport/betting/nfl/props/same-game-parlays.htm",
+      "placement": "SGP subsection"
+    },
+    {
+      "anchor": "NFL Spread Betting Guide",
+      "url": "https://www.topendsports.com/sport/betting/nfl/spread-betting.htm",
+      "placement": "Spread betting H3"
+    },
+    {
+      "anchor": "NFL Parlay Betting Strategy",
+      "url": "https://www.topendsports.com/sport/betting/nfl/parlays.htm",
+      "placement": "Parlay section"
+    },
+    {
+      "anchor": "NFL Live Betting Strategy",
+      "url": "https://www.topendsports.com/sport/betting/nfl/live-betting.htm",
+      "placement": "Live betting section"
+    },
+    {
+      "anchor": "Best NFL Futures Betting Sites",
+      "url": "https://www.topendsports.com/sport/betting/nfl/futures/index.htm",
+      "placement": "Futures H3"
+    },
+    {
+      "anchor": "Parlay Calculator",
+      "url": "https://www.topendsports.com/sport/betting-tools/parlay-calculator.htm",
+      "placement": "Parlay section - PROMINENT LINK"
+    },
+    {
+      "anchor": "Best Sportsbook Bonuses & Promos",
+      "url": "https://www.topendsports.com/sport/betting/best-bonuses.htm",
+      "placement": "Promo codes section"
+    },
+    {
+      "anchor": "How to Bet on NFL Games",
+      "url": "https://www.topendsports.com/sport/betting/nfl/how-to-bet-nfl.htm",
+      "placement": "How to bet section"
+    }
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ in MT, NH, RI, WY, DC)",
+    "gambling_hotline": "1-800-522-4700",
+    "affiliate_disclosure": "Required in introduction (50-75 words)",
+    "responsible_gambling_section": "Required H2 at bottom of page",
+    "state_availability": "Must note state restrictions and availability",
+    "forbidden_language": [
+      "Guaranteed wins",
+      "Can't lose",
+      "Risk-free",
+      "Beat the house"
+    ]
+  },
+  "technical_requirements": [
+    "Sortable/filterable comparison table (7 brands x 8 criteria)",
+    "Last Updated badge with current date after H1",
+    "FAQPage schema markup for all 8 FAQ questions",
+    "Article schema markup",
+    "Breadcrumb schema",
+    "Quick Answer Box (100 words max)",
+    "Comparison table before main content",
+    "CTA buttons for all 7 brands"
+  ],
+  "self_check": {
+    "writer_assigned": "Lewis Humphries - CONFIRMED",
+    "template_identified": "Template 2 - Comparison Page - CONFIRMED",
+    "h2_h3_optimized": "ALL 14 secondary keywords mapped to sections - CONFIRMED",
+    "faq_targets_searches": "8 FAQ questions targeting high-volume keywords - CONFIRMED",
+    "intro_format_specified": "100-150 words, direct answer first, affiliate disclosure - CONFIRMED",
+    "source_requirements_specified": "TIER 1: App Store 4.9/5 FanDuel rating, Reddit, Google Play - CONFIRMED",
+    "brand_rationale_included": "All 7 brands with USP and rationale from Phase 1 - CONFIRMED",
+    "internal_links_listed": "12 internal links specified - CONFIRMED",
+    "meta_keywords_provided": "16 keywords compiled - CONFIRMED",
+    "no_dated_language_h1": "H1 is timeless: 'Best NFL Betting Sites: Top Sportsbooks for Football' - CONFIRMED",
+    "complete_tcs_all_brands": "Complete T&Cs section for all 7 brands specified - CONFIRMED"
+  }
+}

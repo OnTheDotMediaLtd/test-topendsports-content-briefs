@@ -1,0 +1,269 @@
+{
+  "page_name": "canada-betting-hub",
+  "url": "https://www.topendsports.com/sport/betting/canada/index.htm",
+  "market": "Canada",
+  "writer": "Lewis Humphries",
+  "priority": "Critical",
+  "primary_keyword": {
+    "keyword": "sports betting canada",
+    "volume": 2300,
+    "difficulty": 84,
+    "traffic_potential": 22000
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "sports betting ontario",
+      "volume": 1100,
+      "difficulty": 82,
+      "placement": "H2 - Ontario vs Non-Ontario Betting"
+    },
+    {
+      "keyword": "online betting canada",
+      "volume": 1000,
+      "difficulty": 83,
+      "placement": "H2 - How Online Betting Works in Canada"
+    },
+    {
+      "keyword": "canadian betting sites",
+      "volume": 800,
+      "difficulty": 82,
+      "placement": "H2 - Top Canadian Betting Sites Ranked"
+    },
+    {
+      "keyword": "best sports betting apps canada",
+      "volume": 700,
+      "difficulty": 60,
+      "placement": "H2 - Best Sports Betting Apps Canada"
+    },
+    {
+      "keyword": "online sports betting canada",
+      "volume": 700,
+      "difficulty": 84,
+      "placement": "H3 - Getting Started with Online Sports Betting"
+    },
+    {
+      "keyword": "best betting sites canada",
+      "volume": 700,
+      "difficulty": 76,
+      "placement": "H2 - What Makes a Betting Site the Best?"
+    },
+    {
+      "keyword": "canada sports betting",
+      "volume": 700,
+      "difficulty": 81,
+      "placement": "H3 - Popular Sports for Betting in Canada"
+    },
+    {
+      "keyword": "best online betting sites canada",
+      "volume": 600,
+      "difficulty": 78,
+      "placement": "H3 - Evaluating Online Betting Sites"
+    },
+    {
+      "keyword": "betting apps canada",
+      "volume": 500,
+      "difficulty": 75,
+      "placement": "H3 - Mobile Betting Apps Features"
+    },
+    {
+      "keyword": "sports betting sites canada",
+      "volume": 500,
+      "difficulty": 83,
+      "placement": "H3 - Licensed vs Offshore Sites"
+    },
+    {
+      "keyword": "is sports betting legal in canada",
+      "volume": 350,
+      "difficulty": 72,
+      "placement": "FAQ - Is sports betting legal in Canada?"
+    },
+    {
+      "keyword": "best canadian sportsbooks",
+      "volume": 350,
+      "difficulty": 76,
+      "placement": "H3 - Canadian Sportsbook Selection Criteria"
+    },
+    {
+      "keyword": "betting websites canada",
+      "volume": 250,
+      "difficulty": 84,
+      "placement": "Natural mentions throughout"
+    },
+    {
+      "keyword": "how to bet on sports in canada",
+      "volume": 200,
+      "difficulty": 82,
+      "placement": "FAQ - How do I start betting on sports in Canada?"
+    },
+    {
+      "keyword": "sports gambling canada",
+      "volume": 200,
+      "difficulty": 82,
+      "placement": "H3 - Sports Gambling Regulations"
+    },
+    {
+      "keyword": "top betting sites canada",
+      "volume": 200,
+      "difficulty": 72,
+      "placement": "Natural mentions in intro"
+    },
+    {
+      "keyword": "sports betting canada legal",
+      "volume": 150,
+      "difficulty": 75,
+      "placement": "FAQ - What are Canada's sports betting laws?"
+    },
+    {
+      "keyword": "canada betting apps",
+      "volume": 150,
+      "difficulty": 78,
+      "placement": "Natural mentions in app section"
+    }
+  ],
+  "branded_keywords": [
+    {
+      "keyword": "lucky7even",
+      "volume": 1600,
+      "brand": "Lucky7even",
+      "placement": "Lucky7even brand section"
+    },
+    {
+      "keyword": "funbet",
+      "volume": 500,
+      "brand": "Funbet",
+      "placement": "Funbet brand section"
+    },
+    {
+      "keyword": "legendplay",
+      "volume": 250,
+      "brand": "Legendplay",
+      "placement": "Legendplay brand section"
+    },
+    {
+      "keyword": "wyns casino",
+      "volume": 150,
+      "brand": "Wyns",
+      "placement": "Wyns brand section"
+    },
+    {
+      "keyword": "royalistplay",
+      "volume": 100,
+      "brand": "Royalistplay",
+      "placement": "Royalistplay brand section"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Treasure Spins",
+      "position": 1,
+      "rationale": "Position #1 locked - commercial deal. Offshore operator targeting Canadian players outside Ontario. Strong welcome bonuses and crypto payment options."
+    },
+    {
+      "name": "Royalistplay",
+      "position": 2,
+      "rationale": "Position #2 locked - commercial deal. Established offshore brand with 100 monthly searches. Wide sports coverage and competitive odds."
+    },
+    {
+      "name": "Lucky7even",
+      "position": 3,
+      "rationale": "Highest search volume (1,600/mo) among Canada brands. Strong brand recognition in offshore Canadian market. Comprehensive sportsbook with casino integration."
+    },
+    {
+      "name": "Funbet",
+      "position": 4,
+      "rationale": "Second-highest search volume (500/mo). Modern platform with strong mobile experience. Popular among Canadian bettors based on brand search demand."
+    },
+    {
+      "name": "Legendplay",
+      "position": 5,
+      "rationale": "Third-highest search volume (250/mo). Established presence in Canadian market with diverse betting options."
+    },
+    {
+      "name": "Wyns",
+      "position": 6,
+      "rationale": "150/mo search volume. Growing offshore operator with focus on Canadian market. Strong casino and sports integration."
+    },
+    {
+      "name": "Festival Play",
+      "position": 7,
+      "rationale": "Emerging offshore operator targeting Canadian market. Competitive odds and generous bonuses attract Canadian players."
+    },
+    {
+      "name": "Lizaro",
+      "position": 8,
+      "rationale": "New entrant in Canadian offshore market. Crypto-friendly platform appealing to privacy-conscious Canadian bettors."
+    },
+    {
+      "name": "DirectionBet",
+      "position": 9,
+      "rationale": "Offshore operator with Canadian-specific promotions. Alternative for players outside regulated provinces."
+    }
+  ],
+  "competitors_analyzed": [
+    {
+      "domain": "canadasportsbetting.ca",
+      "position": 1,
+      "domain_rating": 54,
+      "traffic": 22416,
+      "word_count": 8500,
+      "brand_count": 10,
+      "key_sections": [
+        "Top betting sites comparison table",
+        "Individual brand reviews with ratings",
+        "Ontario vs non-Ontario explanation",
+        "Payment methods section",
+        "Mobile betting guide",
+        "Provincial regulations",
+        "FAQs (12+)"
+      ]
+    },
+    {
+      "domain": "legalsportsreport.com/betting-sites/canada/",
+      "position": 3,
+      "domain_rating": null,
+      "traffic": null,
+      "word_count": 7000,
+      "brand_count": 8,
+      "key_sections": [
+        "Comprehensive legal overview",
+        "Province-by-province breakdown",
+        "Licensed vs offshore comparison",
+        "Brand reviews",
+        "Betting guides",
+        "News and updates"
+      ]
+    },
+    {
+      "domain": "calgary2026.ca",
+      "position": 8,
+      "domain_rating": 33,
+      "traffic": 4299,
+      "word_count": 6000,
+      "brand_count": 7,
+      "key_sections": [
+        "Best bonuses comparison",
+        "Quick brand reviews",
+        "Payment options",
+        "Getting started guide",
+        "FAQs (8)"
+      ]
+    }
+  ],
+  "content_gaps": [
+    "Most competitors focus heavily on Ontario regulated market - opportunity to better serve non-Ontario Canadian players",
+    "Limited coverage of crypto payment options popular with offshore sites",
+    "Shallow mobile experience reviews - opportunity for detailed app UX analysis",
+    "Missing comparison of offshore vs provincial operators with clear pros/cons",
+    "No interactive comparison tools or calculators",
+    "Limited discussion of banking options specific to Canadian players (Interac, e-transfers)",
+    "Insufficient coverage of popular Canadian sports (CFL, NHL focus)",
+    "Missing provincial-specific betting information beyond Ontario",
+    "No discussion of responsible gambling resources specific to Canada",
+    "Limited discussion of cryptocurrency betting options"
+  ],
+  "total_search_volume": 10350,
+  "volume_increase_percent": 350,
+  "target_word_count": 9000,
+  "template_type": 2,
+  "compliance_notes": "Canada-specific: Legal age varies by province (18+ in AB, MB, QC; 19+ in most others). Focus on offshore operators for non-Ontario market. Must address provincial regulations."
+}

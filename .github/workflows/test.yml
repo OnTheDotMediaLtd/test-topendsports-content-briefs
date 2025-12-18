@@ -69,6 +69,7 @@ jobs:
 
       - name: Run pytest
         run: |
+          export PYTHONPATH="${PYTHONPATH}:${PWD}/tests/python"
           pytest tests/python/ -v --tb=short
         continue-on-error: false
 
@@ -104,25 +105,25 @@ jobs:
             mkdir -p tests/shell
 
             # Create a basic test to verify scripts exist and are executable
-            cat > tests/shell/basic.bats << 'EOF'
-#!/usr/bin/env bats
-
-@test "ahrefs-api.py exists and is executable" {
-  [ -x ".claude/scripts/ahrefs-api.py" ]
-}
-
-@test "validate-phase.sh exists and is executable" {
-  [ -x "content-briefs-skill/scripts/validate-phase.sh" ]
-}
-
-@test "mcp-ahrefs.sh exists and is executable" {
-  [ -x ".claude/scripts/mcp-ahrefs.sh" ]
-}
-
-@test "Shell scripts have proper shebang" {
-  grep -q "#!/bin/bash" .claude/scripts/mcp-ahrefs.sh
-}
-EOF
+            {
+              echo '#!/usr/bin/env bats'
+              echo ''
+              echo '@test "ahrefs-api.py exists and is executable" {'
+              echo '  [ -x ".claude/scripts/ahrefs-api.py" ]'
+              echo '}'
+              echo ''
+              echo '@test "validate-phase.sh exists and is executable" {'
+              echo '  [ -x "content-briefs-skill/scripts/validate-phase.sh" ]'
+              echo '}'
+              echo ''
+              echo '@test "mcp-ahrefs.sh exists and is executable" {'
+              echo '  [ -x ".claude/scripts/mcp-ahrefs.sh" ]'
+              echo '}'
+              echo ''
+              echo '@test "Shell scripts have proper shebang" {'
+              echo '  grep -q "#!/bin/bash" .claude/scripts/mcp-ahrefs.sh'
+              echo '}'
+            } > tests/shell/basic.bats
 
             bats tests/shell/basic.bats
           fi

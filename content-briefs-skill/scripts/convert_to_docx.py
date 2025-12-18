@@ -166,6 +166,10 @@ def parse_markdown_to_docx(markdown_text, output_path):
         # Block quotes
         elif line.strip().startswith('>'):
             text = line.strip()[1:].strip()
+            # Skip empty blockquotes (used for paragraph breaks in multi-line quotes)
+            if not text:
+                i += 1
+                continue
             p = doc.add_paragraph(text)
             p.paragraph_format.left_indent = Inches(0.5)
             p.paragraph_format.space_before = Pt(6)

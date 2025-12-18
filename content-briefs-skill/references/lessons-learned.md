@@ -172,6 +172,114 @@ Example: No loyalty program when competitors all have
 
 🚩 **Outdated feel** → Didn't check 2025 updates
 
+🚩 **File count doesn't match expected** → Silent phase failure in batch
+
+🚩 **Phase 3 took >5 min without output** → Likely token limit exceeded
+
+🚩 **File names don't match pattern** → Naming inconsistency breaks automation
+
+---
+
+## Batch Generation Learnings
+
+**Added:** December 15, 2025 (44-brief batch for UK, Ireland, Canada)
+
+### Lesson 1: File Naming Must Be Deterministic
+
+**Problem:** Inconsistent naming between phases breaks automation.
+
+**Root Cause:** Phase 3 used dynamic name construction instead of inheriting from Phase 1.
+
+**Example of Problem:**
+```
+✗ Phase 1: ireland-wonder-luck-review-phase1.json
+✗ Phase 2: ireland-wonder-luck-review-phase2.json
+✗ Phase 3: ireland-wonder-luck-sportsbook-review-ai-enhancement.md  ← MISMATCH
+```
+
+**Rule:** Establish base name in Phase 1, use EXACT same base across all phases:
+```
+✓ ireland-wonder-luck-review-phase1.json
+✓ ireland-wonder-luck-review-phase2.json
+✓ ireland-wonder-luck-review-ai-enhancement.md
+```
+
+### Lesson 2: Silent Failures in Batch Processing
+
+**Problem:** UK 22bet Phase 3 was skipped without error notification.
+
+**Impact:** Incomplete deliverables discovered only during manual audit.
+
+**Solution:** After each batch wave, verify expected file count:
+```
+expected_files=5  # phase1.json, phase2.json, 3x markdown
+actual_files=$(ls ${page_name}* | wc -l)
+if [ $actual_files -ne $expected_files ]; then HALT fi
+```
+
+### Lesson 3: Token Limits in Phase 3
+
+**Problem:** Large briefs (7+ brands, 12+ keywords) can exceed token limits.
+
+**Trigger Conditions:**
+- 7+ brands in comparison
+- 12+ secondary keywords
+- Comprehensive T&Cs for all brands
+
+**Proactive Detection:** If brands ≥ 7 OR (brands ≥ 5 AND keywords ≥ 12) → use Haiku model
+
+### Lesson 4: Writer Briefs Must Not Include Phase 3 Tasks
+
+**Problem:** Some writer briefs asked writers to create "mobile-responsive" or "sortable" tables.
+
+**Rule:** Writer briefs should:
+- ✓ Describe WHAT content goes in the table
+- ✓ Specify data accuracy requirements
+- ✓ Note that "Phase 3 will handle formatting/interactivity"
+- ✗ Never mention CSS, responsive design, JavaScript functionality
+
+### Lesson 5: Ahrefs MCP Reliability
+
+**Status:** SOLVED - Python fallback is reliable
+
+**Best Practice:** Try MCP first, immediately fallback to Python script on 403:
+```bash
+python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview '{...}'
+```
+
+### Lesson 6: Keyword Cannibalization Prevention
+**Added:** December 15, 2025
+
+**Problem:** Hub pages were targeting keywords that belonged to dedicated pages (e.g., uk-betting-hub targeting "betting apps" when uk-betting-apps page exists).
+
+**Impact:** Multiple pages competing for same keywords hurts SEO rankings for all pages.
+
+**Rule:** Each page type owns specific keyword clusters:
+- **Hub pages** → Navigation only, link to dedicated pages, NO keyword targeting
+- **Betting Apps page** → "betting apps", "mobile betting", "download app"
+- **Betting Offers page** → "betting offers", "welcome bonus", "sign up bonus"
+- **Free Bets page** → "free bets", "no deposit", "risk-free bet"
+- **Football Betting page** → "football betting", "football betting sites"
+- **Horse Racing page** → "horse racing betting", "horse racing sites"
+- **New Betting Sites page** → "new betting sites", "new bookmakers"
+- **Sports Betting Sites page** → "sports betting", "sportsbook"
+
+**Prevention:** Before adding keywords to a brief:
+1. Check if keyword belongs to another dedicated page
+2. If yes, DO NOT add it - link to that page instead
+3. Hub pages should have minimal keywords, mostly navigation
+
+---
+
+## Batch Generation Validation Checklist
+
+- [ ] Established consistent base name for all files
+- [ ] Estimated token usage for Phase 3
+- [ ] Selected appropriate model (Sonnet vs Haiku based on size)
+- [ ] Verified file count after each wave
+- [ ] Writer briefs contain NO Phase 3 technical language
+- [ ] Quality gate run after generation (lint + placeholder check)
+
 ---
 
 ## When in Doubt
@@ -196,3 +304,83 @@ Example: No loyalty program when competitors all have
 **Competitor Gap Unclear**
 → Default: Calculator, 7 FAQs, Comparison table
 → These are always improvements
+
+---
+
+## V3 Standard Lessons (December 2025)
+
+**Added:** December 18, 2025
+**Source:** User feedback on Ireland Betting Hub brief quality comparison
+
+### Lesson V3-1: Keyword Volume Totals for Verification
+
+**Problem:** Writers had no way to verify all keywords were mapped correctly.
+
+**Solution:** Always include a sum total of secondary keyword volumes:
+```
+**✅ VERIFICATION:**
+- Unmapped Keywords: NONE
+- Total Secondary Volume: 2,960/mo
+- Cluster Increase: 658% over primary (450/mo)
+```
+
+**Why it matters:** Writers can cross-check the sum against Phase 1 research to catch mapping errors.
+
+### Lesson V3-2: Exact Internal Link Placement
+
+**Problem:** "Link within first 500 words" is too vague - writers don't know which section.
+
+**Solution:** Map every internal link to a specific section:
+```
+| # | Anchor Text | Target URL | Exact Placement Section |
+|---|-------------|------------|-------------------------|
+| 1 | best betting apps ireland | /ireland/betting-apps.htm | Introduction (paragraph 2) |
+| 2 | free bets ireland | /ireland/free-bets.htm | Quick Answer Box |
+```
+
+**Why it matters:** Precise placement improves user flow and ensures consistent link architecture.
+
+### Lesson V3-3: Competitor URLs as Research Benchmarks
+
+**Problem:** Writers had no competitive reference points for content depth.
+
+**Solution:** Include 2-3 competitor URLs with notes on what to observe:
+```
+| Competitor | URL | What to Note |
+|------------|-----|--------------|
+| Action Network | https://actionnetwork.com/betting/ireland | H2 structure |
+| Covers | https://covers.com/betting/ireland | FAQ count |
+```
+
+**Why it matters:** Writers can calibrate their content depth against real competitors.
+
+### Lesson V3-4: Mobile Section Cannibalization Prevention
+
+**Problem:** Hub pages with 10 brands × 100-200 words mobile = 1,000-2,000 words competing with `/betting-apps.htm`.
+
+**Solution:** Different mobile word limits by page type:
+- Hub pages: 75-100 words/brand (overview only)
+- Comparison pages: 100-150 words/brand
+- Review pages: 150-200 words total
+
+**Why it matters:** Prevents internal competition between hub and dedicated app pages.
+
+### Lesson V3-5: E-E-A-T Author Requirements
+
+**Problem:** No author information specified for YMYL gambling content.
+
+**Solution:** Every brief must include:
+- Author name (assigned writer)
+- Author credentials
+- Author bio link format
+
+**Why it matters:** Google YMYL guidelines require clear authorship for gambling content.
+
+---
+
+## V3 Standard Reference
+
+For complete V3 requirements, see:
+- `references/phase2-writer.md` (Steps 6A-6E)
+- `references/quality-checklist.md` (V3 Mandatory Checks)
+- `references/hub-page-strategy.md` (Mobile Section Anti-Cannibalization)

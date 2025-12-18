@@ -1,0 +1,415 @@
+{
+  "page_info": {
+    "url": "/sport/betting/uk/myriadplay-review.htm",
+    "page_name": "uk-myriadplay-review",
+    "page_title": "Myriadplay Sport Review",
+    "market": "UK",
+    "writer": "Tom Goldsmith",
+    "priority": "High",
+    "status": "PHASE 1",
+    "category": "UK Brand #4",
+    "template": "1 (Review)",
+    "letter_badge": "MYR",
+    "badge_color": "#9C27B0"
+  },
+  "primary_keyword": {
+    "keyword": "myriadplay sport",
+    "volume": 250,
+    "difficulty": 0,
+    "traffic_potential": null,
+    "intent": "navigational/informational",
+    "source": "site_structure"
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "myriad play",
+      "volume": 150,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Introduction/Overview",
+      "rationale": "Brand name variation with significant search volume"
+    },
+    {
+      "keyword": "myriad play casino",
+      "volume": 90,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Casino & Gaming Options",
+      "rationale": "Related product offering, cross-sell opportunity"
+    },
+    {
+      "keyword": "myriad play review",
+      "volume": 60,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Complete Review Overview",
+      "rationale": "Direct review intent keyword"
+    },
+    {
+      "keyword": "myriadplay review",
+      "volume": 30,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Expert Review",
+      "rationale": "Branded review search variation"
+    },
+    {
+      "keyword": "myriadplay bonus",
+      "volume": 25,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Welcome Offer & Bonuses",
+      "rationale": "High-intent bonus seekers"
+    },
+    {
+      "keyword": "myriadplay uk",
+      "volume": 20,
+      "difficulty": null,
+      "placement": "Natural",
+      "section": "Throughout content",
+      "rationale": "Geographic qualifier for UK market"
+    },
+    {
+      "keyword": "myriadplay sports",
+      "volume": 15,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Sports Coverage & Markets",
+      "rationale": "Sports betting focus keyword"
+    },
+    {
+      "keyword": "myriadplay app",
+      "volume": 15,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Mobile Experience",
+      "rationale": "Mobile users seeking app information"
+    },
+    {
+      "keyword": "myriadplay casino",
+      "volume": 10,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Casino Features",
+      "rationale": "Casino product variation"
+    },
+    {
+      "keyword": "is myriadplay legit",
+      "volume": 10,
+      "difficulty": null,
+      "placement": "FAQ",
+      "section": "FAQ: Is Myriadplay Legit and Safe?",
+      "rationale": "Trust/safety question format"
+    },
+    {
+      "keyword": "myriadplay withdrawal",
+      "volume": 8,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Payment Methods & Withdrawals",
+      "rationale": "Important user concern about cashouts"
+    },
+    {
+      "keyword": "myriadplay free bet",
+      "volume": 8,
+      "difficulty": null,
+      "placement": "FAQ",
+      "section": "FAQ: How to Claim Free Bet",
+      "rationale": "Bonus/promotion seeker"
+    },
+    {
+      "keyword": "myriadplay promo code",
+      "volume": 5,
+      "difficulty": null,
+      "placement": "FAQ",
+      "section": "FAQ: Do I Need a Promo Code?",
+      "rationale": "Promo code intent"
+    },
+    {
+      "keyword": "myriadplay login",
+      "volume": 5,
+      "difficulty": null,
+      "placement": "H3",
+      "section": "Account Registration & Login",
+      "rationale": "User journey keyword"
+    },
+    {
+      "keyword": "myriadplay sportsbook",
+      "volume": 5,
+      "difficulty": null,
+      "placement": "H2",
+      "section": "Sportsbook Features",
+      "rationale": "Product-specific keyword"
+    }
+  ],
+  "keyword_cluster_summary": {
+    "total_keywords": 15,
+    "primary_volume": 250,
+    "secondary_total_volume": 414,
+    "combined_volume": 664,
+    "volume_increase_percentage": "166%",
+    "h2_keywords": 7,
+    "h3_keywords": 4,
+    "faq_keywords": 3,
+    "natural_keywords": 1
+  },
+  "brand_info": {
+    "brand_name": "Myriadplay",
+    "operator": "AG Communications Limited",
+    "headquarters": "Malta",
+    "launch_date": "June 2024",
+    "uk_license": "UK Gambling Commission #39483",
+    "mga_license": "C4328",
+    "age_requirement": "18+",
+    "welcome_offer": {
+      "sports": "Bet £15 Get £10 Free Bet",
+      "terms": "Min. deposit £10, max one £10 free bet, min turnover £15, odds 1/1 (2.00)+, Skrill/Neteller excluded, no wagering on winnings"
+    },
+    "key_features": [
+      "50+ sports offered",
+      "Cash Out functionality",
+      "Bet Builder available",
+      "Acca Boost up to 77%",
+      "Strong esports coverage",
+      "Excellent US sports markets"
+    ],
+    "payment_methods": [
+      "Visa",
+      "Mastercard",
+      "PayPal",
+      "Neteller",
+      "Skrill",
+      "Trustly",
+      "AstroPay",
+      "Paysafecard",
+      "MuchBetter"
+    ],
+    "withdrawal_time": "2 working days average",
+    "mobile_app": "No dedicated app - mobile web only",
+    "cons": [
+      "No ongoing promotions for existing players",
+      "No mobile app",
+      "No live chat support",
+      "New brand (limited track record)"
+    ]
+  },
+  "competitor_analysis": {
+    "competitors_analyzed": [
+      {
+        "domain": "betting.co.uk",
+        "url": "/reviews/myriadplay/",
+        "rank_estimate": "Top 5",
+        "estimated_word_count": 2500,
+        "brands_covered": 1,
+        "key_sections": [
+          "Welcome Offer",
+          "Sports Markets",
+          "Payment Methods",
+          "Mobile Experience",
+          "Pros & Cons",
+          "FAQ"
+        ],
+        "strengths": "Comprehensive payment methods coverage, detailed bonus terms",
+        "gaps": "Limited sports market depth, basic FAQ section"
+      },
+      {
+        "domain": "playright.co.uk",
+        "url": "/betting/reviews/myriadplay/",
+        "rank_estimate": "Top 10",
+        "estimated_word_count": 2200,
+        "brands_covered": 1,
+        "key_sections": [
+          "Overview",
+          "Odds & Markets",
+          "Features",
+          "User Ratings"
+        ],
+        "strengths": "User rating integration, odds comparison",
+        "gaps": "Lacks detailed payment info, minimal FAQ"
+      },
+      {
+        "domain": "newbettingsites.uk",
+        "url": "/myriadplay",
+        "rank_estimate": "Top 10",
+        "estimated_word_count": 1800,
+        "brands_covered": 1,
+        "key_sections": [
+          "New Site Overview",
+          "Welcome Bonus",
+          "Sports Coverage",
+          "Sign-up Process"
+        ],
+        "strengths": "New brand positioning, simple sign-up walkthrough",
+        "gaps": "Thin content, limited feature depth"
+      }
+    ],
+    "competitor_insights": {
+      "average_word_count": 2167,
+      "common_sections": [
+        "Welcome Offer/Bonus",
+        "Sports Markets Coverage",
+        "Payment Methods",
+        "Mobile Experience",
+        "Pros & Cons",
+        "FAQ (3-5 questions)"
+      ],
+      "missing_elements": [
+        "Detailed responsible gambling section",
+        "Comparison with UK competitors",
+        "Step-by-step bet placement guide",
+        "Acca Boost feature explanation",
+        "Esports coverage detail",
+        "Cash Out feature walkthrough"
+      ]
+    }
+  },
+  "content_gaps": [
+    {
+      "gap": "Limited FAQ coverage (competitors have 3-5, we should have 7-10)",
+      "opportunity": "Target long-tail question keywords with comprehensive FAQ"
+    },
+    {
+      "gap": "No detailed Acca Boost explanation",
+      "opportunity": "Dedicated section explaining 77% boost feature"
+    },
+    {
+      "gap": "Weak esports coverage despite strong offering",
+      "opportunity": "H3 section on esports betting options"
+    },
+    {
+      "gap": "No comparison with established UK brands",
+      "opportunity": "Quick comparison table (Myriadplay vs Bet365/Paddy Power)"
+    },
+    {
+      "gap": "Missing new bettor guidance",
+      "opportunity": "Step-by-step first bet walkthrough"
+    },
+    {
+      "gap": "No calculator or interactive elements",
+      "opportunity": "Link to odds calculator and acca calculator"
+    },
+    {
+      "gap": "Limited payment method detail",
+      "opportunity": "Comprehensive payment comparison table with limits and fees"
+    }
+  ],
+  "strategic_direction": [
+    "Position as credible new UK brand with AG Global backing",
+    "Emphasize 50+ sports and strong esports offering",
+    "Highlight Acca Boost (77%) as key differentiator",
+    "Address 'is it legit?' concerns with license and operator info",
+    "Target mobile users with mobile-optimized content (no app, but great mobile web)",
+    "Build trust through detailed payment and withdrawal information",
+    "Leverage comparison angle with established brands to show competitive positioning"
+  ],
+  "internal_links": [
+    {
+      "anchor": "best UK betting sites",
+      "url": "/sport/betting/uk/best-betting-sites.htm",
+      "rationale": "Contextual comparison opportunity"
+    },
+    {
+      "anchor": "best new betting sites UK",
+      "url": "/sport/betting/uk/new-betting-sites.htm",
+      "rationale": "Myriadplay is a 2024 new entrant"
+    },
+    {
+      "anchor": "Bet365 review",
+      "url": "/sport/betting/uk/bet365-review.htm",
+      "rationale": "Comparison with market leader"
+    },
+    {
+      "anchor": "best betting apps UK",
+      "url": "/sport/betting/uk/best-betting-apps.htm",
+      "rationale": "Discuss mobile web vs apps"
+    },
+    {
+      "anchor": "free bets UK",
+      "url": "/sport/betting/uk/free-bets.htm",
+      "rationale": "Bonus/promotion context"
+    },
+    {
+      "anchor": "PayPal betting sites",
+      "url": "/sport/betting/uk/paypal-betting-sites.htm",
+      "rationale": "Myriadplay accepts PayPal"
+    },
+    {
+      "anchor": "esports betting sites",
+      "url": "/sport/betting/esports-betting-sites.htm",
+      "rationale": "Strong esports offering"
+    },
+    {
+      "anchor": "accumulator betting",
+      "url": "/sport/betting/accumulator-betting.htm",
+      "rationale": "Acca Boost feature relevance"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/odds-calculator.htm",
+      "rationale": "Interactive tool for users"
+    },
+    {
+      "anchor": "accumulator calculator",
+      "url": "/sport/betting/accumulator-calculator.htm",
+      "rationale": "Relevant to Acca Boost feature"
+    },
+    {
+      "anchor": "how to withdraw from betting sites",
+      "url": "/sport/betting/how-to-withdraw.htm",
+      "rationale": "Payment/withdrawal guidance"
+    },
+    {
+      "anchor": "responsible gambling UK",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "rationale": "Compliance and safety"
+    }
+  ],
+  "technical_requirements": [
+    "Last Updated badge (set to December 2025)",
+    "Letter badge MYR with color #9C27B0",
+    "Affiliate disclosure in introduction",
+    "Payment methods comparison table",
+    "Quick facts box (license, launch date, welcome offer, age limit)",
+    "Pros & Cons cards with citations",
+    "Acca Boost explanation with example calculation",
+    "Mobile experience screenshots/description",
+    "FAQ schema markup for 7-10 questions",
+    "Breadcrumb schema",
+    "Article schema",
+    "Responsible gambling section (18+, BeGambleAware)",
+    "Calculator tool links (odds, acca)"
+  ],
+  "compliance": {
+    "age_requirement": "18+ (UK standard)",
+    "gambling_commission_license": "Required - #39483",
+    "responsible_gambling_resources": [
+      "BeGambleAware.org",
+      "GamCare",
+      "UK Gambling Commission"
+    ],
+    "affiliate_disclosure": "Required in introduction",
+    "t_and_c_links": "Must link to official Myriadplay T&Cs"
+  },
+  "word_count_target": {
+    "target": 2500,
+    "rationale": "Match/exceed competitor average of 2167 words for single brand review",
+    "breakdown": {
+      "introduction": 200,
+      "welcome_offer": 300,
+      "sports_markets": 400,
+      "mobile_experience": 250,
+      "payment_methods": 300,
+      "features": 350,
+      "pros_cons": 200,
+      "faq": 350,
+      "responsible_gambling": 150
+    }
+  },
+  "metadata": {
+    "created_date": "2025-12-15",
+    "phase": 1,
+    "ahrefs_data_source": "Python API",
+    "research_time": "20 minutes",
+    "next_phase": "Phase 2 - Writer Brief Creation"
+  }
+}

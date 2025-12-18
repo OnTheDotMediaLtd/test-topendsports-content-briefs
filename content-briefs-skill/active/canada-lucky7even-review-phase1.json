@@ -1,0 +1,404 @@
+{
+  "page_name": "canada-lucky7even-review",
+  "url": "/sport/betting/canada/lucky7even-review.htm",
+  "title": "Lucky7even Sport Review",
+  "primary_keyword": "lucky7even sport",
+  "primary_keyword_volume": 0,
+  "market": "canada",
+  "country_code": "ca",
+  "writer": "Tom Goldsmith",
+  "priority": "High",
+  "template": 1,
+  "template_name": "Brand Review",
+  "word_count_target": "3500-4000",
+  "age_requirement": "19+ (varies by province: 18+ in AB, MB, QC)",
+  "responsible_gambling_hotline": "1-866-531-2600 (Canada)",
+  "keywords": [
+    {
+      "keyword": "lucky7even",
+      "volume": 1600,
+      "difficulty": 14,
+      "traffic_potential": 2600,
+      "placement": "H2",
+      "target_section": "About Lucky7even"
+    },
+    {
+      "keyword": "lucky7even casino",
+      "volume": 800,
+      "difficulty": 35,
+      "traffic_potential": 2400,
+      "placement": "H2",
+      "target_section": "Lucky7even Casino & Sports Offerings"
+    },
+    {
+      "keyword": "lucky7even casino review",
+      "volume": 90,
+      "difficulty": 13,
+      "traffic_potential": 200,
+      "placement": "H2",
+      "target_section": "Complete Lucky7even Review"
+    },
+    {
+      "keyword": "lucky7even no deposit bonus codes",
+      "volume": 90,
+      "difficulty": 32,
+      "traffic_potential": 10,
+      "placement": "H2",
+      "target_section": "Welcome Bonus & Promotions"
+    },
+    {
+      "keyword": "lucky7even casino no deposit bonus",
+      "volume": 90,
+      "difficulty": 35,
+      "traffic_potential": 10,
+      "placement": "H3",
+      "target_section": "No Deposit Bonus Details"
+    },
+    {
+      "keyword": "lucky7even bonus code",
+      "volume": 80,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "H3",
+      "target_section": "Promo Code Requirements"
+    },
+    {
+      "keyword": "lucky7even no deposit bonus",
+      "volume": 80,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "H3",
+      "target_section": "Bonus Analysis"
+    },
+    {
+      "keyword": "lucky7even app",
+      "volume": 70,
+      "difficulty": 11,
+      "traffic_potential": 40,
+      "placement": "H2",
+      "target_section": "Mobile App Experience"
+    },
+    {
+      "keyword": "lucky7even bonus codes",
+      "volume": 70,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "H3",
+      "target_section": "Active Bonus Codes"
+    },
+    {
+      "keyword": "lucky7even promo code",
+      "volume": 50,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "FAQ",
+      "target_section": "Do I need a promo code?"
+    },
+    {
+      "keyword": "lucky7even review",
+      "volume": 30,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "H1",
+      "target_section": "Title and Introduction"
+    },
+    {
+      "keyword": "lucky7even login",
+      "volume": 10,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "FAQ",
+      "target_section": "How do I log in to Lucky7even?"
+    },
+    {
+      "keyword": "lucky7even bonus",
+      "volume": 10,
+      "difficulty": null,
+      "traffic_potential": null,
+      "placement": "Natural",
+      "target_section": "Throughout bonus sections"
+    }
+  ],
+  "total_keyword_volume": 2980,
+  "volume_increase_percentage": "N/A (no primary volume data)",
+  "competitor_analysis": {
+    "serp_status": "No SERP data available - low competition in Canada",
+    "note": "Lucky7even shows 'sports status unclear' in site structure. Keyword data heavily skewed toward casino terms (casino, slots, no deposit bonus) rather than sports betting. Primary traffic appears to be casino-focused.",
+    "top_competitors": [],
+    "brand_count_target": 1,
+    "word_count_target": "3500-4000",
+    "content_gaps": [
+      "No comprehensive Lucky7even review in Canada market",
+      "Unclear sports betting vs casino positioning",
+      "High search volume for bonus/promo codes not well served",
+      "Mobile app information gap"
+    ]
+  },
+  "brand_selection": {
+    "primary_brand": {
+      "name": "Lucky7even",
+      "badge": "L7E",
+      "color": "#7B1FA2",
+      "rationale": "Subject of review - Canadian online casino/gaming platform with unclear sports betting status",
+      "tracking": false,
+      "note": "Sports status unclear - keyword data suggests primarily casino focus"
+    }
+  },
+  "content_sections": [
+    {
+      "section": "Header & Introduction",
+      "word_count": "200-250",
+      "h_level": "H1",
+      "required_elements": [
+        "Last Updated badge",
+        "Lucky7even branding",
+        "Affiliate disclosure",
+        "Quick answer (50-75 words)",
+        "Brief intro (100-125 words)",
+        "Overview of review scope"
+      ]
+    },
+    {
+      "section": "Rating Summary",
+      "word_count": "150-200",
+      "h_level": "H2",
+      "required_elements": [
+        "Overall star rating (5-star scale)",
+        "Pros (3-5 bullets)",
+        "Cons (3-5 bullets)",
+        "Best for statement",
+        "Alternative recommendation"
+      ]
+    },
+    {
+      "section": "Comprehensive Feature Analysis",
+      "word_count": "800-1000",
+      "h_level": "H2",
+      "subsections": [
+        "Betting Markets & Odds (if sports available)",
+        "Casino Games & Slots",
+        "Welcome Bonus & Promotions",
+        "User Interface & Account Setup",
+        "Payment Methods & Withdrawals",
+        "Customer Support"
+      ]
+    },
+    {
+      "section": "Mobile App Experience",
+      "word_count": "300-400",
+      "h_level": "H2",
+      "required_elements": [
+        "iOS/Android availability",
+        "App store ratings",
+        "Key features",
+        "Navigation and UX",
+        "Performance testing",
+        "Download links"
+      ]
+    },
+    {
+      "section": "Detailed Bonus Breakdown",
+      "word_count": "300-350",
+      "h_level": "H2",
+      "required_elements": [
+        "Welcome bonus details",
+        "No deposit bonus (if available)",
+        "Wagering requirements",
+        "Promo code requirements",
+        "Time limits",
+        "Comparison with competitors",
+        "Real example walkthrough"
+      ]
+    },
+    {
+      "section": "Terms & Conditions Summary",
+      "word_count": "300-350",
+      "h_level": "H2",
+      "required_elements": [
+        "Age requirement (19+/18+ by province)",
+        "Available provinces",
+        "Account funding restrictions",
+        "Self-exclusion policy",
+        "Responsible gambling resources",
+        "Link to full T&Cs"
+      ]
+    },
+    {
+      "section": "Pros & Cons Summary",
+      "word_count": "200-250",
+      "h_level": "H2",
+      "required_elements": [
+        "Detailed pros (3-5, with 30-50 words each)",
+        "Detailed cons (3-5, with 30-50 words each)",
+        "Citations from App Store/Reddit/Trustpilot"
+      ]
+    },
+    {
+      "section": "FAQ Section",
+      "word_count": "400-500",
+      "h_level": "H2",
+      "questions": 8,
+      "required_questions": [
+        "Is Lucky7even legal and safe in Canada?",
+        "What is Lucky7even's welcome bonus?",
+        "Does Lucky7even offer sports betting?",
+        "How do I withdraw my winnings?",
+        "Is Lucky7even available in my province?",
+        "How do I contact customer support?",
+        "Do I need a promo code to sign up?",
+        "Is the Lucky7even app available for iPhone and Android?"
+      ]
+    },
+    {
+      "section": "Closing Recommendation",
+      "word_count": "100-150",
+      "h_level": "H2",
+      "required_elements": [
+        "Clear recommendation",
+        "Who should use Lucky7even",
+        "Who should consider alternatives",
+        "Call to action",
+        "Affiliate link"
+      ]
+    },
+    {
+      "section": "Updated Information & Disclaimer",
+      "word_count": "50-75",
+      "required_elements": [
+        "Last updated date",
+        "Promotions disclaimer",
+        "Responsible gambling statement",
+        "Canadian compliance note"
+      ]
+    }
+  ],
+  "strategic_direction": [
+    "Clarify Lucky7even's sports betting status - keyword data suggests primarily casino",
+    "Focus on casino/gaming offerings as primary content",
+    "Include sports betting section if available, otherwise note unavailability",
+    "Heavy emphasis on bonus structure (high keyword volume for no deposit bonus)",
+    "Mobile app review critical (70/mo searches)",
+    "Position as Canadian market review with province-specific details",
+    "Leverage low competition landscape in Canada"
+  ],
+  "technical_requirements": [
+    "Last Updated badge with current date",
+    "Brand badge: L7E with color #7B1FA2",
+    "Schema markup: Article + FAQ + Review",
+    "Affiliate disclosure at top",
+    "Responsible gambling section",
+    "Canadian compliance (19+/18+ by province)",
+    "Canadian gambling hotline: 1-866-531-2600",
+    "Province availability matrix",
+    "App Store rating and links",
+    "Payment methods table for Canada"
+  ],
+  "internal_links": [
+    {
+      "anchor": "best online casinos Canada",
+      "url": "/sport/betting/canada/best-online-casinos.htm",
+      "relevance": "Main comparison page"
+    },
+    {
+      "anchor": "Canada sports betting sites",
+      "url": "/sport/betting/canada/best-sports-betting-sites.htm",
+      "relevance": "If sports betting available"
+    },
+    {
+      "anchor": "casino bonus calculator",
+      "url": "/sport/betting/calculators/bonus-calculator.htm",
+      "relevance": "Tool for bonus calculations"
+    },
+    {
+      "anchor": "responsible gambling Canada",
+      "url": "/sport/betting/canada/responsible-gambling.htm",
+      "relevance": "Compliance requirement"
+    },
+    {
+      "anchor": "how to claim casino bonus",
+      "url": "/sport/betting/how-to/claim-casino-bonus.htm",
+      "relevance": "Related guide"
+    },
+    {
+      "anchor": "Ontario online casinos",
+      "url": "/sport/betting/canada/ontario-casinos.htm",
+      "relevance": "Province-specific"
+    },
+    {
+      "anchor": "Alberta gambling sites",
+      "url": "/sport/betting/canada/alberta-casinos.htm",
+      "relevance": "Province-specific"
+    },
+    {
+      "anchor": "Quebec casinos",
+      "url": "/sport/betting/canada/quebec-casinos.htm",
+      "relevance": "Province-specific"
+    },
+    {
+      "anchor": "Treasure Spins review",
+      "url": "/sport/betting/canada/treasurespins-review.htm",
+      "relevance": "Competitor brand review"
+    },
+    {
+      "anchor": "Royalistplay review",
+      "url": "/sport/betting/canada/royalistplay-review.htm",
+      "relevance": "Competitor brand review"
+    },
+    {
+      "anchor": "Wyns review",
+      "url": "/sport/betting/canada/wyns-review.htm",
+      "relevance": "Competitor brand review"
+    },
+    {
+      "anchor": "withdrawal processing times Canada",
+      "url": "/sport/betting/canada/withdrawal-times.htm",
+      "relevance": "Payment information"
+    }
+  ],
+  "sources_required": [
+    {
+      "tier": 1,
+      "sources": [
+        "App Store (iOS reviews)",
+        "Google Play Store (Android reviews)",
+        "Reddit r/onlinegambling Canada discussions",
+        "Trustpilot Lucky7even reviews"
+      ]
+    },
+    {
+      "tier": 2,
+      "sources": [
+        "Lucky7even official website",
+        "Canadian gaming commission records",
+        "Province gaming regulators"
+      ]
+    },
+    {
+      "tier": 3,
+      "sources": [
+        "Canadian gambling industry reports",
+        "Payment processor information"
+      ]
+    }
+  ],
+  "compliance_notes": {
+    "age": "19+ (varies by province: 18+ in AB, MB, QC)",
+    "hotline": "1-866-531-2600 (Canada Problem Gambling Helpline)",
+    "provinces": "Verify availability by province",
+    "licensing": "Confirm Canadian licensing status",
+    "language": "English (Canadian spelling: favour, colour, centre)",
+    "currency": "CAD"
+  },
+  "notes": [
+    "Sports status unclear - keyword research shows primarily casino focus",
+    "Low SERP competition in Canada - opportunity for ranking",
+    "High search volume for brand name (1600/mo) and casino (800/mo)",
+    "Significant interest in no deposit bonuses (90/mo for multiple variants)",
+    "Mobile app has decent search volume (70/mo)",
+    "Consider reaching out to brand for sports betting status clarification",
+    "If no sports betting available, consider repositioning as casino review or clarifying in title"
+  ],
+  "phase": 1,
+  "created_date": "2025-12-15",
+  "created_by": "Claude Agent"
+}

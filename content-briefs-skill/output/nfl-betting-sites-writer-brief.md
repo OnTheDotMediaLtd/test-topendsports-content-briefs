@@ -49,16 +49,17 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
    - Sentence 1: Direct answer with winners - "The best NFL betting sites are FanDuel, DraftKings, and BetMGM..."
    - Sentence 2: Authority statement about testing/verification
 
-2. **Disclosure (50-75 words):**
-   - Standard affiliate disclosure
-   - Commission earnings statement
-   - Editorial independence statement
+2. **Context (50-75 words):**
+   - Brief explanation of what makes these sites best
+   - Why NFL bettors should care about site selection
+   - What this guide covers
 
 **FORBIDDEN:**
 - ❌ "Welcome to..."
 - ❌ "Looking for..."
 - ❌ Rhetorical questions
 - ❌ Over 150 words total
+- ❌ **Affiliate disclosure** (appears in website sidebar, NOT in content)
 
 ---
 
@@ -84,8 +85,9 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 ### Introduction (100-150 words)
 - Direct answer first sentence naming FanDuel, DraftKings, BetMGM as top picks
 - Authority statement about testing methodology
-- Affiliate disclosure (50-75 words)
+- Brief context on what makes these sites best for NFL betting
 - **TOTAL: Do not exceed 150 words**
+- **NO affiliate disclosure** (it's in the website sidebar)
 
 ---
 
@@ -112,9 +114,9 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - CTA Button
 
 **Requirements:**
-- Sortable/filterable by criteria
-- Mobile-responsive design
+- Provide all table data (7 brands x 8 criteria)
 - Link to full reviews for each brand
+- **Note:** Phase 3 will create interactive table with sorting/filtering and mobile-responsive design
 
 ---
 
@@ -180,11 +182,22 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - PayPal/Play+ withdrawals in 48 hours
 - Best for casual bettors and SGP enthusiasts
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS app rating: 4.9/5 from 1.7M reviews (cite App Store)
+- Android app rating and review count (cite Google Play)
+- Interface responsiveness and load times
+- Live betting app performance during NFL games
+- Navigation ease for finding NFL markets
+- Push notification features for NFL games
+- App-exclusive features vs desktop
+- User feedback from Reddit on mobile experience
+
 **Internal Link:** Link to FanDuel Sportsbook Review page
 
 **Source Requirements:**
 - MUST cite App Store 4.9/5 rating specifically
-- Reddit user feedback on SGP experience
+- MUST cite Google Play rating
+- Reddit user feedback on SGP experience and mobile app
 - Withdrawal speed verification
 
 ---
@@ -200,12 +213,22 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - Best overall average spread prices
 - DFS integration benefits
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS and Android app ratings (cite both app stores)
+- Flash Betting mobile interface performance
+- App speed during high-traffic NFL Sundays
+- Navigation of props by category in mobile app
+- DFS crossover experience on mobile
+- Live betting responsiveness
+- User reviews on mobile app stability
+- App-exclusive promotions
+
 **Internal Link:** Link to DraftKings Sportsbook Review page
 
 **Source Requirements:**
 - Action Network pricing data
-- App Store/Google Play ratings
-- Reddit feedback on Flash Betting
+- App Store/Google Play ratings (MUST cite both)
+- Reddit feedback on Flash Betting and mobile app experience
 
 ---
 
@@ -220,12 +243,23 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - Fastest payouts: 2 hours via PayPal/Play+
 - Strong loyalty program benefits
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS and Android app ratings (cite both)
+- Edit My Bet feature on mobile app
+- Mobile app speed and reliability
+- MGM Rewards integration in app
+- Live betting interface quality
+- Prop browsing experience on mobile
+- User reviews on app performance
+- App vs desktop feature parity
+
 **Internal Link:** Link to BetMGM Sportsbook Review page
 
 **Source Requirements:**
 - Verification of 2-hour payout claims
 - MGM Rewards program details
-- User feedback on Edit My Bet feature
+- App Store/Google Play ratings (MUST cite both)
+- User feedback on Edit My Bet feature and mobile app
 
 ---
 
@@ -240,10 +274,22 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - Fair pricing on moneylines, spreads, totals
 - Strong daily promotions
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS and Android app ratings (cite both)
+- Live streaming quality in mobile app
+- App performance during live NFL games
+- Odds boost accessibility on mobile
+- Caesars Rewards mobile integration
+- Navigation and user interface quality
+- User reviews on app stability
+- Mobile-exclusive features
+
 **Source Requirements:**
 - Action Network competitive pricing data
 - Verification of live streaming availability
+- App Store/Google Play ratings (MUST cite both)
 - Odds boost frequency comparison
+- User feedback on mobile streaming experience
 
 ---
 
@@ -258,10 +304,22 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - Responsive app performance even during high-traffic NFL Sundays
 - Market-leading lines on props and spreads
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS and Android app ratings (cite both)
+- App performance during NFL Sundays (high traffic)
+- Live streaming interface on mobile
+- International-quality app technology
+- Navigation and market depth on mobile
+- Live betting responsiveness
+- User reviews on app reliability
+- Cross-platform consistency
+
 **Source Requirements:**
 - International reputation verification
 - Live streaming requirements
+- App Store/Google Play ratings (MUST cite both)
 - App performance during peak times
+- User feedback on mobile app quality
 
 ---
 
@@ -276,10 +334,21 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - Fair Play Protection (injury refunds on player props)
 - Earn official NFL merchandise through betting activity
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS and Android app ratings (cite both)
+- FanCash tracking in mobile app
+- Merchandise redemption experience
+- Live streaming quality on mobile
+- App speed and reliability
+- Navigation and user interface
+- Fair Play Protection notifications
+- User reviews on app experience
+
 **Source Requirements:**
 - FanCash program details verification
 - Fair Play Protection terms
-- User feedback on rewards program
+- App Store/Google Play ratings (MUST cite both)
+- User feedback on rewards program and mobile app
 
 ---
 
@@ -296,10 +365,22 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 - Better prices than Caesars and DraftKings on many NFL lines
 - Ideal for casual bettors with ESPN fantasy integration
 
+#### H3: Mobile Experience (100-150 words) **[REQUIRED V2]**
+- iOS and Android app ratings (cite both)
+- BetVision streaming quality on mobile
+- ESPN fantasy integration in app
+- NFL Power Hour mobile interface
+- App navigation and usability
+- Live betting responsiveness
+- User reviews on app experience
+- Note: App may update with theScore BET rebrand
+
 **Source Requirements:**
 - Penn Entertainment rebrand announcement
 - ESPN integration details
+- App Store/Google Play ratings (MUST cite both)
 - Pricing comparison verification
+- User feedback on mobile app and ESPN integration
 
 ---
 
@@ -1140,7 +1221,6 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 **Every page MUST have:**
 - [ ] Age: 21+ (18+ for MT, NH, RI, WY, DC)
 - [ ] Hotline: 1-800-522-4700
-- [ ] Affiliate disclosure at top (in intro)
 - [ ] State availability disclaimer
 - [ ] Responsible gambling section (H2 at bottom)
 
@@ -1161,7 +1241,9 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 
 ## TECHNICAL REQUIREMENTS
 
-**Must Include:**
+**Note:** These items will be implemented in Phase 3 (AI Enhancement). Writers should focus on providing content, not building these technical features.
+
+**Phase 3 Will Include:**
 1. Sortable/filterable comparison table (7 brands x 8 criteria)
 2. Last Updated badge with current date (appears after H1)
 3. FAQPage schema markup for all 8 FAQ questions
@@ -1186,7 +1268,6 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 - [ ] Template: Template 2 (Comparison) - CONFIRMED
 - [ ] ALL 14 secondary keywords mapped to specific H2/H3/FAQ sections
 - [ ] 8 FAQ questions created targeting high-volume keywords
-- [ ] Intro format: 100-150 words, direct answer first, affiliate disclosure included
 - [ ] FanDuel App Store rating 4.9/5 from 1.7M reviews - CITED
 - [ ] Complete T&Cs for ALL 7 brands (Template 2 requirement)
 - [ ] NO dated language in H1 - timeless title used

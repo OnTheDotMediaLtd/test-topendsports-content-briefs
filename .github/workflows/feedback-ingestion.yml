@@ -1,0 +1,344 @@
+name: Feedback Ingestion
+
+on:
+  push:
+    paths:
+      - 'content-briefs-skill/feedback/submitted/**'
+      - 'content-briefs-skill/feedback/validated/**'
+  workflow_dispatch:
+    inputs:
+      update_lessons:
+        description: 'Update lessons-learned.md with extracted lessons'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  validate-feedback:
+    name: Validate Submitted Feedback
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Check for submitted feedback
+        id: check-feedback
+        run: |
+          SUBMITTED_DIR="content-briefs-skill/feedback/submitted"
+          if [ -d "$SUBMITTED_DIR" ] && [ -n "$(ls -A $SUBMITTED_DIR/*.md 2>/dev/null)" ]; then
+            echo "has_feedback=true" >> $GITHUB_OUTPUT
+            echo "Found feedback files to validate:"
+            ls -la $SUBMITTED_DIR/*.md
+          else
+            echo "has_feedback=false" >> $GITHUB_OUTPUT
+            echo "No feedback files found in submitted/"
+          fi
+
+      - name: Validate feedback files
+        if: steps.check-feedback.outputs.has_feedback == 'true'
+        run: |
+          python3 scripts/validate_feedback.py || true
+
+  ingest-feedback:
+    name: Ingest Validated Feedback
+    runs-on: ubuntu-latest
+    needs: validate-feedback
+    if: always()
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Check for validated feedback
+        id: check-validated
+        run: |
+          VALIDATED_DIR="content-briefs-skill/feedback/validated"
+          if [ -d "$VALIDATED_DIR" ] && [ -n "$(ls -A $VALIDATED_DIR/*.md 2>/dev/null)" ]; then
+            echo "has_validated=true" >> $GITHUB_OUTPUT
+            echo "Found validated feedback files:"
+            ls -la $VALIDATED_DIR/*.md
+          else
+            echo "has_validated=false" >> $GITHUB_OUTPUT
+            echo "No validated feedback files found"
+          fi
+
+      - name: Run feedback ingestion
+        if: steps.check-validated.outputs.has_validated == 'true'
+        run: |
+          echo "=== Ingesting Validated Feedback ==="
+          python3 content-briefs-skill/scripts/ingest-feedback.py --verbose || true
+
+      - name: Generate lessons (if requested)
+        if: |
+          steps.check-validated.outputs.has_validated == 'true' &&
+          github.event.inputs.update_lessons == 'true'
+        run: |
+          echo "=== Generating Lessons ==="
+          python3 content-briefs-skill/scripts/ingest-feedback.py --update-lessons --verbose || true
+
+  analyze-errors:
+    name: Analyze Error Patterns
+    runs-on: ubuntu-latest
+    needs: ingest-feedback
+    if: always()
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Check for error logs
+        id: check-errors
+        run: |
+          ERROR_LOG="logs/errors/error_log.json"
+          if [ -f "$ERROR_LOG" ]; then
+            echo "has_errors=true" >> $GITHUB_OUTPUT
+            echo "Found error log"
+
+            # Count recent errors using Python script
+            python3 << 'PYEOF' > /tmp/count_result.txt
+          import json
+          from datetime import datetime, timedelta
+          try:
+              with open('logs/errors/error_log.json', 'r') as f:
+                  data = json.load(f)
+                  errors = data.get('errors', [])
+                  week_ago = datetime.now() - timedelta(days=7)
+                  recent = sum(1 for e in errors if datetime.fromisoformat(e['timestamp']) > week_ago)
+                  print(recent)
+          except:
+              print(0)
+          PYEOF
+
+            RECENT_COUNT=$(cat /tmp/count_result.txt)
+            echo "recent_error_count=$RECENT_COUNT" >> $GITHUB_OUTPUT
+            echo "Recent errors (7 days): $RECENT_COUNT"
+          else
+            echo "has_errors=false" >> $GITHUB_OUTPUT
+            echo "recent_error_count=0" >> $GITHUB_OUTPUT
+            echo "No error log found"
+          fi
+
+      - name: Analyze error patterns
+        if: steps.check-errors.outputs.has_errors == 'true'
+        run: |
+          echo "=== Error Pattern Analysis ==="
+          python3 scripts/error_tracker.py analyze || true
+
+      - name: Check error thresholds
+        if: steps.check-errors.outputs.has_errors == 'true'
+        id: thresholds
+        run: |
+          python3 scripts/check_error_thresholds.py
+          THRESHOLD_EXIT=$?
+          echo "threshold_status=$THRESHOLD_EXIT" >> $GITHUB_OUTPUT
+
+      - name: Generate lessons from errors
+        if: |
+          steps.check-errors.outputs.has_errors == 'true' &&
+          github.event.inputs.update_lessons == 'true'
+        run: |
+          echo "=== Generating Lessons from Error Patterns ==="
+          python3 scripts/error_tracker.py generate-lessons || true
+
+      - name: Upload error data
+        if: steps.check-errors.outputs.has_errors == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-tracker-data
+          path: |
+            logs/errors/*.json
+          retention-days: 30
+          if-no-files-found: ignore
+
+  generate-combined-report:
+    name: Generate Combined Report
+    runs-on: ubuntu-latest
+    needs: [validate-feedback, ingest-feedback, analyze-errors]
+    if: always()
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Download error data artifact
+        if: needs.analyze-errors.result != 'skipped'
+        uses: actions/download-artifact@v4
+        with:
+          name: error-tracker-data
+          path: logs/errors/
+        continue-on-error: true
+
+      - name: Generate combined report
+        run: |
+          REPORT_FILE="logs/combined-report-$(date +%Y%m%d-%H%M%S).md"
+          mkdir -p logs
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          cat > "$REPORT_FILE" <<EOFMARKER
+          # Combined Feedback & Error Analysis Report
+
+          Generated: $TIMESTAMP
+          Workflow: Feedback Ingestion
+          Triggered by: ${{ github.event_name }}
+
+          ## Workflow Status
+
+          | Job | Status |
+          |-----|--------|
+          | Validate Feedback | ${{ needs.validate-feedback.result }} |
+          | Ingest Feedback | ${{ needs.ingest-feedback.result }} |
+          | Analyze Errors | ${{ needs.analyze-errors.result }} |
+
+          ## Feedback Processing
+
+          EOFMARKER
+
+          # Check for feedback files
+          SUBMITTED_COUNT=$(ls -1 content-briefs-skill/feedback/submitted/*.md 2>/dev/null | wc -l)
+          VALIDATED_COUNT=$(ls -1 content-briefs-skill/feedback/validated/*.md 2>/dev/null | wc -l)
+
+          echo "- Submitted Feedback: $SUBMITTED_COUNT files" >> "$REPORT_FILE"
+          echo "- Validated Feedback: $VALIDATED_COUNT files" >> "$REPORT_FILE"
+
+          # Check for feedback log
+          if [ -f "content-briefs-skill/feedback/FEEDBACK-LOG.md" ]; then
+            TOTAL_ENTRIES=$(grep -c "^###" content-briefs-skill/feedback/FEEDBACK-LOG.md 2>/dev/null || echo "0")
+            echo "- Total Logged Entries: $TOTAL_ENTRIES" >> "$REPORT_FILE"
+          fi
+
+          echo "" >> "$REPORT_FILE"
+          echo "## Error Tracking" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+
+          # Check for error data
+          if [ -f "logs/errors/error_log.json" ]; then
+            python3 << 'PYEOF' >> "$REPORT_FILE"
+          import json
+          from datetime import datetime, timedelta
+          try:
+              with open('logs/errors/error_log.json', 'r') as f:
+                  data = json.load(f)
+                  total = data.get('total_count', 0)
+                  errors = data.get('errors', [])
+                  week_ago = datetime.now() - timedelta(days=7)
+                  recent = sum(1 for e in errors if datetime.fromisoformat(e['timestamp']) > week_ago)
+                  print(f'- Total Errors: {total}')
+                  print(f'- Recent Errors (7d): {recent}')
+          except:
+              print('- Error Data: Not available')
+          PYEOF
+
+
+            if [ -f "logs/errors/patterns.json" ]; then
+              python3 << 'PYEOF' > /tmp/pattern_count.txt
+          import json
+          try:
+              patterns = json.load(open('logs/errors/patterns.json'))
+              print(len(patterns))
+          except:
+              print(0)
+          PYEOF
+
+              PATTERN_COUNT=$(cat /tmp/pattern_count.txt)
+              echo "- Unique Patterns: $PATTERN_COUNT" >> "$REPORT_FILE"
+            fi
+          else
+            echo "- Error Data: No errors logged" >> "$REPORT_FILE"
+          fi
+
+          echo "" >> "$REPORT_FILE"
+          echo "## Actions Taken" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+
+          if [ "${{ github.event.inputs.update_lessons }}" == "true" ]; then
+            echo "- Lesson generation enabled" >> "$REPORT_FILE"
+          else
+            echo "- Lesson generation skipped (not requested)" >> "$REPORT_FILE"
+          fi
+
+          echo "" >> "$REPORT_FILE"
+          echo "## Recommendations" >> "$REPORT_FILE"
+          echo "" >> "$REPORT_FILE"
+
+          # Add recommendations based on status
+          if [ "${{ needs.analyze-errors.result }}" == "failure" ]; then
+            echo "WARNING: Error analysis failed - Check workflow logs" >> "$REPORT_FILE"
+          fi
+
+          if [ $SUBMITTED_COUNT -gt 0 ]; then
+            echo "- Review submitted feedback in content-briefs-skill/feedback/submitted/" >> "$REPORT_FILE"
+          fi
+
+          if [ -f "logs/errors/patterns.json" ]; then
+            python3 << 'PYEOF' > /tmp/patterns_attention.txt
+          import json
+          try:
+              patterns = json.load(open('logs/errors/patterns.json'))
+              count = sum(1 for p in patterns.values() if p.get('count', 0) >= 3 and not p.get('lesson_generated', False))
+              print(count)
+          except:
+              print(0)
+          PYEOF
+
+            PATTERNS_NEEDING_ATTENTION=$(cat /tmp/patterns_attention.txt)
+
+            if [ $PATTERNS_NEEDING_ATTENTION -gt 0 ]; then
+              echo "- Run python3 scripts/error_tracker.py generate-lessons to process $PATTERNS_NEEDING_ATTENTION patterns" >> "$REPORT_FILE"
+            fi
+          fi
+
+          echo "" >> "$REPORT_FILE"
+          echo "---" >> "$REPORT_FILE"
+          echo "Report generated by GitHub Actions" >> "$REPORT_FILE"
+
+          echo "Report saved to: $REPORT_FILE"
+          cat "$REPORT_FILE"
+
+      - name: Upload combined report
+        uses: actions/upload-artifact@v4
+        with:
+          name: combined-analysis-report
+          path: logs/combined-report-*.md
+          retention-days: 90
+          if-no-files-found: ignore
+
+  summary:
+    name: Feedback Processing Summary
+    runs-on: ubuntu-latest
+    needs: [validate-feedback, ingest-feedback, analyze-errors, generate-combined-report]
+    if: always()
+
+    steps:
+      - name: Print summary
+        run: |
+          echo "========================================"
+          echo "       FEEDBACK PROCESSING SUMMARY      "
+          echo "========================================"
+          echo ""
+          echo "Validate Feedback: ${{ needs.validate-feedback.result }}"
+          echo "Ingest Feedback: ${{ needs.ingest-feedback.result }}"
+          echo "Analyze Errors: ${{ needs.analyze-errors.result }}"
+          echo "Combined Report: ${{ needs.generate-combined-report.result }}"
+          echo ""
+          echo "========================================"

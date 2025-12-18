@@ -1,0 +1,492 @@
+{
+  "page_info": {
+    "url": "/sport/betting/canada/funbet-review.htm",
+    "title": "Funbet Sport Review",
+    "market": "Canada",
+    "template_type": 1,
+    "writer": "Tom Goldsmith",
+    "priority": "Medium",
+    "letter_badge": {
+      "code": "FNB",
+      "color": "#E91E63"
+    }
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "funbet sport",
+      "volume": 0,
+      "difficulty": null,
+      "traffic_potential": null,
+      "notes": "Branded keyword with no search volume - brand awareness play"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "funbet",
+        "volume": 500,
+        "difficulty": 50,
+        "traffic_potential": 500,
+        "placement": "H2",
+        "section": "Overview/Introduction"
+      },
+      {
+        "keyword": "funbet casino",
+        "volume": 300,
+        "difficulty": 56,
+        "traffic_potential": null,
+        "placement": "H2",
+        "section": "Casino Games & Offerings"
+      },
+      {
+        "keyword": "funbet login",
+        "volume": 40,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3",
+        "section": "Account Registration & Login Process"
+      },
+      {
+        "keyword": "funbet review",
+        "volume": 30,
+        "difficulty": 53,
+        "traffic_potential": 10,
+        "placement": "Title/H1",
+        "section": "Main title optimization"
+      },
+      {
+        "keyword": "funbet bonus",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H2",
+        "section": "Welcome Bonus & Promotions"
+      },
+      {
+        "keyword": "funbet promo code",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3/FAQ",
+        "section": "Promo Code Details"
+      },
+      {
+        "keyword": "funbet app",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H2",
+        "section": "Mobile App Experience"
+      },
+      {
+        "keyword": "is funbet legit",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "FAQ",
+        "section": "FAQ: Is Funbet legit and safe?"
+      },
+      {
+        "keyword": "sports betting canada",
+        "volume": 2300,
+        "difficulty": 84,
+        "traffic_potential": 22000,
+        "placement": "Natural",
+        "section": "Context throughout content"
+      },
+      {
+        "keyword": "best sportsbook canada",
+        "volume": 300,
+        "difficulty": 80,
+        "traffic_potential": 500,
+        "placement": "Natural",
+        "section": "Internal link anchor"
+      },
+      {
+        "keyword": "online sportsbook canada",
+        "volume": 150,
+        "difficulty": 83,
+        "traffic_potential": 22000,
+        "placement": "Natural",
+        "section": "Context in introduction"
+      },
+      {
+        "keyword": "live casino canada",
+        "volume": 1000,
+        "difficulty": 76,
+        "traffic_potential": 900,
+        "placement": "H3",
+        "section": "Live Casino Section"
+      },
+      {
+        "keyword": "casino bonus canada",
+        "volume": 600,
+        "difficulty": 88,
+        "traffic_potential": 4500,
+        "placement": "Natural",
+        "section": "Bonus comparison context"
+      },
+      {
+        "keyword": "payment methods",
+        "volume": 900,
+        "difficulty": 42,
+        "traffic_potential": null,
+        "placement": "H2",
+        "section": "Banking & Payment Methods"
+      }
+    ],
+    "total_volume": 6020,
+    "volume_increase": "Infinite (from 0 primary keyword)"
+  },
+  "competitor_analysis": {
+    "top_competitors": [
+      {
+        "domain": "trustpilot.com",
+        "url": "https://ca.trustpilot.com/review/funbet.com",
+        "position": 1,
+        "domain_rating": 94,
+        "traffic": 10,
+        "brands_covered": 1,
+        "estimated_word_count": 500,
+        "notes": "Review aggregator, user-generated content"
+      },
+      {
+        "domain": "gamblingsites.com",
+        "url": "https://www.gamblingsites.com/reviews/funbet/",
+        "position": 4,
+        "domain_rating": 70,
+        "traffic": 3,
+        "brands_covered": 1,
+        "estimated_word_count": 2500,
+        "notes": "Comprehensive casino review, light on sports betting"
+      },
+      {
+        "domain": "betstamp.com",
+        "url": "https://betstamp.com/reviews/funbet",
+        "position": 5,
+        "domain_rating": 48,
+        "traffic": 2,
+        "brands_covered": 1,
+        "estimated_word_count": 1800,
+        "notes": "Basic review structure, casino-focused"
+      },
+      {
+        "domain": "askgamblers.com",
+        "url": "https://www.askgamblers.com/online-casinos/reviews/funbet-casino",
+        "position": 6,
+        "domain_rating": 81,
+        "traffic": 2,
+        "brands_covered": 1,
+        "estimated_word_count": 3000,
+        "notes": "Detailed casino review with user ratings"
+      },
+      {
+        "domain": "casino.guru",
+        "url": "https://casino.guru/funbet-casino-review-1",
+        "position": 7,
+        "domain_rating": 81,
+        "traffic": 1,
+        "brands_covered": 1,
+        "estimated_word_count": 2800,
+        "notes": "In-depth casino analysis, reputation focus"
+      }
+    ],
+    "competitive_gaps": [
+      "Most competitors focus heavily on casino, not sports betting",
+      "Limited sports betting coverage (markets, odds, live betting)",
+      "No mobile app deep dive for sports betting features",
+      "Missing Canadian-specific payment methods",
+      "No sports-specific bonus analysis",
+      "Limited user experience testing details",
+      "No calculator tool integrations",
+      "Minimal social proof from sports betting users"
+    ],
+    "content_opportunities": [
+      "Emphasize sports betting features (most competitors don't)",
+      "Deep dive on Canadian sports coverage (NHL, CFL, NBA)",
+      "Mobile app sports betting experience",
+      "Canadian payment methods (Interac, e-Transfer)",
+      "Province-specific availability and regulations",
+      "Comparison to major Canadian sportsbooks",
+      "Sports betting odds comparison",
+      "Live betting interface analysis"
+    ]
+  },
+  "brand_selection": {
+    "target_brand": {
+      "name": "Funbet",
+      "badge": "FNB",
+      "color": "#E91E63",
+      "market_position": "Emerging casino/sportsbook hybrid",
+      "licensing": "Curacao eGaming",
+      "canada_availability": "Available outside Ontario (grey market)"
+    },
+    "comparison_brands": [
+      {
+        "name": "Treasure Spins",
+        "rationale": "Canada Brand #1 - direct competitor in same market tier"
+      },
+      {
+        "name": "Royalistplay",
+        "rationale": "Canada Brand #2 - similar casino/sports hybrid model"
+      },
+      {
+        "name": "Wyns",
+        "rationale": "Canada Brand #3 - competitor for Canadian players"
+      },
+      {
+        "name": "Sports Interaction",
+        "rationale": "Established Canadian sportsbook - benchmark comparison"
+      },
+      {
+        "name": "Bet99",
+        "rationale": "Major Canadian operator - quality comparison"
+      }
+    ]
+  },
+  "content_structure": {
+    "template": "Review (Template 1)",
+    "target_word_count": 3500,
+    "mandatory_sections": [
+      {
+        "section": "Introduction",
+        "word_count": 150,
+        "keywords": ["funbet review", "online sportsbook canada"]
+      },
+      {
+        "section": "Funbet Overview",
+        "word_count": 300,
+        "keywords": ["funbet", "funbet sport"]
+      },
+      {
+        "section": "Sports Betting Features",
+        "word_count": 400,
+        "keywords": ["sports betting canada", "funbet sport"],
+        "subsections": [
+          "Sports Coverage (NHL, NBA, CFL, NFL)",
+          "Betting Markets & Odds",
+          "Live Betting Interface"
+        ]
+      },
+      {
+        "section": "Casino Games & Offerings",
+        "word_count": 350,
+        "keywords": ["funbet casino", "live casino canada"],
+        "subsections": [
+          "Slot Games Selection",
+          "Live Casino Games",
+          "Table Games"
+        ]
+      },
+      {
+        "section": "Mobile App Experience",
+        "word_count": 400,
+        "keywords": ["funbet app"],
+        "subsections": [
+          "iOS App Review",
+          "Android App Review",
+          "Mobile Sports Betting Features",
+          "App Performance & Navigation"
+        ]
+      },
+      {
+        "section": "Welcome Bonus & Promotions",
+        "word_count": 350,
+        "keywords": ["funbet bonus", "funbet promo code"],
+        "subsections": [
+          "Sports Welcome Bonus",
+          "Casino Welcome Bonus",
+          "Ongoing Promotions",
+          "Bonus Terms & Conditions"
+        ]
+      },
+      {
+        "section": "Banking & Payment Methods",
+        "word_count": 300,
+        "keywords": ["payment methods"],
+        "subsections": [
+          "Deposit Methods (Interac, Credit Cards, Crypto)",
+          "Withdrawal Options",
+          "Processing Times",
+          "Canadian Dollar (CAD) Support"
+        ]
+      },
+      {
+        "section": "Account Registration & Login",
+        "word_count": 250,
+        "keywords": ["funbet login"],
+        "subsections": [
+          "Sign-Up Process",
+          "Verification Requirements",
+          "Login Security Features"
+        ]
+      },
+      {
+        "section": "Security & Licensing",
+        "word_count": 300,
+        "keywords": ["is funbet legit"],
+        "subsections": [
+          "Licensing Information",
+          "Security Measures",
+          "Canadian Legal Status",
+          "Player Protection"
+        ]
+      },
+      {
+        "section": "Customer Support",
+        "word_count": 200,
+        "subsections": [
+          "Support Channels (Live Chat, Email)",
+          "Support Hours",
+          "Response Quality"
+        ]
+      },
+      {
+        "section": "Pros & Cons",
+        "word_count": 250,
+        "subsections": [
+          "Advantages",
+          "Disadvantages"
+        ]
+      },
+      {
+        "section": "FAQs",
+        "word_count": 800,
+        "faq_count": 8,
+        "target_keywords": [
+          "is funbet legit",
+          "funbet promo code",
+          "funbet login",
+          "funbet withdrawal",
+          "funbet app"
+        ]
+      },
+      {
+        "section": "Responsible Gambling",
+        "word_count": 150
+      }
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "best sports betting sites in Canada",
+      "url": "/sport/betting/canada/index.htm",
+      "context": "Introduction"
+    },
+    {
+      "anchor": "sports betting apps in Canada",
+      "url": "/sport/betting/canada/betting-apps.htm",
+      "context": "Mobile app section"
+    },
+    {
+      "anchor": "Treasure Spins review",
+      "url": "/sport/betting/canada/treasurespins-review.htm",
+      "context": "Comparison mention"
+    },
+    {
+      "anchor": "Royalistplay review",
+      "url": "/sport/betting/canada/royalistplay-review.htm",
+      "context": "Comparison mention"
+    },
+    {
+      "anchor": "Wyns sportsbook review",
+      "url": "/sport/betting/canada/wyns-review.htm",
+      "context": "Comparison mention"
+    },
+    {
+      "anchor": "new betting sites in Canada",
+      "url": "/sport/betting/canada/new-betting-sites.htm",
+      "context": "Context for emerging operator"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "context": "Betting tools section"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "context": "Betting tools section"
+    },
+    {
+      "anchor": "NHL betting",
+      "url": "/sport/betting/nhl/index.htm",
+      "context": "Sports coverage section"
+    },
+    {
+      "anchor": "NBA betting",
+      "url": "/sport/betting/nba/index.htm",
+      "context": "Sports coverage section"
+    },
+    {
+      "anchor": "CFL betting",
+      "url": "/sport/betting/cfl/index.htm",
+      "context": "Sports coverage section"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "context": "Responsible gambling section"
+    }
+  ],
+  "compliance": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "helpline": "1-866-531-2600 (Canadian Problem Gambling Helpline)",
+    "legal_status": "Available in Canada except Ontario (provincial iGaming regulations)",
+    "disclosure_required": true,
+    "responsible_gambling_section": true
+  },
+  "technical_requirements": {
+    "schema_types": ["Article", "FAQPage", "Organization", "Breadcrumb"],
+    "meta_title": "Funbet Review Canada 2025: Sports Betting & Casino",
+    "meta_description": "Comprehensive Funbet review for Canadian players. Detailed analysis of sports betting features, casino games, bonuses, mobile app, and payment methods.",
+    "last_updated_badge": true,
+    "interactive_elements": [
+      "Pros/Cons comparison card",
+      "Bonus terms summary box",
+      "Payment methods table",
+      "Sports coverage matrix"
+    ]
+  },
+  "source_requirements": {
+    "tier_1_sources": [
+      "Funbet official website",
+      "Trustpilot reviews",
+      "Reddit r/sportsbook",
+      "Reddit r/CanadianBetting",
+      "App Store (if available)",
+      "Google Play Store (if available)"
+    ],
+    "tier_2_sources": [
+      "Licensing authority (Curacao eGaming)",
+      "Canadian gaming commissions",
+      "Provincial gambling regulators"
+    ],
+    "tier_3_sources": [
+      "Industry news (Sports Betting Dime, Legal Sports Report)",
+      "Payment processor documentation"
+    ]
+  },
+  "competitive_strategy": {
+    "differentiators": [
+      "Sports betting focus (competitors emphasize casino)",
+      "Canadian market specifics (payment methods, provinces)",
+      "Deep mobile app analysis for sports betting",
+      "NHL/CFL coverage emphasis",
+      "Calculator tool integration",
+      "Real user reviews from Canadian sources"
+    ],
+    "target_word_count_rationale": "3,500 words to exceed top competitor (askgamblers.com ~3,000 words) while focusing on sports betting depth they lack"
+  },
+  "phase1_completion": {
+    "date": "2025-12-15",
+    "checklist": {
+      "site_structure_verified": true,
+      "ahrefs_keyword_research": true,
+      "competitor_analysis": true,
+      "serp_analysis": true,
+      "brand_selection": true,
+      "content_structure_planned": true,
+      "internal_links_mapped": true,
+      "compliance_noted": true
+    }
+  }
+}
