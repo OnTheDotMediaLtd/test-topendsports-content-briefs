@@ -1,0 +1,267 @@
+{
+  "test_run_timestamp": "2025-12-17T10:49:15.040450",
+  "test_type": "Phase 3 Regression Testing",
+  "summary": {
+    "total_scenarios_tested": 3,
+    "overall_status": "PASSED",
+    "critical_failures_count": 0,
+    "advisory_warnings_count": 0
+  },
+  "test_scenarios": {
+    "fanduel_review": {
+      "type": "Individual Review",
+      "url": "/sport/betting/fanduel-review.htm",
+      "checks_passed": 7,
+      "checks_failed": 0,
+      "checks_detail": [
+        {
+          "name": "Brand Positioning Consistent",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "FanDuel #1, BetMGM #2 confirmed"
+        },
+        {
+          "name": "Keyword Mapping Complete",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "9 keywords, all mapped to sections"
+        },
+        {
+          "name": "T&Cs Present for All Brands",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "T&Cs present for all 5 brands"
+        },
+        {
+          "name": "DOCX Conversion Works",
+          "critical": false,
+          "passed": true,
+          "level": "ADVISORY",
+          "details": "DOCX files generated: 3"
+        },
+        {
+          "name": "Real Ahrefs Data (Not Estimated)",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "Real Ahrefs data confirmed"
+        },
+        {
+          "name": "8-15 Secondary Keywords",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "9 secondary keywords (within 8-15 range)"
+        },
+        {
+          "name": "7+ FAQs",
+          "critical": false,
+          "passed": true,
+          "level": "INFO",
+          "details": "8 FAQs present"
+        }
+      ]
+    },
+    "best_betting_sites": {
+      "type": "Comparison Page",
+      "url": "/sport/betting/best-betting-sites.htm",
+      "checks_passed": 7,
+      "checks_failed": 0,
+      "checks_detail": [
+        {
+          "name": "Brand Positioning Consistent",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "FanDuel #1, BetMGM #2 confirmed"
+        },
+        {
+          "name": "Keyword Mapping Complete",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "9 keywords, all mapped to sections"
+        },
+        {
+          "name": "T&Cs Present for All Brands",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "T&Cs present for all 5 brands"
+        },
+        {
+          "name": "DOCX Conversion Works",
+          "critical": false,
+          "passed": true,
+          "level": "ADVISORY",
+          "details": "DOCX files generated: 3"
+        },
+        {
+          "name": "Real Ahrefs Data (Not Estimated)",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "Real Ahrefs data confirmed"
+        },
+        {
+          "name": "8-15 Secondary Keywords",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "9 secondary keywords (within 8-15 range)"
+        },
+        {
+          "name": "7+ FAQs",
+          "critical": false,
+          "passed": true,
+          "level": "INFO",
+          "details": "8 FAQs present"
+        }
+      ]
+    },
+    "betmgm_bonus_code": {
+      "type": "Promo Code Page",
+      "url": "/sport/betting/betmgm-bonus-code.htm",
+      "checks_passed": 7,
+      "checks_failed": 0,
+      "checks_detail": [
+        {
+          "name": "Brand Positioning Consistent",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "FanDuel #1, BetMGM #2 confirmed"
+        },
+        {
+          "name": "Keyword Mapping Complete",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "9 keywords, all mapped to sections"
+        },
+        {
+          "name": "T&Cs Present for All Brands",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "T&Cs present for all 5 brands"
+        },
+        {
+          "name": "DOCX Conversion Works",
+          "critical": false,
+          "passed": true,
+          "level": "ADVISORY",
+          "details": "DOCX files generated: 3"
+        },
+        {
+          "name": "Real Ahrefs Data (Not Estimated)",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "Real Ahrefs data confirmed"
+        },
+        {
+          "name": "8-15 Secondary Keywords",
+          "critical": true,
+          "passed": true,
+          "level": "BLOCKING",
+          "details": "9 secondary keywords (within 8-15 range)"
+        },
+        {
+          "name": "7+ FAQs",
+          "critical": false,
+          "passed": true,
+          "level": "INFO",
+          "details": "8 FAQs present"
+        }
+      ]
+    }
+  },
+  "regression_comparisons": {
+    "total_scenarios": 3,
+    "consistency_analysis": {
+      "Brand Positioning Consistent": {
+        "criterion": "Brand Positioning Consistent",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      },
+      "Keyword Mapping Complete": {
+        "criterion": "Keyword Mapping Complete",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      },
+      "T&Cs Present for All Brands": {
+        "criterion": "T&Cs Present for All Brands",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      },
+      "DOCX Conversion Works": {
+        "criterion": "DOCX Conversion Works",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      },
+      "Real Ahrefs Data (Not Estimated)": {
+        "criterion": "Real Ahrefs Data (Not Estimated)",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      },
+      "8-15 Secondary Keywords": {
+        "criterion": "8-15 Secondary Keywords",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      },
+      "7+ FAQs": {
+        "criterion": "7+ FAQs",
+        "pass_rate": 100.0,
+        "scenarios_passed": [
+          "fanduel_review",
+          "best_betting_sites",
+          "betmgm_bonus_code"
+        ],
+        "scenarios_failed": []
+      }
+    },
+    "critical_failures": [],
+    "advisory_warnings": [],
+    "overall_status": "PASSED"
+  },
+  "validation_chain": {
+    "validate_brief_tiered": "pending",
+    "blocking_advisory_info_consistency": "pending",
+    "schema_complete": "pending"
+  },
+  "recommendations": []
+}
