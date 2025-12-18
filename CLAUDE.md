@@ -8,6 +8,54 @@
 
 ---
 
+## MANDATORY: Proactive Feedback Collection
+
+**CRITICAL: After EVERY significant task, you MUST prompt for feedback.**
+
+### When to Prompt (DO NOT SKIP)
+
+Prompt IMMEDIATELY after:
+- Completed optimization/brief/calculation
+- Fixed any bug or error
+- Encountered edge case or unclear instruction
+- Modified documentation
+- Struggled with any task
+
+### Standard Prompt (Copy-Paste After Task)
+
+```
+**Task Complete!** Help improve this system:
+
+Quick feedback (30 seconds):
+- Was this task smooth? (1-5): ___
+- Any issues or confusion? ___
+
+Detailed feedback:
+- `/submit-feedback [category]` - Helps prevent future issues
+- Categories: keyword, structure, content, technical, workflow, etc.
+
+**Your feedback directly improves the system!**
+```
+
+### Why This Matters
+
+- Feedback = System learns and improves
+- Patterns identified → Documentation updated → Future tasks easier
+- YOU benefit from better instructions next time
+- Cross-project learning helps all TES repos
+
+### Feedback Integration
+
+This project uses `tes-shared-infrastructure` for centralized feedback:
+- Submitted → `feedback/submitted/`
+- Auto-validated → `feedback/validated/`
+- Auto-processed → Documentation updates
+- Daily automation tracks improvements
+
+**DO NOT SKIP FEEDBACK PROMPTS** - The self-learning system depends on them.
+
+---
+
 ## 🚨 CRITICAL RULE: 3-PHASE BRIEF GENERATION
 
 When asked to "generate a brief" for ANY URL, you MUST:
