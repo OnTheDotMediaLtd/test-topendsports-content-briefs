@@ -126,4 +126,64 @@ List feedback awaiting validation:
 
 ---
 
-Last Updated: 2025-12-15
+### v3-quality-feedback - 2025-12-18
+**Feedback Type**: Workflow / Structure / Quality
+**Rating**: N/A (Critical process improvement)
+**Submitter**: Project Owner
+
+**Issues Identified**:
+1. Quality mismatch between briefs (Ireland hub lacked detail vs Canada hub)
+2. No keyword volume totals for verification
+3. Vague internal link placement ("within 500 words" not specific)
+4. No competitor reference URLs for writer benchmarks
+5. Hub page mobile sections (100-200 words) cannibalizing /betting-apps.htm
+6. Missing E-E-A-T author requirements for YMYL content
+
+**Resolutions Applied**:
+- ✅ Updated `references/phase2-writer.md` with V3 Requirements Summary
+- ✅ Added Step 6A-6E for new V3 requirements
+- ✅ Updated `references/quality-checklist.md` with V3 Mandatory Checks
+- ✅ Updated `references/hub-page-strategy.md` with Mobile Section Anti-Cannibalization
+- ✅ Added V3 Standard Lessons (V3-1 through V3-5) to `lessons-learned.md`
+- ✅ Created `references/gold-standards/` folder with 3 template files
+- ✅ Created `scripts/validate-v3-brief.py` for automated V3 validation
+
+**New V3 Requirements**:
+| Requirement | Purpose |
+|-------------|---------|
+| Keyword Volume Total | Writers verify all keywords mapped |
+| Exact Link Placement | Links mapped to specific sections |
+| Competitor URLs | 2-3 reference pages for benchmarking |
+| Mobile Section Limits | Hub: 75-100w, Comparison: 100-150w |
+| E-E-A-T Author Info | YMYL compliance |
+| Word Count Table | Per-section targets |
+| "Writer must cover" | Explicit instructions per H2/H3 |
+
+**Validation**:
+```bash
+python3 scripts/validate-v3-brief.py [brief.md] --verbose
+python3 scripts/validate-v3-brief.py --all  # Batch validate
+```
+
+**Impact**:
+- All new briefs must pass V3 validation before delivery
+- Writers get explicit, hand-holding instructions
+- Consistent quality across all markets
+- Prevents mobile section cannibalization
+
+**Status**: Applied
+
+---
+
+### December 2025 - Metrics Update
+
+| Metric | Value | Target | Notes |
+|--------|-------|--------|-------|
+| V3 compliance rate | 0% (baseline) | 100% | New briefs must pass validation |
+| Reference doc updates | 4 files | N/A | phase2, quality, hub-strategy, lessons |
+| Gold standards created | 3 templates | 3 | Hub, Comparison, Review |
+| Validation checks | 10 | 10 | All implemented in script |
+
+---
+
+Last Updated: 2025-12-18

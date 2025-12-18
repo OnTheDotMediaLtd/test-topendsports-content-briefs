@@ -112,6 +112,65 @@ Hub pages MUST link to dedicated pages prominently in the introduction:
 
 ---
 
+## V3: Mobile Section Anti-Cannibalization (NEW)
+
+**Problem Identified:** Hub pages with 10 brands × 100-200 words on mobile each = 1,000-2,000 words on mobile alone. This competes with the dedicated `/betting-apps.htm` page.
+
+### Mobile Section Word Limits by Page Type
+
+| Page Type | Mobile Words/Brand | Total Mobile | Rationale |
+|-----------|-------------------|--------------|-----------|
+| **Hub Page** | 75-100 words | 750-1,000 max | Overview only; link to apps page |
+| **Comparison Page** | 100-150 words | 1,000-1,500 | More detail acceptable |
+| **Review Page** | 150-200 words | 150-200 total | Single brand, full detail |
+
+### Hub Page Mobile Section Rules
+
+**DO:**
+- Brief app overview (75-100 words per brand)
+- Include App Store rating with review count
+- Link prominently to `/betting-apps.htm` for full comparison
+- Focus on unique mobile features only
+
+**DON'T:**
+- Write exhaustive mobile reviews (that's the apps page's job)
+- Include detailed download instructions
+- Compare mobile features across all brands (apps page does this)
+- Duplicate content from the dedicated apps page
+
+### Example: Hub Page Mobile Section (75-100 words)
+
+```markdown
+#### H3: Lunubet Mobile Experience (75-100 words)
+
+**Writer must cover:**
+- App Store rating: "X.X/5 from X reviews"
+- One-sentence UX summary
+- Key differentiating feature
+- Link to full review
+
+**Example output:**
+"Lunubet's mobile app rates 4.5/5 on the App Store from 12,000+ reviews.
+The interface prioritizes quick bet placement with a streamlined bottom
+navigation. Unique feature: in-app live streaming for GAA matches.
+For detailed app comparisons, see our [Best Betting Apps Ireland](/ireland/betting-apps.htm) guide."
+```
+
+### Example: Comparison Page Mobile Section (100-150 words)
+
+```markdown
+#### H3: Lunubet Mobile App Analysis (100-150 words)
+
+**Writer must cover:**
+- App Store AND Google Play ratings with review counts
+- Navigation and UX analysis
+- 3-4 key mobile features
+- Performance notes
+- No link to apps page (this IS the comparison)
+```
+
+---
+
 ## Hub Page Keyword Cluster Calculation
 
 ### Correct Approach (V2)

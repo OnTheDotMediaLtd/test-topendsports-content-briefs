@@ -1,0 +1,124 @@
+{
+  "feedback_id": "v3-quality-feedback-2025-12-18",
+  "submitted_date": "2025-12-18",
+  "applied_date": "2025-12-18",
+  "submitter": "Project Owner",
+  "category": "workflow",
+  "priority": 1,
+  "summary": "Brief quality mismatch - lack of hand-holding structure for writers",
+
+  "issues_identified": [
+    {
+      "issue": "Quality mismatch between briefs",
+      "example": "Ireland Betting Hub lacked detail compared to Canada Betting Hub",
+      "impact": "Inconsistent writer guidance across markets"
+    },
+    {
+      "issue": "Missing keyword verification",
+      "detail": "No total secondary keyword volume for writers to verify mapping",
+      "impact": "Writers cannot validate all keywords are mapped"
+    },
+    {
+      "issue": "Vague internal link placement",
+      "detail": "'Within 500 words' is not specific enough",
+      "impact": "Inconsistent link placement across content"
+    },
+    {
+      "issue": "No competitor benchmarks",
+      "detail": "Writers had no reference URLs to calibrate content depth",
+      "impact": "Content depth varies without standard"
+    },
+    {
+      "issue": "Mobile section cannibalization",
+      "detail": "Hub pages with 100-200 words per brand on mobile compete with /betting-apps.htm",
+      "impact": "Internal keyword competition"
+    },
+    {
+      "issue": "Missing E-E-A-T requirements",
+      "detail": "No author information specified for YMYL gambling content",
+      "impact": "Missing Google YMYL compliance signals"
+    }
+  ],
+
+  "solutions_applied": [
+    {
+      "file": "references/phase2-writer.md",
+      "changes": [
+        "Added V3 Requirements Summary table",
+        "Added Step 6A: Exact Internal Link Placement",
+        "Added Step 6B: Competitor Reference URLs",
+        "Added Step 6C: Word Count by Section Table",
+        "Added Step 6D: E-E-A-T Author Requirements",
+        "Added Step 6E: Writer Must Cover Bullets"
+      ]
+    },
+    {
+      "file": "references/quality-checklist.md",
+      "changes": [
+        "Added V3 Mandatory Checks section",
+        "Added V3 Keyword Verification checks",
+        "Added V3 Structure Requirements checks",
+        "Added V3 Mobile Section Limits checks",
+        "Added V3 E-E-A-T Requirements checks"
+      ]
+    },
+    {
+      "file": "references/hub-page-strategy.md",
+      "changes": [
+        "Added V3: Mobile Section Anti-Cannibalization section",
+        "Added Mobile Section Word Limits by Page Type table",
+        "Added Hub Page Mobile Section Rules",
+        "Added Examples for hub vs comparison mobile sections"
+      ]
+    },
+    {
+      "file": "references/lessons-learned.md",
+      "changes": [
+        "Added V3 Standard Lessons section",
+        "Added Lesson V3-1: Keyword Volume Totals",
+        "Added Lesson V3-2: Exact Internal Link Placement",
+        "Added Lesson V3-3: Competitor URLs",
+        "Added Lesson V3-4: Mobile Section Cannibalization",
+        "Added Lesson V3-5: E-E-A-T Author Requirements"
+      ]
+    },
+    {
+      "file": "references/gold-standards/",
+      "changes": [
+        "Created gold-standards folder",
+        "Added README.md with usage instructions",
+        "Added gold-standard-hub-brief.md template",
+        "Added gold-standard-comparison-brief.md template",
+        "Added gold-standard-review-brief.md template"
+      ]
+    },
+    {
+      "file": "scripts/validate-v3-brief.py",
+      "changes": [
+        "Created V3 validation script",
+        "Checks for Word Count Table",
+        "Checks for Keyword Volume Total",
+        "Checks for Unmapped Keywords verification",
+        "Checks for Competitor URLs",
+        "Checks for Writer Must Cover bullets",
+        "Checks for Internal Link Placement",
+        "Checks for E-E-A-T Requirements",
+        "Checks Mobile Section Limits by page type",
+        "Checks for No Affiliate Disclosure",
+        "Checks for No Dated Language"
+      ]
+    }
+  ],
+
+  "validation": {
+    "tested": true,
+    "test_command": "python3 scripts/validate-v3-brief.py output/ireland-betting-hub-writer-brief.md --verbose",
+    "result": "Script correctly identifies V3 gaps in existing briefs"
+  },
+
+  "next_steps": [
+    "Run validate-v3-brief.py on new briefs before delivery",
+    "Update existing briefs to V3 standard (optional)",
+    "Train writers on new V3 requirements"
+  ]
+}

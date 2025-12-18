@@ -2,6 +2,23 @@
 
 **Input:** Brief Control Sheet from Phase 1
 **Output:** Writer Brief (2-3 pages)
+**Standard:** V3 (Updated December 2025)
+
+---
+
+## V3 REQUIREMENTS SUMMARY (NEW)
+
+The following are **MANDATORY** for all V3 briefs:
+
+| Requirement | Description | Location in Brief |
+|-------------|-------------|-------------------|
+| **Keyword Volume Total** | Sum of all secondary keyword volumes for verification | Secondary Keywords section |
+| **Exact Link Placement** | Internal links mapped to specific sections, not "within 500 words" | Internal Links table |
+| **Competitor URLs** | 2-3 competitor page URLs as research benchmarks | New "Competitor References" section |
+| **Mobile Section Limits** | Hub pages: 75-100 words/brand. Non-hubs: 100-150 words/brand | Mobile Experience sections |
+| **E-E-A-T Requirements** | Author name, credentials, bio link requirement | Compliance section |
+| **Word Count by Section** | Table showing every section's target word count | After Page Basics |
+| **"Writer must cover" bullets** | Explicit instructions under each H2/H3 | Content Outline |
 
 ---
 
@@ -321,7 +338,30 @@ Create 7 FAQ questions targeting high-volume keywords:
 | [secondary 4] | XXX/mo | Natural | [Section where naturally placed] |
 
 **Unmapped Keywords:** NONE (all must be mapped)
+**Total Secondary Keyword Volume:** X,XXX/mo ← V3 REQUIRED
 ```
+
+### V3: Keyword Volume Total Verification
+
+**MANDATORY:** Include a sum total of all secondary keyword volumes:
+
+```markdown
+## SECONDARY KEYWORD OPTIMIZATION
+
+| Keyword | Volume | Section Type | Exact H2/H3/FAQ Title |
+|---------|--------|--------------|----------------------|
+| betting sites ireland | 900/mo | H2 | "Comprehensive Guide to Betting Sites" |
+| sports betting ireland | 500/mo | H2 | "Sports Betting in Ireland" |
+| irish betting sites | 400/mo | H2 | "Top Irish Betting Sites Ranked" |
+| [continue...] | | | |
+
+**✅ VERIFICATION:**
+- Unmapped Keywords: NONE
+- Total Secondary Volume: 2,960/mo
+- Cluster Increase: 658% over primary (450/mo)
+```
+
+**Why this matters:** Writers can verify all keywords are mapped by checking the sum matches Phase 1 research.
 
 ### Mapping Rules:
 | Volume | Recommended Section |
@@ -349,6 +389,128 @@ Compile all keywords for AI to add:
 
 ---
 
+## Step 6A: V3 - Exact Internal Link Placement (NEW)
+
+**V3 REQUIREMENT:** Map each internal link to a specific section, not just "within 500 words".
+
+### Link Placement Table Format:
+```markdown
+## INTERNAL LINKS (14 Required)
+
+| # | Anchor Text | Target URL | Exact Placement Section |
+|---|-------------|------------|-------------------------|
+| 1 | best betting apps ireland | /ireland/betting-apps.htm | Introduction (paragraph 2) |
+| 2 | free bets ireland | /ireland/free-bets.htm | Quick Answer Box |
+| 3 | parlay calculator | /betting-tools/parlay-calculator.htm | Sports Betting Overview (H2) |
+| 4 | Lunubet review | /ireland/lunubet-review.htm | Position #1 brand section |
+| 5 | [continue...] | | |
+```
+
+**Placement Guidelines:**
+- Hub-to-child links: Introduction paragraph 2 AND Quick Answer Box
+- Calculator links: Relevant "how it works" sections
+- Brand review links: Within that brand's review section
+- Tool links: Where the tool adds context value
+
+---
+
+## Step 6B: V3 - Competitor Reference URLs (NEW)
+
+**V3 REQUIREMENT:** Include 2-3 competitor page URLs for writer reference.
+
+### Format:
+```markdown
+## COMPETITOR REFERENCES
+
+Use these pages as benchmarks for content depth and structure:
+
+| Competitor | URL | What to Note |
+|------------|-----|--------------|
+| Action Network | https://actionnetwork.com/betting/ireland | H2 structure, brand count |
+| Covers | https://covers.com/betting/ireland | FAQ approach, word count |
+| Oddschecker | https://oddschecker.com/ie | Comparison table format |
+
+**Key Insights from Competitors:**
+- Action Network covers 8 brands; we cover 10 (advantage)
+- Covers has 12 FAQs; we should match or exceed
+- Oddschecker lacks mobile sections; this is our differentiator
+```
+
+---
+
+## Step 6C: V3 - Word Count by Section Table (NEW)
+
+**V3 REQUIREMENT:** Every brief must include a word count breakdown table.
+
+### Format:
+```markdown
+## WORD COUNT TARGETS BY SECTION
+
+| Section | Target Words | Notes |
+|---------|--------------|-------|
+| Introduction | 100-150 | Direct answer, NO affiliate disclosure |
+| Quick Answer Box | 75-100 | Top 3 picks with rationale |
+| Comparison Table | N/A | Visual component (Phase 3) |
+| Brand Reviews (X total) | X,XXX-X,XXX | See individual brand targets below |
+| How We Test & Rank | 500-600 | Methodology, trust signals |
+| FAQs (X total) | XXX-X,XXX | 80-100 words each |
+| Responsible Gambling | 300-400 | Market-specific resources |
+| **TOTAL** | **~X,XXX** | ±500 acceptable |
+```
+
+---
+
+## Step 6D: V3 - E-E-A-T Author Requirements (NEW)
+
+**V3 REQUIREMENT:** For YMYL betting content, specify author requirements.
+
+### Add to Compliance Section:
+```markdown
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Information (MANDATORY for all betting content):**
+- Author name: [Assigned writer's full name]
+- Author credentials: [e.g., "Sports betting analyst with 5+ years experience"]
+- Author bio link: /about/authors/[author-slug].htm
+
+**Phase 3 will implement:**
+- Author schema markup
+- Byline with link to bio page
+- "Reviewed by" attribution if applicable
+
+**Why this matters:** Google's YMYL guidelines require clear authorship for gambling content to establish E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness).
+```
+
+---
+
+## Step 6E: V3 - "Writer Must Cover" Bullets (NEW)
+
+**V3 REQUIREMENT:** Each H2/H3 section needs explicit "Writer must cover" bullets.
+
+### Format:
+```markdown
+### H2: [Section Title] (XXX-XXX words)
+
+**Target Keyword:** "[keyword]" (XXX/mo)
+
+**Writer must cover:**
+- [Specific point 1 - not vague, actionable]
+- [Specific point 2 - with data requirement if applicable]
+- [Specific point 3 - citing specific source type]
+
+**Example of GOOD bullets:**
+- List all 32 county teams covered for GAA betting
+- Compare odds margins across top 3 competitors (cite specific percentages)
+- Include App Store rating with review count: "X.X/5 from X reviews"
+
+**Example of BAD bullets (too vague):**
+- Discuss GAA coverage
+- Compare odds
+- Mention app ratings
+```
+
+---
+
 ## Output: Writer Brief
 
 ```markdown
@@ -363,6 +525,12 @@ Compile all keywords for AI to add:
 - Word Count: [Target]
 - Template: [1/2/3/4]
 - Page Type: [Hub/Comparison/Review/How-To]
+
+## WORD COUNT TARGETS BY SECTION (V3)
+[Table as shown in Step 6C]
+
+## COMPETITOR REFERENCES (V3)
+[Table as shown in Step 6B]
 
 ## KEYWORD-TO-SECTION MAPPING (COMPLETE)
 

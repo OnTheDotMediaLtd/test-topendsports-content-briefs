@@ -304,3 +304,83 @@ python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview '{...}'
 **Competitor Gap Unclear**
 → Default: Calculator, 7 FAQs, Comparison table
 → These are always improvements
+
+---
+
+## V3 Standard Lessons (December 2025)
+
+**Added:** December 18, 2025
+**Source:** User feedback on Ireland Betting Hub brief quality comparison
+
+### Lesson V3-1: Keyword Volume Totals for Verification
+
+**Problem:** Writers had no way to verify all keywords were mapped correctly.
+
+**Solution:** Always include a sum total of secondary keyword volumes:
+```
+**✅ VERIFICATION:**
+- Unmapped Keywords: NONE
+- Total Secondary Volume: 2,960/mo
+- Cluster Increase: 658% over primary (450/mo)
+```
+
+**Why it matters:** Writers can cross-check the sum against Phase 1 research to catch mapping errors.
+
+### Lesson V3-2: Exact Internal Link Placement
+
+**Problem:** "Link within first 500 words" is too vague - writers don't know which section.
+
+**Solution:** Map every internal link to a specific section:
+```
+| # | Anchor Text | Target URL | Exact Placement Section |
+|---|-------------|------------|-------------------------|
+| 1 | best betting apps ireland | /ireland/betting-apps.htm | Introduction (paragraph 2) |
+| 2 | free bets ireland | /ireland/free-bets.htm | Quick Answer Box |
+```
+
+**Why it matters:** Precise placement improves user flow and ensures consistent link architecture.
+
+### Lesson V3-3: Competitor URLs as Research Benchmarks
+
+**Problem:** Writers had no competitive reference points for content depth.
+
+**Solution:** Include 2-3 competitor URLs with notes on what to observe:
+```
+| Competitor | URL | What to Note |
+|------------|-----|--------------|
+| Action Network | https://actionnetwork.com/betting/ireland | H2 structure |
+| Covers | https://covers.com/betting/ireland | FAQ count |
+```
+
+**Why it matters:** Writers can calibrate their content depth against real competitors.
+
+### Lesson V3-4: Mobile Section Cannibalization Prevention
+
+**Problem:** Hub pages with 10 brands × 100-200 words mobile = 1,000-2,000 words competing with `/betting-apps.htm`.
+
+**Solution:** Different mobile word limits by page type:
+- Hub pages: 75-100 words/brand (overview only)
+- Comparison pages: 100-150 words/brand
+- Review pages: 150-200 words total
+
+**Why it matters:** Prevents internal competition between hub and dedicated app pages.
+
+### Lesson V3-5: E-E-A-T Author Requirements
+
+**Problem:** No author information specified for YMYL gambling content.
+
+**Solution:** Every brief must include:
+- Author name (assigned writer)
+- Author credentials
+- Author bio link format
+
+**Why it matters:** Google YMYL guidelines require clear authorship for gambling content.
+
+---
+
+## V3 Standard Reference
+
+For complete V3 requirements, see:
+- `references/phase2-writer.md` (Steps 6A-6E)
+- `references/quality-checklist.md` (V3 Mandatory Checks)
+- `references/hub-page-strategy.md` (Mobile Section Anti-Cannibalization)
