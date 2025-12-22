@@ -13,6 +13,36 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | High |
+| Comparison Table | 50 | High |
+| FanDuel App Review | 450 | High |
+| BetMGM App Review | 450 | High |
+| Bet365 App Review | 450 | High |
+| DraftKings App Review | 450 | High |
+| theScore BET App Review | 450 | High |
+| Caesars, Fanatics, BetRivers, Hard Rock Bet, Borgata | 450 each (2,250 total) | High |
+| How We Test & Rank Betting Apps | 300 | Medium |
+| What Makes a Great Sports Betting App | 300 | Medium |
+| Payment Methods Comparison | 250 | Medium |
+| State Availability Matrix | 200 | Medium |
+| iOS vs Android | 200 | Medium |
+| How to Download Betting Apps | 200 | Medium |
+| App Performance & Technology | 200 | Medium |
+| Security & Biometric Features | 200 | Medium |
+| Live Betting Capabilities | 200 | Medium |
+| Best Apps for Football Betting | 200 | Medium |
+| Sports Gambling Apps vs Traditional Sportsbooks | 200 | Medium |
+| Age Requirements for Betting Apps | 150 | Medium |
+| Calculator Tool Integration | 100 | Low |
+| FAQs (12 questions) | 1,200 | High |
+| Responsible Gambling | 150 | High |
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 Every keyword from Phase 1 MUST appear in the content. Here's the mapping:
@@ -51,8 +81,23 @@ Every keyword from Phase 1 MUST appear in the content. Here's the mapping:
 - fanatics app (200/mo) → Fanatics App Review
 - thescore bet app (60/mo) → theScore BET App Review
 
+**Total Secondary Keyword Volume:** 62,120/mo (represents 310% increase over primary keyword volume of 20,000/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for Phase 3):**
 sports betting apps, betting apps, best sports betting app, sports betting app, best betting apps, betting app, top betting apps, top sports betting apps, football betting apps, sports gambling apps, sports betting apps california, what sports betting apps are 18+, sports betting app development company, what sports betting apps are legal in missouri, sports betting apps colorado, sports betting apps maine, 18 sports betting apps, sports betting mobile apps, sports betting apps legal, sports betting apps for 20 year olds, bet365 app, fanduel app, draftkings app, betmgm app, hard rock bet app, borgata app, betrivers app, caesars app, fanatics app, thescore bet app
+
+---
+
+## COMPETITOR REFERENCES
+
+| Competitor | URL | Why Reference |
+|------------|-----|---------------|
+| Action Network | https://www.actionnetwork.com/sports-betting/best-sports-betting-apps | Market leader structure - comprehensive app reviews |
+| Covers | https://www.covers.com/betting/usa/apps | Content depth - detailed feature comparisons |
+| The Lines | https://www.thelines.com/betting/apps/ | Comparison format - table-driven approach |
+
+**Note:** Reference these competitors for content gaps and structure only. NEVER cite them for pros/cons or editorial opinions. Use TIER 1 sources (App Store, Reddit, Google Play) for all subjective assessments.
 
 ---
 
@@ -224,16 +269,26 @@ Each brand gets exactly 450 words structured as:
 **Additional Universal Sections:**
 
 ### H2: How We Test & Rank Betting Apps (300 words)
-- Methodology explanation
-- App Store ratings analysis
-- Real user review aggregation
-- Performance testing criteria
-- Feature comparison process
-- Payment speed verification
-- Customer support testing
-- Security and licensing verification
+
+**Writer must cover:**
+- Methodology explanation with transparency about testing process
+- App Store ratings analysis with specific review counts
+- Real user review aggregation from Reddit and Trustpilot
+- Performance testing criteria (load times, crash rates)
+- Feature comparison process across all 10 apps
+- Payment speed verification with actual withdrawal testing
+- Customer support testing response times
+- Security and licensing verification for all states
 
 ### H2: What Makes a Great Sports Betting App (300 words)
+
+**Writer must cover:**
+- Core betting app requirements vs desktop sites
+- User experience elements that matter most
+- Security and licensing considerations
+- Payment method diversity and speed
+- Customer support accessibility
+
 - **H3: Betting App Basics (150 words)**
   - Core features every app needs
   - Essential functionality
@@ -245,11 +300,14 @@ Each brand gets exactly 450 words structured as:
   - Why apps beat web browsers
 
 ### H2: Payment Methods Comparison (250 words)
-- Table showing payment methods by app
+
+**Writer must cover:**
+- Complete payment method table for all 10 apps
 - Methods: Venmo, PayPal, Apple Pay, bank transfer, debit card, credit card
-- Processing times by method
-- Minimum deposit/withdrawal amounts
-- Fastest payout methods
+- Processing times by method (be specific: 24 hours, 48 hours, etc.)
+- Minimum deposit/withdrawal amounts for each app
+- Fastest payout methods with actual timeframes
+- Fee structures for each payment method
 
 ### H2: State Availability Matrix (200 words)
 - Table showing which apps are available in which states
@@ -295,11 +353,14 @@ Each brand gets exactly 450 words structured as:
 - Real-time odds updates
 
 ### H2: Best Apps for Football Betting (200 words)
-- NFL-specific features by app
-- Player props availability
-- Same game parlay builders
-- Live NFL betting interfaces
-- Season-long features
+
+**Writer must cover:**
+- Top 3 apps specifically for NFL betting (FanDuel, DraftKings, BetMGM)
+- NFL-specific features by app with examples
+- Player props availability (cite specific counts per game)
+- Same game parlay builders comparison
+- Live NFL betting interfaces and Flash Betting features
+- Season-long features (futures, win totals)
 
 ### H2: Sports Gambling Apps vs Traditional Sportsbooks (200 words)
 - Mobile app advantages
@@ -533,6 +594,14 @@ Include these internal links naturally throughout the content:
 - Do NOT include affiliate disclosure in the intro
 - Sidebar disclosure is standard across all pages
 - Focus intro on direct answer and context only
+
+### E-E-A-T Author Requirements:
+- **Author Name:** Lewis Humphries
+- **Credentials:** 8+ years sports betting industry experience, licensed sports betting analyst
+- **Bio Link:** Link to author bio page at https://www.topendsports.com/authors/lewis-humphries.htm
+- **Expertise Signals:** Include author byline with credentials at top of article
+- **Experience:** Author has personally tested all 10 betting apps across iOS and Android platforms
+- **Authority:** Regular contributor to TopEndSports betting guides since 2017
 
 ### Responsible Gambling Section:
 - **Required:** Yes, at end of content (before references if applicable)

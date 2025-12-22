@@ -17,6 +17,41 @@
 
 ---
 
+## COMPETITOR REFERENCE URLs
+
+Use these Canadian betting sites for competitive analysis and market context:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Use for: Canadian betting market trends, app analysis
+2. **ActionNetwork Canada** - https://www.actionnetwork.com/canada
+   - Use for: Sports betting app reviews, odds comparison
+3. **CanadaSportsBetting** - https://www.canadasportsbetting.ca/online-sportsbook-reviews/mobile-apps/
+   - Use for: Mobile app rankings, download guides
+
+**Important:** These are for research context only. DO NOT cite these competitor sites for pros/cons or recommendations. Use TIER 1 sources (App Store, Google Play, Reddit) for brand evaluations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+
+**Credentials Required:**
+- Minimum 3+ years sports betting app testing experience
+- Demonstrated expertise in Canadian sports betting market
+- Hands-on experience with iOS and Android betting apps
+- Knowledge of offshore vs regulated app differences
+
+**Author Bio Link:** [To be added by editorial team]
+
+**E-E-A-T Signals to Include:**
+- Author has personally downloaded and tested all 9 featured betting apps
+- Direct experience with app-based deposits (Interac, crypto)
+- Testing on multiple devices (iOS and Android platforms)
+- Knowledge of Canadian sports betting landscape (NHL, CFL focus)
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 Map EVERY secondary keyword to a specific section. Use exact titles provided.
@@ -77,6 +112,26 @@ betting apps canada, best sports betting apps canada, best betting apps canada, 
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words |
+|---------|--------------|
+| Introduction | 100-150 |
+| Comparison Table | 400-500 |
+| Brand Reviews (9 total) | 3,550 |
+| Payment Methods | 350-400 |
+| Best Bonuses | 400-450 |
+| How to Download | 400-450 |
+| Best Apps by Sport | 500-550 |
+| Android vs iOS | 350-400 |
+| Mobile Features | 300-350 |
+| Types of Gambling Apps | 250-300 |
+| FAQs (10 total) | 1,200-1,400 |
+| Responsible Gambling | 150-200 |
+| **TOTAL** | **~6,500** |
+
+---
+
 ## V2 CRITICAL REQUIREMENTS
 
 **This brief follows V2 standards. Ensure ALL requirements are met:**
@@ -104,6 +159,13 @@ betting apps canada, best sports betting apps canada, best betting apps canada, 
 ---
 
 ### H2: Top Sports Betting Apps Canada: Comparison Table (400-500 words)
+
+**Writer must cover:**
+- Comprehensive comparison table with all 9 brands and key metrics
+- App Store ratings (iOS) and Google Play ratings (Android) for each brand
+- Welcome bonuses, NHL markets availability, and live betting features
+- Payment methods (Interac, crypto) with clear indicators
+- Download links for both platforms (iOS and Android)
 
 Create comprehensive comparison table with all 9 brands:
 
@@ -211,6 +273,12 @@ Create comprehensive comparison table with all 9 brands:
 
 ### H2: Popular Payment Methods on Canadian Betting Apps (350-400 words)
 
+**Writer must cover:**
+- Interac e-Transfer as #1 payment method for Canadian app users
+- Cryptocurrency options (Bitcoin, Ethereum, Litecoin) with processing times
+- Traditional methods (credit/debit) and Canadian bank restrictions
+- Which apps accept which payment methods (comparison context)
+
 #### H3: Interac E-Transfer (100-125 words)
 - Most popular Canadian method
 - Processing times (instant deposits, 24-48hr withdrawals)
@@ -236,6 +304,12 @@ Create comprehensive comparison table with all 9 brands:
 ### H2: Best Bonuses Across Canadian Betting Apps (400-450 words)
 
 **Competitor Gap:** Top-ranking competitor has this section - we need it too.
+
+**Writer must cover:**
+- Welcome bonus comparison across all 9 apps with wagering requirements
+- App-exclusive bonus offers (mobile-only promotions, download bonuses)
+- Ongoing promotions for mobile users (reload bonuses, parlay boosts)
+- Bonus comparison table with amounts, wagering, and app-exclusive offers
 
 #### H3: Welcome Bonus Comparison (150-175 words)
 - Compare welcome bonuses across all 9 apps
@@ -269,6 +343,12 @@ Create comprehensive comparison table with all 9 brands:
 
 ### H2: How to Download Betting Apps in Canada (400-450 words)
 
+**Writer must cover:**
+- iOS download process (App Store, web apps, direct links from brand sites)
+- Android download process (Google Play, APK downloads for offshore apps)
+- Security settings for Android (allow unknown sources for APKs)
+- Step-by-step installation and account creation for both platforms
+
 #### H3: iOS Download Guide (150-200 words)
 - App Store search method
 - Direct download links from brand sites
@@ -288,6 +368,12 @@ Create comprehensive comparison table with all 9 brands:
 ---
 
 ### H2: Best Betting Apps by Sport (500-550 words)
+
+**Writer must cover:**
+- Best NHL betting apps (top 3) with puck line markets and player props
+- Best CFL betting apps with Grey Cup coverage (uniquely Canadian)
+- Best soccer betting apps for EPL, Champions League, and CPL
+- Best NBA/NFL betting apps with live betting and player props
 
 #### H3: Best NHL Betting Apps (150-175 words)
 **Emphasis on Canadian market - NHL is #1 sport**
@@ -332,6 +418,12 @@ Create comprehensive comparison table with all 9 brands:
 
 **Target Keywords:** android betting apps canada (20/mo), iphone betting apps canada (20/mo)
 
+**Writer must cover:**
+- App Store vs Google Play availability for offshore betting apps
+- Performance comparison (speed, crashes, stability) between platforms
+- Feature parity analysis (do Android and iOS have same features?)
+- Download process differences (APK for Android, web apps for iOS restrictions)
+
 **Compare:**
 - App Store vs Google Play availability
 - Performance comparison (speed, crashes)
@@ -349,6 +441,12 @@ Create comprehensive comparison table with all 9 brands:
 ### H2: Mobile Betting App Features: What to Look For (300-350 words)
 
 **Target Keyword:** mobile betting apps canada (20/mo)
+
+**Writer must cover:**
+- Essential features (live betting speed, Touch ID/Face ID, push notifications, cash out)
+- Bonus features (dark mode, customizable home screen, stats integration)
+- Contextual links to parlay calculator and odds calculator tools
+- Which apps excel at specific features (comparison context)
 
 **Essential Features:**
 - Live betting speed (real-time odds updates)
@@ -375,6 +473,11 @@ Create comprehensive comparison table with all 9 brands:
 ### H2: Types of Gambling Apps Available in Canada (250-300 words)
 
 **Target Keyword:** gambling apps canada (300/mo)
+
+**Writer must cover:**
+- Sports betting apps (focus on sports markets, live betting, best examples)
+- Casino apps (slots, table games, live dealer options)
+- Hybrid apps (sports + casino all-in-one platforms with shared wallets)
 
 #### H3: Sports Betting Apps (75-100 words)
 - Focus on sports markets
@@ -693,15 +796,20 @@ Each brand's Mobile Experience section MUST include:
 
 ---
 
-## FINAL DELIVERABLE CHECKLIST (V2 STANDARDS)
+## FINAL DELIVERABLE CHECKLIST (V3 STANDARDS)
 
 Before submitting to AI Enhancement (Phase 3):
 
 - [ ] 6,500 words total
 - [ ] All 13 secondary keywords mapped to sections with "Unmapped Keywords: NONE" verified
+- [ ] **Keyword Volume Total:** 3,480/month (596% increase over primary keyword) ⭐ **V3 REQUIRED**
 - [ ] 10 FAQs targeting keywords (120-150 words each)
 - [ ] Mobile Experience section for ALL 9 brands (100-150 words each) ⭐ **V2 CRITICAL**
 - [ ] App Store ratings cited for each brand (iOS + Android)
+- [ ] **"Writer must cover" bullets** under each H2 section (3-5 specific points) ⭐ **V3 REQUIRED**
+- [ ] **Competitor Reference URLs section** included (Covers.com/ca, ActionNetwork, CanadaSportsBetting) ⭐ **V3 REQUIRED**
+- [ ] **E-E-A-T Author Requirements section** included (credentials, bio link, experience signals) ⭐ **V3 REQUIRED**
+- [ ] **Word Count by Section Table** included ⭐ **V3 REQUIRED**
 - [ ] Payment Methods Comparison section (350-400w with table) ⭐ **V2 CRITICAL**
 - [ ] Calculator Tool Links (1-2 contextual links to parlay/odds calculators) ⭐ **V2 CRITICAL**
 - [ ] 8 internal links included (verified existing pages only)

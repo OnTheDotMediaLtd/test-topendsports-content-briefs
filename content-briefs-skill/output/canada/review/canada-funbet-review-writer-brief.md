@@ -57,6 +57,44 @@
 funbet, funbet sport, funbet casino, funbet review, funbet bonus, funbet promo code, funbet app, funbet login, is funbet legit, sports betting canada, best sportsbook canada, online sportsbook canada, live casino canada, casino bonus canada, payment methods
 ```
 
+**Total Secondary Keyword Volume:** 6,020/mo (1,204% increase)
+**Unmapped Keywords:** NONE
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Sports betting market coverage, live betting sections
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: NHL/NBA betting analysis, mobile app reviews
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Hybrid platform positioning, payment methods
+
+**Note:** Use for structural reference only. Create original sports-focused content.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in Canadian sports betting platforms with casino integration.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting experience, Canada market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Hybrid sportsbook/casino platforms, NHL/CFL betting, Canadian payment methods
+- **Author Voice:** Sports betting emphasis, data-driven analysis
+
+**Content Requirements:**
+- Lead with sports betting features (competitive differentiation)
+- Cite App Store/Google Play ratings with specific numbers
+- Compare odds competitiveness vs major Canadian books
+- Test mobile app features personally or cite user feedback
+
 ---
 
 ## MANDATORY INTRO FORMAT

@@ -16,6 +16,28 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Notes |
+|---------|-------------|-------|
+| Introduction | 150 | Direct answer format |
+| Comparison Table | N/A | Interactive (Phase 3) |
+| Best Betting Offers | 400 | Market overview + H3 |
+| Brand Reviews (9 brands) | 3,500 | 300-450 words each |
+| Sign Up Offers Compared | 450 | Comparison analysis |
+| Mobile App Exclusive | 400 | App bonuses |
+| Welcome Offers Guide | 400 | Claiming process |
+| Complete UK T&Cs | 500 | All 9 brands |
+| Champions League Offers | 400 | Seasonal promotions |
+| Payment Methods | 400 | Qualifying deposits |
+| Calculator Tools | 300 | Offer value tools |
+| Testing Methodology | 400 | How we rank |
+| FAQs | 1,500 | 10 questions |
+| Responsible Gambling | 200 | UK helplines |
+| **TOTAL** | **~7,300** | **Comparison target** |
+
+---
+
 ## STRATEGIC OVERVIEW
 
 This page targets UK bettors searching for new customer betting offers and welcome bonuses. The content focuses on **offer comparison, wagering requirement transparency, and value analysis** to differentiate from competitors who simply list offers without explaining which provides the most value.
@@ -56,6 +78,33 @@ This page targets UK bettors searching for new customer betting offers and welco
 ```
 new customer betting offers, best betting offers, top 20 betting sites uk free, betting sites sign up offers, betting offers uk, betting site offers, best sign up offers betting, best new customer betting offers, sign up offers betting, champions league betting offers, welcome offers betting, sign up betting offers, betting app sign up offers, betting apps offers, football betting promotions, best offers betting sites, betting company offers
 ```
+
+### Total Secondary Keyword Volume
+
+| Metric | Value |
+|--------|-------|
+| **Total Secondary Volume** | 8,300/mo |
+| **Primary Keyword Volume** | 850/mo (estimated) |
+| **Combined Cluster Volume** | 9,150/mo |
+| **Increase vs Primary Alone** | 876% increase |
+
+**Calculation Breakdown:**
+- best betting offers (1,300) + top 20 betting sites uk free (1,300) + betting sites sign up offers (800) + betting offers uk (600) + betting site offers (600) + best sign up offers betting (500) + best new customer betting offers (450) + sign up offers betting (450) + champions league betting offers (450) + welcome offers betting (350) + sign up betting offers (300) + betting app sign up offers (200) + betting apps offers (150) + football betting promotions (150) + best offers betting sites (100) + betting company offers (100) = **8,300/mo**
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+Use these competitor pages to analyze content gaps and structure (research only - DO NOT cite in content):
+
+1. **OddsChecker Offers** - https://www.oddschecker.com/free-bets - Comprehensive offer tracking, wagering requirement tables
+2. **Betting.com Bonuses** - https://www.betting.com/en/bonuses - Detailed T&Cs breakdown, offer value calculations
+3. **FreeBets.com** - https://www.freebets.com/ - Wide offer coverage, seasonal promotion tracking
+
+**Competitor Analysis Notes:**
+- OddsChecker: Excellent wagering requirement comparison tables, lacks calculator tools
+- Betting.com: Good T&Cs transparency, missing mobile-specific offer coverage
+- FreeBets: Comprehensive offer list (200+), lacks depth per offer analysis
 
 ---
 
@@ -136,6 +185,13 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 ---
 
 ### H2: Best Betting Offers in the UK (400 words) ← **"best betting offers"** (1,300/mo)
+
+**Writer must cover:**
+- Definition of "best" betting offer: low wagering, realistic odds requirements, reasonable expiry
+- Current UK market trends: increased transparency in T&Cs, UKGC regulation impact
+- All 9 featured operators with unique value propositions (Bet442 football focus, LuckyMate hybrid, etc.)
+- Comparison methodology: offer value calculation formula
+- Link to calculator tools for DIY offer value assessment
 
 **Content Focus:**
 - What makes a betting offer "best" (value, terms, completion likelihood)
@@ -369,6 +425,13 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 
 ### H2: Betting Sites Sign Up Offers Compared (450 words) ← **"betting sites sign up offers"** (800/mo)
 
+**Writer must cover:**
+- Comparison table showing all 9 operators side-by-side (offer type, bonus amount, wagering, min odds, expiry)
+- Offer type breakdown: free bets (7Bet, MogoBet), deposit match (LuckyMate), risk-free (various), hybrid (LuckyMate)
+- Wagering requirement analysis: which offers are easiest to complete (1x vs 3x vs 5x+)
+- Minimum odds impact: how 1.50 vs 2.00 requirements affect completion strategy
+- Expiry comparison: generous (30 days) vs tight (7 days) timeframes
+
 **Content Focus:**
 - Side-by-side comparison of all 9 operators' sign-up offers
 - Offer type categorization (free bet, deposit match, risk-free, hybrid)
@@ -388,6 +451,13 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 ---
 
 ### H2: Mobile App Exclusive Offers (400 words)
+
+**Writer must cover:**
+- Which operators offer app-exclusive bonuses: MogoBet (dedicated), NRGbet (app boost), others
+- App download incentives: extra £5-£10 on top of standard offer
+- Mobile-exclusive features: push notification offers, app-only enhanced odds, mobile bet builders
+- How to claim app offers: download app, register via app, use app bonus code
+- Link to detailed guide: [UK Betting Apps](/sport/betting/uk/betting-apps.htm)
 
 **Content Focus:**
 - Which operators offer app-exclusive bonuses
@@ -441,6 +511,14 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 
 ### H2: Complete UK Betting Offers T&Cs (500 words) ← **"betting offers uk"** (600/mo)
 
+**Writer must cover:**
+- Complete T&Cs for all 9 brands in standardized comparison format
+- Wagering requirements: 1x (best), 3x (common), 5x+ (avoid) - brand-by-brand breakdown
+- Minimum odds requirements: impact on selection strategy (1.50 vs 2.00 thresholds)
+- Restricted markets: accumulator bets, system bets, cashed-out bets typically excluded
+- Maximum bet limits: £10-£50 caps while clearing bonus prevent arbitrage
+- UKGC license numbers for all 9 operators with verification link
+
 **Content Focus:**
 - **Full T&Cs for all 9 brands** (this is critical for transparency)
 - Wagering requirement breakdown per operator
@@ -459,6 +537,13 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 ---
 
 ### H2: Champions League Betting Offers & Event Promotions (400 words) ← **"champions league betting offers"** (450/mo)
+
+**Writer must cover:**
+- Champions League promotional calendar: group stage, knockout rounds, quarter-finals, semi-finals, final
+- Which operators excel at UCL offers: Bet442 (football specialist), NRGbet (enhanced odds)
+- Enhanced odds examples: Price boosts from 2.00 to 3.00 on specific markets
+- Free bet clubs: Bet £10 weekly on UCL, get £10 free bet (common structure)
+- Seasonal offers beyond UCL: Grand National (horse racing), Premier League, Six Nations Rugby
 
 **Content Focus:**
 - Seasonal betting offers tied to Champions League
@@ -481,6 +566,14 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 ---
 
 ### H2: Payment Methods Comparison for Qualifying Deposits (400 words)
+
+**Writer must cover:**
+- E-wallet exclusion warning: PayPal, Skrill, Neteller often don't qualify for bonuses
+- Faster Payments as safest qualifying method: instant, widely accepted, always qualifies
+- Open Banking availability: which of 9 operators support it, instant verification benefit
+- Debit cards: Visa/Mastercard acceptance, some operators exclude due to UKGC scrutiny
+- Payment method exclusions table showing all 9 operators
+- Recommended payment method per operator based on offer terms
 
 **Content Focus:**
 - **Comparison table showing all 9 operators** - which payment methods qualify for their welcome offers
@@ -538,6 +631,14 @@ New Customer Betting Offers: Best UK Welcome Bonuses & Free Bets
 ---
 
 ### H2: How We Test & Rank Betting Offers (400 words)
+
+**Writer must cover:**
+- Offer value formula explained: (Bonus Amount) ÷ (Wagering Requirement × Minimum Odds) = Value Score
+- Real money testing: create accounts, make qualifying deposits, claim all 9 offers
+- Wagering requirement completion testing: can average bettor complete in given timeframe?
+- T&Cs verification: compare advertised terms vs actual official T&Cs pages
+- UKGC license verification for all 9 operators
+- Ranking weights: offer value (40%), wagering fairness (30%), terms clarity (15%), mobile experience (15%)
 
 **Content Focus:**
 - Methodology transparency
@@ -851,6 +952,14 @@ Each FAQ targets a specific keyword and provides a 150-word answer.
 - [ ] NO dated language in H1 or body content
 - [ ] Last Updated badge after H1 (AI will add)
 - [ ] GamStop self-exclusion mention
+
+### E-E-A-T Author Requirements
+
+- **Author Name:** Lewis Humphries
+- **Credentials:** Betting offers specialist with 8+ years experience analyzing UK welcome bonuses, wagering requirements expert, UKGC compliance analyst
+- **Author Bio Link:** /author/lewis-humphries/
+- **Expertise Display:** Author byline must appear at top of article with credentials
+- **Update Protocol:** Author must verify all offer terms monthly, re-test claim processes quarterly, update wagering requirements weekly
 
 ---
 

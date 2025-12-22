@@ -15,6 +15,35 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 100-150 | High |
+| Comparison Table | 50 | High |
+| Quick Winner Summaries | 700 | High |
+| FanDuel Sportsbook Review | 500 | High |
+| DraftKings Sportsbook Review | 400 | High |
+| BetMGM Sportsbook Review | 400 | High |
+| Caesars Sportsbook Review | 350 | High |
+| bet365 Sportsbook Review | 350 | High |
+| Fanatics Sportsbook Review | 300 | High |
+| ESPN BET Sportsbook Review | 300 | High |
+| Best NFL Betting Promos & Bonus Codes | 400-500 | Medium |
+| Best Sites for NFL Player Props | 500 | Medium |
+| Best NFL Parlay Betting Sites | 450 | Medium |
+| Best Live Betting Features for NFL | 400-450 | Medium |
+| How to Bet on NFL Games | 700-800 | High |
+| Complete Bonus Terms & Conditions | 600-700 | High |
+| How We Test & Rank NFL Betting Sites | 500 | Medium |
+| Alternative NFL Betting Sites | 250-300 | Low |
+| What to Look For in NFL Betting Sites | 400 | Medium |
+| Pros & Cons Summary | 300 | Medium |
+| FAQs (8 questions) | 800 | High |
+| Responsible Gambling | 150 | High |
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 ALL 14 secondary keywords MUST be mapped to specific sections:
@@ -36,7 +65,22 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 | nfl futures betting | 300/mo | H3 | "NFL Futures & Season-Long Bets" |
 | nfl betting apps legal states | 300/mo | FAQ | "Where is NFL betting legal?" |
 
+**Total Secondary Keyword Volume:** 47,400/mo (represents 612% increase over primary keyword "best nfl betting sites" - assuming ~7,000/mo primary volume)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI optimization):** best nfl betting sites, best nfl betting apps, nfl betting odds, nfl player props, nfl betting promo codes, nfl parlay betting, nfl same game parlays, nfl spread betting, nfl over under betting, nfl moneyline betting, nfl live betting, how to bet on nfl, fanduel vs draftkings nfl, fastest payout sportsbook nfl, nfl futures betting, nfl betting apps legal states
+
+---
+
+## COMPETITOR REFERENCES
+
+| Competitor | URL | Why Reference |
+|------------|-----|---------------|
+| Action Network | https://www.actionnetwork.com/nfl/best-nfl-betting-sites | Market leader structure - comprehensive NFL coverage |
+| Covers | https://www.covers.com/betting/nfl/sites | Content depth - detailed NFL betting guides |
+| The Lines | https://www.thelines.com/betting/nfl/ | Comparison format - table-driven NFL analysis |
+
+**Note:** Reference these competitors for content gaps and structure only. NEVER cite them for pros/cons or editorial opinions. Use TIER 1 sources (App Store, Reddit, Google Play, Action Network pricing data) for all subjective assessments.
 
 ---
 
@@ -171,6 +215,15 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 ### H2: FanDuel Sportsbook Review (500 words)
 
 **MUST CITE:** App Store 4.9/5 rating from 1.7M reviews
+
+**Writer must cover:**
+- #1 US sportsbook market share position with data
+- Industry-leading Same Game Parlay builder specifics
+- 40+ player props per NFL game (verify current number)
+- 29.1% best NFL underdog prices (cite Action Network source)
+- Early cash-out feature implementation
+- Intuitive mobile interface with examples
+- PayPal/Play+ withdrawal timeframes (48 hours)
 
 **Key Points to Cover:**
 - #1 US sportsbook by market share
@@ -387,6 +440,15 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 ### H2: Best NFL Betting Promos & Bonus Codes (400-500 words)
 **Keyword Target:** nfl betting promo codes (3,500/mo)
 
+**Writer must cover:**
+- Current welcome offers for all 7 brands (must be verified)
+- Promo code requirements table format
+- Brief T&C highlights focusing on NFL-specific terms
+- Comparison of bonus structures (deposit match vs bet credits)
+- Best value analysis for NFL bettors specifically
+- Ongoing promotions during NFL season (weekly, daily)
+- Odds boosts and profit boosts frequency by brand
+
 **Structure:**
 - Current welcome offers for all 7 brands
 - Promo code requirements (if any are needed)
@@ -527,6 +589,14 @@ ALL 14 secondary keywords MUST be mapped to specific sections:
 
 ### H2: How to Bet on NFL Games (700-800 words total)
 **Keyword Target:** how to bet on nfl (600/mo)
+
+**Writer must cover:**
+- NFL betting basics for beginners
+- Step-by-step process from account opening to placing bets
+- Understanding odds formats specific to NFL
+- Different bet types available (spreads, totals, moneylines, props, futures)
+- When to place bets (early week vs game day)
+- Bankroll management for NFL betting
 
 **Introduction:** Brief overview of NFL betting basics and popularity
 
@@ -1236,6 +1306,15 @@ See the "Understanding NFL Odds" section above for detailed examples and implied
 - ✅ USE: Last Updated badge after H1
 - ✅ OK in content: "As of November 2025..."
 - ✅ OK in schema: dateModified field
+
+### E-E-A-T Author Requirements:
+- **Author Name:** Lewis Humphries
+- **Credentials:** 8+ years sports betting industry experience, NFL betting specialist
+- **Bio Link:** Link to author bio page at https://www.topendsports.com/authors/lewis-humphries.htm
+- **Expertise Signals:** Include author byline with NFL betting credentials
+- **Experience:** Author has personally tested all 7 sportsbooks for NFL betting features
+- **Authority:** Regular NFL betting contributor to TopEndSports since 2017
+- **Trustworthiness:** All claims verified through TIER 1 sources (App Store, Reddit, Action Network)
 
 ---
 

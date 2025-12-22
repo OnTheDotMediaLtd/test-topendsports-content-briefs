@@ -13,6 +13,26 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 100-150 | High |
+| Top 7 NBA Betting Sites Ranked | 1,400 | High |
+| Best NBA Betting Apps for 2025 | 300-400 | Medium |
+| Understanding NBA Betting Odds | 250-300 | Medium |
+| Best Sites for NBA Player Props | 300-350 | Medium |
+| Live NBA Betting Features | 250-300 | Medium |
+| Legal NBA Betting Sites by State | 200-250 | Medium |
+| NBA Same Game Parlay Options | 200-250 | Medium |
+| Best NBA Betting Bonuses & Promos | 200-250 | Medium |
+| NBA Futures and Championship Odds | 150-200 | Low |
+| How to Choose an NBA Betting Site | 250-300 | Medium |
+| FAQ Section (7 questions) | 700 | High |
+| Responsible Gambling | 150 | High |
+
+---
+
 ## Primary Objective
 
 Create the definitive guide to NBA betting sites that:
@@ -20,6 +40,21 @@ Create the definitive guide to NBA betting sites that:
 2. Covers all major bet types (spreads, props, parlays, futures)
 3. Addresses state legality questions
 4. Provides actionable guidance for new and experienced bettors
+
+---
+
+## COMPETITOR REFERENCES
+
+| Competitor | URL | Why Reference |
+|------------|-----|---------------|
+| Action Network | https://www.actionnetwork.com/nba/best-nba-betting-sites | Market leader structure - comprehensive NBA coverage |
+| Covers | https://www.covers.com/betting/nba/sites | Content depth - detailed NBA betting guides |
+| The Lines | https://www.thelines.com/betting/nba/ | Comparison format - table-driven NBA analysis |
+
+**Note:** Reference these competitors for content gaps and structure only. NEVER cite them for pros/cons or editorial opinions. Use TIER 1 sources (App Store, Reddit, Google Play) for all subjective assessments.
+
+**Total Secondary Keyword Volume:** 4,650/mo (represents 665% increase over primary keyword "best nba betting sites" - 700/mo)
+**Unmapped Keywords:** NONE
 
 ---
 
@@ -38,6 +73,14 @@ Create the definitive guide to NBA betting sites that:
 ---
 
 ### H2: Top 7 NBA Betting Sites Ranked (best nba betting sites - 700/mo)
+
+**Writer must cover:**
+- Clear ranking methodology explanation
+- Specific differentiators for each sportsbook
+- NBA-specific features highlighting
+- App Store/Google Play ratings for all 7 apps
+- Pros/cons based on TIER 1 sources only (App Store, Reddit)
+- Current welcome bonuses (verified)
 
 **For each sportsbook, include:**
 
@@ -81,6 +124,14 @@ Create the definitive guide to NBA betting sites that:
 ---
 
 ### H2: Best NBA Betting Apps for 2025 (best nba betting apps - 500/mo)
+
+**Writer must cover:**
+- Mobile app comparison across all 7 apps
+- iOS vs Android ratings with specific numbers
+- Key mobile features unique to each app
+- Download instructions for both platforms
+- Mobile-exclusive NBA features
+- Performance during high-traffic NBA games
 
 **Content (300-400 words):**
 - Mobile app comparison table
@@ -203,13 +254,23 @@ Create the definitive guide to NBA betting sites that:
 ### Compliance Section (Required)
 
 **Responsible Gambling:**
-- Age requirement: 21+ in most states
+- Age requirement: 21+ in most states (18+ in MT, NH, RI, WY, DC)
 - Problem gambling resources: 1-800-522-4700
 - Links to responsible gambling organizations
 
 **Affiliate Disclosure:**
-- Standard disclosure at top of page
-- Transparency about how rankings work
+- **NOT required in content** - appears in website sidebar
+- Do NOT include affiliate disclosure in the intro
+- Sidebar disclosure is standard across all pages
+
+### E-E-A-T Author Requirements:
+- **Author Name:** Lewis Humphries
+- **Credentials:** 8+ years sports betting industry experience, NBA betting specialist
+- **Bio Link:** Link to author bio page at https://www.topendsports.com/authors/lewis-humphries.htm
+- **Expertise Signals:** Include author byline with NBA betting credentials
+- **Experience:** Author has personally tested all 7 sportsbooks for NBA betting features
+- **Authority:** Regular NBA betting contributor to TopEndSports since 2017
+- **Trustworthiness:** All claims verified through TIER 1 sources (App Store, Reddit, Google Play)
 
 ---
 

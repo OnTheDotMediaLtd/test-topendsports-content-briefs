@@ -50,8 +50,53 @@ All 14 secondary keywords MUST be mapped to specific sections:
 | mogobet app | 10/mo | H2 | "MogoBet Mobile App Review" |
 | mogobet live chat | 10/mo | H2 + FAQ | "Customer Support Options" + FAQ question |
 
+**Total Secondary Keyword Volume:** 414/mo (66% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI to add):**
 mogobet, mogobet sport, mogobet review, mogobet sign up offer, mogobet promo code, mogobet sister sites, mogobet casino, mogobet app, mogobet trustpilot, mogobet live chat, mogobet casino bonus, mogobet bonus code, mogobet welcome offer, mogobet free bets
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/mogobet
+2. **Betting.com** - https://www.betting.com/uk/mogobet-review
+3. **RacingPost** - https://www.racingpost.com/betting/mogobet
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/tom-goldsmith.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 200 |
+| Rating Summary | 200 |
+| Welcome Bonus | 350 |
+| Promo Code | 150 |
+| Sports Features | 300 |
+| Casino & Games | 250 |
+| Mobile Experience | 150 |
+| Payment Methods | 250 |
+| Terms & Conditions | 300 |
+| Pros & Cons | 250 |
+| FAQs (10 questions) | 1,000-1,200 |
+| Responsible Gambling | 100 |
+| Final Verdict | 150 |
+| **TOTAL** | **3,500-4,000 words** |
 
 ---
 

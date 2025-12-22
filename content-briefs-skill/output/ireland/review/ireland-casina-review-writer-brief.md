@@ -45,7 +45,54 @@
 | best online bookies | 90/mo | 87 | FAQ | "Is Casinia one of the best online bookies?" |
 | betting online ireland | 70/mo | 78 | Mobile | Natural mention in mobile betting context |
 
+**Total Secondary Keyword Volume:** 2,960/mo (∞% increase - primary has 0/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords:** casina sport, casinia, sports betting ireland, best betting sites ireland, irish betting sites, online betting sites ireland, online betting ireland, betting companies ireland, irish bookies, bookies ireland, online bookmakers ireland, betting online ireland, bet ireland, best online bookies
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/casinia-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise Focus:** Altenar platform technology, cryptocurrency betting, international operator analysis
+
+**Why Lewis for this review:**
+- Expert in Altenar-powered sportsbook platforms and their advantages
+- Extensive knowledge of cryptocurrency payment systems for Irish market
+- Deep understanding of offshore operator licensing vs Ireland regulations
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | HIGH |
+| About Casinia Sportsbook | 250 | HIGH |
+| Key Features | 450 | CRITICAL |
+| Welcome Bonus & Promotions | 350 | HIGH |
+| Mobile Experience | 300 | HIGH |
+| - Mobile App (150-200w strict) | 175 | CRITICAL |
+| Payment Methods EUR | 300 | CRITICAL |
+| Sports & Markets Coverage | 350 | CRITICAL |
+| Casinia vs Irish Competitors | 350 | HIGH |
+| Pros and Cons | 250 | HIGH |
+| Customer Support | 200 | MEDIUM |
+| Licensing & Responsible Gambling | 350 | HIGH |
+| FAQs | 800 | HIGH |
+| Final Verdict | 200 | HIGH |
+| **TOTAL** | **3,700-4,200** | Target range |
 
 ---
 
@@ -144,6 +191,13 @@
 ### 3. H2: Key Features (450 words)
 **Keywords:** sportsbook platform, betting features
 
+**Writer must cover:**
+- Altenar platform advantages - why it's superior to legacy platforms
+- 35,000+ fixtures volume - how this compares to Paddy Power, Bet365
+- Cryptocurrency payment speed for Irish users (USDT instant vs 3-day bank transfers)
+- Bet Builder functionality - real examples of how Irish bettors can use it
+- Cash Out speed and reliability vs competitors
+
 #### H3: Altenar Platform Technology (90 words)
 - Platform capabilities and user interface
 - Navigation quality and design
@@ -222,6 +276,12 @@ Include:
 
 ### 5. H2: Mobile Experience (300 words)
 **Keywords:** mobile betting, betting app, betting online ireland
+
+**Mobile Experience Section (150-200 words STRICT LIMIT for review pages):**
+- App Store and Google Play ratings (if Casinia app exists)
+- Navigation quality and bet placement speed
+- Altenar mobile platform performance
+- Comparison with Paddy Power and BoyleSports mobile experience
 
 #### H3: Dedicated Mobile App (75 words)
 - App availability (iOS/Android)

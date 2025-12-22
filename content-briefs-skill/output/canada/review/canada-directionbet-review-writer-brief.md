@@ -83,6 +83,9 @@ This brief has been updated to V2 standards for REVIEW pages:
 
 **Total Brand Keyword Cluster:** ~119 searches/month
 
+**Total Secondary Keyword Volume:** 119/mo (100% brand focus)
+**Unmapped Keywords:** NONE
+
 ### Market Keywords (CONTEXTUAL MENTIONS ONLY - NOT PRIMARY TARGETS)
 
 These high-volume market keywords should appear NATURALLY in context, but are NOT the primary focus of this review page:
@@ -103,6 +106,41 @@ These high-volume market keywords should appear NATURALLY in context, but are NO
 ```
 directionbet, directionbet review, directionbet casino, directionbet canada, directionbet sportsbook, is directionbet legit, directionbet app, directionbet bonus, directionbet withdrawal, directionbet sports betting
 ```
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Review structure, keyword placement, feature coverage
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: Mobile experience descriptions, banking sections
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Compliance sections, responsible gambling integration
+
+**Note:** Use these for structural reference only. Do NOT copy content. Create original analysis.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in Canadian offshore sports betting platforms.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting experience, Canada market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Offshore operator analysis, cryptocurrency betting, Canadian payment methods
+- **Author Voice:** Objective, analytical, user-first approach
+
+**Content Requirements:**
+- First-hand testing evidence where possible
+- Cite specific user experiences from Reddit, Trustpilot
+- Compare technical features (wagering requirements, withdrawal times)
+- Acknowledge limitations of offshore operators honestly
 
 ---
 
@@ -158,6 +196,13 @@ directionbet, directionbet review, directionbet casino, directionbet canada, dir
 ### SECTION 4: DirectionBet Overview: What You Need to Know
 **Word Count:** 350 words
 
+**Writer must cover:**
+- Offshore operator status and what this means for Canadian players
+- Hybrid casino/sports platform positioning vs pure sportsbooks
+- Cryptocurrency payment integration as primary differentiator
+- 40x wagering requirement context (significantly higher than 3-10x standard)
+- Target audience definition (crypto users, alternative seekers, high-volume bettors)
+
 **Key Points to Cover:**
 - What DirectionBet is: hybrid casino/sportsbook platform (casino-first, sports secondary)
 - Operator information and history
@@ -204,6 +249,13 @@ directionbet, directionbet review, directionbet casino, directionbet canada, dir
 ### SECTION 6: DirectionBet Welcome Bonus: 100% up to $1,500
 **Word Count:** 400 words (including H3 subsections)
 
+**Writer must cover:**
+- 40x wagering requirement must be explained thoroughly (this is the critical issue)
+- Compare to industry average 3-10x to show why 40x is problematic
+- 21-day clearing window as positive counterbalance
+- Real-world example: $1,500 bonus = $60,000 in total wagering required
+- Who this bonus suits (high-volume players) vs who should avoid (casual bettors)
+
 **Main Content:**
 - Welcome bonus overview: 100% match up to $1,500 total
 - **4-part deposit bonus structure breakdown:**
@@ -246,6 +298,13 @@ directionbet, directionbet review, directionbet casino, directionbet canada, dir
 
 ### SECTION 7: DirectionBet Mobile App: Casino & Sports in One Place
 **Word Count:** 350 words (including H3 subsection)
+
+**Writer must cover:**
+- App Store ratings with specific numbers (X.X/5 from X reviews)
+- User feedback themes from actual reviews (praise AND complaints)
+- Feature parity comparison (app vs web - what's missing?)
+- Live betting performance on mobile (lag testing, odds update speed)
+- Casino game selection on mobile vs desktop
 
 **Main Content:**
 - App availability: iOS and Android
@@ -292,6 +351,13 @@ directionbet, directionbet review, directionbet casino, directionbet canada, dir
 
 ### SECTION 8: Sports Betting at DirectionBet: Markets, Odds & Features
 **Word Count:** 400 words (including H3 subsection)
+
+**Writer must cover:**
+- 40+ sports coverage with specific Canadian focus (NHL, CFL essential)
+- Odds competitiveness vs Sports Interaction and bet365 (specific comparison)
+- Prop betting depth (player props, team props, parlay options)
+- Live betting functionality and real-time odds update speed
+- Same-game parlay availability (if offered)
 
 **Main Content:**
 - **40+ sports available - major categories:**
@@ -368,6 +434,13 @@ directionbet, directionbet review, directionbet casino, directionbet canada, dir
 
 ### SECTION 10: Payment Methods & Withdrawals: Speed & Cryptocurrency
 **Word Count:** 350 words (including H3 subsection)
+
+**Writer must cover:**
+- Cryptocurrency as primary payment method (Bitcoin, Ethereum, Litecoin specifics)
+- Traditional payment options (Interac, credit cards) availability comparison
+- Deposit/withdrawal processing times for each method with real numbers
+- User-reported withdrawal speeds from Reddit/Trustpilot (cite specific examples)
+- Fees charged (by DirectionBet and by payment processors)
 
 **Main Content:**
 - **Deposit Methods Available:**
@@ -938,32 +1011,34 @@ directionbet, directionbet review, directionbet casino, directionbet canada, dir
 
 ---
 
-## WORD COUNT TARGETS BY SECTION
+## WORD COUNT BY SECTION (V3 REQUIREMENT)
 
-| Section | Target Words | Section Type |
-|---------|----------------|---|
-| Intro & Disclosure | 150 | Introduction |
-| Quick Answer & Rating | 100 | Summary |
-| Comparison Table | N/A | Visual element |
-| DirectionBet Overview | 350 | H2 Main |
-| Getting Started | 300 | H2 Main |
-| Welcome Bonus | 400 | H2 Main |
-| ... with 2 H3 subsections | 150 + 150 | H3 Sub |
-| Mobile App | 350 | H2 Main |
-| ... with H3 app guide | 150 | H3 Sub |
-| Sports Betting | 400 | H2 Main |
-| ... with H3 live betting | 150 | H3 Sub |
-| Casino Integration | 300 | H2 Main |
-| Payment Methods | 350 | H2 Main |
-| ... with H3 withdrawal time | 150 | H3 Sub |
-| vs Top Sportsbooks | 400 | H2 Main |
-| ... with H3 vs SI | 150 | H3 Sub |
-| Legal Status | 325 | H2 Main |
-| ... with H3 provincial | 150 | H3 Sub |
-| Pros & Cons | 250 | Summary |
-| Final Verdict | 200 | Conclusion |
-| FAQs (10 questions) | 600-750 | FAQ Section |
-| **TOTAL** | **3,500-4,000** | **Complete** |
+| Section | Target Words | Priority | Notes |
+|---------|--------------|----------|-------|
+| Introduction | 150 | Critical | Must follow mandatory format |
+| Quick Answer & Rating | 100 | High | Star rating + pros/cons |
+| Comparison Table | N/A | High | Visual element (Phase 3) |
+| DirectionBet Overview | 350 | Critical | Brand positioning |
+| Getting Started | 300 | Medium | Account setup process |
+| Welcome Bonus | 400 | Critical | 40x wagering analysis |
+| └─ H3: Promo Code | 150 | Medium | Code requirements |
+| └─ H3: Bonus Worth It | 150 | High | Value assessment |
+| Mobile App | 350 | High | App experience |
+| └─ H3: App Download | 150 | Medium | Installation guide |
+| Sports Betting Markets | 400 | Critical | Core feature |
+| └─ H3: Live Betting | 150 | High | In-play experience |
+| Casino Integration | 300 | High | Hybrid platform |
+| Payment Methods | 350 | Critical | Crypto focus |
+| └─ H3: Withdrawal Times | 150 | High | Processing speeds |
+| vs Top Canadian Books | 400 | Critical | Competitive analysis |
+| └─ H3: vs Sports Interaction | 150 | High | Direct comparison |
+| Legal Status Canada | 325 | Critical | Compliance |
+| └─ H3: Provincial Availability | 150 | Medium | Geographic restrictions |
+| Pros & Cons | 250 | Critical | Balanced assessment |
+| Final Verdict | 200 | Critical | Recommendation |
+| FAQs (10 questions) | 600-750 | Critical | Keyword targeting |
+| Responsible Gambling | 150 | Critical | Canadian resources |
+| **TOTAL** | **3,500-4,000** | - | **Complete review** |
 
 ---
 

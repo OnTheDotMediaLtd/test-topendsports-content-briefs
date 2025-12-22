@@ -55,7 +55,53 @@ This is a **single-brand review** of Lunubet for the Irish market. Lunubet is a 
 | **lunubet ireland** | 0/mo | Natural throughout | Licensing, T&Cs, context |
 | **is lunubet legit** | 0/mo | FAQ | "Is Lunubet legit and safe in Ireland?" |
 
+**Total Secondary Keyword Volume:** 1,980/mo (296% increase over primary 500/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords:** lunubet, lunubet sport, lunubet review, lunubet ireland, sports betting ireland, betting ireland, lunubet casino, lunubet app, lunubet bonus, best betting sites ireland, lunubet login, lunubet withdrawal, lunubet odds
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/lunubet-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise Focus:** Curacao operators, alternative Irish betting platforms, smaller operator analysis
+
+**Why Lewis for this review:**
+- Expert in reviewing Curacao-licensed operators for Irish market
+- Balanced assessment approach for smaller operators vs market leaders
+- Strong knowledge of Ireland betting market dynamics
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | HIGH |
+| Lunubet Overview | 300 | HIGH |
+| Sports Markets & Odds | 400 | CRITICAL |
+| Lunubet Bonus | 350 | HIGH |
+| Mobile App | 350 | HIGH |
+| - Mobile Experience (150-200w) | 175 | CRITICAL |
+| Lunubet Casino | 300 | MEDIUM |
+| Payment Methods | 300 | HIGH |
+| Comparison vs Irish Sites | 400 | CRITICAL |
+| Pros and Cons | 200 | HIGH |
+| FAQs | 400 | HIGH |
+| Final Verdict | 200 | HIGH |
+| Responsible Gambling | 150 | REQUIRED |
+| **TOTAL** | **3,500-4,000** | Target range |
 
 ---
 

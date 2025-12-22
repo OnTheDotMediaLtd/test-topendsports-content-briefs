@@ -41,6 +41,9 @@
 | is bet442 legit | 30/mo | H2 + FAQ | "Is Bet442 Legit?" section + FAQ question |
 | bet442 betting | 20/mo | Natural | Sports Betting Markets section |
 
+**Total Secondary Keyword Volume:** 4,350/mo (39.5% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI Enhancement Phase):**
 bet442, bet442 review, 442 bet, bet442 login, bet442 casino, bet442 app, bet442 bonus, bet442 promo code, bet442 free bet, is bet442 legit, bet442 uk, bet442 betting
 
@@ -129,6 +132,50 @@ Use UK terms throughout:
 
 ---
 
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/bet442
+2. **Betting.com** - https://www.betting.com/uk/bet442-review
+3. **RacingPost** - https://www.racingpost.com/betting/bet442
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 100-150 |
+| Quick Rating Box | 100 |
+| Bet442 Overview | 300 |
+| Is Bet442 Legit? | 250 |
+| Welcome Bonus & Promotions | 450 |
+| Sports Betting Markets | 350 |
+| Bet442 Casino | 300 |
+| Mobile App & User Experience | 400 |
+| Payment Methods | 350 |
+| Betting Calculators & Tools | 200 |
+| Customer Support | 250 |
+| Pros & Cons | 300 |
+| FAQs (8 questions) | 800 |
+| Responsible Gambling | 200 |
+| Final Verdict | 200 |
+| **TOTAL** | **2,500-3,500 words** |
+
+---
+
 ## CONTENT OUTLINE
 
 ### H1: Bet442 Review: UK Sportsbook & Casino Evaluation
@@ -186,6 +233,13 @@ Use UK terms throughout:
 4. Comparison context: How does it compare to bet365, William Hill, Ladbrokes?
 5. Key differentiators (what makes it unique)
 6. Product overview (sports betting + casino)
+
+**Writer must cover:**
+- When Bet442 was established and who operates it
+- UKGC license number and what it means for player protection
+- How Bet442 positions itself vs major UK bookmakers (bet365, William Hill)
+- Key unique features that set it apart from competitors
+- Whether it's primarily sports-focused or offers casino games equally
 
 **Research Sources:**
 - UK Gambling Commission license database
@@ -356,12 +410,12 @@ Use UK terms throughout:
 
 ---
 
-### H2: Bet442 Mobile App & User Experience (400 words)
+### H2: Bet442 Mobile App & User Experience (150-200 words)
 **Keywords:** bet442 app, bet442 login
 
 **Requirements:**
 
-**Main Section (280 words):**
+**Main Section (150-200 words - V3 REVIEW STANDARD):**
 
 1. **Availability**
    - iOS app (App Store link)

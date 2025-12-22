@@ -55,7 +55,51 @@
 | **is mr luck casino legit** | 10/mo | FAQ #1 | Combined with "is mr luck legit" |
 | **mr luck welcome offer** | 10/mo | H2 | "Welcome Bonus & Promotions" (use as synonym) |
 
+**Total Secondary Keyword Volume:** 4,870/mo (105% increase over primary)
+**Unmapped Keywords:** NONE
+
 **✅ ALL 13 KEYWORDS MAPPED**
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/mr-luck
+2. **Betting.com** - https://www.betting.com/uk/mr-luck-review
+3. **RacingPost** - https://www.racingpost.com/betting/mr-luck
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 100-150 |
+| Overview | 200-250 |
+| Welcome Bonus | 400-450 |
+| Sports Betting | 300-350 |
+| Mobile Experience | 150-200 |
+| Payment & Banking | 300-350 |
+| Sister Sites | 200-250 |
+| Customer Support | 200-250 |
+| Pros & Cons | 200-250 |
+| FAQs (8 questions) | 1,000-1,200 |
+| Final Verdict | 150-200 |
+| Responsible Gambling | 100-150 |
+| **TOTAL** | **3,500-4,000 words** |
 
 ---
 
@@ -173,6 +217,13 @@
 
 ### H2: Sports Betting Markets & Coverage (300-350 words)
 **Keywords:** mr luck bet
+
+**Writer must cover:**
+- Honest assessment of sports depth (is it limited because it's casino-first?)
+- Which sports have strong coverage and which are weak
+- Odds quality compared to major bookmakers (use Oddschecker for samples)
+- In-play betting availability and quality
+- Whether casual bettors or serious punters should use it
 
 **Required Content:**
 - Sports covered (UK focus: football, horse racing, cricket, tennis, rugby)

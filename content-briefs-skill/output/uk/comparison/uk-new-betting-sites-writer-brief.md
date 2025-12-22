@@ -36,8 +36,61 @@ All secondary keywords MUST be mapped to specific sections. Use exact keyword ph
 | mobile betting sites | 200/mo | FAQ (2x) | Mobile betting and payment questions |
 | betting companies online | 150/mo | FAQ | "Do new betting companies offer better odds?" |
 
+**Total Secondary Keyword Volume:** 4,920/mo (273% increase over primary keyword)
+
+**Unmapped Keywords:** NONE
+
 **Meta Keywords for AI Enhancement Phase:**
 new betting sites uk, new bookmakers uk, new uk bookies, newest betting sites, new betting apps uk, new online betting sites uk, latest betting sites uk, best new betting sites uk, new betting offers uk, uk gambling sites, online bookies, mobile betting sites, betting companies online
+
+---
+
+## COMPETITOR URLs FOR ANALYSIS
+
+Research these competitor pages to understand content gaps and opportunities:
+
+1. **Oddschecker** - https://www.oddschecker.com/new-betting-sites
+   - Focus: Latest operator launches, odds comparison
+2. **Betting.com** - https://www.betting.com/uk/new-betting-sites
+   - Focus: New site analysis, bonus comparison
+3. **Racing Post** - https://www.racingpost.com/betting/new-betting-sites
+   - Focus: Racing-specific coverage of new entrants
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Primary Author:** Lewis Humphries
+**Experience:** 8+ years in sports betting journalism and analysis
+**Expertise:** UK betting markets, operator licensing, bonus terms analysis
+**Author Bio URL:** https://www.topendsports.com/authors/lewis-humphries.htm
+
+**Author Qualifications:**
+- Extensive experience reviewing UK-licensed betting operators
+- Deep knowledge of UKGC regulations and compliance
+- Specialization in new market entrant analysis and operator launches
+- Track record of transparent, honest betting site reviews
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Purpose |
+|---------|--------------|---------|
+| Introduction | 100-150 | Direct verdict, top 3 winners |
+| Comparison Table | 200-300 | All 7 brands quick reference |
+| What Makes Sites "New" | 300-400 | Definition and criteria |
+| Why Choose New Sites | 400-500 | Benefits analysis |
+| Brand Reviews (7 brands) | 1,400-1,750 | 200-250w each |
+| New Bookmakers UK | 400-500 | Market overview |
+| New Betting Apps UK | 350-400 | Mobile comparison |
+| Payment Methods | 300-350 | Deposit/withdrawal options |
+| Latest Betting Offers | 400-500 | Bonus analysis |
+| Calculator Tools | 150-200 | Tool links |
+| FAQs | 800-900 | 10-12 questions |
+| Final Recommendations | 200-250 | Summary |
+| Responsible Gambling | 150-200 | UK compliance |
+| **TOTAL** | **5,500-6,500** | Complete guide |
 
 ---
 

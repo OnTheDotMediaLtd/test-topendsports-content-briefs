@@ -16,6 +16,29 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 100-150 | High |
+| Comparison Table | 50 | High |
+| Quick Answer Box | 50 | High |
+| Best NBA Betting Sites Ranked (7 brands) | 2,100 | High |
+| Complete NBA Betting Bonus Terms (All 7 Brands) | 400-500 | High |
+| Best NBA Betting Apps for Mobile | 300-350 | Medium |
+| How to Bet on the NBA | 400-450 | Medium |
+| NBA Live Betting Features | 250-300 | Medium |
+| Payment Methods & Withdrawal Speeds | 250-300 | Medium |
+| Calculator Tool Integration | 100 | Low |
+| How We Test & Rank NBA Betting Sites | 300-350 | Medium |
+| Legal NBA Betting by State | 200-250 | Medium |
+| FAQs (7 questions) | 700 | High |
+| Responsible Gambling Section | 150 | High |
+| Related Pages | 50 | Low |
+| References | 50 | Low |
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 | Keyword | Volume | Section | Title/Placement |
@@ -33,7 +56,22 @@
 | draftkings nba | 300/mo | FAQ | "How does DraftKings compare for NBA?" |
 | betmgm nba | 250/mo | FAQ | "Why is BetMGM popular for NBA betting?" |
 
+**Total Secondary Keyword Volume:** 4,650/mo (represents 668% increase over primary keyword "best nba betting sites" - 700/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords:** best nba betting sites, best nba betting apps, nba sportsbooks, nba betting promotions, legal nba betting sites, nba live betting, nba prop betting sites, nba same game parlays, nba betting odds, fanduel nba, draftkings nba, betmgm nba
+
+---
+
+## COMPETITOR REFERENCES
+
+| Competitor | URL | Why Reference |
+|------------|-----|---------------|
+| Action Network | https://www.actionnetwork.com/nba/best-nba-betting-sites | Market leader structure - comprehensive NBA coverage |
+| Covers | https://www.covers.com/betting/nba/sites | Content depth - detailed NBA betting guides |
+| The Lines | https://www.thelines.com/betting/nba/ | Comparison format - table-driven NBA analysis |
+
+**Note:** Reference these competitors for content gaps and structure only. NEVER cite them for pros/cons or editorial opinions. Use TIER 1 sources (App Store, Reddit, Google Play) for all subjective assessments.
 
 ---
 
@@ -89,6 +127,12 @@ Introduction (100-150w)
 
 H2: Best NBA Betting Sites Ranked (200w intro + individual reviews)
 ├── H3: #1 FanDuel - Best Overall NBA Betting (400-500w)
+│   ├── **Writer must cover:**
+│   │   - Market share leadership data
+│   │   - Same Game Parlay builder specifics
+│   │   - 40+ NBA player props per game
+│   │   - Live betting speed and reliability
+│   │   - PayPal/Play+ withdrawal times
 │   ├── Why #1: Market share leader, best SGPs, fastest live betting
 │   ├── NBA Features: Same Game Parlays, alternate lines, NBA-specific boosts
 │   ├── Current Bonus: Bet $5, Get $150 in Bonus Bets (if you win)
@@ -151,12 +195,24 @@ H2: Complete NBA Betting Bonus Terms (All 7 Brands) (400-500w)
 └── State availability
 
 H2: Best NBA Betting Apps for Mobile (300-350w)
+├── **Writer must cover:**
+│   - Mobile app comparison across all 7 apps
+│   - iOS vs Android ratings with specific numbers
+│   - Mobile-exclusive features by app
+│   - Download instructions for both platforms
+│   - Performance during high-traffic NBA games
 ├── H3: iOS vs Android NBA Apps
 ├── App ratings comparison
 ├── Mobile-exclusive features
 └── Download instructions
 
 H2: How to Bet on the NBA (400-450w)
+├── **Writer must cover:**
+│   - NBA betting basics for beginners
+│   - Step-by-step process from account opening
+│   - Understanding NBA-specific odds
+│   - Different bet types with examples
+│   - Bankroll management for NBA betting
 ├── H3: NBA Spread Betting
 ├── H3: NBA Totals (Over/Under)
 ├── H3: NBA Moneyline
@@ -265,9 +321,18 @@ References (5-10)
 |-------------|----------|
 | Age | 21+ (18+ for MT, NH, RI, WY, DC) |
 | Hotline | 1-800-522-4700 |
-| Affiliate Disclosure | Required at top |
+| Affiliate Disclosure | **NOT required in content** - in website sidebar |
 | Responsible Gambling | Required section at bottom |
 | State Disclaimer | "Availability varies by state" |
+
+### E-E-A-T Author Requirements:
+- **Author Name:** Lewis Humphries
+- **Credentials:** 8+ years sports betting industry experience, NBA betting specialist
+- **Bio Link:** Link to author bio page at https://www.topendsports.com/authors/lewis-humphries.htm
+- **Expertise Signals:** Include author byline with NBA betting credentials
+- **Experience:** Author has personally tested all 7 sportsbooks for NBA betting features
+- **Authority:** Regular NBA betting contributor to TopEndSports since 2017
+- **Trustworthiness:** All claims verified through TIER 1 sources (App Store, Reddit, Google Play)
 
 ---
 

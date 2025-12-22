@@ -69,10 +69,56 @@ This is NOT a standard sportsbook review. The highest-volume keywords are casino
 | highbet casino no deposit bonus | 30/mo | H3 + FAQ | "Does Highbet Offer a No Deposit Bonus?" |
 | highbet sportsbook | 10/mo | H2 | "Highbet Sports Betting Review" |
 
+**Total Secondary Keyword Volume:** 26,470/mo (13,135% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for Phase 3):**
 ```
 highbet review, highbet casino, highbet welcome offer, highbet uk, highbet promo code, highbet casino review, highbet free bet, highbet bonus, highbet login, highbet withdrawal time, highbet trustpilot, highbet app, highbet casino no deposit bonus, highbet sportsbook, free welcome bonus highbet, bonus code highbet, online live casino highbet, uk online casino highbet
 ```
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/highbet
+2. **Betting.com** - https://www.betting.com/uk/highbet-review
+3. **RacingPost** - https://www.racingpost.com/betting/highbet
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 100-150 |
+| Welcome Bonus | 600-650 |
+| Sports Betting Review | 1,200-1,300 |
+| Casino & Live Casino | 1,200-1,300 |
+| Live Betting | 400-450 |
+| Mobile Experience | 500-550 |
+| Banking & Payments | 600-650 |
+| Account Registration | 400-450 |
+| Customer Support | 400-450 |
+| Licensing & Safety | 400-450 |
+| User Reviews | 400-450 |
+| Pros & Cons | 300-350 |
+| FAQs (10 questions) | 1,000-1,500 |
+| Responsible Gambling | 300-350 |
+| **TOTAL** | **8,500-9,000 words** |
 
 ---
 

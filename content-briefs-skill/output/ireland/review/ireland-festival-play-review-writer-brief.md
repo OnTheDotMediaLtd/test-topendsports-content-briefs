@@ -35,7 +35,54 @@
 | irish betting sites | 400/mo | Context | Used in introduction and comparison context |
 | best betting sites ireland | 450/mo | Context | Internal link anchor, market comparison |
 
+**Total Secondary Keyword Volume:** 1,000/mo (1900% increase over primary 50/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords:** festival play, festival play review, festival play ireland, festival play bonus, festival play app, festival play sports betting, festival play casino, festival play withdrawal, festival play payment methods, is festival play legit, irish betting sites
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/festival-play-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise Focus:** Curacao-licensed operators, event builder tools, alternative Irish betting platforms
+
+**Why Lewis for this review:**
+- Extensive experience reviewing Curacao-licensed operators for Irish market
+- Expert knowledge of Early Payout features and their value proposition
+- Strong understanding of alternative operators vs established Irish brands
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 250 | HIGH |
+| Rating Summary | 175 | HIGH |
+| Sports Betting 38+ Markets | 225 | CRITICAL |
+| Welcome Bonus | 225 | HIGH |
+| Mobile App (no native) | 375 | CRITICAL |
+| - Mobile Experience (150-200w) | 175 | CRITICAL |
+| Payment Methods | 225 | HIGH |
+| Customer Support | 125 | MEDIUM |
+| Licensing & Legal Status | 325 | HIGH |
+| Pros & Cons | 225 | HIGH |
+| vs Major Irish Sites | 275 | CRITICAL |
+| FAQs | 475 | HIGH |
+| Final Verdict | 175 | HIGH |
+| Responsible Gambling | 85 | REQUIRED |
+| **TOTAL** | **3,500-4,000** | Target range |
 
 ---
 
@@ -174,6 +221,12 @@ testing verified these features across multiple sessions.
 ### H2: Festival Play Sports Betting: 38+ Markets Review
 **Word Count:** 200-250 words
 **Keywords:** festival play sports betting
+
+**Writer must cover:**
+- Early Payout feature explained with concrete example (team goes 2 goals up, bet paid immediately)
+- 38+ sports vs Paddy Power's ~30 sports - which additional sports does Festival Play offer?
+- Event Builder tool - step-by-step how it works for Irish bettors
+- GAA coverage depth comparison with established Irish operators
 
 **Subsections to Cover:**
 - 38+ sports available (more than Paddy Power's ~30)
@@ -316,15 +369,21 @@ testing verified these features across multiple sessions.
 ---
 
 ### H2: Festival Play App: Mobile-Optimized Website Review
-**Word Count:** 300-350 words total (includes 100-150w Mobile Experience subsection)
+**Word Count:** 300-350 words total (includes 150-200w Mobile Experience subsection)
 **Keywords:** festival play app
 
 **⚠️ CRITICAL: NO NATIVE APP EXISTS**
 
+**Writer must cover:**
+- Why Festival Play chose mobile web over native app (cost, updates, cross-platform)
+- Mobile web performance testing results (loading speed, bet placement time)
+- Comparison with Paddy Power native app (4.8★) - what are the practical differences?
+- How to "install" web app on iOS/Android home screen
+
 **Subsections:**
 
-#### H3: Mobile Experience (100-150 words) ⚠️ V2 REQUIRED SECTION
-**Word Count:** 100-150 words (STRICT LIMIT - V2 STANDARD)
+#### H3: Mobile Experience (150-200 words) ⚠️ V2 REQUIRED SECTION - REVIEW PAGES
+**Word Count:** 150-200 words (STRICT LIMIT - V2 STANDARD for review pages)
 
 **Key Points:**
 - ❌ NO iOS app (not in App Store)

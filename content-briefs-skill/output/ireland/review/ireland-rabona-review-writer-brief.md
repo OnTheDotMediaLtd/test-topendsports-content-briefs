@@ -34,10 +34,58 @@ All 12 secondary keywords MUST be mapped to specific sections:
 | **rabona sports** | 10/mo | - | Section 4 H3, FAQ 3 | "Sports Coverage & Market Depth" |
 | **live sports betting** | 100/mo | - | Section 4, FAQ 7 | "Live Betting & In-Play Features" |
 
+**Total Secondary Keyword Volume:** 5,970/mo (5870% increase over primary 100/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI to add):**
 ```
 rabona casino, rabona, rabona ireland, online casino ireland, sports betting ireland, betting sites ireland, irish casino sites, rabona bonus, rabona app, free bets, live betting, rabona sports
 ```
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/rabona-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise Focus:** Multi-vertical operators (sports/casino), offshore licensing analysis, payment method expertise
+
+**Why Lewis for this review:**
+- Deep expertise in reviewing combined sports/casino platforms
+- Expert knowledge of Curacao licensing and implications for Irish players
+- Strong understanding of crypto payment advantages for Irish market
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | HIGH |
+| Rabona at a Glance | 225 | HIGH |
+| Welcome Bonus | 325 | HIGH |
+| Sports Betting Markets | 375 | CRITICAL |
+| Rabona Casino | 325 | HIGH |
+| Mobile App | 325 | HIGH |
+| - Mobile Experience (150-200w) | 175 | CRITICAL |
+| Payment Methods | 275 | HIGH |
+| Customer Support | 225 | MEDIUM |
+| Licensing & Safety | 325 | HIGH |
+| Rabona vs Competitors | 375 | CRITICAL |
+| Pros & Cons Summary | 225 | HIGH |
+| FAQs | 600 | HIGH |
+| Final Verdict | 225 | HIGH |
+| Responsible Gambling | 100 | REQUIRED |
+| **TOTAL** | **3,750** | Target: 3,500-4,000 |
 
 ---
 
@@ -285,8 +333,8 @@ List 5-8 major providers: NetEnt, Pragmatic Play, Evolution Gaming, Play'n GO, e
 - App Store: Check Rabona app listing, ratings, recent reviews
 - Google Play: Check Rabona app listing, ratings, recent reviews
 
-#### H3: Mobile Experience (100-150 words) ⚠️ V2 REQUIRED SECTION
-**Word Count:** 100-150 words (STRICT LIMIT - V2 STANDARD)
+#### H3: Mobile Experience (150-200 words) ⚠️ V2 REQUIRED SECTION - REVIEW PAGES
+**Word Count:** 150-200 words (STRICT LIMIT - V2 STANDARD for review pages)
 **Keywords:** rabona app
 
 **Cite actual ratings:**

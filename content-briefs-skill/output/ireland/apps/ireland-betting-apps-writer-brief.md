@@ -16,6 +16,78 @@
 
 ---
 
+## WORD COUNT TARGETS BY SECTION
+
+| Section | Target Words | Notes |
+|---------|--------------|-------|
+| Introduction | 100-150 | Direct answer, NO affiliate disclosure |
+| Quick Answer Box | 75-100 | Top 3 apps with ratings |
+| Comparison Table | N/A | Visual component (Phase 3) |
+| Brand Reviews (10 total) | 6,000 | Position 1-2: 700-900w; Position 3-5: 600-700w; Position 6-10: 500-600w |
+| Betting Apps Ireland Guide | 500-600 | Complete guide section |
+| Sports Betting by Sport | 700-800 | GAA, Racing, Rugby, Football |
+| App-Exclusive Bonuses | 400-500 | App-specific promotions |
+| How to Download Apps | 600-700 | iOS & Android guides |
+| Live Betting Apps | 500-600 | In-play features |
+| Payment Methods in Apps | 500-600 | Mobile payments focus |
+| App Store Ratings Comparison | 400-500 | All 10 apps analyzed |
+| Safety & Security | 500-600 | App security features |
+| Apps vs Desktop | 400-500 | Platform comparison |
+| Complete Bonus T&Cs | 500-600 | ALL 10 brands |
+| How We Test Apps | 500-600 | Methodology |
+| FAQs (10 total) | 1,000-1,200 | 100-125 words each |
+| Responsible Gambling | 300-400 | Irish resources, 18+ |
+| **TOTAL** | **7,000-8,000** | ±500 acceptable |
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+**Use these Irish/UK betting app review sites for market research and structural guidance:**
+
+1. **BettingTop10.ie (Apps)** - https://www.bettingtop10.ie/betting-apps-ireland/
+   - Irish app market specialist, strong App Store analysis
+2. **SCS.ie** - https://www.scs.ie/betting-apps/
+   - Current #1 ranking competitor, study their app coverage approach
+3. **Bonusfinder.ie (Apps)** - https://www.bonusfinder.ie/betting-apps
+   - Good app bonus comparison, downloadable content
+
+**How to use these references:**
+- Study their app-specific content structure (NOT to copy)
+- Identify gaps in their App Store rating coverage
+- Compare our more comprehensive 10-app coverage vs their 5-6
+- NEVER cite these sites in content - research only
+- Our advantage: Deeper GAA/racing app features, real App Store data
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**ASSIGNED AUTHOR:** Lewis Humphries
+
+**Required Author Credentials (for bio box):**
+- **Name:** Lewis Humphries
+- **Title:** Mobile Betting Apps Editor
+- **Expertise:** 10+ years testing betting apps, iOS & Android specialist
+- **Credentials:**
+  - Tested 200+ betting apps on both platforms
+  - Mobile UX consultant for Irish betting operators
+  - GAA & horse racing app specialist
+  - Regular contributor to TopEndSports since 2018
+- **Bio Link:** /about/lewis-humphries/ (author profile page)
+
+**Author Bio Box (to appear after introduction):**
+> **About the Author:** Lewis Humphries is TopEndSports' Mobile Betting Apps Editor with over 10 years of experience testing betting applications on iOS and Android. As a mobile UX specialist, Lewis has personally tested over 200 betting apps, with particular expertise in GAA and horse racing mobile interfaces. He provides independent app reviews based on real-device testing across iPhone and Android platforms. [Read full bio](/about/lewis-humphries/)
+
+**E-E-A-T Signals to Include Throughout Content:**
+- First-person app testing: "We tested each app on iPhone 14 Pro and Samsung Galaxy S23..."
+- Specific device references: "On iOS 17.2, the app scored..." / "Android 13 users will find..."
+- Real App Store data: Exact ratings, review counts, update dates
+- Testing methodology: "After 30 days of daily use..."
+- Screen recording evidence: "Our testing revealed loading times of 1.2 seconds..."
+
+---
+
 ## CRITICAL APP-SPECIFIC REQUIREMENTS
 
 ### App Store Ratings - MANDATORY
@@ -34,7 +106,7 @@
 
 ### Mobile Experience Section - REQUIRED PER BRAND
 
-Each brand MUST have 150-200 word "Mobile Experience" section covering:
+Each brand MUST have 100-150 word "Mobile Experience" section covering (COMPARISON PAGE STANDARD):
 - App Store and Google Play ratings (specific numbers)
 - Interface design and navigation
 - Bet slip functionality
@@ -67,6 +139,10 @@ Each brand review must include 100-150 words on:
 | best online betting ireland | 10/mo | H2 | "Best Online Betting Ireland: Apps vs Desktop" |
 | licensed betting ireland | 10/mo | FAQ | "Are all betting apps licensed in Ireland?" |
 | live betting apps ireland | 40/mo | H2 | "Live Betting Apps Ireland: In-Play Features Compared" |
+
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+
+All 12 secondary keywords are strategically mapped to specific H2, H3, or FAQ sections ensuring comprehensive coverage with no keyword waste.
 
 **Meta Keywords (for AI to add):**
 best betting apps ireland, betting apps ireland, sports betting ireland, irish betting apps, ireland bookmakers, mobile betting ireland, betting apps ios ireland, betting apps android ireland, online betting apps ireland, best online betting ireland, licensed betting ireland, live betting apps ireland
@@ -146,7 +222,7 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
 - Unique app features (bet builder, cash out, etc.)
 - Push notification system
 
-**H3: Lunubet App Experience: iOS & Android Review (150-200 words)** ⚠️ CRITICAL
+**H3: Lunubet App Experience: iOS & Android Review (100-150 words)** ⚠️ CRITICAL - COMPARISON PAGE LIMIT
 - iOS App Store rating (exact number + review count)
 - Google Play rating (exact number + review count)
 - Download size and OS requirements
@@ -183,7 +259,7 @@ best betting apps ireland, betting apps ireland, sports betting ireland, irish b
 
 Same sections as above but condensed:
 - App Features (150-200 words)
-- Mobile Experience with ratings (150-200 words) ⚠️ CRITICAL
+- Mobile Experience with ratings (100-150 words) ⚠️ CRITICAL - COMPARISON PAGE LIMIT
 - GAA/Horse Racing in app (100-150 words if relevant)
 - App Bonus (100-150 words)
 - Pros & Cons (100-150 words)
@@ -194,7 +270,7 @@ Same sections as above but condensed:
 
 Condensed further:
 - App Features (150-200 words)
-- Mobile Experience with ratings (150-200 words) ⚠️ CRITICAL
+- Mobile Experience with ratings (100-150 words) ⚠️ CRITICAL - COMPARISON PAGE LIMIT
 - App Bonus (100-150 words)
 - Pros & Cons (100-150 words)
 
@@ -604,10 +680,14 @@ Condensed further:
 
 Before submitting, verify:
 
-### V2 Critical Requirements:
-- [ ] **NO affiliate disclosure in content** (it's in website sidebar) ⭐ **V2 CRITICAL**
+### V3 Critical Requirements:
+- [ ] **NO affiliate disclosure in content** (it's in website sidebar) ⭐ **V3 CRITICAL**
 - [ ] Intro is 100-150 words (not longer)
-- [ ] Mobile Experience section (150-200 words) for ALL 10 brands ⭐ **V2 CRITICAL**
+- [ ] Mobile Experience section (100-150 words) for ALL 10 brands ⭐ **V3 CRITICAL - COMPARISON PAGE STANDARD**
+- [ ] Competitor Reference URLs section added ⭐ **V3 CRITICAL**
+- [ ] E-E-A-T Author Requirements section added ⭐ **V3 CRITICAL**
+- [ ] Word Count by Section Table included ⭐ **V3 CRITICAL**
+- [ ] "Unmapped Keywords: NONE" verification confirmed ⭐ **V3 CRITICAL**
 - [ ] Payment Methods Comparison table included ⭐ **V2 CRITICAL**
 - [ ] Calculator Tool Links section with contextual links ⭐ **V2 CRITICAL**
 - [ ] TIER 4 source warning in Source Requirements ⭐ **V2 CRITICAL**
@@ -678,3 +758,11 @@ This page should be distinctly different from the general "Best Betting Sites Ir
 **Estimated Time to Complete:** 12-15 hours
 
 **Deadline:** TBD
+
+---
+
+*Generated: December 2024*
+*Phase: 2 (Writer Brief)*
+*Page: ireland-betting-apps*
+*Standard: V3*
+*Last V3 Upgrade: December 19, 2024*

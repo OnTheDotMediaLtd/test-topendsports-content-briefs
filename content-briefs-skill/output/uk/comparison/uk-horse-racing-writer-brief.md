@@ -45,8 +45,62 @@ All secondary keywords MUST be mapped to specific sections. Use exact keyword ph
 | **horse racing betting how to** | 60/mo | 72 | H3 | "How to Bet on Horse Racing" |
 | **bog horse racing** | 40/mo | 60 | Natural | Best Odds Guaranteed section |
 
+**Total Secondary Keyword Volume:** 6,290/mo (273% increase over primary keyword)
+
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI to add):**
 horse racing betting sites, grand national betting, ante post betting, best horse racing betting sites, royal ascot betting, online horse racing betting, horse racing latest odds, horse racing betting offers, best odds guaranteed horse racing, cheltenham betting sites, horse racing betting explained, betting bonus codes, aintree bets, horse racing betting accounts, bog horse racing
+
+---
+
+## COMPETITOR URLs FOR ANALYSIS
+
+Research these competitor pages to understand content gaps and opportunities:
+
+1. **Oddschecker** - https://www.oddschecker.com/horse-racing
+   - Focus: Odds comparison, best odds guaranteed analysis
+2. **Betting.com** - https://www.betting.com/uk/horse-racing-betting-sites
+   - Focus: Operator comparison, bonus analysis
+3. **Racing Post** - https://www.racingpost.com/betting
+   - Focus: Racing-specific coverage, festival analysis
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Primary Author:** Lewis Humphries
+**Experience:** 8+ years in sports betting journalism and analysis
+**Expertise:** UK betting markets, operator licensing, bonus terms analysis
+**Author Bio URL:** https://www.topendsports.com/authors/lewis-humphries.htm
+
+**Author Qualifications:**
+- Extensive experience reviewing UK-licensed betting operators
+- Deep knowledge of UKGC regulations and compliance
+- Specialization in horse racing betting markets and festival coverage
+- Track record of transparent, honest betting site reviews
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Purpose |
+|---------|--------------|---------|
+| Introduction | 100-150 | Direct verdict, top 3 winners |
+| Comparison Table | 200-300 | All 9 brands comparison |
+| Brand Reviews (9 brands) | 1,800-2,250 | 200-250w each |
+| Grand National Betting | 500-600 | Major event focus |
+| Ante Post Betting | 400-500 | Betting type explainer |
+| Best Odds Guaranteed | 500-600 | Key feature analysis |
+| Royal Ascot/Cheltenham | 400-500 | Festival betting |
+| Mobile Experience | 350-400 | App comparison |
+| Payment Methods | 300-350 | Deposits/withdrawals |
+| Betting Guide | 400-500 | How-to content |
+| Calculator Tools | 150-200 | Tool links |
+| FAQs | 800-900 | 10-12 questions |
+| Final Recommendations | 200-250 | Summary |
+| Responsible Gambling | 150-200 | UK compliance |
+| **TOTAL** | **6,500-7,500** | Complete guide |
 
 ---
 

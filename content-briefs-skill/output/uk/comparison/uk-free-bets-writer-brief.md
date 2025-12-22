@@ -38,8 +38,62 @@ All keywords MUST be mapped to specific sections:
 | **best free bets uk** | 80/mo | FAQ | "What are the best free bets UK right now?" |
 | **free betting sites uk** | 30/mo | FAQ | "Are there completely free betting sites UK?" |
 
+**Total Secondary Keyword Volume:** 5,410/mo (451% increase over primary keyword)
+
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI Enhancement):**
 free bets uk, free bets no deposit, free bets today, best free bets, betting offers uk, matched betting uk, sign up offers betting, free bet offers uk, free bet no deposit uk, free betting offers uk, free spins betting, bookmaker free bets, betting bonus codes, betting company offers, best free bets uk, free betting sites uk
+
+---
+
+## COMPETITOR URLs FOR ANALYSIS
+
+Research these competitor pages to understand content gaps and opportunities:
+
+1. **Oddschecker** - https://www.oddschecker.com/free-bets
+   - Focus: Odds comparison, offer aggregation
+2. **Betting.com** - https://www.betting.com/uk/free-bets
+   - Focus: Bonus comparisons, wagering requirements
+3. **Racing Post** - https://www.racingpost.com/free-bets
+   - Focus: Horse racing free bets, racing-specific offers
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Primary Author:** Lewis Humphries
+**Experience:** 8+ years in sports betting journalism and analysis
+**Expertise:** UK betting markets, operator licensing, bonus terms analysis
+**Author Bio URL:** https://www.topendsports.com/authors/lewis-humphries.htm
+
+**Author Qualifications:**
+- Extensive experience reviewing UK-licensed betting operators
+- Deep knowledge of UKGC regulations and compliance
+- Specialization in bonus offer analysis and wagering requirements
+- Track record of transparent, honest betting site reviews
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Purpose |
+|---------|--------------|---------|
+| Introduction | 100-150 | Direct verdict, top 3 winners |
+| Quick Answer Box | 75-100 | Fast reference for best offers |
+| Comparison Table | 300-400 | Complete offer comparison |
+| Best Free Bets UK | 400-500 | Top offers analysis |
+| Free Bets No Deposit | 500-600 | No deposit focus |
+| Free Bets Today | 400-500 | Current offers |
+| Betting Offers UK | 400-500 | Welcome bonuses |
+| Matched Betting UK | 500-600 | Strategy guide |
+| Brand Reviews (7 brands) | 1,400-1,750 | 200-250w each |
+| Payment Methods | 300-350 | Deposit/withdrawal comparison |
+| Calculator Tools | 150-200 | Tool links |
+| FAQs | 800-1,000 | 10-12 questions |
+| Final Recommendations | 200-250 | Summary |
+| Responsible Gambling | 150-200 | UK compliance |
+| **TOTAL** | **7,500-8,500** | Complete comparison |
 
 ---
 
@@ -113,6 +167,12 @@ Create comprehensive table with ALL 7 brands:
 ### H2: Best Free Bets UK - Top Offers Compared (400-500 words)
 **Keyword:** "best free bets" (700/mo)
 
+**Writer must cover:**
+- Objective criteria for "best" free bet (value per £ wagered, wagering requirements, odds restrictions)
+- Direct comparison of top 3 offers with actual numbers
+- Transparency on trade-offs (higher bonus vs harder wagering)
+- Brand-specific examples with calculations
+
 **Content Focus:**
 - What makes a free bet offer "best" (bonus amount vs wagering vs odds)
 - Comparison of top 3 offers with specific amounts
@@ -131,6 +191,12 @@ Create comprehensive table with ALL 7 brands:
 
 ### H2: Free Bets No Deposit UK - Best No Risk Offers (500-600 words)
 **Keyword:** "free bets no deposit" (1,000/mo)
+
+**Writer must cover:**
+- Clear distinction: "No deposit" vs "risk-free first bet" vs "deposit bonus"
+- Honest assessment: How many of the 7 brands offer TRUE no deposit (likely zero)
+- Alternative strategies for risk-free betting with deposit
+- Transparency on why genuine no deposit offers are rare in UK market
 
 **Content Focus:**
 - True no deposit vs deposit-required bonuses

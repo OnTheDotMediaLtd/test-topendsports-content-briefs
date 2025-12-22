@@ -21,14 +21,49 @@
 ## PAGE BASICS
 
 - **URL:** `/sport/betting/canada/lucky7even-review.htm`
-- **Target Keyword:** "lucky7even sport" (0/mo) + "lucky7even" (1,600/mo)
-- **Total Search Volume:** 2,980/mo across 13 keywords
+- **Target Keyword:** "lucky7even" (1,600/mo primary)
+- **Keyword Volume Total:** 2,980/mo (86% increase over primary keyword)
 - **Word Count:** 3,700-4,200 words (updated for Calculator Tools section)
 - **Template:** Template 1 (Brand Review)
 - **Market:** Canada
 - **Age Requirement:** 19+ (varies by province: 18+ in AB, MB, QC)
 - **Hotlines:** Provincial helplines vary by location
 - **Priority:** High
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these Canadian casino/betting sites for competitive analysis and market context:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Use for: Canadian market trends, casino reviews
+2. **ActionNetwork Canada** - https://www.actionnetwork.com/canada
+   - Use for: Betting site analysis, bonus comparisons
+3. **TheLines Canada** - https://www.thelines.com/canada/
+   - Use for: Casino platform comparisons
+
+**Important:** These are for research context only. DO NOT cite these competitor sites for pros/cons or recommendations. Use TIER 1 sources (App Store, Google Play, Reddit) for brand evaluations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+
+**Credentials Required:**
+- Minimum 3+ years online casino review experience
+- Demonstrated expertise in Canadian online gambling market
+- Hands-on experience testing casino platforms and mobile apps
+- Knowledge of casino gaming, slots, and live dealer games
+
+**Author Bio Link:** [To be added by editorial team]
+
+**E-E-A-T Signals to Include:**
+- Author has personally tested Lucky7even casino platform (desktop and mobile app)
+- Direct experience with casino games, deposit/withdrawal processes
+- Knowledge of Canadian provincial gambling regulations
+- Understanding of casino bonuses, wagering requirements, and RTP rates
 
 ---
 
@@ -62,6 +97,9 @@
 | **lucky7even login** | 10/mo | FAQ | "How do I log in to my Lucky7even account?" |
 | **lucky7even bonus** | 10/mo | Natural | Throughout bonus sections |
 
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+All 13 keywords are explicitly mapped to H1, H2, H3, FAQ, or Natural placement sections.
+
 **Meta Keywords (for AI Enhancement phase):**
 ```
 lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, lucky7even no deposit bonus codes, lucky7even casino no deposit bonus, lucky7even bonus code, lucky7even no deposit bonus, lucky7even app, lucky7even bonus codes, lucky7even promo code, lucky7even login, lucky7even bonus, lucky7even canada, lucky7even casino canada
@@ -93,6 +131,28 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 - ❌ NEVER: "Lucky7even Review 2025", "Lucky7even Review December 2025"
 - ✅ USE: "Lucky7even Casino Review: In-Depth Analysis for Canadian Players"
 - Use **Last Updated badge** after H1 (will be added in Phase 3)
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words |
+|---------|--------------|
+| Introduction | 100-150 |
+| Quick Summary Box | 150-200 |
+| About Lucky7even | 300-350 |
+| Welcome Bonus & Promotions | 400-450 |
+| Casino Games & Slots | 400-450 |
+| Mobile App Experience | 350-400 |
+| Sports Betting (if available) | 250-300 |
+| Payment Methods & Banking | 350-400 |
+| Betting Calculators & Tools | 200-250 |
+| Customer Support | 300-350 |
+| Pros & Cons Review | 300-350 |
+| Terms & Conditions Summary | 250-300 |
+| FAQs (8 total) | 400-500 |
+| Responsible Gambling | 200-250 |
+| **TOTAL** | **~3,700-4,200** |
 
 ---
 
@@ -129,6 +189,12 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 ### H2: About Lucky7even (300-350 words)
 **Keyword Target:** "lucky7even" (1,600/mo)
 
+**Writer must cover:**
+- Company background, licensing status, and Canadian province availability
+- Platform focus clarification (casino vs sports betting)
+- Trust signals (SSL encryption, responsible gambling tools, fair gaming certifications)
+- Age requirements by province (19+ most, 18+ in AB, MB, QC)
+
 **Cover:**
 - Company background and history
 - Canadian licensing status (verify with gaming commissions)
@@ -148,6 +214,13 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 
 ### H2: Welcome Bonus & Promotions (400-450 words)
 **Keyword Target:** "lucky7even no deposit bonus codes" (90/mo)
+
+**Writer must cover:**
+- Current welcome bonus details (match %, amount, free spins)
+- Step-by-step claiming process with verification requirements
+- Complete wagering requirements with real example calculation
+- No deposit bonus availability and details (if applicable)
+- Active bonus codes and promo code requirements
 
 **Cover:**
 - **Current Welcome Bonus:**
@@ -198,6 +271,13 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 ### H2: Lucky7even Casino Games & Slots (400-450 words)
 **Keyword Target:** "lucky7even casino" (800/mo)
 
+**Writer must cover:**
+- Game library overview with total game count and software providers
+- Slots selection (popular titles, progressive jackpots, RTP rates)
+- Table games variety (blackjack, roulette, baccarat, poker variants)
+- Live dealer availability and streaming quality
+- Game search functionality and demo play availability
+
 **Cover:**
 - **Game Library Overview:**
   - Total game count (verify from site)
@@ -234,6 +314,13 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 
 ### H2: Lucky7even Mobile App Experience (350-400 words)
 **Keyword Target:** "lucky7even app" (70/mo)
+
+**Writer must cover:**
+- iOS and Android app availability with App Store/Google Play ratings (MANDATORY)
+- Key features (game library access, account management, biometric login)
+- Performance testing results (navigation speed, loading times, stability)
+- User experience analysis (interface design, ease of navigation)
+- Mobile web alternative and browser compatibility
 
 **Cover:**
 - **iOS App:**
@@ -303,6 +390,13 @@ lucky7even, lucky7even casino, lucky7even review, lucky7even casino review, luck
 ---
 
 ### H2: Payment Methods & Banking (350-400 words)
+
+**Writer must cover:**
+- Interac e-Transfer as primary Canadian deposit method (highlighted)
+- All deposit and withdrawal methods with processing times and limits
+- Fees (deposit, withdrawal, currency conversion)
+- Verification requirements and KYC process
+- Payment methods comparison table
 
 **Cover:**
 - **Deposit Methods (Canada-Specific):**
@@ -833,10 +927,16 @@ Include these 12 internal links naturally throughout content:
 
 ---
 
-## QUALITY CHECKLIST BEFORE SUBMISSION
+## QUALITY CHECKLIST BEFORE SUBMISSION (V3 STANDARDS)
 
 - [ ] Word count: 3,700-4,200 words (includes Calculator Tools section)
+- [ ] **Keyword Volume Total:** 2,980/mo (86% increase over primary keyword) ⭐ **V3 REQUIRED**
+- [ ] **✅ VERIFICATION: Unmapped Keywords: NONE** confirmed ⭐ **V3 REQUIRED**
 - [ ] All 13 keywords mapped to specific sections
+- [ ] **"Writer must cover" bullets** under each H2 section (3-5 specific points) ⭐ **V3 REQUIRED**
+- [ ] **Competitor Reference URLs section** included (Covers.com/ca, ActionNetwork, TheLines) ⭐ **V3 REQUIRED**
+- [ ] **E-E-A-T Author Requirements section** included (credentials, bio link, experience signals) ⭐ **V3 REQUIRED**
+- [ ] **Word Count by Section Table** included ⭐ **V3 REQUIRED**
 - [ ] 8 FAQs included with keyword targeting
 - [ ] 12 internal links included naturally (including calculator links)
 - [ ] Tier 1 sources cited (App Store, Google Play, Reddit)

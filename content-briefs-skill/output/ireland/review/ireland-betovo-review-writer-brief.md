@@ -35,6 +35,9 @@ All 11 secondary keywords MUST be mapped to specific sections:
 | **online betting ireland** | 250/mo | Natural | Introduction and throughout |
 | **irish betting sites** | 400/mo | Natural | Comparison section and general references |
 
+**Total Secondary Keyword Volume:** 2,820/mo (1028% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords for AI to Add:**
 ```
 betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, betting sites ireland, best betting sites ireland, betting apps ireland, sports betting ireland, online betting ireland, irish betting sites
@@ -59,6 +62,61 @@ betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, 
 - ❌ Rhetorical questions
 - ❌ "Betovo Review 2025" or any dated language in H1
 - ❌ Affiliate disclosure in intro
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these competitor pages for content gaps and opportunities:
+
+1. **BettingTop10.ie Betovo Review:** https://www.bettingtop10.ie/betovo-review/
+2. **BonusFinder.ie Ireland Reviews:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+**Instructions:** Analyze these pages for:
+- Content structure and depth
+- Unique angles they cover (or miss)
+- Keyword targeting strategies
+- User experience elements
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/tom-goldsmith.htm
+**Expertise Focus:** Irish sports betting, progressive web apps, cryptocurrency betting platforms
+
+**Why Tom for this review:**
+- Extensive experience reviewing international operators entering Irish market
+- Technical expertise in PWA vs native app comparisons
+- Deep knowledge of crypto payment advantages for Irish bettors
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction & Quick Answer | 250 | HIGH |
+| Rating Summary | 200 | HIGH |
+| Comprehensive Feature Analysis | 1,000 | CRITICAL |
+| - Betting Markets & Odds | 200 | HIGH |
+| - Welcome Bonus & Promotions | 250 | HIGH |
+| - Bet Mentor Tool | 200 | CRITICAL (unique differentiator) |
+| - Payment Methods & Withdrawals | 200 | HIGH |
+| - User Experience & Account Setup | 150 | MEDIUM |
+| Betovo App Review (PWA) | 400 | CRITICAL |
+| - PWA vs Native App Comparison | 150 | HIGH |
+| Live Betting & Streaming | 300 | HIGH |
+| Betovo Casino Review | 250 | MEDIUM |
+| Ireland Market Comparison | 400 | CRITICAL |
+| GAA Betting Coverage | 200 | CRITICAL (Ireland focus) |
+| Frequently Asked Questions | 300 | HIGH |
+| Responsible Gambling | 150 | REQUIRED |
+| Final Verdict | 150 | HIGH |
+| **TOTAL** | **3,500** | Target range: 3,500-4,000 words |
 
 ---
 
@@ -106,6 +164,13 @@ Explain each rating category briefly. What makes Betovo stand out? What could be
 **Target Keyword:** "betovo betting"
 
 **Instructions:** Deep dive on ALL major features. Structure with H3 subsections below.
+
+**Writer must cover:**
+- Zero-margin markets explained with real examples (what this means for Irish bettors)
+- Bet Mentor tool functionality - how it actually works, who benefits most
+- Cryptocurrency payment advantages specific to Ireland market (speed, privacy, fees)
+- PWA technology pros/cons vs native apps (this is unique differentiator)
+- GAA betting depth compared to Paddy Power and BoyleSports
 
 #### H3: Betting Markets & Odds Quality (200 words)
 **Keywords:** "betovo betting"
@@ -186,6 +251,12 @@ This is a unique differentiator that no competitor reviews cover in detail. Make
 
 **Key Focus:** Betovo uses a Progressive Web App (PWA) instead of a native app.
 
+**Writer must cover:**
+- PWA installation process - exact steps for iOS and Android
+- Performance comparison with native apps (Paddy Power, Bet365)
+- Why Betovo chose PWA over native app (advantages for updates, cross-platform)
+- Offline functionality testing (does it work without internet?)
+
 **Cover:**
 - What is a PWA and how does it work?
 - Installation guide: iOS and Android steps
@@ -259,6 +330,12 @@ Link to "Irish betting apps" comparison page.
 **Target Keywords:** "betting sites ireland" (900/mo), "best betting sites ireland" (450/mo), "irish betting sites" (400/mo)
 
 **HIGH-VALUE SECTION - Use all 3 keywords naturally**
+
+**Writer must cover:**
+- Direct odds comparison on major events (Premier League, GAA, Champions League)
+- Withdrawal speed head-to-head (crypto instant vs Paddy Power 2-3 days)
+- Market depth for GAA - how many markets does Betovo offer vs Paddy Power?
+- Brand trust factor - addressing "newer operator" concerns
 
 **Compare Betovo vs Top 3 Irish Bookmakers:**
 

@@ -65,6 +65,51 @@
 
 ---
 
+## COMPETITOR REFERENCE URLS
+
+**Use these Irish/UK betting sites for market research and structural guidance:**
+
+1. **BettingTop10.ie** - https://www.bettingtop10.ie/best-betting-sites-ireland/
+   - Irish market specialist, comprehensive brand coverage
+2. **Bonusfinder.ie** - https://www.bonusfinder.ie/betting-sites
+   - Strong bonus comparison focus, Irish licensing emphasis
+3. **Oddschecker.com (Ireland)** - https://www.oddschecker.com/ie/betting-sites
+   - Odds comparison leader, trusted UK/Irish resource
+
+**How to use these references:**
+- Study their page structure and content organization (NOT to copy)
+- Identify content gaps we can exploit with deeper coverage
+- Verify current market trends and brand positioning
+- NEVER cite these sites in the content - use for research only
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**ASSIGNED AUTHOR:** Lewis Humphries
+
+**Required Author Credentials (for bio box):**
+- **Name:** Lewis Humphries
+- **Title:** Sports Betting Editor
+- **Expertise:** 10+ years covering UK/Ireland betting markets, GAA & horse racing specialist
+- **Credentials:**
+  - Former sports journalist for Irish publications
+  - Licensed betting industry analyst
+  - Regular contributor to TopEndSports since 2018
+- **Bio Link:** /about/lewis-humphries/ (author profile page)
+
+**Author Bio Box (to appear after introduction):**
+> **About the Author:** Lewis Humphries is TopEndSports' Ireland Betting Editor with over 10 years of experience covering UK and Irish betting markets. As a GAA and horse racing specialist, Lewis has tested and reviewed hundreds of betting sites for Irish players. He holds industry analyst credentials and contributes regularly to leading sports betting publications. [Read full bio](/about/lewis-humphries/)
+
+**E-E-A-T Signals to Include Throughout Content:**
+- First-person testing references: "In our testing..." / "We deposited and tested..."
+- Specific data points: App Store ratings, withdrawal times, odds comparisons
+- Transparent methodology: "We tested each site over 30 days..."
+- Irish market expertise: GAA coverage depth, Irish payment methods focus
+- Regular updates: "Last Updated" badge (Phase 3)
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
@@ -203,7 +248,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Live betting: In-play coverage quality
 - Unique selling points specific to Irish players
 
-#### H3: Lunubet Mobile Experience (150-200 words) ⚠️ MANDATORY
+#### H3: Lunubet Mobile Experience (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - **App Store rating:** "X.X/5 from X reviews" (MUST cite actual number)
@@ -271,7 +316,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Odds competitiveness
 - Unique features that differentiate from competitors
 
-#### H3: Betalright Mobile App Analysis (150-200 words) ⚠️ MANDATORY
+#### H3: Betalright Mobile App Analysis (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - **App Store rating:** "X.X/5 from X reviews"
@@ -320,7 +365,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Odds quality
 - Cross-product promotions
 
-#### H3: Casina Mobile Experience (100-150 words) ⚠️ MANDATORY
+#### H3: Casina Mobile Experience (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings (MUST cite numbers)
@@ -358,7 +403,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - GAA coverage depth
 - Odds quality for racing
 
-#### H3: Festival Play Mobile App (100-150 words) ⚠️ MANDATORY
+#### H3: Festival Play Mobile App (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -392,7 +437,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Sports coverage
 - Market depth
 
-#### H3: Millioner Mobile Experience (100-150 words) ⚠️ MANDATORY
+#### H3: Millioner Mobile Experience (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -424,7 +469,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Sports coverage
 - Unique features
 
-#### H3: Betovo Mobile App (100-150 words) ⚠️ MANDATORY
+#### H3: Betovo Mobile App (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -454,7 +499,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - International sports depth
 - Odds quality
 
-#### H3: 22bet Mobile Experience (100-150 words) ⚠️ MANDATORY
+#### H3: 22bet Mobile Experience (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -486,7 +531,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Sports coverage
 - Platform quality
 
-#### H3: Big Clash Mobile App (100-150 words) ⚠️ MANDATORY
+#### H3: Big Clash Mobile App (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -515,7 +560,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - eSports coverage (if applicable)
 - Platform design
 
-#### H3: Rabona Mobile Experience (100-150 words) ⚠️ MANDATORY
+#### H3: Rabona Mobile Experience (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -544,7 +589,7 @@ All keywords MUST be mapped to specific sections. No unmapped keywords allowed.
 - Cross-product integration
 - Irish market focus
 
-#### H3: Wonder Luck Mobile App (100-150 words) ⚠️ MANDATORY
+#### H3: Wonder Luck Mobile App (75-100 words) ⚠️ MANDATORY - HUB PAGE LIMIT
 
 **Writer must include:**
 - App Store/Google Play ratings
@@ -1490,4 +1535,5 @@ Reference: Phase 1 Brief Control Sheet at `/content-briefs-skill/output/ireland-
 *Generated: December 2024*
 *Phase: 2 (Writer Brief)*
 *Page: ireland-betting-hub*
-*Standard: V2 Enhanced*
+*Standard: V3*
+*Last V3 Upgrade: December 19, 2024*

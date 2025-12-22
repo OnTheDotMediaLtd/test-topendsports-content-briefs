@@ -17,6 +17,31 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Notes |
+|---------|-------------|-------|
+| Introduction | 100-150 | Direct answer format |
+| Quick Answer Box | 75-100 | Top 3 apps |
+| Comparison Table | N/A | Interactive table (Phase 3) |
+| Top UK Betting Apps | 300-350 | Market overview |
+| UK Betting Apps Guide | 400-450 | + H3 subsections |
+| Brand Reviews (9 brands) | 3,825-4,500 | 425-500 words each |
+| Legal Gambling Apps | 300-350 | UKGC compliance |
+| Football Betting Apps | 300-350 | Football focus |
+| Top Rated Apps | 300-350 | Ratings analysis |
+| Free Bet Offers | 350-400 | Bonus comparison |
+| Best Odds Guaranteed | 300-350 | BOG explanation |
+| Payment Methods | 350-400 | UK payment options |
+| iOS vs Android | 300-350 | Platform comparison |
+| Download Guide | 400-450 | Step-by-step |
+| Testing Methodology | 400-450 | How we test |
+| FAQs | 750-1,500 | 8-10 questions |
+| Responsible Gambling | 200-250 | UK helplines |
+| **TOTAL** | **~8,500** | **Apps page target** |
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 All secondary keywords MUST be mapped to specific sections. Use exact keyword phrases in H2/H3 titles and FAQ questions.
@@ -40,6 +65,33 @@ All secondary keywords MUST be mapped to specific sections. Use exact keyword ph
 best betting apps uk, betting apps uk, uk betting apps, gambling apps uk, betting app uk, sports betting apps uk, top betting apps uk, best football betting apps uk, online betting apps uk, best sports betting apps uk, betting apps with free bets, betting app reviews uk, best odds betting app uk
 
 **Unmapped Keywords: NONE** ✅
+
+### Total Secondary Keyword Volume
+
+| Metric | Value |
+|--------|-------|
+| **Total Secondary Volume** | 3,580/mo |
+| **Primary Keyword Volume** | 600/mo |
+| **Combined Cluster Volume** | 4,180/mo |
+| **Increase vs Primary Alone** | 597% increase |
+
+**Calculation Breakdown:**
+- betting apps uk (1,800) + uk betting apps (700) + gambling apps uk (300) + betting app uk (200) + sports betting apps uk (150) + top betting apps uk (80) + best football betting apps uk (50) + online betting apps uk (40) + best sports betting apps uk (20) + betting apps with free bets (100 est) + betting app reviews uk (80 est) + best odds betting app uk (60 est) = **3,580/mo**
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+Use these competitor pages to analyze content gaps and structure (research only - DO NOT cite in content):
+
+1. **Betting.com Apps** - https://www.betting.com/en/apps - Comprehensive app testing methodology, download guides
+2. **OddsChecker Apps** - https://www.oddschecker.com/betting-apps - Strong ratings comparison, payment methods on apps
+3. **BestBettingSites Apps** - https://www.bestbettingsites.co.uk/betting-apps/ - iOS vs Android comparison, feature analysis
+
+**Competitor Analysis Notes:**
+- Betting.com: Excellent app testing detail, lacks Reddit user feedback integration
+- OddsChecker: Strong ratings tables, missing mobile-specific bonus coverage
+- BestBettingSites: Good download guides, lacks performance benchmarking data
 
 ---
 
@@ -134,10 +186,24 @@ Our rankings are based on independent testing of app performance, user reviews f
 - What separates top apps from competitors
 - Preview of detailed reviews below
 
+**Writer must cover:**
+- Mobile betting accounts for 70%+ of UK betting activity (cite industry stats)
+- All major UK bookmakers now offer dedicated iOS and Android apps
+- Key differentiators: app performance, feature completeness, odds quality, user experience
+- UKGC licensing requirement for all featured apps
+- Preview of 9 apps reviewed in detail below with testing methodology
+
 ---
 
 ### H2: UK Betting Apps: Complete Guide (400-450 words)
 **Keyword target: "uk betting apps" (700/mo)**
+
+**Writer must cover:**
+- Complete overview of UK betting app ecosystem (established vs new operators)
+- Legal requirements: UKGC licensing, age verification (18+), responsible gambling tools
+- How to choose the right app: user needs assessment (casual vs serious bettor, sport preferences)
+- Mobile app vs mobile web comparison (when to use each)
+- Link to main hub page: [UK Sports Betting Sites](/sport/betting/uk/index.htm)
 
 #### H3: What Makes a Great UK Betting App? (200-250 words)
 **Keyword target: "betting app uk" (200/mo)**
@@ -256,6 +322,13 @@ Our rankings are based on independent testing of app performance, user reviews f
 ### H2: Legal Gambling Apps in the UK (300-350 words)
 **Keyword target: "gambling apps uk" (300/mo)**
 
+**Writer must cover:**
+- UKGC licensing as mandatory requirement (verify all 9 featured apps hold valid licenses)
+- How to check license: UKGC public register, app footer license number
+- Consumer protections: segregated funds, dispute resolution (IBAS), responsible gambling tools
+- Age verification process: ID upload, address verification, timeframes
+- Warning signs of unlicensed apps and risks of using them
+
 **Cover:**
 - UK Gambling Commission (UKGC) licensing requirements
 - How to verify an app is licensed (step-by-step)
@@ -274,6 +347,13 @@ Our rankings are based on independent testing of app performance, user reviews f
 
 ### H2: Best Football Betting Apps UK (300-350 words)
 **Keyword target: "best football betting apps uk" (50/mo)**
+
+**Writer must cover:**
+- Top 3-4 apps specifically for football betting (name brands and justify selection)
+- Football-specific mobile features: bet builder, goal alerts, live match graphics, team stats
+- Premier League coverage comparison across apps (markets depth, pre-match vs in-play)
+- Price boosts and enhanced odds for football (which apps offer best promotions)
+- Link to detailed guide: [UK Football Betting](/sport/betting/uk/football-betting-sites.htm)
 
 **Cover:**
 - Top apps for football betting (comparison)
@@ -322,6 +402,13 @@ Our rankings are based on independent testing of app performance, user reviews f
 ### H2: UK Betting Apps with Free Bet Offers (350-400 words)
 **Keyword target: "betting apps with free bets" (est. 100/mo)**
 
+**Writer must cover:**
+- App-exclusive bonuses vs standard welcome bonuses (which apps offer better terms on mobile)
+- How to claim mobile bonuses: register via app, use mobile bonus code, opt-in process
+- Wagering requirements comparison across featured apps (table format)
+- Mobile-only promotions: daily price boosts, app-specific free bets, push notification offers
+- Link to bonuses hub: [UK Betting Bonuses](/sport/betting/uk/bonuses.htm)
+
 **Cover:**
 - App-exclusive bonuses comparison (table format)
 - Mobile-only promotions
@@ -362,6 +449,13 @@ Our rankings are based on independent testing of app performance, user reviews f
 ---
 
 ### H2: Payment Methods on UK Betting Apps (350-400 words)
+
+**Writer must cover:**
+- Credit card ban (April 2020 UKGC regulation) - explain why and alternatives
+- Mobile payment options: Apple Pay, Google Pay (convenience on apps vs desktop)
+- E-wallet comparison: PayPal, Skrill, Neteller (deposit limits, withdrawal speeds, fees)
+- Faster Payments for instant bank transfers (UK-specific method, how it works on apps)
+- Payment methods table comparing all 9 featured apps
 
 **⚠️ UK-SPECIFIC RULES - CRITICAL:**
 - **NO CREDIT CARDS** allowed for gambling in UK (banned April 2020)
@@ -455,6 +549,14 @@ Our rankings are based on independent testing of app performance, user reviews f
 ---
 
 ### H2: How We Test and Rank Betting Apps (400-450 words)
+
+**Writer must cover:**
+- Real device testing: iPhone and Android devices used, OS versions tested
+- Performance benchmarking: loading time measurements, crash frequency tracking
+- Real money testing: minimum deposit amounts tested, withdrawal testing results
+- App store rating analysis: review volume thresholds, sentiment analysis methodology
+- Independent testing vs user reviews (how we balance both sources)
+- Update frequency: monthly re-testing schedule, bonus verification cadence
 
 **Methodology transparency:**
 
@@ -835,6 +937,14 @@ Place these naturally throughout the content. Context indicates where to use eac
 **Helpline:**
 - **GamCare National Gambling Helpline:** 0808 8020 133
 - Display prominently at end of article
+
+### E-E-A-T Author Requirements
+
+- **Author Name:** Lewis Humphries
+- **Credentials:** Mobile betting specialist with 8+ years experience testing UK betting apps across iOS and Android, UKGC compliance expert
+- **Author Bio Link:** /author/lewis-humphries/
+- **Expertise Display:** Author byline must appear at top of article with credentials
+- **Update Protocol:** Author must re-test all apps monthly, verify app store ratings weekly, update bonus information bi-weekly
 
 **Payment Regulations:**
 - **CRITICAL:** Credit cards BANNED for gambling in UK since April 2020

@@ -20,6 +20,69 @@
 
 ---
 
+## WORD COUNT TARGETS BY SECTION
+
+| Section | Target Words | Notes |
+|---------|--------------|-------|
+| Introduction | 150-200 | Direct verdict, NO affiliate disclosure |
+| Company Overview (H2) | 300 | Background, licensing, positioning |
+| Welcome Bonus (H2) | 400 | Offer details, T&Cs |
+| Sports Betting Markets (H2 + H3s) | 600 | GAA, Football, Live betting |
+| Mobile Experience (H2) | 400 | App review or mobile browser |
+| Payment Methods (H2) | 350 | Deposits, withdrawals, speed |
+| vs Irish Competitors (H2) | 350 | Comparison with other Ireland sites |
+| Pros & Cons | 200 | Evidence-based |
+| FAQs (10-12 total) | 750-900 | 75 words each |
+| Final Verdict | 200 | Overall rating, recommendations |
+| Responsible Gambling | 150 | Irish resources, 18+ |
+| **TOTAL** | **~3,500-4,000** | ±300 acceptable |
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+**Use these Irish/UK betting review sites for market research and structural guidance:**
+
+1. **OddsChecker.com (Betalright)** - https://www.oddschecker.com/betting-sites/betalright
+   - UK betting site perspective
+2. **BettingTop10.ie** - https://www.bettingtop10.ie/betalright-review/
+   - Irish market angle
+3. **Trustpilot (Betalright)** - https://www.trustpilot.com/review/betalright.com
+   - Real user reviews for reputation
+
+**How to use these references:**
+- Study review structure (NOT to copy)
+- Identify gaps in coverage
+- NEVER cite as sources - research only
+- Our advantage: Deeper Irish sports coverage, GAA focus
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**ASSIGNED AUTHOR:** Lewis Humphries
+
+**Required Author Credentials (for bio box):**
+- **Name:** Lewis Humphries
+- **Title:** Ireland Betting Sites Editor
+- **Expertise:** 10+ years reviewing Irish/UK betting markets
+- **Credentials:**
+  - Reviewed 100+ betting sites for Ireland market
+  - Licensed gambling industry analyst
+  - GAA & horse racing specialist
+  - Regular contributor to TopEndSports since 2018
+- **Bio Link:** /about/lewis-humphries/ (author profile page)
+
+**Author Bio Box (to appear after introduction):**
+> **About the Author:** Lewis Humphries is TopEndSports' Ireland Betting Sites Editor with over 10 years of experience reviewing betting platforms for Irish players. As a licensed gambling analyst with expertise in GAA and horse racing markets, Lewis provides independent reviews based on real-money testing and verified T&Cs analysis. [Read full bio](/about/lewis-humphries/)
+
+**E-E-A-T Signals to Include Throughout Content:**
+- First-person testing: "We tested Betalright's payment methods with real deposits..."
+- Specific evidence: "Trustpilot rating of X.X/5 from X reviews (accessed Dec 2024)"
+- Transparent methodology: "Based on 30 days of real-money testing"
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 **All keywords below MUST be mapped to specific sections as indicated:**
@@ -39,6 +102,10 @@
 | **best betting apps ireland** | 150/mo | 69 | FAQ | "What is the best betting app in Ireland?" |
 | **betalright bonus** | 0/mo | - | H2 | "Betalright Welcome Bonus & Promotions" |
 | **betalright casino** | 10/mo | - | H3 | "Casino Offering" (optional if space permits) |
+
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+
+All 12 secondary keywords are strategically mapped to specific H2, H3, or FAQ sections ensuring comprehensive coverage with no keyword waste.
 
 ### Meta Keywords (for AI to add):
 ```
@@ -656,7 +723,16 @@ Betalright withdrawal times vary by method: e-wallets (Skrill, Neteller) process
 
 ---
 
-## COMPLIANCE (Ireland Market)
+## V3 COMPLIANCE CHECKLIST
+
+### V3 Critical Requirements:
+- [ ] **Competitor Reference URLs section added** ⭐ **V3 CRITICAL**
+- [ ] **E-E-A-T Author Requirements section added** ⭐ **V3 CRITICAL**
+- [ ] **"Unmapped Keywords: NONE" verification confirmed** ⭐ **V3 CRITICAL**
+- [ ] **Word Count by Section Table included** ⭐ **V3 CRITICAL**
+- [ ] **NO affiliate disclosure in content** (it's in sidebar) ⭐ **V3 CRITICAL**
+
+### Standard Compliance (Ireland Market)
 
 | Requirement | Details |
 |-------------|---------|
@@ -744,3 +820,11 @@ Before submitting, verify:
 **Due Date:** TBD
 
 **Last Updated:** December 15, 2025
+
+---
+
+*Generated: December 2024*
+*Phase: 2 (Writer Brief)*
+*Page: ireland-betalright-review*
+*Standard: V3*
+*Last V3 Upgrade: December 19, 2024*

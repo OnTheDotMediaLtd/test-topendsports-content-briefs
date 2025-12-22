@@ -67,8 +67,62 @@ Map ALL 17 keywords to specific sections:
 | **7bet app download** | 50/mo | H3 | "7Bet App Download: What You Need to Know" |
 | **7bet sports** | 30/mo | H2 | "7Bet Sports: Betting Markets & Coverage" |
 
+**Total Secondary Keyword Volume:** 6,990/mo (33% increase over primary keyword)
+
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI Phase 3):**
 7bet, 7bet uk, 7bet review, 7bet casino, 7bet sign up offer, 7bet promo code, 7bet welcome offer, 7bet app, 7bet sports, 7bet login, 7bet withdrawal times, is 7bet legit, who owns 7bet, 7bet casino review, 7bet new customer offer, 7bet app download, 7bet bonus, 7bet casino login
+
+---
+
+## COMPETITOR URLs FOR ANALYSIS
+
+Research these competitor pages to understand content gaps and opportunities:
+
+1. **Oddschecker** - https://www.oddschecker.com/uk/7bet
+   - Focus: Odds comparison, market coverage
+2. **Betting.com** - https://www.betting.com/uk/7bet-review
+   - Focus: Bonus analysis, user experience
+3. **Racing Post** - https://www.racingpost.com/betting/7bet
+   - Focus: Horse racing markets, racing-specific features
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Primary Author:** Lewis Humphries
+**Experience:** 8+ years in sports betting journalism and analysis
+**Expertise:** UK betting markets, operator licensing, bonus terms analysis
+**Author Bio URL:** https://www.topendsports.com/authors/lewis-humphries.htm
+
+**Author Qualifications:**
+- Extensive experience reviewing UK-licensed betting operators
+- Deep knowledge of UKGC regulations and compliance
+- Specialization in new operator analysis and market positioning
+- Track record of transparent, honest betting site reviews
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Purpose |
+|---------|--------------|---------|
+| Introduction | 100-150 | Direct verdict, key facts |
+| Overview & Quick Verdict | 300-350 | Company background, positioning |
+| Licensing & Safety | 250-300 | UKGC license verification |
+| Sign Up Offer | 400-450 | Complete bonus breakdown, T&Cs |
+| Sports Coverage | 350-400 | Markets, odds, live betting |
+| 7Bet App | 400-450 | Mobile experience, app review |
+| Casino Review | 350-400 | Games, providers, live casino |
+| Payment Methods | 300-350 | Deposits, withdrawals, times |
+| Customer Support | 200-250 | Contact methods, quality |
+| Calculator Tools | 150-200 | Tool links and usage |
+| Pros & Cons | 300-350 | Detailed analysis with sources |
+| FAQs | 600-700 | 10 questions targeting keywords |
+| Final Verdict | 200-250 | Recommendation, best for |
+| Responsible Gambling | 150-200 | UK compliance, resources |
+| **TOTAL** | **3,750-4,200** | Complete review |
 
 ---
 

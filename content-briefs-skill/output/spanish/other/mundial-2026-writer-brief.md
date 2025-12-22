@@ -23,6 +23,15 @@
 
 ## SECONDARY KEYWORD OPTIMIZATION
 
+### Keyword Volume Summary
+
+| Metric | Value |
+|--------|-------|
+| **Primary Keyword Volume** | 5,000/mo (mundial 2026) |
+| **Secondary Keywords Total** | 10,680/mo |
+| **Total Cluster Volume** | 15,680/mo |
+| **Percentage Increase** | 214% increase over primary keyword |
+
 ### H2 Keyword Mapping (Primary Placements)
 
 | Keyword | Volume | KD | Section | Title |
@@ -88,6 +97,56 @@
 ```
 mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apuestas, casas de apuestas deportivas, apuestas deportivas usa, world cup 2026 odds, world cup 2026 favorites, casas de apuestas usa, grupos mundial 2026, sedes mundial 2026, fanduel soccer, draftkings soccer, betmgm world cup, bet365 world cup, apuestas copa del mundo
 ```
+
+**Unmapped Keywords:** NONE - All secondary keywords are strategically mapped to H2, H3, or FAQ sections.
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+**Spanish-language World Cup betting content to reference:**
+
+1. **El Golazo** - https://www.elgolazo.com/apuestas/mundial-2026/ (Spanish World Cup betting analysis)
+2. **Apuestas.org** - https://www.apuestas.org/mundial-futbol/ (USA Hispanic betting guide)
+3. **MejorApuesta USA** - https://www.mejorapuesta.com/futbol/copa-mundial/ (LATAM World Cup coverage)
+
+**Analysis Note:** These competitors provide Spanish-language coverage of World Cup betting for US Hispanic market with legal sportsbooks focus. Use to identify content gaps and engagement opportunities.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+| Field | Requirement |
+|-------|-------------|
+| **Author Name** | Gustavo Cantella |
+| **Credentials** | Experto en apuestas deportivas con 10+ años cubriendo Copas del Mundo |
+| **Expertise** | Especialista en apuestas de fútbol, mercados de Copa del Mundo, y casas de apuestas USA |
+| **Bio Link** | `/es/autores/gustavo-cantella.htm` |
+| **Author Note** | Include brief author bio (50 words) at bottom of article with photo and World Cup expertise statement |
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Notes |
+|---------|--------------|-------|
+| Introduction | 100-150 | Direct answer format |
+| Comparison Table | 100 | Quick overview |
+| FanDuel Review | 350 | #1 position - best mobile experience |
+| BetMGM Review | 350 | #2 position - premium markets |
+| DraftKings Review | 350 | #3 position - props specialist |
+| bet365 Review | 350 | International soccer expert |
+| Caesars Review | 300 | Rewards focus |
+| Fanatics Review | 300 | FanCash feature |
+| theScore BET Review | 300 | News integration |
+| BetRivers Review | 300 | Market variety |
+| Odds & Favorites | 400 | World Cup futures |
+| Tournament Details | 350 | Venues, dates, format |
+| How to Bet Guide | 300 | Betting types and process |
+| Payment Methods | 200 | USA payment options |
+| FAQs | 450 | 9 questions |
+| Responsible Gambling | 175 | Compliance |
+| **TOTAL** | **5,000+** | Comprehensive event page |
 
 ---
 
@@ -174,6 +233,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 **Keyword targets:** fanduel world cup (100/mo), fanduel soccer (500/mo)
 
+**Writer must cover:**
+- FanDuel's World Cup specific markets and futures
+- Soccer betting interface and navigation
+- App Store rating with citation (4.9/5)
+- World Cup promotional offers and bet boosts
+- Live betting capabilities for matches
+
 #### H3: Características Principales de FanDuel (150 words)
 - World Cup market variety
 - Odds quality for soccer
@@ -203,6 +269,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 **Keyword targets:** betmgm world cup (150/mo), betmgm soccer (20/mo)
 
+**Writer must cover:**
+- MGM Rewards integration and tier benefits
+- Premium World Cup betting markets
+- Vegas-style mobile interface quality
+- Soccer coverage depth for international tournaments
+- App Store/Google Play ratings with citations
+
 [Same structure as FanDuel: Key Features, Mobile Experience, Pros/Cons]
 
 - Highlight: MGM Rewards integration
@@ -214,6 +287,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 ### H2: 3. DraftKings - El Mejor para Props y Apuestas en Vivo (350 words)
 
 **Keyword targets:** draftkings world cup (50/mo), draftkings soccer (350/mo)
+
+**Writer must cover:**
+- Player props variety for World Cup matches
+- Live betting interface speed and reliability
+- Soccer-specific Same Game Parlay options
+- World Cup futures and outright markets
+- Mobile app performance during high-traffic matches
 
 [Same structure]
 
@@ -227,6 +307,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 **Keyword target:** bet365 world cup (150/mo)
 
+**Writer must cover:**
+- Global soccer expertise and market leadership
+- Live streaming availability for World Cup matches
+- Early World Cup futures and odds
+- International soccer depth vs US-focused books
+- Mobile app quality for soccer betting
+
 [Same structure]
 
 - Highlight: Global soccer expertise
@@ -239,6 +326,12 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 **Keyword target:** caesars world cup (50/mo)
 
+**Writer must cover:**
+- Caesars Rewards earning and redemption for betting
+- World Cup promotional calendar
+- Tier credits and benefits for major events
+- Soccer market coverage comparison
+
 [Same structure - slightly shorter]
 
 - Highlight: Caesars Rewards tier credits
@@ -247,6 +340,12 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 ---
 
 ### H2: 6. Fanatics - Gana FanCash con tus Apuestas (300 words)
+
+**Writer must cover:**
+- FanCash earning rates on World Cup bets
+- Soccer jersey and merchandise redemption options
+- World Cup betting markets available
+- Mobile app functionality and ratings
 
 [Same structure]
 
@@ -257,6 +356,12 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 ### H2: 7. theScore BET - Noticias y Apuestas Integradas (300 words)
 
+**Writer must cover:**
+- theScore media integration with betting platform
+- Real-time World Cup news and betting combination
+- Soccer coverage and analysis quality
+- Mobile app unified experience
+
 [Same structure]
 
 - Highlight: theScore app integration
@@ -265,6 +370,12 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 ---
 
 ### H2: 8. BetRivers - Variedad de Mercados de Fútbol (300 words)
+
+**Writer must cover:**
+- Soccer market depth and variety
+- Alternative lines and totals for World Cup
+- Team and player props availability
+- Regional availability and restrictions
 
 [Same structure]
 
@@ -276,6 +387,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 ### H2: Cuotas y Favoritos del Mundial 2026 (400 words)
 
 **Keyword targets:** world cup 2026 favorites (400/mo), world cup 2026 odds (250/mo), 2026 world cup winner odds (300/mo), favoritos mundial 2026 (80/mo)
+
+**Writer must cover:**
+- Current World Cup winner odds from major books
+- Analysis of top 5 favorites (Argentina, France, Spain, England, Brazil)
+- Home advantage impact for USA, Mexico, Canada
+- How odds have changed since previous tournament
+- Expert predictions and consensus picks
 
 #### H3: Selecciones Favoritas para Ganar (150 words)
 - Argentina (defending champion)
@@ -318,6 +436,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 **Keyword targets:** copa del mundo 2026 (1,200/mo), sedes mundial 2026 (500/mo), grupos mundial 2026 (200/mo), estadios mundial 2026 (200/mo), mexico mundial 2026 (100/mo)
 
+**Writer must cover:**
+- Complete tournament schedule with key dates
+- All 16 host cities and stadium details
+- New 48-team format explanation
+- Group stage structure and advancement rules
+- Mexico's hosting role and Azteca Stadium significance
+
 #### H3: Calendario y Fechas Clave (75 words)
 
 **Keyword targets:** calendario mundial 2026 (300/mo), fechas mundial 2026 (150/mo)
@@ -358,6 +483,13 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 
 **Keyword targets:** bet on world cup (150/mo), apuestas copa del mundo (150/mo), apuestas futbol online (150/mo), apuestas deportivas online (200/mo)
 
+**Writer must cover:**
+- Step-by-step guide for first-time World Cup bettors
+- All available bet types with examples
+- Account creation and verification process
+- Calculator tool integration for parlay bets
+- Legal betting requirements by state
+
 #### H3: Tipos de Apuestas Disponibles (150 words)
 
 | Tipo de Apuesta | Descripción |
@@ -388,6 +520,12 @@ mundial 2026, copa del mundo 2026, apuestas mundial 2026, mejores casas de apues
 ---
 
 ### H2: Métodos de Pago y Retiros (200 words)
+
+**Writer must cover:**
+- Most popular payment methods for US Hispanic market
+- Processing times for deposits and withdrawals
+- Payment method availability by sportsbook
+- Recommended methods for World Cup betting
 
 | Método | Depósito | Retiro | Tiempo |
 |--------|----------|--------|--------|

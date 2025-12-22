@@ -49,8 +49,62 @@ Map ALL 15 secondary keywords to specific sections:
 | **is 22bet legit** | 10 | FAQ | "Is 22bet Safe and Legitimate for UK Players?" |
 | **22bet withdrawal** | 10 | H3 + FAQ | "22bet Withdrawal Times & Limits" |
 
+**Total Secondary Keyword Volume:** 4,340/mo (2,793% increase over primary keyword)
+
+**Unmapped Keywords:** NONE
+
 **Meta Keywords for AI Enhancement:**
 22bet review, 22bet, 22bet bonus, 22bet promo code, 22bet casino, 22bet app, 22bet sign up offer, 22bet login, 22bet sports, 22bet apk download, 22bet uk, 22bet free bet, 22bet withdrawal, is 22bet legit, 22bet sportsbook, 22bet online casino
+
+---
+
+## COMPETITOR URLs FOR ANALYSIS
+
+Research these competitor pages to understand content gaps and opportunities:
+
+1. **Oddschecker** - https://www.oddschecker.com/uk/22bet
+   - Focus: Odds comparison, market coverage
+2. **Betting.com** - https://www.betting.com/uk/22bet-review
+   - Focus: Bonus analysis, user experience
+3. **Racing Post** - https://www.racingpost.com/betting/22bet
+   - Focus: Horse racing markets, racing-specific features
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Primary Author:** Lewis Humphries
+**Experience:** 8+ years in sports betting journalism and analysis
+**Expertise:** UK betting markets, operator licensing, bonus terms analysis
+**Author Bio URL:** https://www.topendsports.com/authors/lewis-humphries.htm
+
+**Author Qualifications:**
+- Extensive experience reviewing UK-licensed betting operators
+- Deep knowledge of UKGC regulations and compliance
+- Specialization in international operator analysis (Curacao-licensed sites)
+- Track record of transparent, honest betting site reviews
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Purpose |
+|---------|--------------|---------|
+| Introduction | 100-150 | Direct verdict, key facts |
+| Overview & Rating | 200-250 | Company background, quick rating |
+| Welcome Bonus | 400-450 | Complete bonus breakdown, T&Cs |
+| Sports Coverage | 300-350 | Markets, odds, live betting |
+| 22bet App | 400-450 | Mobile experience, app review |
+| Casino Review | 300-350 | Games, providers, live casino |
+| Payment Methods | 350-400 | Deposits, withdrawals, times |
+| Customer Support | 200-250 | Contact methods, quality |
+| Licensing & Safety | 250-300 | Curacao license, security |
+| Calculator Tools | 150-200 | Tool links and usage |
+| Pros & Cons | 300-350 | Detailed analysis with sources |
+| FAQs | 500-600 | 10 questions targeting keywords |
+| Final Verdict | 200-250 | Recommendation, best for |
+| Responsible Gambling | 150-200 | UK compliance, resources |
+| **TOTAL** | **3,500-4,000** | Complete review |
 
 ---
 
@@ -128,6 +182,13 @@ Last Updated: December 15, 2025
 ### H2: 22bet Overview: What Makes It Stand Out? (300 words)
 **Keywords:** 22bet
 
+**Writer must cover:**
+- Company ownership and Curacao licensing context (not UKGC)
+- Why 22bet operates under Curacao license vs UK Gambling Commission
+- Target audience: International bettors vs UK-focused operators
+- Key differentiators: Crypto payments, 1,000+ events, 24/7 support
+- Transparent positioning: Alternative operator, not mainstream UK choice
+
 #### H3: Quick Rating Summary (100 words)
 - Overall star rating (e.g., 3.8/5)
 - Best for: "Bettors seeking massive sports coverage and international markets"
@@ -146,6 +207,12 @@ Last Updated: December 15, 2025
 
 ### H2: 22bet Bonus: Welcome Offer & Ongoing Promotions (400 words)
 **Keywords:** 22bet bonus, 22bet sign up offer, 22bet free bet, 22bet promo code
+
+**Writer must cover:**
+- Complete bonus structure and qualifying requirements
+- Comparison with UK UKGC-licensed operator bonuses
+- Higher wagering requirements typical of Curacao operators
+- Transparency on complex bonus terms vs UK competitors
 
 **Structure:**
 - Current welcome bonus overview (100 words)
@@ -188,6 +255,12 @@ Last Updated: December 15, 2025
 
 ### H2: Betting Markets & Sports Coverage (350 words)
 **Keywords:** 22bet sports, 22bet sportsbook
+
+**Writer must cover:**
+- 1,000+ daily events across 30+ sports (verify current number)
+- Market depth comparison vs Bet365, William Hill
+- Niche sports availability (esports, virtual sports, politics)
+- International markets strength vs UK domestic markets
 
 #### H3: 22bet Sports Coverage: Markets & Events (200 words)
 **Keywords:** 22bet sports
@@ -272,7 +345,7 @@ Last Updated: December 15, 2025
 
 **Source Required:** Google Play reviews, Reddit user feedback
 
-#### H3: 22bet Mobile Experience (100-150 words)
+#### H3: 22bet Mobile Experience (150-200 words)
 
 **V2 REQUIRED SECTION - Cover mobile-specific UX beyond app features:**
 
@@ -305,6 +378,13 @@ Last Updated: December 15, 2025
 
 ### H2: 22bet Casino: Slots, Live Dealer & Table Games (300 words)
 **Keywords:** 22bet casino, 22bet online casino
+
+**Writer must cover:**
+- 3,000+ games across slots, live dealer, table games
+- Top providers: Evolution Gaming, NetEnt, Pragmatic Play, Microgaming
+- Progressive jackpot availability
+- Integrated sportsbook + casino account
+- Casino bonus vs sports bonus comparison
 
 **Opening:** Brief overview of casino offering alongside sportsbook
 
@@ -346,6 +426,13 @@ Last Updated: December 15, 2025
 
 ### H2: Payment Methods & Banking (350 words)
 **Keywords:** 22bet withdrawal
+
+**Writer must cover:**
+- Cryptocurrency options (Bitcoin, Ethereum, Litecoin)
+- Traditional UK payment methods (cards, e-wallets)
+- Withdrawal processing times by method
+- KYC verification requirements
+- Comparison with UK operator withdrawal speeds
 
 **Opening:** Overview of banking flexibility at 22bet
 
@@ -430,6 +517,13 @@ Last Updated: December 15, 2025
 **Keywords:** 22bet uk, is 22bet legit
 
 **CRITICAL SECTION - TRANSPARENCY REQUIRED**
+
+**Writer must cover:**
+- Curacao license #8048/JAZ - NOT UK Gambling Commission
+- What this means for UK players (different regulatory protections)
+- Security measures (SSL, data protection)
+- Transparency: Don't downplay licensing differences
+- When to choose UKGC operator instead
 
 **Cover:**
 

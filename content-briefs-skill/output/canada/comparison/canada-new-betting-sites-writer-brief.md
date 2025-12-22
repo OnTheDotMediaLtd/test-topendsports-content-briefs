@@ -10,11 +10,47 @@
 
 - **URL:** https://www.topendsports.com/sport/betting/canada/new-betting-sites.htm
 - **Target Keyword:** "new betting sites canada"
-- **Total Search Volume:** 95,140/month (including all keywords)
+- **Primary Search Volume:** [To be verified from Ahrefs]
+- **Keyword Volume Total:** 95,140/month (all keywords included)
 - **Word Count:** 9,000 words
 - **Template:** Template 2 (Comparison)
 - **Market:** Canada
 - **Priority:** Medium
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these Canadian betting sites for competitive analysis and market context:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Use for: Canadian betting market trends, new operator analysis
+2. **ActionNetwork Canada** - https://www.actionnetwork.com/canada
+   - Use for: Betting site reviews, new platform launches
+3. **TheLines Canada** - https://www.thelines.com/canada/
+   - Use for: Market comparisons, licensing verification
+
+**Important:** These are for research context only. DO NOT cite these competitor sites for pros/cons or recommendations. Use TIER 1 sources (App Store, Google Play, Reddit) for brand evaluations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+
+**Credentials Required:**
+- Minimum 3+ years sports betting industry experience
+- Demonstrated expertise in evaluating new betting platforms
+- Knowledge of Canadian regulatory landscape (AGCO, Loto-Quebec)
+- Experience testing and reviewing betting site innovations
+
+**Author Bio Link:** [To be added by editorial team]
+
+**E-E-A-T Signals to Include:**
+- Author has personally tested all 9 featured new betting sites
+- Direct experience with innovative features (gamification, crypto, AI recommendations)
+- Knowledge of established operators for comparison context (FanDuel, Bet365, BetMGM)
+- Understanding of provincial regulatory differences (Ontario vs Quebec vs other provinces)
 
 ---
 
@@ -37,8 +73,33 @@ Map ALL secondary keywords to specific sections. Every keyword MUST appear in a 
 | best casino sites canada | 50/mo | FAQ | Do new betting sites also offer casino games? |
 | newest betting sites | 20/mo | Natural | Introduction paragraph mention |
 
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+All 12 secondary keywords are explicitly mapped to H2, H3, FAQ, or Natural placement sections.
+
 **Meta Keywords (for AI Enhancement phase):**
 new betting sites canada, newest betting sites, betting apps ontario, sports betting quebec, sports betting apps canada, betting sites ontario, top betting sites canada, best football betting sites, nfl betting sites canada, canadian gambling apps, best new betting sites, best casino sites canada
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words |
+|---------|--------------|
+| Introduction | 100-150 |
+| Top New Betting Sites 2025 | 500 |
+| What Makes Sites New | 400 |
+| Brand Reviews (9 total) | 5,400 |
+| New vs Established Comparison | 600 |
+| Ontario Betting Apps | 600 |
+| Quebec Sports Betting | 550 |
+| Best New Apps | 700 |
+| Sports Coverage | 800 |
+| Payment Methods | 500 |
+| How to Choose | 600 |
+| Terms & Conditions (9 brands) | 900 |
+| FAQs (8 total) | 1,200 |
+| Responsible Gambling | 300 |
+| **TOTAL** | **~9,000** |
 
 ---
 
@@ -114,6 +175,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 3: H2 - Top New Betting Sites Canada 2025
 **Word Count:** 500 words
+
+**Writer must cover:**
+- Definition of "new" status (2024-2025 launch dates)
+- Quick overview of top 3 picks (Treasure Spins, Royalistplay, Wyns)
+- Innovation highlights distinguishing new sites from established operators
+- Key technological advantages (crypto, AI, gamification, social features)
+
 **Requirements:**
 - Define what makes a site "new" (2024-2025 launch dates)
 - Quick overview of top 3 picks
@@ -212,6 +280,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 7: H2 - New vs Established Betting Sites: Complete Comparison
 **Word Count:** 600 words
+
+**Writer must cover:**
+- Innovation vs trust comparison (new tech vs proven track record)
+- Welcome bonus aggressiveness (new sites offer more competitive bonuses)
+- Comparison table across 6-8 criteria (technology, trust, bonuses, coverage, support)
+- When to choose new vs established operators
+
 **Requirements:**
 - Innovation comparison (new sites = cutting edge tech)
 - Trust and track record (established = proven reliability)
@@ -234,6 +309,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 8: H2 - Best Betting Apps in Ontario: New Operators
 **Word Count:** 600 words
+
+**Writer must cover:**
+- AGCO and iGaming Ontario licensing framework
+- Which new sites are Ontario-licensed vs offshore
+- App availability for Ontario residents (iOS and Android)
+- Provincial-specific bonuses and promotions
+
 **Requirements:**
 - Ontario licensing explained (AGCO, iGaming Ontario)
 - Which new sites are licensed vs offshore
@@ -249,6 +331,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 9: H2 - Sports Betting in Quebec: New Sites Available
 **Word Count:** 550 words
+
+**Writer must cover:**
+- Loto-Quebec monopoly and regulatory landscape
+- Offshore sites serving Quebec bettors (legal status clarification)
+- French language support on new platforms
+- Payment methods popular in Quebec (Interac e-Transfer)
+
 **Requirements:**
 - Quebec regulatory landscape (Loto-Quebec monopoly)
 - Offshore sites serving Quebec bettors
@@ -261,6 +350,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 10: H2 - Best New Sports Betting Apps in Canada
 **Word Count:** 700 words
+
+**Writer must cover:**
+- App Store and Google Play availability for new platforms
+- Download and installation process (iOS vs Android)
+- App-exclusive features on new platforms (innovations not on established apps)
+- Mobile performance comparison with user ratings analysis
+
 **Requirements:**
 - App Store and Google Play availability
 - Download and installation process
@@ -277,6 +373,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 11: H2 - Popular Sports Coverage on New Betting Sites
 **Word Count:** 800 words
+
+**Writer must cover:**
+- NHL betting coverage (Canada's #1 sport) across new platforms
+- CFL coverage (uniquely Canadian league)
+- NFL and football (soccer) betting popularity and market depth
+- Comparison of sports offerings across all 9 new sites
+
 **Requirements:**
 - NHL betting (Canada's favorite sport)
 - CFL coverage (Canadian football)
@@ -296,6 +399,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 12: H2 - Payment Methods Comparison: New Betting Sites
 **Word Count:** 500 words
+
+**Writer must cover:**
+- Interac e-Transfer as most popular Canadian payment method
+- Crypto payment options (Lizaro focus) with processing times
+- Traditional methods (credit/debit) and e-wallets
+- Comprehensive comparison table across all 9 brands with speeds and limits
+
 **Requirements:**
 - Traditional methods (credit/debit, Interac e-Transfer)
 - Crypto payment options (Lizaro focus)
@@ -312,6 +422,13 @@ Add a "Last Updated: December 2025" badge AFTER the H1 (AI will implement this i
 
 ### Section 13: H2 - How to Choose a New Betting Site in Canada
 **Word Count:** 600 words
+
+**Writer must cover:**
+- Licensing verification process (AGCO for Ontario, offshore licensing authorities)
+- Bonus value assessment with calculator tool links (parlay, odds calculators)
+- Trust and safety signals (user reviews, licenses, payment security)
+- Step-by-step decision framework for choosing new vs established sites
+
 **Requirements:**
 - Licensing verification (AGCO for Ontario, offshore licensing)
 - Bonus value assessment (link to parlay calculator)
@@ -597,7 +714,7 @@ value and user engagement.
 
 ---
 
-## QUALITY CHECKLIST (V2 STANDARDS)
+## QUALITY CHECKLIST (V3 STANDARDS)
 
 Before submitting, verify:
 
@@ -605,7 +722,13 @@ Before submitting, verify:
 - [ ] **NO affiliate disclosure in intro or content** (it's in sidebar)
 - [ ] NO year in H1 ("2025" removed)
 - [ ] All 12 secondary keywords mapped to sections
+- [ ] **✅ VERIFICATION: Unmapped Keywords: NONE** confirmed ⭐ **V3 REQUIRED**
+- [ ] **Keyword Volume Total:** 95,140/month (all keywords) ⭐ **V3 REQUIRED**
 - [ ] All 8 FAQs target specific keywords
+- [ ] **"Writer must cover" bullets** under each H2 section (3-5 specific points) ⭐ **V3 REQUIRED**
+- [ ] **Competitor Reference URLs section** included (Covers.com/ca, ActionNetwork, TheLines) ⭐ **V3 REQUIRED**
+- [ ] **E-E-A-T Author Requirements section** included (credentials, bio link, experience signals) ⭐ **V3 REQUIRED**
+- [ ] **Word Count by Section Table** included ⭐ **V3 REQUIRED**
 - [ ] All 12 internal links included
 - [ ] Canadian compliance (19+, RGC and CCSA resources, NO US hotlines)
 - [ ] ALL 9 brands have Mobile Experience subsection (100-150 words each)

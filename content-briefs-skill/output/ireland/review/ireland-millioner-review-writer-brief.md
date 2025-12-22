@@ -38,8 +38,54 @@ You must optimize for ALL 14 secondary keywords. Here's where each keyword shoul
 | is millioner legit | - | FAQ | FAQ question: "Is Millioner legit and safe for Irish bettors?" |
 | millioner login | - | FAQ | FAQ question: "How do I log in to my Millioner account?" |
 
+**Total Secondary Keyword Volume:** 2,210/mo (22,000% increase over primary 10/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI to add in Phase 3):**
 millioner sport, millioner review, millioner ireland, millioner bonus, millioner app, millioner casino, millioner withdrawal, is millioner legit, millioner login, millioner promo code, betting sites ireland, irish betting sites, sports betting ireland, online betting ireland, new betting sites ireland
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/millioner-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/tom-goldsmith.htm
+**Expertise Focus:** New market entrants, mobile betting platforms, Ireland regulatory compliance
+
+**Why Tom for this review:**
+- Expert in reviewing new operators entering Ireland market
+- Deep knowledge of licensing verification and regulatory compliance
+- Extensive experience comparing newcomers vs established Irish brands
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | HIGH |
+| About Millioner Sportsbook | 250 | HIGH |
+| Bonus & Promotions | 300 | HIGH |
+| Sports Betting Markets | 350 | CRITICAL |
+| - GAA Coverage Assessment | 100 | CRITICAL |
+| Millioner App | 300 | HIGH |
+| - Mobile Experience (150-200w) | 175 | CRITICAL |
+| Payment Methods EUR | 250 | HIGH |
+| Customer Support | 150 | MEDIUM |
+| Millioner vs Irish Competitors | 300 | CRITICAL |
+| Pros and Cons Summary | 200 | HIGH |
+| FAQs | 600 | HIGH |
+| Responsible Gambling | 150 | REQUIRED |
+| **TOTAL** | **3,500-4,000** | Target range |
 
 ---
 
@@ -188,6 +234,12 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
 
 **Keywords:** millioner casino, sports betting ireland
 
+**Writer must cover:**
+- Verification of licensing status - IS MILLIONER ACTUALLY LICENSED FOR IRELAND?
+- GAA depth comparison - exact number of markets vs Paddy Power/Boylesports
+- Market positioning as "new entrant" - what advantages vs risks for Irish bettors?
+- First-hand app testing results if possible (speed, crashes, features)
+
 **Main Content (250 words):**
 - Range of sports covered - **prioritize Irish sports**
 - Betting market depth per event (match winner, handicaps, props)
@@ -235,9 +287,9 @@ millioner sport, millioner review, millioner ireland, millioner bonus, millioner
 
 ---
 
-### Section 5: H2 - Millioner App: Mobile Betting in Ireland (300 words total, includes 100-150w Mobile Experience subsection)
+### Section 5: H2 - Millioner App: Mobile Betting in Ireland (300 words total, includes 150-200w Mobile Experience subsection)
 
-**⚠️ V2 REQUIREMENT:** Mobile Experience subsection must be 100-150 words strict limit.
+**⚠️ V2 REQUIREMENT:** Mobile Experience subsection must be 150-200 words strict limit for review pages.
 
 **Keywords:** millioner app
 

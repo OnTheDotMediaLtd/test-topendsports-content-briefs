@@ -73,6 +73,45 @@ Map these keywords to specific sections:
 **Meta Keywords (for AI enhancement):**
 treasure spins, treasure spins casino, treasure spins review, online casino canada, best online casino canada, casino bonus, casino welcome bonus, casino free spins, mobile casino, casino app, slots, blackjack, roulette, casino bonus canada, casino promo code
 
+**Total Secondary Keyword Volume:** 58,630/mo (195,433% increase over 30/mo primary)
+**Unmapped Keywords:** NONE
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Casino review structure, bonus analysis, game selection coverage
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-casinos
+   - Analysis focus: Mobile casino experience, payment methods for Canadians
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Responsible gambling sections, licensing explanations
+
+**Note:** Use for structural reference only. Create original Treasure Spins analysis.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in Canadian online casinos and gaming platforms.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years online casino and sports betting experience, Canada market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Online casinos, game selection analysis, Canadian payment methods (Interac), bonus terms
+- **Author Voice:** Player-focused, value-driven, transparent about wagering requirements
+
+**Content Requirements:**
+- Test casino platform with real deposits where possible (or cite specific user experiences)
+- Cite App Store/Google Play ratings with exact numbers and review counts
+- Analyze wagering requirements vs Canadian casino average
+- Emphasize Interac payment method (critical for Canadian players)
+- Compare game selection to major Canadian casino competitors
+
 ---
 
 ## MANDATORY INTRO FORMAT

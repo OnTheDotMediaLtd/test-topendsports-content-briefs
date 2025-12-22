@@ -56,6 +56,44 @@ This brief meets all V2 standards for Review pages:
 **Meta Keywords for AI to Add:**
 `legendplay, legendplay review, legendplay promo code, legendplay casino, legend play casino, betting sites canada, online sports betting canada, best sportsbooks canada, canadian sportsbooks, canadian betting apps, sports betting ontario, nhl betting canada, bet365 canada`
 
+**Total Secondary Keyword Volume:** 14,760/mo (5,804% increase over primary)
+**Unmapped Keywords:** NONE
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Review structure, Ontario licensing context
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: Mobile app analysis, NHL betting sections
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Payment methods, responsible gambling sections
+
+**Note:** Use for structural reference only. Create original analysis.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in emerging Canadian sportsbooks and comparative analysis.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting experience, Canada market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Emerging Canadian operators, NHL betting, Interac payments, Ontario regulations
+- **Author Voice:** Balanced, comparative, emerging-operator focused
+
+**Content Requirements:**
+- Position Legendplay as emerging operator vs established brands
+- Compare directly to Bet365, Sports Interaction (cite specific features)
+- Cite App Store/Google Play ratings with numbers
+- Analyze Ontario regulatory status transparently
+
 ---
 
 ## MANDATORY INTRO FORMAT (V2 STANDARD)

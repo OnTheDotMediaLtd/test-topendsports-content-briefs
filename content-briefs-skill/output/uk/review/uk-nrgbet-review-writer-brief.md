@@ -58,10 +58,60 @@ Map ALL keywords to specific sections (BRAND-SPECIFIC FOCUS):
 | **football betting app** | 500 | 76 | H3 | "Football Betting on the NRGbet App" |
 | **uk gambling commission** | 200 | 59 | H2 | "UK Gambling Commission Licensing & Safety" |
 
+**Total Secondary Keyword Volume:** 16,150/mo (950% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords for AI to add:**
 ```
 nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new betting sites uk, safe betting sites, uk gambling commission, live betting, in play betting, esports betting, mobile betting, football betting app, accumulator betting, nrgbet casino, new bookmakers, betting site reviews
 ```
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/nrgbet
+2. **Betting.com** - https://www.betting.com/uk/nrgbet-review
+3. **RacingPost** - https://www.racingpost.com/betting/nrgbet
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 100-150 |
+| Overview | 300-350 |
+| Licensing & Safety | 300-350 |
+| Welcome Bonus | 350-400 |
+| Sports Markets | 400-450 |
+| Live Betting | 300-350 |
+| Mobile App Review | 350-400 |
+| Mobile Experience All Devices | 200-250 |
+| Casino | 250-300 |
+| Payment Methods | 300-350 |
+| Customer Support | 200-250 |
+| Comparison | 300-350 |
+| Pros & Cons | 250-300 |
+| How We Review | 150-200 |
+| Betting Calculators | 150-200 |
+| FAQs (8 questions) | 1,000-1,200 |
+| Final Verdict | 200-250 |
+| Responsible Gambling | 150-200 |
+| **TOTAL** | **2,800-3,900 words** |
 
 ---
 
@@ -251,6 +301,13 @@ Include:
 
 ### H2: Sports Betting Markets at NRGbet (400-450 words)
 **Keywords:** nrgbet sports, football betting app
+
+**Writer must cover:**
+- Total sports count and which have extensive vs limited markets
+- Football market depth comparison with bet365 and William Hill
+- Odds competitiveness with specific examples from recent matches
+- Whether NRGbet offers best odds guaranteed for horse racing
+- Assessment: Is the sports coverage sufficient for serious punters?
 
 **Content Requirements:**
 1. **Sport Coverage Overview:**

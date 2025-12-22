@@ -42,10 +42,55 @@
 | myriadplay login | 5/mo | H3 | "Account Registration & Login" |
 | myriadplay sportsbook | 5/mo | H2 | Sports section heading variation |
 
+**Total Secondary Keyword Volume:** 414/mo (66% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI to add):**
 ```
 myriadplay sport, myriad play, myriad play casino, myriad play review, myriadplay review, myriadplay bonus, myriadplay uk, myriadplay sports, myriadplay app, myriadplay casino, is myriadplay legit, myriadplay withdrawal, myriadplay free bet, myriadplay promo code, myriadplay login, myriadplay sportsbook
 ```
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/myriadplay
+2. **Betting.com** - https://www.betting.com/uk/myriadplay-review
+3. **RacingPost** - https://www.racingpost.com/betting/myriadplay
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/tom-goldsmith.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 150 |
+| Overview | 300 |
+| Welcome Bonus | 300 |
+| Sports Coverage | 400 |
+| Mobile Experience | 250 |
+| Payment Methods | 300 |
+| Key Features | 350 |
+| Customer Support | 200 |
+| Pros & Cons | 200 |
+| How We Review | 200 |
+| FAQs (8 questions) | 350 |
+| Final Verdict | 150 |
+| Responsible Gambling | 150 |
+| **TOTAL** | **2,500-3,000 words** |
 
 ---
 
@@ -183,6 +228,13 @@ Myriadplay is a promising new UK betting site launched in June 2024, offering 50
 ### H2: Myriadplay Sports Coverage & Betting Markets (400 words)
 
 **Keywords:** myriadplay sports, myriadplay sportsbook
+
+**Writer must cover:**
+- The 50+ sports count and which ones have deep markets vs shallow coverage
+- Why US sports coverage is a key strength for Myriadplay
+- Esports depth and which games are covered
+- Odds quality compared to bet365 and other major bookmakers
+- Who this sportsbook is best suited for (casual vs serious punters)
 
 **Content Requirements:**
 - Overview: 50+ sports offered

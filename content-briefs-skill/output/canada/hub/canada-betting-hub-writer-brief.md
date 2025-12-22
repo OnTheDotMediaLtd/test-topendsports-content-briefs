@@ -29,11 +29,46 @@
 - **URL:** https://www.topendsports.com/sport/betting/canada/index.htm
 - **Target Keyword:** "sports betting canada"
 - **Primary Search Volume:** 2,300/mo
-- **Total Cluster Volume:** 5,650/mo (hub-appropriate keywords only, NO cannibalization)
+- **Keyword Volume Total:** 5,650/mo (145% increase over primary keyword)
 - **Target Word Count:** 7,500 words
 - **Template:** Hub Page (Overview + Links to Dedicated Pages)
 - **Market:** Canada (Non-Ontario offshore focus)
 - **Priority:** Critical
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these Canadian betting sites for competitive analysis and market context:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Use for: Canadian betting market trends, provincial regulations comparison
+2. **ActionNetwork Canada** - https://www.actionnetwork.com/canada
+   - Use for: Sports betting analysis, odds comparison
+3. **TheLines Canada** - https://www.thelines.com/canada/
+   - Use for: Market overviews, provincial betting landscape
+
+**Important:** These are for research context only. DO NOT cite these competitor sites for pros/cons or recommendations. Use TIER 1 sources (App Store, Reddit) for brand evaluations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+
+**Credentials Required:**
+- Minimum 3+ years sports betting industry experience
+- Demonstrated expertise in Canadian sports betting market
+- Understanding of provincial vs offshore regulatory differences
+- Experience testing betting platforms and payment methods
+
+**Author Bio Link:** [To be added by editorial team]
+
+**E-E-A-T Signals to Include:**
+- Author has personally tested all 9 featured betting sites
+- Direct experience with Interac e-Transfer and crypto payment methods
+- Knowledge of Ontario iGaming regulations vs offshore market
+- Understanding of Canadian sports (NHL, CFL) betting markets
 
 ---
 
@@ -140,6 +175,13 @@ All 13 secondary keywords + 5 branded keywords are explicitly mapped to H2, H3, 
 ### H2: Top Canadian Betting Sites Ranked (5,000 words total)
 **Target Keyword:** "canadian betting sites" (800/mo)
 
+**Writer must cover:**
+- Individual reviews for all 9 featured betting sites with consistent structure
+- Mobile Experience section (75-100 words) for EVERY brand with App Store ratings
+- Complete bonus Terms & Conditions for all brands
+- Pros/cons tables with specific, non-generic details
+- Clear differentiation of each brand's unique selling proposition
+
 This section contains individual brand reviews. Each brand must follow this structure:
 
 #### #1. Treasure Spins (600 words)
@@ -152,12 +194,11 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Odds quality
 - Unique selling points
 
-**H3: Treasure Spins Mobile Experience (150 words) ⚠️ MANDATORY**
+**H3: Treasure Spins Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App Store rating: [X.X/5 based on X reviews]
 - Google Play rating: [X.X/5]
 - UX analysis: Navigation, live betting, speed
-- Features: Live streaming, cash out, bet builder
-- iOS vs Android comparison
+- Key features: Live streaming, cash out, bet builder
 - Reddit user feedback on mobile experience
 
 **Pros/Cons Table (100 words)**
@@ -187,12 +228,11 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Competitive odds
 - Key features
 
-**H3: Royalistplay Mobile Experience (150 words) ⚠️ MANDATORY**
+**H3: Royalistplay Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App Store rating: [X.X/5 based on X reviews]
 - Google Play rating: [X.X/5]
 - UX analysis: Interface, functionality, speed
-- Mobile-specific features
-- User feedback from Reddit
+- Key mobile features and user feedback from Reddit
 
 **Pros/Cons Table (100 words)**
 - 4-5 pros
@@ -216,12 +256,10 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Casino integration
 - Market position
 
-**H3: Lucky7even Mobile Experience (150 words) ⚠️ MANDATORY**
+**H3: Lucky7even Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App Store rating: [X.X/5 based on X reviews]
 - Google Play rating: [X.X/5]
-- UX analysis
-- Key features
-- Reddit feedback
+- UX analysis, key features, and Reddit feedback
 
 **Pros/Cons Table (100 words)**
 
@@ -242,11 +280,9 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Sports and markets
 - Key features
 
-**H3: Funbet Mobile Experience (150 words) ⚠️ MANDATORY**
+**H3: Funbet Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App Store/Google Play ratings
-- UX analysis
-- Features
-- User feedback
+- UX analysis, features, and user feedback
 
 **Pros/Cons Table (100 words)**
 
@@ -266,11 +302,9 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Sports coverage
 - Key features
 
-**H3: Legendplay Mobile Experience (150 words) ⚠️ MANDATORY**
+**H3: Legendplay Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App Store/Google Play ratings
-- UX analysis
-- Features
-- User feedback
+- UX analysis, features, and user feedback
 
 **Pros/Cons Table (100 words)**
 
@@ -290,10 +324,9 @@ This section contains individual brand reviews. Each brand must follow this stru
 - Casino + sports integration
 - Key features
 
-**H3: Wyns Mobile Experience (150 words) ⚠️ MANDATORY**
+**H3: Wyns Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App Store/Google Play ratings
-- UX analysis
-- Features
+- UX analysis and features
 
 **Pros/Cons Table (100 words)**
 
@@ -311,10 +344,9 @@ This section contains individual brand reviews. Each brand must follow this stru
 - USP: Competitive odds and generous bonuses
 - Sports coverage
 
-**H3: Festival Play Mobile Experience (100 words) ⚠️ MANDATORY**
+**H3: Festival Play Mobile Experience (75-100 words) ⚠️ MANDATORY**
 - App ratings
-- UX summary
-- Key features
+- UX summary and key features
 
 **Pros/Cons Table (100 words)**
 
@@ -332,9 +364,8 @@ This section contains individual brand reviews. Each brand must follow this stru
 - USP: Crypto-friendly platform for privacy-conscious bettors
 - Sports coverage
 
-**H3: Lizaro Mobile Experience (100 words) ⚠️ MANDATORY**
-- App ratings
-- UX summary
+**H3: Lizaro Mobile Experience (75-100 words) ⚠️ MANDATORY**
+- App ratings and UX summary
 
 **Pros/Cons Table (100 words)**
 
@@ -352,9 +383,8 @@ This section contains individual brand reviews. Each brand must follow this stru
 - USP: Canadian-specific promotions
 - Sports coverage
 
-**H3: DirectionBet Mobile Experience (100 words) ⚠️ MANDATORY**
-- App ratings
-- UX summary
+**H3: DirectionBet Mobile Experience (75-100 words) ⚠️ MANDATORY**
+- App ratings and UX summary
 
 **Pros/Cons Table (100 words)**
 
@@ -366,6 +396,12 @@ This section contains individual brand reviews. Each brand must follow this stru
 
 ### H2: Ontario vs Non-Ontario Betting (500 words)
 **Target Keyword:** "sports betting ontario" (1,100/mo)
+
+**Writer must cover:**
+- Clear explanation of iGaming Ontario regulated market vs offshore operators
+- Provincial differences in betting regulations and options
+- Pros/cons comparison table between licensed and offshore sites
+- Why non-Ontario Canadians use offshore operators
 
 **Content Requirements:**
 - Explain iGaming Ontario regulated market
@@ -393,6 +429,12 @@ This section contains individual brand reviews. Each brand must follow this stru
 
 ### H2: How Online Betting Works in Canada (450 words)
 **Target Keyword:** "online betting canada" (1,000/mo)
+
+**Writer must cover:**
+- Step-by-step beginner's guide to online sports betting
+- Account setup and verification requirements (ID, age verification)
+- First deposit process with Interac e-Transfer emphasis
+- Comparison of licensed vs offshore site experiences
 
 **Overview section (100 words):**
 - High-level explanation of online betting landscape
@@ -452,6 +494,13 @@ This section contains individual brand reviews. Each brand must follow this stru
 ### H2: Popular Sports for Betting in Canada (400 words)
 **Target Keyword:** "canada sports betting" (700/mo)
 
+**Writer must cover:**
+- NHL betting as #1 Canadian sport with all 7 Canadian teams
+- CFL betting as uniquely Canadian league (9 teams, Grey Cup)
+- NBA (Raptors), MLB (Blue Jays), MLS (3 Canadian teams)
+- International sports popular with Canadian bettors (EPL, UFC, Tennis)
+- Bet types and prop markets available for each sport
+
 **Content Requirements:**
 1. **NHL (100 words)** - Most popular Canadian betting sport
    - All 7 Canadian teams
@@ -487,6 +536,12 @@ This section contains individual brand reviews. Each brand must follow this stru
 ---
 
 ### H2: Payment Methods for Canadian Bettors (450 words)
+
+**Writer must cover:**
+- Interac e-Transfer as #1 payment method for Canadian bettors (usage, speeds, fees)
+- Cryptocurrency growing popularity for offshore sites (privacy, speed benefits)
+- Comprehensive payment methods comparison table with ALL 9 brands
+- Processing times, fees, and limits for each payment type
 
 **Content Requirements:**
 
@@ -543,6 +598,12 @@ Format: Sortable/filterable table in Phase 3
 ---
 
 ### H2: Betting Calculators & Tools (300 words)
+
+**Writer must cover:**
+- Parlay calculator with internal link and Canadian betting context
+- Odds calculator for format conversions (decimal, American, fractional)
+- Betting units calculator for bankroll management
+- How each calculator improves betting strategy for Canadian bettors
 
 **Content Requirements:**
 - Introduction to betting calculators
@@ -733,6 +794,12 @@ Format: Sortable/filterable table in Phase 3
 
 ### H2: Responsible Gambling in Canada (250 words)
 
+**Writer must cover:**
+- National Problem Gambling Helpline (1-800-463-1554)
+- Provincial helplines for all Canadian provinces
+- Self-help tools available at betting sites (deposit limits, self-exclusion)
+- Age requirements by province (18+ in AB, MB, QC; 19+ in others)
+
 **Content Requirements:**
 
 **Overview (100 words):**
@@ -818,53 +885,53 @@ Format: Sortable/filterable table in Phase 3
 ### Position #1: Treasure Spins (600 words)
 **Status:** LOCKED - Commercial deal
 **USP:** Offshore operator targeting non-Ontario Canadians. Strong welcome bonuses and crypto payment options.
-**Mobile Experience Required:** 150 words with App Store ratings
+**Mobile Experience Required:** 75-100 words with App Store ratings
 **Bonus Section Required:** Complete T&Cs
 
 ### Position #2: Royalistplay (550 words)
 **Status:** LOCKED - Commercial deal
 **Search Volume:** 100/mo branded
 **USP:** Established offshore brand. Wide sports coverage and competitive odds.
-**Mobile Experience Required:** 150 words with App Store ratings
+**Mobile Experience Required:** 75-100 words with App Store ratings
 **Bonus Section Required:** Complete T&Cs
 
 ### Position #3: Lucky7even (550 words)
 **Search Volume:** 1,600/mo branded (HIGHEST)
 **USP:** Highest brand recognition in Canadian offshore market. Comprehensive sportsbook with casino integration.
-**Mobile Experience Required:** 150 words with App Store ratings
+**Mobile Experience Required:** 75-100 words with App Store ratings
 **Bonus Section Required:** Complete T&Cs
 
 ### Position #4: Funbet (550 words)
 **Search Volume:** 500/mo branded
 **USP:** Modern platform with strong mobile experience. Popular among Canadian bettors.
-**Mobile Experience Required:** 150 words with App Store ratings
+**Mobile Experience Required:** 75-100 words with App Store ratings
 **Bonus Section Required:** Complete T&Cs
 
 ### Position #5: Legendplay (550 words)
 **Search Volume:** 250/mo branded
 **USP:** Established presence in Canadian market with diverse betting options.
-**Mobile Experience Required:** 150 words with App Store ratings
+**Mobile Experience Required:** 75-100 words with App Store ratings
 **Bonus Section Required:** Complete T&Cs
 
 ### Position #6: Wyns (500 words)
 **Search Volume:** 150/mo branded ("wyns casino")
 **USP:** Growing offshore operator focused on Canadian market. Strong casino and sports integration.
-**Mobile Experience Required:** 150 words with App Store ratings
+**Mobile Experience Required:** 75-100 words with App Store ratings
 **Bonus Section Required:** T&Cs summary
 
 ### Position #7: Festival Play (500 words)
 **USP:** Emerging offshore operator with competitive odds and generous bonuses.
-**Mobile Experience Required:** 100 words with ratings
+**Mobile Experience Required:** 75-100 words with ratings
 **Bonus Section Required:** T&Cs
 
 ### Position #8: Lizaro (500 words)
 **USP:** New entrant. Crypto-friendly platform for privacy-conscious Canadian bettors.
-**Mobile Experience Required:** 100 words with ratings
+**Mobile Experience Required:** 75-100 words with ratings
 **Bonus Section Required:** T&Cs
 
 ### Position #9: DirectionBet (500 words)
 **USP:** Offshore operator with Canadian-specific promotions. Alternative for non-regulated provinces.
-**Mobile Experience Required:** 100 words with ratings
+**Mobile Experience Required:** 75-100 words with ratings
 **Bonus Section Required:** T&Cs
 
 ---
@@ -1011,8 +1078,11 @@ Before submitting, verify:
 - [ ] **Keyword mapping verification: "Unmapped Keywords: NONE" confirmed**
 - [ ] All 10 FAQs target keywords
 - [ ] PROMINENT links to dedicated pages (betting-apps, sports-betting-sites, new-betting-sites)
-- [ ] EVERY brand has Mobile Experience section (100-150w) with App Store ratings
+- [ ] EVERY brand has Mobile Experience section (75-100w for hub page) with App Store ratings
 - [ ] EVERY brand has complete bonus T&Cs
+- [ ] "Writer must cover" bullets under each H2 section (3-5 specific points)
+- [ ] Competitor Reference URLs section included (Covers.com/ca, ActionNetwork, TheLines)
+- [ ] E-E-A-T Author Requirements section included (credentials, bio link, experience signals)
 - [ ] 14 internal links included (including 3 to dedicated pages)
 - [ ] **Payment methods comparison table included (ALL 9 brands with methods, times, fees, limits)**
 - [ ] NHL and CFL prominently featured

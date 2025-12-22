@@ -60,10 +60,49 @@
 **✅ VERIFICATION: Unmapped Keywords: NONE**
 All 17 secondary keywords are explicitly mapped to H2, H3, FAQ, or Natural placement sections.
 
+**Total Secondary Keyword Volume:** 30,460/mo (infinite % increase - 0 primary volume)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI Enhancement Phase):**
 ```
 lizaro sport, lizaro casino, online casino canada, online casino ontario, best online casino canada, sports betting canada, betting sites canada, online gambling canada, sports betting ontario, online casino reviews, best betting sites canada, online sports betting canada, casino bonus canada, casino sites canada, sportsbook canada, real money casino canada, sportsbook review
 ```
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Combined casino/sportsbook reviews, Ontario regulations
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: Sports betting sections, mobile experience analysis
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Payment methods (Interac focus), responsible gambling
+
+**Note:** Use for structural reference only. Create original hybrid casino/sports content.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in hybrid casino/sportsbook platforms for Canadian players.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting and casino experience, Canada market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Hybrid platforms, Interac payments, Ontario licensing, casino + sports integration
+- **Author Voice:** Comprehensive, balanced, value-focused
+
+**Content Requirements:**
+- Analyze both casino AND sportsbook equally (not separated like competitors)
+- Emphasize Interac payment method (most important for Canadian players)
+- Compare to top Canadian sites honestly (bet365, Sports Interaction)
+- Cite App Store/Google Play ratings with specific numbers
+- Explain Ontario licensing implications clearly
 
 ---
 

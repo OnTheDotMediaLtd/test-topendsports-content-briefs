@@ -41,6 +41,45 @@
 royalistplay sport, royalistplay, betting bonus, welcome bonus canada, sportsbook review, online sportsbook, sports betting app, live betting, mobile betting, curacao license, royalistplay casino
 ```
 
+**Total Secondary Keyword Volume:** 3,290/mo (3,190% increase over primary)
+**Unmapped Keywords:** NONE
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Review structure, offshore operator context, bonus analysis
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: Mobile app reviews, sportsbook features, live betting sections
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Curacao licensing explanations, payment methods, compliance
+
+**Note:** Use for structural reference only. Create original Royalistplay-specific content.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in offshore Canadian sportsbooks with dual casino/sports offerings.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting experience, Canada offshore market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Offshore operators, Curacao licensing, dual platform analysis, 27-sport coverage
+- **Author Voice:** Balanced, transparent about offshore status, feature-focused
+
+**Content Requirements:**
+- Explain offshore vs regulated operator differences clearly
+- Analyze 27-sport coverage with Canadian emphasis (NHL, CFL)
+- Cite App Store/Google Play ratings with specific numbers
+- Compare bonus terms to Canadian market average (40x vs 3-10x standard)
+- User testimonials from Reddit, Trustpilot with sources
+
 ---
 
 ## MANDATORY INTRO FORMAT

@@ -48,10 +48,57 @@
 | big clash odds | 50/mo | FAQ | FAQ: How competitive are Big Clash odds? |
 | big clash live betting | 45/mo | H3 | Live Betting & In-Play Features |
 
+**Total Secondary Keyword Volume:** 960/mo (773% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords (for AI to add):**
 ```
 big clash sport, big clash review, big clash ireland, big clash bonus, big clash app, big clash casino, big clash withdrawal, is big clash legit, big clash login, big clash promo code, big clash sports betting, big clash odds, big clash live betting
 ```
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these competitor pages for content gaps:
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/big-clash-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/tom-goldsmith.htm
+**Expertise Focus:** Cryptocurrency betting platforms, international operators, esports coverage
+
+**Why Tom for this review:**
+- Deep expertise in crypto betting platforms and their benefits for Irish players
+- Extensive experience reviewing Curacao-licensed operators
+- Strong understanding of esports betting markets
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | HIGH |
+| Overview & Quick Verdict | 300 | HIGH |
+| Welcome Bonus & Promotions | 250 | HIGH |
+| Sports Markets & Betting Options | 300 | CRITICAL |
+| Mobile App Experience | 250 | HIGH |
+| Payment Methods (Crypto Focus) | 200 | CRITICAL |
+| Customer Support | 200 | MEDIUM |
+| Big Clash Ireland Legal Status | 250 | HIGH |
+| Pros & Cons Summary | 150 | HIGH |
+| FAQs | 400 | HIGH |
+| Final Verdict | 200 | HIGH |
+| Responsible Gambling | 100 | REQUIRED |
+| **TOTAL** | **2,800** | Target range |
 
 ---
 
@@ -177,6 +224,12 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
 ### H2: Sports Markets & Betting Options (300 words)
 **Keywords:** big clash sports betting
 
+**Writer must cover:**
+- Esports markets depth (CS:GO, Dota 2, LoL) - this is a key differentiator for younger Irish bettors
+- GAA coverage specifics - exact markets available vs Paddy Power
+- Crypto advantages for faster bet settlements
+- Market comparison with established Irish operators
+
 #### H3: Sports Betting Markets Available (150 words)
 **Keywords:** big clash sports betting
 
@@ -212,8 +265,20 @@ big clash sport, big clash review, big clash ireland, big clash bonus, big clash
 
 ---
 
-### H2: Big Clash App Review - Mobile Experience (250 words)
+### H2: Big Clash App Review - Mobile Experience (250 words total)
 **Keywords:** big clash app
+
+**Writer must cover:**
+- App availability in Ireland - direct download or region restrictions
+- Crypto deposit functionality on mobile vs desktop
+- Push notification setup for odds changes
+- Mobile-specific esports betting experience
+
+**Mobile Experience (150-200 words STRICT):**
+- App ratings and user feedback from App Store/Google Play
+- Navigation quality and bet placement speed
+- Live betting performance on mobile
+- Comparison with Paddy Power and Bet365 mobile apps
 
 #### H3: Account Setup & Login Process (100 words)
 **Keywords:** big clash login

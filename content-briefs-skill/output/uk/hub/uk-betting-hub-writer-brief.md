@@ -16,12 +16,41 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Notes |
+|---------|-------------|-------|
+| Introduction | 100-150 | Direct answer format |
+| Comparison Table | N/A | Interactive table (Phase 3) |
+| UK Betting Sites Comparison 2025 | 400-500 | Market overview + H3s |
+| Top UK Betting Sites Ranked | 3,500-4,000 | 9 brand reviews |
+| Mobile Betting in the UK | 200-250 | + H3 subsection |
+| Sports Betting UK | 500-600 | + H3 subsections |
+| Payment Methods & Banking | 300-400 | UK-specific methods |
+| UK Gambling Regulations | 400-500 | UKGC compliance |
+| Betting Calculators & Tools | 300-400 | Calculator integration |
+| How We Test & Rank | 400-500 | Methodology |
+| FAQs | 1,500 | 10 questions |
+| Final Verdict | 200-250 | Summary + recommendations |
+| Responsible Gambling | 150-200 | UK helplines |
+| **TOTAL** | **~7,500** | **Hub page target** |
+
+---
+
 ## COMPLIANCE
 
 - **Age:** 18+
 - **GamCare Helpline:** 0808 8020 133
 - **BeGambleAware:** www.begambleaware.org
 - **NO affiliate disclosure in content** (it's in website sidebar)
+
+### E-E-A-T Author Requirements
+
+- **Author Name:** Lewis Humphries
+- **Credentials:** Sports betting analyst with 8+ years experience reviewing UK betting sites, UKGC regulation specialist
+- **Author Bio Link:** /author/lewis-humphries/
+- **Expertise Display:** Author byline must appear at top of article with credentials
+- **Update Protocol:** Author must verify all brand information, bonus terms, and regulatory changes quarterly
 
 ---
 
@@ -46,7 +75,34 @@
 
 **Unmapped Keywords:** NONE (All 12 secondary keywords mapped to specific sections)
 
+### Total Secondary Keyword Volume
+
+| Metric | Value |
+|--------|-------|
+| **Total Secondary Volume** | 20,150/mo |
+| **Primary Keyword Volume** | 2,300/mo |
+| **Combined Cluster Volume** | 22,450/mo |
+| **Increase vs Primary Alone** | 876% increase |
+
+**Calculation Breakdown:**
+- betting sites uk (8,300) + uk betting sites (4,300) + sports betting uk (1,300) + top 20 betting sites uk free (1,300) + online betting uk (1,100) + sports betting online (900) + top betting sites uk (600) + best online betting sites uk (600) + uk sports betting sites (500) + online sports betting uk (400) + best bookies uk (400) + best uk bookmakers (350) = **20,150/mo**
+
 **Meta Keywords to Add:** best betting sites uk, betting sites uk, uk betting sites, sports betting uk, online betting uk, top betting sites uk, best online betting sites uk, uk sports betting sites, best bookies uk, best uk bookmakers, sports betting online, online sports betting uk
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+Use these competitor pages to analyze content gaps and structure (research only - DO NOT cite in content):
+
+1. **OddsChecker UK** - https://www.oddschecker.com/uk/betting-sites - Comprehensive UK betting site reviews, payment methods comparison
+2. **Betting.com UK** - https://www.betting.com/en/betting-sites/uk - Detailed operator reviews, mobile app testing
+3. **BestBettingSites.co.uk** - https://www.bestbettingsites.co.uk/ - UK market focus, UKGC compliance emphasis
+
+**Competitor Analysis Notes:**
+- OddsChecker: Strong payment methods table, lacks mobile testing detail
+- Betting.com: Good app store rating integration, missing Reddit user feedback
+- BestBettingSites: Comprehensive brand list (100+), lacks depth per brand
 
 ---
 
@@ -151,6 +207,13 @@
 - UKGC regulation importance
 - What makes sites stand out
 
+**Writer must cover:**
+- Current state of UK betting market (9,000+ licensed operators vs our curated 9)
+- UKGC licensing as non-negotiable requirement for all featured brands
+- Key differentiators: odds quality, mobile experience, payment speed, sports coverage
+- Why we focus on quality over quantity (vs competitors listing 100+ sites)
+- Credit card ban context (April 2020 UKGC regulation)
+
 #### H3: How We Rank Top Betting Sites UK (200-250 words)
 - **Keyword Target:** top betting sites uk (600/mo)
 - Testing methodology: app downloads, odds comparison, withdrawal testing, customer support evaluation
@@ -165,6 +228,13 @@
 - **Keyword Target:** uk betting sites (4,300/mo)
 - 9 brand reviews with varying word counts
 
+**Writer must cover:**
+- Testing methodology summary (how we evaluated all 9 brands)
+- Ranking criteria: odds competitiveness, mobile app quality, withdrawal speed, customer support
+- UKGC license verification for all featured brands
+- Clear position explanation (#1-2 locked, #3-9 research-driven)
+- Link to individual brand review pages where available
+
 ---
 
 #### 1. Bet442 Review (500 words)
@@ -173,7 +243,7 @@
 
 **Required Sections:**
 - **Key Features** (150-200w): USPs, sports coverage, odds quality, welcome bonus overview
-- **Mobile Experience** (100-150w):
+- **Mobile Experience** (75-100w):
   - MANDATORY: App Store rating with date analyzed
   - Google Play rating
   - iOS/Android availability
@@ -192,7 +262,7 @@
 
 **Required Sections:**
 - **Key Features** (150-200w)
-- **Mobile Experience** (100-150w): App Store rating with date, Google Play rating, Reddit feedback
+- **Mobile Experience** (75-100w): App Store rating with date, Google Play rating, Reddit feedback
 - **Pros & Cons**: Bullet list - 4 pros, 3 cons
 - **Current Bonus** (100-150w)
 
@@ -204,7 +274,7 @@
 
 **Required Sections:**
 - **Key Features** (120-150w)
-- **Mobile Experience** (100-150w): App Store rating, Google Play rating, Reddit feedback
+- **Mobile Experience** (75-100w): App Store rating, Google Play rating, Reddit feedback
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (80-100w)
 
@@ -216,7 +286,7 @@
 
 **Required Sections:**
 - **Key Features** (120-150w)
-- **Mobile Experience** (100-150w)
+- **Mobile Experience** (75-100w)
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (80-100w)
 
@@ -228,7 +298,7 @@
 
 **Required Sections:**
 - **Key Features** (120-150w)
-- **Mobile Experience** (100-150w)
+- **Mobile Experience** (75-100w)
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (80-100w)
 
@@ -240,7 +310,7 @@
 
 **Required Sections:**
 - **Key Features** (100-120w)
-- **Mobile Experience** (100-150w)
+- **Mobile Experience** (75-100w)
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (70-80w)
 
@@ -252,7 +322,7 @@
 
 **Required Sections:**
 - **Key Features** (100-120w)
-- **Mobile Experience** (100-150w)
+- **Mobile Experience** (75-100w)
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (70-80w)
 
@@ -264,7 +334,7 @@
 
 **Required Sections:**
 - **Key Features** (100-120w)
-- **Mobile Experience** (100-150w)
+- **Mobile Experience** (75-100w)
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (70-80w)
 
@@ -276,7 +346,7 @@
 
 **Required Sections:**
 - **Key Features** (100-120w)
-- **Mobile Experience** (100-150w)
+- **Mobile Experience** (75-100w)
 - **Pros & Cons**: Bullet list
 - **Current Bonus** (70-80w)
 
@@ -287,6 +357,13 @@
 - Note that all 9 featured brands offer mobile apps
 - **Link to dedicated page:** For comprehensive mobile app reviews, ratings, and comparisons, see our [UK Betting Apps](/sport/betting/uk/betting-apps/) guide
 
+**Writer must cover:**
+- Mobile betting now accounts for 70%+ of UK betting activity
+- All 9 featured brands offer dedicated iOS and Android apps
+- App Store and Google Play rating methodology (how we analyze user feedback)
+- Link to dedicated [UK Betting Apps](/sport/betting/uk/betting-apps/) page for full mobile comparison
+- Mobile-specific features: one-tap betting, live streaming, bet builder, push notifications
+
 #### H3: Best UK Bookmakers - Traditional vs New (250-300 words)
 - **Keyword Target:** best uk bookmakers (350/mo)
 - Comparison of established brands vs new entrants
@@ -296,6 +373,13 @@
 
 ### H2: Sports Betting UK - Market Overview (500-600 words)
 - **Keyword Target:** sports betting uk (1,300/mo)
+
+**Writer must cover:**
+- UK sports betting market size (£14 billion+ annual turnover)
+- Most popular sports: Football (Premier League, EFL), Horse Racing, Cricket, Rugby, Tennis
+- Pre-match vs live betting availability across featured brands
+- Links to dedicated sport guides: [UK Football Betting](/sport/betting/uk/football-betting/) and [UK Horse Racing](/sport/betting/uk/horse-racing/)
+- Betting tax-free status for UK consumers (operators pay 15% Point of Consumption Tax)
 
 #### H3: UK Sports Betting Sites - Sport Coverage (200-250 words)
 - **Keyword Target:** uk sports betting sites (500/mo)
@@ -314,6 +398,13 @@
 ---
 
 ### H2: Payment Methods & Banking (300-400 words)
+
+**Writer must cover:**
+- Credit card ban (April 2020 UKGC regulation) - MUST explain rationale
+- Faster Payments as UK-specific instant bank transfer method
+- E-wallet options (PayPal, Skrill, Neteller) with withdrawal speed comparison
+- Minimum deposit requirements across featured brands (typically £5-£10)
+- Withdrawal processing times: e-wallets (0-24h), Faster Payments (0-2h), debit cards (1-3 days)
 
 **MANDATORY ELEMENTS:**
 - UK payment methods comparison table
@@ -357,9 +448,23 @@
 - Tax-free betting explanation
 - Dispute resolution (mention IBAS)
 
+**Writer must cover:**
+- UKGC licensing requirement (all 9 featured brands verified with license numbers)
+- How to verify UKGC license (gamblingcommission.gov.uk public register)
+- Consumer protection measures: segregated funds, dispute resolution (IBAS), responsible gambling tools
+- Tax-free betting for UK consumers (operators pay 15% POC tax)
+- UKGC regulatory changes: credit card ban (2020), affordability checks (ongoing)
+
 ---
 
 ### H2: Betting Calculators & Tools (300-400 words)
+
+**Writer must cover:**
+- 4 calculator tools available: odds converter, accumulator, each-way, matched betting
+- How odds converter helps compare UK fractional odds vs decimal/American formats
+- Accumulator calculator for parlay betting (popular in UK football betting)
+- Each-way calculator for horse racing bets
+- Matched betting calculator for bonus extraction
 
 **CONTEXTUAL CALCULATOR INTEGRATION:**
 Throughout the content, weave in 1-2 contextual mentions of calculators where relevant:
@@ -386,6 +491,14 @@ This dedicated section should showcase all available tools:
   - Responsible gambling tool assessment
   - UKGC licensing verification
 
+**Writer must cover:**
+- Real money testing: minimum £50 deposit per brand, actual withdrawal testing
+- Odds comparison methodology: Premier League matches, horse racing, tennis
+- Mobile app testing: iOS and Android downloads, performance benchmarking
+- Customer support: live chat response times, email resolution times, phone support availability
+- UKGC license verification: public register check for all 9 brands
+- Responsible gambling tools audit: GamStop integration, deposit limits, reality checks, self-exclusion
+
 ---
 
 ### Pros & Cons Summary
@@ -396,6 +509,13 @@ This dedicated section should showcase all available tools:
 ### H2: FAQs (10 questions, ~1,500 words total)
 
 **MUST include FAQ Schema markup**
+
+**Writer must cover:**
+- All 10 FAQ questions must target secondary keywords or common UK bettor queries
+- Answers must be comprehensive (100-200 words each) with internal links where relevant
+- Link to dedicated pages in FAQ answers: betting apps, free bets, football betting, horse racing
+- Credit card ban FAQ is mandatory (covers common UK bettor confusion)
+- Age requirement FAQ (18+ in UK vs 21+ in USA)
 
 #### 1. What are the top 20 betting sites UK? (150-200 words)
 - **Keyword Target:** top 20 betting sites uk free (1,300/mo)
@@ -579,7 +699,7 @@ This dedicated section should showcase all available tools:
 
 ## MOBILE EXPERIENCE REQUIREMENTS (PER BRAND)
 
-**Word Count:** 100-150 words per brand
+**Word Count:** 75-100 words per brand (Hub page standard)
 
 **REQUIRED ELEMENTS:**
 1. App Store rating with date analyzed (e.g., "4.8/5 based on 45,000 reviews analyzed December 2025")
@@ -634,7 +754,7 @@ This dedicated section should showcase all available tools:
 - [ ] NO keyword cannibalization of dedicated pages
 - [ ] 10 FAQs with schema markup
 - [ ] 15+ internal links (including 6 links to UK dedicated pages)
-- [ ] Mobile Experience section per brand (100-150w each)
+- [ ] Mobile Experience section per brand (75-100w each - Hub standard)
 - [ ] Payment Methods comparison table (300-400w section)
 - [ ] Calculator tool links (1-2 contextual + dedicated section)
 - [ ] Links to dedicated pages for betting apps, offers, free bets, football, horse racing, new sites
@@ -687,7 +807,7 @@ From competitor analysis, we identified these opportunities:
 - [ ] Meta keywords provided
 - [ ] NO dated language in H1
 - [ ] UK compliance verified (18+, 0808 8020 133, UKGC, credit card ban)
-- [ ] Mobile Experience section per brand (100-150w each)
+- [ ] Mobile Experience section per brand (75-100w each - Hub standard)
 - [ ] Payment Methods comparison table included
 - [ ] Calculator tool links included (minimum 4)
 - [ ] NO keyword cannibalization - hub links to dedicated pages instead

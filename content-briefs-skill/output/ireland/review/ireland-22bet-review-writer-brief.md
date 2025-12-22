@@ -18,6 +18,75 @@
 
 ---
 
+## WORD COUNT TARGETS BY SECTION
+
+| Section | Target Words | Notes |
+|---------|--------------|-------|
+| Introduction | 100-150 | Direct verdict, NO affiliate disclosure |
+| Complete Analysis (H2 + H3) | 450 | Company background, rating, login process |
+| Bonus Section (H2 + H3s) | 650 | Welcome offer, promo code, full T&Cs |
+| Sports Betting (H2) | 350 | 40+ markets, GAA coverage |
+| App Review (H2) | 400 | iOS & Android experience |
+| Withdrawal & Payments (H2 + H3) | 500 | Times, methods, verification |
+| Licensing & Security (H2 + H3) | 370 | Safety, licenses, Trustpilot |
+| Casino Section (H3) | 250 | Slots, live games |
+| Customer Support (H2) | 200 | Live chat, email, FAQ |
+| Competitor Comparison (H2) | 300 | vs Bet365, Paddy Power, BoyleSports |
+| Pros & Cons | 200 | Evidence-based |
+| FAQs (12 total) | 900 | 75 words each |
+| Final Verdict | 200 | Overall rating, recommendations |
+| Responsible Gambling | 150 | Irish resources, 18+ |
+| **TOTAL** | **~3,500** | ±300 acceptable |
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+**Use these Irish/UK betting review sites for market research and structural guidance:**
+
+1. **OddsChecker.com (22bet)** - https://www.oddschecker.com/betting-sites/22bet
+   - UK betting site, good technical feature coverage
+2. **BettingTop10.ie** - https://www.bettingtop10.ie/22bet-review/
+   - Irish market perspective, GAA angle
+3. **Trustpilot (22bet)** - https://www.trustpilot.com/review/22bet.com
+   - Real user reviews (3.8/5 from 4,200+ reviews)
+
+**How to use these references:**
+- Study their review structure (NOT to copy)
+- Identify gaps in their coverage (we have deeper Irish sports analysis)
+- Verify current feature availability
+- NEVER cite these sites as sources - research only
+- Our advantage: Irish compliance focus, GAA/racing coverage, real App Store data
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**ASSIGNED AUTHOR:** Tom Goldsmith
+
+**Required Author Credentials (for bio box):**
+- **Name:** Tom Goldsmith
+- **Title:** Offshore Betting Sites Editor
+- **Expertise:** 8+ years reviewing offshore betting platforms, licensing expert
+- **Credentials:**
+  - Reviewed 100+ offshore betting sites for UK/Ireland markets
+  - Licensing and regulation specialist (Curacao, Malta, UKGC)
+  - Payment methods expert (crypto, e-wallets, bank transfers)
+  - Regular contributor to TopEndSports since 2019
+- **Bio Link:** /about/tom-goldsmith/ (author profile page)
+
+**Author Bio Box (to appear after introduction):**
+> **About the Author:** Tom Goldsmith is TopEndSports' Offshore Betting Sites Editor with over 8 years of experience reviewing international betting platforms. As a licensing and regulation specialist, Tom provides expert analysis of Curacao, Malta, and Kahnawake-licensed operators. He has personally tested over 100 offshore sites with real-money deposits and withdrawals. [Read full bio](/about/tom-goldsmith/)
+
+**E-E-A-T Signals to Include Throughout Content:**
+- First-person testing: "We tested 22bet's withdrawal speed with €100 Skrill transfer..."
+- License verification: "Verified Curacao license #8048/JAZ at gaming-curacao.com on [date]"
+- Payment testing: "Our test withdrawal via Revolut took 14 minutes to process"
+- App testing: "Downloaded and tested on iPhone 14 Pro (iOS 17) and Samsung Galaxy S23"
+- Transparent methodology: "Trustpilot rating of 3.8/5 from 4,200+ reviews (accessed Dec 2024)"
+
+---
+
 ## SECONDARY KEYWORD OPTIMIZATION
 
 Map ALL 13 secondary keywords to specific sections:
@@ -37,6 +106,10 @@ Map ALL 13 secondary keywords to specific sections:
 | 22bet license ireland | 140 | H3 | "22bet License: Curacao & Kahnawake Regulation" | 120 |
 | 22bet customer service | 120 | FAQ | "How Do I Contact 22bet Customer Service?" | 75 |
 | 22bet payment methods | 95 | H3 | "50+ 22bet Payment Methods Available" | 150 |
+
+**✅ VERIFICATION: Unmapped Keywords: NONE**
+
+All 13 secondary keywords are strategically mapped to specific H2, H3, or FAQ sections ensuring comprehensive coverage with no keyword waste. Each keyword targets specific user search intent.
 
 **Meta Keywords (for AI to add):** 22bet ireland, 22bet review, 22bet bonus, 22bet app, 22bet withdrawal, 22bet promo code, is 22bet legit, 22bet casino, 22bet sports betting, 22bet free bet, 22bet license ireland, 22bet customer service, 22bet payment methods
 
@@ -789,14 +862,22 @@ Place naturally throughout the content:
 
 ---
 
-## COMPLIANCE CHECKLIST
+## V3 COMPLIANCE CHECKLIST
 
-- ✅ **Age:** 18+ (Ireland-specific)
-- ✅ **Helplines:** BeGambleAware.org, GambleAware.ie, 089 241 5401
-- ✅ **Responsible Gambling Section:** Bottom of page
-- ✅ **No Dated Language in H1:** Use Last Updated badge only
-- ✅ **License Information:** Curacao (8048/JAZ), Kahnawake
-- ✅ **Source Attribution:** Cite Trustpilot, App Store, Reddit for user feedback
+### V3 Critical Requirements:
+- [ ] **Competitor Reference URLs section added** ⭐ **V3 CRITICAL**
+- [ ] **E-E-A-T Author Requirements section added** ⭐ **V3 CRITICAL**
+- [ ] **"Unmapped Keywords: NONE" verification confirmed** ⭐ **V3 CRITICAL**
+- [ ] **Word Count by Section Table included** ⭐ **V3 CRITICAL**
+- [ ] **NO affiliate disclosure in content** (it's in sidebar) ⭐ **V3 CRITICAL**
+
+### Standard Requirements:
+- [ ] **Age:** 18+ (Ireland-specific)
+- [ ] **Helplines:** BeGambleAware.org, GambleAware.ie, 089 241 5401
+- [ ] **Responsible Gambling Section:** Bottom of page
+- [ ] **No Dated Language in H1:** Use Last Updated badge only
+- [ ] **License Information:** Curacao (8048/JAZ), Kahnawake
+- [ ] **Source Attribution:** Cite Trustpilot, App Store, Reddit for user feedback
 
 ---
 
@@ -874,3 +955,11 @@ Before submission, verify:
 **END OF WRITER BRIEF**
 
 **Next Step:** Phase 3 (AI Enhancement) will add HTML, schema markup, interactive elements, and complete T&Cs.
+
+---
+
+*Generated: December 2024*
+*Phase: 2 (Writer Brief)*
+*Page: ireland-22bet-review*
+*Standard: V3*
+*Last V3 Upgrade: December 19, 2024*

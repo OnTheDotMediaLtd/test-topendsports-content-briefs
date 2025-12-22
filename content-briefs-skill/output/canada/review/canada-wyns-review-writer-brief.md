@@ -47,6 +47,46 @@ Map ALL 14 keywords to specific sections:
 wyns sport, wyns casino, wyns casino review, ontario sports betting, online betting canada, online sports betting canada, canada sports betting, sports betting sites canada, canadian sportsbooks, best sportsbook canada, is wyns casino legit, wyns canada, wyns online casino, wyns online casino reviews
 ```
 
+**Total Secondary Keyword Volume:** 5,630/mo (N/A primary volume)
+**Unmapped Keywords:** NONE
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Hybrid sportsbook/casino reviews, Ontario licensing context
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: Sports betting analysis, mobile app coverage, comparison sections
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Payment methods, responsible gambling, provincial regulations
+
+**Note:** Use for structural reference only. Create original Wyns analysis with competitive comparisons.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in emerging Canadian hybrid sportsbook/casino platforms.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting and casino experience, Canada market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Emerging Canadian operators, hybrid platforms, Ontario regulations, comparative analysis
+- **Author Voice:** Emerging-operator focused, comparative, realistic about market position
+
+**Content Requirements:**
+- Position Wyns as emerging alternative to Bet99, Sports Interaction, Betway
+- Analyze both sportsbook AND casino equally (dual platform emphasis)
+- Compare odds, features, bonuses directly to major Canadian operators
+- Cite App Store/Google Play ratings with specific numbers
+- Explain iGaming Ontario regulatory context clearly
+- Include Reddit user feedback with citations
+
 ---
 
 ## MANDATORY INTRO FORMAT

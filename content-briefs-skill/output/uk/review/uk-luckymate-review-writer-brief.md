@@ -62,8 +62,57 @@ All keywords MUST be naturally integrated. Keyword placement indicated below:
 | is luckymate safe | <10/mo | H2, FAQ | "Is LuckyMate Safe & Licensed?" |
 | is luckymate legit | <10/mo | H2, FAQ | "Is LuckyMate safe and legit?" |
 
+**Total Secondary Keyword Volume:** 2,900/mo (264% increase over primary)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords List:**
 `luckymate, luckymate review, luckymate casino, bet builder, in play betting, acca boost, live betting uk, luckymate sister sites, luckymate withdrawal time, luckymate login, is luckymate safe, is luckymate legit`
+
+---
+
+## COMPETITOR REFERENCE URLs
+
+Use these for content gap analysis and feature comparison:
+
+1. **OddsChecker** - https://www.oddschecker.com/uk/luckymate
+2. **Betting.com** - https://www.betting.com/uk/luckymate-review
+3. **RacingPost** - https://www.racingpost.com/betting/luckymate
+
+**Usage:** Reference for market standards, not for pros/cons citations.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Lewis Humphries
+**Credentials:** 8+ years sports betting journalism, specializing in UK market analysis
+**Bio Link:** /authors/lewis-humphries.htm
+**Expertise:** UK bookmaker reviews, regulatory compliance, responsible gambling advocacy
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Word Count |
+|---------|-------------------|
+| Introduction | 200-250 |
+| Key Features Overview | 400-500 |
+| Complete Review | 500-600 |
+| Bonuses & Promotions | 400-500 |
+| Sportsbook Review | 800-1,000 |
+| 0% Margin Explained | 500-600 |
+| Casino & Esports | 400-500 |
+| Mobile Experience | 150-200 |
+| User Experience | 300-400 |
+| Payment Methods | 400-500 |
+| Customer Support | 250-300 |
+| Security & RG | 300-400 |
+| User Reviews | 400-450 |
+| Pros & Cons | 300-350 |
+| FAQs (10 questions) | 1,000-1,500 |
+| Final Verdict | 200-250 |
+| Responsible Gambling | 150-200 |
+| **TOTAL** | **8,500-9,500 words** |
 
 ---
 

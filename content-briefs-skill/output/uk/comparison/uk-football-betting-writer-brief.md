@@ -20,6 +20,25 @@
 
 ---
 
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Notes |
+|---------|-------------|-------|
+| Introduction | 100-150 | Direct answer format |
+| Comparison Table | N/A | Interactive (Phase 3) |
+| Best Football Sites Ranked | 2,500-3,000 | 9 brand reviews |
+| Football Betting Tips | 500-600 | High-volume keyword |
+| Football Betting Odds | 400-500 | Odds formats explained |
+| Online Football Betting UK | 300-400 | How it works |
+| Premier League Betting | 300-400 | League-specific |
+| Payment Methods | 300-400 | UK-specific options |
+| How to Place Football Bets | 300-400 | Step-by-step |
+| FAQs | 800-1,000 | 8-10 questions |
+| Responsible Gambling | 150-200 | UK helplines |
+| **TOTAL** | **~6,500-7,000** | **Comparison target** |
+
+---
+
 ## KEYWORD-TO-SECTION MAPPING TABLE
 
 | Keyword | Volume/mo | Difficulty | Placement | Section Title |
@@ -39,6 +58,36 @@
 **Meta Keywords:** football betting sites, football betting tips, football betting odds, online football betting uk, best football betting sites uk, premier league betting sites, football betting apps uk, new betting account, betting company offers, uk football betting, premier league odds, bet on football, football accumulator, in-play football betting
 
 **Note:** Removed "top 20 betting sites uk free" - this general keyword belongs to the [UK Betting Hub](/sport/betting/uk/index.htm) and [UK Betting Offers](/sport/betting/uk/betting-offers/) pages, not football-specific content
+
+### Total Secondary Keyword Volume
+
+| Metric | Value |
+|--------|-------|
+| **Mapped Secondary Volume** | 13,440/mo |
+| **Primary Keyword Volume** | 3,200/mo |
+| **Combined Documented Volume** | 16,640/mo |
+| **Total Cluster Volume** | 37,320/mo |
+| **Increase vs Primary Alone** | 1,066% increase |
+
+**Calculation Breakdown (Mapped Keywords):**
+- football betting tips (10,000) + football betting odds (1,700) + online football betting uk (450) + best football betting sites uk (400) + best football betting site (400) + premier league betting sites (150) + football betting apps uk (80) + whats the best betting site (80) + new betting account (60) + betting company offers (100) + newest sports betting sites (20) = **13,440/mo**
+
+**Note:** Total cluster volume includes additional naturally integrated keywords mentioned in meta keywords (uk football betting, premier league odds, bet on football, football accumulator, in-play football betting).
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+Use these competitor pages to analyze content gaps and structure (research only - DO NOT cite in content):
+
+1. **OddsChecker Football** - https://www.oddschecker.com/football - Comprehensive football odds comparison, betting tips
+2. **Betting.com Football** - https://www.betting.com/en/football - In-depth match previews, accumulator tips
+3. **TheAthletic UK Betting** - https://theathletic.com/uk/football/betting/ - Expert football betting analysis, Premier League focus
+
+**Competitor Analysis Notes:**
+- OddsChecker: Excellent odds comparison tables, lacks mobile app testing detail
+- Betting.com: Strong accumulator content, missing UKGC compliance emphasis
+- TheAthletic: High-quality analysis, paywall limits accessibility
 
 ---
 
@@ -527,6 +576,14 @@ Before submitting, verify:
 - [ ] NO "risk-free" claims
 - [ ] NO dated language in H1 title
 - [ ] Last Updated badge present after H1
+
+### E-E-A-T Author Requirements
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** Football betting specialist with 10+ years experience analyzing UK football markets, Premier League odds expert, UKGC compliance analyst
+- **Author Bio Link:** /author/tom-goldsmith/
+- **Expertise Display:** Author byline must appear at top of article with credentials
+- **Update Protocol:** Author must verify odds data weekly, re-test mobile apps monthly, update accumulator tips for each Premier League matchweek
 
 ---
 

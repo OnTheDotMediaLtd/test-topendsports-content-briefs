@@ -34,6 +34,17 @@
 
 ## SECONDARY KEYWORD OPTIMIZATION
 
+### Keyword Volume Summary
+
+| Metric | Value |
+|--------|-------|
+| **Primary Keyword Volume** | 9,100/mo (apuestas deportivas) + 1,300/mo (apuestas deportivas chile) = 10,400/mo |
+| **Secondary Keywords Total** | 13,010/mo |
+| **Total Cluster Volume** | 23,410/mo |
+| **Percentage Increase** | 125% increase over primary keyword |
+
+### Keyword Mapping Table
+
 | Keyword | Volume | Section | Title/Usage |
 |---------|--------|---------|-------------|
 | jugabet chile | 5,100/mo | H2 | "JugaBet - La Casa de Apuestas Más Popular de Chile" |
@@ -61,10 +72,70 @@
 | consejos apuestas deportivas | 100/mo | H2 | "Errores Comunes en las Apuestas Deportivas" |
 | registro casa de apuestas | 100/mo | H3 | Registration guide section |
 
+**Unmapped Keywords:** NONE - All secondary keywords are strategically mapped to H2, H3, or FAQ sections.
+
 **Meta Keywords:**
 ```
 apuestas deportivas, apuestas deportivas chile, mejores casas de apuestas, casas de apuestas chile, jugabet chile, bet365 chile, 20bet chile, melbet chile, betway chile, pinup chile, bonos apuestas deportivas, apuestas futbol chile, apuestas en vivo chile, bono sin deposito chile, tipos de apuestas, como apostar online, registro casa de apuestas, consejos apuestas deportivas
 ```
+
+---
+
+## COMPETITOR REFERENCE URLS
+
+**Spanish-language betting content to reference for structure and coverage:**
+
+1. **Apuesta.cl** - https://www.apuesta.cl/casas-de-apuestas/ (Chilean betting comparison)
+2. **Betoclock** - https://www.betoclock.com/es-cl/casas-de-apuestas/ (LATAM betting reviews)
+3. **MejorApuesta** - https://www.mejorapuesta.cl/ (Chilean betting hub)
+
+**Analysis Note:** These competitors provide strong coverage of Chilean betting market with local payment methods, Liga Chilena focus, and Spanish-first content. Use to identify content gaps and coverage opportunities.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+| Field | Requirement |
+|-------|-------------|
+| **Author Name** | Gustavo Cantella |
+| **Credentials** | Experto en apuestas deportivas con 8+ años analizando el mercado chileno |
+| **Expertise** | Especialista en casas de apuestas LATAM, métodos de pago locales y Liga Chilena |
+| **Bio Link** | `/es/autores/gustavo-cantella.htm` |
+| **Author Note** | Include brief author bio (50 words) at bottom of article with photo and expertise statement |
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Notes |
+|---------|--------------|-------|
+| Introduction | 100-150 | Direct answer format |
+| Overview/Comparison Table | 150 | Quick summary |
+| Casino Infinity Review | 450 | Top brand - full detail |
+| JugaBet Review | 450 | #2 position - Colo Colo sponsor |
+| MelBet Review | 450 | #3 position - crypto focus |
+| Sol Casino Review | 400 | Supporting brand |
+| Wazamba Review | 400 | Supporting brand |
+| Betway Review | 450 | Strong international presence |
+| 20Bet Review | 400 | Supporting brand |
+| PinUp Review | 400 | Supporting brand |
+| TikiTaka Review | 350 | Football specialist |
+| Bet365 Review | 450 | Global leader |
+| Tipos de Apuestas | 400 | Educational content |
+| Deportes Disponibles | 350 | Coverage overview |
+| Metodología y Criterios | 400 | Authority building |
+| Guía de Registro | 300 | How-to content |
+| Errores Comunes | 250 | Tips and warnings |
+| Métodos de Pago | 300 | Payment comparison |
+| Bonos y Promociones | 250 | Bonus overview |
+| Apuestas en Vivo | 200 | Feature highlight |
+| Apuestas de Fútbol | 250 | Sport-specific |
+| Apps de Apuestas | 200 | Mobile focus |
+| Guía de Selección | 200 | Decision framework |
+| Regulación | 150 | Legal overview |
+| FAQs | 400 | 10 questions |
+| Responsible Gambling | 150 | Compliance |
+| **TOTAL** | **6,500+** | Comprehensive hub page |
 
 ---
 
@@ -126,7 +197,7 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 - Sports coverage, odds quality, platform features
 - Unique selling points
 
-#### H3: Experiencia Móvil (100-150 words)
+#### H3: Experiencia Móvil (75-100 words)
 - App availability (iOS/Android)
 - Mobile website performance
 - User interface quality
@@ -146,13 +217,20 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #2 (LOCKED)**
 **Keyword: jugabet chile (5,100/mo)**
 
+**Writer must cover:**
+- Official Colo Colo sponsorship deal for 2025 season
+- WebPay and MACH payment integration for Chilean users
+- Liga Chilena betting markets and local football coverage
+- User experience ratings from App Store/Google Play
+- Spanish-first interface and customer support
+
 #### H3: Características Principales (150-200 words)
 - MENTION: Official Colo Colo sponsor for 2025 season
 - Strong Liga Chilena coverage
 - Local payment methods (WebPay, MACH)
 - Spanish-first interface
 
-#### H3: Experiencia Móvil (100-150 words)
+#### H3: Experiencia Móvil (75-100 words)
 - Mobile app features
 - User ratings
 
@@ -169,12 +247,19 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #3 (LOCKED)**
 **Keyword: melbet chile (500/mo)**
 
+**Writer must cover:**
+- Cryptocurrency payment options (Bitcoin, Ethereum, Litecoin)
+- High odds comparison vs competitors
+- LATAM market presence and regional focus
+- Multi-sport coverage including Liga Chilena
+- Mobile app quality for iOS and Android
+
 #### H3: Características Principales (150-200 words)
 - High odds
 - Multiple sports coverage
 - Crypto-friendly
 
-#### H3: Experiencia Móvil (100-150 words)
+#### H3: Experiencia Móvil (75-100 words)
 - iOS/Android apps
 
 #### H3: Pros y Contras (100-150 words)
@@ -187,8 +272,14 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #4**
 **Keyword: sol casino chile (70/mo)**
 
+**Writer must cover:**
+- Casino-sportsbook hybrid model
+- Sports betting markets available
+- Payment methods for Chilean players
+- Mobile experience quality
+
 #### H3: Características Principales (150 words)
-#### H3: Experiencia Móvil (100 words)
+#### H3: Experiencia Móvil (75-100 words)
 #### H3: Pros y Contras (100 words)
 **Bonus Section (50-75 words)**
 
@@ -198,11 +289,17 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #5**
 **Keyword: wazamba chile (70/mo)**
 
+**Writer must cover:**
+- Gamification features and loyalty rewards system
+- Sports betting variety for Chilean market
+- Unique promotional structure
+- Mobile app functionality
+
 #### H3: Características Principales (150 words)
 - Focus on gamification features
 - Loyalty program
 
-#### H3: Experiencia Móvil (100 words)
+#### H3: Experiencia Móvil (75-100 words)
 #### H3: Pros y Contras (100 words)
 **Bonus Section (50-75 words)**
 
@@ -212,12 +309,19 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #6**
 **Keywords: betway chile (500/mo), codigo promocional betway (150/mo)**
 
+**Writer must cover:**
+- International brand credibility and licensing
+- Esports betting coverage (CS2, League of Legends, Valorant)
+- Live streaming availability for major events
+- Promotional code usage and bonus terms
+- Award-winning mobile app features
+
 #### H3: Características Principales (150-200 words)
 - International credibility
 - Strong esports coverage
 - Live streaming
 
-#### H3: Experiencia Móvil (100-150 words)
+#### H3: Experiencia Móvil (75-100 words)
 - Award-winning app
 
 #### H3: Pros y Contras (100-150 words)
@@ -231,12 +335,18 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #7**
 **Keyword: 20bet chile (1,300/mo)**
 
+**Writer must cover:**
+- Fast withdrawal processing times
+- Odds competitiveness vs other Chilean sites
+- Sports variety and market depth
+- Payment methods for Chile
+
 #### H3: Características Principales (150 words)
 - Fast withdrawals
 - Good odds
 - Wide sports coverage
 
-#### H3: Experiencia Móvil (100 words)
+#### H3: Experiencia Móvil (75-100 words)
 #### H3: Pros y Contras (100 words)
 **Bonus Section (50-75 words)**
 
@@ -246,8 +356,14 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #8**
 **Keyword: pinup chile (600/mo)**
 
+**Writer must cover:**
+- LATAM brand recognition and regional presence
+- Promotional offers for Chilean users
+- Sports betting markets and odds
+- Mobile app/website performance
+
 #### H3: Características Principales (150 words)
-#### H3: Experiencia Móvil (100 words)
+#### H3: Experiencia Móvil (75-100 words)
 #### H3: Pros y Contras (100 words)
 **Bonus Section (50-75 words)**
 
@@ -257,11 +373,17 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #9**
 **Keywords: apuestas futbol (300/mo), apuestas futbol chile (200/mo)**
 
+**Writer must cover:**
+- Football-first specialization and market depth
+- Liga Chilena coverage and Chilean football focus
+- Soccer-specific features and bet types
+- Comparison to general sportsbooks
+
 #### H3: Características Principales (150 words)
 - Football specialization
 - Soccer market depth
 
-#### H3: Experiencia Móvil (100 words)
+#### H3: Experiencia Móvil (75-100 words)
 #### H3: Pros y Contras (100 words)
 **Bonus Section (50 words)**
 
@@ -271,13 +393,20 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 **Position: #10**
 **Keyword: bet365 chile (1,500/mo)**
 
+**Writer must cover:**
+- Global market leader status and reputation
+- HD live streaming for Liga Chilena and international matches
+- Early cash-out features and betting options
+- Comprehensive soccer markets and depth
+- Industry-leading mobile app quality
+
 #### H3: Características Principales (150-200 words)
 - Global leader status
 - HD live streaming
 - Early cash out
 - Comprehensive markets
 
-#### H3: Experiencia Móvil (100-150 words)
+#### H3: Experiencia Móvil (75-100 words)
 - Industry-leading app
 
 #### H3: Pros y Contras (100-150 words)
@@ -288,6 +417,12 @@ and key benefits for Chilean bettors - NO affiliate disclosure, it's in website 
 
 ### H2: Tipos de Apuestas Deportivas en Chile (400 words)
 **Keywords: tipos de apuestas (200/mo), apuestas deportivas (9,100/mo)**
+
+**Writer must cover:**
+- Clear explanations of each bet type with Chilean examples
+- When to use each type of bet strategically
+- Liga Chilena examples for local relevance
+- Parlay calculator tool integration
 
 Explicar los principales tipos de apuestas disponibles en las casas de apuestas chilenas:
 
@@ -320,6 +455,12 @@ Explicar los principales tipos de apuestas disponibles en las casas de apuestas 
 
 ### H2: Deportes Disponibles en las Casas de Apuestas Chile (350 words)
 **Keywords: apuestas deportivas chile (1,300/mo), deportes apuestas (100/mo)**
+
+**Writer must cover:**
+- Liga Chilena and Copa Libertadores emphasis
+- Availability of each sport across featured brands
+- Which sites excel at specific sports
+- Emerging sports betting trends in Chile
 
 #### H3: Fútbol - El Deporte Rey en Chile (100 words)
 - Liga Chilena (Primera División)
@@ -355,6 +496,12 @@ Explicar los principales tipos de apuestas disponibles en las casas de apuestas 
 
 ### H2: Criterios y Metodología para Elegir una Casa de Apuestas (400 words)
 **Keywords: casas de apuestas chile (450/mo), mejores casas de apuestas (350/mo)**
+
+**Writer must cover:**
+- Transparent evaluation methodology
+- Chilean-specific criteria (local payments, Liga Chilena coverage)
+- How brands were tested and ranked
+- Authority-building expertise demonstration
 
 Explicar la metodología utilizada para evaluar y recomendar casas de apuestas:
 
@@ -397,6 +544,13 @@ Explicar la metodología utilizada para evaluar y recomendar casas de apuestas:
 ### H2: Cómo Registrarse en una Casa de Apuestas en Chile (300 words)
 **Keywords: registro casa de apuestas (100/mo), como apostar online (150/mo)**
 
+**Writer must cover:**
+- Complete step-by-step registration process
+- KYC verification requirements for Chile
+- Chilean document requirements (cédula)
+- Expected timeframes for each step
+- Tips for smooth verification
+
 Guía paso a paso para nuevos usuarios:
 
 #### H3: Paso 1 - Elegir la Casa de Apuestas (50 words)
@@ -428,6 +582,12 @@ Guía paso a paso para nuevos usuarios:
 
 ### H2: Errores Comunes en las Apuestas Deportivas Chile (250 words)
 **Keywords: errores apuestas (50/mo), consejos apuestas deportivas (100/mo)**
+
+**Writer must cover:**
+- Specific mistakes Chilean bettors make
+- Bonus terms misunderstandings
+- Bankroll management strategies
+- Responsible gambling practices integration
 
 Errores que los apostadores chilenos deben evitar:
 
@@ -461,6 +621,12 @@ Errores que los apostadores chilenos deben evitar:
 ### H2: Métodos de Pago en Casas de Apuestas Chilenas (300 words)
 **Keywords: paginas de apuestas chile (300/mo), sitios de apuestas chile (70/mo)**
 
+**Writer must cover:**
+- WebPay and MACH prominence for Chilean market
+- Cryptocurrency options availability
+- Processing times for deposits and withdrawals
+- Which brands accept which payment methods
+
 | Método | Tipo | Depósito | Retiro | Tiempo |
 |--------|------|----------|--------|--------|
 | WebPay | Transferencia Local | Sí | Sí | Instantáneo / 24-48h |
@@ -479,10 +645,12 @@ Errores que los apostadores chilenos deben evitar:
 ### H2: Bonos y Promociones de Bienvenida (250 words)
 **Keywords: bonos apuestas deportivas (150/mo), bono sin deposito chile (200/mo), bono bienvenida apuestas (100/mo)**
 
-- Overview of welcome bonus types
-- No-deposit bonuses availability
-- Wagering requirements explanation
-- How to claim bonuses
+**Writer must cover:**
+- Current bonus offers across all 10 brands
+- No-deposit bonus availability in Chile
+- Wagering requirements and rollover explained
+- How to claim and activate bonuses
+- Which brands offer best value
 
 **Include:** Comparison table of bonuses across all 10 brands
 
@@ -491,15 +659,22 @@ Errores que los apostadores chilenos deben evitar:
 ### H2: Apuestas en Vivo en Chile (200 words)
 **Keywords: apuestas en vivo chile (100/mo), apostar online (100/mo)**
 
-- How live betting works
-- Best platforms for live betting
-- Cash out features
-- Live streaming availability
+**Writer must cover:**
+- How live betting works during Liga Chilena matches
+- Best platforms for in-play betting
+- Cash out features comparison
+- Live streaming availability by brand
 
 ---
 
 ### H2: Apuestas de Fútbol en Chile (250 words)
 **Keywords: apuestas futbol (300/mo), apuestas futbol chile (200/mo)**
+
+**Writer must cover:**
+- Liga Chilena betting markets in depth
+- Copa Libertadores Chilean teams coverage
+- La Roja (Chilean national team) betting
+- Internal links to dedicated football pages
 
 #### H3: Liga Chilena
 - Colo Colo, Universidad de Chile, Universidad Católica
@@ -518,15 +693,22 @@ Errores que los apostadores chilenos deben evitar:
 ### H2: Apps de Apuestas Deportivas (200 words)
 **Keywords: app apuestas deportivas (90/mo), apuestas online chile (300/mo)**
 
-- Best mobile apps comparison
-- iOS vs Android availability
-- App features to look for
-- Download instructions
+**Writer must cover:**
+- Best mobile apps ranking with App Store/Google Play ratings
+- iOS vs Android feature comparison
+- Key features to look for in betting apps
+- Performance on Chilean mobile networks
 
 ---
 
 ### H2: Cómo Elegir una Casa de Apuestas en Chile (200 words)
 **Keyword: casas de apuestas chile (450/mo)**
+
+**Writer must cover:**
+- Decision framework for Chilean bettors
+- Priority of factors based on user type
+- Red flags to avoid
+- Recommended approach for beginners
 
 Key factors:
 1. Licencia y seguridad
@@ -541,10 +723,11 @@ Key factors:
 
 ### H2: Regulación de Apuestas en Chile (150 words)
 
-- Current legal situation
-- International licensing
-- Pending local regulation
-- Player protection measures
+**Writer must cover:**
+- Current legal status of online betting in Chile
+- International licensing accepted by Chileans
+- Pending legislation updates
+- Player rights and protections
 
 ---
 

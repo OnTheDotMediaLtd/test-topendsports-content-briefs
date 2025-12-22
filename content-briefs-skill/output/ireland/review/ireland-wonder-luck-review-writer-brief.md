@@ -60,7 +60,54 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 | **wonder luck ireland** | 0 | H2: Licensing | 250 | H2 | Regulatory section |
 | **wonder luck login** | 0 | H3: Login Process | 100 | H3 | Account access |
 
+**Total Secondary Keyword Volume:** 3,150/mo (∞% increase - primary has 0/mo)
+**Unmapped Keywords:** NONE
+
 **Meta Keywords:** wonder luck review, wonder luck sport, wonder luck bonus, wonder luck app, wonder luck ireland, betting sites ireland, best betting sites ireland, sports betting ireland, irish betting sites, free bets ireland, online betting ireland, betting apps ireland, new betting sites ireland, is wonder luck legit, wonder luck login
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+1. **BettingTop10.ie:** https://www.bettingtop10.ie/wonder-luck-review/
+2. **BonusFinder.ie:** https://www.bonusfinder.ie/bookmakers
+3. **OddsChecker Ireland:** https://www.oddschecker.com/ie/betting-sites
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+**Author Name:** Tom Goldsmith
+**Credentials:** 8+ years sports betting experience, Ireland market specialist
+**Bio Link:** /authors/tom-goldsmith.htm
+**Expertise Focus:** Emerging operators, new market entrants, Ireland regulatory landscape
+
+**Why Tom for this review:**
+- Expert in reviewing emerging operators entering Irish market
+- Strong analytical approach to assessing newer brands vs established operators
+- Deep understanding of risks and opportunities with new betting sites
+
+---
+
+## WORD COUNT BY SECTION
+
+| Section | Target Words | Priority |
+|---------|--------------|----------|
+| Introduction | 150 | HIGH |
+| Wonder Luck Review Overview | 300 | HIGH |
+| - Login & Registration | 100 | MEDIUM |
+| Welcome Bonus & Free Bets | 350 | HIGH |
+| Sports Betting Markets | 350 | CRITICAL |
+| Mobile App | 300 | HIGH |
+| - Mobile Experience (150-200w) | 175 | CRITICAL |
+| Banking & Payments | 300 | HIGH |
+| Licensing & Regulation | 250 | HIGH |
+| vs Irish Competitors | 300 | CRITICAL |
+| Pros & Cons | 200 | HIGH |
+| FAQs | 750 | HIGH |
+| Final Verdict | 150 | HIGH |
+| Responsible Gambling | 150 | REQUIRED |
+| **TOTAL** | **3,500-4,000** | Target range |
 
 ---
 
@@ -233,7 +280,7 @@ All keywords must be mapped to specific H2/H3/FAQ sections:
 **Word Count:** 300 words total (includes 120-word mobile experience section below)
 **Keywords:** wonder luck app, betting apps ireland
 
-**Mobile Experience Section (100-150 words) - REQUIRED:**
+**Mobile Experience Section (150-200 words) - REQUIRED FOR REVIEW PAGES:**
 Wonder Luck's mobile app provides a streamlined betting experience optimized for Irish players. The app features intuitive navigation with single-tap bet placement, live streaming for major sports events, and push notifications for odds updates and promotions. Both iOS and Android versions include dedicated sections for GAA betting, horse racing, and in-play markets prominently displayed. Users report smooth app performance with minimal lag during peak betting hours. The app offers exclusive mobile-only bonuses and enhanced cash-out functionality. However, some players note regional download restrictions, requiring specific App Store settings for iOS users. Overall, the mobile platform caters well to on-the-go Irish bettors seeking quick access to Ireland-focused sports markets.
 
 **Additional Content Points:**

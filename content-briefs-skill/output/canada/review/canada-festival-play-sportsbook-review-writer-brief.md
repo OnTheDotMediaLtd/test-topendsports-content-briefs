@@ -68,6 +68,44 @@ festival play app, festival play casino, festival play withdrawal, is festival p
 festival play promo code, offshore sportsbook, crypto sportsbook, canadian betting sites
 ```
 
+**Total Secondary Keyword Volume:** 1,870/mo (9,350% increase over primary)
+**Unmapped Keywords:** NONE
+
+---
+
+## COMPETITOR ANALYSIS URLS
+
+Research these Canadian competitor pages for content structure and keyword integration:
+
+1. **Covers.com/ca** - https://www.covers.com/betting/canada
+   - Analysis focus: Review structure, offshore operator positioning
+
+2. **ActionNetwork.com** - https://www.actionnetwork.com/online-sports-betting
+   - Analysis focus: Mobile experience, crypto payment sections
+
+3. **TheLines.com** - https://www.thelines.com/betting/canada/
+   - Analysis focus: Compliance sections, Curacao licensing explanations
+
+**Note:** Use these for structural reference only. Do NOT copy content. Create original analysis.
+
+---
+
+## E-E-A-T AUTHOR REQUIREMENTS
+
+This review requires demonstrated expertise in offshore sports betting and cryptocurrency betting platforms.
+
+- **Author Name:** Tom Goldsmith
+- **Credentials:** 5+ years sports betting experience, Canada offshore market specialist
+- **Bio Link:** /authors/tom-goldsmith.htm
+- **Expertise Focus:** Offshore operators, Curacao licensing, crypto betting, horse racing markets
+- **Author Voice:** Balanced, objective, realistic about offshore limitations
+
+**Content Requirements:**
+- Transparent about offshore vs licensed operator differences
+- Cite specific user experiences from Reddit, Trustpilot
+- Explain Curacao licensing implications for Canadian players
+- Compare crypto payment advantages vs traditional methods
+
 ---
 
 ## MANDATORY INTRO FORMAT (100-150 words)
