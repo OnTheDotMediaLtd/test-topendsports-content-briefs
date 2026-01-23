@@ -73,7 +73,7 @@ mcp__ahrefs__keywords-explorer-overview with:
 
 **IF MCP RETURNS 403 OR ERROR:** Switch to Python immediately:
 ```bash
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   keywords-explorer/overview \
   '{"select":"keyword,volume,difficulty","country":"us","keywords":"YOUR_PRIMARY_KEYWORD"}'
 ```
@@ -181,7 +181,7 @@ Must include:
 
 ### Step 1.7: VALIDATE PHASE 1
 ```bash
-bash /home/user/topendsports-content-briefs/content-briefs-skill/scripts/validate-phase.sh 1 [page-name]
+bash content-briefs-skill/scripts/validate-phase.sh 1 [page-name]
 ```
 
 **DO NOT proceed to Phase 2 until validation PASSES.**
@@ -270,7 +270,7 @@ Must include:
 
 ### Step 2.7: VALIDATE PHASE 2
 ```bash
-bash /home/user/topendsports-content-briefs/content-briefs-skill/scripts/validate-phase.sh 2 [page-name]
+bash content-briefs-skill/scripts/validate-phase.sh 2 [page-name]
 ```
 
 **DO NOT proceed to Phase 3 until validation PASSES.**
@@ -371,7 +371,7 @@ Must include COMPLETE HTML/CSS/JS for:
 
 ### Step 3.10: VALIDATE PHASE 3
 ```bash
-bash /home/user/topendsports-content-briefs/content-briefs-skill/scripts/validate-phase.sh 3 [page-name]
+bash content-briefs-skill/scripts/validate-phase.sh 3 [page-name]
 ```
 
 ---
@@ -397,7 +397,7 @@ Before reporting completion, verify ALL exist:
 
 **Run final validation:**
 ```bash
-bash /home/user/topendsports-content-briefs/content-briefs-skill/scripts/validate-phase.sh all [page-name]
+bash content-briefs-skill/scripts/validate-phase.sh all [page-name]
 ```
 
 ---
