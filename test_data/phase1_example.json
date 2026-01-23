@@ -1,0 +1,47 @@
+{
+  "primary_keyword": "best online sportsbooks",
+  "secondary_keywords": [
+    {"keyword": "legal sportsbooks", "volume": 8500},
+    {"keyword": "mobile betting apps", "volume": 7200},
+    {"keyword": "nfl betting sites", "volume": 6800},
+    {"keyword": "parlay betting strategy", "volume": 5400},
+    {"keyword": "live betting tips", "volume": 4200},
+    {"keyword": "sports betting reddit", "volume": 3800},
+    {"keyword": "college football betting", "volume": 3200},
+    {"keyword": "responsible gambling", "volume": 2800},
+    {"keyword": "betting odds explained", "volume": 2400},
+    {"keyword": "expert sports picks", "volume": 2100},
+    {"keyword": "sportsbook welcome bonus", "volume": 1900}
+  ],
+  "competitor_analysis": {
+    "DraftKings": {
+      "domain_rating": 78,
+      "organic_traffic": 145000
+    },
+    "FanDuel": {
+      "domain_rating": 76,
+      "organic_traffic": 138000
+    },
+    "BetMGM": {
+      "domain_rating": 72,
+      "organic_traffic": 92000
+    },
+    "Caesars": {
+      "domain_rating": 75,
+      "organic_traffic": 108000
+    }
+  },
+  "brand_selection": {
+    "1": "FanDuel",
+    "2": "BetMGM",
+    "3": "DraftKings",
+    "4": "Caesars",
+    "5": "PointsBet",
+    "6": "WynnBET",
+    "7": "BetUS",
+    "8": "Bovada",
+    "9": "MyBookie",
+    "10": "Bet365"
+  },
+  "assigned_writer": "Lewis"
+}

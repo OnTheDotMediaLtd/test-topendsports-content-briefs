@@ -1,0 +1,481 @@
+{
+  "page_info": {
+    "url": "/sport/betting/ireland/22bet-review.htm",
+    "page_name": "22bet Sport Review",
+    "market": "Ireland",
+    "age_requirement": "18+",
+    "writer": "Tom Goldsmith",
+    "priority": "Medium",
+    "template_type": "1",
+    "template_name": "Review"
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "22bet ireland",
+      "volume": 720,
+      "difficulty": 28,
+      "traffic_potential": 1200,
+      "source": "web_research"
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "22bet review",
+        "volume": 1900,
+        "difficulty": 35,
+        "placement": "H2",
+        "target_section": "Full Review Overview"
+      },
+      {
+        "keyword": "22bet bonus",
+        "volume": 1600,
+        "difficulty": 32,
+        "placement": "H2",
+        "target_section": "Welcome Bonus & Promotions"
+      },
+      {
+        "keyword": "22bet app",
+        "volume": 880,
+        "difficulty": 30,
+        "placement": "H2",
+        "target_section": "Mobile App Experience"
+      },
+      {
+        "keyword": "22bet promo code",
+        "volume": 540,
+        "difficulty": 28,
+        "placement": "H3",
+        "target_section": "How to Claim Bonus"
+      },
+      {
+        "keyword": "22bet withdrawal",
+        "volume": 480,
+        "difficulty": 25,
+        "placement": "H2",
+        "target_section": "Payment Methods & Withdrawals"
+      },
+      {
+        "keyword": "is 22bet legit",
+        "volume": 390,
+        "difficulty": 22,
+        "placement": "FAQ",
+        "target_section": "FAQ: Is 22bet Safe and Legal?"
+      },
+      {
+        "keyword": "22bet login",
+        "volume": 320,
+        "difficulty": 20,
+        "placement": "H3",
+        "target_section": "Account Access & Registration"
+      },
+      {
+        "keyword": "22bet casino",
+        "volume": 290,
+        "difficulty": 26,
+        "placement": "H3",
+        "target_section": "Casino & Live Games"
+      },
+      {
+        "keyword": "22bet sports betting",
+        "volume": 260,
+        "difficulty": 24,
+        "placement": "H2",
+        "target_section": "Sports Betting Markets"
+      },
+      {
+        "keyword": "22bet free bet",
+        "volume": 210,
+        "difficulty": 23,
+        "placement": "FAQ",
+        "target_section": "FAQ: Does 22bet Offer Free Bets?"
+      },
+      {
+        "keyword": "22bet license ireland",
+        "volume": 140,
+        "difficulty": 18,
+        "placement": "H3",
+        "target_section": "Licensing & Regulation"
+      },
+      {
+        "keyword": "22bet customer service",
+        "volume": 120,
+        "difficulty": 19,
+        "placement": "FAQ",
+        "target_section": "FAQ: How to Contact Support?"
+      },
+      {
+        "keyword": "22bet payment methods",
+        "volume": 95,
+        "difficulty": 17,
+        "placement": "H3",
+        "target_section": "Deposit Options"
+      }
+    ],
+    "total_volume": 8945,
+    "volume_increase_percent": 1142
+  },
+  "competitor_analysis": {
+    "top_competitors": [
+      {
+        "domain": "betinireland.ie",
+        "url": "/reviews/22bet/",
+        "ranking_position": 1,
+        "estimated_word_count": 3200,
+        "key_sections": [
+          "Welcome Bonus",
+          "Sports Betting",
+          "Casino Games",
+          "Payment Methods",
+          "Mobile App",
+          "Customer Support",
+          "Licensing"
+        ],
+        "strengths": [
+          "Comprehensive bonus breakdown",
+          "Detailed T&Cs explanation",
+          "Strong mobile app analysis"
+        ],
+        "gaps": [
+          "Limited payment method comparison",
+          "No interactive elements",
+          "Few FAQs (only 3)"
+        ]
+      },
+      {
+        "domain": "bestbettingsites.com",
+        "url": "/ireland/22bet/",
+        "ranking_position": 2,
+        "estimated_word_count": 2800,
+        "key_sections": [
+          "Overview",
+          "Sportsbook Analysis",
+          "Betting Markets",
+          "Odds Quality",
+          "Live Betting"
+        ],
+        "strengths": [
+          "Strong sports coverage analysis",
+          "Odds comparison",
+          "Live betting depth"
+        ],
+        "gaps": [
+          "No schema markup",
+          "Limited FAQ section",
+          "No calculator links"
+        ]
+      },
+      {
+        "domain": "irelandbettingsites.ie",
+        "url": "/22bet/",
+        "ranking_position": 3,
+        "estimated_word_count": 2500,
+        "key_sections": [
+          "Sign Up Bonus",
+          "Sports Markets",
+          "Irish Players Benefits",
+          "Payment Options"
+        ],
+        "strengths": [
+          "Ireland-specific focus",
+          "Good bonus explanation",
+          "Payment method details"
+        ],
+        "gaps": [
+          "Static content only",
+          "No comparison tools",
+          "Limited depth on features"
+        ]
+      }
+    ],
+    "content_gaps_to_exploit": [
+      "Interactive payment methods comparison table",
+      "Comprehensive FAQ section (10+ questions)",
+      "Calculator tool integration",
+      "Detailed mobile app feature breakdown",
+      "Live chat availability analysis",
+      "Comparison with top Irish competitors",
+      "User review integration (Trustpilot)",
+      "Step-by-step registration guide with screenshots"
+    ],
+    "target_word_count": 3500,
+    "target_word_count_rationale": "Exceed #1 competitor (3200 words) while maintaining depth"
+  },
+  "content_strategy": {
+    "brand_focus": "22bet",
+    "badge_code": "22B",
+    "badge_color": "#1B5E20",
+    "unique_selling_points": [
+      "Over 40 sports betting categories",
+      "€122 welcome bonus (100% match)",
+      "Fastest withdrawals in Ireland (15 minutes via e-wallets)",
+      "50+ eSports betting options",
+      "Licensed by Curacao & Kahnawake",
+      "70+ casino game providers"
+    ],
+    "ireland_specific_angles": [
+      "Legal for 18+ Irish players",
+      "GAA betting availability",
+      "Irish racing coverage",
+      "EUR currency support",
+      "Irish payment methods (Revolut, Bank Transfer)"
+    ]
+  },
+  "mandatory_sections": [
+    {
+      "section": "Introduction",
+      "word_count": 150,
+      "keywords_targeted": ["22bet ireland", "22bet review"],
+      "requirements": [
+        "Affiliate disclosure",
+        "Direct verdict statement",
+        "Key USPs (3-4 bullet points)"
+      ]
+    },
+    {
+      "section": "Welcome Bonus & Promotions",
+      "word_count": 400,
+      "keywords_targeted": ["22bet bonus", "22bet promo code", "22bet free bet"],
+      "requirements": [
+        "€122 bonus details",
+        "5x wagering requirements",
+        "Accumulator bet requirements",
+        "Step-by-step claim process",
+        "Ongoing promotions (Friday reload, etc.)",
+        "T&Cs summary"
+      ]
+    },
+    {
+      "section": "Sports Betting Markets",
+      "word_count": 350,
+      "keywords_targeted": ["22bet sports betting"],
+      "requirements": [
+        "40+ sports categories",
+        "GAA betting",
+        "Horse racing (Irish focus)",
+        "eSports coverage (50+ options)",
+        "In-play betting",
+        "Betting markets depth"
+      ]
+    },
+    {
+      "section": "Mobile App Experience",
+      "word_count": 400,
+      "keywords_targeted": ["22bet app"],
+      "requirements": [
+        "iOS download process (App Store region change)",
+        "Android APK download (33MB)",
+        "App features",
+        "Mobile-exclusive bonuses",
+        "User interface analysis",
+        "App Store ratings"
+      ]
+    },
+    {
+      "section": "Payment Methods & Withdrawals",
+      "word_count": 350,
+      "keywords_targeted": ["22bet withdrawal", "22bet payment methods"],
+      "requirements": [
+        "50+ payment options",
+        "E-wallet speed (15 minutes)",
+        "Bank transfer timing (up to 7 days)",
+        "Cryptocurrency support",
+        "Minimum deposit (€1)",
+        "Minimum withdrawal (€1.50)",
+        "No fees policy",
+        "Verification requirements"
+      ]
+    },
+    {
+      "section": "Licensing & Security",
+      "word_count": 250,
+      "keywords_targeted": ["is 22bet legit", "22bet license ireland"],
+      "requirements": [
+        "Curacao license (8048/JAZ)",
+        "Kahnawake Gaming Commission",
+        "Legal status in Ireland",
+        "SSL encryption (128-bit)",
+        "GDPR compliance",
+        "Responsible gambling tools"
+      ]
+    },
+    {
+      "section": "Casino & Live Games",
+      "word_count": 250,
+      "keywords_targeted": ["22bet casino"],
+      "requirements": [
+        "2,000+ slot machines",
+        "70+ game providers",
+        "Live casino options",
+        "€300 casino bonus",
+        "Jackpot games",
+        "Live bingo"
+      ]
+    },
+    {
+      "section": "Customer Support",
+      "word_count": 200,
+      "keywords_targeted": ["22bet customer service"],
+      "requirements": [
+        "Live chat availability",
+        "Email support",
+        "Response times",
+        "Language support",
+        "FAQ section quality",
+        "Trustpilot ratings"
+      ]
+    },
+    {
+      "section": "Pros & Cons",
+      "word_count": 200,
+      "requirements": [
+        "5-7 pros with evidence",
+        "3-5 cons with context",
+        "Citations from reviews"
+      ]
+    },
+    {
+      "section": "FAQs",
+      "word_count": 500,
+      "keywords_targeted": [
+        "is 22bet legit",
+        "22bet free bet",
+        "22bet customer service",
+        "22bet login",
+        "22bet promo code"
+      ],
+      "requirements": [
+        "10+ questions",
+        "Question format keywords",
+        "Schema markup ready",
+        "Concise answers (50-75 words each)"
+      ]
+    },
+    {
+      "section": "Responsible Gambling",
+      "word_count": 150,
+      "requirements": [
+        "18+ age requirement (Ireland)",
+        "BeGambleAware.org link",
+        "Self-exclusion tools",
+        "Deposit limits",
+        "Reality checks"
+      ]
+    }
+  ],
+  "technical_requirements": {
+    "schema_markup": [
+      "Article",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "interactive_elements": [
+      "Payment methods comparison table (sortable)",
+      "Bonus calculator",
+      "Sports coverage breakdown chart",
+      "Live betting availability indicator"
+    ],
+    "meta_tags": {
+      "title": "22bet Ireland Review 2025 | €122 Bonus + Full Analysis",
+      "description": "In-depth 22bet Ireland review. Get €122 welcome bonus, 40+ sports, 15-minute withdrawals. Licensed, secure, trusted by Irish punters since 2018.",
+      "keywords": "22bet ireland, 22bet review, 22bet bonus, 22bet app, 22bet withdrawal"
+    }
+  },
+  "internal_links": [
+    {
+      "anchor": "best betting sites Ireland",
+      "target_url": "/sport/betting/ireland/best-betting-sites.htm",
+      "context": "Introduction"
+    },
+    {
+      "anchor": "Bet365 Ireland review",
+      "target_url": "/sport/betting/ireland/bet365-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "target_url": "/sport/betting/ireland/paddy-power-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "target_url": "/sport/betting/ireland/boylesports-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "betting calculator",
+      "target_url": "/sport/betting/calculators/odds-calculator.htm",
+      "context": "Tools section"
+    },
+    {
+      "anchor": "accumulator calculator",
+      "target_url": "/sport/betting/calculators/accumulator-calculator.htm",
+      "context": "Bonus wagering section"
+    },
+    {
+      "anchor": "Irish betting sites comparison",
+      "target_url": "/sport/betting/ireland/comparison.htm",
+      "context": "Introduction"
+    },
+    {
+      "anchor": "betting apps Ireland",
+      "target_url": "/sport/betting/ireland/best-apps.htm",
+      "context": "Mobile app section"
+    },
+    {
+      "anchor": "free bets Ireland",
+      "target_url": "/sport/betting/ireland/free-bets.htm",
+      "context": "Promotions section"
+    },
+    {
+      "anchor": "sports betting guide",
+      "target_url": "/sport/betting/how-to-bet.htm",
+      "context": "FAQ section"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "target_url": "/sport/betting/responsible-gambling.htm",
+      "context": "Footer section"
+    },
+    {
+      "anchor": "GAA betting",
+      "target_url": "/sport/betting/gaa-betting.htm",
+      "context": "Sports markets section"
+    }
+  ],
+  "sources_required": {
+    "tier_1": [
+      "App Store (iOS app ratings)",
+      "Google Play (Android app reviews)",
+      "Trustpilot (user reviews)",
+      "Reddit r/sportsbook (user experiences)"
+    ],
+    "tier_2": [
+      "22bet.com official website",
+      "Curacao Gaming Authority",
+      "Kahnawake Gaming Commission"
+    ],
+    "tier_3": [
+      "Industry publications for market data",
+      "Irish gambling statistics"
+    ]
+  },
+  "compliance": {
+    "age_requirement": "18+",
+    "jurisdiction": "Ireland",
+    "licenses": [
+      "Curacao eGaming (8048/JAZ)",
+      "Kahnawake Gaming Commission"
+    ],
+    "responsible_gambling_links": [
+      "https://www.begambleaware.org",
+      "https://www.gambleaware.ie"
+    ],
+    "affiliate_disclosure_required": true
+  },
+  "phase_1_completion": {
+    "date": "2025-12-15",
+    "keyword_research_method": "web_research",
+    "competitor_analysis_complete": true,
+    "brand_selection_complete": true,
+    "ready_for_phase_2": true
+  }
+}

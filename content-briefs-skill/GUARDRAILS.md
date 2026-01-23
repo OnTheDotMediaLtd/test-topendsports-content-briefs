@@ -10,7 +10,7 @@
 
 Before generating ANY brief, you must:
 
-1. ✅ Read `/home/user/topendsports-content-briefs/content-briefs-skill/ORCHESTRATOR.md`
+1. ✅ Read `content-briefs-skill/ORCHESTRATOR.md`
 2. ✅ Verify you understand the 3-phase requirement
 3. ✅ Check Ahrefs connectivity (MCP or Python fallback ready)
 4. ✅ Confirm you have the correct page URL
@@ -26,16 +26,16 @@ Execute these checks BEFORE starting Phase 1:
 ### 1. Document Review
 ```bash
 # Read the orchestration architecture
-cat /home/user/topendsports-content-briefs/content-briefs-skill/ORCHESTRATOR.md
+cat content-briefs-skill/ORCHESTRATOR.md
 
 # Verify phase instructions exist
-ls -la /home/user/topendsports-content-briefs/content-briefs-skill/references/phase*.md
+ls -la content-briefs-skill/references/phase*.md
 ```
 
 **Expected files:**
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase1-research.md`
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase2-writer.md`
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase3-technical.md`
+- `content-briefs-skill/references/phase1-research.md`
+- `content-briefs-skill/references/phase2-writer.md`
+- `content-briefs-skill/references/phase3-technical.md`
 
 ### 2. Ahrefs Connectivity Test
 
@@ -48,7 +48,7 @@ ls -la /home/user/topendsports-content-briefs/content-briefs-skill/references/ph
 **Option B: Python Fallback (REQUIRED if MCP fails)**
 ```bash
 # Test Python workaround
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py keywords-explorer/overview '{"select":"keyword,volume","country":"us","keywords":"test"}'
+python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview '{"select":"keyword,volume","country":"us","keywords":"test"}'
 ```
 
 **CRITICAL:** If MCP returns 403, errors, or is unavailable, you MUST use the Python fallback. Never proceed without keyword data.
@@ -56,8 +56,8 @@ python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py key
 ### 3. Output Directory Verification
 ```bash
 # Ensure directories exist
-ls -la /home/user/topendsports-content-briefs/content-briefs-skill/active/
-ls -la /home/user/topendsports-content-briefs/content-briefs-skill/output/
+ls -la content-briefs-skill/active/
+ls -la content-briefs-skill/output/
 ```
 
 ### 4. Page Name Extraction
@@ -70,7 +70,7 @@ page_name = url.split('/')[-1].replace('.htm', '')
 
 **Verify page exists in site structure:**
 ```bash
-grep -i "nfl-betting-sites" /home/user/topendsports-content-briefs/content-briefs-skill/assets/data/site-structure-english.csv
+grep -i "nfl-betting-sites" content-briefs-skill/assets/data/site-structure-english.csv
 ```
 
 ---
@@ -81,18 +81,18 @@ Each phase MUST produce specific outputs. **DO NOT proceed to the next phase unt
 
 ### Phase 1: Research & Discovery (10-15 minutes)
 
-**Instructions file:** `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase1-research.md`
+**Instructions file:** `content-briefs-skill/references/phase1-research.md`
 
 **REQUIRED OUTPUTS:**
-1. ✅ `/home/user/topendsports-content-briefs/content-briefs-skill/active/[page-name]-phase1.json`
-2. ✅ `/home/user/topendsports-content-briefs/content-briefs-skill/output/[page-name]-brief-control-sheet.md`
+1. ✅ `content-briefs-skill/active/[page-name]-phase1.json`
+2. ✅ `content-briefs-skill/output/[page-name]-brief-control-sheet.md`
 
 **Validation Command:**
 ```bash
 # Replace [page-name] with actual page name
 PAGE_NAME="nfl-betting-sites"
-test -f "/home/user/topendsports-content-briefs/content-briefs-skill/active/${PAGE_NAME}-phase1.json" && \
-test -f "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-brief-control-sheet.md" && \
+test -f "content-briefs-skill/active/${PAGE_NAME}-phase1.json" && \
+test -f "content-briefs-skill/output/${PAGE_NAME}-brief-control-sheet.md" && \
 echo "✅ Phase 1 outputs verified" || echo "❌ Phase 1 INCOMPLETE"
 ```
 
@@ -107,24 +107,24 @@ echo "✅ Phase 1 outputs verified" || echo "❌ Phase 1 INCOMPLETE"
 ```bash
 # Verify phase1.json has required keys
 PAGE_NAME="nfl-betting-sites"
-python3 -c "import json; data=json.load(open('/home/user/topendsports-content-briefs/content-briefs-skill/active/${PAGE_NAME}-phase1.json')); assert 'primaryKeyword' in data; assert len(data.get('secondaryKeywords', [])) >= 8; print('✅ Phase 1 JSON valid')"
+python3 -c "import json; data=json.load(open('content-briefs-skill/active/${PAGE_NAME}-phase1.json')); assert 'primaryKeyword' in data; assert len(data.get('secondaryKeywords', [])) >= 8; print('✅ Phase 1 JSON valid')"
 ```
 
 ### Phase 2: Writer Brief Creation (5-10 minutes)
 
-**Instructions file:** `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase2-writer.md`
+**Instructions file:** `content-briefs-skill/references/phase2-writer.md`
 
 **PREREQUISITE:** Phase 1 outputs MUST exist (validated above)
 
 **REQUIRED OUTPUTS:**
-1. ✅ `/home/user/topendsports-content-briefs/content-briefs-skill/active/[page-name]-phase2.json`
-2. ✅ `/home/user/topendsports-content-briefs/content-briefs-skill/output/[page-name]-writer-brief.md`
+1. ✅ `content-briefs-skill/active/[page-name]-phase2.json`
+2. ✅ `content-briefs-skill/output/[page-name]-writer-brief.md`
 
 **Validation Command:**
 ```bash
 PAGE_NAME="nfl-betting-sites"
-test -f "/home/user/topendsports-content-briefs/content-briefs-skill/active/${PAGE_NAME}-phase2.json" && \
-test -f "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-writer-brief.md" && \
+test -f "content-briefs-skill/active/${PAGE_NAME}-phase2.json" && \
+test -f "content-briefs-skill/output/${PAGE_NAME}-writer-brief.md" && \
 echo "✅ Phase 2 outputs verified" || echo "❌ Phase 2 INCOMPLETE"
 ```
 
@@ -139,24 +139,24 @@ echo "✅ Phase 2 outputs verified" || echo "❌ Phase 2 INCOMPLETE"
 ```bash
 # Verify writer brief contains required sections
 PAGE_NAME="nfl-betting-sites"
-grep -q "FAQ Questions" "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-writer-brief.md" && \
-grep -q "Source Requirements" "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-writer-brief.md" && \
+grep -q "FAQ Questions" "content-briefs-skill/output/${PAGE_NAME}-writer-brief.md" && \
+grep -q "Source Requirements" "content-briefs-skill/output/${PAGE_NAME}-writer-brief.md" && \
 echo "✅ Phase 2 content valid" || echo "❌ Phase 2 missing required sections"
 ```
 
 ### Phase 3: Technical Implementation (10-15 minutes)
 
-**Instructions file:** `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase3-technical.md`
+**Instructions file:** `content-briefs-skill/references/phase3-technical.md`
 
 **PREREQUISITE:** Phase 1 AND Phase 2 outputs MUST exist
 
 **REQUIRED OUTPUTS:**
-1. ✅ `/home/user/topendsports-content-briefs/content-briefs-skill/output/[page-name]-ai-enhancement.md`
+1. ✅ `content-briefs-skill/output/[page-name]-ai-enhancement.md`
 
 **Validation Command:**
 ```bash
 PAGE_NAME="nfl-betting-sites"
-test -f "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-ai-enhancement.md" && \
+test -f "content-briefs-skill/output/${PAGE_NAME}-ai-enhancement.md" && \
 echo "✅ Phase 3 output verified" || echo "❌ Phase 3 INCOMPLETE"
 ```
 
@@ -173,8 +173,8 @@ echo "✅ Phase 3 output verified" || echo "❌ Phase 3 INCOMPLETE"
 ```bash
 # Verify AI enhancement has required elements
 PAGE_NAME="nfl-betting-sites"
-grep -q "schema.org" "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-ai-enhancement.md" && \
-grep -q "comparison-table" "/home/user/topendsports-content-briefs/content-briefs-skill/output/${PAGE_NAME}-ai-enhancement.md" && \
+grep -q "schema.org" "content-briefs-skill/output/${PAGE_NAME}-ai-enhancement.md" && \
+grep -q "comparison-table" "content-briefs-skill/output/${PAGE_NAME}-ai-enhancement.md" && \
 echo "✅ Phase 3 content valid" || echo "❌ Phase 3 missing required elements"
 ```
 
@@ -195,11 +195,11 @@ MCP Error Indicators:
 
 ### Step 2: Switch to Python Workaround IMMEDIATELY
 
-**Location:** `/home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py`
+**Location:** `.claude/scripts/ahrefs-api.py`
 
 **Usage Pattern:**
 ```bash
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py <endpoint> '<params_json>'
+python3 .claude/scripts/ahrefs-api.py <endpoint> '<params_json>'
 ```
 
 ### Step 3: Common Research Commands
@@ -207,17 +207,17 @@ python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py <en
 **Keyword Research (Primary & Secondary Keywords):**
 ```bash
 # Get keyword overview with volume and difficulty
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   keywords-explorer/overview \
   '{"select":"keyword,volume,difficulty,cpc,traffic_potential","country":"us","keywords":"nfl betting sites"}'
 
 # Get related keywords
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   keywords-explorer/related-terms \
   '{"select":"keyword,volume,difficulty","country":"us","keywords":"nfl betting sites","limit":20}'
 
 # Get search suggestions
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   keywords-explorer/search-suggestions \
   '{"select":"keyword,volume,difficulty","country":"us","keywords":"nfl betting","limit":15}'
 ```
@@ -225,17 +225,17 @@ python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
 **Competitor Analysis:**
 ```bash
 # Analyze competitor's organic keywords
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   site-explorer/organic-keywords \
   '{"select":"keyword,volume,position,traffic","target":"actionnetwork.com","date":"2025-12-01","country":"us","limit":50}'
 
 # Get competitor's top pages
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   site-explorer/top-pages \
   '{"select":"url,traffic,keywords_count","target":"covers.com","date":"2025-12-01","country":"us","limit":20}'
 
 # Domain rating
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   site-explorer/domain-rating \
   '{"target":"thelines.com","date":"2025-12-01"}'
 ```
@@ -243,7 +243,7 @@ python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
 **SERP Analysis:**
 ```bash
 # Check top 10 search results for keyword
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   serp-overview/serp-overview \
   '{"select":"url,position,traffic,domain_rating","country":"us","keyword":"best nfl betting sites","top_positions":10}'
 ```
@@ -442,6 +442,36 @@ Validation passed. Starting Phase 2...
 
 ---
 
+## Keyword Cannibalization Prevention
+
+### Before Adding Keywords to Any Brief:
+
+| Check | Action |
+|-------|--------|
+| Is this a hub page? | Hub pages should NOT target keywords - only link to dedicated pages |
+| Does another page own this keyword? | Check dedicated pages first |
+| Is keyword in wrong cluster? | Move to correct page's brief |
+
+### Keyword Ownership by Page Type:
+
+| Page Type | Owns These Keywords |
+|-----------|---------------------|
+| Hub | NONE (navigation only) |
+| Betting Apps | betting apps, mobile betting, app download |
+| Betting Offers | betting offers, welcome bonus, sign up bonus |
+| Free Bets | free bets, no deposit, risk-free |
+| Football Betting | football betting, football sites |
+| Horse Racing | horse racing betting, horse racing sites |
+| New Betting Sites | new betting sites, new bookmakers |
+
+### Red Flags:
+- ❌ Hub page with 10+ secondary keywords
+- ❌ Hub page with H2 sections matching dedicated page titles
+- ❌ Two pages targeting same "best X" keyword
+- ❌ Comparison page with review-style sections
+
+---
+
 ## 📋 QUICK CHECKLIST FOR BRIEF GENERATION
 
 Copy this checklist for every brief:
@@ -501,21 +531,21 @@ Copy this checklist for every brief:
 ### Issue: "MCP returned 403"
 **Solution:** Use Python workaround immediately
 ```bash
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py keywords-explorer/overview '{"select":"keyword,volume","country":"us","keywords":"your keyword"}'
+python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview '{"select":"keyword,volume","country":"us","keywords":"your keyword"}'
 ```
 
 ### Issue: "phase1.json not found"
 **Solution:** You skipped Phase 1. Go back and complete it.
 ```bash
 # Check if file exists
-ls -la /home/user/topendsports-content-briefs/content-briefs-skill/active/
+ls -la content-briefs-skill/active/
 # If missing, restart Phase 1
 ```
 
 ### Issue: "Only 5 secondary keywords found"
 **Solution:** Minimum is 8. Use related-terms or search-suggestions endpoints
 ```bash
-python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
+python3 .claude/scripts/ahrefs-api.py \
   keywords-explorer/related-terms \
   '{"select":"keyword,volume","country":"us","keywords":"your primary keyword","limit":20}'
 ```
@@ -534,16 +564,16 @@ python3 /home/user/topendsports-content-briefs/.claude/scripts/ahrefs-api.py \
 
 | Phase | Document Path | Purpose |
 |-------|--------------|---------|
-| Phase 1 | `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase1-research.md` | Research instructions |
-| Phase 2 | `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase2-writer.md` | Writer brief instructions |
-| Phase 3 | `/home/user/topendsports-content-briefs/content-briefs-skill/references/phase3-technical.md` | Technical implementation |
+| Phase 1 | `content-briefs-skill/references/phase1-research.md` | Research instructions |
+| Phase 2 | `content-briefs-skill/references/phase2-writer.md` | Writer brief instructions |
+| Phase 3 | `content-briefs-skill/references/phase3-technical.md` | Technical implementation |
 
 **Supporting References:**
 
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/gold-standard-templates.md` - HTML/CSS/JS patterns (MANDATORY for Phase 3)
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/reference-library.md` - Quick lookups
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/lessons-learned.md` - Common mistakes to avoid
-- `/home/user/topendsports-content-briefs/content-briefs-skill/references/ahrefs-keyword-workflow.md` - Keyword research process
+- `content-briefs-skill/references/gold-standard-templates.md` - HTML/CSS/JS patterns (MANDATORY for Phase 3)
+- `content-briefs-skill/references/reference-library.md` - Quick lookups
+- `content-briefs-skill/references/lessons-learned.md` - Common mistakes to avoid
+- `content-briefs-skill/references/ahrefs-keyword-workflow.md` - Keyword research process
 
 ---
 

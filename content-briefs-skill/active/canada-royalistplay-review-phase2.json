@@ -1,0 +1,670 @@
+{
+  "phase": 2,
+  "page_name": "canada-royalistplay-review",
+  "assignment": {
+    "url": "/sport/betting/canada/royalistplay-review.htm",
+    "title": "Royalistplay Sport Review",
+    "target_keyword": "royalistplay sport",
+    "writer": "Lewis Humphries",
+    "priority": "Critical",
+    "template": 1,
+    "template_name": "Brand Review",
+    "market": "Canada",
+    "compliance_age": "19+ (18+ in AB, MB, QC)",
+    "helpline": "1-866-531-2600 (ConnexOntario)",
+    "word_count_target": "3500-4000"
+  },
+  "keyword_optimization": {
+    "primary_keyword": {
+      "keyword": "royalistplay sport",
+      "volume": 100,
+      "placement": "H1 + Title",
+      "title": "Royalistplay Sport Review: Offshore Sportsbook for Canadian Bettors"
+    },
+    "secondary_mappings": [
+      {
+        "keyword": "royalistplay",
+        "volume": 100,
+        "placement": "H2",
+        "section": "About Royalistplay Sportsbook",
+        "title": "What is Royalistplay?",
+        "word_count": "250-300"
+      },
+      {
+        "keyword": "betting bonus",
+        "volume": 350,
+        "placement": "H2",
+        "section": "Welcome Bonus & Promotions",
+        "title": "Royalistplay Welcome Bonus & Promotions",
+        "word_count": "300-350"
+      },
+      {
+        "keyword": "welcome bonus canada",
+        "volume": 350,
+        "placement": "H3",
+        "section": "Sports Welcome Offer",
+        "title": "Sports Welcome Offer: 100% Match Up to $150",
+        "word_count": "150-175"
+      },
+      {
+        "keyword": "sportsbook review",
+        "volume": 350,
+        "placement": "H2",
+        "section": "Comprehensive Sportsbook Analysis",
+        "title": "Comprehensive Sportsbook Analysis",
+        "word_count": "350-400"
+      },
+      {
+        "keyword": "live betting",
+        "volume": 700,
+        "placement": "H3",
+        "section": "Live Betting Features",
+        "title": "Live Betting Features",
+        "word_count": "100-125"
+      },
+      {
+        "keyword": "sports betting app",
+        "volume": 450,
+        "placement": "H2",
+        "section": "Mobile App Experience",
+        "title": "Royalistplay Mobile App Experience",
+        "word_count": "350-400"
+      },
+      {
+        "keyword": "mobile betting",
+        "volume": 100,
+        "placement": "H3",
+        "section": "Mobile Betting",
+        "title": "Mobile Betting: App vs Browser",
+        "word_count": "150-175"
+      },
+      {
+        "keyword": "curacao license",
+        "volume": 100,
+        "placement": "H3",
+        "section": "Licensing & Safety",
+        "title": "Curaçao License Explained",
+        "word_count": "100-125"
+      },
+      {
+        "keyword": "royalistplay casino",
+        "volume": 70,
+        "placement": "H3",
+        "section": "Casino + Sports Combination",
+        "title": "Casino + Sports: Dual Offering Advantage",
+        "word_count": "150-200"
+      },
+      {
+        "keyword": "online sportsbook",
+        "volume": 600,
+        "placement": "Natural",
+        "section": "Introduction + About",
+        "integration": "Use naturally in intro and About section describing Royalistplay as an online sportsbook"
+      },
+      {
+        "keyword": "royalistplay casino review",
+        "volume": 20,
+        "placement": "Natural",
+        "section": "Introduction",
+        "integration": "Mention this is a sports-focused review (not full casino review)"
+      }
+    ],
+    "meta_keywords": "royalistplay sport, royalistplay, betting bonus, welcome bonus canada, sportsbook review, online sportsbook, sports betting app, live betting, mobile betting, curacao license, royalistplay casino"
+  },
+  "content_outline": {
+    "h1": "Royalistplay Sport Review: Offshore Sportsbook for Canadian Bettors",
+    "sections": [
+      {
+        "type": "component",
+        "name": "Last Updated Badge",
+        "position": "After H1"
+      },
+      {
+        "type": "section",
+        "heading_level": "intro",
+        "title": "Introduction",
+        "word_count": "200-250",
+        "keywords_targeted": ["royalistplay sport", "online sportsbook", "royalistplay casino review"],
+        "requirements": [
+          "Opening 40-50 words: Direct answer about Royalistplay",
+          "What it is, who operates it, key differentiator",
+          "Affiliate disclosure 50-75 words",
+          "Quick context: offshore vs regulated",
+          "What reader will learn in this review"
+        ],
+        "mandatory_format": "MUST follow Phase 2 intro format: 100-150 words total"
+      },
+      {
+        "type": "section",
+        "heading_level": "section",
+        "title": "Rating Summary",
+        "word_count": "150-200",
+        "components": [
+          "Overall star rating (e.g., 3.5/5)",
+          "Pros (4-5 bullets with explanations)",
+          "Cons (3-4 bullets with context)",
+          "Best for: Users outside Ontario seeking sports + casino",
+          "Alternative: Link to regulated Ontario sportsbooks"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "What is Royalistplay?",
+        "word_count": "250-300",
+        "keywords_targeted": ["royalistplay", "online sportsbook"],
+        "subsections": [
+          {
+            "topic": "Company Background",
+            "details": "Bellona N.V. operator, launched 2022"
+          },
+          {
+            "topic": "Licensing",
+            "details": "Curaçao eGaming license - offshore context"
+          },
+          {
+            "topic": "Market Availability",
+            "details": "Canada (excluding Ontario and other regulated provinces)"
+          },
+          {
+            "topic": "Dual Offering",
+            "details": "Sports betting + casino games"
+          },
+          {
+            "topic": "Sports Coverage",
+            "details": "27 sporting categories including NHL, NBA, NFL, CFL"
+          }
+        ],
+        "sources_required": [
+          "Royalistplay official website (features)",
+          "Curaçao eGaming verification",
+          "AGCO Ontario regulations (context for exclusion)"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Royalistplay Welcome Bonus & Promotions",
+        "word_count": "300-350",
+        "keywords_targeted": ["betting bonus", "welcome bonus canada"],
+        "h3_subsections": [
+          {
+            "title": "Sports Welcome Offer: 100% Match Up to $150",
+            "word_count": "150-175",
+            "keyword": "welcome bonus canada",
+            "details": [
+              "100% match deposit bonus up to $150 CAD",
+              "Promo code: WELCOME100",
+              "Minimum deposit: 15 CAD",
+              "Maximum bonus: 350 CAD",
+              "Wagering: 5x deposit on singles 1.5+ odds or multiples 1.7+ odds",
+              "How to claim step-by-step"
+            ]
+          },
+          {
+            "title": "Ongoing Promotions",
+            "word_count": "75-100",
+            "details": [
+              "Sports Reload Bonus: 50% up to $75 (code: ROYALBACK100)",
+              "Sports Freebet: $40 Free Bet (code: 25FREE)",
+              "Frequency and availability"
+            ]
+          },
+          {
+            "title": "Complete Terms & Conditions",
+            "word_count": "75-100",
+            "details": [
+              "Time limits to use bonus",
+              "Excluded payment methods",
+              "Wagering contribution by bet type",
+              "Maximum bet limits while wagering"
+            ]
+          }
+        ],
+        "sources_required": [
+          "Royalistplay official T&Cs page",
+          "Screenshot of bonus terms"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Comprehensive Sportsbook Analysis",
+        "word_count": "350-400",
+        "keywords_targeted": ["sportsbook review", "live betting"],
+        "h3_subsections": [
+          {
+            "title": "Sports Coverage: 27 Categories",
+            "word_count": "150-175",
+            "details": [
+              "Major North American sports: NHL, NBA, NFL, CFL, MLB",
+              "International sports: Soccer leagues, tennis, cricket",
+              "Niche markets: eSports, virtual sports",
+              "Market depth comparison (pre-game vs live)",
+              "Odds competitiveness vs regulated books"
+            ]
+          },
+          {
+            "title": "Live Betting Features",
+            "word_count": "100-125",
+            "keyword": "live betting",
+            "details": [
+              "In-play markets available",
+              "Live streaming availability (if any)",
+              "Betting speed and lag testing",
+              "Live stats and visualizations",
+              "Cash-out functionality"
+            ]
+          },
+          {
+            "title": "eSports & Virtual Sports",
+            "word_count": "100-125",
+            "details": [
+              "eSports titles covered (CS:GO, Dota 2, League of Legends)",
+              "Virtual sports options",
+              "Market variety for niche sports"
+            ]
+          }
+        ],
+        "sources_required": [
+          "Royalistplay sportsbook testing (direct)",
+          "Reddit r/sportsbook mentions"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Royalistplay Mobile App Experience",
+        "word_count": "350-400",
+        "keywords_targeted": ["sports betting app", "mobile betting"],
+        "h3_subsections": [
+          {
+            "title": "Mobile Betting: App vs Browser",
+            "word_count": "150-175",
+            "keyword": "mobile betting",
+            "details": [
+              "iOS app availability (if exists)",
+              "Android app availability (if exists)",
+              "Mobile browser experience",
+              "Responsive design quality",
+              "Feature parity: desktop vs mobile"
+            ]
+          },
+          {
+            "title": "Mobile UX & Navigation",
+            "word_count": "100-125",
+            "details": [
+              "Bet slip functionality",
+              "Live betting on mobile",
+              "Account management features",
+              "Speed and performance",
+              "Deposit/withdrawal on mobile"
+            ]
+          },
+          {
+            "title": "Testing Results",
+            "word_count": "100-125",
+            "details": [
+              "Tested on iOS/Android devices",
+              "Load times",
+              "Common issues encountered",
+              "User reviews from app stores (if available)"
+            ]
+          }
+        ],
+        "sources_required": [
+          "Apple App Store (if app exists)",
+          "Google Play Store (if app exists)",
+          "Direct mobile testing",
+          "Reddit mobile experience mentions"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Deposits & Withdrawals",
+        "word_count": "250-300",
+        "components": [
+          "Payment methods for Canadian users",
+          "Interac support (critical for Canada)",
+          "Credit/debit cards accepted",
+          "E-wallets (Skrill, Neteller, etc.)",
+          "Cryptocurrency options",
+          "Minimum deposit: 15 CAD",
+          "Maximum deposit limits",
+          "Withdrawal methods",
+          "Processing times: 24-48 hours (verify)",
+          "Fees (if any)",
+          "Verification requirements (KYC)"
+        ],
+        "table_component": "Payment methods comparison table",
+        "sources_required": [
+          "Royalistplay banking page",
+          "User reports on withdrawal times (Reddit, Trustpilot)"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Is Royalistplay Safe?",
+        "word_count": "200-250",
+        "keywords_targeted": ["curacao license"],
+        "h3_subsections": [
+          {
+            "title": "Curaçao License Explained",
+            "word_count": "100-125",
+            "keyword": "curacao license",
+            "details": [
+              "Curaçao eGaming license details",
+              "What Curaçao licensing means",
+              "Offshore vs regulated comparison",
+              "Player protections available"
+            ]
+          }
+        ],
+        "additional_content": [
+          "SSL encryption (verify certificate)",
+          "Responsible gambling tools (self-exclusion, limits)",
+          "Data protection measures",
+          "Fair gaming / RNG certification (if any)",
+          "Why excluded from Ontario market"
+        ],
+        "sources_required": [
+          "Curaçao eGaming verification",
+          "SSL certificate check",
+          "AGCO Ontario regulations"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Customer Support Options",
+        "word_count": "150-200",
+        "components": [
+          "Live chat availability (24/7 or limited hours)",
+          "Email support (response time testing)",
+          "Phone support (if available)",
+          "FAQ section quality",
+          "Language support (English/French for Canada)",
+          "Support quality based on user reviews"
+        ],
+        "sources_required": [
+          "Direct support testing",
+          "User reviews mentioning support"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "What Users Say About Royalistplay",
+        "word_count": "250-300",
+        "components": [
+          "Reddit mentions analysis (r/sportsbook, r/cantax)",
+          "Trustpilot rating (if available)",
+          "Common praise points",
+          "Common complaints",
+          "3-4 user testimonials (quoted)",
+          "Overall sentiment analysis"
+        ],
+        "sources_required": [
+          "Reddit search: 'royalistplay' in r/sportsbook",
+          "Trustpilot.com/review/royalistplay.com",
+          "AskGamblers or similar review sites"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Royalistplay Pros & Cons",
+        "word_count": "200-250",
+        "format": "Two-column list with explanations",
+        "pros": [
+          "Generous welcome bonus (100% up to $150)",
+          "Wide sports coverage (27 categories)",
+          "Sports + casino combination",
+          "eSports and virtual sports available",
+          "Cryptocurrency payment options"
+        ],
+        "cons": [
+          "Offshore license (not regulated in Canada)",
+          "Not available in Ontario",
+          "Limited customer support hours (verify)",
+          "Newer operator (2022 launch)"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h3",
+        "title": "Casino + Sports: Dual Offering Advantage",
+        "word_count": "150-200",
+        "keywords_targeted": ["royalistplay casino"],
+        "parent_section": "Embedded after Sportsbook Analysis or as standalone",
+        "components": [
+          "Casino games available (slots, table games, live casino)",
+          "Single account for both products",
+          "Cross-platform promotions",
+          "Convenience factor",
+          "Note: This is sports-focused review (link to full casino review if exists)"
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Frequently Asked Questions",
+        "word_count": "400-500",
+        "faqs": [
+          {
+            "question": "Is Royalistplay legal in Canada?",
+            "keyword_target": "royalistplay legal canada",
+            "answer_points": [
+              "Offshore sportsbook with Curaçao license",
+              "Not regulated by Canadian provinces",
+              "Legal gray area (not prohibited federally)",
+              "Provincial availability (excluding Ontario, regulated provinces)"
+            ]
+          },
+          {
+            "question": "Can I use Royalistplay in Ontario?",
+            "keyword_target": "royalistplay ontario",
+            "answer_points": [
+              "No - Ontario has regulated market (iGaming Ontario)",
+              "Royalistplay is geo-blocked in Ontario",
+              "Alternative: Regulated Ontario sportsbooks (link)"
+            ]
+          },
+          {
+            "question": "What is the minimum deposit at Royalistplay?",
+            "keyword_target": "royalistplay minimum deposit",
+            "answer_points": [
+              "15 CAD minimum deposit",
+              "Payment methods available",
+              "How to make first deposit"
+            ]
+          },
+          {
+            "question": "Does Royalistplay have a mobile app?",
+            "keyword_target": "royalistplay app",
+            "answer_points": [
+              "iOS/Android app availability (verify)",
+              "Mobile browser alternative",
+              "Features available on mobile"
+            ]
+          },
+          {
+            "question": "How long do withdrawals take at Royalistplay?",
+            "keyword_target": "royalistplay withdrawal time",
+            "answer_points": [
+              "Stated processing time (24-48 hours typical)",
+              "User-reported times",
+              "Verification requirements",
+              "Withdrawal methods"
+            ]
+          },
+          {
+            "question": "What sports can I bet on at Royalistplay?",
+            "keyword_target": "royalistplay sports",
+            "answer_points": [
+              "27 sporting categories",
+              "Major sports: NHL, NBA, NFL, CFL, MLB, soccer, tennis",
+              "eSports and virtual sports"
+            ]
+          },
+          {
+            "question": "Is Royalistplay safe and licensed?",
+            "keyword_target": "royalistplay safe",
+            "answer_points": [
+              "Curaçao eGaming license",
+              "SSL encryption",
+              "Offshore vs regulated comparison",
+              "Responsible gambling tools"
+            ]
+          },
+          {
+            "question": "What bonuses does Royalistplay offer?",
+            "keyword_target": "royalistplay bonus",
+            "answer_points": [
+              "100% welcome bonus up to $150 (WELCOME100)",
+              "Reload bonus 50% up to $75",
+              "$40 free bet offer",
+              "Terms and wagering requirements"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "heading_level": "h2",
+        "title": "Responsible Gambling",
+        "word_count": "150-200",
+        "components": [
+          "Self-exclusion tools available",
+          "Deposit and wager limits",
+          "Reality check features",
+          "Canadian helplines: ConnexOntario 1-866-531-2600",
+          "Provincial resources by region",
+          "Problem gambling signs",
+          "Link to /sport/betting/canada/responsible-gambling.htm"
+        ]
+      }
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "Best Sports Betting Sites Canada",
+      "url": "/sport/betting/canada/index.htm",
+      "placement": "Introduction + Rating Summary alternatives",
+      "keyword": "sports betting canada"
+    },
+    {
+      "anchor": "Best Sports Betting Apps Canada",
+      "url": "/sport/betting/canada/betting-apps.htm",
+      "placement": "Mobile App section",
+      "keyword": "betting apps canada"
+    },
+    {
+      "anchor": "New Betting Sites Canada",
+      "url": "/sport/betting/canada/new-betting-sites.htm",
+      "placement": "About Royalistplay section (launched 2022)",
+      "keyword": "new betting sites canada"
+    },
+    {
+      "anchor": "Treasure Spins Sport Review",
+      "url": "/sport/betting/canada/treasurespins-review.htm",
+      "placement": "Competitors comparison",
+      "keyword": "treasure spins sport"
+    },
+    {
+      "anchor": "Wyns Sport Review",
+      "url": "/sport/betting/canada/wyns-review.htm",
+      "placement": "Competitors comparison",
+      "keyword": "wyns sport"
+    },
+    {
+      "anchor": "Lucky7even Sport Review",
+      "url": "/sport/betting/canada/lucky7even-review.htm",
+      "placement": "Competitors comparison",
+      "keyword": "lucky7even sport"
+    },
+    {
+      "anchor": "Festival Play Sport Review",
+      "url": "/sport/betting/canada/festivalplay-review.htm",
+      "placement": "Competitors comparison",
+      "keyword": "festival play sport"
+    },
+    {
+      "anchor": "Parlay Calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "placement": "Sportsbook Analysis or sidebar",
+      "keyword": "parlay calculator"
+    },
+    {
+      "anchor": "Odds Calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "placement": "Sportsbook Analysis or sidebar",
+      "keyword": "odds calculator"
+    },
+    {
+      "anchor": "Sports Betting Odds Explained",
+      "url": "/sport/betting/guides/odds-explained.htm",
+      "placement": "Sportsbook Analysis section",
+      "keyword": "betting odds"
+    },
+    {
+      "anchor": "How to Bet on Sports",
+      "url": "/sport/betting/guides/how-to-bet.htm",
+      "placement": "Getting Started or Introduction",
+      "keyword": "how to bet on sports"
+    },
+    {
+      "anchor": "Responsible Gambling Canada",
+      "url": "/sport/betting/canada/responsible-gambling.htm",
+      "placement": "Responsible Gambling section",
+      "keyword": "responsible gambling"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_primary": [
+      "Royalistplay official website (royalistplay.com) - features, bonus T&Cs, sports coverage",
+      "Reddit r/sportsbook - user experiences with Royalistplay",
+      "Trustpilot - Royalistplay reviews (if available)"
+    ],
+    "tier_2_verification": [
+      "Curaçao eGaming license verification",
+      "ConnexOntario helpline information (1-866-531-2600)",
+      "AGCO Ontario regulations (context for geo-blocking)",
+      "Apple App Store / Google Play Store (if apps exist)"
+    ],
+    "tier_3_contextual": [
+      "Offshore vs regulated betting comparison articles",
+      "Canadian gambling statistics and trends"
+    ],
+    "forbidden": [
+      "Do NOT cite other affiliate review sites for pros/cons",
+      "Do NOT use competitor reviews as sources for claims"
+    ]
+  },
+  "compliance": {
+    "age_restriction": "19+ (18+ in AB, MB, QC)",
+    "helpline": "1-866-531-2600 (ConnexOntario)",
+    "affiliate_disclosure": "Required in introduction (50-75 words)",
+    "responsible_gambling_section": "Mandatory at end",
+    "no_dated_language": "Use Last Updated badge, not '2025' in H1"
+  },
+  "technical_notes": {
+    "badge_code": "RPL",
+    "badge_color": "#4CAF50",
+    "rating_widget": "Include star rating in summary",
+    "comparison_table": "Not required for single-brand review",
+    "interactive_elements": [
+      "Pros/cons checklist",
+      "Payment methods table",
+      "Sports coverage expandable list"
+    ]
+  },
+  "metadata": {
+    "created": "2025-12-15",
+    "phase1_file": "canada-royalistplay-review-phase1.json",
+    "ready_for_phase3": false,
+    "writer_brief_generated": true
+  }
+}

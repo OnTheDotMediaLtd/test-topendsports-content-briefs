@@ -1,0 +1,370 @@
+{
+  "project_metadata": {
+    "project_name": "NFL Betting Sites",
+    "phase": 2,
+    "phase_name": "Writer Brief Development",
+    "created_date": "2024-12-10",
+    "writer": "Lewis",
+    "status": "Ready for Writer"
+  },
+  "content_outline": {
+    "article_title": "Best NFL Betting Sites & Apps 2024",
+    "meta_description": "Compare the top NFL sportsbooks and betting apps. Expert reviews of FanDuel, DraftKings, BetMGM and more with bonuses and features.",
+    "word_count_target": 3200,
+    "reading_time_estimate": "12-15 minutes",
+    "primary_keyword": "nfl betting sites",
+    "target_audience": "US bettors seeking reliable NFL sportsbooks",
+    "sections": [
+      {
+        "section_number": 1,
+        "heading_level": "H2",
+        "heading_text": "Best NFL Betting Sites - Quick Comparison",
+        "target_word_count": 300,
+        "content_notes": "Include comparison table with 6-8 sportsbooks, key features, welcome bonuses, and ratings",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "How We Ranked the Best NFL Sportsbooks",
+            "target_word_count": 150,
+            "content_guidelines": "Explain selection criteria: regulation, features, bonuses, user experience, customer support"
+          }
+        ]
+      },
+      {
+        "section_number": 2,
+        "heading_level": "H2",
+        "heading_text": "Top NFL Sportsbooks - Detailed Reviews",
+        "target_word_count": 1200,
+        "content_notes": "Write individual reviews for each of 6-8 brands, ~200 words per brand",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "1. FanDuel - Best for Same-Game Parlays",
+            "target_word_count": 200,
+            "content_guidelines": "Cover strengths, unique features, welcome offer, mobile app quality, customer support"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "2. BetMGM - Best for Live Betting",
+            "target_word_count": 200,
+            "content_guidelines": "Similar structure to FanDuel review"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "3. DraftKings - Best for Rewards Program",
+            "target_word_count": 200,
+            "content_guidelines": "Similar structure to FanDuel review"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "4. Bet365 - Best for Global Experience",
+            "target_word_count": 200,
+            "content_guidelines": "Similar structure to FanDuel review"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "5. Caesars - Best for Loyalty Program",
+            "target_word_count": 150,
+            "content_guidelines": "Similar structure to FanDuel review"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "6. theScore BET - Best for Newcomers",
+            "target_word_count": 150,
+            "content_guidelines": "Similar structure to FanDuel review"
+          }
+        ]
+      },
+      {
+        "section_number": 3,
+        "heading_level": "H2",
+        "heading_text": "Understanding NFL Betting Types",
+        "target_word_count": 400,
+        "content_notes": "Educational content on betting types and terminology",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "Moneyline Bets",
+            "target_word_count": 100,
+            "content_guidelines": "Explain straight betting on win/loss"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "Spread Bets",
+            "target_word_count": 100,
+            "content_guidelines": "Explain point spreads and how they work"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "Parlay Bets",
+            "target_word_count": 100,
+            "content_guidelines": "Explain combining multiple bets"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "Prop Bets & Live Betting",
+            "target_word_count": 100,
+            "content_guidelines": "Explain prop bets and in-game betting"
+          }
+        ]
+      },
+      {
+        "section_number": 4,
+        "heading_level": "H2",
+        "heading_text": "Welcome Bonuses & Promotions",
+        "target_word_count": 350,
+        "content_notes": "Compare welcome offers across top sportsbooks",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "How to Claim Welcome Bonuses",
+            "target_word_count": 150,
+            "content_guidelines": "Step-by-step process, terms & conditions, wagering requirements"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "Ongoing Promotions & Loyalty Rewards",
+            "target_word_count": 200,
+            "content_guidelines": "Types of promos, reload bonuses, free bets, loyalty tiers"
+          }
+        ]
+      },
+      {
+        "section_number": 5,
+        "heading_level": "H2",
+        "heading_text": "Mobile Apps & User Experience",
+        "target_word_count": 300,
+        "content_notes": "Compare app quality, features, ease of use",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "iOS vs Android Considerations",
+            "target_word_count": 150,
+            "content_guidelines": "Platform differences, app store ratings, performance"
+          }
+        ]
+      },
+      {
+        "section_number": 6,
+        "heading_level": "H2",
+        "heading_text": "NFL Betting Strategy & Tips",
+        "target_word_count": 300,
+        "content_notes": "Educational content for responsible betting",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "Bankroll Management",
+            "target_word_count": 100,
+            "content_guidelines": "How much to bet, unit system, avoiding excessive risk"
+          },
+          {
+            "heading_level": "H3",
+            "heading_text": "Research & Analysis",
+            "target_word_count": 100,
+            "content_guidelines": "Key stats to analyze, where to find information"
+          }
+        ]
+      },
+      {
+        "section_number": 7,
+        "heading_level": "H2",
+        "heading_text": "Is NFL Betting Legal?",
+        "target_word_count": 250,
+        "content_notes": "Legal and regulatory information",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "State Regulations & Age Requirements",
+            "target_word_count": 150,
+            "content_guidelines": "Federalism, state-by-state variations, 21+ requirement"
+          }
+        ]
+      },
+      {
+        "section_number": 8,
+        "heading_level": "H2",
+        "heading_text": "Responsible Gambling & Getting Help",
+        "target_word_count": 200,
+        "content_notes": "Important safety and support information",
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "heading_text": "Recognizing Problem Gambling",
+            "target_word_count": 100,
+            "content_guidelines": "Warning signs, support resources, self-exclusion options"
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_mapping": {
+    "primary_keyword": {
+      "keyword": "nfl betting sites",
+      "placement": "H2 - Section 1 title and intro, throughout article"
+    },
+    "secondary_keyword_distribution": [
+      {
+        "keyword": "best nfl sportsbooks",
+        "intent": "Primary H2 - Section 1",
+        "placement_notes": "Include in comparison section"
+      },
+      {
+        "keyword": "best nfl betting apps",
+        "intent": "H2 - Section 5 (Mobile Apps)",
+        "placement_notes": "Natural placement in apps section"
+      },
+      {
+        "keyword": "nfl odds",
+        "intent": "H2 - Section 3 (Understanding Betting)",
+        "placement_notes": "Explain odds in betting types section"
+      },
+      {
+        "keyword": "nfl spreads today",
+        "intent": "H3 - Spread Bets subsection",
+        "placement_notes": "Natural fit in spread explanation"
+      },
+      {
+        "keyword": "nfl parlay betting",
+        "intent": "H3 - Parlay Bets subsection",
+        "placement_notes": "Detailed explanation of parlays"
+      },
+      {
+        "keyword": "nfl live betting",
+        "intent": "H3 - Live Betting subsection",
+        "placement_notes": "Feature highlight in betting types"
+      },
+      {
+        "keyword": "nfl betting lines",
+        "intent": "H3 - Spread Bets subsection",
+        "placement_notes": "Explain betting lines"
+      },
+      {
+        "keyword": "nfl prop bets",
+        "intent": "H3 - Prop Bets subsection",
+        "placement_notes": "Dedicated prop bet explanation"
+      },
+      {
+        "keyword": "how to bet on nfl games",
+        "intent": "H2 - Section 3 intro, H3 subsections",
+        "placement_notes": "Guide format naturally supports this"
+      },
+      {
+        "keyword": "legal nfl betting",
+        "intent": "H2 - Section 7",
+        "placement_notes": "Dedicated legal section"
+      },
+      {
+        "keyword": "nfl betting predictions",
+        "intent": "H2 - Section 6 (Strategy)",
+        "placement_notes": "Mention research and expert picks"
+      },
+      {
+        "keyword": "fanduel nfl promotions",
+        "intent": "H3 - FanDuel brand review",
+        "placement_notes": "Brand-specific promotion highlight"
+      }
+    ]
+  },
+  "faq_section": {
+    "intro_text": "Frequently asked questions about NFL betting and sportsbooks",
+    "questions": [
+      {
+        "question_number": 1,
+        "question": "What is the best NFL betting site?",
+        "answer_guidelines": "Highlight FanDuel as #1, mention it depends on user preferences, reference comparison table",
+        "target_answer_length": "100-150 words",
+        "keywords_to_include": ["best nfl betting sites", "fanduel"]
+      },
+      {
+        "question_number": 2,
+        "question": "Are NFL betting apps legal in the US?",
+        "answer_guidelines": "Explain legal in 31+ states, age requirements (21+), mention state regulation, link to legal section",
+        "target_answer_length": "100-150 words",
+        "keywords_to_include": ["legal nfl betting", "nfl betting apps"]
+      },
+      {
+        "question_number": 3,
+        "question": "What are the best welcome bonuses for NFL betting?",
+        "answer_guidelines": "List top 3-4 offers, explain wagering requirements, mention sign-up process",
+        "target_answer_length": "100-150 words",
+        "keywords_to_include": ["best nfl sportsbooks", "welcome bonus"]
+      },
+      {
+        "question_number": 4,
+        "question": "Can I bet on NFL games live?",
+        "answer_guidelines": "Explain live betting availability, mention apps that offer it, explain how it works",
+        "target_answer_length": "80-120 words",
+        "keywords_to_include": ["nfl live betting", "in-game betting"]
+      },
+      {
+        "question_number": 5,
+        "question": "What is a parlay bet in NFL betting?",
+        "answer_guidelines": "Define parlay, explain risk/reward, give example, mention same-game parlay option",
+        "target_answer_length": "100-150 words",
+        "keywords_to_include": ["nfl parlay betting", "same-game parlay"]
+      },
+      {
+        "question_number": 6,
+        "question": "How much should I bet on NFL games?",
+        "answer_guidelines": "Discuss bankroll management, unit system, responsible gambling, never bet more than you can afford",
+        "target_answer_length": "100-150 words",
+        "keywords_to_include": ["nfl betting", "responsible gambling"]
+      },
+      {
+        "question_number": 7,
+        "question": "Which sportsbook has the best mobile app for NFL betting?",
+        "answer_guidelines": "Mention DraftKings and FanDuel, discuss app features, user ratings, ease of use",
+        "target_answer_length": "100-150 words",
+        "keywords_to_include": ["best nfl betting apps", "mobile app"]
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier_1_preferred": true,
+    "tier_1_sources": [
+      "Apple App Store - app reviews and ratings for sportsbooks",
+      "Google Play Store - app reviews and ratings for Android apps",
+      "Reddit r/sportsbook - user experiences and community feedback",
+      "Sportsbook official websites and terms & conditions",
+      "National Council on Problem Gambling (NCPG)",
+      "American Gambling Association research",
+      "State gaming commission websites (for regulation info)"
+    ],
+    "tier_2_sources": [
+      "Sports betting journalist articles",
+      "Industry reports from sports betting analysts",
+      "User review aggregators (Trustpilot, similar)"
+    ],
+    "research_guidelines": {
+      "primary_focus": "User reviews, app store ratings, official terms and conditions",
+      "avoid": "Unverified affiliate claims, outdated bonus information",
+      "verify": "All promotional offers with official sportsbook websites",
+      "note": "Bonuses change frequently - use current verifiable information only"
+    }
+  },
+  "content_guidelines": {
+    "tone": "Expert, helpful, balanced, non-promotional",
+    "perspective": "User-centric - help readers find best option for their needs",
+    "affiliate_disclosure": "Must be clear about affiliate relationships if applicable",
+    "accuracy": "All bonus amounts and features must be verified with official sources",
+    "neutrality": "Compare pros and cons fairly for each sportsbook",
+    "responsibility": "Include responsible gambling information throughout",
+    "claims": "Avoid guarantees or overpromising outcomes"
+  },
+  "deliverable_checklist": {
+    "outline_sections": 8,
+    "outline_subsections": 12,
+    "target_word_count": 3200,
+    "keyword_count": 13,
+    "faq_questions": 7,
+    "brand_comparisons": 6,
+    "estimated_completion": "5-7 business days",
+    "review_date": "2024-12-17"
+  },
+  "next_phase": {
+    "phase": 3,
+    "phase_name": "AI Enhancement & Optimization",
+    "inputs_needed": "Completed article draft from writer",
+    "deliverables": "HTML components, schema markup, interactive elements, final optimized article"
+  }
+}

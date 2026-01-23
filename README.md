@@ -33,7 +33,7 @@ See [mcp-server/README.md](mcp-server/README.md) for installation and usage.
 ## Requirements
 
 - Claude Code CLI
-- Python 3.x (for document conversion scripts)
+- Python 3.10+ (for document conversion scripts)
 - Ahrefs API access (for SEO data)
 
 ## Environment Setup

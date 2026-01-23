@@ -1,0 +1,875 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/canada/new-betting-sites.htm",
+    "page_name": "canada-new-betting-sites",
+    "page_title": "New Betting Sites Canada",
+    "market": "Canada",
+    "writer": "Tom Goldsmith",
+    "template_type": "2",
+    "template_name": "Comparison",
+    "target_word_count": 9000,
+    "phase1_reference": "content-briefs-skill/active/canada-new-betting-sites-phase1.json"
+  },
+  "keyword_mapping": {
+    "primary_keyword": {
+      "keyword": "new betting sites canada",
+      "volume": 100,
+      "placement": ["H1", "Title tag", "Meta description", "First paragraph"]
+    },
+    "secondary_keywords_mapped": [
+      {
+        "keyword": "betting apps ontario",
+        "volume": 350,
+        "section_type": "H2",
+        "section_title": "Best Betting Apps in Ontario: New Operators",
+        "word_count": 600,
+        "placement": "After brand reviews"
+      },
+      {
+        "keyword": "sports betting quebec",
+        "volume": 350,
+        "section_type": "H2",
+        "section_title": "Sports Betting in Quebec: New Sites Available",
+        "word_count": 550,
+        "placement": "After Ontario section"
+      },
+      {
+        "keyword": "sports betting apps canada",
+        "volume": 300,
+        "section_type": "H2",
+        "section_title": "Best New Sports Betting Apps in Canada",
+        "word_count": 700,
+        "placement": "After provincial sections"
+      },
+      {
+        "keyword": "betting sites ontario",
+        "volume": 200,
+        "section_type": "H3",
+        "section_title": "Ontario-Licensed vs Offshore Betting Sites",
+        "word_count": 300,
+        "placement": "Within Ontario section"
+      },
+      {
+        "keyword": "top betting sites canada",
+        "volume": 200,
+        "section_type": "H2",
+        "section_title": "Top New Betting Sites Canada 2025",
+        "word_count": 500,
+        "placement": "After intro, before comparison table"
+      },
+      {
+        "keyword": "best football betting sites",
+        "volume": 200,
+        "section_type": "H3",
+        "section_title": "Football Betting Coverage on New Sites",
+        "word_count": 350,
+        "placement": "Within sports coverage section"
+      },
+      {
+        "keyword": "nfl betting sites canada",
+        "volume": 150,
+        "section_type": "H3",
+        "section_title": "NFL Betting Options on New Canadian Sites",
+        "word_count": 300,
+        "placement": "Within sports coverage section"
+      },
+      {
+        "keyword": "canadian gambling apps",
+        "volume": 150,
+        "section_type": "H3",
+        "section_title": "Mobile Gambling Apps: New vs Established",
+        "word_count": 350,
+        "placement": "Within mobile apps section"
+      },
+      {
+        "keyword": "best new betting sites",
+        "volume": 70,
+        "section_type": "H3",
+        "section_title": "What Makes These Betting Sites 'New'?",
+        "word_count": 400,
+        "placement": "After top picks section"
+      },
+      {
+        "keyword": "betmgm ontario betting promo code",
+        "volume": 70,
+        "section_type": "FAQ",
+        "section_title": "Do new betting sites offer better promo codes than established operators?",
+        "word_count": 150,
+        "placement": "FAQ section"
+      },
+      {
+        "keyword": "best casino sites canada",
+        "volume": 50,
+        "section_type": "FAQ",
+        "section_title": "Do new betting sites also offer casino games?",
+        "word_count": 150,
+        "placement": "FAQ section"
+      },
+      {
+        "keyword": "newest betting sites",
+        "volume": 20,
+        "section_type": "Natural",
+        "section_title": "Natural mention in introduction",
+        "word_count": 0,
+        "placement": "Introduction paragraph"
+      }
+    ]
+  },
+  "content_outline": {
+    "total_sections": 18,
+    "sections": [
+      {
+        "section_number": 1,
+        "heading_level": "H1",
+        "title": "New Betting Sites Canada: Latest Operators for 2025",
+        "word_count": 0,
+        "notes": "Title only - NO dated language like '2025' in H1. Use Last Updated badge instead."
+      },
+      {
+        "section_number": 2,
+        "heading_level": "Component",
+        "title": "Last Updated Badge",
+        "word_count": 0,
+        "notes": "Dynamic badge showing current date"
+      },
+      {
+        "section_number": 3,
+        "heading_level": "Component",
+        "title": "Introduction with Disclosure",
+        "word_count": 150,
+        "requirements": [
+          "First sentence: Direct answer naming top 3 new sites",
+          "Authority statement (testing methodology)",
+          "Affiliate disclosure (50-75 words)",
+          "Total: 100-150 words maximum"
+        ],
+        "keywords_targeted": ["new betting sites canada", "newest betting sites"]
+      },
+      {
+        "section_number": 4,
+        "heading_level": "H2",
+        "title": "Top New Betting Sites Canada 2025",
+        "word_count": 500,
+        "requirements": [
+          "Define criteria for 'new' (2024-2025 launches)",
+          "Quick overview of top 3 picks",
+          "Why these sites stand out from established operators",
+          "Innovation highlights (crypto, AI, gamification)"
+        ],
+        "keywords_targeted": ["top betting sites canada"]
+      },
+      {
+        "section_number": 5,
+        "heading_level": "Component",
+        "title": "Comparison Table: 9 New Betting Sites",
+        "word_count": 0,
+        "requirements": [
+          "All 9 brands from Phase 1",
+          "Columns: Sportsbook, Launch Date, Key Innovation, Welcome Bonus, T&Cs",
+          "Mobile scroll hint for responsive design",
+          "Letter badge logos (no images)",
+          "Compliance disclaimer at bottom"
+        ],
+        "brands": [
+          "Treasure Spins",
+          "Royalistplay",
+          "Wyns",
+          "Lucky7even",
+          "Festival Play",
+          "Lizaro",
+          "Legendplay",
+          "Funbet",
+          "DirectionBet"
+        ]
+      },
+      {
+        "section_number": 6,
+        "heading_level": "H3",
+        "title": "What Makes These Betting Sites 'New'?",
+        "word_count": 400,
+        "requirements": [
+          "Define criteria for 'new' status",
+          "Launch date (2024-2025)",
+          "Market entry to Canadian market",
+          "Technological innovation",
+          "New licensing/regulation compliance",
+          "Comparison to established operators"
+        ],
+        "keywords_targeted": ["best new betting sites"]
+      },
+      {
+        "section_number": 7,
+        "heading_level": "H2",
+        "title": "Detailed Reviews: 9 New Canadian Betting Sites",
+        "word_count": 5400,
+        "subsections": [
+          {
+            "brand": "Treasure Spins",
+            "word_count": 600,
+            "components": [
+              "Key Features (200 words) - launch date, innovations, bonus, differentiators",
+              "Mobile Experience (150 words) - iOS/Android, UI/UX, features, performance",
+              "Pros & Cons (150 words) - user reviews, App Store citations, trust signals",
+              "Current Bonus (100 words) - exact offer, terms, market comparison"
+            ]
+          },
+          {
+            "brand": "Royalistplay",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "Wyns",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "Lucky7even",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "Festival Play",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "Lizaro",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "Legendplay",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "Funbet",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          },
+          {
+            "brand": "DirectionBet",
+            "word_count": 600,
+            "components": ["Same structure as above"]
+          }
+        ],
+        "notes": "Each brand MUST include Mobile Experience subsection (100-150 words) as per requirements"
+      },
+      {
+        "section_number": 8,
+        "heading_level": "H2",
+        "title": "New vs Established Betting Sites: Complete Comparison",
+        "word_count": 600,
+        "requirements": [
+          "Innovation comparison (new sites = cutting edge)",
+          "Trust and track record (established = proven)",
+          "Welcome bonuses (new = more aggressive)",
+          "Market coverage (established = wider)",
+          "Customer support (varies)",
+          "Table comparing new vs established across 6-8 criteria"
+        ]
+      },
+      {
+        "section_number": 9,
+        "heading_level": "H2",
+        "title": "Best Betting Apps in Ontario: New Operators",
+        "word_count": 600,
+        "requirements": [
+          "Ontario licensing explained (AGCO)",
+          "Which new sites are licensed vs offshore",
+          "iGaming Ontario requirements",
+          "App availability for Ontario residents",
+          "Provincial-specific bonuses"
+        ],
+        "keywords_targeted": ["betting apps ontario"],
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "title": "Ontario-Licensed vs Offshore Betting Sites",
+            "word_count": 300,
+            "keywords_targeted": ["betting sites ontario"]
+          }
+        ]
+      },
+      {
+        "section_number": 10,
+        "heading_level": "H2",
+        "title": "Sports Betting in Quebec: New Sites Available",
+        "word_count": 550,
+        "requirements": [
+          "Quebec regulatory landscape (Loto-Quebec monopoly)",
+          "Offshore sites serving Quebec bettors",
+          "French language support on new platforms",
+          "Payment methods popular in Quebec",
+          "Legal status clarification"
+        ],
+        "keywords_targeted": ["sports betting quebec"]
+      },
+      {
+        "section_number": 11,
+        "heading_level": "H2",
+        "title": "Best New Sports Betting Apps in Canada",
+        "word_count": 700,
+        "requirements": [
+          "App Store and Google Play availability",
+          "Download and installation process",
+          "App-exclusive features on new platforms",
+          "Mobile performance comparison",
+          "User ratings and reviews analysis"
+        ],
+        "keywords_targeted": ["sports betting apps canada"],
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "title": "Mobile Gambling Apps: New vs Established",
+            "word_count": 350,
+            "keywords_targeted": ["canadian gambling apps"]
+          }
+        ]
+      },
+      {
+        "section_number": 12,
+        "heading_level": "H2",
+        "title": "Popular Sports Coverage on New Betting Sites",
+        "word_count": 800,
+        "requirements": [
+          "NHL betting (Canada's favorite)",
+          "CFL coverage",
+          "NFL betting popularity",
+          "Soccer/football markets",
+          "Comparison of sports offerings across new sites"
+        ],
+        "subsections": [
+          {
+            "heading_level": "H3",
+            "title": "NFL Betting Options on New Canadian Sites",
+            "word_count": 300,
+            "keywords_targeted": ["nfl betting sites canada"]
+          },
+          {
+            "heading_level": "H3",
+            "title": "Football Betting Coverage on New Sites",
+            "word_count": 350,
+            "keywords_targeted": ["best football betting sites"]
+          }
+        ]
+      },
+      {
+        "section_number": 13,
+        "heading_level": "H2",
+        "title": "Payment Methods Comparison: New Betting Sites",
+        "word_count": 500,
+        "requirements": [
+          "Traditional methods (credit/debit, Interac)",
+          "Crypto payment options (Lizaro focus)",
+          "E-wallets and digital payments",
+          "Deposit and withdrawal speeds",
+          "Minimum/maximum limits",
+          "Comparison table across all 9 brands"
+        ]
+      },
+      {
+        "section_number": 14,
+        "heading_level": "H2",
+        "title": "How to Choose a New Betting Site in Canada",
+        "word_count": 600,
+        "requirements": [
+          "Licensing verification (AGCO, offshore licensing)",
+          "Bonus value assessment (use calculator links)",
+          "Sports coverage needs",
+          "Payment method preferences",
+          "Mobile experience priority",
+          "Trust and safety signals",
+          "Customer support quality",
+          "Step-by-step decision framework"
+        ]
+      },
+      {
+        "section_number": 15,
+        "heading_level": "H2",
+        "title": "Complete Terms & Conditions: All 9 Brands",
+        "word_count": 900,
+        "requirements": [
+          "Detailed T&Cs for EACH brand (100 words each)",
+          "Welcome bonus terms",
+          "Wagering requirements",
+          "Eligibility criteria",
+          "Provincial restrictions",
+          "Time limits",
+          "Links to full official T&Cs",
+          "Last verified dates"
+        ],
+        "notes": "CRITICAL: Must include T&Cs for ALL brands, not just top 3"
+      },
+      {
+        "section_number": 16,
+        "heading_level": "H2",
+        "title": "Frequently Asked Questions",
+        "word_count": 1200,
+        "subsections": [
+          {
+            "question": "What are the newest betting sites in Canada?",
+            "word_count": 150,
+            "keywords_targeted": ["newest betting sites", "new betting sites canada"]
+          },
+          {
+            "question": "Are new betting sites safe to use in Canada?",
+            "word_count": 150,
+            "keywords_targeted": []
+          },
+          {
+            "question": "Do new betting sites offer better promo codes than established operators?",
+            "word_count": 150,
+            "keywords_targeted": ["betmgm ontario betting promo code"]
+          },
+          {
+            "question": "Which new betting sites are legal in Ontario?",
+            "word_count": 150,
+            "keywords_targeted": ["betting sites ontario", "betting apps ontario"]
+          },
+          {
+            "question": "Do new betting sites also offer casino games?",
+            "word_count": 150,
+            "keywords_targeted": ["best casino sites canada"]
+          },
+          {
+            "question": "How do new betting sites compare to FanDuel and Bet365?",
+            "word_count": 150,
+            "keywords_targeted": []
+          },
+          {
+            "question": "What payment methods do new betting sites accept?",
+            "word_count": 150,
+            "keywords_targeted": []
+          },
+          {
+            "question": "Can I use new betting sites in Quebec?",
+            "word_count": 150,
+            "keywords_targeted": ["sports betting quebec"]
+          }
+        ],
+        "total_faqs": 8
+      },
+      {
+        "section_number": 17,
+        "heading_level": "H2",
+        "title": "Responsible Gambling for New Users",
+        "word_count": 300,
+        "requirements": [
+          "Age requirement (19+ in most provinces, 18+ in AB, MB, QC)",
+          "Self-exclusion tools on new platforms",
+          "Deposit limits and controls",
+          "Canadian Problem Gambling hotline: 1-800-463-1554",
+          "Provincial support resources",
+          "Warning signs of problem gambling",
+          "Links to help organizations"
+        ]
+      },
+      {
+        "section_number": 18,
+        "heading_level": "Component",
+        "title": "References and Sources",
+        "word_count": 0,
+        "requirements": [
+          "App Store reviews (primary source)",
+          "Google Play reviews (primary source)",
+          "Reddit threads (primary source)",
+          "Official brand websites (features only)",
+          "AGCO licensing database",
+          "Loto-Quebec official site"
+        ]
+      }
+    ]
+  },
+  "faqs": {
+    "total_count": 8,
+    "target_keywords_coverage": 6,
+    "faqs": [
+      {
+        "question": "What are the newest betting sites in Canada?",
+        "answer_length": "150 words",
+        "keywords": ["newest betting sites", "new betting sites canada"],
+        "answer_points": [
+          "List all 9 brands with launch dates",
+          "Define criteria for 'new' (2024-2025)",
+          "Mention key innovations each brings",
+          "Link to comparison table"
+        ]
+      },
+      {
+        "question": "Are new betting sites safe to use in Canada?",
+        "answer_length": "150 words",
+        "keywords": [],
+        "answer_points": [
+          "Licensing verification importance",
+          "Ontario AGCO licensing vs offshore",
+          "Security measures to look for",
+          "User review analysis",
+          "Red flags to avoid"
+        ]
+      },
+      {
+        "question": "Do new betting sites offer better promo codes than established operators?",
+        "answer_length": "150 words",
+        "keywords": ["betmgm ontario betting promo code"],
+        "answer_points": [
+          "New sites typically offer aggressive bonuses",
+          "Comparison of welcome offers",
+          "Wagering requirements comparison",
+          "Link to parlay calculator for bonus value",
+          "Mention established operators like BetMGM for comparison"
+        ]
+      },
+      {
+        "question": "Which new betting sites are legal in Ontario?",
+        "answer_length": "150 words",
+        "keywords": ["betting sites ontario", "betting apps ontario"],
+        "answer_points": [
+          "AGCO licensing explained",
+          "Which new sites are licensed",
+          "iGaming Ontario registration",
+          "Offshore vs licensed distinction",
+          "Link to Ontario section"
+        ]
+      },
+      {
+        "question": "Do new betting sites also offer casino games?",
+        "answer_length": "150 words",
+        "keywords": ["best casino sites canada"],
+        "answer_points": [
+          "Sports vs casino focus",
+          "Hybrid platforms (Treasure Spins, Royalistplay)",
+          "Slots and table games availability",
+          "Live dealer options",
+          "Link to best casino sites page"
+        ]
+      },
+      {
+        "question": "How do new betting sites compare to FanDuel and Bet365?",
+        "answer_length": "150 words",
+        "keywords": [],
+        "answer_points": [
+          "Innovation advantage (new sites)",
+          "Trust and reliability (established sites)",
+          "Market coverage comparison",
+          "Bonus competitiveness",
+          "When to choose new vs established"
+        ]
+      },
+      {
+        "question": "What payment methods do new betting sites accept?",
+        "answer_length": "150 words",
+        "keywords": [],
+        "answer_points": [
+          "Interac e-Transfer (standard)",
+          "Credit/debit cards",
+          "Crypto options (Lizaro)",
+          "E-wallets",
+          "Withdrawal speeds comparison",
+          "Link to payment methods section"
+        ]
+      },
+      {
+        "question": "Can I use new betting sites in Quebec?",
+        "answer_length": "150 words",
+        "keywords": ["sports betting quebec"],
+        "answer_points": [
+          "Quebec regulatory landscape",
+          "Loto-Quebec monopoly explained",
+          "Offshore sites serving Quebec",
+          "French language availability",
+          "Legal considerations",
+          "Link to Quebec section"
+        ]
+      }
+    ]
+  },
+  "internal_links": {
+    "total_required": 12,
+    "links": [
+      {
+        "anchor": "best betting sites Canada",
+        "url": "/sport/betting/canada/betting-sites.htm",
+        "context": "Comparison to established operators",
+        "section": "Introduction or New vs Established section"
+      },
+      {
+        "anchor": "Ontario sports betting",
+        "url": "/sport/betting/canada/ontario.htm",
+        "context": "Provincial licensing and AGCO regulation",
+        "section": "Ontario betting apps section"
+      },
+      {
+        "anchor": "Quebec sports betting",
+        "url": "/sport/betting/canada/quebec.htm",
+        "context": "Quebec regulatory landscape",
+        "section": "Quebec sports betting section"
+      },
+      {
+        "anchor": "betting apps Canada",
+        "url": "/sport/betting/canada/apps.htm",
+        "context": "Mobile betting comparison",
+        "section": "Best betting apps section"
+      },
+      {
+        "anchor": "NHL betting sites",
+        "url": "/sport/betting/canada/nhl-betting-sites.htm",
+        "context": "Hockey betting coverage",
+        "section": "Sports coverage section"
+      },
+      {
+        "anchor": "NFL betting Canada",
+        "url": "/sport/betting/canada/nfl-betting-sites.htm",
+        "context": "NFL betting options",
+        "section": "NFL betting subsection"
+      },
+      {
+        "anchor": "CFL betting sites",
+        "url": "/sport/betting/canada/cfl-betting-sites.htm",
+        "context": "CFL betting availability",
+        "section": "Sports coverage section"
+      },
+      {
+        "anchor": "parlay calculator",
+        "url": "/calculators/parlay-calculator.htm",
+        "context": "Calculate bonus value and parlay payouts",
+        "section": "Bonus comparison or How to Choose section"
+      },
+      {
+        "anchor": "odds calculator",
+        "url": "/calculators/odds-calculator.htm",
+        "context": "Understanding betting odds",
+        "section": "How to Choose section"
+      },
+      {
+        "anchor": "betting bonus requirements",
+        "url": "/sport/betting/bonuses.htm",
+        "context": "Understanding wagering requirements",
+        "section": "Welcome bonus or FAQ section"
+      },
+      {
+        "anchor": "responsible gambling tools",
+        "url": "/sport/betting/responsible-gambling.htm",
+        "context": "Problem gambling resources",
+        "section": "Responsible Gambling section"
+      },
+      {
+        "anchor": "how to verify betting sites",
+        "url": "/sport/betting/how-to-choose.htm",
+        "context": "Trust and safety verification",
+        "section": "How to Choose section"
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier_1_primary": {
+      "required": true,
+      "sources": [
+        {
+          "source": "App Store",
+          "usage": "User ratings and review counts for mobile apps",
+          "citation_format": "4.X/5 (XX,XXX reviews) - analyzed [date range]",
+          "sections": ["Mobile Experience per brand", "App quality section"]
+        },
+        {
+          "source": "Google Play",
+          "usage": "Android app performance and user feedback",
+          "citation_format": "Reported in X reviews on Google Play",
+          "sections": ["Mobile Experience per brand", "App quality section"]
+        },
+        {
+          "source": "Reddit",
+          "usage": "User experiences and sentiment",
+          "citation_format": "Reddit users report [finding] (X threads in r/sportsbook)",
+          "sections": ["Pros & Cons per brand", "Trust and safety"]
+        }
+      ]
+    },
+    "tier_2_verification": {
+      "sources": [
+        {
+          "source": "Official brand websites",
+          "usage": "Features, bonuses, T&Cs verification ONLY",
+          "citation_format": "According to [Brand] official site",
+          "sections": ["Features lists", "Bonus terms"]
+        },
+        {
+          "source": "AGCO licensing database",
+          "usage": "Ontario licensing verification",
+          "citation_format": "Licensed by AGCO (License #XXXXX)",
+          "sections": ["Ontario section", "Safety/legality"]
+        }
+      ]
+    },
+    "tier_4_sparingly": {
+      "sources": [
+        {
+          "source": "Competitor affiliate sites",
+          "usage": "Research gaps ONLY - NEVER cite for pros/cons",
+          "warning": "Do not attribute opinions to affiliate sites",
+          "sections": ["Background research only"]
+        }
+      ]
+    }
+  },
+  "brand_requirements": {
+    "total_brands": 9,
+    "brands": [
+      {
+        "position": 1,
+        "name": "Treasure Spins",
+        "badge": "TRS",
+        "badge_color": "#9c27b0",
+        "unique_angle": "Gamification and interactive betting features",
+        "mobile_experience_focus": "Innovative UI with game-like elements",
+        "word_count": 600
+      },
+      {
+        "position": 2,
+        "name": "Royalistplay",
+        "badge": "RYL",
+        "badge_color": "#673ab7",
+        "unique_angle": "Premium VIP program and high-roller focus",
+        "mobile_experience_focus": "Luxury app design with VIP features",
+        "word_count": 600
+      },
+      {
+        "position": 3,
+        "name": "Wyns",
+        "badge": "WYN",
+        "badge_color": "#3f51b5",
+        "unique_angle": "Emerging platform with competitive odds",
+        "mobile_experience_focus": "Clean, fast mobile interface",
+        "word_count": 600
+      },
+      {
+        "position": 4,
+        "name": "Lucky7even",
+        "badge": "L7E",
+        "badge_color": "#2196f3",
+        "unique_angle": "Lottery-style betting integration",
+        "mobile_experience_focus": "Unique lottery + sports hybrid app",
+        "word_count": 600
+      },
+      {
+        "position": 5,
+        "name": "Festival Play",
+        "badge": "FST",
+        "badge_color": "#00bcd4",
+        "unique_angle": "Event and festival betting specialization",
+        "mobile_experience_focus": "Event-focused mobile experience",
+        "word_count": 600
+      },
+      {
+        "position": 6,
+        "name": "Lizaro",
+        "badge": "LZR",
+        "badge_color": "#009688",
+        "unique_angle": "Crypto-first betting platform",
+        "mobile_experience_focus": "Crypto wallet integration in app",
+        "word_count": 600
+      },
+      {
+        "position": 7,
+        "name": "Legendplay",
+        "badge": "LGD",
+        "badge_color": "#4caf50",
+        "unique_angle": "Esports and traditional sports hybrid",
+        "mobile_experience_focus": "Dual esports/traditional interface",
+        "word_count": 600
+      },
+      {
+        "position": 8,
+        "name": "Funbet",
+        "badge": "FUN",
+        "badge_color": "#ff9800",
+        "unique_angle": "Social betting features",
+        "mobile_experience_focus": "Social sharing and community features",
+        "word_count": 600
+      },
+      {
+        "position": 9,
+        "name": "DirectionBet",
+        "badge": "DIR",
+        "badge_color": "#ff5722",
+        "unique_angle": "AI-powered betting recommendations",
+        "mobile_experience_focus": "AI assistant integration in app",
+        "word_count": 600
+      }
+    ],
+    "mobile_experience_mandatory": {
+      "required": true,
+      "word_count_per_brand": "100-150 words",
+      "elements": [
+        "App availability (iOS/Android or web-only)",
+        "UI/UX quality and design",
+        "Innovative mobile features unique to this brand",
+        "Performance and speed",
+        "App Store/Google Play ratings (if available)",
+        "Comparison to established betting apps"
+      ]
+    }
+  },
+  "compliance_canada": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "gambling_hotline": "1-800-463-1554 (Canadian Problem Gambling Helpline)",
+    "provincial_regulators": [
+      {
+        "province": "Ontario",
+        "regulator": "Alcohol and Gaming Commission of Ontario (AGCO)",
+        "requirement": "iGaming Ontario registration for licensed operators"
+      },
+      {
+        "province": "Quebec",
+        "regulator": "Loto-Quebec",
+        "requirement": "Provincial monopoly - offshore sites not officially sanctioned"
+      },
+      {
+        "province": "Alberta",
+        "regulator": "Alberta Gaming, Liquor and Cannabis (AGLC)",
+        "requirement": "Provincial oversight"
+      }
+    ],
+    "affiliate_disclosure": "Required in introduction (50-75 words)",
+    "responsible_gambling_section": "Mandatory at bottom with Canadian resources",
+    "t_and_c_verification": "All new sites require license verification and detailed T&Cs"
+  },
+  "meta_data": {
+    "title_tag": "New Betting Sites Canada 2025: 9 Latest Operators Reviewed",
+    "title_length": 59,
+    "meta_description": "Discover Canada's newest betting sites for 2025. Compare 9 new operators with innovative features, crypto payments, and competitive bonuses. Ontario & Quebec coverage included.",
+    "meta_description_length": 188,
+    "meta_keywords": [
+      "new betting sites canada",
+      "newest betting sites",
+      "betting apps ontario",
+      "sports betting quebec",
+      "sports betting apps canada",
+      "betting sites ontario",
+      "top betting sites canada",
+      "best football betting sites",
+      "nfl betting sites canada",
+      "canadian gambling apps",
+      "best new betting sites",
+      "best casino sites canada"
+    ]
+  },
+  "technical_requirements": [
+    "Interactive comparison table with sorting/filtering",
+    "Launch date timeline visualization",
+    "License verification badges for Ontario sites",
+    "Payment methods icons comparison table",
+    "Mobile app download buttons (iOS/Android when available)",
+    "Bonus value calculator integration",
+    "Schema markup: Article, FAQ, Breadcrumb",
+    "Last Updated badge (dynamic)",
+    "Provincial availability filter (Ontario/Quebec focus)",
+    "Letter badge logos for all 9 brands (no images)",
+    "Collapsible intro section to push CTAs above fold",
+    "FAQ accordion functionality"
+  ],
+  "phase2_completed": true,
+  "phase2_timestamp": "2025-12-15T12:00:00Z",
+  "next_phase": "Phase 3: AI Enhancement (HTML/CSS/JS implementation)"
+}

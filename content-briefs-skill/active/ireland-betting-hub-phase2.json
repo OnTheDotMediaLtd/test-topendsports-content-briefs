@@ -1,0 +1,889 @@
+{
+  "page_name": "ireland-betting-hub",
+  "phase": 2,
+  "generated_date": "2025-12-15",
+  "writer_assigned": "Lewis Humphries",
+  "template_type": 2,
+  "target_word_count": {
+    "minimum": 8000,
+    "target": 9000,
+    "rationale": "Match #2 competitor (scs.ie) with 8,000 words but provide deeper analysis per brand"
+  },
+  "h1_structure": {
+    "title": "Best Betting Sites Ireland",
+    "target_keyword": "best betting sites ireland",
+    "no_dated_language": true,
+    "includes_last_updated_badge": true
+  },
+  "intro_requirements": {
+    "total_words": "100-150",
+    "structure": {
+      "opening": "40-50 words - Direct answer naming top 3-5 betting sites",
+      "disclosure": "50-75 words - Affiliate disclosure and transparency statement"
+    },
+    "forbidden_phrases": [
+      "Welcome to...",
+      "Looking for...",
+      "Rhetorical questions",
+      "Over 150 words total"
+    ]
+  },
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Best Betting Sites Ireland",
+      "target_keyword": "best betting sites ireland",
+      "word_count": 0,
+      "notes": "Title only, followed by Last Updated badge"
+    },
+    {
+      "section": "Introduction",
+      "word_count": "100-150",
+      "requirements": [
+        "Direct answer: Name top 5 betting sites upfront",
+        "Authority statement",
+        "Affiliate disclosure (50-75 words)"
+      ]
+    },
+    {
+      "section": "Comparison Table",
+      "brands_included": 10,
+      "columns": [
+        "Betting Site",
+        "Welcome Bonus",
+        "Key Features",
+        "Sports Offered",
+        "Payment Methods",
+        "App Rating",
+        "Min Deposit",
+        "CTA Button"
+      ],
+      "requirements": "Interactive table with filtering capability"
+    },
+    {
+      "section": "Quick Answer Box",
+      "word_count": "75-100",
+      "requirements": "Summary of top 3 sites with primary USPs"
+    },
+    {
+      "section": "H2",
+      "title": "Top Irish Betting Sites Ranked",
+      "target_keyword": "irish betting sites",
+      "keyword_volume": 400,
+      "word_count": "200-300",
+      "purpose": "Introduction to the detailed reviews, explain ranking criteria",
+      "subsections": []
+    },
+    {
+      "section": "H2",
+      "title": "Lunubet Review: Ireland's Leading Betting Platform",
+      "brand": "Lunubet",
+      "position": 1,
+      "word_count": "700-900",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Sports Coverage",
+          "word_count": "200-250",
+          "requirements": "Comprehensive sports list, live betting, odds quality"
+        },
+        {
+          "type": "H3",
+          "title": "Lunubet Mobile Experience",
+          "word_count": "150-200",
+          "requirements": "App Store rating, interface review, mobile-specific features, iOS/Android availability"
+        },
+        {
+          "type": "H3",
+          "title": "Lunubet Welcome Bonus & Promotions",
+          "word_count": "150-200",
+          "requirements": "Current welcome offer, ongoing promotions, T&Cs summary"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150",
+          "requirements": "4-5 pros, 2-3 cons with specific evidence"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betalright Review: Modern Betting Experience",
+      "brand": "Betalright",
+      "position": 2,
+      "word_count": "700-900",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Platform Design",
+          "word_count": "200-250"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Mobile App Analysis",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Bonuses & Loyalty Program",
+          "word_count": "150-200"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Casina Review: Sports & Casino Combined",
+      "brand": "Casina",
+      "position": 3,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Market Variety",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Casina Mobile Experience",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Casina Welcome Offer",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Festival Play Review: Horse Racing Specialist",
+      "brand": "Festival Play",
+      "position": 4,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & GAA Coverage",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Mobile App",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Bonus Terms",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Millioner Review: Competitive Odds Leader",
+      "brand": "Millioner",
+      "position": 5,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Live Betting Platform",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Millioner Mobile Experience",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Millioner Promotions",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betovo Review: Sleek Modern Interface",
+      "brand": "Betovo",
+      "position": 6,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Payment Options",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Betovo Mobile App",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Betovo Welcome Bonus",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "22bet Review: International Betting Giant",
+      "brand": "22bet",
+      "position": 7,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Market Selection",
+          "word_count": "150-200",
+          "notes": "Highlight 1000+ daily events"
+        },
+        {
+          "type": "H3",
+          "title": "22bet Mobile Experience",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "22bet Bonuses",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Big Clash Review: Fast Withdrawals & Service",
+      "brand": "Big Clash",
+      "position": 8,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Customer Support",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Big Clash Mobile App",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Big Clash Promotions",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Rabona Review: Youth-Focused Sports Betting",
+      "brand": "Rabona",
+      "position": 9,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & International Sports",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Rabona Mobile Experience",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Rabona Welcome Offer",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Wonder Luck Review: Multi-Product Platform",
+      "brand": "Wonder Luck",
+      "position": 10,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Key Features & Product Variety",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Wonder Luck Mobile App",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Wonder Luck Bonuses",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Comprehensive Guide to Betting Sites in Ireland",
+      "target_keyword": "betting sites ireland",
+      "keyword_volume": 900,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Licensed Betting Companies in Ireland",
+          "target_keyword": "betting companies ireland",
+          "keyword_volume": 100,
+          "word_count": "150-200",
+          "requirements": "Explain Irish licensing (Revenue Commissioners), legal requirements, player protections"
+        },
+        {
+          "type": "H3",
+          "title": "Irish Bookies vs International Operators",
+          "target_keyword": "irish bookies",
+          "keyword_volume": 150,
+          "word_count": "150-200",
+          "requirements": "Compare local Irish brands vs international operators, pros/cons of each"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Sports Betting in Ireland - Complete Overview",
+      "target_keyword": "sports betting ireland",
+      "keyword_volume": 500,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "GAA Betting: Gaelic Football & Hurling",
+          "word_count": "200-250",
+          "requirements": "Unique to Ireland - All-Ireland Championship, county competitions, best sites for GAA betting"
+        },
+        {
+          "type": "H3",
+          "title": "Rugby Betting in Ireland",
+          "word_count": "150-200",
+          "requirements": "Six Nations, Pro14, Munster/Leinster/Ulster coverage"
+        },
+        {
+          "type": "H3",
+          "title": "Football Betting Markets",
+          "word_count": "150-200",
+          "requirements": "Premier League, Champions League, Irish domestic leagues"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Best Horse Racing Betting Sites Ireland",
+      "target_keyword": "horse betting sites",
+      "keyword_volume": 150,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Cheltenham Festival & Punchestown",
+          "word_count": "200-250",
+          "requirements": "Ireland's biggest racing events, which sites offer best coverage and specials"
+        },
+        {
+          "type": "H3",
+          "title": "Daily Horse Racing Markets",
+          "word_count": "150-200",
+          "requirements": "UK/Irish racing, ante-post markets, best odds guaranteed"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Online Betting in Ireland - Legal & Safe Options",
+      "target_keyword": "online betting ireland",
+      "keyword_volume": 250,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "How We Test Online Betting Sites",
+          "target_keyword": "online betting sites ireland",
+          "keyword_volume": 200,
+          "word_count": "200-250",
+          "requirements": "Testing methodology - licensing, security, payment speeds, customer support, odds quality"
+        },
+        {
+          "type": "H3",
+          "title": "Safety & Security Standards",
+          "word_count": "150-200",
+          "requirements": "SSL encryption, responsible gambling tools, data protection"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Free Bets and Welcome Bonuses",
+      "target_keyword": "betting sites with free bets",
+      "keyword_volume": 100,
+      "word_count": "600-700",
+      "requirements": "Detailed comparison of all 10 brands' welcome offers, T&Cs for each, wagering requirements, bonus calculator tool link"
+    },
+    {
+      "section": "H2",
+      "title": "Payment Methods Comparison Ireland",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Credit & Debit Cards",
+          "word_count": "100-150",
+          "requirements": "Visa, Mastercard availability, processing times"
+        },
+        {
+          "type": "H3",
+          "title": "E-Wallets (PayPal, Apple Pay)",
+          "word_count": "150-200",
+          "requirements": "Which sites accept PayPal/Apple Pay, withdrawal speeds"
+        },
+        {
+          "type": "H3",
+          "title": "Bank Transfers & Other Methods",
+          "word_count": "100-150",
+          "requirements": "Bank transfer times, alternative payment methods"
+        },
+        {
+          "type": "Table",
+          "title": "Payment Methods by Betting Site",
+          "requirements": "10-brand comparison table showing all payment options, min/max deposits, withdrawal times"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Mobile Betting Apps Ireland",
+      "word_count": "600-700",
+      "requirements": "Consolidated section comparing all 10 brands' mobile apps, App Store ratings, features, download guides",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "iOS vs Android App Availability",
+          "word_count": "200-250"
+        },
+        {
+          "type": "H3",
+          "title": "Mobile App Feature Comparison",
+          "word_count": "200-250",
+          "requirements": "Table comparing features across 10 apps"
+        },
+        {
+          "type": "Table",
+          "title": "App Store Ratings Comparison",
+          "requirements": "All 10 brands with iOS/Android ratings"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Complete Bonus Terms & Conditions",
+      "word_count": "400-500",
+      "requirements": "Full T&Cs for ALL 10 brands' welcome offers - wagering requirements, time limits, minimum odds, excluded markets"
+    },
+    {
+      "section": "H2",
+      "title": "How We Test & Rank Ireland Betting Sites",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Our Testing Methodology",
+          "word_count": "200-250",
+          "requirements": "Explain 8-10 criteria used for rankings"
+        },
+        {
+          "type": "H3",
+          "title": "Why Trust Our Reviews?",
+          "word_count": "150-200",
+          "requirements": "Experience, transparency, real testing, source citations"
+        }
+      ]
+    },
+    {
+      "section": "FAQs",
+      "word_count": "800-1000",
+      "requirements": "8-10 FAQs targeting secondary keywords, 75-125 words each"
+    },
+    {
+      "section": "H2",
+      "title": "Responsible Gambling in Ireland",
+      "word_count": "300-400",
+      "requirements": "Gamblers Anonymous Ireland hotline (087 744 3577), self-exclusion tools, deposit limits, reality checks, problem gambling signs"
+    },
+    {
+      "section": "References",
+      "requirements": "5-10 citations from App Store, Trustpilot, Reddit, official licensing sources"
+    }
+  ],
+  "keyword_mapping": [
+    {
+      "keyword": "best betting sites ireland",
+      "volume": 450,
+      "placement": "H1",
+      "section_title": "Best Betting Sites Ireland"
+    },
+    {
+      "keyword": "betting sites ireland",
+      "volume": 900,
+      "placement": "H2",
+      "section_title": "Comprehensive Guide to Betting Sites in Ireland"
+    },
+    {
+      "keyword": "sports betting ireland",
+      "volume": 500,
+      "placement": "H2",
+      "section_title": "Sports Betting in Ireland - Complete Overview"
+    },
+    {
+      "keyword": "irish betting sites",
+      "volume": 400,
+      "placement": "H2",
+      "section_title": "Top Irish Betting Sites Ranked"
+    },
+    {
+      "keyword": "online betting ireland",
+      "volume": 250,
+      "placement": "H2",
+      "section_title": "Online Betting in Ireland - Legal & Safe Options"
+    },
+    {
+      "keyword": "online betting sites ireland",
+      "volume": 200,
+      "placement": "H3",
+      "section_title": "How We Test Online Betting Sites"
+    },
+    {
+      "keyword": "best gambling sites ireland",
+      "volume": 150,
+      "placement": "FAQ",
+      "section_title": "What are the best gambling sites in Ireland?"
+    },
+    {
+      "keyword": "irish bookies",
+      "volume": 150,
+      "placement": "H3",
+      "section_title": "Irish Bookies vs International Operators"
+    },
+    {
+      "keyword": "horse betting sites",
+      "volume": 150,
+      "placement": "H2",
+      "section_title": "Best Horse Racing Betting Sites Ireland"
+    },
+    {
+      "keyword": "betting companies ireland",
+      "volume": 100,
+      "placement": "H3",
+      "section_title": "Licensed Betting Companies in Ireland"
+    },
+    {
+      "keyword": "irish bookmakers",
+      "volume": 100,
+      "placement": "FAQ",
+      "section_title": "Are Irish bookmakers better than UK bookmakers?"
+    },
+    {
+      "keyword": "betting sites with free bets",
+      "volume": 100,
+      "placement": "H2",
+      "section_title": "Free Bets and Welcome Bonuses"
+    },
+    {
+      "keyword": "best online bookies",
+      "volume": 90,
+      "placement": "FAQ",
+      "section_title": "What makes the best online bookies in Ireland?"
+    },
+    {
+      "keyword": "best bookies ireland",
+      "volume": 40,
+      "placement": "Natural mentions",
+      "section_title": "Throughout content"
+    },
+    {
+      "keyword": "best irish bookmakers",
+      "volume": 20,
+      "placement": "Natural mentions",
+      "section_title": "Throughout content"
+    }
+  ],
+  "faq_questions": [
+    {
+      "question": "What are the best gambling sites in Ireland?",
+      "target_keyword": "best gambling sites ireland",
+      "keyword_volume": 150,
+      "word_count": "100-125",
+      "answer_requirements": "Name top 5 sites, explain criteria for 'best', mention both sports betting and casino options"
+    },
+    {
+      "question": "Are Irish bookmakers better than UK bookmakers?",
+      "target_keyword": "irish bookmakers",
+      "keyword_volume": 100,
+      "word_count": "100-125",
+      "answer_requirements": "Compare Irish vs UK operators, licensing differences, odds quality, market coverage, payment methods"
+    },
+    {
+      "question": "What makes the best online bookies in Ireland?",
+      "target_keyword": "best online bookies",
+      "keyword_volume": 90,
+      "word_count": "100-125",
+      "answer_requirements": "List key criteria: licensing, odds quality, sports variety, payment options, mobile app, customer support"
+    },
+    {
+      "question": "Is online betting legal in Ireland?",
+      "target_keyword": "online betting ireland",
+      "keyword_volume": 250,
+      "word_count": "100-125",
+      "answer_requirements": "Yes - explain Irish licensing system, age requirement (18+), responsible gambling requirements"
+    },
+    {
+      "question": "Which betting sites offer the best free bets in Ireland?",
+      "target_keyword": "betting sites with free bets",
+      "keyword_volume": 100,
+      "word_count": "100-125",
+      "answer_requirements": "Name top 3-5 sites with best free bet offers, explain typical wagering requirements"
+    },
+    {
+      "question": "What are the best betting sites for GAA in Ireland?",
+      "target_keyword": "sports betting ireland",
+      "keyword_volume": 500,
+      "word_count": "100-125",
+      "answer_requirements": "Name top 3 sites for GAA betting, explain coverage of All-Ireland Championship, county competitions"
+    },
+    {
+      "question": "Which sites are best for horse racing betting in Ireland?",
+      "target_keyword": "horse betting sites",
+      "keyword_volume": 150,
+      "word_count": "100-125",
+      "answer_requirements": "Top 3 sites for racing, mention Cheltenham/Punchestown coverage, best odds guaranteed features"
+    },
+    {
+      "question": "How do I choose a licensed betting site in Ireland?",
+      "target_keyword": "betting companies ireland",
+      "keyword_volume": 100,
+      "word_count": "100-125",
+      "answer_requirements": "Explain Irish licensing by Revenue Commissioners, how to verify license, importance of regulation"
+    },
+    {
+      "question": "What payment methods do Irish betting sites accept?",
+      "target_keyword": "betting sites ireland",
+      "keyword_volume": 900,
+      "word_count": "100-125",
+      "answer_requirements": "List common methods: cards, PayPal, Apple Pay, bank transfer; mention withdrawal speeds"
+    },
+    {
+      "question": "Do all Irish betting sites have mobile apps?",
+      "target_keyword": "online betting sites ireland",
+      "keyword_volume": 200,
+      "word_count": "100-125",
+      "answer_requirements": "Not all - list which of the 10 featured sites have apps, iOS vs Android availability"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      "App Store ratings and reviews for mobile apps",
+      "Google Play Store ratings and reviews",
+      "Trustpilot reviews for brand reputation",
+      "Reddit discussions (r/gambling, r/ireland) for user sentiment"
+    ],
+    "tier_2_verification": [
+      "Official brand websites for features and T&Cs verification",
+      "Irish Revenue Commissioners licensing database"
+    ],
+    "tier_3_sparingly": [
+      "Competitor affiliate sites for research gaps only",
+      "NEVER cite affiliate sites for pros/cons or recommendations"
+    ],
+    "citation_format": "\"4.9/5 (1.8M reviews) on App Store as of [date range]\" or \"Reddit users report [finding] across X threads\""
+  },
+  "internal_links": [
+    {
+      "anchor_text": "best betting apps",
+      "target_url": "/sport/betting/apps/",
+      "placement": "Mobile Betting Apps section"
+    },
+    {
+      "anchor_text": "betting odds explained",
+      "target_url": "/sport/betting/odds/",
+      "placement": "How We Test section"
+    },
+    {
+      "anchor_text": "parlay calculator",
+      "target_url": "/sport/betting/calculators/parlay/",
+      "placement": "Free Bets section"
+    },
+    {
+      "anchor_text": "betting bonus calculator",
+      "target_url": "/sport/betting/calculators/bonus/",
+      "placement": "Free Bets section"
+    },
+    {
+      "anchor_text": "live betting guide",
+      "target_url": "/sport/betting/live/",
+      "placement": "Brand reviews (live betting features)"
+    },
+    {
+      "anchor_text": "horse racing betting explained",
+      "target_url": "/sport/betting/horse-racing/",
+      "placement": "Horse Racing Betting Sites section"
+    },
+    {
+      "anchor_text": "football betting tips",
+      "target_url": "/sport/betting/football/",
+      "placement": "Sports Betting Overview section"
+    },
+    {
+      "anchor_text": "rugby betting guide",
+      "target_url": "/sport/betting/rugby/",
+      "placement": "Sports Betting Overview section"
+    },
+    {
+      "anchor_text": "responsible gambling tools",
+      "target_url": "/sport/betting/responsible-gambling/",
+      "placement": "Responsible Gambling section"
+    },
+    {
+      "anchor_text": "betting site reviews",
+      "target_url": "/sport/betting/reviews/",
+      "placement": "How We Test section"
+    },
+    {
+      "anchor_text": "sports betting terms",
+      "target_url": "/sport/betting/glossary/",
+      "placement": "Introduction or How We Test"
+    },
+    {
+      "anchor_text": "betting strategies",
+      "target_url": "/sport/betting/strategies/",
+      "placement": "Sports Betting Overview section"
+    }
+  ],
+  "compliance_requirements": {
+    "age_restriction": "18+ (Ireland legal gambling age)",
+    "responsible_gambling_hotline": "Gamblers Anonymous Ireland: 087 744 3577",
+    "affiliate_disclosure": "MUST appear in introduction (50-75 words)",
+    "responsible_gambling_section": "MUST appear at bottom of page",
+    "no_dated_language": "NEVER use dates in H1 - use Last Updated badge only",
+    "licensing_mention": "Irish Revenue Commissioners licensing system"
+  },
+  "brand_requirements": {
+    "sections_per_brand": [
+      "Key Features & Sports Coverage (150-250 words)",
+      "Mobile Experience (100-150 words with App Store rating)",
+      "Welcome Bonus & Current Promotions (100-200 words)",
+      "Pros & Cons (100-150 words with 4-5 pros, 2-3 cons)"
+    ],
+    "word_count_by_position": {
+      "positions_1_2": "700-900 words each",
+      "positions_3_5": "600-700 words each",
+      "positions_6_10": "500-600 words each"
+    },
+    "total_brands": 10
+  },
+  "ireland_specific_elements": {
+    "key_sports": [
+      "GAA (Gaelic Football & Hurling) - MANDATORY section",
+      "Horse Racing (Cheltenham, Punchestown) - MANDATORY section",
+      "Rugby (Six Nations, Pro14)",
+      "Football (Premier League, Champions League, LOI)"
+    ],
+    "unique_markets": [
+      "All-Ireland Championship betting",
+      "County GAA competitions",
+      "Cheltenham Festival specials",
+      "Punchestown Festival markets"
+    ],
+    "payment_preferences": [
+      "Credit/Debit cards (Visa, Mastercard)",
+      "PayPal (highly preferred)",
+      "Apple Pay (growing popularity)",
+      "Bank Transfer",
+      "Note: Mention which sites accept each method"
+    ]
+  },
+  "calculator_tools": [
+    {
+      "tool": "Bonus Calculator",
+      "url": "/sport/betting/calculators/bonus/",
+      "placement": "Free Bets and Welcome Bonuses section",
+      "description": "Calculate wagering requirements and real value of welcome offers"
+    },
+    {
+      "tool": "Parlay Calculator",
+      "url": "/sport/betting/calculators/parlay/",
+      "placement": "Sports Betting Overview section",
+      "description": "Calculate potential parlay payouts for multiple selections"
+    }
+  ],
+  "meta_keywords": [
+    "best betting sites ireland",
+    "betting sites ireland",
+    "sports betting ireland",
+    "irish betting sites",
+    "online betting ireland",
+    "online betting sites ireland",
+    "best gambling sites ireland",
+    "irish bookies",
+    "horse betting sites",
+    "betting companies ireland",
+    "irish bookmakers",
+    "betting sites with free bets",
+    "best online bookies",
+    "best bookies ireland",
+    "best irish bookmakers"
+  ],
+  "validation_checklist": {
+    "keywords_mapped": "All 14 secondary keywords mapped to specific sections",
+    "faqs_count": "10 FAQs created targeting keywords",
+    "mobile_sections": "Mobile Experience section for all 10 brands",
+    "payment_comparison": "Payment methods comparison section included",
+    "calculator_links": "2 calculator tool links included",
+    "internal_links": "12 internal links specified",
+    "source_requirements": "Tier 1 sources (App Store, Reddit, Trustpilot) specified",
+    "ireland_specific": "GAA, horse racing, Irish licensing all covered",
+    "compliance": "18+, Irish hotline, affiliate disclosure all included"
+  }
+}

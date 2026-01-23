@@ -1,0 +1,362 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/canada/betting-apps.htm",
+    "page_name": "Best Sports Betting Apps Canada",
+    "market": "Canada",
+    "writer": "Lewis Humphries",
+    "template": 2,
+    "priority": "HIGH"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "betting apps canada",
+      "volume": 500,
+      "difficulty": 75,
+      "traffic_potential": 2400
+    },
+    "secondary": [
+      {
+        "keyword": "best sports betting apps canada",
+        "volume": 700,
+        "difficulty": 60,
+        "traffic_potential": 21000,
+        "target_section": "H1/Primary focus",
+        "placement": "H1"
+      },
+      {
+        "keyword": "best betting apps canada",
+        "volume": 500,
+        "difficulty": 77,
+        "traffic_potential": 2500,
+        "target_section": "Introduction",
+        "placement": "H2"
+      },
+      {
+        "keyword": "betting apps ontario",
+        "volume": 350,
+        "difficulty": 66,
+        "traffic_potential": 400,
+        "target_section": "Ontario vs Offshore Apps",
+        "placement": "H2"
+      },
+      {
+        "keyword": "sports betting apps canada",
+        "volume": 300,
+        "difficulty": 74,
+        "traffic_potential": 2400,
+        "target_section": "Introduction",
+        "placement": "Natural"
+      },
+      {
+        "keyword": "gambling apps canada",
+        "volume": 300,
+        "difficulty": 73,
+        "traffic_potential": 400,
+        "target_section": "Types of Betting Apps",
+        "placement": "H3"
+      },
+      {
+        "keyword": "canadian betting apps",
+        "volume": 250,
+        "difficulty": 77,
+        "traffic_potential": 19000,
+        "target_section": "Introduction",
+        "placement": "Natural"
+      },
+      {
+        "keyword": "sports betting app canada",
+        "volume": 200,
+        "difficulty": 78,
+        "traffic_potential": 2100,
+        "target_section": "Introduction",
+        "placement": "Natural"
+      },
+      {
+        "keyword": "canadian sports betting apps",
+        "volume": 150,
+        "difficulty": 77,
+        "traffic_potential": 1900,
+        "target_section": "Introduction",
+        "placement": "Natural"
+      },
+      {
+        "keyword": "top sports betting apps canada",
+        "volume": 80,
+        "difficulty": 78,
+        "traffic_potential": null,
+        "target_section": "Our Top Picks",
+        "placement": "H2"
+      },
+      {
+        "keyword": "bet365 app canada",
+        "volume": 50,
+        "difficulty": 80,
+        "traffic_potential": 6600,
+        "target_section": "Bet365 brand section",
+        "placement": "H3"
+      },
+      {
+        "keyword": "best soccer betting apps canada",
+        "volume": 40,
+        "difficulty": 64,
+        "traffic_potential": null,
+        "target_section": "Best Apps by Sport",
+        "placement": "H3"
+      },
+      {
+        "keyword": "top betting apps canada",
+        "volume": 30,
+        "difficulty": null,
+        "traffic_potential": null,
+        "target_section": "Introduction",
+        "placement": "Natural"
+      },
+      {
+        "keyword": "android betting apps canada",
+        "volume": 20,
+        "difficulty": null,
+        "traffic_potential": null,
+        "target_section": "Android vs iOS Apps",
+        "placement": "H3"
+      },
+      {
+        "keyword": "iphone betting apps canada",
+        "volume": 20,
+        "difficulty": null,
+        "traffic_potential": null,
+        "target_section": "Android vs iOS Apps",
+        "placement": "H3"
+      },
+      {
+        "keyword": "mobile betting apps canada",
+        "volume": 20,
+        "difficulty": null,
+        "traffic_potential": null,
+        "target_section": "Mobile App Features",
+        "placement": "H3"
+      }
+    ],
+    "branded": [
+      {
+        "keyword": "bet365 app",
+        "volume": 50,
+        "brand": "Bet365",
+        "target_section": "Bet365 brand review"
+      }
+    ],
+    "total_volume": 3480,
+    "volume_increase_pct": 596
+  },
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "url": "https://www.canadasportsbetting.ca/online-sportsbook-reviews/mobile-apps/",
+      "title": "Best Sports Betting Apps in Canada (December 2025)",
+      "position": 1,
+      "estimated_traffic": 2938,
+      "brands_covered": 9,
+      "estimated_word_count": 5735,
+      "key_sections": [
+        "Best Online Sports Betting Apps in Canada 2025",
+        "Top 6 Mobile Betting Apps in Canada: Breakdown",
+        "Best Bonuses Across Canadian Sports Betting Apps",
+        "How We Review Sports Betting Apps In Canada",
+        "Benefits Of Using Canadian Sports Betting Apps",
+        "Sports Betting Apps & Parlay Bets",
+        "Popular Payment Options at Betting Apps in Canada",
+        "How To Download The Best Sports Betting Apps Canada",
+        "Best Sport Betting Apps FAQs"
+      ],
+      "sections_per_brand": "4-5",
+      "interactive_elements": [
+        "Comparison tables",
+        "Download links (App Store/Google Play)",
+        "Sign-up buttons with bonus codes",
+        "Expandable sections per brand"
+      ]
+    },
+    "gaps_identified": [
+      "Limited FAQ coverage (only 6 questions)",
+      "No payment methods comparison section",
+      "No calculator tool integration",
+      "No sport-specific app rankings (NHL, NFL, NBA)",
+      "Missing offshore vs Ontario regulatory discussion",
+      "No interactive comparison filtering",
+      "Limited mobile experience depth per brand"
+    ]
+  },
+  "brand_selection": {
+    "locked": [
+      {
+        "position": 1,
+        "brand": "Treasure Spins",
+        "badge": "TRS",
+        "rationale": "Top offshore brand for Canadian market"
+      },
+      {
+        "position": 2,
+        "brand": "Royalistplay",
+        "badge": "RYL",
+        "rationale": "Premium offshore sportsbook"
+      }
+    ],
+    "research_driven": [
+      {
+        "position": 3,
+        "brand": "Wyns",
+        "badge": "WYN",
+        "rationale": "Strong mobile app experience"
+      },
+      {
+        "position": 4,
+        "brand": "Lucky7even",
+        "badge": "L7E",
+        "rationale": "Competitive odds and bonuses"
+      },
+      {
+        "position": 5,
+        "brand": "Festival Play",
+        "badge": "FST",
+        "rationale": "Growing Canadian market presence"
+      },
+      {
+        "position": 6,
+        "brand": "Lizaro",
+        "badge": "LZR",
+        "rationale": "Excellent live betting features"
+      },
+      {
+        "position": 7,
+        "brand": "Legendplay",
+        "badge": "LGD",
+        "rationale": "Wide sports coverage"
+      },
+      {
+        "position": 8,
+        "brand": "Funbet",
+        "badge": "FUN",
+        "rationale": "User-friendly mobile interface"
+      },
+      {
+        "position": 9,
+        "brand": "DirectionBet",
+        "badge": "DRB",
+        "rationale": "Fast payouts and cryptocurrency support"
+      }
+    ],
+    "total_brands": 9
+  },
+  "content_strategy": {
+    "target_word_count": 6500,
+    "word_count_rationale": "Exceeds #1 competitor (5,735 words) by 13% with deeper mobile experience analysis and payment methods comparison",
+    "sections_per_brand": 4,
+    "mandatory_sections": [
+      "Introduction with top 3 picks",
+      "Comparison table (all 9 brands)",
+      "Key Features per brand (150-200 words)",
+      "Mobile Experience per brand (100-150 words)",
+      "Pros & Cons per brand (100-150 words)",
+      "Current Bonus per brand (75-100 words)",
+      "Ontario vs Offshore Apps (200 words)",
+      "Popular Payment Methods (250 words)",
+      "How to Download Apps (iOS/Android) (350 words)",
+      "Best Apps by Sport (NHL, NFL, NBA, Soccer) (400 words)",
+      "FAQs (10 questions, 120 words each)",
+      "Responsible Gambling (150 words)"
+    ],
+    "unique_angles": [
+      "Offshore betting focus (non-Ontario market emphasis)",
+      "Canadian-specific payment methods (Interac, local options)",
+      "Hockey betting prominence (NHL as primary sport)",
+      "Provincial regulations overview",
+      "Calculator tool integration (parlay, odds converters)",
+      "Cryptocurrency payment options for offshore books"
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "Canada sports betting sites",
+      "url": "/sport/betting/canada/betting-sites.htm",
+      "relevance": "Parent hub page"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "relevance": "Calculator tool integration"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "relevance": "Calculator tool integration"
+    },
+    {
+      "anchor": "NHL betting in Canada",
+      "url": "/sport/betting/canada/nhl.htm",
+      "relevance": "Sport-specific content"
+    },
+    {
+      "anchor": "NFL betting apps",
+      "url": "/sport/betting/nfl/apps.htm",
+      "relevance": "Related betting app content"
+    },
+    {
+      "anchor": "soccer betting apps Canada",
+      "url": "/sport/betting/canada/soccer-apps.htm",
+      "relevance": "Sport-specific app content"
+    },
+    {
+      "anchor": "mobile betting guide",
+      "url": "/sport/betting/mobile-betting.htm",
+      "relevance": "Mobile betting education"
+    },
+    {
+      "anchor": "offshore betting sites",
+      "url": "/sport/betting/offshore.htm",
+      "relevance": "Offshore betting context"
+    },
+    {
+      "anchor": "Ontario betting apps",
+      "url": "/sport/betting/canada/ontario/apps.htm",
+      "relevance": "Regional app content"
+    },
+    {
+      "anchor": "Quebec sports betting",
+      "url": "/sport/betting/canada/quebec.htm",
+      "relevance": "Regional betting content"
+    },
+    {
+      "anchor": "best welcome bonuses Canada",
+      "url": "/sport/betting/canada/bonuses.htm",
+      "relevance": "Bonus-focused content"
+    },
+    {
+      "anchor": "live betting apps",
+      "url": "/sport/betting/live-betting-apps.htm",
+      "relevance": "Feature-specific content"
+    }
+  ],
+  "technical_requirements": [
+    "Interactive comparison table with sorting/filtering",
+    "App Store rating integration (if available via API)",
+    "Download buttons with App Store/Google Play links",
+    "Schema markup: Article, FAQ, BreadcrumbList",
+    "Mobile-responsive table design",
+    "Payment methods comparison matrix",
+    "Sport-specific ranking cards (NHL, NFL, NBA, Soccer)",
+    "Tabbed interface for iOS vs Android instructions"
+  ],
+  "compliance": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "gambling_hotline": "1-866-531-2600 (ConnexOntario)",
+    "affiliate_disclosure": "Required in introduction",
+    "responsible_gambling": "Required at bottom",
+    "offshore_disclaimer": "Note that offshore sites operate outside Canadian jurisdiction"
+  },
+  "sources_required": [
+    "App Store reviews and ratings",
+    "Google Play Store reviews and ratings",
+    "Reddit: r/sportsbook, r/AskCanada, r/ontario",
+    "Canadian gambling forums",
+    "Brand official websites (bonus T&Cs)",
+    "Provincial gaming regulators (AGCO for Ontario context)"
+  ]
+}

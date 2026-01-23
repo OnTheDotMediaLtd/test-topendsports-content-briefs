@@ -1,0 +1,423 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/ireland/betalright-review.htm",
+    "page_name": "ireland-betalright-review",
+    "market": "Ireland",
+    "template": "Template 1 (Review)",
+    "writer": "Lewis Humphries",
+    "priority": "MEDIUM",
+    "last_updated": "2025-12-15"
+  },
+  "keyword_research": {
+    "primary_keyword": {
+      "keyword": "betalright sports",
+      "volume": 0,
+      "difficulty": null,
+      "traffic_potential": null,
+      "note": "Primary brand keyword 'betalright' has 150/mo volume in Ireland"
+    },
+    "brand_keyword": {
+      "keyword": "betalright",
+      "volume": 150,
+      "difficulty": null,
+      "traffic_potential": null
+    },
+    "secondary_keywords": [
+      {
+        "keyword": "betting sites ireland",
+        "volume": 900,
+        "difficulty": 81,
+        "traffic_potential": 2200,
+        "placement": "H2",
+        "target_section": "Ireland Betting Landscape Context"
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "difficulty": 82,
+        "traffic_potential": 2200,
+        "placement": "H2",
+        "target_section": "Sports Betting Options"
+      },
+      {
+        "keyword": "betting apps",
+        "volume": 700,
+        "difficulty": 69,
+        "traffic_potential": 500,
+        "placement": "H2",
+        "target_section": "Mobile App Experience"
+      },
+      {
+        "keyword": "online betting",
+        "volume": 600,
+        "difficulty": 87,
+        "traffic_potential": 246000,
+        "placement": "H2",
+        "target_section": "Online Betting Platform Features"
+      },
+      {
+        "keyword": "gaa betting",
+        "volume": 1900,
+        "difficulty": 67,
+        "traffic_potential": 5100,
+        "placement": "H2",
+        "target_section": "GAA Betting Markets"
+      },
+      {
+        "keyword": "football betting",
+        "volume": 600,
+        "difficulty": 87,
+        "traffic_potential": 29000,
+        "placement": "H2",
+        "target_section": "Football Betting Markets"
+      },
+      {
+        "keyword": "live betting",
+        "volume": 350,
+        "difficulty": 81,
+        "traffic_potential": 2800,
+        "placement": "H3",
+        "target_section": "Live Betting Features"
+      },
+      {
+        "keyword": "betalright bonus",
+        "volume": 0,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H2",
+        "target_section": "Welcome Bonus Details"
+      },
+      {
+        "keyword": "betalright casino",
+        "volume": 10,
+        "difficulty": null,
+        "traffic_potential": null,
+        "placement": "H3",
+        "target_section": "Casino Offering"
+      },
+      {
+        "keyword": "best betting apps ireland",
+        "volume": 150,
+        "difficulty": 69,
+        "traffic_potential": 500,
+        "placement": "FAQ",
+        "target_section": "FAQ: Best betting apps in Ireland"
+      },
+      {
+        "keyword": "sports betting",
+        "volume": 2200,
+        "difficulty": 90,
+        "traffic_potential": 246000,
+        "placement": "Natural",
+        "target_section": "Throughout content"
+      },
+      {
+        "keyword": "online betting ireland",
+        "volume": 250,
+        "difficulty": 81,
+        "traffic_potential": 1800,
+        "placement": "Natural",
+        "target_section": "Throughout content"
+      },
+      {
+        "keyword": "ireland betting sites",
+        "volume": 200,
+        "difficulty": 81,
+        "traffic_potential": 1800,
+        "placement": "FAQ",
+        "target_section": "FAQ: Best betting sites in Ireland"
+      }
+    ],
+    "total_cluster_volume": 8370,
+    "volume_increase_percentage": "5480%"
+  },
+  "competitor_analysis": {
+    "top_competitors": [
+      {
+        "domain": "betinireland.ie",
+        "focus": "Ireland betting comparison and reviews",
+        "strengths": ["GAA coverage", "Ireland-specific content", "Multiple brand reviews"],
+        "estimated_word_count": 3000,
+        "brands_featured": 15
+      },
+      {
+        "domain": "olbg.com/ie",
+        "focus": "Irish bookmaker reviews and comparisons",
+        "strengths": ["100+ bookmakers reviewed", "150+ data points", "Expert reviews"],
+        "estimated_word_count": 4000,
+        "brands_featured": 20
+      },
+      {
+        "domain": "scs.ie/betting-sites",
+        "focus": "Best betting sites Ireland",
+        "strengths": ["32+ sites reviewed", "€3900 in offers tracked", "Ireland-focused"],
+        "estimated_word_count": 3500,
+        "brands_featured": 32
+      }
+    ],
+    "content_gaps": [
+      "Most competitors focus on established brands (Paddy Power, BoyleSports, Bet365)",
+      "Limited coverage of newer brands like Betalright",
+      "Missing detailed payment method analysis",
+      "Lack of calculator tool integration",
+      "No specific GAA betting deep-dive per brand",
+      "Limited mobile app performance testing details"
+    ],
+    "benchmark": {
+      "target_word_count": "3500-4000",
+      "brands_to_mention": "5-7 (comparison context)",
+      "sections_per_brand": "3 (Features, Mobile, Pros/Cons)"
+    }
+  },
+  "brand_selection": {
+    "primary_brand": {
+      "position": 1,
+      "brand": "Betalright",
+      "rationale": "Subject of review - newer entrant operated by Rabidi N.V., licensed by Anjouan, 50+ sports coverage"
+    },
+    "comparison_brands": [
+      {
+        "position": 2,
+        "brand": "Paddy Power",
+        "rationale": "Ireland's #1 betting brand (272K search volume), essential comparison point for Irish audience"
+      },
+      {
+        "position": 3,
+        "brand": "BoyleSports",
+        "rationale": "Ireland's most successful Irish-owned bookmaker (213K volume), strong GAA coverage"
+      },
+      {
+        "position": 4,
+        "brand": "Bet365",
+        "rationale": "Global leader with strong Ireland presence (2.6K 'bet365 ireland' volume), live streaming capability"
+      },
+      {
+        "position": 5,
+        "brand": "Betfair",
+        "rationale": "Exchange model differentiator (14K volume), unique betting experience"
+      },
+      {
+        "position": 6,
+        "brand": "BetVictor",
+        "rationale": "Strong odds reputation (20K volume), competitive with BoyleSports"
+      },
+      {
+        "position": 7,
+        "brand": "LiveScore Bet",
+        "rationale": "Fast-growing app-first brand (9.3K volume), similar positioning to Betalright"
+      }
+    ]
+  },
+  "content_structure": {
+    "total_word_count": "3500-4000",
+    "mandatory_sections": [
+      {
+        "section": "Header & Introduction",
+        "h_level": "H1",
+        "word_count": "200-250",
+        "keywords": ["betalright", "ireland", "sports betting"]
+      },
+      {
+        "section": "Rating Summary",
+        "h_level": "H2",
+        "word_count": "150-200",
+        "keywords": ["betalright review", "rating"]
+      },
+      {
+        "section": "Welcome Bonus & Promotions",
+        "h_level": "H2",
+        "word_count": "300-350",
+        "keywords": ["betalright bonus", "welcome offer", "deposit bonus"]
+      },
+      {
+        "section": "Sports Betting Markets",
+        "h_level": "H2",
+        "word_count": "400-500",
+        "subsections": [
+          {"h_level": "H3", "title": "Football Betting", "keywords": ["football betting"]},
+          {"h_level": "H3", "title": "GAA Betting", "keywords": ["gaa betting"]},
+          {"h_level": "H3", "title": "Live Betting", "keywords": ["live betting"]}
+        ]
+      },
+      {
+        "section": "Mobile App Experience",
+        "h_level": "H2",
+        "word_count": "300-400",
+        "keywords": ["betting apps", "mobile betting"],
+        "note": "Betalright lacks dedicated mobile app - address this weakness"
+      },
+      {
+        "section": "Payment Methods",
+        "h_level": "H2",
+        "word_count": "250-300",
+        "keywords": ["deposit", "withdrawal", "payment methods"]
+      },
+      {
+        "section": "Customer Support",
+        "h_level": "H2",
+        "word_count": "150-200",
+        "keywords": ["customer service", "support"]
+      },
+      {
+        "section": "Pros & Cons",
+        "h_level": "H2",
+        "word_count": "250-300",
+        "keywords": ["betalright review", "pros and cons"]
+      },
+      {
+        "section": "Complete Terms & Conditions",
+        "h_level": "H2",
+        "word_count": "300-350",
+        "keywords": ["terms and conditions", "wagering requirements"]
+      },
+      {
+        "section": "Betalright vs Competitors",
+        "h_level": "H2",
+        "word_count": "400-500",
+        "keywords": ["betting sites ireland", "comparison"],
+        "subsections": [
+          {"brand": "Paddy Power"},
+          {"brand": "BoyleSports"},
+          {"brand": "Bet365"}
+        ]
+      },
+      {
+        "section": "FAQ",
+        "h_level": "H2",
+        "word_count": "400-500",
+        "questions": 8
+      },
+      {
+        "section": "Responsible Gambling",
+        "h_level": "H2",
+        "word_count": "100-150",
+        "keywords": ["responsible gambling"]
+      }
+    ]
+  },
+  "strategic_direction": {
+    "unique_angles": [
+      "Position Betalright as newcomer alternative to established Irish brands",
+      "Highlight 50+ payment methods as key differentiator",
+      "Address lack of mobile app as honest weakness",
+      "Emphasize GAA betting coverage (important for Irish audience)",
+      "Compare bonus structure to Paddy Power/BoyleSports standards",
+      "Focus on Anjouan licensing vs Irish licensing (transparency)"
+    ],
+    "content_gaps_to_exploit": [
+      "Detailed payment method comparison (Betalright's 50+ vs competitors)",
+      "GAA-specific betting markets analysis",
+      "New player experience walkthrough",
+      "Withdrawal speed testing",
+      "Casino+Sports combination offering"
+    ]
+  },
+  "technical_requirements": [
+    "Last Updated badge (December 2025)",
+    "Affiliate disclosure (prominent)",
+    "Quick answer box",
+    "Star rating system (5-star scale)",
+    "Pros/Cons comparison table",
+    "Payment methods table",
+    "FAQ schema markup",
+    "Article schema markup",
+    "Breadcrumb schema",
+    "Comparison table: Betalright vs Top 3 Ireland brands",
+    "Responsible gambling section with Irish resources"
+  ],
+  "internal_links": [
+    {
+      "anchor": "betting sites Ireland",
+      "target": "/sport/betting/ireland/betting-hub.htm",
+      "context": "Ireland betting landscape"
+    },
+    {
+      "anchor": "GAA betting",
+      "target": "/sport/betting/ireland/gaa-betting.htm",
+      "context": "GAA sports coverage"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "target": "/sport/betting/ireland/paddy-power-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "target": "/sport/betting/ireland/boylesports-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "Bet365 Ireland review",
+      "target": "/sport/betting/ireland/bet365-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "sports betting Ireland",
+      "target": "/sport/betting/ireland/sports-betting-guide.htm",
+      "context": "General guide"
+    },
+    {
+      "anchor": "football betting Ireland",
+      "target": "/sport/betting/ireland/football-betting.htm",
+      "context": "Sport-specific guide"
+    },
+    {
+      "anchor": "live betting Ireland",
+      "target": "/sport/betting/ireland/live-betting-guide.htm",
+      "context": "Betting type guide"
+    },
+    {
+      "anchor": "best betting apps Ireland",
+      "target": "/sport/betting/ireland/betting-apps.htm",
+      "context": "App comparison"
+    },
+    {
+      "anchor": "parlay calculator",
+      "target": "/tools/parlay-calculator.htm",
+      "context": "Calculator tool"
+    },
+    {
+      "anchor": "odds calculator",
+      "target": "/tools/odds-calculator.htm",
+      "context": "Calculator tool"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "target": "/sport/betting/responsible-gambling.htm",
+      "context": "Responsible gambling"
+    }
+  ],
+  "compliance": {
+    "market": "Ireland",
+    "age_requirement": "18+ (Ireland legal gambling age)",
+    "licensing_note": "Betalright operates under Anjouan license - note this is offshore licensing",
+    "responsible_gambling_resources": [
+      "Problem Gambling Ireland: https://www.problemgambling.ie/",
+      "Gamblers Anonymous Ireland: https://www.gamblersanonymous.ie/"
+    ],
+    "disclosure": "Affiliate disclosure required - earnings from links do not impact review integrity"
+  },
+  "sources_required": [
+    "Betalright official website (terms, bonus details)",
+    "Anjouan Gaming License verification",
+    "Payment method verification (50+ claim)",
+    "Sports coverage verification (50+ sports claim)",
+    "Competitor reviews from betinireland.ie, olbg.com/ie",
+    "User reviews from Trustpilot (if available)",
+    "Industry analysis from mybettingsites.com, johnnybet.com"
+  ],
+  "notes": {
+    "challenges": [
+      "Low search volume for 'betalright sports' (0/mo) - focus on broader Ireland betting keywords",
+      "Betalright is smaller/newer brand - limited existing reviews",
+      "No dedicated mobile app - must address this weakness honestly",
+      "Offshore licensing (Anjouan) vs Irish preference for Irish-licensed operators"
+    ],
+    "opportunities": [
+      "First comprehensive English-language Betalright review for Ireland market",
+      "50+ payment methods is genuine differentiator",
+      "GAA betting coverage appeals to Irish audience",
+      "Casino+Sports combo offering is unique angle"
+    ]
+  }
+}

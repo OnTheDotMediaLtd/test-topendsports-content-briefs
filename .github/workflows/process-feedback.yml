@@ -1,0 +1,57 @@
+name: Process Feedback Daily
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9am UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  process-feedback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Full history for proper git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install tes-shared-infrastructure
+        run: |
+          cd ..
+          if [ ! -d "tes-shared-infrastructure" ]; then
+            git clone https://github.com/OnTheDotMediaLtd/tes-shared-infrastructure.git
+          fi
+          pip install -e tes-shared-infrastructure/
+
+      - name: Validate Feedback
+        run: |
+          if [ -d "feedback/submitted" ] && [ "$(ls -A feedback/submitted)" ]; then
+            python -m tes_shared_infrastructure.feedback.validate_feedback \
+              feedback/submitted/ --move --verbose || echo "No feedback to validate"
+          else
+            echo "No feedback submissions found"
+          fi
+
+      - name: Process and Update Docs
+        run: |
+          if [ -d "feedback/validated" ] && [ "$(ls -A feedback/validated)" ]; then
+            python -m tes_shared_infrastructure.feedback.ingest_feedback \
+              --update-docs --verbose || echo "No feedback to process"
+          else
+            echo "No validated feedback found"
+          fi
+
+      - name: Commit Updates
+        run: |
+          git config user.name "TES Feedback Bot"
+          git config user.email "bot@topendsports.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: process feedback and update documentation [automated]"
+            git push
+          fi

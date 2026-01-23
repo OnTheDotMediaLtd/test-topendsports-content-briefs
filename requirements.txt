@@ -13,3 +13,8 @@ urllib3>=2.0.0
 
 # Optional but recommended
 markdown>=3.4.0
+
+# TES Shared Infrastructure (installed from local source)
+# Install with: pip install -e ../tes-shared-infrastructure
+# This provides: HTMLStructureValidator, TrackingValidator, CSVHandler, FeedbackProcessor, JSONSchemaValidator
+-e ../tes-shared-infrastructure

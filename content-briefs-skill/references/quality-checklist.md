@@ -1,6 +1,35 @@
 # Brief Quality Checklist
 
 Use before delivering each phase output.
+**Standard:** V3 (Updated December 2025)
+
+---
+
+## V3 MANDATORY CHECKS (NEW)
+
+Before delivering ANY brief, verify these V3 requirements:
+
+### V3 Keyword Verification
+- [ ] **Total Secondary Volume** calculated and displayed
+- [ ] **"Unmapped Keywords: NONE"** statement present
+- [ ] **Cluster increase %** calculated over primary keyword
+
+### V3 Structure Requirements
+- [ ] **Word Count by Section table** present (every section has target)
+- [ ] **Competitor URLs** included (2-3 reference pages)
+- [ ] **"Writer must cover" bullets** under each H2/H3
+- [ ] **Internal links mapped to specific sections** (not "within 500 words")
+
+### V3 Mobile Section Limits
+- [ ] **Hub pages:** 75-100 words per brand mobile section
+- [ ] **Comparison pages:** 100-150 words per brand mobile section
+- [ ] **Review pages:** 150-200 words total for mobile section
+- [ ] Hub mobile sections link to dedicated apps page
+
+### V3 E-E-A-T Requirements
+- [ ] **Author name** specified
+- [ ] **Author credentials** described
+- [ ] **Author bio link** format specified
 
 ---
 

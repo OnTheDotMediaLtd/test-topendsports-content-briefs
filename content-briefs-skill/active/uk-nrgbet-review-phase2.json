@@ -1,0 +1,806 @@
+{
+  "meta": {
+    "generated": "2025-12-15",
+    "phase": "2",
+    "status": "complete",
+    "page_name": "uk-nrgbet-review",
+    "url": "https://www.topendsports.com/sport/betting/uk/nrgbet-review.htm",
+    "market": "United Kingdom",
+    "template": "Template 1 (Review)",
+    "writer": "Lewis Humphries",
+    "priority": "MEDIUM"
+  },
+  "content_specs": {
+    "total_word_count": "2500-3500",
+    "target_word_count": 3000,
+    "sections_count": 13,
+    "faqs_count": 8,
+    "internal_links_count": 12,
+    "brands_featured": 1
+  },
+  "keyword_mapping": {
+    "h1": {
+      "title": "NRGbet Review: In-Depth Analysis for UK Bettors",
+      "keywords": ["betting site reviews", "nrgbet review", "nrgbet"],
+      "note": "Timeless title without date"
+    },
+    "h2_sections": [
+      {
+        "title": "NRGbet Overview: What You Need to Know",
+        "keywords": ["nrg bet", "nrgbet", "nrg betting"],
+        "word_count": "300-350",
+        "content_focus": "Company background, market position as new UK operator, brand clarification (NRG/energy bet)"
+      },
+      {
+        "title": "UK Gambling Commission Licensing & Safety",
+        "keywords": ["uk gambling commission", "safe betting sites"],
+        "word_count": "300-350",
+        "content_focus": "UKGC license verification, player fund protection, responsible gambling tools, regulatory compliance"
+      },
+      {
+        "title": "NRGbet Welcome Bonus: Current Offers & Promotions",
+        "keywords": ["nrgbet bonus", "nrgbet promo", "new betting sites uk"],
+        "word_count": "350-400",
+        "content_focus": "Current welcome offer details, promo codes, wagering requirements, ongoing promotions, complete T&Cs"
+      },
+      {
+        "title": "Sports Betting Markets at NRGbet",
+        "keywords": ["nrgbet sports", "football betting app"],
+        "word_count": "400-450",
+        "content_focus": "Sport coverage depth, football markets focus, market variety, odds competitiveness"
+      },
+      {
+        "title": "Live Betting & In-Play Features",
+        "keywords": ["live betting", "in play betting"],
+        "word_count": "300-350",
+        "content_focus": "Live betting platform quality, in-play markets availability, live streaming options, real-time odds updates"
+      },
+      {
+        "title": "NRGbet Mobile App Review",
+        "keywords": ["mobile betting", "nrgbet app"],
+        "word_count": "350-400",
+        "content_focus": "iOS/Android app availability, App Store ratings, mobile web experience, app performance and features"
+      },
+      {
+        "title": "NRGbet Casino: Games & Live Casino",
+        "keywords": ["nrgbet casino"],
+        "word_count": "250-300",
+        "content_focus": "Casino game selection, slots variety, table games, live casino offerings (if applicable)"
+      },
+      {
+        "title": "Payment Methods & Banking Options",
+        "keywords": [],
+        "word_count": "300-350",
+        "content_focus": "UK payment options (debit cards only), deposit/withdrawal methods, processing times, limits, fees"
+      },
+      {
+        "title": "Customer Support & Help Resources",
+        "keywords": [],
+        "word_count": "200-250",
+        "content_focus": "Contact methods (live chat, email, phone), support hours, help center quality, response times"
+      },
+      {
+        "title": "NRGbet vs Established UK Bookmakers",
+        "keywords": ["new bookmakers", "new betting sites uk"],
+        "word_count": "300-350",
+        "content_focus": "Comparison with bet365, William Hill, Ladbrokes, competitive positioning, unique selling points"
+      }
+    ],
+    "h3_subsections": [
+      {
+        "parent_h2": "Sports Betting Markets at NRGbet",
+        "title": "Esports Betting at NRGbet",
+        "keywords": ["esports betting"],
+        "word_count": "150-200",
+        "content_focus": "Esports markets if available (CS:GO, League of Legends, Dota 2), competitive odds, tournament coverage"
+      },
+      {
+        "parent_h2": "Sports Betting Markets at NRGbet",
+        "title": "Accumulator Betting & Enhanced Odds",
+        "keywords": ["accumulator betting"],
+        "word_count": "150-200",
+        "content_focus": "Acca insurance, acca boosts, enhanced odds promotions, bet builder features"
+      },
+      {
+        "parent_h2": "NRGbet Mobile App Review",
+        "title": "Football Betting on the NRGbet App",
+        "keywords": ["football betting app"],
+        "word_count": "100-150",
+        "content_focus": "Football-specific app features, in-play football betting, quick bet placement, notifications"
+      }
+    ],
+    "natural_placements": [
+      {
+        "keyword": "nrg betting",
+        "usage": "Throughout content naturally",
+        "frequency": "3-5 times"
+      },
+      {
+        "keyword": "new bookmakers",
+        "usage": "In market positioning sections",
+        "frequency": "2-3 times"
+      },
+      {
+        "keyword": "energy bet",
+        "usage": "Brand clarification in overview (if NRG relates to energy)",
+        "frequency": "1-2 times"
+      }
+    ]
+  },
+  "content_outline": {
+    "structure": [
+      {
+        "section": "H1",
+        "title": "NRGbet Review: In-Depth Analysis for UK Bettors",
+        "word_count": 0,
+        "elements": ["Title only"]
+      },
+      {
+        "section": "Last Updated Badge",
+        "title": "Last Updated Badge",
+        "word_count": 0,
+        "elements": ["Dynamic date badge with NRG logo #FF4500"]
+      },
+      {
+        "section": "Introduction & Quick Verdict",
+        "title": "Introduction",
+        "word_count": "150-200",
+        "elements": [
+          "Quick verdict on NRGbet for UK punters",
+          "UKGC license mention upfront",
+          "Who NRGbet is best for",
+          "Affiliate disclosure (50-75 words)"
+        ],
+        "keywords": ["nrgbet", "nrgbet review"],
+        "format": "Direct answer first, then disclosure"
+      },
+      {
+        "section": "Quick Facts Box",
+        "title": "NRGbet at a Glance",
+        "word_count": 0,
+        "elements": [
+          "Established: [Year]",
+          "UKGC License: [Number]",
+          "Welcome Bonus: [Offer]",
+          "Mobile App: Yes/No (iOS/Android)",
+          "Payment Methods: Debit cards, PayPal, Skrill, Neteller",
+          "Withdrawal Time: [Timeframe]",
+          "Customer Support: Live chat, email, phone"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "NRGbet Overview: What You Need to Know",
+        "word_count": "300-350",
+        "keywords": ["nrg bet", "nrgbet", "nrg betting", "energy bet"],
+        "content_requirements": [
+          "Company background and ownership",
+          "Launch date and market entry strategy",
+          "Brand positioning as new UK operator",
+          "Brand name clarification (NRG Bet vs NRGbet)",
+          "Key features and unique selling points",
+          "Target audience (younger demographic, mobile-first)"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "UK Gambling Commission Licensing & Safety",
+        "word_count": "300-350",
+        "keywords": ["uk gambling commission", "safe betting sites"],
+        "content_requirements": [
+          "UKGC license number verification",
+          "What UKGC licensing means for players",
+          "Player fund protection mechanisms",
+          "Data security and SSL encryption",
+          "Responsible gambling tools (GamStop, deposit limits, self-exclusion)",
+          "Age verification processes (18+)",
+          "Regulatory compliance standards"
+        ],
+        "sources": [
+          "UK Gambling Commission license database",
+          "NRGbet official website T&Cs",
+          "UKGC regulatory requirements documentation"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "NRGbet Welcome Bonus: Current Offers & Promotions",
+        "word_count": "350-400",
+        "keywords": ["nrgbet bonus", "nrgbet promo", "new betting sites uk"],
+        "content_requirements": [
+          "Current welcome bonus offer details",
+          "Eligibility requirements (new customers, 18+, UK only)",
+          "Step-by-step claiming instructions",
+          "Promo code requirements (if applicable)",
+          "Wagering requirements breakdown",
+          "Minimum odds requirements",
+          "Time limits and expiry",
+          "Complete terms and conditions",
+          "Ongoing promotions (reload bonuses, free bets, loyalty programs)",
+          "How NRGbet bonuses compare to competitors"
+        ],
+        "format": "Bullet points for T&Cs, comparison table for competitor bonuses"
+      },
+      {
+        "section": "H2",
+        "title": "Sports Betting Markets at NRGbet",
+        "word_count": "400-450",
+        "keywords": ["nrgbet sports", "football betting app"],
+        "content_requirements": [
+          "Sport coverage overview (football, horse racing, tennis, cricket, etc.)",
+          "Football markets in-depth (Premier League, EFL, European competitions)",
+          "Market depth per sport (match result, over/under, handicaps, props)",
+          "Odds competitiveness vs UK market leaders",
+          "Pre-match vs live market availability",
+          "Niche sports coverage",
+          "Betting limits (min/max stakes)"
+        ],
+        "subsections": [
+          {
+            "h3": "Esports Betting at NRGbet",
+            "word_count": "150-200",
+            "keywords": ["esports betting"],
+            "content": "Esports availability, games covered (CS:GO, League of Legends, Dota 2), tournament coverage, odds quality"
+          },
+          {
+            "h3": "Accumulator Betting & Enhanced Odds",
+            "word_count": "150-200",
+            "keywords": ["accumulator betting"],
+            "content": "Acca insurance features, acca boosts, bet builder functionality, enhanced odds promotions, acca limits"
+          }
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "Live Betting & In-Play Features",
+        "word_count": "300-350",
+        "keywords": ["live betting", "in play betting"],
+        "content_requirements": [
+          "Live betting platform interface and usability",
+          "Sports available for in-play betting",
+          "Live market variety (match result, next goal, corners, cards, etc.)",
+          "Cash out functionality (full/partial)",
+          "Live streaming availability and quality",
+          "Real-time statistics and data",
+          "Live betting on mobile vs desktop",
+          "In-play odds updates speed"
+        ],
+        "sources": [
+          "Direct testing of NRGbet live betting platform",
+          "Reddit user experiences with NRGbet live betting",
+          "Comparison with bet365 and William Hill live betting"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "NRGbet Mobile App Review",
+        "word_count": "350-400",
+        "keywords": ["mobile betting", "nrgbet app"],
+        "content_requirements": [
+          "iOS app availability and requirements",
+          "Android app availability and requirements",
+          "App Store ratings and reviews (UK)",
+          "Google Play ratings and reviews (UK)",
+          "App download and installation process",
+          "App features vs desktop site",
+          "Navigation and user interface",
+          "Betting functionality (pre-match, live, cash out)",
+          "Deposit/withdrawal on app",
+          "Push notifications and personalization",
+          "App performance and stability",
+          "Mobile web alternative (if no app)"
+        ],
+        "subsections": [
+          {
+            "h3": "Football Betting on the NRGbet App",
+            "word_count": "100-150",
+            "keywords": ["football betting app"],
+            "content": "Football-specific features, quick bet placement, in-play football betting, notifications for goals/cards, stats integration"
+          }
+        ],
+        "sources": [
+          "App Store (UK) - ratings and reviews",
+          "Google Play (UK) - ratings and reviews",
+          "Reddit discussions about NRGbet mobile experience"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "NRGbet Casino: Games & Live Casino",
+        "word_count": "250-300",
+        "keywords": ["nrgbet casino"],
+        "content_requirements": [
+          "Casino offering availability (integrated or separate)",
+          "Slots selection and providers",
+          "Table games (blackjack, roulette, baccarat)",
+          "Live casino availability",
+          "Live dealer games quality",
+          "Game variety and exclusives",
+          "Casino welcome bonus (if separate from sports)",
+          "Wagering requirements for casino bonuses",
+          "Note: Focus remains on sports betting"
+        ],
+        "note": "Brief section since this is sports betting review"
+      },
+      {
+        "section": "H2",
+        "title": "Payment Methods & Banking Options",
+        "word_count": "300-350",
+        "keywords": [],
+        "content_requirements": [
+          "Available deposit methods (debit cards, PayPal, Skrill, Neteller, bank transfer, Paysafecard)",
+          "Credit card ban explanation (UKGC rules)",
+          "Minimum/maximum deposit limits",
+          "Deposit processing times",
+          "Available withdrawal methods",
+          "Withdrawal processing times by method",
+          "Pending period details",
+          "Minimum/maximum withdrawal limits",
+          "Withdrawal fees (if any)",
+          "Verification requirements (KYC)",
+          "Payment security measures"
+        ],
+        "format": "Comparison table for deposit/withdrawal methods with processing times"
+      },
+      {
+        "section": "H2",
+        "title": "Customer Support & Help Resources",
+        "word_count": "200-250",
+        "keywords": [],
+        "content_requirements": [
+          "Live chat availability and hours",
+          "Email support and response times",
+          "Phone support (UK number)",
+          "Help center/FAQ quality and coverage",
+          "Social media support (Twitter/Facebook)",
+          "Support quality assessment",
+          "Language support (English only or multilingual)",
+          "Self-service resources"
+        ],
+        "sources": [
+          "Testing NRGbet customer support directly",
+          "Trustpilot reviews mentioning customer service",
+          "Reddit discussions about NRGbet support"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "NRGbet vs Established UK Bookmakers",
+        "word_count": "300-350",
+        "keywords": ["new bookmakers", "new betting sites uk"],
+        "content_requirements": [
+          "Comparison with bet365 (market leader)",
+          "Comparison with William Hill (traditional bookmaker)",
+          "Comparison with Ladbrokes (high street brand)",
+          "Odds comparison across major sports",
+          "Welcome bonus comparison",
+          "Market variety comparison",
+          "Mobile app comparison",
+          "Where NRGbet excels",
+          "Where NRGbet falls short",
+          "Who should choose NRGbet vs alternatives"
+        ],
+        "format": "Comparison table with key metrics"
+      },
+      {
+        "section": "Pros & Cons",
+        "title": "NRGbet Pros and Cons",
+        "word_count": "250-300",
+        "keywords": ["nrgbet review"],
+        "content_requirements": [
+          "5-7 pros with explanations",
+          "5-7 cons with explanations",
+          "Balanced assessment",
+          "Citations from Trustpilot, App Store, Reddit",
+          "Overall verdict summary"
+        ],
+        "format": "Two-column table with detailed explanations",
+        "sources": [
+          "Trustpilot reviews",
+          "App Store reviews",
+          "Reddit user discussions",
+          "Direct testing experience"
+        ]
+      },
+      {
+        "section": "H2",
+        "title": "How We Rate & Review Betting Sites",
+        "word_count": "150-200",
+        "content_requirements": [
+          "Testing methodology overview",
+          "Criteria: licensing, bonuses, odds, markets, mobile, payments, support",
+          "Scoring system explanation",
+          "Independence and objectivity statement",
+          "Continuous monitoring and updates"
+        ]
+      },
+      {
+        "section": "FAQs",
+        "title": "Frequently Asked Questions",
+        "word_count": "700-900",
+        "questions": 8,
+        "note": "150-250 words per answer with schema markup"
+      },
+      {
+        "section": "Final Verdict",
+        "title": "Final Verdict: Is NRGbet Worth It?",
+        "word_count": "200-250",
+        "content_requirements": [
+          "Summary of key findings",
+          "Who NRGbet is best for",
+          "Who should look elsewhere",
+          "Overall rating",
+          "Recommendation statement"
+        ]
+      },
+      {
+        "section": "Responsible Gambling",
+        "title": "Responsible Gambling at NRGbet",
+        "word_count": "150-200",
+        "content_requirements": [
+          "UK age restriction (18+)",
+          "GamStop self-exclusion",
+          "Deposit limits and cooling-off periods",
+          "Reality checks and session limits",
+          "BeGambleAware partnership",
+          "UK helpline: 0808 8020 133",
+          "Additional resources and support"
+        ]
+      }
+    ]
+  },
+  "faq_questions": [
+    {
+      "question": "Is NRGbet safe and legit for UK players?",
+      "keywords": ["safe betting sites", "nrgbet"],
+      "word_count": "150-200",
+      "content_focus": "UKGC license verification, license number, player fund protection, regulatory oversight, security measures",
+      "answer_framework": "Yes, NRGbet is licensed by the UK Gambling Commission (license number: [X]). This means... Include specific security features, player protection mechanisms, responsible gambling tools."
+    },
+    {
+      "question": "Does NRGbet have a mobile app for iPhone and Android?",
+      "keywords": ["nrgbet app", "mobile betting"],
+      "word_count": "150-200",
+      "content_focus": "App availability, App Store/Google Play ratings, download process, key features, mobile web alternative",
+      "answer_framework": "Yes/No, NRGbet offers... Include App Store ratings, download links, feature comparison with desktop, mobile web quality."
+    },
+    {
+      "question": "What is the NRGbet welcome bonus and how do I claim it?",
+      "keywords": ["nrgbet bonus", "nrgbet promo"],
+      "word_count": "200-250",
+      "content_focus": "Current welcome offer, eligibility, claiming steps, wagering requirements, T&Cs summary",
+      "answer_framework": "NRGbet's current welcome bonus is [offer details]. New UK customers can claim by... Include wagering requirements, time limits, promo code if needed."
+    },
+    {
+      "question": "How long do NRGbet withdrawals take?",
+      "keywords": ["nrgbet withdrawal"],
+      "word_count": "150-200",
+      "content_focus": "Processing times by payment method, pending period, verification requirements, fastest methods",
+      "answer_framework": "NRGbet withdrawal times vary by method: PayPal [X hours], debit card [X days], bank transfer [X days]. Include pending period, KYC verification impact."
+    },
+    {
+      "question": "What sports can I bet on at NRGbet?",
+      "keywords": ["nrgbet sports", "esports betting"],
+      "word_count": "150-200",
+      "content_focus": "Sport coverage including football, horse racing, tennis, cricket, esports, niche sports, market depth",
+      "answer_framework": "NRGbet covers [X] sports including... Include major sports, esports availability, market variety per sport."
+    },
+    {
+      "question": "Does NRGbet offer live betting and streaming?",
+      "keywords": ["live betting", "in play betting"],
+      "word_count": "150-200",
+      "content_focus": "Live betting availability, sports covered, live streaming, cash out, in-play features",
+      "answer_framework": "Yes, NRGbet offers live betting on... Include sports available for in-play, live streaming availability, cash out functionality."
+    },
+    {
+      "question": "How does NRGbet compare to bet365 and William Hill?",
+      "keywords": ["nrgbet review", "new betting sites uk"],
+      "word_count": "200-250",
+      "content_focus": "Competitive comparison, odds quality, bonuses, market variety, mobile experience, where NRGbet stands out or falls short",
+      "answer_framework": "NRGbet is a newer alternative to established bookmakers like bet365 and William Hill... Include specific comparisons on odds, bonuses, features."
+    },
+    {
+      "question": "What payment methods does NRGbet accept in the UK?",
+      "keywords": [],
+      "word_count": "150-200",
+      "content_focus": "UK payment options, credit card ban, deposit/withdrawal methods, limits, processing times",
+      "answer_framework": "NRGbet accepts debit cards (no credit cards per UKGC rules), PayPal, Skrill, Neteller, bank transfer, Paysafecard... Include limits and fees."
+    }
+  ],
+  "brand_sections": [
+    {
+      "brand": "NRGbet",
+      "logo_badge": "NRG",
+      "badge_color": "#FF4500",
+      "sections": [
+        {
+          "name": "Welcome Bonus",
+          "word_count": "350-400",
+          "content": "Detailed bonus breakdown with complete T&Cs"
+        },
+        {
+          "name": "Sports Markets",
+          "word_count": "400-450",
+          "content": "Full sport coverage including esports and accumulators"
+        },
+        {
+          "name": "Live Betting",
+          "word_count": "300-350",
+          "content": "In-play features, streaming, cash out"
+        },
+        {
+          "name": "Mobile Experience",
+          "word_count": "350-400",
+          "content": "iOS/Android app review with ratings, mobile web"
+        },
+        {
+          "name": "Casino Offering",
+          "word_count": "250-300",
+          "content": "Casino games and live casino (if available)"
+        },
+        {
+          "name": "Payment Methods",
+          "word_count": "300-350",
+          "content": "UK banking options with processing times"
+        },
+        {
+          "name": "Customer Support",
+          "word_count": "200-250",
+          "content": "Contact channels and support quality"
+        }
+      ]
+    }
+  ],
+  "source_requirements": {
+    "tier_1_primary": [
+      {
+        "source": "Trustpilot.com",
+        "url": "https://www.trustpilot.com/review/nrgbet.co.uk",
+        "usage": "Customer reviews, pros/cons citations, support quality",
+        "format": "\"Trustpilot users report [finding] (X reviews analyzed)\""
+      },
+      {
+        "source": "App Store (UK)",
+        "url": "https://apps.apple.com/gb/app/[nrgbet-id]",
+        "usage": "iOS app ratings, user feedback, performance reviews",
+        "format": "\"[X]/5 rating (XXX reviews) on UK App Store\""
+      },
+      {
+        "source": "Google Play (UK)",
+        "url": "https://play.google.com/store/apps/details?id=[nrgbet.package]",
+        "usage": "Android app ratings, user feedback, performance reviews",
+        "format": "\"[X]/5 rating (XXX reviews) on Google Play UK\""
+      },
+      {
+        "source": "Reddit (r/SportsBook)",
+        "url": "https://www.reddit.com/r/sportsbook/",
+        "usage": "User experiences, withdrawal times, customer support, odds quality",
+        "format": "\"Reddit users in r/sportsbook report [finding] (X threads reviewed)\""
+      },
+      {
+        "source": "OLBG.com",
+        "url": "https://www.olbg.com/bookmakers/reviews/nrgbet",
+        "usage": "Independent bookmaker reviews, user ratings",
+        "format": "\"OLBG reviewers note [finding]\""
+      }
+    ],
+    "tier_2_verification": [
+      {
+        "source": "NRGbet Official Website",
+        "url": "https://www.nrgbet.co.uk",
+        "usage": "Feature verification, bonus terms, payment methods, T&Cs",
+        "note": "Use ONLY for factual verification, NOT for pros/cons"
+      },
+      {
+        "source": "UK Gambling Commission",
+        "url": "https://register.gamblingcommission.gov.uk/",
+        "usage": "License verification, license number, operator details",
+        "note": "Essential for safety/licensing section"
+      },
+      {
+        "source": "Companies House (UK)",
+        "url": "https://www.gov.uk/government/organisations/companies-house",
+        "usage": "Company registration, ownership, financial information",
+        "note": "For company background verification"
+      }
+    ],
+    "tier_3_facts": [
+      {
+        "source": "UK Gambling Commission Standards",
+        "usage": "Regulatory requirements, player protection standards"
+      },
+      {
+        "source": "BeGambleAware.org",
+        "usage": "Responsible gambling resources, helpline information"
+      },
+      {
+        "source": "GamStop.co.uk",
+        "usage": "Self-exclusion scheme information"
+      }
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "Best UK Betting Sites",
+      "url": "/sport/betting/uk/index.htm",
+      "placement": "Introduction paragraph",
+      "context": "Link when comparing NRGbet to UK market"
+    },
+    {
+      "anchor": "New Betting Sites UK",
+      "url": "/sport/betting/uk/new-betting-sites.htm",
+      "placement": "NRGbet Overview section",
+      "context": "Position NRGbet among new UK operators"
+    },
+    {
+      "anchor": "UK Betting Apps",
+      "url": "/sport/betting/uk/betting-apps.htm",
+      "placement": "Mobile App Review section",
+      "context": "Link when discussing mobile betting apps"
+    },
+    {
+      "anchor": "Live Betting Guide",
+      "url": "/sport/betting/live-betting-guide.htm",
+      "placement": "Live Betting section",
+      "context": "Link for comprehensive live betting information"
+    },
+    {
+      "anchor": "Esports Betting UK",
+      "url": "/sport/betting/esports-betting.htm",
+      "placement": "Esports subsection",
+      "context": "Link when discussing esports markets"
+    },
+    {
+      "anchor": "bet365 Review",
+      "url": "/sport/betting/uk/bet365-review.htm",
+      "placement": "Comparison section",
+      "context": "Link when comparing to bet365"
+    },
+    {
+      "anchor": "William Hill Review",
+      "url": "/sport/betting/uk/william-hill-review.htm",
+      "placement": "Comparison section",
+      "context": "Link when comparing to William Hill"
+    },
+    {
+      "anchor": "UK Gambling Commission Guide",
+      "url": "/sport/betting/uk/ukgc-licensing.htm",
+      "placement": "Licensing & Safety section",
+      "context": "Link for detailed UKGC information"
+    },
+    {
+      "anchor": "Football Betting UK",
+      "url": "/sport/betting/uk/football-betting.htm",
+      "placement": "Sports Markets section",
+      "context": "Link when discussing football betting"
+    },
+    {
+      "anchor": "Accumulator Betting Tips",
+      "url": "/sport/betting/accumulator-tips.htm",
+      "placement": "Accumulator subsection",
+      "context": "Link for acca betting strategies"
+    },
+    {
+      "anchor": "GamStop Self-Exclusion",
+      "url": "/sport/betting/gamstop.htm",
+      "placement": "Responsible Gambling section",
+      "context": "Link for GamStop information"
+    },
+    {
+      "anchor": "Responsible Gambling UK",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "placement": "Responsible Gambling section",
+      "context": "Link for comprehensive responsible gambling resources"
+    }
+  ],
+  "uk_compliance": {
+    "age_restriction": "18+",
+    "regulator": "UK Gambling Commission",
+    "license_verification": "To be verified from UKGC database",
+    "helpline": "0808 8020 133",
+    "support_org": "BeGambleAware.org",
+    "self_exclusion": "GamStop",
+    "credit_cards": "BANNED - debit cards only per UKGC rules",
+    "required_disclosures": [
+      "18+ only. New customers only. T&Cs apply.",
+      "Please gamble responsibly. BeGambleAware.org",
+      "When the fun stops, stop.",
+      "For gambling support: 0808 8020 133",
+      "Affiliate partnerships disclosure in introduction"
+    ],
+    "mandatory_sections": [
+      "18+ age verification prominently displayed",
+      "BeGambleAware logo and link",
+      "GamStop self-exclusion information",
+      "Responsible gambling tools (deposit limits, time outs, self-exclusion)",
+      "Helpline number in footer/responsible gambling section"
+    ]
+  },
+  "meta_data": {
+    "meta_title": "NRGbet Review 2025: Is This New UK Betting Site Worth It?",
+    "meta_description": "NRGbet review for UK players: UKGC-licensed bookmaker analysis covering welcome bonus, sports markets, mobile app, payment methods, and more. Is NRGbet safe?",
+    "meta_keywords": "nrgbet, nrg bet, nrgbet review, nrgbet sports, nrgbet app, nrgbet bonus, new betting sites uk, safe betting sites, uk gambling commission, live betting, esports betting, mobile betting, football betting app",
+    "focus_keyphrase": "nrgbet review",
+    "seo_note": "Target both 'nrgbet' (1,700/mo) and 'nrg bet' (9,700/mo) variants throughout content"
+  },
+  "writer_instructions": {
+    "intro_format": {
+      "structure": "Direct verdict (40-50 words) + Affiliate disclosure (50-75 words)",
+      "max_words": 150,
+      "forbidden": ["Welcome to...", "Looking for...", "Are you searching...", rhetorical questions],
+      "required": "Quick answer upfront, UKGC license mention, who NRGbet is best for"
+    },
+    "no_dated_language": {
+      "forbidden_h1": ["NRGbet Review 2025", "NRGbet Review 2025", "October 2025"],
+      "use_instead": "Last Updated badge after H1 with dynamic date"
+    },
+    "sources_priority": {
+      "must_cite": ["Trustpilot", "App Store", "Google Play", "Reddit"],
+      "never_cite_for_pros_cons": ["Affiliate sites", "Competitor reviews"],
+      "verification_only": ["Official NRGbet website", "UKGC database"]
+    },
+    "uk_specific_requirements": {
+      "payment_methods": "Emphasize debit cards only (no credit cards) per UKGC rules",
+      "age_verification": "18+ prominently displayed, not 21+ (US rule)",
+      "helpline": "0808 8020 133 (UK-specific, not US 1-800 number)",
+      "self_exclusion": "GamStop (UK scheme, not US state programs)",
+      "currency": "GBP (£), not USD ($)",
+      "sports_focus": "Football (not soccer), horse racing, cricket (UK preferences)",
+      "competitors": "Compare to bet365, William Hill, Ladbrokes (UK leaders)"
+    },
+    "style_guide": {
+      "tone": "Professional, informative, honest, UK-friendly",
+      "perspective": "Third-person throughout",
+      "brand_variations": "Use 'NRGbet', 'NRG Bet', 'NRG Betting' naturally",
+      "terminology": "Punters (not bettors), bookmaker (not sportsbook), accumulator (not parlay)"
+    }
+  },
+  "quality_checklist": {
+    "keyword_optimization": [
+      "All 15 secondary keywords mapped to specific sections",
+      "Primary keyword 'nrgbet' appears in H1, introduction, and naturally throughout",
+      "Variant 'nrg bet' used naturally in multiple sections",
+      "FAQ questions target high-volume keywords",
+      "Meta keywords include all primary and secondary terms"
+    ],
+    "content_requirements": [
+      "Total word count: 2,500-3,500 words",
+      "8 FAQ questions with 150-250 word answers",
+      "12 internal links strategically placed",
+      "Tier 1 sources cited for all claims",
+      "Complete T&Cs for welcome bonus",
+      "UK-specific payment methods and processing times",
+      "App Store and Google Play ratings included",
+      "Comparison with bet365, William Hill, Ladbrokes"
+    ],
+    "uk_compliance": [
+      "18+ age restriction prominently displayed",
+      "UK helpline 0808 8020 133 included",
+      "GamStop self-exclusion mentioned",
+      "BeGambleAware.org resources linked",
+      "Credit card ban explained",
+      "UKGC license verification",
+      "Debit cards only for payments"
+    ],
+    "structure_validation": [
+      "Timeless H1 without date",
+      "Last Updated badge included",
+      "Introduction under 150 words with disclosure",
+      "All H2/H3 sections mapped to keywords",
+      "Pros & Cons section with balanced assessment",
+      "How We Rate section included",
+      "Final verdict section",
+      "Responsible gambling section at bottom"
+    ]
+  },
+  "validation": {
+    "phase_1_data_loaded": true,
+    "all_keywords_mapped": true,
+    "faq_questions_created": true,
+    "internal_links_specified": true,
+    "sources_documented": true,
+    "uk_compliance_integrated": true,
+    "writer_instructions_complete": true,
+    "ready_for_phase_3": true
+  }
+}

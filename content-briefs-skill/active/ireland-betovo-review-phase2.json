@@ -1,0 +1,430 @@
+{
+  "page_info": {
+    "url": "/sport/betting/ireland/betovo-review.htm",
+    "title": "Betovo Sport Review",
+    "market": "Ireland",
+    "writer": "Tom Goldsmith",
+    "priority": "Medium",
+    "template_type": "1",
+    "template_name": "Brand Review",
+    "target_word_count": 3500,
+    "age_requirement": "18+",
+    "helpline": "Problem Gambling Ireland"
+  },
+  "keyword_mapping": {
+    "primary_keyword": "betovo (250 vol)",
+    "secondary_keywords_mapped": [
+      {
+        "keyword": "betovo review",
+        "volume": 30,
+        "placement": "H2",
+        "section": "Betovo Rating Summary",
+        "rationale": "Direct review intent matches rating section"
+      },
+      {
+        "keyword": "betovo app",
+        "volume": 40,
+        "placement": "H2",
+        "section": "Betovo Mobile App Review",
+        "rationale": "Dedicated mobile experience section"
+      },
+      {
+        "keyword": "betovo casino",
+        "volume": 20,
+        "placement": "H2",
+        "section": "Betovo Casino Review",
+        "rationale": "Standalone casino section"
+      },
+      {
+        "keyword": "betovo login",
+        "volume": 10,
+        "placement": "H3",
+        "section": "User Experience & Account Setup (within Feature Analysis)",
+        "rationale": "Account access subsection"
+      },
+      {
+        "keyword": "betovo betting",
+        "volume": 20,
+        "placement": "Natural",
+        "section": "Throughout content",
+        "rationale": "General betting features discussion"
+      },
+      {
+        "keyword": "betting sites ireland",
+        "volume": 900,
+        "placement": "H2",
+        "section": "How Betovo Compares to Other Irish Betting Sites",
+        "rationale": "Market positioning with high-volume term"
+      },
+      {
+        "keyword": "best betting sites ireland",
+        "volume": 450,
+        "placement": "H2",
+        "section": "How Betovo Compares to Other Irish Betting Sites",
+        "rationale": "Alternative phrasing in same comparison section"
+      },
+      {
+        "keyword": "betting apps ireland",
+        "volume": 200,
+        "placement": "H3",
+        "section": "How the Betovo App Compares to Other Irish Betting Apps (subsection)",
+        "rationale": "App comparison context within mobile section"
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "placement": "Natural",
+        "section": "Introduction",
+        "rationale": "Market context in opening"
+      },
+      {
+        "keyword": "online betting ireland",
+        "volume": 250,
+        "placement": "Natural",
+        "section": "Introduction and throughout",
+        "rationale": "General Irish market references"
+      },
+      {
+        "keyword": "irish betting sites",
+        "volume": 400,
+        "placement": "Natural",
+        "section": "Comparison section and throughout",
+        "rationale": "Contextual market references"
+      }
+    ],
+    "meta_keywords": "betovo, betovo review, betovo app, betovo casino, betovo login, betovo betting, betting sites ireland, best betting sites ireland, betting apps ireland, sports betting ireland, online betting ireland, irish betting sites"
+  },
+  "content_outline": {
+    "h1": "Betovo Sportsbook Review: Features, App, and Betting Experience",
+    "sections": [
+      {
+        "section_number": 1,
+        "heading": "Introduction & Quick Answer",
+        "heading_level": "Opening Content",
+        "word_count": 250,
+        "target_keywords": ["betovo", "sports betting ireland", "online betting ireland"],
+        "instructions": "Open with direct answer: Is Betovo worth joining? Follow with market context about sports betting ireland. Include affiliate disclosure (50-75 words). Total 250 words.",
+        "subsections": []
+      },
+      {
+        "section_number": 2,
+        "heading": "Betovo Review: Rating Summary",
+        "heading_level": "H2",
+        "word_count": 200,
+        "target_keywords": ["betovo review"],
+        "instructions": "5-star rating breakdown: Odds (4/5), Markets (4.5/5), App (4/5), Bonuses (4.5/5), Support (4/5). Overall: 4.2/5. Explain each category briefly.",
+        "subsections": []
+      },
+      {
+        "section_number": 3,
+        "heading": "Comprehensive Feature Analysis",
+        "heading_level": "H2",
+        "word_count": 1000,
+        "target_keywords": ["betovo betting", "betovo"],
+        "instructions": "Deep dive on all major features. Must include Bet Mentor tool as key differentiator.",
+        "subsections": [
+          {
+            "heading": "Betting Markets & Odds Quality",
+            "heading_level": "H3",
+            "word_count": 200,
+            "keywords": ["betovo betting"],
+            "instructions": "Cover 35+ sports, 4,000+ events, zero-margin markets, flash markets. Compare odds to Paddy Power/Bet365."
+          },
+          {
+            "heading": "Welcome Bonus & Promotions Breakdown",
+            "heading_level": "H3",
+            "word_count": 250,
+            "keywords": ["betovo"],
+            "instructions": "3-part deposit bonus: 100% up to €250, 75% up to €500, 75% up to €250. Total: €1,000. Explain terms, wagering requirements, sports jackpot promos."
+          },
+          {
+            "heading": "Bet Mentor Tool: How It Works",
+            "heading_level": "H3",
+            "word_count": 200,
+            "keywords": ["betovo"],
+            "instructions": "CRITICAL DIFFERENTIATOR. Explain what Bet Mentor does, how users access it, what insights it provides. This is a content gap vs competitors."
+          },
+          {
+            "heading": "Payment Methods & Withdrawal Times",
+            "heading_level": "H3",
+            "word_count": 200,
+            "keywords": ["betovo"],
+            "instructions": "Visa, MasterCard, Bank Transfer, Apple Pay, Revolut, Cryptocurrency (Bitcoin, Ethereum). Highlight crypto speed (almost immediate) vs cards (3+ days)."
+          },
+          {
+            "heading": "User Experience & Account Setup",
+            "heading_level": "H3",
+            "word_count": 150,
+            "keywords": ["betovo login"],
+            "instructions": "Registration process, login experience, account verification. Mention how quickly users can start betting."
+          }
+        ]
+      },
+      {
+        "section_number": 4,
+        "heading": "Betovo App Review: Progressive Web App Experience",
+        "heading_level": "H2",
+        "word_count": 400,
+        "target_keywords": ["betovo app", "betting apps ireland"],
+        "instructions": "Focus on PWA (Progressive Web App) - works on iOS/Android without app store download. Compare to native apps from other Irish bookmakers. Include installation guide.",
+        "subsections": [
+          {
+            "heading": "How the Betovo App Compares to Other Irish Betting Apps",
+            "heading_level": "H3",
+            "word_count": 150,
+            "keywords": ["betting apps ireland"],
+            "instructions": "Compare PWA approach vs Paddy Power/Bet365 native apps. Pros: No store download, instant updates. Cons: Less integration with device features."
+          }
+        ]
+      },
+      {
+        "section_number": 5,
+        "heading": "Live Betting & Streaming on Betovo",
+        "heading_level": "H2",
+        "word_count": 300,
+        "target_keywords": ["betovo"],
+        "instructions": "HD live streaming availability, in-play markets, early payout options. What sports have live streaming? How does interface work during live events?",
+        "subsections": []
+      },
+      {
+        "section_number": 6,
+        "heading": "Betovo Casino Review",
+        "heading_level": "H2",
+        "word_count": 250,
+        "target_keywords": ["betovo casino"],
+        "instructions": "Casino offering alongside sportsbook. Slots, table games, live dealer. Operated by SoftGenius N.V. Note this is primarily a sportsbook review but casino exists.",
+        "subsections": []
+      },
+      {
+        "section_number": 7,
+        "heading": "How Betovo Compares to the Best Betting Sites in Ireland",
+        "heading_level": "H2",
+        "word_count": 400,
+        "target_keywords": ["betting sites ireland", "best betting sites ireland", "irish betting sites"],
+        "instructions": "Compare Betovo vs Paddy Power, Bet365, BoyleSports. Use all 3 keywords naturally. Comparison table: odds, markets, bonuses, app quality. Betovo strengths: Bet Mentor, zero-margin markets, crypto payments.",
+        "subsections": []
+      },
+      {
+        "section_number": 8,
+        "heading": "GAA Betting on Betovo",
+        "heading_level": "H2",
+        "word_count": 200,
+        "target_keywords": ["betovo"],
+        "instructions": "IRISH MARKET FOCUS. Coverage of GAA (Gaelic football, hurling). Markets available, odds quality for county championships, All-Ireland series. This is a content gap vs international competitors.",
+        "subsections": []
+      },
+      {
+        "section_number": 9,
+        "heading": "Frequently Asked Questions",
+        "heading_level": "H2",
+        "word_count": 300,
+        "target_keywords": ["betovo review", "betovo login", "betovo app"],
+        "instructions": "7 FAQs targeting keyword searches. See FAQ list below.",
+        "subsections": []
+      },
+      {
+        "section_number": 10,
+        "heading": "Responsible Gambling at Betovo",
+        "heading_level": "H2",
+        "word_count": 150,
+        "target_keywords": [],
+        "instructions": "18+ requirement, Problem Gambling Ireland resources, Gamblers Anonymous Ireland, self-exclusion tools, deposit limits. Ireland-specific support.",
+        "subsections": []
+      },
+      {
+        "section_number": 11,
+        "heading": "Final Verdict: Is Betovo Worth It?",
+        "heading_level": "H2",
+        "word_count": 150,
+        "target_keywords": ["betovo review"],
+        "instructions": "Summary judgment. Best for: Bettors who want Bet Mentor insights, crypto users, GAA fans. Not ideal for: Users preferring native apps. Overall rating: 4.2/5.",
+        "subsections": []
+      }
+    ]
+  },
+  "faq_questions": [
+    {
+      "question": "Is Betovo a legit betting site in Ireland?",
+      "target_keyword": "betovo review",
+      "volume": 30,
+      "answer_brief": "Yes, Betovo operates legally in Ireland. Licensed operator SoftGenius N.V. Verified payment methods and responsible gambling tools."
+    },
+    {
+      "question": "How do I download the Betovo app?",
+      "target_keyword": "betovo app",
+      "volume": 40,
+      "answer_brief": "Betovo uses a Progressive Web App (PWA). Visit betovo.com on mobile browser, tap 'Add to Home Screen'. Works on iOS and Android without app store download."
+    },
+    {
+      "question": "What is the Betovo welcome bonus for Irish customers?",
+      "target_keyword": "betovo",
+      "volume": 250,
+      "answer_brief": "3-part deposit bonus totaling €1,000: First deposit 100% up to €250, second deposit 75% up to €500, third deposit 75% up to €250. Terms and wagering requirements apply."
+    },
+    {
+      "question": "Can I bet on GAA with Betovo?",
+      "target_keyword": "betovo betting",
+      "volume": 20,
+      "answer_brief": "Yes, Betovo offers GAA betting markets for Gaelic football and hurling, including county championships and All-Ireland series."
+    },
+    {
+      "question": "How fast are Betovo withdrawals?",
+      "target_keyword": "betovo",
+      "volume": 250,
+      "answer_brief": "Cryptocurrency withdrawals are almost immediate. E-wallets take 1-3 business days. Card withdrawals take 3+ business days."
+    },
+    {
+      "question": "Does Betovo have live streaming for Irish customers?",
+      "target_keyword": "betovo",
+      "volume": 250,
+      "answer_brief": "Yes, Betovo offers HD live streaming on select events. Availability varies by sport and licensing agreements."
+    },
+    {
+      "question": "What is the Bet Mentor tool on Betovo?",
+      "target_keyword": "betovo",
+      "volume": 250,
+      "answer_brief": "Bet Mentor is Betovo's exclusive betting insights tool that provides data-driven recommendations and analysis to help inform betting decisions."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "best betting sites in Ireland",
+      "url": "/sport/betting/ireland/best-betting-sites.htm",
+      "section": "Comparison section",
+      "context": "When comparing Betovo to other Irish bookmakers"
+    },
+    {
+      "anchor": "Irish betting apps",
+      "url": "/sport/betting/ireland/betting-apps.htm",
+      "section": "Mobile App Review",
+      "context": "PWA vs native app comparison"
+    },
+    {
+      "anchor": "GAA betting guide",
+      "url": "/sport/betting/gaa/betting-guide.htm",
+      "section": "GAA Betting section",
+      "context": "Deep dive on Gaelic sports betting"
+    },
+    {
+      "anchor": "live betting strategies",
+      "url": "/sport/betting/guides/live-betting.htm",
+      "section": "Live Betting & Streaming",
+      "context": "How to maximize live betting features"
+    },
+    {
+      "anchor": "sports betting bonus guide",
+      "url": "/sport/betting/guides/bonuses.htm",
+      "section": "Welcome Bonus subsection",
+      "context": "Understanding wagering requirements"
+    },
+    {
+      "anchor": "betting odds calculator",
+      "url": "/sport/betting/calculators/odds.htm",
+      "section": "Betting Markets subsection",
+      "context": "Calculate potential returns"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "section": "Betting Markets subsection",
+      "context": "Multi-bet calculations"
+    },
+    {
+      "anchor": "responsible gambling Ireland",
+      "url": "/sport/betting/ireland/responsible-gambling.htm",
+      "section": "Responsible Gambling section",
+      "context": "Irish-specific support resources"
+    },
+    {
+      "anchor": "bet365 Ireland review",
+      "url": "/sport/betting/ireland/bet365-review.htm",
+      "section": "Comparison section",
+      "context": "vs bet365 comparison"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/ireland/paddy-power-review.htm",
+      "section": "Comparison section",
+      "context": "vs Paddy Power comparison"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "url": "/sport/betting/ireland/boyle-sports-review.htm",
+      "section": "Comparison section",
+      "context": "vs BoyleSports comparison"
+    },
+    {
+      "anchor": "how to withdraw from betting sites",
+      "url": "/sport/betting/guides/withdrawals.htm",
+      "section": "Payment Methods subsection",
+      "context": "Withdrawal process guide"
+    }
+  ],
+  "source_requirements": {
+    "tier1_required": [
+      "App Store reviews (if native app exists, otherwise note PWA approach)",
+      "Google Play reviews (if native app exists, otherwise note PWA approach)",
+      "Reddit user discussions about Betovo (r/ireland, r/sportsbook)"
+    ],
+    "tier2_allowed": [
+      "Betovo official site for feature verification only",
+      "Betovo T&Cs for bonus terms"
+    ],
+    "tier4_sparingly": [
+      "Competitor reviews only for content gap analysis, NOT for pros/cons"
+    ],
+    "forbidden": [
+      "NO citing affiliate sites for user opinions or ratings"
+    ]
+  },
+  "brand_info": {
+    "featured_brand": {
+      "name": "Betovo",
+      "operator": "SoftGenius N.V.",
+      "badge_code": "BVO",
+      "badge_color": "#795548",
+      "key_differentiators": [
+        "Revolutionary Bet Mentor tool",
+        "Zero-margin markets",
+        "35+ sports with 4,000+ events",
+        "Strong live betting and streaming",
+        "Progressive Web App (iOS/Android)",
+        "Cryptocurrency payment support"
+      ]
+    },
+    "comparison_brands": [
+      {
+        "name": "Paddy Power",
+        "rationale": "Irish market leader, must-compare"
+      },
+      {
+        "name": "Bet365",
+        "rationale": "Industry standard for features"
+      },
+      {
+        "name": "BoyleSports",
+        "rationale": "Local Irish competitor"
+      }
+    ]
+  },
+  "compliance": {
+    "age_requirement": "18+",
+    "market": "Ireland",
+    "helpline": "Problem Gambling Ireland",
+    "additional_resources": ["Gamblers Anonymous Ireland"],
+    "affiliate_disclosure_required": true,
+    "responsible_gambling_section_required": true
+  },
+  "technical_requirements": [
+    "Last Updated badge after H1 (December 2025)",
+    "Comparison table: Betovo vs Paddy Power vs Bet365 vs BoyleSports",
+    "Bet Mentor tool visual explainer (screenshot or mockup)",
+    "Payment methods matrix with withdrawal times",
+    "PWA installation guide (step-by-step)",
+    "Review schema markup with aggregateRating",
+    "FAQ schema markup",
+    "Breadcrumb schema markup"
+  ],
+  "phase2_completion_date": "2025-12-15",
+  "next_phase": "Phase 3: AI Enhancement & Technical Implementation"
+}

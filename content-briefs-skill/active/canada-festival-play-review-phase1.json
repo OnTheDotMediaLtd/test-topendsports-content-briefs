@@ -1,0 +1,367 @@
+{
+  "page": {
+    "url": "/sport/betting/canada/festivalplay-review.htm",
+    "title": "Festival Play Sport Review",
+    "market": "Canada",
+    "template": 1,
+    "writer": "Tom Goldsmith",
+    "priority": "High",
+    "status": "Phase 1 Complete",
+    "last_updated": "2025-12-15"
+  },
+  "brand": {
+    "name": "Festival Play",
+    "badge_code": "FPL",
+    "badge_color": "#FF9800",
+    "rating": 7.4,
+    "position": 5,
+    "specialization": "Event betting, horse racing, offshore operator",
+    "license": "Curacao Gaming License (365/JAZ)",
+    "app_available": false,
+    "app_note": "Mobile-optimized website (no native app)",
+    "crypto_support": true,
+    "live_streaming": false
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "festival play sport",
+      "volume": 20,
+      "difficulty": null,
+      "country": "ca",
+      "source": "Site Structure CSV"
+    },
+    "secondary": [
+      {
+        "keyword": "festival play",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "H2: Festival Play Overview",
+        "priority": "high"
+      },
+      {
+        "keyword": "festival play casino",
+        "volume": 90,
+        "difficulty": null,
+        "placement": "H3: Festival Play Casino & Sportsbook Integration",
+        "priority": "high"
+      },
+      {
+        "keyword": "festivalplay",
+        "volume": 40,
+        "difficulty": 15,
+        "placement": "Natural mentions",
+        "priority": "medium"
+      },
+      {
+        "keyword": "festival play bonus",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H2: Festival Play Welcome Bonus Canada",
+        "priority": "high"
+      },
+      {
+        "keyword": "festival play app",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H2: Festival Play Mobile Experience",
+        "priority": "high"
+      },
+      {
+        "keyword": "festival play review",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H1 and natural",
+        "priority": "high"
+      },
+      {
+        "keyword": "festival play canada",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H2: Festival Play for Canadian Players",
+        "priority": "high"
+      },
+      {
+        "keyword": "festival play withdrawal",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H3: Festival Play Withdrawal Times & Methods",
+        "priority": "medium"
+      },
+      {
+        "keyword": "is festival play legit",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "FAQ: Is Festival Play Legit and Safe for Canadians?",
+        "priority": "high"
+      },
+      {
+        "keyword": "festival play promo code",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H3: Festival Play Promo Code Requirements",
+        "priority": "medium"
+      },
+      {
+        "keyword": "festival play login",
+        "volume": 0,
+        "difficulty": null,
+        "placement": "H3: Getting Started with Festival Play",
+        "priority": "low"
+      },
+      {
+        "keyword": "offshore sportsbook",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "H2: Festival Play as Offshore Sportsbook",
+        "priority": "medium"
+      },
+      {
+        "keyword": "crypto sportsbook",
+        "volume": 300,
+        "difficulty": 87,
+        "placement": "H3: Festival Play Cryptocurrency Payments",
+        "priority": "high"
+      }
+    ],
+    "branded_keywords": [
+      {
+        "keyword": "festival play",
+        "volume": 20,
+        "placement": "Throughout content"
+      },
+      {
+        "keyword": "festival play casino",
+        "volume": 90,
+        "placement": "Casino integration section"
+      }
+    ],
+    "contextual_keywords": [
+      {
+        "keyword": "betting sites canada",
+        "volume": 1400,
+        "difficulty": 79,
+        "placement": "Natural mentions, comparison context"
+      },
+      {
+        "keyword": "online betting canada",
+        "volume": 1000,
+        "difficulty": 83,
+        "placement": "Natural mentions"
+      },
+      {
+        "keyword": "sportsbook canada",
+        "volume": 400,
+        "difficulty": 84,
+        "placement": "Natural mentions"
+      }
+    ],
+    "total_volume": 1870,
+    "volume_increase_percent": "9350%"
+  },
+  "competitor_analysis": {
+    "primary_competitors": [
+      {
+        "domain": "canadasportsbetting.ca",
+        "type": "Affiliate",
+        "position": 1,
+        "domain_rating": 54,
+        "traffic": 22416,
+        "brands_covered": 10,
+        "word_count_estimate": 8500,
+        "strengths": [
+          "Comprehensive comparison table",
+          "Ontario vs non-Ontario guide",
+          "Payment methods comparison",
+          "12+ FAQs"
+        ],
+        "gaps": [
+          "Limited offshore brand depth",
+          "Shallow mobile UX analysis",
+          "Missing crypto payment details"
+        ]
+      },
+      {
+        "domain": "legalsportsreport.com",
+        "type": "Affiliate",
+        "position": 3,
+        "brands_covered": 8,
+        "word_count_estimate": 7000,
+        "strengths": [
+          "Province-by-province legal breakdown",
+          "Licensed vs offshore comparison"
+        ],
+        "gaps": [
+          "Limited offshore operator reviews",
+          "Generic bonus descriptions"
+        ]
+      },
+      {
+        "domain": "calgary2026.ca",
+        "type": "Affiliate",
+        "position": 8,
+        "brands_covered": 7,
+        "word_count_estimate": 6000,
+        "strengths": [
+          "Bonus-focused comparison"
+        ],
+        "gaps": [
+          "Missing regulatory analysis",
+          "No mobile app depth"
+        ]
+      }
+    ],
+    "target_metrics": {
+      "word_count": "3500-4000",
+      "faqs": 10,
+      "internal_links": 12,
+      "differentiation": "Deep offshore operator analysis, crypto payment guide, mobile-first review, Canadian banking methods"
+    }
+  },
+  "content_gaps": [
+    "Detailed cryptocurrency payment guide for Canadian players",
+    "Mobile-optimized website UX analysis (since no native app)",
+    "Canadian banking methods (Interac, e-transfer) compatibility",
+    "Provincial age requirements and availability",
+    "Comparison to licensed Ontario operators",
+    "Event betting specialization details",
+    "Horse racing markets for Canadian races",
+    "NHL and CFL betting markets depth"
+  ],
+  "internal_links": [
+    {
+      "anchor": "Best Sports Betting Sites Canada",
+      "url": "/sport/betting/canada/betting-hub.htm",
+      "context": "Comparison with other Canadian operators"
+    },
+    {
+      "anchor": "Best Betting Apps Canada",
+      "url": "/sport/betting/canada/betting-apps.htm",
+      "context": "Mobile betting alternatives with native apps"
+    },
+    {
+      "anchor": "New Betting Sites Canada",
+      "url": "/sport/betting/canada/new-betting-sites.htm",
+      "context": "Other emerging offshore operators"
+    },
+    {
+      "anchor": "Treasure Spins Review",
+      "url": "/sport/betting/canada/treasure-spins-review.htm",
+      "context": "Alternative offshore operator comparison"
+    },
+    {
+      "anchor": "Royalistplay Review",
+      "url": "/sport/betting/canada/royalistplay-review.htm",
+      "context": "Another offshore option for Canadians"
+    },
+    {
+      "anchor": "Lucky7even Review",
+      "url": "/sport/betting/canada/lucky7even-review.htm",
+      "context": "Popular Canadian offshore alternative"
+    },
+    {
+      "anchor": "Parlay Calculator",
+      "url": "/sport/betting/calculators/parlay.htm",
+      "context": "Calculate potential parlay winnings"
+    },
+    {
+      "anchor": "Odds Converter",
+      "url": "/sport/betting/calculators/odds-converter.htm",
+      "context": "Convert between odds formats"
+    },
+    {
+      "anchor": "Betting Odds Explained",
+      "url": "/sport/betting/guides/odds-explained.htm",
+      "context": "Understanding betting odds"
+    },
+    {
+      "anchor": "How to Bet on NHL",
+      "url": "/sport/betting/guides/nhl-betting.htm",
+      "context": "NHL betting guide for Canadians"
+    },
+    {
+      "anchor": "CFL Betting Guide",
+      "url": "/sport/betting/guides/cfl-betting.htm",
+      "context": "Canadian Football League betting"
+    },
+    {
+      "anchor": "Responsible Gambling Canada",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "context": "Canadian gambling resources"
+    }
+  ],
+  "sources": {
+    "tier_1_primary": [
+      "Festival Play official website",
+      "Reddit r/sportsbook discussions",
+      "Google Play user reviews (mobile site)",
+      "Trustpilot Festival Play reviews",
+      "Canadian Gaming Association reports"
+    ],
+    "tier_2_verification": [
+      "Curacao Gaming License verification",
+      "Provincial gambling commission websites",
+      "Canadian banking institution documentation (Interac, e-transfer)"
+    ],
+    "tier_3_facts": [
+      "Canadian sports betting industry publications",
+      "Offshore sportsbook market analysis",
+      "Cryptocurrency payment processing documentation"
+    ]
+  },
+  "compliance": {
+    "age_requirement": "19+ (18+ in Alberta, Manitoba, Quebec)",
+    "helpline": "1-866-531-2600 (ConnexOntario) or provincial resources",
+    "disclosure": "TopEnd Sports may earn commission when you sign up through our links. This review is independent and objective.",
+    "responsible_gambling_section": "Required with Canadian resources",
+    "provincial_availability": "Available in all provinces (offshore operator)",
+    "legal_status": "Offshore operator - not provincially licensed but accessible"
+  },
+  "technical_requirements": {
+    "schema_markup": [
+      "Article schema",
+      "FAQ schema (10 questions)",
+      "Breadcrumb schema"
+    ],
+    "meta_tags": {
+      "title": "Festival Play Review Canada 2025: Curacao-Licensed Sportsbook Analysis",
+      "description": "Festival Play review for Canadian players. 38+ sports, crypto payments, CAD$100 bonus. No app. Compare to licensed operators. Read our expert analysis.",
+      "keywords": "festival play, festival play review, festival play canada, festival play bonus, festival play app, festival play casino, festival play withdrawal, is festival play legit, canadian betting sites, offshore sportsbook"
+    },
+    "interactive_elements": [
+      "Comparison table (Festival Play vs 3 competitors)",
+      "Rating breakdown visualization",
+      "Payment methods comparison",
+      "Provincial age requirements table"
+    ],
+    "bonus_verification": {
+      "amount": "100% up to CAD$100",
+      "minimum_deposit": "CAD$10",
+      "wagering_requirement": "8x at 1.50+ odds",
+      "verification_date": "2025-12-15",
+      "verification_method": "Festival Play website + live chat"
+    }
+  },
+  "canadian_specifics": {
+    "payment_methods": [
+      "Interac (if supported - verify)",
+      "e-Transfer",
+      "Cryptocurrency (Bitcoin, Ethereum, USDT)",
+      "Credit/Debit Cards (Visa, Mastercard)"
+    ],
+    "sports_focus": [
+      "NHL (National Hockey League)",
+      "CFL (Canadian Football League)",
+      "MLS (with Canadian teams focus)",
+      "NBA (Toronto Raptors)",
+      "MLB (Toronto Blue Jays)",
+      "Horse Racing (Canadian tracks)"
+    ],
+    "provincial_notes": {
+      "ontario": "Offshore operator - not iGaming Ontario licensed",
+      "quebec": "Age 18+",
+      "alberta": "Age 18+",
+      "manitoba": "Age 18+",
+      "other_provinces": "Age 19+"
+    }
+  }
+}
