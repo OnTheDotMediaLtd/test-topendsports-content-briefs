@@ -1,4 +1,4 @@
-# BRIEF CONTROL SHEET: Apuestas Final Gold Cup
+# BRIEF CONTROL SHEET: Apuestas Copa Oro Final
 
 **Generated:** January 26, 2026
 **Phase:** 1 - Research & Discovery
@@ -11,7 +11,7 @@
 | Field | Value |
 |-------|-------|
 | **URL** | `/es/apuestas/futbol/concacaf/gold-cup-final.htm` |
-| **Page Name** | Apuestas Final Gold Cup |
+| **Page Name** | Apuestas Copa Oro Final |
 | **Language** | Spanish (USA Hispanic market) |
 | **Writer** | Gustavo Cantella |
 | **Template** | 2 - Comparison/Event |
@@ -27,16 +27,16 @@
 
 | Keyword | Volume | KD | Traffic Potential |
 |---------|--------|-----|-------------------|
-| **gold cup final** | 11,000/mo | 53 | 6,400 |
+| **copa oro final** | 1,300/mo | 60 | 6,400 |
 
-> **Note:** Site structure lists "final gold cup" (90/mo actual). Using "gold cup final" (11,000/mo) as primary for SEO value. Both variants should be included naturally.
+> **Note:** Spanish primary keyword for /es/ page targeting US Hispanic audience. English variant "gold cup final" (11,000/mo) included as secondary for bilingual searchers.
 
 ### Secondary Keywords (16 total)
 
 | Keyword | Volume | KD | Placement |
 |---------|--------|-----|-----------|
+| gold cup final | 11,000/mo | 53 | H2 |
 | gold cup final 2025 | 2,600/mo | 50 | H2 |
-| copa oro final | 1,300/mo | 60 | H2 |
 | concacaf gold cup final | 1,100/mo | 67 | H2 |
 | gold cup odds | 700/mo | 55 | H2 |
 | gold cup mexico | 500/mo | 71 | H3 |
@@ -67,7 +67,7 @@
 | Metric | Value |
 |--------|-------|
 | **Total Cluster Volume** | 17,520/mo |
-| **Volume Increase** | 59% over primary |
+| **Volume Increase** | 1,248% over primary |
 | **Keywords Mapped** | 16 secondary + 5 branded |
 
 ---
@@ -76,11 +76,11 @@
 
 ### SERP Overview
 
-SERP for "gold cup final" dominated by news/informational content (ESPN, Fox Sports, CONCACAF official). Limited Spanish-language betting content targeting US Hispanic audience. **First-mover advantage** for comprehensive Spanish Gold Cup final betting guide.
+SERP for "copa oro final" shows limited Spanish-language betting content targeting US Hispanic audience. English "gold cup final" (11K/mo) dominates but Spanish term "copa oro final" (1.3K/mo) has lower competition. **First-mover advantage** for comprehensive Spanish Copa Oro final betting guide.
 
 ### Key Insights
 
-1. English "gold cup final" has 11K volume - significant opportunity for Spanish content
+1. Spanish "copa oro final" (1.3K/mo) has lower competition than English variant
 2. Parent topic "concacaf gold cup" has 148K monthly searches - massive traffic potential
 3. Seasonal event with concentrated betting interest during tournament finals
 4. USA vs Mexico matchups drive highest engagement for US Hispanic audience
@@ -112,7 +112,7 @@ First comprehensive Spanish-language Gold Cup final betting guide targeting US H
 
 ## BRAND SELECTION (7 Brands)
 
-**Rationale:** Primary keyword volume (11,000/mo) with seasonal critical status qualifies for 7 brands.
+**Rationale:** Spanish primary "copa oro final" (1,300/mo) with high-volume English secondary "gold cup final" (11,000/mo) and seasonal critical status qualifies for 7 brands.
 
 | Position | Brand | Badge | Status | Rationale |
 |----------|-------|-------|--------|-----------|
@@ -144,7 +144,7 @@ First comprehensive Spanish-language Gold Cup final betting guide targeting US H
 
 | Section | Target Words | Keywords |
 |---------|--------------|----------|
-| Introduccion | 150 | gold cup final, copa oro final |
+| Introduccion | 150 | copa oro final, gold cup final |
 | Tabla Comparativa | 100 | gold cup betting, gold cup odds |
 | Top 3 Respuesta Rapida | 100 | - |
 | Resenas de Casas (7x250) | 1,750 | Branded keywords per brand |
@@ -272,7 +272,7 @@ First comprehensive Spanish-language Gold Cup final betting guide targeting US H
 
 ## PHASE 1 VALIDATION CHECKLIST
 
-- [x] Primary keyword with REAL Ahrefs volume (11,000/mo)
+- [x] Primary keyword with REAL Ahrefs volume (1,300/mo - Spanish term for /es/ page)
 - [x] 16 secondary keywords with REAL volume data
 - [x] 5 branded keywords mapped
 - [x] 4 competitor analyses completed

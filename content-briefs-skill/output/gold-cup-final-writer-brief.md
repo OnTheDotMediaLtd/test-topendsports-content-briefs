@@ -1,4 +1,4 @@
-# WRITER BRIEF: Apuestas Final Gold Cup
+# WRITER BRIEF: Apuestas Copa Oro Final
 
 **Generated:** January 26, 2026
 **Phase:** 2 of 3
@@ -15,8 +15,8 @@
 | Field | Value |
 |-------|-------|
 | **URL** | `/es/apuestas/futbol/concacaf/gold-cup-final.htm` |
-| **Primary Keyword** | "gold cup final" |
-| **Primary Volume** | 11,000/mo |
+| **Primary Keyword** | "copa oro final" |
+| **Primary Volume** | 1,300/mo |
 | **Total Cluster Volume** | 17,520/mo |
 | **Word Count Target** | 3,500 words |
 | **Template** | 2 (Comparison/Event) |
@@ -80,9 +80,9 @@ Use these pages as benchmarks for content depth and structure:
 
 | Keyword | Volume | Section Type | Exact Section Title |
 |---------|--------|--------------|---------------------|
-| gold cup final | 11,000/mo | H1 | "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025" |
+| copa oro final | 1,300/mo | H1 | "Apuestas Copa Oro Final - Mejores Casas de Apuestas 2025" |
+| gold cup final | 11,000/mo | H2 | "Mejores Casas de Apuestas para la Gold Cup Final" |
 | gold cup final 2025 | 2,600/mo | H2 | "Cuotas Final Gold Cup 2025" |
-| copa oro final | 1,300/mo | H2 | "Mejores Casas de Apuestas para la Copa Oro Final" |
 | concacaf gold cup final | 1,100/mo | Natural | Introduction (paragraph 1) |
 | gold cup odds | 700/mo | H3 | "Momios Actuales por Casa de Apuestas" |
 | gold cup mexico | 500/mo | H2 | "Mexico vs USA - El Clasico CONCACAF" |
@@ -100,13 +100,13 @@ Use these pages as benchmarks for content depth and structure:
 
 **VERIFICATION:**
 - Unmapped Keywords: **NONE**
-- Total Secondary Volume: **6,520/mo**
+- Total Secondary Volume: **16,220/mo**
 - Total Cluster Volume: **17,520/mo**
-- Cluster Increase: **59%** over primary alone
+- Cluster Increase: **1,248%** over primary alone
 
 **Meta Keywords:**
 ```
-gold cup final, gold cup final 2025, copa oro final, concacaf gold cup final, gold cup odds, gold cup mexico, copa de oro final, gold cup betting, gold cup usa, gold cup championship, gold cup mexico vs usa, gold cup betting odds, final gold cup, gold cup finals history, gold cup final odds, gold cup final predictions
+copa oro final, gold cup final, gold cup final 2025, concacaf gold cup final, gold cup odds, gold cup mexico, copa de oro final, gold cup betting, gold cup usa, gold cup championship, gold cup mexico vs usa, gold cup betting odds, final gold cup, gold cup finals history, gold cup final odds, gold cup final predictions
 ```
 
 ---
@@ -129,9 +129,9 @@ gold cup final, gold cup final 2025, copa oro final, concacaf gold cup final, go
 
 **Example Opening:**
 ```
-Las mejores casas de apuestas para la final de la Gold Cup son FanDuel, BetMGM y DraftKings. Nuestro equipo analizo cada plataforma con depositos reales para evaluar las cuotas, mercados de apuestas y velocidad de retiros.
+Las mejores casas de apuestas para la copa oro final son FanDuel, BetMGM y DraftKings. Nuestro equipo analizo cada plataforma con depositos reales para evaluar las cuotas, mercados de apuestas y velocidad de retiros.
 
-Para las apuestas de la CONCACAF Gold Cup final, estas plataformas ofrecen los mejores momios y mercados especificos para el torneo...
+Para las apuestas de la final de la Copa de Oro de CONCACAF, estas plataformas ofrecen los mejores momios y mercados especificos para el torneo...
 ```
 
 **FORBIDDEN in Introduction:**

@@ -2,13 +2,13 @@
 
 ```html
 <!-- Meta Title (under 60 chars) - keyword at START, NO YEAR -->
-<title>Gold Cup Final Betting | Best Sportsbooks for Copa Oro</title>
+<title>Copa Oro Final Apuestas | Mejores Casas de Apuestas</title>
 
 <!-- Meta Description (under 155 chars) -->
-<meta name="description" content="Apuestas Final Gold Cup 2025. Compare las mejores casas de apuestas: FanDuel, BetMGM, DraftKings, bet365. Cuotas, pronósticos y bonos para la Copa de Oro.">
+<meta name="description" content="Apuestas Copa Oro Final 2025. Compare las mejores casas de apuestas: FanDuel, BetMGM, DraftKings, bet365. Cuotas, pronósticos y bonos para la Gold Cup.">
 
 <!-- Meta Keywords -->
-<meta name="keywords" content="gold cup final, copa oro final, gold cup betting, gold cup odds, concacaf gold cup final, gold cup mexico, gold cup usa, gold cup final 2025, gold cup betting odds, gold cup final odds, gold cup final predictions">
+<meta name="keywords" content="copa oro final, gold cup final, gold cup betting, gold cup odds, concacaf gold cup final, gold cup mexico, gold cup usa, gold cup final 2025, gold cup betting odds, gold cup final odds, gold cup final predictions">
 
 <!-- Author -->
 <meta name="author" content="Gustavo Cantella">
@@ -17,8 +17,8 @@
 <link rel="canonical" href="https://www.topendsports.com/es/apuestas/futbol/concacaf/gold-cup-final.htm">
 
 <!-- Open Graph -->
-<meta property="og:title" content="Apuestas Final Gold Cup - Mejores Casas de Apuestas">
-<meta property="og:description" content="Compare las mejores casas de apuestas para la final de la Gold Cup. FanDuel, BetMGM, DraftKings, bet365 y más.">
+<meta property="og:title" content="Apuestas Copa Oro Final - Mejores Casas de Apuestas">
+<meta property="og:description" content="Compare las mejores casas de apuestas para la copa oro final. FanDuel, BetMGM, DraftKings, bet365 y más.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.topendsports.com/es/apuestas/futbol/concacaf/gold-cup-final.htm">
 <meta property="og:locale" content="es_US">
@@ -38,8 +38,8 @@
 
 ```html
 <div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-left: 4px solid #2e7d32; padding: 1.5rem; margin: 2rem 0; border-radius: 8px;">
-  <h2 style="color: #2e7d32; margin-top: 0; font-size: 1.25rem;">🏆 Mejores Casas de Apuestas para la Final Gold Cup</h2>
-  <p style="font-size: 1.1rem; margin-bottom: 1rem;">Las mejores casas de apuestas para la final de la Gold Cup son <strong>FanDuel</strong>, <strong>BetMGM</strong> y <strong>DraftKings</strong>, basado en nuestras pruebas con depósitos reales.</p>
+  <h2 style="color: #2e7d32; margin-top: 0; font-size: 1.25rem;">🏆 Mejores Casas de Apuestas para la Copa Oro Final</h2>
+  <p style="font-size: 1.1rem; margin-bottom: 1rem;">Las mejores casas de apuestas para la copa oro final son <strong>FanDuel</strong>, <strong>BetMGM</strong> y <strong>DraftKings</strong>, basado en nuestras pruebas con depósitos reales.</p>
   <ul style="line-height: 1.8; margin: 0; padding-left: 1.25rem;">
     <li><strong>FanDuel:</strong> Mejor experiencia de usuario, amplios mercados de Gold Cup</li>
     <li><strong>BetMGM:</strong> Excelente para apuestas en vivo, experiencia Vegas</li>
@@ -47,9 +47,9 @@
   </ul>
 </div>
 ```
-# Comparison Table - Gold Cup Final (Phase 3B)
+# Comparison Table - Copa Oro Final (Phase 3B)
 
-## COMPARISON TABLE - MEJORES CASAS DE APUESTAS GOLD CUP
+## COMPARISON TABLE - MEJORES CASAS DE APUESTAS COPA ORO FINAL
 
 ```html
 <style>
@@ -76,7 +76,7 @@
 
 <div class="wc-comparison">
   <div class="table-header">
-    <h2>Top 7 Casas de Apuestas para la Final Gold Cup</h2>
+    <h2>Top 7 Casas de Apuestas para la Copa Oro Final</h2>
   </div>
   <div class="mobile-scroll-hint">⟵ Desliza para ver todos los detalles ⟶</div>
   <div class="table-wrapper">
@@ -1166,8 +1166,8 @@ Todos requieren que la primera apuesta PIERDA para obtener el bono.
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025",
-  "description": "Compare las mejores casas de apuestas para la final de la Gold Cup. FanDuel, BetMGM, DraftKings, bet365, Caesars, Fanatics y BetRivers.",
+  "headline": "Apuestas Copa Oro Final - Mejores Casas de Apuestas 2025",
+  "description": "Compare las mejores casas de apuestas para la copa oro final. FanDuel, BetMGM, DraftKings, bet365, Caesars, Fanatics y BetRivers.",
   "author": {
     "@type": "Person",
     "name": "Gustavo Cantella",
@@ -1202,7 +1202,7 @@ Todos requieren que la primera apuesta PIERDA para obtener el bono.
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "¿Cuáles son las mejores cuotas para la final Gold Cup?",
+      "name": "¿Cuáles son las mejores cuotas para la copa oro final?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Las mejores cuotas para la final de la Gold Cup se encuentran en bet365 (mejores cuotas anticipadas), FanDuel (cuotas competitivas), y DraftKings (excelentes props). Recomendamos comparar cuotas entre varias casas antes de apostar."
@@ -1334,7 +1334,7 @@ Todos requieren que la primera apuesta PIERDA para obtener el bono.
 }
 </script>
 ```
-# Gold Cup Final - Phase 3G: Interactive Elements & Responsible Gambling
+# Copa Oro Final - Phase 3G: Interactive Elements & Responsible Gambling
 
 **Status:** Phase 3G - Interactive Content
 **Output File:** gold-cup-final-phase3g.md
@@ -1344,11 +1344,11 @@ Todos requieren que la primera apuesta PIERDA para obtener el bono.
 
 ## Interactive Elements
 
-### Gold Cup Odds Table (Placeholder for Live Updates)
+### Copa Oro Odds Table (Placeholder for Live Updates)
 
 ```html
 <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0;">
-  <h3 style="margin-top: 0; color: #2e7d32;">📊 Cuotas Final Gold Cup 2025</h3>
+  <h3 style="margin-top: 0; color: #2e7d32;">📊 Cuotas Copa Oro Final 2025</h3>
   <p style="font-size: 14px; color: #666; margin-bottom: 1rem;">Actualizado antes del torneo. Las cuotas cambiarán según avance la competencia.</p>
 
   <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden;">
@@ -1402,7 +1402,7 @@ Todos requieren que la primera apuesta PIERDA para obtener el bono.
 
 ```html
 <div style="background: white; padding: 2rem; border-radius: 8px; margin: 2rem 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <h3 style="margin-top: 0; color: #2e7d32;">🏆 Historial de Campeones Gold Cup</h3>
+  <h3 style="margin-top: 0; color: #2e7d32;">🏆 Historial de Campeones Copa Oro</h3>
 
   <table style="width: 100%; border-collapse: collapse;">
     <thead>

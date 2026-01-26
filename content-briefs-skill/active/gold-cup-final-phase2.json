@@ -13,33 +13,33 @@
   },
   "keywords": {
     "primary": {
-      "keyword": "gold cup final",
-      "volume": 11000,
+      "keyword": "copa oro final",
+      "volume": 1300,
       "section": "H1",
-      "section_title": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025"
+      "section_title": "Apuestas Copa Oro Final - Mejores Casas de Apuestas 2025"
     },
-    "secondary_total_volume": 6520,
+    "secondary_total_volume": 16220,
     "cluster_total_volume": 17520,
-    "volume_increase_percent": 59
+    "volume_increase_percent": 1248
   },
   "keyword_mapping": [
     {
+      "keyword": "copa oro final",
+      "volume": 1300,
+      "section_type": "H1",
+      "section_title": "Apuestas Copa Oro Final - Mejores Casas de Apuestas 2025"
+    },
+    {
       "keyword": "gold cup final",
       "volume": 11000,
-      "section_type": "H1",
-      "section_title": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025"
+      "section_type": "H2",
+      "section_title": "Mejores Casas de Apuestas para la Gold Cup Final"
     },
     {
       "keyword": "gold cup final 2025",
       "volume": 2600,
       "section_type": "H2",
       "section_title": "Cuotas Final Gold Cup 2025"
-    },
-    {
-      "keyword": "copa oro final",
-      "volume": 1300,
-      "section_type": "H2",
-      "section_title": "Mejores Casas de Apuestas para la Copa Oro Final"
     },
     {
       "keyword": "concacaf gold cup final",
@@ -128,8 +128,8 @@
   ],
   "content_outline": {
     "h1": {
-      "title": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025",
-      "keywords": ["gold cup final"],
+      "title": "Apuestas Copa Oro Final - Mejores Casas de Apuestas 2025",
+      "keywords": ["copa oro final"],
       "notes": "NO year in H1 - use Last Updated badge instead"
     },
     "sections": [
@@ -142,7 +142,7 @@
         "type": "introduction",
         "title": "Introduccion",
         "word_count": 150,
-        "keywords": ["gold cup final", "concacaf gold cup final", "final gold cup"],
+        "keywords": ["copa oro final", "gold cup final", "concacaf gold cup final"],
         "writer_must_cover": [
           "Direct answer: Name top 3 sportsbooks for Gold Cup betting (FanDuel, BetMGM, DraftKings)",
           "Authority statement: Mention testing methodology (real deposits, odds comparison)",

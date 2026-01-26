@@ -14,17 +14,17 @@
   },
   "keywords": {
     "primary": {
-      "keyword": "gold cup final",
-      "volume": 11000,
-      "difficulty": 53,
+      "keyword": "copa oro final",
+      "volume": 1300,
+      "difficulty": 60,
       "traffic_potential": 6400,
       "assigned_keyword": "final gold cup",
       "assigned_volume": 2000,
-      "note": "Site structure lists 'final gold cup' (90/mo actual). Using 'gold cup final' (11,000/mo) as primary for SEO value."
+      "note": "Spanish primary keyword for /es/ page targeting US Hispanic audience. English variant 'gold cup final' (11,000/mo) included as secondary for bilingual searchers."
     },
     "secondary": [
+      {"keyword": "gold cup final", "volume": 11000, "difficulty": 53, "traffic_potential": 6400, "placement": "H2"},
       {"keyword": "gold cup final 2025", "volume": 2600, "difficulty": 50, "traffic_potential": 3100, "placement": "H2"},
-      {"keyword": "copa oro final", "volume": 1300, "difficulty": 60, "traffic_potential": 6400, "placement": "H2"},
       {"keyword": "concacaf gold cup final", "volume": 1100, "difficulty": 67, "traffic_potential": 3100, "placement": "H2"},
       {"keyword": "gold cup odds", "volume": 700, "difficulty": 55, "traffic_potential": 350, "placement": "H2"},
       {"keyword": "gold cup mexico", "volume": 500, "difficulty": 71, "traffic_potential": 78000, "placement": "H3"},
@@ -48,12 +48,12 @@
       {"keyword": "caesars soccer", "volume": 50, "difficulty": null, "traffic_potential": null, "brand": "Caesars"}
     ],
     "total_cluster_volume": 17520,
-    "volume_increase_percent": 59
+    "volume_increase_percent": 1248
   },
   "competitor_analysis": {
-    "serp_overview": "SERP for 'gold cup final' dominated by news/informational content (ESPN, Fox Sports, CONCACAF official). Limited Spanish-language betting content targeting US Hispanic audience. First-mover advantage for comprehensive Spanish Gold Cup final betting guide.",
+    "serp_overview": "SERP for 'copa oro final' shows limited Spanish-language betting content targeting US Hispanic audience. English 'gold cup final' (11K/mo) dominates but Spanish term 'copa oro final' (1.3K/mo) has lower competition. First-mover advantage for comprehensive Spanish Copa Oro final betting guide.",
     "key_insights": [
-      "English 'gold cup final' has 11K volume - significant opportunity for Spanish content",
+      "Spanish 'copa oro final' (1.3K/mo) has lower competition than English variant",
       "Parent topic 'concacaf gold cup' has 148K monthly searches - massive traffic potential",
       "Seasonal event with concentrated betting interest during tournament finals",
       "USA vs Mexico matchups drive highest engagement for US Hispanic audience",
@@ -105,7 +105,7 @@
   },
   "brand_selection": {
     "total_brands": 7,
-    "rationale": "Primary keyword volume (11,000/mo) with seasonal critical status qualifies for 7 brands. Focus on major US operators with strong soccer/international markets and appeal to Hispanic bettors.",
+    "rationale": "Spanish primary keyword 'copa oro final' (1,300/mo) with high-volume English secondary 'gold cup final' (11,000/mo) and seasonal critical status qualifies for 7 brands. Focus on major US operators with strong soccer/international markets and appeal to Hispanic bettors.",
     "brands": [
       {
         "position": 1,
@@ -182,8 +182,8 @@
   "content_structure": {
     "word_count_target": 3500,
     "sections": [
-      {"type": "intro", "title": "Introduccion - Apuestas Final Gold Cup", "word_count": 150, "keywords": ["gold cup final", "copa oro final", "apuestas gold cup"]},
-      {"type": "comparison_table", "title": "Mejores Casas de Apuestas para la Final de la Gold Cup", "word_count": 100, "keywords": ["gold cup betting", "gold cup odds"]},
+      {"type": "intro", "title": "Introduccion - Apuestas Copa Oro Final", "word_count": 150, "keywords": ["copa oro final", "gold cup final", "apuestas copa oro"]},
+      {"type": "comparison_table", "title": "Mejores Casas de Apuestas para la Final Copa Oro", "word_count": 100, "keywords": ["copa oro betting", "copa oro odds"]},
       {"type": "quick_picks", "title": "Top 3 Casas de Apuestas - Respuesta Rapida", "word_count": 100},
       {"type": "brand_reviews", "title": "Resenas de Casas de Apuestas para Gold Cup", "word_count": 1750, "notes": "250 words per brand x 7 brands (Key Features, Mobile Experience, Pros/Cons, Bonus)"},
       {"type": "odds_analysis", "title": "Cuotas y Favoritos Final Gold Cup", "word_count": 300, "keywords": ["gold cup final odds", "gold cup odds", "gold cup final predictions"]},
