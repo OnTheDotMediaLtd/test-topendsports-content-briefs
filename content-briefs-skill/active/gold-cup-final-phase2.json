@@ -1,0 +1,715 @@
+{
+  "page_info": {
+    "page_name": "gold-cup-final",
+    "url": "/es/apuestas/futbol/concacaf/gold-cup-final.htm",
+    "language": "es",
+    "target_market": "USA Hispanic",
+    "template": 2,
+    "template_name": "Comparison/Event",
+    "writer": "Gustavo Cantella",
+    "word_count_target": 3500,
+    "phase": 2,
+    "generated_date": "2026-01-26"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "gold cup final",
+      "volume": 11000,
+      "section": "H1",
+      "section_title": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025"
+    },
+    "secondary_total_volume": 6520,
+    "cluster_total_volume": 17520,
+    "volume_increase_percent": 59
+  },
+  "keyword_mapping": [
+    {
+      "keyword": "gold cup final",
+      "volume": 11000,
+      "section_type": "H1",
+      "section_title": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025"
+    },
+    {
+      "keyword": "gold cup final 2025",
+      "volume": 2600,
+      "section_type": "H2",
+      "section_title": "Cuotas Final Gold Cup 2025"
+    },
+    {
+      "keyword": "copa oro final",
+      "volume": 1300,
+      "section_type": "H2",
+      "section_title": "Mejores Casas de Apuestas para la Copa Oro Final"
+    },
+    {
+      "keyword": "concacaf gold cup final",
+      "volume": 1100,
+      "section_type": "Introduction",
+      "section_title": "Introduction - natural mention"
+    },
+    {
+      "keyword": "gold cup odds",
+      "volume": 700,
+      "section_type": "H3",
+      "section_title": "Momios Actuales por Casa de Apuestas"
+    },
+    {
+      "keyword": "gold cup mexico",
+      "volume": 500,
+      "section_type": "H2",
+      "section_title": "Mexico vs USA - El Clasico CONCACAF"
+    },
+    {
+      "keyword": "copa de oro final",
+      "volume": 250,
+      "section_type": "FAQ",
+      "section_title": "Como puedo apostar a la final de la Copa de Oro?"
+    },
+    {
+      "keyword": "gold cup betting",
+      "volume": 200,
+      "section_type": "H2",
+      "section_title": "Como Apostar a la Final Gold Cup"
+    },
+    {
+      "keyword": "gold cup usa",
+      "volume": 200,
+      "section_type": "H3",
+      "section_title": "Historial USA en Finales Gold Cup"
+    },
+    {
+      "keyword": "gold cup championship",
+      "volume": 150,
+      "section_type": "H2",
+      "section_title": "Historia Campeonatos Gold Cup"
+    },
+    {
+      "keyword": "gold cup mexico vs usa",
+      "volume": 150,
+      "section_type": "H3",
+      "section_title": "Historial de Enfrentamientos Mexico vs USA"
+    },
+    {
+      "keyword": "gold cup betting odds",
+      "volume": 100,
+      "section_type": "H3",
+      "section_title": "Tipos de Apuestas Disponibles"
+    },
+    {
+      "keyword": "final gold cup",
+      "volume": 90,
+      "section_type": "Natural",
+      "section_title": "Introduction and Comparison Table"
+    },
+    {
+      "keyword": "gold cup finals history",
+      "volume": 60,
+      "section_type": "FAQ",
+      "section_title": "Cual es el historial de finales de la Gold Cup?"
+    },
+    {
+      "keyword": "gold cup usa mexico",
+      "volume": 50,
+      "section_type": "Natural",
+      "section_title": "Mexico vs USA section"
+    },
+    {
+      "keyword": "gold cup final odds",
+      "volume": 40,
+      "section_type": "FAQ",
+      "section_title": "Cuales son las mejores cuotas para la final Gold Cup?"
+    },
+    {
+      "keyword": "gold cup final predictions",
+      "volume": 30,
+      "section_type": "FAQ",
+      "section_title": "Que pronosticos hay para la final?"
+    }
+  ],
+  "content_outline": {
+    "h1": {
+      "title": "Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025",
+      "keywords": ["gold cup final"],
+      "notes": "NO year in H1 - use Last Updated badge instead"
+    },
+    "sections": [
+      {
+        "type": "last_updated_badge",
+        "word_count": 0,
+        "notes": "Required after H1 for seasonal content"
+      },
+      {
+        "type": "introduction",
+        "title": "Introduccion",
+        "word_count": 150,
+        "keywords": ["gold cup final", "concacaf gold cup final", "final gold cup"],
+        "writer_must_cover": [
+          "Direct answer: Name top 3 sportsbooks for Gold Cup betting (FanDuel, BetMGM, DraftKings)",
+          "Authority statement: Mention testing methodology (real deposits, odds comparison)",
+          "Spanish USA market focus (ustedes form)",
+          "NO affiliate disclosure - it's in sidebar"
+        ]
+      },
+      {
+        "type": "comparison_table",
+        "title": "Tabla Comparativa - 7 Casas de Apuestas",
+        "word_count": 100,
+        "brands": ["FanDuel", "BetMGM", "DraftKings", "bet365", "Caesars", "Fanatics", "BetRivers"],
+        "notes": "Phase 3 will implement HTML table"
+      },
+      {
+        "type": "quick_answer",
+        "title": "Top 3 Casas de Apuestas - Respuesta Rapida",
+        "word_count": 100,
+        "writer_must_cover": [
+          "FanDuel: Best overall, extensive Gold Cup markets",
+          "BetMGM: Best live betting, Vegas experience",
+          "DraftKings: Best props and same-game parlays"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Mejores Casas de Apuestas para la Copa Oro Final",
+        "word_count": 1400,
+        "keywords": ["copa oro final"],
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "FanDuel - Mejor Experiencia de Usuario",
+            "word_count": 250,
+            "brand": "FanDuel",
+            "writer_must_cover": [
+              "Key Features: Extensive Gold Cup markets, competitive odds (100w)",
+              "Mobile Experience: App Store rating with review count, iOS/Android performance (100w)",
+              "Pros/Cons: 3 pros, 2 cons with specifics (50w)",
+              "Welcome Offer: Bet $5, Get $150 in Bonus Bets"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "BetMGM - Experiencia Vegas en Tu Movil",
+            "word_count": 200,
+            "brand": "BetMGM",
+            "writer_must_cover": [
+              "Key Features: Premium platform, MGM Rewards integration (75w)",
+              "Mobile Experience: App performance, live betting features (75w)",
+              "Pros/Cons: 3 pros, 2 cons (50w)",
+              "Welcome Offer: Up to $1,500 in Bonus Bets"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "DraftKings - Mejor para Props y Parlays",
+            "word_count": 200,
+            "brand": "DraftKings",
+            "writer_must_cover": [
+              "Key Features: Best SGP builder, Gold Cup props (75w)",
+              "Mobile Experience: App responsiveness, unique features (75w)",
+              "Pros/Cons: 3 pros, 2 cons (50w)",
+              "Welcome Offer: Bet $5, Get $150 in Bonus Bets"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "bet365 - Lider Mundial en Futbol",
+            "word_count": 200,
+            "brand": "bet365",
+            "writer_must_cover": [
+              "Key Features: Best live streaming, early futures (75w)",
+              "Mobile Experience: Streaming quality, global soccer coverage (75w)",
+              "Pros/Cons: 3 pros, 2 cons (50w)",
+              "Welcome Offer: Bet $1, Get $365 in Bonus Bets"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Caesars - Mejor Programa de Recompensas",
+            "word_count": 200,
+            "brand": "Caesars",
+            "writer_must_cover": [
+              "Key Features: Caesars Rewards, exclusive boosts (75w)",
+              "Mobile Experience: App integration with rewards (75w)",
+              "Pros/Cons: 3 pros, 2 cons (50w)",
+              "Welcome Offer: Up to $1,000 First Bet"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Fanatics - Gana FanCash con Tus Apuestas",
+            "word_count": 200,
+            "brand": "Fanatics",
+            "writer_must_cover": [
+              "Key Features: FanCash for merchandise, growing platform (75w)",
+              "Mobile Experience: Integration with Fanatics store (75w)",
+              "Pros/Cons: 3 pros, 2 cons (50w)",
+              "Welcome Offer: Get up to $1,000 in Bonus Bets"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "BetRivers - Variedad de Mercados de Futbol",
+            "word_count": 150,
+            "brand": "BetRivers",
+            "writer_must_cover": [
+              "Key Features: Wide soccer markets, competitive odds (50w)",
+              "Mobile Experience: Fast navigation, iRush Rewards (50w)",
+              "Pros/Cons: 3 pros, 2 cons (50w)",
+              "Welcome Offer: 2nd Chance Bet up to $500"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Cuotas Final Gold Cup 2025",
+        "word_count": 300,
+        "keywords": ["gold cup final 2025", "gold cup final odds"],
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Momios Actuales por Casa de Apuestas",
+            "word_count": 150,
+            "keywords": ["gold cup odds"],
+            "writer_must_cover": [
+              "Current odds comparison table (update before tournament)",
+              "Explain American vs decimal odds format",
+              "Link to odds converter tool"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Predicciones y Favoritos",
+            "word_count": 150,
+            "keywords": ["gold cup final predictions"],
+            "writer_must_cover": [
+              "Historical favorites analysis",
+              "Mexico and USA as perennial favorites",
+              "Betting value opportunities"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Como Apostar a la Final Gold Cup",
+        "word_count": 250,
+        "keywords": ["gold cup betting"],
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Tipos de Apuestas Disponibles",
+            "word_count": 150,
+            "keywords": ["gold cup betting odds"],
+            "writer_must_cover": [
+              "Moneyline/winner betting explained",
+              "Spreads and totals for Gold Cup",
+              "Props: goalscorer, cards, corners",
+              "Live betting options during matches"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Paso a Paso para Apostar",
+            "word_count": 100,
+            "writer_must_cover": [
+              "5-step process for first-time bettors",
+              "Link to beginner guide"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Mexico vs USA - El Clasico CONCACAF",
+        "word_count": 250,
+        "keywords": ["gold cup mexico vs usa", "gold cup mexico"],
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Historial de Enfrentamientos",
+            "word_count": 125,
+            "keywords": ["gold cup mexico vs usa"],
+            "writer_must_cover": [
+              "Head-to-head record in Gold Cup finals",
+              "Most recent final results",
+              "Key matches and scores"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Historial USA en Finales Gold Cup",
+            "word_count": 125,
+            "keywords": ["gold cup usa"],
+            "writer_must_cover": [
+              "USA Gold Cup titles count",
+              "Recent final appearances",
+              "Key players in finals history"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Historia Campeonatos Gold Cup",
+        "word_count": 200,
+        "keywords": ["gold cup championship", "gold cup finals history"],
+        "writer_must_cover": [
+          "Tournament history since 1991",
+          "Most titles by country",
+          "Winners table for last 10 editions",
+          "Historical betting trends"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Metodos de Pago",
+        "word_count": 200,
+        "writer_must_cover": [
+          "Comparison table: deposits/withdrawals by brand",
+          "Fastest withdrawal methods (PayPal, Venmo)",
+          "Minimum deposit amounts per sportsbook",
+          "Verification requirements before first withdrawal"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Herramientas de Apuestas",
+        "word_count": 100,
+        "writer_must_cover": [
+          "Link to parlay calculator with Spanish anchor",
+          "Link to odds converter with Spanish anchor",
+          "Brief explanation of each tool's purpose"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Preguntas Frecuentes",
+        "word_count": 350,
+        "notes": "7 FAQs targeting specific keywords"
+      },
+      {
+        "type": "responsible_gambling",
+        "title": "Juego Responsable",
+        "word_count": 100,
+        "writer_must_cover": [
+          "21+ age requirement (18+ in MT, NH, RI, WY, DC)",
+          "Hotline: 1-800-522-4700",
+          "Link to responsible gambling resources"
+        ]
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Cuales son las mejores cuotas para la final Gold Cup?",
+      "target_keyword": "gold cup final odds",
+      "volume": 40,
+      "answer_points": [
+        "Compare odds across FanDuel, BetMGM, DraftKings, bet365",
+        "bet365 typically offers earliest Gold Cup futures",
+        "Use odds converter to compare formats"
+      ]
+    },
+    {
+      "question": "Como puedo apostar a la final de la Copa de Oro?",
+      "target_keyword": "copa de oro final",
+      "volume": 250,
+      "answer_points": [
+        "Step 1: Choose licensed sportsbook (FanDuel, BetMGM, etc.)",
+        "Step 2: Create account and deposit",
+        "Step 3: Navigate to Soccer > Gold Cup",
+        "Step 4: Select bet type and amount",
+        "Must be 21+ in most states"
+      ]
+    },
+    {
+      "question": "Que casa de apuestas ofrece mejores mercados para Gold Cup?",
+      "target_keyword": "gold cup betting",
+      "volume": 200,
+      "answer_points": [
+        "bet365 - best soccer coverage globally",
+        "DraftKings - best props and SGPs",
+        "FanDuel - best overall user experience"
+      ]
+    },
+    {
+      "question": "Cual es el historial de finales de la Gold Cup?",
+      "target_keyword": "gold cup finals history",
+      "volume": 60,
+      "answer_points": [
+        "Tournament began in 1991",
+        "Mexico: 8 titles (most of any nation)",
+        "USA: 7 titles (second most)",
+        "Include last 5 finals with scores"
+      ]
+    },
+    {
+      "question": "Es Mexico favorito en la final de la Gold Cup?",
+      "target_keyword": "gold cup mexico",
+      "volume": 500,
+      "answer_points": [
+        "Mexico historically favored (8 titles)",
+        "Recent dominance in tournament",
+        "Check current odds for latest favorite status"
+      ]
+    },
+    {
+      "question": "Que pronosticos hay para la final Gold Cup?",
+      "target_keyword": "gold cup final predictions",
+      "volume": 30,
+      "answer_points": [
+        "Expert analysis from Action Network, Covers",
+        "Historical trends favor Mexico/USA matchup",
+        "Check odds movements closer to event"
+      ]
+    },
+    {
+      "question": "Donde puedo ver las cuotas en vivo de Gold Cup?",
+      "target_keyword": "gold cup odds",
+      "volume": 700,
+      "answer_points": [
+        "bet365 offers best live streaming + odds",
+        "FanDuel and DraftKings have real-time odds",
+        "BetMGM excellent for live betting during matches"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Apuestas Gold Cup",
+      "url": "/es/apuestas/futbol/concacaf/gold-cup.htm",
+      "placement": "Introduction (paragraph 1)"
+    },
+    {
+      "anchor": "Apuestas CONCACAF",
+      "url": "/es/apuestas/futbol/concacaf/index.htm",
+      "placement": "Introduction (paragraph 2)"
+    },
+    {
+      "anchor": "Apuestas Seleccion Mexicana",
+      "url": "/es/apuestas/futbol/mexico/index.htm",
+      "placement": "Mexico vs USA section"
+    },
+    {
+      "anchor": "Nations League CONCACAF",
+      "url": "/es/apuestas/futbol/concacaf/nations-league.htm",
+      "placement": "Historia Campeonatos section"
+    },
+    {
+      "anchor": "Apuestas Copa America",
+      "url": "/es/apuestas/futbol/copa-america.htm",
+      "placement": "Historia Campeonatos section"
+    },
+    {
+      "anchor": "Mejores apps de apuestas",
+      "url": "/es/apuestas/mejores-apps.htm",
+      "placement": "Quick Answer Box"
+    },
+    {
+      "anchor": "Casas de apuestas deportivas",
+      "url": "/es/apuestas/index.htm",
+      "placement": "Como Apostar section"
+    },
+    {
+      "anchor": "Calculadora de parlay",
+      "url": "/es/apuestas/herramientas/calculadora-parlay.htm",
+      "placement": "Herramientas de Apuestas section"
+    },
+    {
+      "anchor": "Conversor de momios",
+      "url": "/es/apuestas/herramientas/conversor-momios.htm",
+      "placement": "Cuotas Final Gold Cup section"
+    },
+    {
+      "anchor": "Resena FanDuel",
+      "url": "/es/apuestas/fanduel-resena.htm",
+      "placement": "FanDuel brand section"
+    },
+    {
+      "anchor": "Resena DraftKings",
+      "url": "/es/apuestas/draftkings-resena.htm",
+      "placement": "DraftKings brand section"
+    },
+    {
+      "anchor": "Como apostar en linea",
+      "url": "/es/apuestas/guias/como-apostar.htm",
+      "placement": "Paso a Paso subsection"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      {
+        "source": "App Store",
+        "usage": "Rating and review count for each sportsbook app",
+        "format": "X.X/5 (X.XM reviews)"
+      },
+      {
+        "source": "Google Play",
+        "usage": "Rating and review count for Android apps",
+        "format": "X.X/5 (XXK reviews)"
+      },
+      {
+        "source": "Reddit r/sportsbook",
+        "usage": "User experiences with Gold Cup betting, app performance",
+        "format": "Reddit users report [finding] (X threads)"
+      }
+    ],
+    "tier_2_verification": [
+      {
+        "source": "Official sportsbook sites",
+        "usage": "Verify bonus terms, features, available markets"
+      },
+      {
+        "source": "CONCACAF official",
+        "usage": "Tournament dates, format, historical results"
+      }
+    ],
+    "tier_4_sparingly": [
+      {
+        "source": "Affiliate sites (Action Network, Covers)",
+        "usage": "Research gaps ONLY",
+        "warning": "NEVER cite for pros/cons"
+      }
+    ]
+  },
+  "brands": [
+    {
+      "position": 1,
+      "brand": "FanDuel",
+      "badge": "FD",
+      "color": "#1493FF",
+      "status": "LOCKED",
+      "usp": "Best user experience, extensive Gold Cup betting markets",
+      "welcome_offer": "Bet $5, Get $150 in Bonus Bets",
+      "word_count": 250
+    },
+    {
+      "position": 2,
+      "brand": "BetMGM",
+      "badge": "MGM",
+      "color": "#BFA36B",
+      "status": "LOCKED",
+      "usp": "Vegas-style betting experience, excellent live betting",
+      "welcome_offer": "Up to $1,500 in Bonus Bets",
+      "word_count": 200
+    },
+    {
+      "position": 3,
+      "brand": "DraftKings",
+      "badge": "DK",
+      "color": "#53D337",
+      "status": "Research-driven",
+      "usp": "Best for Gold Cup props and same-game parlays",
+      "welcome_offer": "Bet $5, Get $150 in Bonus Bets",
+      "word_count": 200
+    },
+    {
+      "position": 4,
+      "brand": "bet365",
+      "badge": "365",
+      "color": "#0E7B46",
+      "status": "Research-driven",
+      "usp": "Best live streaming, early Gold Cup futures",
+      "welcome_offer": "Bet $1, Get $365 in Bonus Bets",
+      "word_count": 200
+    },
+    {
+      "position": 5,
+      "brand": "Caesars",
+      "badge": "CZR",
+      "color": "#0A2240",
+      "status": "Research-driven",
+      "usp": "Best rewards program, exclusive Gold Cup boosts",
+      "welcome_offer": "Up to $1,000 First Bet",
+      "word_count": 200
+    },
+    {
+      "position": 6,
+      "brand": "Fanatics",
+      "badge": "FAN",
+      "color": "#0050C8",
+      "status": "Research-driven",
+      "usp": "Earn FanCash for soccer jerseys and team gear",
+      "welcome_offer": "Get up to $1,000 in Bonus Bets",
+      "word_count": 200
+    },
+    {
+      "position": 7,
+      "brand": "BetRivers",
+      "badge": "BR",
+      "color": "#FF6B00",
+      "status": "Research-driven",
+      "usp": "Wide variety of soccer betting markets, fast payouts",
+      "welcome_offer": "2nd Chance Bet up to $500",
+      "word_count": 150
+    }
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ en MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "affiliate_disclosure_in_content": false,
+    "affiliate_disclosure_note": "NO affiliate disclosure in content - it's in website sidebar",
+    "responsible_gambling_section": true,
+    "language_rules": {
+      "form": "ustedes (NOT vosotros)",
+      "market": "USA Spanish speakers (NOT Spain)",
+      "examples": ["ustedes pueden", "les recomendamos", "sus apuestas"]
+    }
+  },
+  "eeat_requirements": {
+    "author_name": "Gustavo Cantella",
+    "author_credentials": "Sports betting analyst specializing in Latin American soccer markets",
+    "author_bio_link": "/es/sobre-nosotros/autores/gustavo-cantella.htm",
+    "reviewed_by": null,
+    "last_updated_required": true
+  },
+  "competitor_references": [
+    {
+      "domain": "actionnetwork.com",
+      "url": "https://www.actionnetwork.com/soccer/gold-cup-odds",
+      "notes": "H2 structure, odds presentation format"
+    },
+    {
+      "domain": "covers.com",
+      "url": "https://www.covers.com/soccer/betting/gold-cup",
+      "notes": "FAQ approach, word count benchmark"
+    },
+    {
+      "domain": "thelines.com",
+      "url": "https://www.thelines.com/betting/soccer/",
+      "notes": "Comparison table format, odds display"
+    }
+  ],
+  "word_count_by_section": {
+    "introduction": 150,
+    "comparison_table": 100,
+    "quick_answer": 100,
+    "brand_reviews": 1400,
+    "cuotas_section": 300,
+    "como_apostar": 250,
+    "mexico_vs_usa": 250,
+    "historia": 200,
+    "metodos_pago": 200,
+    "herramientas": 100,
+    "faqs": 350,
+    "responsible_gambling": 100,
+    "total": 3500
+  },
+  "validation": {
+    "keywords_mapped": 16,
+    "unmapped_keywords": "NONE",
+    "secondary_volume_total": 6520,
+    "faqs_count": 7,
+    "internal_links_count": 12,
+    "brands_count": 7,
+    "mobile_sections_per_brand": true,
+    "payment_methods_section": true,
+    "calculator_links": true
+  },
+  "metadata": {
+    "created": "2026-01-26",
+    "phase": 2,
+    "version": "1.0",
+    "input_file": "gold-cup-final-phase1.json"
+  }
+}
