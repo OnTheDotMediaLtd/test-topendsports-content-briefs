@@ -159,9 +159,9 @@ Para las apuestas de la final de la Copa de Oro de CONCACAF, estas plataformas o
 
 ## CONTENT OUTLINE
 
-### H1: Apuestas Final Gold Cup - Mejores Casas de Apuestas 2025
+### H1: Apuestas Copa Oro Final - Mejores Casas de Apuestas 2025
 
-**Target Keyword:** "gold cup final" (11,000/mo)
+**Target Keyword:** "copa oro final" (1,300/mo)
 
 ---
 
@@ -174,7 +174,7 @@ Para las apuestas de la final de la Copa de Oro de CONCACAF, estas plataformas o
 
 ### Introduction (150 words)
 
-**Target Keywords:** "gold cup final", "concacaf gold cup final", "final gold cup"
+**Target Keywords:** "copa oro final" (primary), "gold cup final", "concacaf gold cup final", "final gold cup"
 
 **Writer must cover:**
 - Name top 3 sportsbooks immediately: FanDuel, BetMGM, DraftKings
