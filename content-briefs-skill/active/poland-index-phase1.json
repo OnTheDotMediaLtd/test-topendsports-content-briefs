@@ -1,0 +1,206 @@
+{
+  "page_name": "poland-index",
+  "url": "https://www.topendsports.com/sport/betting/poland/index.htm",
+  "market": "Poland",
+  "content_language": "Polish",
+  "page_title": "Najlepsi Bukmacherzy w Polsce",
+  "writer": "Andre Borg",
+  "priority": "Critical",
+  "template_type": 2,
+  "primary_keyword": {
+    "keyword": "najlepsi bukmacherzy",
+    "volume": 700,
+    "difficulty": 54,
+    "traffic_potential": 3500
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "zakłady bukmacherskie",
+      "volume": 43000,
+      "difficulty": 86,
+      "traffic_potential": 45000,
+      "placement": "H2: Zakłady Bukmacherskie w Polsce - Kompletny Przewodnik"
+    },
+    {
+      "keyword": "zakłady sportowe",
+      "volume": 20000,
+      "difficulty": 85,
+      "traffic_potential": 22000,
+      "placement": "H2: Zakłady Sportowe Online - Jak Zacząć?"
+    },
+    {
+      "keyword": "kursy bukmacherskie",
+      "volume": 13000,
+      "difficulty": 84,
+      "traffic_potential": 14000,
+      "placement": "H2: Kursy Bukmacherskie - Porównanie i Analiza"
+    },
+    {
+      "keyword": "legalny bukmacher",
+      "volume": 2300,
+      "difficulty": 79,
+      "traffic_potential": 3000,
+      "placement": "H2: Legalny Bukmacher w Polsce - Licencjonowani Operatorzy"
+    },
+    {
+      "keyword": "ranking bukmacherów",
+      "volume": 1200,
+      "difficulty": 36,
+      "traffic_potential": 1500,
+      "placement": "H2: Ranking Bukmacherów 2025 - Top 5"
+    },
+    {
+      "keyword": "promocje bukmacherskie",
+      "volume": 800,
+      "difficulty": 59,
+      "traffic_potential": 1000,
+      "placement": "H2: Promocje Bukmacherskie - Bonusy i Oferty"
+    },
+    {
+      "keyword": "najlepszy bukmacher",
+      "volume": 800,
+      "difficulty": 67,
+      "traffic_potential": 1000,
+      "placement": "FAQ: Który bukmacher jest najlepszy w Polsce?"
+    },
+    {
+      "keyword": "bukmacher polska",
+      "volume": 600,
+      "difficulty": 84,
+      "traffic_potential": 800,
+      "placement": "Natural mentions throughout"
+    },
+    {
+      "keyword": "bukmacher bonus",
+      "volume": 250,
+      "difficulty": 63,
+      "traffic_potential": 400,
+      "placement": "H3: Bonusy Powitalne u Bukmacherów"
+    },
+    {
+      "keyword": "bukmacherzy online",
+      "volume": 250,
+      "difficulty": 82,
+      "traffic_potential": 400,
+      "placement": "H2: Bukmacherzy Online - Najlepsze Platformy"
+    },
+    {
+      "keyword": "zakłady na żywo",
+      "volume": 200,
+      "difficulty": 66,
+      "traffic_potential": 350,
+      "placement": "H2: Zakłady na Żywo - Live Betting"
+    },
+    {
+      "keyword": "bonus powitalny bukmacher",
+      "volume": 200,
+      "difficulty": 60,
+      "traffic_potential": 300,
+      "placement": "H3: Bonus Powitalny - Jak Wybrać Najlepszą Ofertę"
+    },
+    {
+      "keyword": "oferty bukmacherskie",
+      "volume": 100,
+      "difficulty": 62,
+      "traffic_potential": 150,
+      "placement": "H3: Aktualne Oferty Bukmacherskie"
+    },
+    {
+      "keyword": "esport zakłady",
+      "volume": 90,
+      "difficulty": 17,
+      "traffic_potential": 150,
+      "placement": "H3: Zakłady na Esport w Polsce"
+    }
+  ],
+  "total_keyword_volume": 82790,
+  "volume_increase_percentage": 11827,
+  "brands": [
+    {
+      "name": "DirectionBet",
+      "position": 1,
+      "review_url": "/sport/betting/poland/directionbet-opinie.htm",
+      "rationale": "Pozycja #1 - Lider na polskim rynku z szeroką ofertą sportową, konkurencyjnymi kursami i lokalnymi metodami płatności. Doskonała obsługa klienta w języku polskim."
+    },
+    {
+      "name": "LegendPlay",
+      "position": 2,
+      "review_url": "/sport/betting/poland/legendplay-opinie.htm",
+      "rationale": "Pozycja #2 - Nowoczesna platforma z atrakcyjnymi bonusami powitalnymi i rozbudowaną sekcją zakładów na żywo. Silna obecność w polskim segmencie e-sportu."
+    },
+    {
+      "name": "Betalright",
+      "position": 3,
+      "review_url": "/sport/betting/poland/betalright-opinie.htm",
+      "rationale": "Pozycja #3 - Operator z intuicyjnym interfejsem mobilnym i szybkimi wypłatami. Popularna platforma wśród polskich graczy szukających prostoty obsługi."
+    },
+    {
+      "name": "Festival Play",
+      "position": 4,
+      "review_url": "/sport/betting/poland/festivalplay-opinie.htm",
+      "rationale": "Pozycja #4 - Specjalista od piłki nożnej z rozbudowanymi rynkami na Ekstraklasę i polskie ligi niższe. Atrakcyjne promocje na mecze reprezentacji."
+    },
+    {
+      "name": "RoyalistPlay",
+      "position": 5,
+      "review_url": "/sport/betting/poland/royalistplay-opinie.htm",
+      "rationale": "Pozycja #5 - Kompleksowa platforma łącząca sportsbook z kasynem. Dobra oferta na sporty walki i MMA popularne w Polsce."
+    }
+  ],
+  "competitors_analyzed": [
+    {
+      "domain": "najlepsibukmacherzy.pl",
+      "position": 1,
+      "domain_rating": 45,
+      "traffic": 15000,
+      "word_count": 6500,
+      "brand_count": 12,
+      "key_strengths": "Polska domena z wysokim autorytetem lokalnym. Szczegółowe recenzje, porównania kursów, sekcja z bonusami."
+    },
+    {
+      "domain": "legalnibukmacherzy.pl",
+      "position": 2,
+      "domain_rating": 38,
+      "traffic": 8500,
+      "word_count": 5500,
+      "brand_count": 10,
+      "key_strengths": "Fokus na legalne zakłady, informacje o licencjach, porównanie metod płatności."
+    },
+    {
+      "domain": "bet.pl",
+      "position": 3,
+      "domain_rating": 52,
+      "traffic": 12000,
+      "word_count": 4800,
+      "brand_count": 8,
+      "key_strengths": "Silna marka, zaufana domena, aktualności ze świata bukmacherskiego."
+    }
+  ],
+  "content_gaps": [
+    "Interaktywna tabela porównawcza z filtrowaniem po kursach i bonusach",
+    "Sekcja dedykowana zakładom na Ekstraklasę i polskie ligi",
+    "Porównanie metod płatności preferowanych przez Polaków (BLIK, przelewy24)",
+    "Kalkulator bonusów z wymaganiami obrotu",
+    "Zakłady na esport (CS:GO, League of Legends - popularne w Polsce)",
+    "Porównanie aplikacji mobilnych z ocenami ze sklepów",
+    "Sekcja o zakładach na reprezentację Polski",
+    "Porównanie szybkości wypłat",
+    "Zakłady na MMA i sporty walki",
+    "Sekcja odpowiedzialnego hazardu z polskimi zasobami"
+  ],
+  "competitive_target": {
+    "word_count_minimum": 6500,
+    "word_count_target": 7500,
+    "brand_count": 5,
+    "rationale": "Dorównać konkurencji (najlepsibukmacherzy.pl) z 6,500+ słowami, ale skupić się na głębszej analizie 5 marek z 600-800 słowami na każdą."
+  },
+  "poland_specific_considerations": {
+    "compliance_age": "18+ (polska granica wieku dla hazardu)",
+    "responsible_gambling_hotline": "Telefon Zaufania: 801 889 880 (PARPA)",
+    "regulatory_body": "Ministerstwo Finansów",
+    "gambling_warning": "Hazard związany jest z ryzykiem",
+    "key_sports": ["Piłka Nożna (Ekstraklasa, Liga Mistrzów)", "Siatkówka", "Sporty Walki/MMA", "Esport", "Żużel"],
+    "payment_preferences": ["BLIK", "Przelewy24", "Karty płatnicze", "Portfele elektroniczne", "Przelew bankowy"],
+    "licensing": "Licencja Ministerstwa Finansów na gry hazardowe"
+  }
+}

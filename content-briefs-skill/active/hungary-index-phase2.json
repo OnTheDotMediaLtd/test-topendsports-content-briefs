@@ -1,0 +1,739 @@
+{
+  "page_name": "hungary-index",
+  "phase": 2,
+  "generated_date": "2026-02-04",
+  "writer_assigned": "Andre Borg",
+  "content_language": "Hungarian",
+  "template_type": 2,
+  "target_word_count": {
+    "minimum": 6500,
+    "target": 7500,
+    "rationale": "Match competitor depth with focused analysis on 5 quality brands for Hungarian market"
+  },
+  "h1_structure": {
+    "title": "Legjobb Fogadoirodak Magyarorszagon",
+    "target_keyword": "legjobb fogadoirodak",
+    "no_dated_language": true,
+    "includes_last_updated_badge": true
+  },
+  "intro_requirements": {
+    "total_words": "100-150",
+    "structure": {
+      "opening": "40-50 words - Direct answer naming top 5 fogadoirodak upfront in Hungarian",
+      "authority": "50-75 words - Authority statement about testing methodology"
+    },
+    "forbidden_phrases": [
+      "Udvozoljuk...",
+      "Keresi...",
+      "Retorikai kerdesek",
+      "150 szo feletti bevezeto"
+    ],
+    "note": "NO affiliate disclosure in content - it is in website sidebar"
+  },
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Legjobb Fogadoirodak Magyarorszagon",
+      "target_keyword": "legjobb fogadoirodak",
+      "word_count": 0,
+      "notes": "Title only, followed by Last Updated badge"
+    },
+    {
+      "section": "Introduction",
+      "word_count": "100-150",
+      "requirements": [
+        "Direct answer: Name top 5 fogadoirodak upfront (DirectionBet, LegendPlay, Betalright, Festival Play, RoyalistPlay)",
+        "Authority statement in Hungarian",
+        "NO affiliate disclosure (it is in sidebar)"
+      ]
+    },
+    {
+      "section": "Comparison Table",
+      "brands_included": 5,
+      "columns": [
+        "Fogadoiroda",
+        "Udvozlo Bonus",
+        "Fo Jellemzok",
+        "Sportok",
+        "Fizetesi Modok",
+        "Alkalmazas Ertekeles",
+        "Min. Befizetes",
+        "CTA Gomb"
+      ],
+      "requirements": "Interactive table with filtering capability, Hungarian labels"
+    },
+    {
+      "section": "Quick Answer Box",
+      "word_count": "75-100",
+      "requirements": "Summary of top 3 sites with primary USPs in Hungarian"
+    },
+    {
+      "section": "H2",
+      "title": "Legjobb Fogadasi Oldalak Osszehasonlitasa",
+      "target_keyword": "fogadasi oldalak",
+      "keyword_volume": 300,
+      "word_count": "200-300",
+      "purpose": "Introduction to the detailed reviews, explain ranking criteria in Hungarian"
+    },
+    {
+      "section": "H2",
+      "title": "DirectionBet Velemeny: Vezeto Sportfogadasi Platform",
+      "brand": "DirectionBet",
+      "position": 1,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Fo Jellemzok es Sportkinadat",
+          "word_count": "150-200",
+          "requirements": "Comprehensive sports list, live betting, odds quality, Hungarian league coverage"
+        },
+        {
+          "type": "H3",
+          "title": "DirectionBet Mobil Elmeny",
+          "word_count": "100-150",
+          "requirements": "App Store rating, interface review, mobile-specific features, iOS/Android availability"
+        },
+        {
+          "type": "H3",
+          "title": "DirectionBet Udvozlo Bonus es Promociok",
+          "word_count": "100-150",
+          "requirements": "Current welcome offer, ongoing promotions, T&Cs summary"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150",
+          "requirements": "4-5 elonyok, 2-3 hatranyok with specific evidence"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "LegendPlay Velemeny: Kimagaslo Elo Fogadasi Lehetosegek",
+      "brand": "LegendPlay",
+      "position": 2,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Fo Jellemzok es Platform Kialakitas",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "LegendPlay Mobil Alkalmazas Elemzes",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "LegendPlay Bonuszok es Husegprogram",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betalright Velemeny: Modern Fogadasi Platform",
+      "brand": "Betalright",
+      "position": 3,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Fo Jellemzok es Piacvalasztek",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Mobil Elmeny",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Udvozlo Ajanlat",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Festival Play Velemeny: Foci Fogadas Specialista",
+      "brand": "Festival Play",
+      "position": 4,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Fo Jellemzok es NB I Lefedettseeg",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Mobil Alkalmazas",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Bonus Feltetelek",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "RoyalistPlay Velemeny: Sokoldalu Fogadasi Platform",
+      "brand": "RoyalistPlay",
+      "position": 5,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Fo Jellemzok es Termekvalasztek",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "RoyalistPlay Mobil Alkalmazas",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "RoyalistPlay Bonuszok",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Sportfogadas Magyarorszagon - Teljes Utmutato",
+      "target_keyword": "sportfogadas",
+      "keyword_volume": 18000,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Sportfogadasi Tippek es Strategiak",
+          "target_keyword": "sportfogadas tippek",
+          "keyword_volume": 600,
+          "word_count": "200-250",
+          "requirements": "Basic betting strategies, bankroll management, odds understanding"
+        },
+        {
+          "type": "H3",
+          "title": "Foci Fogadas - Bajnoksagok es Fogadasi Piacok",
+          "target_keyword": "foci fogadas",
+          "keyword_volume": 250,
+          "word_count": "200-250",
+          "requirements": "NB I, Hungarian Cup, European competitions, Premier League"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Tippmix es Online Fogadas - Mit Valassz?",
+      "target_keyword": "tippmix",
+      "keyword_volume": 202000,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Tippmix Online vs Nemzetkozi Fogadoirodak",
+          "target_keyword": "tippmix online",
+          "keyword_volume": 1900,
+          "word_count": "200-250",
+          "requirements": "Compare state operator vs international sites, odds quality, market variety, bonuses"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Online Sportfogadas - Legalis es Biztonsagos Lehetosegek",
+      "target_keyword": "online sportfogadas",
+      "keyword_volume": 1800,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Hogyan Teszteljuk az Online Fogadasi Oldalakat",
+          "word_count": "200-250",
+          "requirements": "Testing methodology - licensing, security, payment speeds, customer support, odds quality"
+        },
+        {
+          "type": "H3",
+          "title": "Biztonsagi es Vedelmi Szabvanyok",
+          "word_count": "150-200",
+          "requirements": "SSL encryption, responsible gambling tools, data protection"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Online Fogadas Alapjai Kezdoknek",
+      "target_keyword": "online fogadas",
+      "keyword_volume": 1400,
+      "word_count": "400-500",
+      "requirements": "Beginner guide to online betting in Hungarian, how to register, make first bet, understand odds"
+    },
+    {
+      "section": "H2",
+      "title": "Elo Fogadas - Valos Ideju Fogadasi Lehetosegek",
+      "target_keyword": "elo fogadas",
+      "keyword_volume": 450,
+      "word_count": "400-500",
+      "requirements": "Live betting features comparison across 5 brands, best platforms for in-play betting"
+    },
+    {
+      "section": "H2",
+      "title": "Legalis Fogadoirodak Magyarorszagon",
+      "target_keyword": "legalis fogadoirodak",
+      "keyword_volume": 150,
+      "word_count": "400-500",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "SZTFH Szabalyozas es Jatekosvedelmi",
+          "word_count": "200-250",
+          "requirements": "Explain Hungarian regulatory framework, SZTFH role, player protections"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Magyar Sportok Fogadasa",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Kezilabda Fogadas - Magyar Sikerek",
+          "word_count": "150-200",
+          "requirements": "Hungary handball powerhouse, Champions League clubs (Veszprem, Szeged), national team"
+        },
+        {
+          "type": "H3",
+          "title": "Vizilabda Fogadas - Vilagbajnokok",
+          "word_count": "150-200",
+          "requirements": "Hungary world champion in water polo, Olympic success, betting markets"
+        },
+        {
+          "type": "H3",
+          "title": "Tenisz Fogadas - ATP es WTA Piacok",
+          "target_keyword": "tenisz fogadas",
+          "keyword_volume": 200,
+          "word_count": "150-200",
+          "requirements": "Tennis betting markets, Grand Slams, ATP/WTA tour coverage"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Fizetesi Modok Osszehasonlitasa",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Banki Atutalas es Kartyak",
+          "word_count": "150-200",
+          "requirements": "Visa, Mastercard availability, Hungarian bank transfer times"
+        },
+        {
+          "type": "H3",
+          "title": "Revolut es E-Penztarcak",
+          "word_count": "150-200",
+          "requirements": "Revolut very popular in Hungary, Skrill, Neteller options"
+        },
+        {
+          "type": "H3",
+          "title": "Paysafecard es Egyeb Modszerek",
+          "word_count": "100-150",
+          "requirements": "Paysafecard for privacy, other available methods"
+        },
+        {
+          "type": "Table",
+          "title": "Fizetesi Modok Fogadoirodankent",
+          "requirements": "5-brand comparison table showing all payment options, min/max deposits, withdrawal times"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Mobil Fogadasi Alkalmazasok",
+      "word_count": "500-600",
+      "requirements": "Consolidated section comparing all 5 brands mobile apps, App Store ratings, features, download guides",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "iOS es Android Alkalmazas Elerhettoseg",
+          "word_count": "200-250"
+        },
+        {
+          "type": "H3",
+          "title": "Mobil Alkalmazas Funkcio Osszehasonlitas",
+          "word_count": "200-250",
+          "requirements": "Table comparing features across 5 apps"
+        },
+        {
+          "type": "Table",
+          "title": "App Store Ertekelesek Osszehasonlitasa",
+          "requirements": "All 5 brands with iOS/Android ratings"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Teljes Bonus Feltelek es Kondiciok",
+      "word_count": "400-500",
+      "requirements": "Full T&Cs for ALL 5 brands welcome offers - wagering requirements, time limits, minimum odds, excluded markets"
+    },
+    {
+      "section": "H2",
+      "title": "Hogyan Teszteljuk es Rangsoroljuk a Fogadoirodakat",
+      "word_count": "400-500",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Tesztelesi Modszertanunk",
+          "word_count": "200-250",
+          "requirements": "Explain 8-10 criteria used for rankings"
+        },
+        {
+          "type": "H3",
+          "title": "Miert Bizhat Velemenynkben?",
+          "word_count": "150-200",
+          "requirements": "Experience, transparency, real testing, source citations"
+        }
+      ]
+    },
+    {
+      "section": "FAQs",
+      "word_count": "700-900",
+      "requirements": "7+ FAQs targeting secondary keywords, 80-120 words each, in Hungarian"
+    },
+    {
+      "section": "H2",
+      "title": "Felelossegteli Jatekrol Magyarorszagon",
+      "word_count": "300-400",
+      "requirements": "Szerencsejatek Zrt. Segitovonal (06-1-270-7990), self-exclusion tools, deposit limits, reality checks, problem gambling signs"
+    },
+    {
+      "section": "References",
+      "requirements": "5-10 citations from App Store, Reddit, official sources"
+    }
+  ],
+  "keyword_mapping": [
+    {
+      "keyword": "legjobb fogadoirodak",
+      "volume": 150,
+      "placement": "H1",
+      "section_title": "Legjobb Fogadoirodak Magyarorszagon"
+    },
+    {
+      "keyword": "sportfogadas",
+      "volume": 18000,
+      "placement": "H2",
+      "section_title": "Sportfogadas Magyarorszagon - Teljes Utmutato"
+    },
+    {
+      "keyword": "tippmix",
+      "volume": 202000,
+      "placement": "H2",
+      "section_title": "Tippmix es Online Fogadas - Mit Valassz?"
+    },
+    {
+      "keyword": "tippmix online",
+      "volume": 1900,
+      "placement": "H3",
+      "section_title": "Tippmix Online vs Nemzetkozi Fogadoirodak"
+    },
+    {
+      "keyword": "online sportfogadas",
+      "volume": 1800,
+      "placement": "H2",
+      "section_title": "Online Sportfogadas - Legalis es Biztonsagos Lehetosegek"
+    },
+    {
+      "keyword": "online fogadas",
+      "volume": 1400,
+      "placement": "H2",
+      "section_title": "Online Fogadas Alapjai Kezdoknek"
+    },
+    {
+      "keyword": "sportfogadas tippek",
+      "volume": 600,
+      "placement": "H3",
+      "section_title": "Sportfogadasi Tippek es Strategiak"
+    },
+    {
+      "keyword": "elo fogadas",
+      "volume": 450,
+      "placement": "H2",
+      "section_title": "Elo Fogadas - Valos Ideju Fogadasi Lehetosegek"
+    },
+    {
+      "keyword": "fogadasi oldalak",
+      "volume": 300,
+      "placement": "H2",
+      "section_title": "Legjobb Fogadasi Oldalak Osszehasonlitasa"
+    },
+    {
+      "keyword": "foci fogadas",
+      "volume": 250,
+      "placement": "H3",
+      "section_title": "Foci Fogadas - Bajnoksagok es Fogadasi Piacok"
+    },
+    {
+      "keyword": "tenisz fogadas",
+      "volume": 200,
+      "placement": "H3",
+      "section_title": "Tenisz Fogadas - ATP es WTA Piacok"
+    },
+    {
+      "keyword": "legalis fogadoirodak",
+      "volume": 150,
+      "placement": "H2",
+      "section_title": "Legalis Fogadoirodak Magyarorszagon"
+    },
+    {
+      "keyword": "legjobb fogadasi oldalak",
+      "volume": 40,
+      "placement": "FAQ",
+      "section_title": "Melyek a legjobb fogadasi oldalak Magyarorszagon?"
+    }
+  ],
+  "faq_questions": [
+    {
+      "question": "Melyek a legjobb fogadasi oldalak Magyarorszagon?",
+      "target_keyword": "legjobb fogadasi oldalak",
+      "keyword_volume": 40,
+      "word_count": "80-120",
+      "answer_requirements": "Name top 5 sites, explain criteria for 'legjobb', mention sports variety and bonuses"
+    },
+    {
+      "question": "Legalis a sportfogadas Magyarorszagon?",
+      "target_keyword": "sportfogadas",
+      "keyword_volume": 18000,
+      "word_count": "80-120",
+      "answer_requirements": "Explain Hungarian gambling laws, SZTFH regulation, age requirement (18+)"
+    },
+    {
+      "question": "Mi a kulonbseg a Tippmix es a nemzetkozi fogadoirodak kozott?",
+      "target_keyword": "tippmix",
+      "keyword_volume": 202000,
+      "word_count": "80-120",
+      "answer_requirements": "Compare state operator vs international sites, odds, markets, bonuses"
+    },
+    {
+      "question": "Melyik fogadoiroda kinalja a legjobb elo fogadasi lehetosegeket?",
+      "target_keyword": "elo fogadas",
+      "keyword_volume": 450,
+      "word_count": "80-120",
+      "answer_requirements": "Compare live betting features across 5 brands, recommend top choice"
+    },
+    {
+      "question": "Milyen fizetesi modokat fogadnak el a magyar fogadoirodak?",
+      "target_keyword": "fogadasi oldalak",
+      "keyword_volume": 300,
+      "word_count": "80-120",
+      "answer_requirements": "List payment methods: Revolut, cards, bank transfer, e-wallets"
+    },
+    {
+      "question": "Hogyan valasszak legalis fogadoirodat Magyarorszagon?",
+      "target_keyword": "legalis fogadoirodak",
+      "keyword_volume": 150,
+      "word_count": "80-120",
+      "answer_requirements": "Explain how to verify legitimacy, SZTFH role, security features"
+    },
+    {
+      "question": "Van mobil alkalmazasa a magyar fogadoirodaknak?",
+      "target_keyword": "online fogadas",
+      "keyword_volume": 1400,
+      "word_count": "80-120",
+      "answer_requirements": "List which of 5 brands have apps, iOS/Android availability"
+    },
+    {
+      "question": "Melyik a legjobb oldal foci fogadasra?",
+      "target_keyword": "foci fogadas",
+      "keyword_volume": 250,
+      "word_count": "80-120",
+      "answer_requirements": "Recommend top 2-3 sites for football, mention NB I coverage"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      "App Store ratings and reviews for mobile apps",
+      "Google Play Store ratings and reviews",
+      "Reddit discussions for user sentiment"
+    ],
+    "tier_2_verification": [
+      "Official brand websites for features and T&Cs verification",
+      "SZTFH regulatory information"
+    ],
+    "tier_3_sparingly": [
+      "Competitor affiliate sites for research gaps only",
+      "NEVER cite affiliate sites for pros/cons or recommendations"
+    ],
+    "citation_format": "App Store-on X.X/5 (Y ertekeles) or Reddit felhasznalok X topikban jelentik"
+  },
+  "internal_links": [
+    {
+      "anchor_text": "DirectionBet velemeny",
+      "target_url": "/sport/betting/hungary/directionbet-fogadoiroda.htm",
+      "placement": "Position #1 brand section"
+    },
+    {
+      "anchor_text": "LegendPlay velemeny",
+      "target_url": "/sport/betting/hungary/legendplay-fogadoiroda.htm",
+      "placement": "Position #2 brand section"
+    },
+    {
+      "anchor_text": "Betalright velemeny",
+      "target_url": "/sport/betting/hungary/betalright-fogadoiroda.htm",
+      "placement": "Position #3 brand section"
+    },
+    {
+      "anchor_text": "Festival Play velemeny",
+      "target_url": "/sport/betting/hungary/festivalplay-fogadoiroda.htm",
+      "placement": "Position #4 brand section"
+    },
+    {
+      "anchor_text": "RoyalistPlay velemeny",
+      "target_url": "/sport/betting/hungary/royalistplay-fogadoiroda.htm",
+      "placement": "Position #5 brand section"
+    },
+    {
+      "anchor_text": "lengyel fogadoirodak",
+      "target_url": "/sport/betting/poland/index.htm",
+      "placement": "Related Markets section"
+    },
+    {
+      "anchor_text": "cseh fogadoirodak",
+      "target_url": "/sport/betting/czech-republic/index.htm",
+      "placement": "Related Markets section"
+    },
+    {
+      "anchor_text": "odds kalkulator",
+      "target_url": "/sport/betting/tools/odds-converter.htm",
+      "placement": "Calculator Tools section"
+    },
+    {
+      "anchor_text": "parlay kalkulator",
+      "target_url": "/sport/betting/tools/parlay-calculator.htm",
+      "placement": "Calculator Tools section"
+    },
+    {
+      "anchor_text": "elo fogadas utmutato",
+      "target_url": "/sport/betting/live/index.htm",
+      "placement": "Live Betting section"
+    },
+    {
+      "anchor_text": "foci fogadas",
+      "target_url": "/sport/betting/football/index.htm",
+      "placement": "Football section"
+    },
+    {
+      "anchor_text": "felelossegteli jatek",
+      "target_url": "/sport/betting/responsible-gambling/index.htm",
+      "placement": "Responsible Gambling section"
+    }
+  ],
+  "compliance_requirements": {
+    "age_restriction": "18+ (Hungarian legal gambling age)",
+    "regulatory_body": "SZTFH (Szerencsejatek Felugyelet)",
+    "responsible_gambling_hotline": "Szerencsejatek Zrt. Segitovonal: 06-1-270-7990",
+    "affiliate_disclosure": "NOT in content - it is in website sidebar",
+    "responsible_gambling_section": "MUST appear at bottom of page",
+    "no_dated_language": "NEVER use dates in H1 - use Last Updated badge only"
+  },
+  "brand_requirements": {
+    "sections_per_brand": [
+      "Fo Jellemzok es Sportkinadat (150-200 words)",
+      "Mobil Elmeny (100-150 words with App Store rating)",
+      "Udvozlo Bonus es Promociok (100-150 words)",
+      "Elonyok es Hatranyok (100-150 words with 4-5 pros, 2-3 cons)"
+    ],
+    "word_count_by_position": {
+      "positions_1_2": "600-700 words each",
+      "positions_3_5": "500-600 words each"
+    },
+    "total_brands": 5
+  },
+  "hungary_specific_elements": {
+    "key_sports": [
+      "Labdarugas/Foci (NB I, Hungarian Cup, European competitions)",
+      "Kezilabda (Handball - Hungary powerhouse, Champions League clubs)",
+      "Vizilabda (Water Polo - World champions)",
+      "Tenisz (ATP/WTA)",
+      "Kosarlabda (Basketball)"
+    ],
+    "unique_markets": [
+      "NB I Hungarian football league",
+      "Hungarian Cup matches",
+      "Veszprem/Szeged handball",
+      "Hungarian water polo league",
+      "Hungarian national team matches"
+    ],
+    "payment_preferences": [
+      "Revolut (very popular in Hungary)",
+      "Bank Transfer (atutalas)",
+      "Credit/Debit cards (Visa, Mastercard)",
+      "Skrill/Neteller",
+      "Paysafecard"
+    ],
+    "tippmix_comparison": "Include objective comparison with state operator Tippmix"
+  },
+  "calculator_tools": [
+    {
+      "tool": "Odds Kalkulator",
+      "url": "/sport/betting/tools/odds-converter.htm",
+      "placement": "Sportfogadas section",
+      "description": "Szamolja ki az oddsokat es a potencialis nyeremenyt"
+    },
+    {
+      "tool": "Parlay Kalkulator",
+      "url": "/sport/betting/tools/parlay-calculator.htm",
+      "placement": "Sportfogadasi Tippek section",
+      "description": "Szamolja ki a kombinalt fogadasok nyeremenyet"
+    }
+  ],
+  "meta_keywords": [
+    "legjobb fogadoirodak",
+    "sportfogadas",
+    "tippmix",
+    "tippmix online",
+    "online sportfogadas",
+    "online fogadas",
+    "sportfogadas tippek",
+    "elo fogadas",
+    "fogadasi oldalak",
+    "foci fogadas",
+    "tenisz fogadas",
+    "legalis fogadoirodak",
+    "legjobb fogadasi oldalak"
+  ],
+  "validation_checklist": {
+    "keywords_mapped": "All 12 secondary keywords mapped to specific sections",
+    "faqs_count": "8 FAQs created targeting keywords",
+    "mobile_sections": "Mobile Experience section for all 5 brands",
+    "payment_comparison": "Payment methods comparison section included",
+    "calculator_links": "2 calculator tool links included",
+    "internal_links": "12 internal links specified",
+    "source_requirements": "Tier 1 sources (App Store, Reddit) specified",
+    "hungary_specific": "SZTFH, Tippmix comparison, Hungarian sports covered",
+    "compliance": "18+, Hungarian hotline, NO affiliate disclosure in content"
+  }
+}

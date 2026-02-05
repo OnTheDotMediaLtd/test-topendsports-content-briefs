@@ -1,0 +1,733 @@
+{
+  "page_name": "poland-index",
+  "phase": 2,
+  "generated_date": "2026-02-04",
+  "writer_assigned": "Andre Borg",
+  "content_language": "Polish",
+  "template_type": 2,
+  "target_word_count": {
+    "minimum": 6500,
+    "target": 7500,
+    "rationale": "Dorównać konkurencji (najlepsibukmacherzy.pl) z głębszą analizą każdej marki"
+  },
+  "h1_structure": {
+    "title": "Najlepsi Bukmacherzy w Polsce",
+    "target_keyword": "najlepsi bukmacherzy",
+    "no_dated_language": true,
+    "includes_last_updated_badge": true
+  },
+  "intro_requirements": {
+    "total_words": "100-150",
+    "structure": {
+      "opening": "40-50 słów - Bezpośrednia odpowiedź wymieniająca top 3-5 bukmacherów",
+      "authority": "50-75 słów - Oświadczenie o autorytecie i metodologii testowania"
+    },
+    "forbidden_phrases": [
+      "Witamy na...",
+      "Szukasz...",
+      "Jeśli zastanawiasz się...",
+      "Pytania retoryczne",
+      "Powyżej 150 słów"
+    ],
+    "note": "BEZ ujawnienia afiliacji w treści - jest w sidebarze strony"
+  },
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Najlepsi Bukmacherzy w Polsce",
+      "target_keyword": "najlepsi bukmacherzy",
+      "word_count": 0,
+      "notes": "Tylko tytuł, po nim badge Last Updated"
+    },
+    {
+      "section": "Introduction",
+      "word_count": "100-150",
+      "requirements": [
+        "Bezpośrednia odpowiedź: Wymień top 5 bukmacherów na wstępie",
+        "Oświadczenie o autorytecie i testowaniu",
+        "BEZ ujawnienia afiliacji (jest w sidebarze)"
+      ]
+    },
+    {
+      "section": "Comparison Table",
+      "brands_included": 5,
+      "columns": [
+        "Bukmacher",
+        "Bonus Powitalny",
+        "Kluczowe Funkcje",
+        "Dostępne Sporty",
+        "Metody Płatności",
+        "Ocena Aplikacji",
+        "Min. Depozyt",
+        "Przycisk CTA"
+      ],
+      "requirements": "Interaktywna tabela z możliwością filtrowania"
+    },
+    {
+      "section": "Quick Answer Box",
+      "word_count": "75-100",
+      "requirements": "Podsumowanie top 3 z głównymi USP"
+    },
+    {
+      "section": "H2",
+      "title": "Ranking Bukmacherów - Top 5 Operatorów",
+      "target_keyword": "ranking bukmacherów",
+      "keyword_volume": 1200,
+      "word_count": "200-300",
+      "purpose": "Wprowadzenie do szczegółowych recenzji, wyjaśnienie kryteriów rankingu"
+    },
+    {
+      "section": "H2",
+      "title": "DirectionBet Opinie - Lider Polskiego Rynku",
+      "brand": "DirectionBet",
+      "position": 1,
+      "word_count": "700-800",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Kluczowe Funkcje i Oferta Sportowa DirectionBet",
+          "word_count": "200-250",
+          "requirements": "Kompletna lista sportów, zakłady na żywo, jakość kursów"
+        },
+        {
+          "type": "H3",
+          "title": "DirectionBet Aplikacja Mobilna",
+          "word_count": "100-150",
+          "requirements": "Ocena ze sklepu, przegląd interfejsu, funkcje mobilne, iOS/Android"
+        },
+        {
+          "type": "H3",
+          "title": "DirectionBet Bonus Powitalny i Promocje",
+          "word_count": "150-200",
+          "requirements": "Aktualna oferta powitalna, bieżące promocje, podsumowanie T&C"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150",
+          "requirements": "4-5 zalet, 2-3 wad z konkretnymi dowodami"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "LegendPlay Opinie - Nowoczesna Platforma Zakładów",
+      "brand": "LegendPlay",
+      "position": 2,
+      "word_count": "700-800",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Kluczowe Funkcje i Design Platformy LegendPlay",
+          "word_count": "200-250"
+        },
+        {
+          "type": "H3",
+          "title": "LegendPlay Aplikacja Mobilna - Analiza",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "LegendPlay Bonusy i Program Lojalnościowy",
+          "word_count": "150-200"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Betalright Opinie - Intuicyjny Interfejs i Szybkie Wypłaty",
+      "brand": "Betalright",
+      "position": 3,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Kluczowe Funkcje i Rynki Zakładów Betalright",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Doświadczenie Mobilne",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Betalright Oferta Powitalna",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Festival Play Opinie - Specjalista od Piłki Nożnej",
+      "brand": "Festival Play",
+      "position": 4,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Kluczowe Funkcje i Oferta na Ekstraklasę",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Aplikacja Mobilna",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "Festival Play Warunki Bonusu",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "RoyalistPlay Opinie - Kompleksowa Platforma",
+      "brand": "RoyalistPlay",
+      "position": 5,
+      "word_count": "600-700",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Kluczowe Funkcje i Oferta Sportowa RoyalistPlay",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "RoyalistPlay Aplikacja Mobilna",
+          "word_count": "100-150"
+        },
+        {
+          "type": "H3",
+          "title": "RoyalistPlay Bonusy",
+          "word_count": "100-150"
+        },
+        {
+          "type": "Pros & Cons",
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Zakłady Bukmacherskie w Polsce - Kompletny Przewodnik",
+      "target_keyword": "zakłady bukmacherskie",
+      "keyword_volume": 43000,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Legalny Bukmacher w Polsce - Licencjonowani Operatorzy",
+          "target_keyword": "legalny bukmacher",
+          "keyword_volume": 2300,
+          "word_count": "150-200",
+          "requirements": "Wyjaśnij licencjonowanie przez Ministerstwo Finansów, wymagania prawne, ochronę graczy"
+        },
+        {
+          "type": "H3",
+          "title": "Jak Wybrać Najlepszego Bukmachera?",
+          "word_count": "150-200",
+          "requirements": "Kryteria wyboru: kursy, oferta, bonus, płatności, support"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Zakłady Sportowe Online - Jak Zacząć?",
+      "target_keyword": "zakłady sportowe",
+      "keyword_volume": 20000,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Rejestracja u Bukmachera Krok po Kroku",
+          "word_count": "150-200",
+          "requirements": "Proces rejestracji, weryfikacja tożsamości, pierwszy depozyt"
+        },
+        {
+          "type": "H3",
+          "title": "Zakłady na Ekstraklasę i Polskie Ligi",
+          "word_count": "150-200",
+          "requirements": "Które serwisy najlepsze na polską piłkę, dostępne rynki"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Kursy Bukmacherskie - Porównanie i Analiza",
+      "target_keyword": "kursy bukmacherskie",
+      "keyword_volume": 13000,
+      "word_count": "400-500",
+      "requirements": "Wyjaśnij jak działają kursy, porównaj marże operatorów, które serwisy oferują najlepsze kursy"
+    },
+    {
+      "section": "H2",
+      "title": "Bukmacherzy Online - Najlepsze Platformy",
+      "target_keyword": "bukmacherzy online",
+      "keyword_volume": 250,
+      "word_count": "400-500",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Zakłady na Esport w Polsce",
+          "target_keyword": "esport zakłady",
+          "keyword_volume": 90,
+          "word_count": "150-200",
+          "requirements": "CS:GO, League of Legends, Valorant - popularne w Polsce, które serwisy najlepsze"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Zakłady na Żywo - Live Betting",
+      "target_keyword": "zakłady na żywo",
+      "keyword_volume": 200,
+      "word_count": "400-500",
+      "requirements": "Porównanie funkcji live betting, streaming, cash out, które platformy najlepsze"
+    },
+    {
+      "section": "H2",
+      "title": "Promocje Bukmacherskie - Bonusy i Oferty",
+      "target_keyword": "promocje bukmacherskie",
+      "keyword_volume": 800,
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Bonusy Powitalne u Bukmacherów",
+          "target_keyword": "bukmacher bonus",
+          "keyword_volume": 250,
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Bonus Powitalny - Jak Wybrać Najlepszą Ofertę",
+          "target_keyword": "bonus powitalny bukmacher",
+          "keyword_volume": 200,
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Aktualne Oferty Bukmacherskie",
+          "target_keyword": "oferty bukmacherskie",
+          "keyword_volume": 100,
+          "word_count": "100-150"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Porównanie Metod Płatności",
+      "word_count": "500-600",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "BLIK i Przelewy24 u Bukmacherów",
+          "word_count": "150-200",
+          "requirements": "Które serwisy akceptują BLIK, Przelewy24, czasy przetwarzania"
+        },
+        {
+          "type": "H3",
+          "title": "Karty Płatnicze i Portfele Elektroniczne",
+          "word_count": "150-200",
+          "requirements": "Visa, Mastercard, e-portfele, czasy wypłat"
+        },
+        {
+          "type": "Table",
+          "title": "Metody Płatności wg Bukmachera",
+          "requirements": "Tabela 5 marek z wszystkimi metodami płatności, min/max depozytami, czasami wypłat"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Aplikacje Mobilne Bukmacherów",
+      "word_count": "500-600",
+      "requirements": "Zestawienie porównujące aplikacje wszystkich 5 marek, oceny ze sklepów, funkcje, poradniki pobierania",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "iOS vs Android - Dostępność Aplikacji",
+          "word_count": "150-200"
+        },
+        {
+          "type": "H3",
+          "title": "Porównanie Funkcji Aplikacji Mobilnych",
+          "word_count": "150-200",
+          "requirements": "Tabela porównująca funkcje 5 aplikacji"
+        },
+        {
+          "type": "Table",
+          "title": "Porównanie Ocen ze Sklepów",
+          "requirements": "Wszystkie 5 marek z ocenami iOS/Android"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Pełne Warunki Bonusów (T&C)",
+      "word_count": "400-500",
+      "requirements": "Pełne T&C dla ofert powitalnych WSZYSTKICH 5 marek - wymogi obrotu, limity czasowe, minimalne kursy, wykluczone rynki"
+    },
+    {
+      "section": "H2",
+      "title": "Jak Testujemy i Rankujemy Bukmacherów",
+      "word_count": "400-500",
+      "subsections": [
+        {
+          "type": "H3",
+          "title": "Nasza Metodologia Testowania",
+          "word_count": "200-250",
+          "requirements": "Wyjaśnij 8-10 kryteriów używanych do rankingu"
+        },
+        {
+          "type": "H3",
+          "title": "Dlaczego Warto Zaufać Naszym Recenzjom?",
+          "word_count": "150-200",
+          "requirements": "Doświadczenie, transparentność, prawdziwe testowanie, cytaty ze źródeł"
+        }
+      ]
+    },
+    {
+      "section": "FAQs",
+      "word_count": "700-875",
+      "requirements": "7 FAQ celujących w słowa kluczowe drugorzędne, 80-125 słów każde"
+    },
+    {
+      "section": "H2",
+      "title": "Odpowiedzialny Hazard w Polsce",
+      "word_count": "300-400",
+      "requirements": "Telefon PARPA (801 889 880), narzędzia samowykluczenia, limity depozytów, znaki problemu z hazardem, ostrzeżenie 'Hazard związany jest z ryzykiem'"
+    },
+    {
+      "section": "References",
+      "requirements": "5-10 cytatów ze sklepów z aplikacjami, Trustpilot, Reddit, oficjalnych źródeł licencyjnych"
+    }
+  ],
+  "keyword_mapping": [
+    {
+      "keyword": "najlepsi bukmacherzy",
+      "volume": 700,
+      "placement": "H1",
+      "section_title": "Najlepsi Bukmacherzy w Polsce"
+    },
+    {
+      "keyword": "zakłady bukmacherskie",
+      "volume": 43000,
+      "placement": "H2",
+      "section_title": "Zakłady Bukmacherskie w Polsce - Kompletny Przewodnik"
+    },
+    {
+      "keyword": "zakłady sportowe",
+      "volume": 20000,
+      "placement": "H2",
+      "section_title": "Zakłady Sportowe Online - Jak Zacząć?"
+    },
+    {
+      "keyword": "kursy bukmacherskie",
+      "volume": 13000,
+      "placement": "H2",
+      "section_title": "Kursy Bukmacherskie - Porównanie i Analiza"
+    },
+    {
+      "keyword": "legalny bukmacher",
+      "volume": 2300,
+      "placement": "H3",
+      "section_title": "Legalny Bukmacher w Polsce - Licencjonowani Operatorzy"
+    },
+    {
+      "keyword": "ranking bukmacherów",
+      "volume": 1200,
+      "placement": "H2",
+      "section_title": "Ranking Bukmacherów - Top 5 Operatorów"
+    },
+    {
+      "keyword": "promocje bukmacherskie",
+      "volume": 800,
+      "placement": "H2",
+      "section_title": "Promocje Bukmacherskie - Bonusy i Oferty"
+    },
+    {
+      "keyword": "najlepszy bukmacher",
+      "volume": 800,
+      "placement": "FAQ",
+      "section_title": "Który bukmacher jest najlepszy w Polsce?"
+    },
+    {
+      "keyword": "bukmacher polska",
+      "volume": 600,
+      "placement": "Natural mentions",
+      "section_title": "W całej treści"
+    },
+    {
+      "keyword": "bukmacher bonus",
+      "volume": 250,
+      "placement": "H3",
+      "section_title": "Bonusy Powitalne u Bukmacherów"
+    },
+    {
+      "keyword": "bukmacherzy online",
+      "volume": 250,
+      "placement": "H2",
+      "section_title": "Bukmacherzy Online - Najlepsze Platformy"
+    },
+    {
+      "keyword": "zakłady na żywo",
+      "volume": 200,
+      "placement": "H2",
+      "section_title": "Zakłady na Żywo - Live Betting"
+    },
+    {
+      "keyword": "bonus powitalny bukmacher",
+      "volume": 200,
+      "placement": "H3",
+      "section_title": "Bonus Powitalny - Jak Wybrać Najlepszą Ofertę"
+    },
+    {
+      "keyword": "oferty bukmacherskie",
+      "volume": 100,
+      "placement": "H3",
+      "section_title": "Aktualne Oferty Bukmacherskie"
+    },
+    {
+      "keyword": "esport zakłady",
+      "volume": 90,
+      "placement": "H3",
+      "section_title": "Zakłady na Esport w Polsce"
+    }
+  ],
+  "faq_questions": [
+    {
+      "question": "Który bukmacher jest najlepszy w Polsce?",
+      "target_keyword": "najlepszy bukmacher",
+      "keyword_volume": 800,
+      "word_count": "100-125",
+      "answer_requirements": "Wymień top 3 bukmacherów, wyjaśnij kryteria 'najlepszego', wspomnij o różnych potrzebach graczy"
+    },
+    {
+      "question": "Czy zakłady bukmacherskie są legalne w Polsce?",
+      "target_keyword": "zakłady bukmacherskie",
+      "keyword_volume": 43000,
+      "word_count": "100-125",
+      "answer_requirements": "Tak - wyjaśnij system licencjonowania przez Ministerstwo Finansów, wymóg wieku (18+), odpowiedzialny hazard"
+    },
+    {
+      "question": "Jak sprawdzić czy bukmacher jest legalny?",
+      "target_keyword": "legalny bukmacher",
+      "keyword_volume": 2300,
+      "word_count": "100-125",
+      "answer_requirements": "Lista licencjonowanych operatorów, jak zweryfikować licencję, znaczenie regulacji"
+    },
+    {
+      "question": "Który bukmacher ma najlepsze kursy?",
+      "target_keyword": "kursy bukmacherskie",
+      "keyword_volume": 13000,
+      "word_count": "100-125",
+      "answer_requirements": "Porównaj marże operatorów, który serwis oferuje najlepsze kursy na piłkę nożną i inne sporty"
+    },
+    {
+      "question": "Jak odebrać bonus powitalny u bukmachera?",
+      "target_keyword": "bonus powitalny bukmacher",
+      "keyword_volume": 200,
+      "word_count": "100-125",
+      "answer_requirements": "Proces krok po kroku, typowe wymogi obrotu, na co uważać"
+    },
+    {
+      "question": "Który bukmacher akceptuje BLIK?",
+      "target_keyword": "bukmacher polska",
+      "keyword_volume": 600,
+      "word_count": "100-125",
+      "answer_requirements": "Lista bukmacherów akceptujących BLIK, czasy przetwarzania, limity"
+    },
+    {
+      "question": "Który bukmacher jest najlepszy na zakłady na żywo?",
+      "target_keyword": "zakłady na żywo",
+      "keyword_volume": 200,
+      "word_count": "100-125",
+      "answer_requirements": "Top 3 dla live betting, funkcje streamingu, cash out, szybkość aktualizacji kursów"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      "Oceny i recenzje ze sklepu App Store dla aplikacji mobilnych",
+      "Oceny i recenzje z Google Play Store",
+      "Recenzje Trustpilot dla reputacji marek",
+      "Dyskusje Reddit (r/bukmacherzy, polskie subreddity) dla opinii użytkowników"
+    ],
+    "tier_2_verification": [
+      "Oficjalne strony marek dla funkcji i weryfikacji T&C",
+      "Baza danych licencji Ministerstwa Finansów"
+    ],
+    "tier_3_sparingly": [
+      "Konkurencyjne strony afiliacyjne tylko dla luk badawczych",
+      "NIGDY nie cytuj stron afiliacyjnych dla zalet/wad lub rekomendacji"
+    ],
+    "citation_format": "\"4,9/5 (1,8M recenzji) w App Store na [data]\" lub \"Użytkownicy Reddit zgłaszają [odkrycie] w X wątkach\""
+  },
+  "internal_links": [
+    {
+      "anchor_text": "DirectionBet opinie",
+      "target_url": "/sport/betting/poland/directionbet-opinie.htm",
+      "placement": "Sekcja DirectionBet"
+    },
+    {
+      "anchor_text": "LegendPlay opinie",
+      "target_url": "/sport/betting/poland/legendplay-opinie.htm",
+      "placement": "Sekcja LegendPlay"
+    },
+    {
+      "anchor_text": "Betalright opinie",
+      "target_url": "/sport/betting/poland/betalright-opinie.htm",
+      "placement": "Sekcja Betalright"
+    },
+    {
+      "anchor_text": "Festival Play opinie",
+      "target_url": "/sport/betting/poland/festivalplay-opinie.htm",
+      "placement": "Sekcja Festival Play"
+    },
+    {
+      "anchor_text": "RoyalistPlay opinie",
+      "target_url": "/sport/betting/poland/royalistplay-opinie.htm",
+      "placement": "Sekcja RoyalistPlay"
+    },
+    {
+      "anchor_text": "kalkulator kursów",
+      "target_url": "/sport/betting/tools/odds-converter.htm",
+      "placement": "Sekcja kursów"
+    },
+    {
+      "anchor_text": "kalkulator akumulatorów",
+      "target_url": "/sport/betting/tools/parlay-calculator.htm",
+      "placement": "Sekcja zakładów sportowych"
+    },
+    {
+      "anchor_text": "przewodnik po zakładach sportowych",
+      "target_url": "/sport/betting/index.htm",
+      "placement": "Wprowadzenie"
+    },
+    {
+      "anchor_text": "zakłady na piłkę nożną",
+      "target_url": "/sport/betting/football/index.htm",
+      "placement": "Sekcja sportów"
+    },
+    {
+      "anchor_text": "zakłady na MMA",
+      "target_url": "/sport/betting/mma/index.htm",
+      "placement": "Sekcja sportów walki"
+    },
+    {
+      "anchor_text": "bonusy bukmacherskie",
+      "target_url": "/sport/betting/bonuses/index.htm",
+      "placement": "Sekcja bonusów"
+    },
+    {
+      "anchor_text": "odpowiedzialny hazard",
+      "target_url": "/sport/betting/responsible-gambling.htm",
+      "placement": "Sekcja RG"
+    }
+  ],
+  "compliance_requirements": {
+    "age_restriction": "18+ (polski prawny wiek hazardu)",
+    "responsible_gambling_hotline": "Telefon Zaufania PARPA: 801 889 880",
+    "regulatory_body": "Ministerstwo Finansów",
+    "gambling_warning": "Hazard związany jest z ryzykiem",
+    "affiliate_disclosure": "NIE umieszczać w treści - jest w sidebarze strony",
+    "responsible_gambling_section": "MUSI pojawić się na dole strony",
+    "no_dated_language": "NIGDY nie używaj dat w H1 - tylko badge Last Updated"
+  },
+  "brand_requirements": {
+    "sections_per_brand": [
+      "Kluczowe Funkcje i Oferta Sportowa (150-250 słów)",
+      "Doświadczenie Mobilne (100-150 słów z oceną ze sklepu)",
+      "Bonus Powitalny i Aktualne Promocje (100-200 słów)",
+      "Zalety i Wady (100-150 słów z 4-5 zaletami, 2-3 wadami)"
+    ],
+    "word_count_by_position": {
+      "positions_1_2": "700-800 słów każda",
+      "positions_3_5": "600-700 słów każda"
+    },
+    "total_brands": 5
+  },
+  "poland_specific_elements": {
+    "key_sports": [
+      "Piłka Nożna (Ekstraklasa, Liga Mistrzów) - OBOWIĄZKOWA sekcja",
+      "Esport (CS:GO, League of Legends, Valorant) - OBOWIĄZKOWA sekcja",
+      "Siatkówka (PlusLiga)",
+      "Sporty Walki/MMA",
+      "Żużel"
+    ],
+    "unique_markets": [
+      "Zakłady na Ekstraklasę",
+      "Reprezentacja Polski w piłce nożnej",
+      "Polscy zawodnicy esportowi",
+      "Żużel - Grand Prix Polski"
+    ],
+    "payment_preferences": [
+      "BLIK (wysoce preferowany)",
+      "Przelewy24",
+      "Karty kredytowe/debetowe (Visa, Mastercard)",
+      "Portfele elektroniczne",
+      "Przelew bankowy"
+    ]
+  },
+  "calculator_tools": [
+    {
+      "tool": "Kalkulator Bonusów",
+      "url": "/sport/betting/tools/bonus-calculator.htm",
+      "placement": "Sekcja Promocje Bukmacherskie",
+      "description": "Oblicz wymogi obrotu i rzeczywistą wartość ofert powitalnych"
+    },
+    {
+      "tool": "Kalkulator Akumulatorów",
+      "url": "/sport/betting/tools/parlay-calculator.htm",
+      "placement": "Sekcja Zakłady Sportowe",
+      "description": "Oblicz potencjalne wygrane z kuponów wielokrotnych"
+    },
+    {
+      "tool": "Konwerter Kursów",
+      "url": "/sport/betting/tools/odds-converter.htm",
+      "placement": "Sekcja Kursy Bukmacherskie",
+      "description": "Przeliczaj między formatami kursów"
+    }
+  ],
+  "meta_keywords": [
+    "najlepsi bukmacherzy",
+    "zakłady bukmacherskie",
+    "zakłady sportowe",
+    "kursy bukmacherskie",
+    "legalny bukmacher",
+    "ranking bukmacherów",
+    "promocje bukmacherskie",
+    "najlepszy bukmacher",
+    "bukmacher polska",
+    "bukmacher bonus",
+    "bukmacherzy online",
+    "zakłady na żywo",
+    "bonus powitalny bukmacher",
+    "oferty bukmacherskie",
+    "esport zakłady"
+  ],
+  "validation_checklist": {
+    "keywords_mapped": "Wszystkie 14 słów kluczowych zmapowane do konkretnych sekcji",
+    "faqs_count": "7 FAQ utworzonych celujących w słowa kluczowe",
+    "mobile_sections": "Sekcja Mobile Experience dla wszystkich 5 marek",
+    "payment_comparison": "Sekcja porównania metod płatności uwzględniona",
+    "calculator_links": "3 linki do kalkulatorów uwzględnione",
+    "internal_links": "12 linków wewnętrznych określone",
+    "source_requirements": "Źródła Tier 1 (App Store, Reddit, Trustpilot) określone",
+    "poland_specific": "Ekstraklasa, esport, licencje Ministerstwa Finansów uwzględnione",
+    "compliance": "18+, polska infolinia, ostrzeżenie hazardowe uwzględnione"
+  }
+}

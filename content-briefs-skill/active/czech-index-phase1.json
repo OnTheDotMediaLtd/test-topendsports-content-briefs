@@ -1,0 +1,244 @@
+{
+  "page": {
+    "url": "https://www.topendsports.com/sport/betting/czech/index.htm",
+    "title": "Nejlepsi Sazkove Kancelare v Cesku",
+    "type": "hub",
+    "market": "czech",
+    "language": "cs",
+    "writer": "Andre Borg",
+    "template": 2
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "nejlepsi sazkove kancelare",
+      "volume": 200,
+      "difficulty": 48,
+      "traffic_potential": 350
+    },
+    "secondary": [
+      {
+        "keyword": "sazeni na sport",
+        "volume": 200,
+        "difficulty": 53,
+        "placement": "H2",
+        "section_title": "Sazeni na Sport v Ceske Republice"
+      },
+      {
+        "keyword": "sportovni sazky",
+        "volume": 150,
+        "difficulty": 60,
+        "placement": "H2",
+        "section_title": "Sportovni Sazky Online"
+      },
+      {
+        "keyword": "sazeni online",
+        "volume": 150,
+        "difficulty": 80,
+        "placement": "H2",
+        "section_title": "Jak Sazet Online v Cesku"
+      },
+      {
+        "keyword": "kurzove sazky",
+        "volume": 150,
+        "difficulty": 57,
+        "placement": "H2",
+        "section_title": "Kurzove Sazky a Typy Sazek"
+      },
+      {
+        "keyword": "online sazeni",
+        "volume": 100,
+        "difficulty": 82,
+        "placement": "H3",
+        "section_title": "Online Sazeni - Jak Zacit"
+      },
+      {
+        "keyword": "bonusy sazkovych kancelari",
+        "volume": 40,
+        "difficulty": null,
+        "placement": "H3",
+        "section_title": "Bonusy Sazkovych Kancelari"
+      },
+      {
+        "keyword": "esport sazky",
+        "volume": 40,
+        "difficulty": null,
+        "placement": "H3",
+        "section_title": "Esport Sazky"
+      },
+      {
+        "keyword": "fotbal sazky",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H3",
+        "section_title": "Fotbalove Sazky"
+      },
+      {
+        "keyword": "tenis sazky",
+        "volume": 20,
+        "difficulty": null,
+        "placement": "H3",
+        "section_title": "Tenisove Sazky"
+      },
+      {
+        "keyword": "hokej sazky",
+        "volume": 10,
+        "difficulty": null,
+        "placement": "H3",
+        "section_title": "Hokejove Sazky"
+      }
+    ],
+    "total_secondary_volume": 870,
+    "cluster_increase_percent": 435
+  },
+  "brands": [
+    {
+      "position": 1,
+      "name": "DirectionBet",
+      "badge": "DB",
+      "color": "#2e7d32",
+      "review_url": "/czech/directionbet-recenze.htm",
+      "rationale": "Prvni pozice - komplexni nabidka pro cesky trh",
+      "usp": "Nejlepsi kurzy na cesky sport"
+    },
+    {
+      "position": 2,
+      "name": "LegendPlay",
+      "badge": "LP",
+      "color": "#1976d2",
+      "review_url": "/czech/legendplay-recenze.htm",
+      "rationale": "Druha pozice - siroka nabidka bonusu",
+      "usp": "Velkorysý uvitaci bonus"
+    },
+    {
+      "position": 3,
+      "name": "Betalright",
+      "badge": "BA",
+      "color": "#ff6b00",
+      "review_url": "/czech/betalright-recenze.htm",
+      "rationale": "Treti pozice - rychle vyplaty",
+      "usp": "Nejrychlejsi vyplaty na trhu"
+    },
+    {
+      "position": 4,
+      "name": "Festival Play",
+      "badge": "FP",
+      "color": "#9c27b0",
+      "review_url": "/czech/festivalplay-recenze.htm",
+      "rationale": "Ctvrta pozice - vynikajici mobilni aplikace",
+      "usp": "Nejlepsi mobilni zazitky"
+    },
+    {
+      "position": 5,
+      "name": "RoyalistPlay",
+      "badge": "RP",
+      "color": "#c4a137",
+      "review_url": "/czech/royalistplay-recenze.htm",
+      "rationale": "Pata pozice - VIP program a vernostni odmeny",
+      "usp": "Exkluzivni VIP vyhody"
+    }
+  ],
+  "competitor_analysis": {
+    "competitors_analyzed": [
+      {
+        "domain": "betarena.cz",
+        "brands_covered": 8,
+        "estimated_word_count": 6500,
+        "key_sections": ["Srovnani sazkovych kancelari", "Bonusy", "Sportovni nabidka", "FAQ"],
+        "strengths": ["Lokalni znalost trhu", "Podrobne recenze"],
+        "gaps": ["Chybi interaktivni prvky", "Malo mobilnich informaci"]
+      },
+      {
+        "domain": "tipsport.cz",
+        "brands_covered": 1,
+        "estimated_word_count": 4000,
+        "key_sections": ["O nas", "Nabidka", "Bonusy"],
+        "strengths": ["Silna znacka", "Duveryhodnost"],
+        "gaps": ["Pouze vlastni nabidka", "Zadne srovnani"]
+      },
+      {
+        "domain": "sazeni-online.cz",
+        "brands_covered": 10,
+        "estimated_word_count": 7000,
+        "key_sections": ["Top 10 sazkovych kancelari", "Bonusy", "Jak sazet", "FAQ"],
+        "strengths": ["Komplexni prehled", "Aktualni informace"],
+        "gaps": ["Zastarale UI", "Malo interaktivity"]
+      }
+    ],
+    "target_metrics": {
+      "brands": 5,
+      "word_count": 7500,
+      "faqs": 8
+    }
+  },
+  "content_gaps": [
+    "Podrobne mobilni sekce pro kazdou sazkovku",
+    "Interaktivni srovnavaci tabulka",
+    "Komplexni podminky bonusu pro vsechny znacky",
+    "Sekce platebni metody",
+    "FAQ optimalizovane pro klicova slova"
+  ],
+  "compliance": {
+    "age_requirement": "18+",
+    "regulatory_body": "Ministerstvo financi CR",
+    "responsible_gambling_hotline": "Poradna pri problemech s hazardem: 800 350 000",
+    "warning_text": "Sazeni muze byt navykove. Hrajte zodpovedne.",
+    "legal_disclaimer": "Hazardni hry jsou v Ceske republice regulovany Ministerstvem financi CR."
+  },
+  "internal_links": [
+    {
+      "anchor": "DirectionBet recenze",
+      "url": "/sport/betting/czech/directionbet-recenze.htm",
+      "placement": "Brand section"
+    },
+    {
+      "anchor": "LegendPlay recenze",
+      "url": "/sport/betting/czech/legendplay-recenze.htm",
+      "placement": "Brand section"
+    },
+    {
+      "anchor": "Betalright recenze",
+      "url": "/sport/betting/czech/betalright-recenze.htm",
+      "placement": "Brand section"
+    },
+    {
+      "anchor": "Festival Play recenze",
+      "url": "/sport/betting/czech/festivalplay-recenze.htm",
+      "placement": "Brand section"
+    },
+    {
+      "anchor": "RoyalistPlay recenze",
+      "url": "/sport/betting/czech/royalistplay-recenze.htm",
+      "placement": "Brand section"
+    },
+    {
+      "anchor": "Parlay kalkulator",
+      "url": "/sport/betting/tools/parlay-calculator.htm",
+      "placement": "Kurzove sazky section"
+    },
+    {
+      "anchor": "Prevodnik kurzu",
+      "url": "/sport/betting/tools/odds-converter.htm",
+      "placement": "Jak sazet section"
+    },
+    {
+      "anchor": "Kalkulacka pravdepodobnosti",
+      "url": "/sport/betting/tools/probability-calculator.htm",
+      "placement": "Sazeni na sport section"
+    },
+    {
+      "anchor": "Sportovni sazeni uvod",
+      "url": "/sport/betting/index.htm",
+      "placement": "Introduction"
+    },
+    {
+      "anchor": "Evropske sazkove kancelare",
+      "url": "/sport/betting/europe/index.htm",
+      "placement": "Footer"
+    }
+  ],
+  "meta": {
+    "created": "2026-02-04",
+    "phase": 1,
+    "status": "complete"
+  }
+}
