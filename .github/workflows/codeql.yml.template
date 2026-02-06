@@ -1,0 +1,97 @@
+# CodeQL Security Scanning Workflow
+# ⚠️ REQUIRES: GitHub Advanced Security license for private repositories
+#
+# This template is ready to use when Advanced Security is enabled.
+# To activate: Rename this file from 'codeql.yml.template' to 'codeql.yml'
+#
+# What CodeQL Does:
+# - Scans Python code for security vulnerabilities
+# - Detects SQL injection, XSS, command injection
+# - Identifies hardcoded credentials and API keys
+# - Analyzes data flow for security issues
+# - Runs on: Push to main/master, Pull Requests, Weekly schedule
+#
+# Setup Instructions:
+# 1. Enable GitHub Advanced Security in repository settings
+# 2. Rename this file: mv codeql.yml.template codeql.yml
+# 3. Commit and push
+# 4. Check Actions tab for first scan results
+#
+# More info: https://docs.github.com/en/code-security/code-scanning
+
+name: "CodeQL Security Scanning"
+
+on:
+  push:
+    branches: [ "master", "main" ]
+  pull_request:
+    branches: [ "master", "main" ]
+  schedule:
+    # Weekly scan every Monday at 12:00 UTC
+    - cron: '0 12 * * 1'
+
+jobs:
+  analyze:
+    name: Analyze Python Code
+    runs-on: ubuntu-latest
+    permissions:
+      # Required for CodeQL to upload results
+      security-events: write
+      # Required to checkout code
+      contents: read
+      # Required for private repos
+      actions: read
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [ 'python' ]
+        # Add 'javascript' if JS code is added to project
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: ${{ matrix.language }}
+        # Queries: security-extended finds more issues than default
+        queries: security-extended
+        # Optional: Custom queries
+        # config-file: ./.github/codeql/codeql-config.yml
+
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v3
+      # CodeQL will auto-detect and build Python environment
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v3
+      with:
+        category: "/language:${{matrix.language}}"
+        # Upload results to GitHub Security tab
+
+    - name: Upload SARIF results (optional backup)
+      if: always()
+      uses: github/codeql-action/upload-sarif@v3
+      with:
+        sarif_file: ../results/${{ matrix.language }}.sarif
+        # Backup of scan results in SARIF format
+
+# Expected Results:
+# - Zero high/critical issues (Python security best practices followed)
+# - Possible low-severity warnings (review and address)
+# - Results visible in: Security → Code scanning alerts
+#
+# Common Issues to Watch For:
+# - Command injection in subprocess calls
+# - Path traversal in file operations
+# - Hardcoded credentials (should be in environment)
+# - SQL injection (if database added)
+# - XSS in HTML generation
+#
+# Remediation:
+# - Review each alert in Security tab
+# - Fix legitimate issues immediately
+# - Dismiss false positives with justification
+# - Document lessons learned in LESSONS-LEARNED.md

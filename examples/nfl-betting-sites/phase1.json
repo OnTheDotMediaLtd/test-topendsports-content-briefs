@@ -1,0 +1,258 @@
+{
+  "project_metadata": {
+    "project_name": "NFL Betting Sites",
+    "phase": 1,
+    "phase_name": "Research & Planning",
+    "created_date": "2024-12-09",
+    "research_tool": "Ahrefs & Manual Analysis",
+    "country": "US"
+  },
+  "primary_keyword": {
+    "keyword": "nfl betting sites",
+    "search_volume": 18100,
+    "keyword_difficulty": 67,
+    "search_intent": "Commercial - Users seeking NFL betting platforms",
+    "cpc": 4.28,
+    "trend": "Stable with seasonal spikes during NFL season",
+    "notes": "High commercial intent, peak searches during NFL season (September-January)"
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "best nfl betting apps",
+      "search_volume": 5400,
+      "keyword_difficulty": 62,
+      "intent": "Commercial"
+    },
+    {
+      "keyword": "nfl odds",
+      "search_volume": 12100,
+      "keyword_difficulty": 72,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "nfl parlay betting",
+      "search_volume": 2900,
+      "keyword_difficulty": 48,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "nfl live betting",
+      "search_volume": 3600,
+      "keyword_difficulty": 52,
+      "intent": "Commercial"
+    },
+    {
+      "keyword": "nfl betting lines",
+      "search_volume": 4200,
+      "keyword_difficulty": 58,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "best nfl sportsbooks",
+      "search_volume": 6800,
+      "keyword_difficulty": 65,
+      "intent": "Commercial"
+    },
+    {
+      "keyword": "nfl betting predictions",
+      "search_volume": 2100,
+      "keyword_difficulty": 42,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "how to bet on nfl games",
+      "search_volume": 4500,
+      "keyword_difficulty": 38,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "nfl prop bets",
+      "search_volume": 3400,
+      "keyword_difficulty": 44,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "legal nfl betting",
+      "search_volume": 2800,
+      "keyword_difficulty": 35,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "nfl spreads today",
+      "search_volume": 8900,
+      "keyword_difficulty": 68,
+      "intent": "Informational"
+    },
+    {
+      "keyword": "fanduel nfl promotions",
+      "search_volume": 1900,
+      "keyword_difficulty": 28,
+      "intent": "Commercial"
+    }
+  ],
+  "keyword_cluster_summary": {
+    "total_keywords": 13,
+    "total_search_volume": 89300,
+    "primary_volume": 18100,
+    "secondary_volume": 71200,
+    "increase_percentage": 394,
+    "average_difficulty": 52,
+    "commercial_intent_keywords": 5,
+    "informational_intent_keywords": 8
+  },
+  "competitor_analysis": [
+    {
+      "rank": 1,
+      "domain": "actionnetwork.com",
+      "url": "https://www.actionnetwork.com/nfl/odds",
+      "current_position": "Position 1",
+      "organic_traffic": 45200,
+      "keyword_count": 38,
+      "domain_authority": 71,
+      "backlink_count": 2450,
+      "top_keywords": ["nfl odds", "nfl lines", "nfl picks today"],
+      "content_type": "Expert picks + Live odds",
+      "strengths": ["Strong authority", "Daily expert analysis", "Live odds updates"],
+      "weaknesses": ["Limited brand comparisons", "Focused on picks vs sportsbooks"]
+    },
+    {
+      "rank": 2,
+      "domain": "covers.com",
+      "url": "https://www.covers.com/sports/nfl/odds",
+      "current_position": "Position 2",
+      "organic_traffic": 38900,
+      "keyword_count": 44,
+      "domain_authority": 73,
+      "backlink_count": 2890,
+      "top_keywords": ["nfl odds", "nfl spreads", "nfl lines today"],
+      "content_type": "Comprehensive odds + community",
+      "strengths": ["Excellent domain authority", "Large community forum", "Comprehensive odds comparison"],
+      "weaknesses": ["Less brand-focused", "UI could be more modern"]
+    },
+    {
+      "rank": 3,
+      "domain": "odds.com",
+      "url": "https://www.odds.com/nfl/sportsbooks",
+      "current_position": "Position 3",
+      "organic_traffic": 28100,
+      "keyword_count": 26,
+      "domain_authority": 68,
+      "backlink_count": 1780,
+      "top_keywords": ["best sportsbooks", "sportsbook comparison", "nfl betting"],
+      "content_type": "Sportsbook comparison",
+      "strengths": ["Direct sportsbook focus", "Clear comparisons", "Growing domain"],
+      "weaknesses": ["Lower authority than competitors", "Limited content depth"]
+    }
+  ],
+  "brand_selection": {
+    "total_brands": 8,
+    "selection_criteria": "Major US NFL sportsbooks with market share >2%, strong user base, promotional activity",
+    "brands": [
+      {
+        "rank": 1,
+        "brand_name": "FanDuel",
+        "market_share": 28.5,
+        "nfl_specific_features": ["Live betting", "Same-Game Parlay", "Profit Boost"],
+        "notable_promos": "Up to $300 welcome bonus",
+        "states_active": 31,
+        "user_reviews_count": 15420,
+        "avg_rating": 4.6
+      },
+      {
+        "rank": 2,
+        "brand_name": "BetMGM",
+        "market_share": 19.8,
+        "nfl_specific_features": ["Live Parlay Builder", "iRush rewards", "Cash Out"],
+        "notable_promos": "Up to $1,500 welcome offer",
+        "states_active": 25,
+        "user_reviews_count": 12890,
+        "avg_rating": 4.5
+      },
+      {
+        "rank": 3,
+        "brand_name": "Bet365",
+        "market_share": 12.3,
+        "nfl_specific_features": ["Live Streaming", "Bet Builder", "Early Payouts"],
+        "notable_promos": "$1,000 first bet",
+        "states_active": 21,
+        "user_reviews_count": 9450,
+        "avg_rating": 4.7
+      },
+      {
+        "rank": 4,
+        "brand_name": "DraftKings",
+        "market_share": 18.6,
+        "nfl_specific_features": ["Same-Game Parlay+", "Sportsbook rewards", "Live odds"],
+        "notable_promos": "Up to $1,200 welcome bonus",
+        "states_active": 30,
+        "user_reviews_count": 14200,
+        "avg_rating": 4.4
+      },
+      {
+        "rank": 5,
+        "brand_name": "Caesars",
+        "market_share": 11.2,
+        "nfl_specific_features": ["Live betting", "Loyalty program", "Promo codes"],
+        "notable_promos": "Up to $1,250 welcome offer",
+        "states_active": 28,
+        "user_reviews_count": 8760,
+        "avg_rating": 4.3
+      },
+      {
+        "rank": 6,
+        "brand_name": "theScore BET",
+        "market_share": 4.1,
+        "nfl_specific_features": ["Live odds", "Free Play offers", "Mobile app"],
+        "notable_promos": "Up to $500 welcome bonus",
+        "states_active": 15,
+        "user_reviews_count": 3420,
+        "avg_rating": 4.2
+      },
+      {
+        "rank": 7,
+        "brand_name": "Fanatics Sportsbook",
+        "market_share": 3.8,
+        "nfl_specific_features": ["No Vig Parlay", "Live betting", "Community features"],
+        "notable_promos": "Up to $100 welcome bonus",
+        "states_active": 12,
+        "user_reviews_count": 2890,
+        "avg_rating": 4.1
+      },
+      {
+        "rank": 8,
+        "brand_name": "BetRivers",
+        "market_share": 2.1,
+        "nfl_specific_features": ["Live betting", "MyBookie rewards", "Quick payouts"],
+        "notable_promos": "Up to $500 welcome bonus",
+        "states_active": 18,
+        "user_reviews_count": 1950,
+        "avg_rating": 4.0
+      }
+    ]
+  },
+  "writer_assignment": {
+    "assigned_writer": "Lewis",
+    "writer_expertise": ["Sports betting content", "Sportsbook reviews", "Affiliate marketing"],
+    "previous_articles": 24,
+    "specializations": ["Betting guides", "Comparison pieces", "Regulatory content"],
+    "assignment_date": "2024-12-09"
+  },
+  "research_summary": {
+    "total_research_keywords": 13,
+    "total_search_volume": 89300,
+    "primary_keyword_volume": 18100,
+    "secondary_keywords_volume": 71200,
+    "volume_increase_vs_primary": "394%",
+    "top_3_competitors_combined_traffic": 112200,
+    "top_3_competitors_combined_backlinks": 7120,
+    "recommended_content_type": "Comparison guide + individual brand reviews",
+    "estimated_content_value": "High - commercial intent + affiliate potential",
+    "content_format_recommendation": "3000-3500 word article with comparison table, individual brand cards, and FAQ section"
+  },
+  "next_phase": {
+    "phase": 2,
+    "phase_name": "Writer Brief Development",
+    "estimated_timeline": "5 business days",
+    "deliverables": "Content outline, keyword mapping, source requirements, FAQ framework"
+  }
+}

@@ -1,0 +1,20 @@
+# TopEndSports Content Briefs - Python Dependencies
+# Required for testing and running Python scripts
+
+# Testing framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+
+# Core dependencies for scripts
+python-docx>=0.8.11
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Optional but recommended
+markdown>=3.4.0
+
+# TES Shared Infrastructure (installed from local source)
+# Install with: pip install -e ../tes-shared-infrastructure
+# This provides: HTMLStructureValidator, TrackingValidator, CSVHandler, FeedbackProcessor, JSONSchemaValidator
+-e ../tes-shared-infrastructure

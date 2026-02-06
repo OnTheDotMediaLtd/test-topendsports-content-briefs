@@ -1,0 +1,188 @@
+{
+  "phase": 2,
+  "page_info": {
+    "page_name": "nfl-betting-sites",
+    "primary_keyword": "nfl betting sites",
+    "url": "https://www.topendsports.com/betting/nfl-betting-sites/",
+    "template_type": 2,
+    "writer": "Lewis Humphries",
+    "target_word_count": 3500
+  },
+  "content_outline": {
+    "meta_tags": {
+      "title": "Best NFL Betting Sites & Apps 2025 - Top Sportsbooks Ranked",
+      "description": "Compare the best NFL betting sites for 2025. Expert reviews, bonuses up to $1,500, and rankings of top NFL sportsbooks and betting apps.",
+      "keywords": "nfl betting sites, nfl betting apps, best nfl sportsbook, nfl betting promos"
+    },
+    "h1": "Best NFL Betting Sites & Apps 2025",
+    "intro": {
+      "word_count": 150,
+      "keywords_to_include": ["nfl betting sites", "best nfl betting apps"],
+      "must_include": ["Affiliate disclosure", "21+ age requirement", "Gambling hotline"]
+    },
+    "sections": [
+      {
+        "h2": "Top NFL Betting Sites Compared",
+        "h2_keyword": "top nfl betting sites",
+        "word_count": 200,
+        "content_type": "comparison_table",
+        "requirements": ["Interactive sortable table", "All 7 brands", "Key metrics visible"]
+      },
+      {
+        "h2": "Best NFL Betting Apps",
+        "h2_keyword": "nfl betting apps",
+        "word_count": 400,
+        "subsections": [
+          {
+            "h3": "FanDuel - Best Overall NFL Betting App",
+            "h3_keyword": "fanduel nfl betting",
+            "word_count": 300,
+            "requirements": [
+              "App Store rating citation",
+              "Mobile Experience section (100-150 words)",
+              "Key features list",
+              "Pros and cons"
+            ]
+          },
+          {
+            "h3": "BetMGM - Best NFL Betting Rewards",
+            "h3_keyword": "betmgm nfl betting",
+            "word_count": 300,
+            "requirements": [
+              "App Store rating citation",
+              "Mobile Experience section (100-150 words)",
+              "Loyalty program details",
+              "Pros and cons"
+            ]
+          },
+          {
+            "h3": "DraftKings - Best for NFL Props",
+            "h3_keyword": "draftkings nfl props",
+            "word_count": 300,
+            "requirements": [
+              "App Store rating citation",
+              "Mobile Experience section (100-150 words)",
+              "Props variety details",
+              "Pros and cons"
+            ]
+          }
+        ]
+      },
+      {
+        "h2": "NFL Betting Promos & Bonuses",
+        "h2_keyword": "nfl betting promos",
+        "word_count": 350,
+        "requirements": ["Current promo codes", "Bonus comparison", "Terms highlights"]
+      },
+      {
+        "h2": "Where to Bet on NFL Games",
+        "h2_keyword": "where to bet on nfl",
+        "word_count": 300,
+        "requirements": ["State availability", "Legal considerations", "Getting started guide"]
+      },
+      {
+        "h2": "Payment Methods for NFL Betting",
+        "h2_keyword": "nfl betting payment methods",
+        "word_count": 250,
+        "requirements": ["Payment methods comparison table", "Withdrawal times", "Fees breakdown"]
+      },
+      {
+        "h2": "NFL Betting Odds Explained",
+        "h2_keyword": "nfl betting odds",
+        "word_count": 350,
+        "requirements": ["Odds format explanation", "Examples", "Calculator link"]
+      },
+      {
+        "h2": "How We Rank NFL Betting Sites",
+        "h2_keyword": "nfl sportsbook rankings",
+        "word_count": 200,
+        "requirements": ["Methodology transparency", "Ranking criteria", "Update frequency"]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the best NFL betting site?",
+        "keyword": "best nfl betting site",
+        "answer_length": "100-150 words",
+        "must_mention": ["FanDuel", "user experience", "ratings"]
+      },
+      {
+        "question": "Which NFL betting app has the best bonuses?",
+        "keyword": "nfl betting bonuses",
+        "answer_length": "100-150 words",
+        "must_mention": ["BetMGM", "$1,500", "wagering requirements"]
+      },
+      {
+        "question": "Can I bet on NFL games on my phone?",
+        "keyword": "nfl betting apps",
+        "answer_length": "80-120 words",
+        "must_mention": ["mobile apps", "iOS", "Android"]
+      },
+      {
+        "question": "What states allow NFL betting?",
+        "keyword": "nfl betting legal states",
+        "answer_length": "100-150 words",
+        "must_mention": ["30+ states", "state list", "legal status"]
+      },
+      {
+        "question": "How do NFL betting odds work?",
+        "keyword": "nfl betting odds",
+        "answer_length": "120-180 words",
+        "must_mention": ["moneyline", "spread", "totals"]
+      },
+      {
+        "question": "What are the best NFL prop bets?",
+        "keyword": "nfl prop bets",
+        "answer_length": "100-150 words",
+        "must_mention": ["player props", "game props", "variety"]
+      },
+      {
+        "question": "Is it safe to bet on NFL games online?",
+        "keyword": "safe nfl betting",
+        "answer_length": "100-150 words",
+        "must_mention": ["licensed", "regulated", "security measures"]
+      }
+    ],
+    "responsible_gambling": {
+      "word_count": 150,
+      "requirements": ["Hotline number", "Self-exclusion info", "Resources list"]
+    }
+  },
+  "source_requirements": {
+    "tier_1_sources": [
+      "App Store ratings (for each brand)",
+      "Reddit discussions (r/sportsbook)",
+      "Official sportsbook T&Cs"
+    ],
+    "tier_2_sources": [
+      "Industry reports",
+      "State gambling commission data",
+      "Betting trends analysis"
+    ],
+    "forbidden_sources": [
+      "Wikipedia",
+      "Other affiliate sites",
+      "Unverified forums"
+    ]
+  },
+  "internal_linking": {
+    "required_links": 12,
+    "priority_targets": [
+      "/betting/nfl/odds/",
+      "/betting/nfl/props/",
+      "/betting/calculators/parlay/",
+      "/betting/reviews/fanduel/",
+      "/betting/reviews/betmgm/",
+      "/betting/reviews/draftkings/"
+    ]
+  },
+  "technical_requirements": {
+    "schema_markup": ["Article", "FAQ", "Breadcrumb"],
+    "interactive_elements": ["Comparison table", "Calculator widget"],
+    "images_needed": ["Brand logos", "App screenshots", "Infographics"],
+    "mobile_optimization": "Required - mobile-first approach"
+  },
+  "generated_at": "2025-12-08T11:15:00Z",
+  "generated_by": "claude-sonnet-4",
+  "based_on_phase1": "nfl-betting-sites-phase1.json"
+}

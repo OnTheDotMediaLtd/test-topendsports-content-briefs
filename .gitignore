@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local settings
+.claude/settings.local.json
+
+# Security - NEVER commit these
+.env
+.env.*
+.env.local
+.env.*.local
+*.pem
+*.key
+*credentials*
+*secrets*
+*.secret
+api_keys.json
+config.local.json
+
+# Node modules (MCP server)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Output (if you want to exclude generated files)
+# Uncomment the line below if you don't want to track output files
+# output/
+
+# Test coverage and artifacts
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.vitest/
+*.lcov
+*.coverage
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo

@@ -1,0 +1,29 @@
+# Code Owners for TopEndSports Content Briefs
+# These owners will be automatically requested for review when someone opens a pull request
+
+# Global owners (apply to all files unless overridden)
+* @OnTheDotMediaLtd
+
+# Site structure data - critical for brief generation (single source of truth)
+/assets/data/ @OnTheDotMediaLtd
+
+# Python scripts - conversion and utilities
+/scripts/ @OnTheDotMediaLtd
+
+# MCP server - API integration and server logic
+/mcp-server/ @OnTheDotMediaLtd
+
+# Phase schemas - affect all brief generation
+/schemas/ @OnTheDotMediaLtd
+
+# GitHub workflows - require careful review
+/.github/workflows/ @OnTheDotMediaLtd
+
+# Core skill documentation - maintain quality standards
+/content-briefs-skill/SKILL.md @OnTheDotMediaLtd
+/content-briefs-skill/ORCHESTRATOR.md @OnTheDotMediaLtd
+/CONTRIBUTING.md @OnTheDotMediaLtd
+/README.md @OnTheDotMediaLtd
+
+# Reference documentation - business rules and standards
+/content-briefs-skill/references/ @OnTheDotMediaLtd

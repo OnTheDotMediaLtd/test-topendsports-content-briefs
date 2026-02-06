@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "topendsports-briefs": {
+      "command": "node",
+      "args": ["./mcp-server/dist/index.js"]
+    },
+    "ahrefs": {
+      "command": "node",
+      "args": ["/root/.global-node-modules/lib/node_modules/@ahrefs/mcp/build/index.js"],
+      "env": {
+        "API_KEY": "YOUR_AHREFS_API_KEY"
+      }
+    }
+  }
+}

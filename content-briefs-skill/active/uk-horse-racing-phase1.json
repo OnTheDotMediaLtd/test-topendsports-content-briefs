@@ -1,0 +1,408 @@
+{
+  "page_info": {
+    "url": "https://www.topendsports.com/sport/betting/uk/horse-racing-betting.htm",
+    "page_name": "uk-horse-racing",
+    "market": "UK",
+    "template_type": "comparison",
+    "writer": "Tom Goldsmith",
+    "priority": "Medium",
+    "phase": 1,
+    "generated_date": "2025-12-15"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "horse racing betting sites",
+      "volume": 2300,
+      "difficulty": 84,
+      "traffic_potential": 1400,
+      "current_ranking": "not ranking"
+    },
+    "secondary": [
+      {
+        "keyword": "grand national betting",
+        "volume": 2200,
+        "difficulty": 76,
+        "traffic_potential": 11000,
+        "placement": "H2",
+        "target_section": "Major Racing Events"
+      },
+      {
+        "keyword": "ante post betting",
+        "volume": 1200,
+        "difficulty": 68,
+        "traffic_potential": 1500,
+        "placement": "H2",
+        "target_section": "Ante Post Betting Explained"
+      },
+      {
+        "keyword": "best horse racing betting sites",
+        "volume": 700,
+        "difficulty": 73,
+        "traffic_potential": 300,
+        "placement": "H1/Intro",
+        "target_section": "Introduction"
+      },
+      {
+        "keyword": "royal ascot betting",
+        "volume": 500,
+        "difficulty": 64,
+        "traffic_potential": 1500,
+        "placement": "H3",
+        "target_section": "Major Racing Events > Royal Ascot"
+      },
+      {
+        "keyword": "online horse racing betting",
+        "volume": 400,
+        "difficulty": 82,
+        "traffic_potential": 27000,
+        "placement": "H2",
+        "target_section": "How to Bet on Horse Racing Online"
+      },
+      {
+        "keyword": "horse racing latest odds",
+        "volume": 250,
+        "difficulty": 85,
+        "traffic_potential": null,
+        "placement": "H3",
+        "target_section": "Understanding Odds"
+      },
+      {
+        "keyword": "horse racing betting offers",
+        "volume": 250,
+        "difficulty": 76,
+        "traffic_potential": 25000,
+        "placement": "H2",
+        "target_section": "Best Offers & Promotions"
+      },
+      {
+        "keyword": "best odds guaranteed horse racing",
+        "volume": 200,
+        "difficulty": 53,
+        "traffic_potential": 1000,
+        "placement": "H2",
+        "target_section": "Best Odds Guaranteed Explained"
+      },
+      {
+        "keyword": "cheltenham betting sites",
+        "volume": 150,
+        "difficulty": 81,
+        "traffic_potential": 12000,
+        "placement": "H3",
+        "target_section": "Major Racing Events > Cheltenham Festival"
+      },
+      {
+        "keyword": "horse racing betting explained",
+        "volume": 100,
+        "difficulty": 75,
+        "traffic_potential": null,
+        "placement": "H2",
+        "target_section": "Horse Racing Betting Guide"
+      },
+      {
+        "keyword": "betting bonus codes",
+        "volume": 100,
+        "difficulty": 78,
+        "traffic_potential": null,
+        "placement": "natural",
+        "target_section": "Brand bonus sections"
+      },
+      {
+        "keyword": "aintree bets",
+        "volume": 80,
+        "difficulty": 64,
+        "traffic_potential": null,
+        "placement": "H3",
+        "target_section": "Major Racing Events > Aintree/Grand National"
+      },
+      {
+        "keyword": "horse racing betting accounts",
+        "volume": 60,
+        "difficulty": 80,
+        "traffic_potential": null,
+        "placement": "natural",
+        "target_section": "How to Open Account"
+      },
+      {
+        "keyword": "horse racing betting how to",
+        "volume": 60,
+        "difficulty": 72,
+        "traffic_potential": null,
+        "placement": "H3",
+        "target_section": "Betting Guide subsection"
+      },
+      {
+        "keyword": "bog horse racing",
+        "volume": 40,
+        "difficulty": 60,
+        "traffic_potential": 1000,
+        "placement": "natural",
+        "target_section": "Best Odds Guaranteed section"
+      }
+    ],
+    "question_keywords": [
+      {
+        "keyword": "what is ante post betting",
+        "volume": 100,
+        "difficulty": 58,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "what is best odds guaranteed",
+        "volume": 50,
+        "difficulty": 48,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "what is each way betting",
+        "volume": 40,
+        "difficulty": 68,
+        "placement": "FAQ"
+      },
+      {
+        "keyword": "how to bet on horse racing uk",
+        "volume": 30,
+        "difficulty": null,
+        "placement": "FAQ"
+      }
+    ],
+    "total_volume": 8330,
+    "volume_increase_pct": 262
+  },
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "url": "https://www.newbettingsites.uk/horse-racing-betting-sites",
+      "position": 1,
+      "domain_rating": 43,
+      "brands_covered": 41,
+      "estimated_word_count": 5000,
+      "content_style": "Directory-style with shallow coverage per brand",
+      "key_sections": [
+        "New Horse Racing Betting Sites 2025",
+        "Horse Racing Betting Guide",
+        "Basic Horse Racing Betting Markets",
+        "Simple Horse Racing Betting Strategies",
+        "How to Choose Best Horse Racing Betting Sites",
+        "UK Horse Racing Betting Sites Awards 2025",
+        "How to Bet on Horse Racing",
+        "Horse Racing Types and Terminology",
+        "FAQs (8 questions)"
+      ],
+      "interactive_elements": [
+        "Sortable comparison table",
+        "Collapsible FAQ accordions",
+        "Award category sections"
+      ],
+      "sections_per_brand": 1,
+      "has_payment_methods": false,
+      "faq_count": 8
+    },
+    "other_competitors": [
+      {
+        "domain": "racingpost.com",
+        "position": 5,
+        "domain_rating": 76,
+        "note": "Authority site in horse racing - major competitor"
+      },
+      {
+        "domain": "paddypower.com",
+        "position": 2,
+        "note": "Brand page - not analyzed"
+      },
+      {
+        "domain": "betfair.com",
+        "position": 4,
+        "note": "Brand page - not analyzed"
+      }
+    ],
+    "content_gaps": [
+      "Deep per-brand analysis (Features, Mobile, Pros/Cons)",
+      "Payment methods comparison",
+      "Bet type calculators",
+      "Live streaming comparison",
+      "Mobile app download guides",
+      "Each-way calculator",
+      "More comprehensive FAQ section (10+)",
+      "Expert betting strategies",
+      "Form analysis guides"
+    ]
+  },
+  "brand_selection": {
+    "total_brands": 9,
+    "rationale": "UK market requires 9 brands given 2,300/mo primary keyword volume and competitive landscape. Focus on UK-specific operators with strong horse racing offerings.",
+    "brands": [
+      {
+        "position": 1,
+        "name": "Bet442",
+        "badge": "B42",
+        "color": "#1493FF",
+        "rationale": "Provided brand - UK operator with horse racing focus",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 2,
+        "name": "LuckyMate",
+        "badge": "LCK",
+        "color": "#C4A137",
+        "rationale": "Provided brand - New UK betting site with competitive odds",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 3,
+        "name": "NRGbet",
+        "badge": "NRG",
+        "color": "#027B5B",
+        "rationale": "Provided brand - Listed on competitor page, UK licensed",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 4,
+        "name": "Myriadplay",
+        "badge": "MYR",
+        "color": "#53D337",
+        "rationale": "Provided brand - UK operator",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 5,
+        "name": "7Bet",
+        "badge": "7BT",
+        "color": "#6B2D5B",
+        "rationale": "Provided brand - UK betting site",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 6,
+        "name": "Mr Luck",
+        "badge": "MLK",
+        "color": "#0A2240",
+        "rationale": "Provided brand - UK operator",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 7,
+        "name": "MogoBet",
+        "badge": "MGO",
+        "color": "#004C91",
+        "rationale": "Provided brand - UK betting site",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 8,
+        "name": "22bet",
+        "badge": "22B",
+        "color": "#1E5AA8",
+        "rationale": "Provided brand - Established operator with horse racing",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      },
+      {
+        "position": 9,
+        "name": "Highbet",
+        "badge": "HBT",
+        "color": "#000000",
+        "rationale": "Provided brand - Listed on #1 competitor page",
+        "sections": ["Key Features", "Mobile Experience", "Pros & Cons", "Current Bonus"]
+      }
+    ]
+  },
+  "content_structure": {
+    "mandatory_sections": [
+      "Introduction with top 3 picks",
+      "Comparison table (all 9 brands)",
+      "Individual brand reviews (4 sections each)",
+      "Best Odds Guaranteed Explained",
+      "Ante Post Betting Guide",
+      "Major Racing Events (Grand National, Cheltenham, Royal Ascot)",
+      "Horse Racing Betting Markets",
+      "How to Bet Online",
+      "Payment Methods Comparison",
+      "Mobile App Comparison",
+      "Live Streaming & In-Play Betting",
+      "FAQs (10 questions)",
+      "Responsible Gambling"
+    ],
+    "target_word_count": 6500,
+    "calculation": "9 brands × 500 words + 2,000 words supporting content"
+  },
+  "internal_links": [
+    {
+      "anchor": "UK sports betting sites",
+      "url": "/sport/betting/uk/betting-sites.htm",
+      "relevance": "Parent category"
+    },
+    {
+      "anchor": "football betting sites UK",
+      "url": "/sport/betting/uk/football-betting.htm",
+      "relevance": "Related sport"
+    },
+    {
+      "anchor": "tennis betting UK",
+      "url": "/sport/betting/uk/tennis-betting.htm",
+      "relevance": "Related sport"
+    },
+    {
+      "anchor": "Grand National betting guide",
+      "url": "/sport/horse-racing/grand-national-betting.htm",
+      "relevance": "Event guide"
+    },
+    {
+      "anchor": "Cheltenham Festival betting",
+      "url": "/sport/horse-racing/cheltenham-betting.htm",
+      "relevance": "Event guide"
+    },
+    {
+      "anchor": "each way betting calculator",
+      "url": "/betting/calculators/each-way-calculator.htm",
+      "relevance": "Calculator tool"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/betting/calculators/odds-calculator.htm",
+      "relevance": "Calculator tool"
+    },
+    {
+      "anchor": "accumulator calculator",
+      "url": "/betting/calculators/accumulator-calculator.htm",
+      "relevance": "Calculator tool"
+    },
+    {
+      "anchor": "best betting apps UK",
+      "url": "/sport/betting/uk/betting-apps.htm",
+      "relevance": "Related comparison"
+    },
+    {
+      "anchor": "greyhound betting sites",
+      "url": "/sport/betting/uk/greyhound-betting.htm",
+      "relevance": "Related sport"
+    },
+    {
+      "anchor": "golf betting UK",
+      "url": "/sport/betting/uk/golf-betting.htm",
+      "relevance": "Related sport"
+    },
+    {
+      "anchor": "best free bets UK",
+      "url": "/sport/betting/uk/free-bets.htm",
+      "relevance": "Offers page"
+    }
+  ],
+  "compliance": {
+    "age_requirement": "18+",
+    "hotline": "BeGambleAware.org",
+    "uk_hotline": "0808 8020 133",
+    "license_requirement": "UK Gambling Commission",
+    "affiliate_disclosure": "Required in introduction",
+    "responsible_gambling_section": "Required at bottom"
+  },
+  "technical_requirements": [
+    "Sortable/filterable comparison table",
+    "Brand cards with ratings",
+    "BOG availability matrix",
+    "Live streaming availability table",
+    "Payment methods comparison table",
+    "Mobile app download badges",
+    "Each-way calculator integration",
+    "FAQ schema markup",
+    "Article schema markup",
+    "Breadcrumb schema"
+  ]
+}

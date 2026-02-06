@@ -1,0 +1,637 @@
+{
+  "brief_metadata": {
+    "page_name": "uk-22bet-review",
+    "phase": 2,
+    "writer_assigned": "Lewis Humphries",
+    "word_count_target": "3500-4000",
+    "template_type": 1,
+    "created_date": "2025-12-15",
+    "market": "UK",
+    "compliance": {
+      "age_requirement": "18+",
+      "gambling_helpline": "0808 8020 133",
+      "responsible_gambling_orgs": ["BeGambleAware.org", "GamCare"]
+    }
+  },
+  "primary_keyword": {
+    "keyword": "22bet review",
+    "volume": 150,
+    "h1_title": "22bet Review: Comprehensive UK Sportsbook & Casino Analysis"
+  },
+  "secondary_keywords_mapping": [
+    {
+      "keyword": "22bet",
+      "volume": 2200,
+      "placement": "Throughout",
+      "usage": "Natural mentions in all sections, H1, introduction, conclusion"
+    },
+    {
+      "keyword": "22bet bonus",
+      "volume": 400,
+      "placement": "H2",
+      "section_title": "22bet Bonus: Welcome Offer & Ongoing Promotions",
+      "section_order": 3,
+      "word_count": 400
+    },
+    {
+      "keyword": "22bet promo code",
+      "volume": 350,
+      "placement": "H3",
+      "section_title": "Do You Need a 22bet Promo Code?",
+      "parent_section": "22bet Bonus",
+      "word_count": 150
+    },
+    {
+      "keyword": "22bet sign up offer",
+      "volume": 150,
+      "placement": "H3",
+      "section_title": "22bet Sign Up Offer: Complete Terms Breakdown",
+      "parent_section": "22bet Bonus",
+      "word_count": 150
+    },
+    {
+      "keyword": "22bet free bet",
+      "volume": 30,
+      "placement": "H3",
+      "section_title": "22bet Free Bet Promotions",
+      "parent_section": "22bet Bonus",
+      "word_count": 100
+    },
+    {
+      "keyword": "22bet app",
+      "volume": 250,
+      "placement": "H2",
+      "section_title": "22bet App Review: Mobile Betting Experience",
+      "section_order": 5,
+      "word_count": 400
+    },
+    {
+      "keyword": "22bet apk download",
+      "volume": 90,
+      "placement": "H3",
+      "section_title": "22bet APK Download Guide for Android",
+      "parent_section": "22bet App Review",
+      "word_count": 150
+    },
+    {
+      "keyword": "22bet login",
+      "volume": 150,
+      "placement": "H3",
+      "section_title": "22bet Login & Account Setup",
+      "parent_section": "Getting Started",
+      "word_count": 100
+    },
+    {
+      "keyword": "22bet sports",
+      "volume": 80,
+      "placement": "H3",
+      "section_title": "22bet Sports Coverage: Markets & Events",
+      "parent_section": "Betting Markets & Sports Coverage",
+      "section_order": 4,
+      "word_count": 200
+    },
+    {
+      "keyword": "22bet sportsbook",
+      "volume": 30,
+      "placement": "Natural",
+      "usage": "Natural mentions in sports betting sections"
+    },
+    {
+      "keyword": "22bet casino",
+      "volume": 350,
+      "placement": "H2",
+      "section_title": "22bet Casino: Slots, Live Dealer & Table Games",
+      "section_order": 6,
+      "word_count": 300
+    },
+    {
+      "keyword": "22bet online casino",
+      "volume": 50,
+      "placement": "H3",
+      "section_title": "22bet Online Casino Game Selection",
+      "parent_section": "22bet Casino",
+      "word_count": 150
+    },
+    {
+      "keyword": "22bet withdrawal",
+      "volume": 10,
+      "placement": "H3",
+      "section_title": "22bet Withdrawal Times & Limits",
+      "parent_section": "Payment Methods",
+      "word_count": 150
+    },
+    {
+      "keyword": "22bet uk",
+      "volume": 40,
+      "placement": "Natural",
+      "usage": "UK-specific information throughout, licensing section"
+    },
+    {
+      "keyword": "is 22bet legit",
+      "volume": 10,
+      "placement": "FAQ",
+      "faq_question": "Is 22bet Safe and Legitimate for UK Players?"
+    }
+  ],
+  "content_outline": {
+    "h1": {
+      "title": "22bet Review: Comprehensive UK Sportsbook & Casino Analysis",
+      "word_count": 0,
+      "notes": "No dated language - use Last Updated badge below H1"
+    },
+    "sections": [
+      {
+        "order": 1,
+        "level": "Introduction",
+        "title": "Introduction",
+        "word_count": 200,
+        "keywords": ["22bet review", "22bet"],
+        "components": [
+          "Last Updated badge (2025-12-15)",
+          "Brand badge (22B, #1B5E20)",
+          "Direct answer opening (40-50 words)",
+          "Affiliate disclosure (50-75 words)",
+          "Quick overview of 22bet strengths"
+        ],
+        "mandatory_format": "100-150 words total. Opening sentence must directly answer 'What is 22bet?'. NO 'Welcome to' or rhetorical questions."
+      },
+      {
+        "order": 2,
+        "level": "H2",
+        "title": "22bet Overview: What Makes It Stand Out?",
+        "word_count": 300,
+        "keywords": ["22bet"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Quick Rating Summary",
+            "word_count": 100,
+            "components": ["Star rating", "Best for statement", "Key pros bullets"]
+          },
+          {
+            "level": "H3",
+            "title": "Key Features at a Glance",
+            "word_count": 200,
+            "components": ["1000+ daily events", "Live streaming", "Crypto payments", "24/7 support"]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "level": "H2",
+        "title": "22bet Bonus: Welcome Offer & Ongoing Promotions",
+        "word_count": 400,
+        "keywords": ["22bet bonus", "22bet sign up offer", "22bet free bet"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Do You Need a 22bet Promo Code?",
+            "word_count": 150,
+            "keywords": ["22bet promo code"],
+            "components": ["Current promo code availability", "How to apply codes", "Active promotions"]
+          },
+          {
+            "level": "H3",
+            "title": "22bet Sign Up Offer: Complete Terms Breakdown",
+            "word_count": 150,
+            "keywords": ["22bet sign up offer"],
+            "components": ["Welcome bonus details", "Wagering requirements", "Eligible markets", "Expiry terms"]
+          },
+          {
+            "level": "H3",
+            "title": "22bet Free Bet Promotions",
+            "word_count": 100,
+            "keywords": ["22bet free bet"],
+            "components": ["Ongoing free bet offers", "Loyalty programs", "Reload bonuses"]
+          }
+        ],
+        "sources_required": [
+          "22bet official T&Cs",
+          "Bonus comparison with UK competitors"
+        ]
+      },
+      {
+        "order": 4,
+        "level": "H2",
+        "title": "Betting Markets & Sports Coverage",
+        "word_count": 350,
+        "keywords": ["22bet sports", "22bet sportsbook"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "22bet Sports Coverage: Markets & Events",
+            "word_count": 200,
+            "keywords": ["22bet sports"],
+            "components": [
+              "Daily events count (1000+)",
+              "Popular UK sports (Premier League, horse racing, tennis)",
+              "International coverage",
+              "Niche sports availability"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "Odds Competitiveness & Live Betting",
+            "word_count": 150,
+            "components": ["Odds comparison vs UK leaders", "Live betting features", "Cash out availability"]
+          }
+        ],
+        "internal_links": [
+          "football betting odds",
+          "live betting guide",
+          "odds comparison"
+        ]
+      },
+      {
+        "order": 5,
+        "level": "H2",
+        "title": "22bet App Review: Mobile Betting Experience",
+        "word_count": 400,
+        "keywords": ["22bet app", "22bet apk download", "22bet login"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "iOS App: Features & Performance",
+            "word_count": 100,
+            "components": ["App Store rating", "Key features", "Download link"]
+          },
+          {
+            "level": "H3",
+            "title": "22bet APK Download Guide for Android",
+            "word_count": 150,
+            "keywords": ["22bet apk download"],
+            "components": [
+              "Google Play availability",
+              "Direct APK download steps",
+              "Security considerations",
+              "System requirements"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "22bet Login & Account Setup",
+            "word_count": 100,
+            "keywords": ["22bet login"],
+            "components": ["Registration process", "Login experience", "Account verification"]
+          },
+          {
+            "level": "H3",
+            "title": "Mobile App Performance Review",
+            "word_count": 50,
+            "components": ["Speed", "Stability", "User interface"]
+          }
+        ],
+        "sources_required": [
+          "App Store reviews",
+          "Google Play reviews",
+          "Reddit user feedback"
+        ],
+        "internal_links": ["betting apps UK"]
+      },
+      {
+        "order": 6,
+        "level": "H2",
+        "title": "22bet Casino: Slots, Live Dealer & Table Games",
+        "word_count": 300,
+        "keywords": ["22bet casino", "22bet online casino"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "22bet Online Casino Game Selection",
+            "word_count": 150,
+            "keywords": ["22bet online casino"],
+            "components": [
+              "Slots count and providers",
+              "Live dealer games",
+              "Table games variety",
+              "Game quality"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "Casino Software Providers",
+            "word_count": 100,
+            "components": ["Evolution Gaming", "NetEnt", "Pragmatic Play", "Others"]
+          },
+          {
+            "level": "H3",
+            "title": "Casino Bonuses & Promotions",
+            "word_count": 50,
+            "components": ["Casino-specific bonuses", "Differences from sportsbook offers"]
+          }
+        ],
+        "internal_links": ["casino bonuses UK"]
+      },
+      {
+        "order": 7,
+        "level": "H2",
+        "title": "Payment Methods & Banking",
+        "word_count": 350,
+        "keywords": ["22bet withdrawal"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Deposit Options for UK Players",
+            "word_count": 100,
+            "components": [
+              "Credit/debit cards",
+              "E-wallets (PayPal, Skrill, Neteller)",
+              "Bank transfers",
+              "Cryptocurrency options",
+              "Minimum deposits"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "22bet Withdrawal Times & Limits",
+            "word_count": 150,
+            "keywords": ["22bet withdrawal"],
+            "components": [
+              "Withdrawal methods",
+              "Processing times by method",
+              "Withdrawal limits",
+              "Fees (if any)",
+              "Verification requirements"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "Payment Methods Comparison Table",
+            "word_count": 100,
+            "components": ["Table comparing deposit/withdrawal times and fees for all methods"]
+          }
+        ],
+        "internal_links": ["payment methods guide"]
+      },
+      {
+        "order": 8,
+        "level": "H2",
+        "title": "Customer Support",
+        "word_count": 200,
+        "keywords": [],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Support Channels",
+            "word_count": 100,
+            "components": ["24/7 live chat", "Email support", "Response times"]
+          },
+          {
+            "level": "H3",
+            "title": "Help Center & Resources",
+            "word_count": 100,
+            "components": ["FAQ section", "Self-service tools", "Language support"]
+          }
+        ]
+      },
+      {
+        "order": 9,
+        "level": "H2",
+        "title": "Licensing, Safety & UK Regulations",
+        "word_count": 300,
+        "keywords": ["22bet uk", "is 22bet legit"],
+        "components": [
+          "Curacao eGaming License details",
+          "NOT UKGC licensed - transparency required",
+          "Implications for UK players",
+          "Security measures (SSL, data protection)",
+          "Responsible gambling tools",
+          "Fair play certification"
+        ],
+        "critical_note": "MUST be transparent about Curacao vs UKGC licensing. Address trust concerns directly."
+      },
+      {
+        "order": 10,
+        "level": "H2",
+        "title": "22bet Pros & Cons",
+        "word_count": 250,
+        "keywords": ["22bet review"],
+        "components": [
+          "Detailed Pros (5-7 points with explanations)",
+          "Detailed Cons (5-7 points with explanations)",
+          "Balanced assessment"
+        ],
+        "pros_to_highlight": [
+          "Massive sports coverage (1000+ daily events)",
+          "Cryptocurrency payment options",
+          "Combined sportsbook and casino",
+          "High odds across markets",
+          "24/7 customer support"
+        ],
+        "cons_to_address": [
+          "Not UKGC licensed (Curacao only)",
+          "Complex bonus terms",
+          "Site navigation can be overwhelming",
+          "Limited UK-specific promotions",
+          "Verification process feedback"
+        ]
+      },
+      {
+        "order": 11,
+        "level": "H2",
+        "title": "Frequently Asked Questions",
+        "word_count": 500,
+        "faq_count": 10,
+        "keywords": ["is 22bet legit", "22bet withdrawal", "22bet promo code", "22bet app"],
+        "faqs": [
+          {
+            "question": "Is 22bet Safe and Legitimate for UK Players?",
+            "keywords": ["is 22bet legit"],
+            "answer_length": 60,
+            "answer_points": [
+              "Curacao license details",
+              "Security measures",
+              "UK availability clarification",
+              "Comparison to UKGC operators"
+            ]
+          },
+          {
+            "question": "Do I Need a 22bet Promo Code to Claim the Welcome Bonus?",
+            "keywords": ["22bet promo code", "22bet bonus"],
+            "answer_length": 50,
+            "answer_points": ["Current promo code requirements", "How to apply", "Automatic vs manual codes"]
+          },
+          {
+            "question": "How Long Do 22bet Withdrawals Take?",
+            "keywords": ["22bet withdrawal"],
+            "answer_length": 50,
+            "answer_points": ["Processing times by method", "Fastest options", "Delays to expect"]
+          },
+          {
+            "question": "Can I Download the 22bet App in the UK?",
+            "keywords": ["22bet app", "22bet apk download"],
+            "answer_length": 50,
+            "answer_points": ["iOS availability", "Android download process", "App features"]
+          },
+          {
+            "question": "What Sports Can I Bet on at 22bet?",
+            "keywords": ["22bet sports"],
+            "answer_length": 40,
+            "answer_points": ["Sports count", "Popular UK sports", "Niche coverage"]
+          },
+          {
+            "question": "Does 22bet Have a Casino as Well as Sports Betting?",
+            "keywords": ["22bet casino", "22bet online casino"],
+            "answer_length": 40,
+            "answer_points": ["Casino games count", "Live dealer", "Integration with sportsbook"]
+          },
+          {
+            "question": "What Payment Methods Does 22bet Accept in the UK?",
+            "keywords": ["22bet"],
+            "answer_length": 40,
+            "answer_points": ["Cards", "E-wallets", "Crypto", "Bank transfers"]
+          },
+          {
+            "question": "Is 22bet Better Than bet365 or William Hill?",
+            "keywords": ["22bet review"],
+            "answer_length": 50,
+            "answer_points": ["Strengths vs UK leaders", "Licensing differences", "Best use cases"]
+          },
+          {
+            "question": "Can I Use Cryptocurrency at 22bet?",
+            "keywords": ["22bet"],
+            "answer_length": 40,
+            "answer_points": ["Crypto options", "Benefits", "Process"]
+          },
+          {
+            "question": "How Do I Contact 22bet Customer Support?",
+            "keywords": ["22bet"],
+            "answer_length": 30,
+            "answer_points": ["Live chat", "Email", "Response times"]
+          }
+        ]
+      },
+      {
+        "order": 12,
+        "level": "H2",
+        "title": "Final Verdict: Should You Join 22bet?",
+        "word_count": 200,
+        "keywords": ["22bet review"],
+        "components": [
+          "Overall recommendation",
+          "Best for (ideal customer)",
+          "Consider alternatives if...",
+          "Call to action"
+        ]
+      },
+      {
+        "order": 13,
+        "level": "Section",
+        "title": "Responsible Gambling",
+        "word_count": 150,
+        "components": [
+          "Age requirement (18+ in UK)",
+          "BeGambleAware.org",
+          "GamCare",
+          "National Gambling Helpline: 0808 8020 133",
+          "Self-exclusion tools",
+          "Deposit limits"
+        ]
+      }
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "best betting sites UK",
+      "target_url": "/sport/betting/uk/best-betting-sites.htm",
+      "placement": "Introduction"
+    },
+    {
+      "anchor": "football betting odds",
+      "target_url": "/sport/betting/uk/football-odds.htm",
+      "placement": "Betting Markets section"
+    },
+    {
+      "anchor": "betting apps UK",
+      "target_url": "/sport/betting/uk/best-betting-apps.htm",
+      "placement": "Mobile App section"
+    },
+    {
+      "anchor": "welcome bonus offers",
+      "target_url": "/sport/betting/uk/welcome-bonuses.htm",
+      "placement": "Bonus section"
+    },
+    {
+      "anchor": "responsible gambling",
+      "target_url": "/sport/betting/responsible-gambling.htm",
+      "placement": "Responsible Gambling section"
+    },
+    {
+      "anchor": "live betting guide",
+      "target_url": "/sport/betting/live-betting-guide.htm",
+      "placement": "Betting Markets section"
+    },
+    {
+      "anchor": "odds comparison",
+      "target_url": "/sport/betting/odds-comparison.htm",
+      "placement": "Betting Markets section"
+    },
+    {
+      "anchor": "casino bonuses UK",
+      "target_url": "/sport/betting/uk/casino-bonuses.htm",
+      "placement": "Casino section"
+    },
+    {
+      "anchor": "payment methods guide",
+      "target_url": "/sport/betting/payment-methods.htm",
+      "placement": "Payment Methods section"
+    },
+    {
+      "anchor": "how to place a bet",
+      "target_url": "/sport/betting/how-to-place-bet.htm",
+      "placement": "Getting Started section"
+    },
+    {
+      "anchor": "betting strategies",
+      "target_url": "/sport/betting/strategies.htm",
+      "placement": "Final Verdict section"
+    },
+    {
+      "anchor": "sports betting glossary",
+      "target_url": "/sport/betting/glossary.htm",
+      "placement": "FAQ section"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      "App Store reviews (iOS app rating and user feedback)",
+      "Google Play reviews (Android app rating)",
+      "Reddit threads (user experiences, r/sportsbetting)"
+    ],
+    "tier_2_verification": [
+      "22bet official website (features only, not for pros/cons)",
+      "22bet official T&Cs documentation"
+    ],
+    "tier_3_prohibited": [
+      "DO NOT cite affiliate sites for pros/cons",
+      "DO NOT use competitor reviews as primary sources"
+    ],
+    "citation_format": "App Store: '4.X/5 (X reviews) - analyzed Dec 2025'"
+  },
+  "brand_badge": {
+    "code": "22B",
+    "color": "#1B5E20",
+    "hex_note": "Dark green for brand recognition"
+  },
+  "compliance_checklist": [
+    "Age requirement: 18+ (UK market)",
+    "Gambling Helpline: 0808 8020 133",
+    "BeGambleAware.org link",
+    "GamCare link",
+    "Affiliate disclosure in introduction",
+    "Licensing transparency (Curacao, NOT UKGC)",
+    "Responsible gambling section at bottom",
+    "NO dated language in H1 (use Last Updated badge)",
+    "Self-exclusion tools mentioned",
+    "Deposit/betting limits information"
+  ],
+  "strategic_notes": [
+    "CRITICAL: Address licensing head-on. 22bet is Curacao-licensed, not UKGC. This must be transparent.",
+    "Position as international operator with wide coverage vs UK-focused brands",
+    "Highlight crypto payments as unique differentiator in UK market",
+    "Balance massive sports coverage against licensing concerns",
+    "Reddit trust discussions in SERP - address legitimacy early",
+    "Compare to UK leaders (bet365, William Hill) to provide context"
+  ],
+  "meta_keywords": "22bet review, 22bet, 22bet bonus, 22bet promo code, 22bet casino, 22bet app, 22bet sign up offer, 22bet login, 22bet sports, 22bet apk download, 22bet uk, 22bet free bet, 22bet withdrawal, is 22bet legit, 22bet sportsbook, 22bet online casino"
+}

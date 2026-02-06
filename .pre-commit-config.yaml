@@ -1,0 +1,174 @@
+# Pre-Commit Hooks Configuration
+# Automatically runs security and quality checks before each commit
+#
+# Installation:
+#   pip install pre-commit
+#   pre-commit install
+#
+# Run manually:
+#   pre-commit run --all-files
+#
+# Update hooks:
+#   pre-commit autoupdate
+
+repos:
+  # Standard pre-commit hooks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      # Security: Check for large files (potential secrets/data leaks)
+      - id: check-added-large-files
+        args: ['--maxkb=500']
+        exclude: |
+          (?x)^(
+            references/.*\.md|
+            ORCHESTRATOR\.md|
+            .*-PROTOCOLS-.*\.md
+          )$
+
+      # Security: Detect merge conflicts
+      - id: check-merge-conflict
+
+      # Security: Detect private keys (.pem, .key files)
+      - id: detect-private-key
+
+      # Code quality: Fix end of file
+      - id: end-of-file-fixer
+        exclude: |
+          (?x)^(
+            \.gitkeep
+          )$
+
+      # Code quality: Remove trailing whitespace
+      - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+
+      # Security: Check for AWS credentials
+      - id: detect-aws-credentials
+        args: ['--allow-missing-credentials']
+
+      # Code quality: Validate JSON files
+      - id: check-json
+        files: \.(json|jsonl)$
+
+      # Code quality: Validate YAML files
+      - id: check-yaml
+        args: ['--unsafe']  # Allow custom tags
+        files: \.(yaml|yml)$
+
+      # Security: Check for case conflicts
+      - id: check-case-conflict
+
+      # Code quality: Check for mixed line endings
+      - id: mixed-line-ending
+        args: ['--fix=lf']
+
+  # Secret detection (Yelp detect-secrets)
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.4.0
+    hooks:
+      - id: detect-secrets
+        args: ['--baseline', '.secrets.baseline']
+        exclude: |
+          (?x)^(
+            \.pre-commit-config\.yaml|
+            SECURITY\.md|
+            \.github/workflows/.*\.yml
+          )$
+        # Creates baseline on first run: pre-commit run detect-secrets --all-files
+
+  # Python security linter (Bandit)
+  - repo: https://github.com/PyCQA/bandit
+    rev: '1.7.5'
+    hooks:
+      - id: bandit
+        args: ['-c', 'pyproject.toml', '-r', 'scripts/']
+        additional_dependencies: ["bandit[toml]"]
+        # Checks Python scripts for security issues
+
+  # Python code formatter (Black)
+  - repo: https://github.com/psf/black
+    rev: 23.12.1
+    hooks:
+      - id: black
+        language_version: python3
+        files: \.py$
+
+  # Python import sorting (isort)
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.13.2
+    hooks:
+      - id: isort
+        args: ["--profile", "black"]
+        files: \.py$
+
+  # Python code linter (flake8)
+  - repo: https://github.com/PyCQA/flake8
+    rev: 7.0.0
+    hooks:
+      - id: flake8
+        args: ['--max-line-length=100', '--extend-ignore=E203,W503']
+        files: \.py$
+
+  # Markdown linter
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.38.0
+    hooks:
+      - id: markdownlint
+        args: ['--fix']
+        exclude: |
+          (?x)^(
+            CHANGELOG\.md|
+            references/.*\.md|
+            \.github/.*\.md
+          )$
+
+  # Local custom hooks
+  - repo: local
+    hooks:
+      # Custom: Check for API keys in staged files
+      - id: check-api-keys
+        name: Check for API keys in staged files
+        entry: bash -c 'git diff --cached --name-only | xargs grep -i "ahrefs_\|sk-ant-\|api[_-]key" && echo "❌ API key detected!" && exit 1 || exit 0'
+        language: system
+        pass_filenames: false
+        always_run: true
+
+      # Custom: Validate Configuration.csv
+      - id: validate-configuration
+        name: Validate State Configuration CSV
+        entry: python scripts/validate_configuration.py
+        language: system
+        files: data/State-Betting-Hubs-Configuration\.csv
+        pass_filenames: false
+
+      # Custom: Check for unlicensed operators in briefs
+      - id: check-licensed-operators
+        name: Check briefs only feature licensed operators
+        entry: bash -c 'if [ -f output/*.md ]; then python scripts/validate_compliance.py; fi'
+        language: system
+        files: output/.*\.md$
+        pass_filenames: false
+
+      # Custom: Check for TODO/FIXME comments in production code
+      - id: check-todos
+        name: Check for TODO/FIXME in production code
+        entry: bash -c 'git diff --cached | grep -i "TODO\|FIXME" && echo "⚠️  TODO/FIXME found - resolve before commit" && exit 1 || exit 0'
+        language: system
+        pass_filenames: false
+        # Set to always_run: false to disable this check
+
+# Configuration
+fail_fast: false  # Run all hooks even if one fails
+minimum_pre_commit_version: '2.15.0'
+
+# To bypass hooks (emergency only):
+#   git commit --no-verify -m "Emergency fix"
+#
+# To update all hooks to latest:
+#   pre-commit autoupdate
+#
+# To run specific hook:
+#   pre-commit run <hook-id> --all-files
+#
+# Example: pre-commit run detect-secrets --all-files

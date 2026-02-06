@@ -1,0 +1,751 @@
+{
+  "metadata": {
+    "page_name": "ireland-wonder-luck-review",
+    "phase": 2,
+    "created_date": "2025-12-15",
+    "writer_assigned": "Tom Goldsmith",
+    "market": "Ireland",
+    "word_count_target": 3500,
+    "template_type": "Review"
+  },
+  "keyword_mapping": {
+    "primary_keyword": {
+      "keyword": "wonder luck sport",
+      "volume": 0,
+      "placement": "H1",
+      "section": "Title",
+      "note": "Zero volume brand - leverage Ireland betting keywords for traffic"
+    },
+    "secondary_keywords_mapped": [
+      {
+        "keyword": "betting sites ireland",
+        "volume": 900,
+        "placement": "Introduction",
+        "section_title": "Introduction & Context",
+        "target_section": "Header Section",
+        "word_count": 150,
+        "context": "Market positioning"
+      },
+      {
+        "keyword": "best betting sites ireland",
+        "volume": 450,
+        "placement": "H2",
+        "section_title": "Wonder Luck in Context: How It Compares to Leading Irish Sites",
+        "target_section": "Comparison Section",
+        "word_count": 300
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "placement": "H2",
+        "section_title": "Sports Betting at Wonder Luck: Markets & Coverage",
+        "target_section": "Sports Markets Section",
+        "word_count": 350
+      },
+      {
+        "keyword": "irish betting sites",
+        "volume": 400,
+        "placement": "H2",
+        "section_title": "Wonder Luck Review: Complete Analysis for Irish Players",
+        "target_section": "Overview Section",
+        "word_count": 300
+      },
+      {
+        "keyword": "free bets ireland",
+        "volume": 300,
+        "placement": "H2",
+        "section_title": "Wonder Luck Welcome Bonus & Free Bets",
+        "target_section": "Bonus Section",
+        "word_count": 350
+      },
+      {
+        "keyword": "online betting ireland",
+        "volume": 250,
+        "placement": "H3",
+        "section_title": "Online Betting Experience & Account Setup",
+        "parent_section": "Getting Started",
+        "word_count": 150
+      },
+      {
+        "keyword": "betting apps ireland",
+        "volume": 200,
+        "placement": "H2",
+        "section_title": "Wonder Luck Mobile App: iOS & Android Experience",
+        "target_section": "Mobile App Section",
+        "word_count": 300
+      },
+      {
+        "keyword": "new betting sites ireland",
+        "volume": 150,
+        "placement": "Introduction",
+        "section_title": "Introduction",
+        "target_section": "Header Section",
+        "word_count": 50,
+        "context": "Positioning as newer operator"
+      },
+      {
+        "keyword": "wonder luck review",
+        "volume": 0,
+        "placement": "H1",
+        "section_title": "Title & Meta",
+        "target_section": "Page Title",
+        "word_count": 0,
+        "context": "Brand keyword in title"
+      },
+      {
+        "keyword": "wonder luck bonus",
+        "volume": 0,
+        "placement": "H2",
+        "section_title": "Wonder Luck Welcome Bonus & Free Bets",
+        "target_section": "Bonus Section",
+        "word_count": 350
+      },
+      {
+        "keyword": "wonder luck app",
+        "volume": 0,
+        "placement": "H2",
+        "section_title": "Wonder Luck Mobile App: iOS & Android Experience",
+        "target_section": "Mobile App Section",
+        "word_count": 300
+      },
+      {
+        "keyword": "wonder luck withdrawal",
+        "volume": 0,
+        "placement": "H3",
+        "section_title": "Withdrawal Times & Payment Methods",
+        "parent_section": "Banking & Payments",
+        "word_count": 100
+      },
+      {
+        "keyword": "is wonder luck legit",
+        "volume": 0,
+        "placement": "FAQ",
+        "section_title": "Is Wonder Luck Safe and Legal in Ireland?",
+        "target_section": "FAQ Section",
+        "word_count": 75
+      },
+      {
+        "keyword": "wonder luck ireland",
+        "volume": 0,
+        "placement": "H2",
+        "section_title": "Licensing & Regulation: Is Wonder Luck Legal in Ireland?",
+        "target_section": "Legal Section",
+        "word_count": 250
+      },
+      {
+        "keyword": "wonder luck login",
+        "volume": 0,
+        "placement": "H3",
+        "section_title": "Login & Account Registration Process",
+        "parent_section": "Getting Started",
+        "word_count": 100
+      }
+    ],
+    "total_keywords_mapped": 15,
+    "all_keywords_covered": true
+  },
+  "content_outline": {
+    "h1": "Wonder Luck Review: Complete Sportsbook Guide for Irish Players",
+    "last_updated_badge": {
+      "position": "After H1",
+      "format": "Last Updated: [Dynamic Date]"
+    },
+    "sections": [
+      {
+        "level": "Introduction",
+        "word_count": 150,
+        "keywords": ["wonder luck review", "wonder luck sport", "betting sites ireland", "new betting sites ireland"],
+        "requirements": [
+          "Direct verdict statement opening (40-50 words)",
+          "Key USP positioning for newer Ireland operator",
+          "Affiliate disclosure (50-75 words)",
+          "Context on emerging betting sites in Ireland"
+        ],
+        "structure": "Opening verdict + Disclosure",
+        "tone": "Direct, authoritative, balanced",
+        "internal_links": ["best betting sites Ireland"]
+      },
+      {
+        "level": "H2",
+        "title": "Wonder Luck Review: Complete Analysis for Irish Players",
+        "word_count": 300,
+        "keywords": ["wonder luck review", "irish betting sites"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Login & Account Registration Process",
+            "word_count": 100,
+            "keywords": ["wonder luck login"],
+            "content_points": [
+              "Email/phone registration options",
+              "Account verification requirements (ID, proof of address)",
+              "Setup time estimate (5-10 minutes)",
+              "Welcome bonus activation",
+              "Age verification (18+ required in Ireland)"
+            ]
+          }
+        ],
+        "content_points": [
+          "Company background and market entry",
+          "Overall rating summary (research-based)",
+          "Key differentiators vs established Irish operators",
+          "Platform features overview",
+          "Geographic availability in Ireland"
+        ],
+        "internal_links": [
+          "Irish betting sites comparison"
+        ]
+      },
+      {
+        "level": "H2",
+        "title": "Wonder Luck Welcome Bonus & Free Bets",
+        "word_count": 350,
+        "keywords": ["wonder luck bonus", "free bets ireland"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Do You Need a Promo Code for Wonder Luck?",
+            "word_count": 80,
+            "keywords": ["wonder luck bonus"],
+            "content_points": [
+              "Promo code requirements (if applicable)",
+              "How to claim welcome bonus during registration",
+              "Alternative bonus offers with codes",
+              "Ongoing promotion schedule"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "Complete Bonus Terms & Conditions",
+            "word_count": 150,
+            "content_points": [
+              "Wagering requirements breakdown",
+              "Eligible sports/markets for bonus",
+              "Bonus expiry period",
+              "Excluded markets and restrictions",
+              "Minimum odds requirements",
+              "Bonus withdrawal restrictions"
+            ]
+          }
+        ],
+        "content_points": [
+          "Welcome bonus amount (in EUR)",
+          "Minimum deposit requirement",
+          "Step-by-step claim process",
+          "Comparison with Bet365, Paddy Power, BoyleSports",
+          "Ongoing promotions and seasonal offers",
+          "Free bets availability"
+        ],
+        "calculator_link": "accumulator calculator",
+        "internal_links": [
+          "free bets Ireland"
+        ]
+      },
+      {
+        "level": "H2",
+        "title": "Sports Betting at Wonder Luck: Markets & Coverage",
+        "word_count": 350,
+        "keywords": ["sports betting ireland"],
+        "content_points": [
+          "Available sports categories",
+          "GAA betting: Hurling, Gaelic Football, national leagues",
+          "Irish horse racing: Daily coverage, ante-post markets",
+          "Football: Premier League, Championship, European leagues",
+          "In-play betting availability and live streaming",
+          "Market depth per sport (number of betting options)",
+          "Odds competitiveness vs Irish operators",
+          "Cash out availability",
+          "Betting limits and stakes"
+        ],
+        "table_required": {
+          "title": "Sports Coverage at Wonder Luck",
+          "columns": ["Sport", "Markets Available", "Live Betting", "GAA/Irish Focus"],
+          "rows": [
+            "Football: Yes, Yes, Limited",
+            "GAA: Yes, Yes, Yes",
+            "Horse Racing: Yes, Yes, Yes",
+            "Tennis: Yes, Limited, No",
+            "eSports: Yes/No, Limited, No"
+          ]
+        },
+        "internal_links": [
+          "GAA betting",
+          "horse racing betting Ireland"
+        ]
+      },
+      {
+        "level": "H2",
+        "title": "Wonder Luck Mobile App: iOS & Android Experience",
+        "word_count": 300,
+        "keywords": ["wonder luck app", "betting apps ireland"],
+        "mobile_experience": {
+          "word_count": 120,
+          "content": "Wonder Luck's mobile app provides a streamlined betting experience optimized for Irish players. The app offers intuitive navigation with one-tap bet placement, live streaming for major sports events, and push notifications for odds alerts. Both iOS and Android versions feature dedicated sections for GAA betting, horse racing, and in-play markets. Users report smooth performance with minimal lag during peak hours. The app includes exclusive mobile bonuses and enhanced cash-out functionality, though some players note the download process differs between platforms due to regional restrictions."
+        },
+        "content_points": [
+          "iOS download process and availability (region settings, App Store listing status)",
+          "Android APK download (size, direct website link)",
+          "App Store ratings and review summaries",
+          "Key mobile-exclusive features",
+          "Performance metrics: loading times, data usage",
+          "Interface usability assessment",
+          "Live streaming availability on mobile",
+          "Exclusive mobile bonuses (if available)",
+          "Comparison with Bet365, Paddy Power mobile apps"
+        ],
+        "sources_required": [
+          "App Store reviews (iOS ratings)",
+          "Google Play reviews (Android ratings)",
+          "Reddit r/irishbetting community feedback"
+        ],
+        "internal_links": [
+          "betting apps Ireland"
+        ]
+      },
+      {
+        "level": "H2",
+        "title": "Banking & Payments: Withdrawals, Deposits & Methods",
+        "word_count": 300,
+        "keywords": ["wonder luck withdrawal", "online betting ireland"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Withdrawal Times & Payment Methods",
+            "word_count": 100,
+            "keywords": ["wonder luck withdrawal"],
+            "content_points": [
+              "Fastest withdrawal methods (e-wallets, cryptocurrency)",
+              "Bank transfer timelines (3-7 business days)",
+              "Verification process requirements",
+              "First withdrawal timing and restrictions",
+              "Daily/monthly withdrawal limits"
+            ]
+          },
+          {
+            "level": "H3",
+            "title": "Complete Payment Methods Comparison",
+            "word_count": 150,
+            "content_points": [
+              "Accepted deposit methods (cards, e-wallets, transfers)",
+              "Irish-preferred payment options",
+              "Cryptocurrency support",
+              "Minimum/maximum deposit amounts",
+              "Deposit fees (if applicable)",
+              "Processing times per method",
+              "Mobile payment options"
+            ]
+          }
+        ],
+        "payment_methods_table": {
+          "title": "Wonder Luck Payment Methods Comparison",
+          "columns": ["Payment Method", "Deposit Time", "Withdrawal Time", "Minimum", "Fees"],
+          "sortable": true,
+          "filterable": true,
+          "note": "Includes Irish-specific payment options"
+        },
+        "content_points": [
+          "Complete payment methods list with fees",
+          "Deposit limits and minimum amounts",
+          "Withdrawal verification process",
+          "No withdrawal fees policy (if applicable)",
+          "Irish bank support (Bank of Ireland, AIB, etc.)",
+          "E-wallet options (Skrill, Neteller, Revolut)",
+          "Cryptocurrency options if available",
+          "Account security during transactions"
+        ],
+        "calculator_link": "betting calculator",
+        "internal_links": [
+          "online betting Ireland"
+        ]
+      },
+      {
+        "level": "H2",
+        "title": "Licensing & Regulation: Is Wonder Luck Legal in Ireland?",
+        "word_count": 250,
+        "keywords": ["is wonder luck legit", "wonder luck ireland"],
+        "subsections": [
+          {
+            "level": "H3",
+            "title": "Wonder Luck License & Regulatory Status",
+            "word_count": 120,
+            "content_points": [
+              "Licensing jurisdiction (verify during research)",
+              "Regulatory body and license number",
+              "Legal status for Irish players",
+              "License verification process for user",
+              "Regulatory history and compliance record"
+            ]
+          }
+        ],
+        "content_points": [
+          "Regulatory overview",
+          "Responsible gambling tools: Deposit limits, Self-exclusion, Reality checks",
+          "Account security measures (SSL encryption, 2FA)",
+          "Data protection and GDPR compliance",
+          "Customer dispute resolution process",
+          "Third-party testing and certification",
+          "Trustpilot/user review sentiment",
+          "Industry certifications (if applicable)"
+        ],
+        "sources_required": [
+          "Wonder Luck official regulatory information",
+          "Trustpilot reviews",
+          "User feedback Reddit"
+        ]
+      },
+      {
+        "level": "H2",
+        "title": "Wonder Luck vs Irish Competitors: Head-to-Head Comparison",
+        "word_count": 300,
+        "keywords": ["best betting sites ireland"],
+        "content_points": [
+          "Direct comparison with Bet365 (market leader)",
+          "Comparison with Paddy Power (Irish giant)",
+          "Comparison with BoyleSports (Irish-owned)",
+          "Comparison with Lunubet (similar newer operator)",
+          "Key differentiators and advantages",
+          "Positioning in the Ireland market"
+        ],
+        "comparison_table": {
+          "title": "Wonder Luck vs Leading Irish Sportsbooks",
+          "columns": ["Feature", "Wonder Luck", "Bet365", "Paddy Power", "BoyleSports"],
+          "rows": [
+            "Welcome Bonus",
+            "Withdrawal Speed",
+            "Payment Methods",
+            "Irish License",
+            "GAA Coverage",
+            "Mobile App Rating",
+            "Customer Support",
+            "Live Streaming"
+          ]
+        },
+        "internal_links": [
+          "Bet365 review",
+          "Paddy Power review",
+          "BoyleSports review",
+          "Lunubet review"
+        ]
+      },
+      {
+        "level": "Pros & Cons",
+        "word_count": 200,
+        "pros": [
+          "Newer operator with fresh features (specifically for Irish market)",
+          "Competitive welcome bonus (details to be researched)",
+          "Diverse payment methods including modern options",
+          "Mobile app availability (iOS and Android)",
+          "Customer support availability (research availability/hours)",
+          "Competitive odds on major markets",
+          "Focus on European/Irish sports markets"
+        ],
+        "cons": [
+          "Less established history than Bet365, Paddy Power",
+          "May have smaller user base",
+          "Limited GAA depth compared to Irish bookmakers",
+          "Regional restrictions on app availability",
+          "Licensing jurisdiction to verify",
+          "Fewer local payment methods than Irish-licensed operators"
+        ],
+        "sources_required": [
+          "User reviews from Trustpilot",
+          "Reddit r/irishbetting feedback",
+          "App Store user reviews",
+          "Google Play reviews"
+        ]
+      },
+      {
+        "level": "FAQs",
+        "word_count": 600,
+        "total_questions": 10,
+        "schema_ready": true,
+        "questions": [
+          {
+            "question": "Is Wonder Luck Safe and Legal in Ireland?",
+            "keyword": "is wonder luck legit",
+            "volume": 0,
+            "answer_word_count": 75,
+            "answer_points": [
+              "License verification (research jurisdiction)",
+              "Legal status for Irish players (offshore-licensed)",
+              "Security measures (SSL encryption, data protection)",
+              "Trustpilot rating and user reviews",
+              "Responsible gambling tools available"
+            ]
+          },
+          {
+            "question": "What Is Wonder Luck's Welcome Bonus for Irish Players?",
+            "keyword": "wonder luck bonus",
+            "volume": 0,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Bonus amount in EUR",
+              "Minimum deposit requirement",
+              "Wagering requirements",
+              "How to claim the bonus",
+              "Time frame for claiming"
+            ]
+          },
+          {
+            "question": "What Sports Can I Bet on at Wonder Luck?",
+            "keyword": "sports betting ireland",
+            "volume": 500,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Available sports list",
+              "GAA betting availability (Hurling, Football)",
+              "Horse racing options",
+              "In-play/live betting",
+              "Niche sports (eSports, etc.)"
+            ]
+          },
+          {
+            "question": "How Do I Withdraw Money From Wonder Luck?",
+            "keyword": "wonder luck withdrawal",
+            "volume": 0,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Withdrawal methods available",
+              "Processing times per method",
+              "Minimum withdrawal amount",
+              "Verification requirements",
+              "Fee structure (if any)"
+            ]
+          },
+          {
+            "question": "Is Wonder Luck Available on Mobile?",
+            "keyword": "wonder luck app",
+            "volume": 0,
+            "answer_word_count": 75,
+            "answer_points": [
+              "iOS and Android availability",
+              "Download links",
+              "App Store ratings",
+              "Mobile web alternative",
+              "Key mobile features"
+            ]
+          },
+          {
+            "question": "Does Wonder Luck Accept Irish Players?",
+            "keyword": "wonder luck ireland",
+            "volume": 0,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Availability in Ireland",
+              "Irish payment method support",
+              "Age requirement (18+ in Ireland)",
+              "Customer support for Irish users",
+              "Euro currency support"
+            ]
+          },
+          {
+            "question": "How Does Wonder Luck Compare to Bet365 or Paddy Power?",
+            "keyword": "best betting sites ireland",
+            "volume": 450,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Key differences in bonuses",
+              "Withdrawal speed comparison",
+              "Market depth comparison",
+              "User experience differences",
+              "Best use case for Wonder Luck"
+            ]
+          },
+          {
+            "question": "What Payment Methods Does Wonder Luck Accept in Ireland?",
+            "keyword": "online betting ireland",
+            "volume": 250,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Complete payment method list",
+              "Irish-specific options (Irish banks, Revolut)",
+              "E-wallets supported",
+              "Cryptocurrency options",
+              "Deposit and withdrawal methods"
+            ]
+          },
+          {
+            "question": "Can I Bet on GAA Sports at Wonder Luck?",
+            "keyword": "sports betting ireland",
+            "volume": 500,
+            "answer_word_count": 75,
+            "answer_points": [
+              "GAA betting availability (yes/no/partial)",
+              "Available GAA markets",
+              "Market depth for GAA events",
+              "Seasonal availability",
+              "Comparison with Irish-licensed operators"
+            ]
+          },
+          {
+            "question": "Is There a Wonder Luck Promo Code for Ireland?",
+            "keyword": "free bets ireland",
+            "volume": 300,
+            "answer_word_count": 75,
+            "answer_points": [
+              "Current promo codes available",
+              "How to use promo codes",
+              "Ongoing promotional offers",
+              "Free bet availability",
+              "Bonus code requirements"
+            ]
+          }
+        ]
+      },
+      {
+        "level": "Final Verdict",
+        "word_count": 150,
+        "keywords": ["wonder luck review", "best betting sites ireland"],
+        "requirements": [
+          "Clear recommendation for who should use Wonder Luck",
+          "Who should consider alternatives",
+          "Best for statement (new players, specific features, etc.)",
+          "Balanced assessment of strengths/weaknesses",
+          "CTA with affiliate link"
+        ]
+      },
+      {
+        "level": "Responsible Gambling",
+        "word_count": 150,
+        "keywords": ["wonder luck ireland"],
+        "requirements": [
+          "Ireland age requirement: 18+",
+          "Gambling Care Ireland: www.gamblingcare.ie",
+          "Dunlewey Addiction Services: 1800 911 029",
+          "Problem Gambling Ireland: www.problemgambling.ie",
+          "Gamblers Anonymous Ireland: www.gamblersanonymous.ie",
+          "Self-exclusion resources",
+          "Deposit limits and reality check tools"
+        ]
+      }
+    ]
+  },
+  "source_requirements": {
+    "tier_1_primary": [
+      "Wonder Luck official website (features, bonuses, terms verification)",
+      "App Store reviews (iOS ratings if app available)",
+      "Google Play reviews (Android ratings if app available)",
+      "Trustpilot Wonder Luck reviews (user feedback)"
+    ],
+    "tier_2_verification": [
+      "Problem Gambling Ireland website",
+      "Reddit r/irishbetting subreddit (user opinions)",
+      "Wonder Luck licensing authority website"
+    ],
+    "tier_3_comparison": [
+      "Bet365 official website",
+      "Paddy Power official website",
+      "BoyleSports official website",
+      "Lunubet official website"
+    ]
+  },
+  "internal_links_required": [
+    {
+      "anchor": "best betting sites in Ireland",
+      "url": "/sport/betting/ireland/index.htm",
+      "context": "Market comparison and alternatives"
+    },
+    {
+      "anchor": "new betting sites Ireland",
+      "url": "/sport/betting/ireland/betting-apps.htm",
+      "context": "New operators and emerging brands"
+    },
+    {
+      "anchor": "free bets Ireland",
+      "url": "/sport/betting/ireland/free-bets.htm",
+      "context": "Bonus comparison"
+    },
+    {
+      "anchor": "Lunubet review",
+      "url": "/sport/betting/ireland/lunubet-review.htm",
+      "context": "Similar newer operator"
+    },
+    {
+      "anchor": "Bet365 review",
+      "url": "/sport/betting/ireland/bet365-review.htm",
+      "context": "Market leader comparison"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/ireland/paddy-power-review.htm",
+      "context": "Irish bookmaker comparison"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "url": "/sport/betting/ireland/boylesports-review.htm",
+      "context": "Irish-owned alternative"
+    },
+    {
+      "anchor": "betting apps Ireland",
+      "url": "/sport/betting/ireland/betting-apps.htm",
+      "context": "Mobile betting context"
+    },
+    {
+      "anchor": "GAA betting",
+      "url": "/sport/betting/gaelic-games.htm",
+      "context": "Irish sports focus"
+    },
+    {
+      "anchor": "horse racing betting Ireland",
+      "url": "/sport/betting/horse-racing.htm",
+      "context": "Major Irish sports"
+    },
+    {
+      "anchor": "responsible gambling Ireland",
+      "url": "/sport/betting/ireland/responsible-gambling.htm",
+      "context": "Responsible gambling resources"
+    },
+    {
+      "anchor": "betting calculator",
+      "url": "/calculators/odds.htm",
+      "context": "Betting tools and calculators"
+    }
+  ],
+  "meta_keywords": "wonder luck review, wonder luck sport, wonder luck bonus, wonder luck app, wonder luck ireland, betting sites ireland, best betting sites ireland, sports betting ireland, irish betting sites, free bets ireland, online betting ireland, betting apps ireland, new betting sites ireland, is wonder luck legit, wonder luck login",
+  "compliance_requirements": {
+    "market": "Ireland",
+    "age_requirement": "18+",
+    "regulatory_body": "Gambling Regulatory Authority of Ireland",
+    "helpline": "Dunlewey Addiction Services: 1800 911 029",
+    "resources": [
+      "Gamblingcare.ie - Problem Gambling Ireland",
+      "Gamblers Anonymous Ireland: www.gamblersanonymous.ie",
+      "Wonder Luck responsible gambling tools"
+    ],
+    "currency": "EUR",
+    "affiliate_disclosure_required": true,
+    "last_updated_badge_required": true
+  },
+  "technical_elements": [
+    "Last Updated badge with current date",
+    "Affiliate disclosure box (Ireland-compliant)",
+    "Rating summary card with visual stars",
+    "Pros/Cons comparison box",
+    "Bonus terms breakdown table",
+    "Payment methods comparison table (interactive/sortable)",
+    "Sports coverage comparison table",
+    "Wonder Luck vs competitors comparison table",
+    "FAQ schema markup (JSON-LD)",
+    "Breadcrumb schema (JSON-LD)",
+    "Article schema with Ireland locale",
+    "Mobile app download buttons",
+    "Responsible gambling footer section",
+    "Currency display in EUR",
+    "Badge visual: WLK with color #F57C00"
+  ],
+  "notes": [
+    "Ireland market: 18+ age requirement (not 21+)",
+    "All currency references in EUR throughout",
+    "Focus on GAA, rugby, and horse racing (Ireland-specific)",
+    "Wonder Luck is newer/emerging operator - manage expectations",
+    "Zero search volume for brand terms - rely on broader Ireland betting keywords",
+    "Priority: LOW - but deserves comprehensive review",
+    "Verify Wonder Luck's licensing jurisdiction before finalizing licensing section",
+    "Compare with both established (Bet365, Paddy Power) and similar operators (Lunubet, Betalright)",
+    "Total search volume from all keywords: 3,150/month",
+    "Mobile Experience section should be 100-150 words max per CLAUDE.md",
+    "Include all internal links - total should be 12",
+    "Create 7-10 FAQs targeting secondary keywords",
+    "Payment methods comparison required as standalone section"
+  ]
+}

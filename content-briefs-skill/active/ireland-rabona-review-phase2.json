@@ -1,0 +1,793 @@
+{
+  "page_name": "ireland-rabona-review",
+  "phase": 2,
+  "phase1_data": "ireland-rabona-review-phase1.json",
+  "writer_assigned": "Lewis",
+  "target_word_count": 3750,
+  "market": "Ireland",
+  "compliance": {
+    "age_requirement": "18+",
+    "gambling_hotline": "Gambling Care Ireland",
+    "hotline_number": "1800 936 725",
+    "responsible_gambling_url": "https://www.gamblingcare.ie/"
+  },
+  "letter_badge": {
+    "text": "RAB",
+    "color": "#512DA8"
+  },
+  "intro_format": {
+    "total_words": "150-200",
+    "structure": [
+      {
+        "part": "Opening",
+        "words": "50-75",
+        "requirements": [
+          "Direct answer: Is Rabona a good casino/sportsbook for Irish players?",
+          "Authority statement with key findings",
+          "Mention both casino and sports betting features"
+        ]
+      },
+      {
+        "part": "Affiliate Disclosure",
+        "words": "75-100",
+        "requirements": [
+          "Transparency about affiliate relationships",
+          "Editorial independence statement",
+          "Ireland-specific context"
+        ]
+      }
+    ]
+  },
+  "content_outline": [
+    {
+      "section_number": 1,
+      "h_level": "H1",
+      "title": "Rabona Casino Review: Sports Betting & Casino Games for Irish Players",
+      "word_count": "150-200",
+      "keywords_targeted": ["rabona", "rabona casino", "online casino ireland"],
+      "requirements": [
+        "Last Updated badge immediately after H1",
+        "NO dated language in H1 title",
+        "Introduction following mandatory format",
+        "Letter badge (RAB, #512DA8) visible",
+        "Quick facts sidebar with key info"
+      ],
+      "writer_instructions": "Open with direct verdict on Rabona for Irish players. Mention both casino and sports betting. Include affiliate disclosure per mandatory format."
+    },
+    {
+      "section_number": 2,
+      "h_level": "H2",
+      "title": "Rabona at a Glance: Quick Rating Summary",
+      "word_count": "200-250",
+      "keywords_targeted": ["rabona casino", "rabona"],
+      "subsections": [],
+      "requirements": [
+        "Overall rating (X/10)",
+        "Category ratings: Casino Games, Sports Betting, Bonuses, Mobile App, Payment Methods, Customer Support",
+        "Key strengths (3-4 bullet points)",
+        "Key weaknesses (2-3 bullet points)",
+        "One-sentence verdict"
+      ],
+      "writer_instructions": "Provide balanced overview with specific ratings. Back up ratings with evidence from testing. Be honest about both strengths and limitations for Irish market."
+    },
+    {
+      "section_number": 3,
+      "h_level": "H2",
+      "title": "Rabona Welcome Bonus: What Irish Players Get",
+      "word_count": "300-350",
+      "keywords_targeted": ["rabona bonus", "free bets"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "Current Welcome Offer Breakdown",
+          "word_count": "100-125",
+          "keywords": ["rabona bonus"],
+          "requirements": [
+            "Specific bonus amount and structure",
+            "Sports betting vs casino bonus split",
+            "Ireland availability confirmation"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Bonus Terms & Wagering Requirements",
+          "word_count": "100-125",
+          "keywords": ["free bets"],
+          "requirements": [
+            "Wagering requirements (X times bonus)",
+            "Time limits to clear bonus",
+            "Eligible games/markets",
+            "Minimum deposit required",
+            "Maximum bet limits while bonus active"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Is This Bonus Competitive for Irish Players?",
+          "word_count": "75-100",
+          "keywords": ["best online casino ireland"],
+          "requirements": [
+            "Comparison with major Irish operators",
+            "Value assessment",
+            "Who this bonus suits best"
+          ]
+        }
+      ],
+      "writer_instructions": "Get exact bonus details from Rabona.com. Compare wagering requirements to industry standard (usually 20-40x). Mention if bonus is better for sports bettors or casino players. Be transparent about any restrictive terms.",
+      "sources_required": [
+        "Rabona.com T&Cs page (TIER 1)",
+        "Competitor bonuses for comparison context (TIER 3)"
+      ]
+    },
+    {
+      "section_number": 4,
+      "h_level": "H2",
+      "title": "Sports Betting at Rabona: Markets & Features for Ireland",
+      "word_count": "350-400",
+      "keywords_targeted": ["sports betting ireland", "rabona sports", "live sports betting"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "Sports Coverage & Market Depth",
+          "word_count": "125-150",
+          "keywords": ["rabona sports", "sports betting ireland"],
+          "requirements": [
+            "Total number of sports offered",
+            "GAA coverage (hurling, football) - critical for Irish market",
+            "Irish horse racing availability",
+            "Premier League and League of Ireland football",
+            "International sports (NFL, NBA, etc.)",
+            "Niche markets (esports, politics, entertainment)"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Live Betting & In-Play Features",
+          "word_count": "125-150",
+          "keywords": ["live betting", "live sports betting"],
+          "requirements": [
+            "Live streaming availability",
+            "In-play betting interface quality",
+            "Cash out feature availability",
+            "Live stats and match tracker",
+            "Mobile live betting performance"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Odds Competitiveness",
+          "word_count": "75-100",
+          "keywords": [],
+          "requirements": [
+            "Margin analysis (if available)",
+            "Comparison with Bet365, Paddy Power odds",
+            "Best odds guaranteed on horse racing?"
+          ]
+        }
+      ],
+      "writer_instructions": "CRITICAL: Test GAA and Irish racing coverage specifically - this is key differentiator for Irish market. Check if live streaming works for Irish users. Compare odds on popular markets (Premier League, Champions League) with major Irish bookmakers. Use parlay calculator internal link when discussing accumulator bets.",
+      "internal_links": [
+        "parlay calculator (/sport/betting/calculator/parlay.htm)",
+        "live betting guide (/sport/betting/live-betting-guide.htm)",
+        "sports betting Ireland guide (/sport/betting/ireland/guide.htm)"
+      ]
+    },
+    {
+      "section_number": 5,
+      "h_level": "H2",
+      "title": "Rabona Casino: Game Selection & Software",
+      "word_count": "300-350",
+      "keywords_targeted": ["rabona casino", "online casino ireland"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "Casino Games Library",
+          "word_count": "125-150",
+          "keywords": ["rabona casino"],
+          "requirements": [
+            "Total number of games (slots, table games, live dealer)",
+            "Top software providers (NetEnt, Pragmatic Play, Evolution, etc.)",
+            "Progressive jackpot availability",
+            "Game search and filtering features"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Live Dealer Casino Experience",
+          "word_count": "100-125",
+          "keywords": ["online casino ireland"],
+          "requirements": [
+            "Live dealer provider (Evolution, Pragmatic Live, etc.)",
+            "Available games (blackjack, roulette, baccarat, game shows)",
+            "Betting limits for Irish players",
+            "Stream quality and interface"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Ireland-Specific Casino Features",
+          "word_count": "50-75",
+          "keywords": ["irish casino sites"],
+          "requirements": [
+            "Euro currency support",
+            "Irish-friendly payment methods",
+            "Game availability in Ireland (any restrictions?)"
+          ]
+        }
+      ],
+      "writer_instructions": "Emphasize casino games as PRIMARY focus - user specified this section targets 'rabona casino' keyword heavily. Get actual game count from site. Check if any games are geo-restricted for Irish players. Mention popular Irish-themed slots if available.",
+      "internal_links": [
+        "online casino Ireland (/sport/betting/ireland/casino-hub.htm)"
+      ]
+    },
+    {
+      "section_number": 6,
+      "h_level": "H2",
+      "title": "Rabona Mobile App: iOS & Android Experience",
+      "word_count": "300-350",
+      "keywords_targeted": ["rabona app", "live betting"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "App Features & Interface",
+          "word_count": "125-150",
+          "keywords": ["rabona app"],
+          "requirements": [
+            "App Store and Google Play availability for Irish users",
+            "User ratings (include actual ratings from app stores)",
+            "Core features: betting, casino, live betting, deposits/withdrawals",
+            "Navigation and UX quality",
+            "Biometric login support"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Mobile Web vs Native App",
+          "word_count": "100-125",
+          "keywords": [],
+          "requirements": [
+            "Mobile web browser experience",
+            "Feature comparison: app vs mobile web",
+            "Which is better for Irish users and why?"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "App Download Guide for Ireland",
+          "word_count": "50-75",
+          "keywords": ["rabona app"],
+          "requirements": [
+            "Step-by-step download instructions",
+            "Any geo-restrictions for Irish users?",
+            "System requirements"
+          ]
+        }
+      ],
+      "writer_instructions": "MUST check actual App Store/Google Play ratings and reviews - cite these as TIER 1 sources. Test the app if possible or analyze recent user reviews for Ireland-specific issues. Mention live betting quality on mobile since user wants live betting keyword in this section.",
+      "sources_required": [
+        "App Store - Rabona app listing (TIER 1)",
+        "Google Play - Rabona app listing (TIER 1)",
+        "User reviews from app stores (TIER 1)"
+      ]
+    },
+    {
+      "section_number": 7,
+      "h_level": "H2",
+      "title": "Payment Methods for Irish Players: Banking in EUR",
+      "word_count": "250-300",
+      "keywords_targeted": ["betting sites ireland"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "Deposit Options & Processing Times",
+          "word_count": "100-125",
+          "keywords": ["betting sites ireland"],
+          "requirements": [
+            "Available deposit methods (cards, e-wallets, bank transfer, crypto)",
+            "Ireland-friendly options (Revolut, AIB, Bank of Ireland cards)",
+            "Minimum/maximum deposit limits",
+            "Processing times",
+            "Fees (if any)"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Withdrawal Methods & Speed",
+          "word_count": "100-125",
+          "keywords": [],
+          "requirements": [
+            "Withdrawal methods available",
+            "Processing timeframes (pending + actual transfer)",
+            "Verification requirements (KYC)",
+            "Withdrawal limits",
+            "Any fees?"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Currency & Transaction Issues",
+          "word_count": "50-75",
+          "keywords": [],
+          "requirements": [
+            "EUR support confirmation",
+            "Currency conversion fees (if not EUR)",
+            "Payment success rate feedback from users"
+          ]
+        }
+      ],
+      "writer_instructions": "Focus on EUR transactions - critical for Irish market. Check Reddit and Trustpilot for withdrawal complaints/issues. Verify if Irish bank cards work smoothly. Compare withdrawal speeds to competitors like Bet365 and Paddy Power.",
+      "sources_required": [
+        "Rabona.com banking page (TIER 1)",
+        "Reddit r/irishgambling for payment experiences (TIER 3)",
+        "Trustpilot reviews mentioning withdrawals (TIER 1)"
+      ]
+    },
+    {
+      "section_number": 8,
+      "h_level": "H2",
+      "title": "Customer Support Quality for Irish Users",
+      "word_count": "200-250",
+      "keywords_targeted": [],
+      "subsections": [],
+      "requirements": [
+        "Available support channels (live chat, email, phone)",
+        "24/7 availability?",
+        "Average response times",
+        "Support quality (based on testing or user reviews)",
+        "Irish timezone coverage",
+        "English language support quality"
+      ],
+      "writer_instructions": "Test live chat if possible - ask a basic question and note response time. Check Trustpilot for support complaints. Note if support is 24/7 or has limited hours (important for live bettors).",
+      "sources_required": [
+        "Trustpilot reviews mentioning support (TIER 1)",
+        "Live chat testing (if possible)"
+      ]
+    },
+    {
+      "section_number": 9,
+      "h_level": "H2",
+      "title": "Licensing & Safety: Is Rabona Legal in Ireland?",
+      "word_count": "300-350",
+      "keywords_targeted": ["irish casino sites", "rabona"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "Rabona's Curacao License Explained",
+          "word_count": "125-150",
+          "keywords": ["rabona", "irish casino sites"],
+          "requirements": [
+            "License authority (Curacao eGaming)",
+            "License number",
+            "What Curacao license means for Irish players",
+            "Player protection standards",
+            "Comparison to UKGC or MGA licenses"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Ireland Gambling Regulations",
+          "word_count": "100-125",
+          "keywords": ["irish casino sites"],
+          "requirements": [
+            "Ireland's gambling regulatory status (2024 Gambling Regulation Act)",
+            "Legal status of offshore operators like Rabona",
+            "Revenue Commissioners role",
+            "Player rights and protections"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Security & Fair Play",
+          "word_count": "50-75",
+          "keywords": [],
+          "requirements": [
+            "SSL encryption",
+            "Game fairness (RNG testing)",
+            "Responsible gambling tools",
+            "Data protection"
+          ]
+        }
+      ],
+      "writer_instructions": "Be transparent: Rabona operates under Curacao license, not Ireland-specific. Explain what this means practically for Irish players. Mention Ireland's new gambling laws (2024 Act) and future licensing regime. Position Rabona's security positively while being honest about offshore status.",
+      "internal_links": [
+        "responsible gambling resources (/sport/betting/responsible-gambling.htm)"
+      ],
+      "sources_required": [
+        "Rabona.com licensing page (TIER 1)",
+        "Revenue Commissioners Ireland - gambling info (TIER 2)",
+        "Gambling Care Ireland (TIER 2)"
+      ]
+    },
+    {
+      "section_number": 10,
+      "h_level": "H2",
+      "title": "Rabona vs Irish Competitors: How Does It Compare?",
+      "word_count": "350-400",
+      "keywords_targeted": ["best online casino ireland", "betting sites ireland"],
+      "subsections": [
+        {
+          "h_level": "H3",
+          "title": "Rabona vs Bet365 Ireland",
+          "word_count": "100-125",
+          "keywords": ["betting sites ireland"],
+          "requirements": [
+            "Odds comparison",
+            "Bonus comparison",
+            "Market depth comparison",
+            "Live streaming (Bet365 advantage)",
+            "When to choose Rabona over Bet365"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Rabona vs Paddy Power",
+          "word_count": "100-125",
+          "keywords": ["best online casino ireland"],
+          "requirements": [
+            "Irish market focus comparison",
+            "GAA coverage comparison",
+            "Bonus offers comparison",
+            "Brand trust factor",
+            "When Rabona is better choice"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Rabona vs BoyleSports",
+          "word_count": "75-100",
+          "keywords": ["irish casino sites"],
+          "requirements": [
+            "Local vs international operator",
+            "Game selection comparison",
+            "Customer service comparison",
+            "Unique advantages of each"
+          ]
+        },
+        {
+          "h_level": "H3",
+          "title": "Where Rabona Wins & Loses",
+          "word_count": "50-75",
+          "keywords": [],
+          "requirements": [
+            "Rabona's competitive advantages",
+            "Areas where established Irish operators are better",
+            "Best use case for Rabona"
+          ]
+        }
+      ],
+      "writer_instructions": "Fair, balanced comparison - don't trash Rabona or competitors. Highlight that established Irish operators have brand trust and local focus, but Rabona offers variety and competitive bonuses. Mention specific scenarios where each operator is best choice.",
+      "internal_links": [
+        "Bet365 Ireland review (/sport/betting/ireland/bet365-review.htm)",
+        "Paddy Power Ireland (/sport/betting/ireland/paddypower-review.htm)",
+        "BoyleSports review (/sport/betting/ireland/boylesports-review.htm)",
+        "best betting sites Ireland (/sport/betting/ireland/betting-hub.htm)"
+      ]
+    },
+    {
+      "section_number": 11,
+      "h_level": "H2",
+      "title": "Rabona Pros & Cons Summary",
+      "word_count": "200-250",
+      "keywords_targeted": ["rabona casino", "rabona"],
+      "subsections": [],
+      "requirements": [
+        "5-7 pros with brief explanations",
+        "4-5 cons with brief explanations",
+        "Be specific and honest",
+        "No generic statements",
+        "Back up each point with evidence from review"
+      ],
+      "writer_instructions": "Honest assessment based on actual testing/research. Pros might include: game variety, crypto payments, competitive bonuses, combined sports/casino. Cons might include: Curacao license (not local), customer support response times, limited Irish sports focus compared to local operators."
+    },
+    {
+      "section_number": 12,
+      "h_level": "H2",
+      "title": "Frequently Asked Questions",
+      "word_count": "500-600",
+      "keywords_targeted": ["All secondary keywords in FAQ format"],
+      "subsections": [],
+      "faqs": [
+        {
+          "question": "Is Rabona legal and safe to use in Ireland?",
+          "word_count": "75-100",
+          "keywords": ["rabona", "irish casino sites"],
+          "requirements": [
+            "Address Curacao license",
+            "Legal status in Ireland",
+            "Safety measures",
+            "Recommendation with caveats"
+          ]
+        },
+        {
+          "question": "What is Rabona's welcome bonus for Irish players?",
+          "word_count": "75-100",
+          "keywords": ["rabona bonus", "free bets"],
+          "requirements": [
+            "Current bonus amount and structure",
+            "Key terms (wagering, time limit)",
+            "How to claim"
+          ]
+        },
+        {
+          "question": "Does Rabona cover GAA and Irish sports betting?",
+          "word_count": "75-100",
+          "keywords": ["rabona sports", "sports betting ireland"],
+          "requirements": [
+            "GAA availability (yes/no with details)",
+            "Irish horse racing",
+            "League of Ireland",
+            "Comparison to Irish-focused bookies"
+          ]
+        },
+        {
+          "question": "Is there a Rabona mobile app for Irish users?",
+          "word_count": "50-75",
+          "keywords": ["rabona app"],
+          "requirements": [
+            "App availability (iOS/Android)",
+            "Features",
+            "Download instructions",
+            "Ratings"
+          ]
+        },
+        {
+          "question": "What payment methods does Rabona accept in Ireland?",
+          "word_count": "75-100",
+          "keywords": ["betting sites ireland"],
+          "requirements": [
+            "Deposit methods",
+            "Withdrawal methods",
+            "EUR support",
+            "Processing times"
+          ]
+        },
+        {
+          "question": "How does Rabona compare to Bet365 and Paddy Power?",
+          "word_count": "75-100",
+          "keywords": ["best online casino ireland", "irish casino sites"],
+          "requirements": [
+            "Key differences",
+            "When Rabona is better choice",
+            "When competitors are better",
+            "Overall verdict"
+          ]
+        },
+        {
+          "question": "Does Rabona offer live betting and streaming?",
+          "word_count": "50-75",
+          "keywords": ["live betting", "live sports betting"],
+          "requirements": [
+            "Live betting availability",
+            "Streaming availability (likely limited vs Bet365)",
+            "Cash out feature",
+            "Mobile live betting quality"
+          ]
+        },
+        {
+          "question": "What is the minimum age to use Rabona in Ireland?",
+          "word_count": "25-50",
+          "keywords": [],
+          "requirements": [
+            "18+ requirement",
+            "Age verification process",
+            "Responsible gambling mention"
+          ]
+        }
+      ],
+      "writer_instructions": "Use exact FAQ questions provided - they target our secondary keywords. Answers should be direct and concise. Link to relevant detailed sections. Each FAQ should rank independently for its keyword."
+    },
+    {
+      "section_number": 13,
+      "h_level": "H2",
+      "title": "Final Verdict: Should Irish Players Use Rabona?",
+      "word_count": "200-250",
+      "keywords_targeted": ["rabona casino", "online casino ireland"],
+      "subsections": [],
+      "requirements": [
+        "Clear recommendation with nuance",
+        "Best for: [type of player]",
+        "Not ideal for: [type of player]",
+        "Overall rating recap",
+        "Final thoughts on Ireland suitability"
+      ],
+      "writer_instructions": "Balanced conclusion. Likely verdict: Rabona is solid option for Irish players seeking game variety and competitive bonuses, but established local operators (Bet365, Paddy Power, BoyleSports) may be better for GAA/Irish racing focus and brand trust. Recommended as secondary or alternative bookmaker."
+    },
+    {
+      "section_number": 14,
+      "h_level": "H2",
+      "title": "Responsible Gambling",
+      "word_count": "75-100",
+      "keywords_targeted": [],
+      "subsections": [],
+      "requirements": [
+        "18+ age requirement for Ireland",
+        "Gambling Care Ireland: 1800 936 725",
+        "Link to https://www.gamblingcare.ie/",
+        "Responsible gambling tools on Rabona",
+        "Self-exclusion information"
+      ],
+      "writer_instructions": "Standard responsible gambling section adapted for Ireland. Include Ireland-specific hotline and resources. Mention Rabona's responsible gambling tools (deposit limits, self-exclusion).",
+      "internal_links": [
+        "responsible gambling resources (/sport/betting/responsible-gambling.htm)"
+      ]
+    }
+  ],
+  "keyword_mapping_summary": {
+    "total_secondary_keywords": 12,
+    "mapped_keywords": [
+      {
+        "keyword": "rabona",
+        "volume": 400,
+        "placements": ["H1", "Section 2", "Section 9", "Section 11", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "online casino ireland",
+        "volume": 2200,
+        "placements": ["H1", "Section 5", "Section 13"]
+      },
+      {
+        "keyword": "best online casino ireland",
+        "volume": 800,
+        "placements": ["Section 3 H3", "Section 10", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "sports betting ireland",
+        "volume": 500,
+        "placements": ["Section 4", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "betting sites ireland",
+        "volume": 900,
+        "placements": ["Section 7", "Section 10", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "irish casino sites",
+        "volume": 300,
+        "placements": ["Section 5 H3", "Section 9", "Section 10 H3", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "free bets",
+        "volume": 500,
+        "placements": ["Section 3", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "live betting",
+        "volume": 350,
+        "placements": ["Section 4 H3", "Section 6", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "rabona bonus",
+        "volume": 10,
+        "placements": ["Section 3", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "rabona app",
+        "volume": 10,
+        "placements": ["Section 6", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "rabona sports",
+        "volume": 10,
+        "placements": ["Section 4 H3", "Section 12 FAQ"]
+      },
+      {
+        "keyword": "live sports betting",
+        "volume": 100,
+        "placements": ["Section 4", "Section 12 FAQ"]
+      }
+    ],
+    "all_keywords_mapped": true
+  },
+  "internal_links_required": [
+    {
+      "anchor": "best betting sites Ireland",
+      "url": "/sport/betting/ireland/betting-hub.htm",
+      "section": "Introduction"
+    },
+    {
+      "anchor": "online casino Ireland",
+      "url": "/sport/betting/ireland/casino-hub.htm",
+      "section": "Casino section"
+    },
+    {
+      "anchor": "sports betting Ireland guide",
+      "url": "/sport/betting/ireland/guide.htm",
+      "section": "Sports Markets section"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/calculator/parlay.htm",
+      "section": "Sports betting features"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculator/odds.htm",
+      "section": "Sports betting section"
+    },
+    {
+      "anchor": "responsible gambling resources",
+      "url": "/sport/betting/responsible-gambling.htm",
+      "section": "Responsible gambling section"
+    },
+    {
+      "anchor": "Bet365 Ireland review",
+      "url": "/sport/betting/ireland/bet365-review.htm",
+      "section": "Comparison section"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "url": "/sport/betting/ireland/boylesports-review.htm",
+      "section": "Comparison section"
+    },
+    {
+      "anchor": "Paddy Power Ireland",
+      "url": "/sport/betting/ireland/paddypower-review.htm",
+      "section": "Comparison section"
+    },
+    {
+      "anchor": "live betting guide",
+      "url": "/sport/betting/live-betting-guide.htm",
+      "section": "Live betting features"
+    },
+    {
+      "anchor": "casino bonus terms explained",
+      "url": "/sport/betting/bonus-terms-guide.htm",
+      "section": "Bonus breakdown section"
+    },
+    {
+      "anchor": "how to verify your casino account",
+      "url": "/sport/betting/how-to/verify-account.htm",
+      "section": "Payment methods section"
+    }
+  ],
+  "sources_tier_requirements": {
+    "tier1_mandatory": [
+      "Rabona.com official website (bonus terms, T&Cs, game list, licensing)",
+      "App Store - Rabona app ratings and reviews",
+      "Google Play - Rabona app ratings and reviews",
+      "Trustpilot Ireland - Rabona user reviews"
+    ],
+    "tier2_verification": [
+      "Revenue Commissioners Ireland (gambling regulations)",
+      "Gambling Care Ireland (responsible gambling resources)"
+    ],
+    "tier3_research": [
+      "Reddit r/irishgambling (user experiences)",
+      "Competitor sites (betinireland.ie, irishluck.ie) - for market context only"
+    ],
+    "forbidden": [
+      "DO NOT cite affiliate sites for pros/cons",
+      "DO NOT use competitor reviews as primary source for Rabona features",
+      "DO NOT rely on outdated information (check current status)"
+    ]
+  },
+  "meta_tags": {
+    "title": "Rabona Casino Review Ireland 2024 | Sports Betting & Bonuses",
+    "description": "Complete Rabona Casino review for Irish players. Expert analysis of sports betting, bonuses, mobile app, and payment methods. Is Rabona legit in Ireland?",
+    "keywords": "rabona casino, rabona, rabona ireland, online casino ireland, sports betting ireland, betting sites ireland, irish casino sites, rabona bonus, rabona app, free bets, live betting, rabona sports"
+  },
+  "quality_checks": [
+    "All 12 secondary keywords mapped to specific sections",
+    "8 FAQs targeting keyword combinations",
+    "12 internal links distributed throughout",
+    "TIER 1 sources mandated (App Store, Trustpilot, official site)",
+    "Ireland compliance (18+, Gambling Care Ireland 1800 936 725)",
+    "Letter badge specified (RAB, #512DA8)",
+    "Word count target: 3,500-4,000 words (3,750 average)",
+    "NO dated language in H1",
+    "Mandatory intro format specified",
+    "GAA and Irish sports coverage requirement noted",
+    "EUR payment methods focus",
+    "Comparison with Irish competitors required",
+    "Honest assessment of Curacao license vs local operators"
+  ],
+  "writer_notes": {
+    "market_focus": "This is Ireland market review - emphasize GAA, Irish racing, EUR payments, local operators comparison",
+    "honesty_required": "Rabona is offshore Curacao operator - be transparent about this. Don't oversell vs established Irish brands.",
+    "testing_priority": "If possible, test: live chat response time, app download in Ireland, GAA betting availability, payment method compatibility with Irish banks",
+    "differentiation": "Rabona's advantage: game variety, crypto options, combined sports/casino. Disadvantage: less Irish market focus than Paddy Power/BoyleSports.",
+    "tone": "Professional, balanced, helpful. Not promotional. Acknowledge both strengths and limitations."
+  },
+  "phase2_completion_date": "2024-12-15",
+  "next_phase": "Phase 3: AI Enhancement (HTML/CSS/JS code, schema markup, complete T&Cs)"
+}

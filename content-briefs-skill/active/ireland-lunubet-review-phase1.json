@@ -1,0 +1,473 @@
+{
+  "page_name": "ireland-lunubet-review",
+  "url": "https://www.topendsports.com/sport/betting/ireland/lunubet-review.htm",
+  "market": "Ireland",
+  "template": 1,
+  "template_name": "Brand Review",
+  "writer": "Lewis Humphries",
+  "priority": "MEDIUM",
+  "target_word_count": "3500-4000",
+
+  "primary_keyword": {
+    "keyword": "lunubet sport",
+    "volume": 500,
+    "difficulty": 19,
+    "notes": "Ahrefs shows 'lunubet' as primary with 500/mo volume"
+  },
+
+  "secondary_keywords": [
+    {
+      "keyword": "lunubet",
+      "volume": 500,
+      "difficulty": 19,
+      "placement": "H1, intro, natural throughout"
+    },
+    {
+      "keyword": "lunubet casino",
+      "volume": 60,
+      "difficulty": 0,
+      "placement": "H2 section - Casino & Games offering"
+    },
+    {
+      "keyword": "lunubet review",
+      "volume": 20,
+      "difficulty": 0,
+      "placement": "H1, title tag, meta description"
+    },
+    {
+      "keyword": "sports betting ireland",
+      "volume": 500,
+      "difficulty": 82,
+      "placement": "Intro, context sections"
+    },
+    {
+      "keyword": "betting ireland",
+      "volume": 900,
+      "difficulty": 79,
+      "placement": "Natural mentions, context"
+    },
+    {
+      "keyword": "best betting sites ireland",
+      "volume": 450,
+      "difficulty": 74,
+      "placement": "Comparison context, alternatives section"
+    },
+    {
+      "keyword": "lunubet casino review",
+      "volume": 10,
+      "difficulty": 0,
+      "placement": "H3 subsection in casino analysis"
+    },
+    {
+      "keyword": "lunubet login",
+      "volume": 10,
+      "difficulty": 0,
+      "placement": "FAQ or user experience section"
+    },
+    {
+      "keyword": "lunubet app",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H2 - Mobile App Experience section"
+    },
+    {
+      "keyword": "lunubet bonus",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H2 - Welcome Bonus section"
+    },
+    {
+      "keyword": "lunubet ireland",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "Natural mentions, licensing section"
+    },
+    {
+      "keyword": "is lunubet legit",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "FAQ question"
+    },
+    {
+      "keyword": "lunubet withdrawal",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H3 - Payment methods subsection"
+    },
+    {
+      "keyword": "lunubet odds",
+      "volume": 0,
+      "difficulty": null,
+      "placement": "H3 - Betting markets and odds section"
+    }
+  ],
+
+  "total_search_volume": 2480,
+  "volume_increase_percentage": "396%",
+
+  "competitor_analysis": {
+    "top_ranking_page": {
+      "url": "https://www.betinireland.ie/reviews/lunubet-sports/",
+      "position": 5,
+      "domain_rating": 66,
+      "estimated_word_count": "2500-3000",
+      "brands_covered": 1,
+      "key_sections_observed": [
+        "Unable to access due to 503 error",
+        "Assumed standard review structure based on Template 1"
+      ]
+    },
+    "competitors": [
+      {
+        "domain": "betinireland.ie",
+        "position": 5,
+        "dr": 66,
+        "strengths": "Ireland-specific focus, local regulatory expertise",
+        "gaps": "Limited detail, older content structure"
+      },
+      {
+        "domain": "trustpilot.com",
+        "position": 2,
+        "dr": 94,
+        "strengths": "User reviews, credibility",
+        "gaps": "Not comprehensive review, just ratings"
+      },
+      {
+        "domain": "casinogrounds.com",
+        "position": 6,
+        "dr": 52,
+        "strengths": "Casino focus",
+        "gaps": "Minimal sports betting coverage"
+      }
+    ],
+    "content_gaps": [
+      "Comprehensive mobile app analysis",
+      "Detailed payment methods comparison",
+      "Ireland-specific betting markets (GAA, rugby)",
+      "In-depth bonus terms breakdown",
+      "Comparison with top Ireland bookmakers",
+      "Live betting and in-play features",
+      "Customer service quality analysis",
+      "Responsible gambling tools specific to Ireland"
+    ]
+  },
+
+  "brand_selection": {
+    "primary_brand": {
+      "name": "Lunubet",
+      "position": 1,
+      "rationale": "Subject of single-brand review (Template 1)",
+      "badge_code": "LNB",
+      "color": "#FF6B35",
+      "regulatory_status": "Licensed in Curacao",
+      "ireland_availability": "Yes - accepts Irish players"
+    },
+    "comparison_brands": [
+      {
+        "name": "Bet365",
+        "reason": "Market leader in Ireland, comparison reference"
+      },
+      {
+        "name": "BoyleSports",
+        "reason": "Irish-owned operator, local alternative"
+      },
+      {
+        "name": "Paddy Power",
+        "reason": "Major Irish bookmaker, industry benchmark"
+      }
+    ]
+  },
+
+  "content_sections": [
+    {
+      "section": "Header & Introduction",
+      "word_count": "200-250",
+      "keywords": ["lunubet review", "lunubet sport", "betting ireland"],
+      "requirements": [
+        "Last Updated badge",
+        "Affiliate disclosure",
+        "Quick answer (best for what?)",
+        "Regulatory status mention"
+      ]
+    },
+    {
+      "section": "Rating Summary",
+      "word_count": "150-200",
+      "keywords": ["lunubet"],
+      "requirements": [
+        "Overall star rating",
+        "Pros (3-5 bullets)",
+        "Cons (3-5 bullets)",
+        "Best for statement",
+        "Alternative recommendations"
+      ]
+    },
+    {
+      "section": "Comprehensive Feature Analysis",
+      "word_count": "800-1000",
+      "keywords": ["lunubet sport", "lunubet odds", "sports betting ireland"],
+      "subsections": [
+        {
+          "h3": "Sports Markets & Odds",
+          "words": "200-250",
+          "keywords": ["lunubet odds", "sports betting ireland"]
+        },
+        {
+          "h3": "Welcome Bonus & Promotions",
+          "words": "200-250",
+          "keywords": ["lunubet bonus"]
+        },
+        {
+          "h3": "User Interface & Account Setup",
+          "words": "150-200",
+          "keywords": ["lunubet login"]
+        },
+        {
+          "h3": "Payment Methods & Withdrawals",
+          "words": "150-200",
+          "keywords": ["lunubet withdrawal"]
+        },
+        {
+          "h3": "Customer Support",
+          "words": "100-150",
+          "keywords": ["lunubet"]
+        }
+      ]
+    },
+    {
+      "section": "Mobile App Experience",
+      "word_count": "300-400",
+      "keywords": ["lunubet app"],
+      "requirements": [
+        "iOS and Android availability",
+        "App Store ratings (if available)",
+        "Key mobile features",
+        "Navigation and UX",
+        "Live betting on mobile",
+        "Download links"
+      ]
+    },
+    {
+      "section": "Detailed Bonus Breakdown",
+      "word_count": "300-350",
+      "keywords": ["lunubet bonus"],
+      "requirements": [
+        "Welcome bonus details",
+        "Wagering requirements",
+        "Sport restrictions",
+        "Time limits",
+        "Comparison with Irish competitors",
+        "Real example walkthrough"
+      ]
+    },
+    {
+      "section": "Casino & Games Offering",
+      "word_count": "250-300",
+      "keywords": ["lunubet casino", "lunubet casino review"],
+      "requirements": [
+        "Casino games selection",
+        "Top game providers",
+        "Live casino options",
+        "Integration with sportsbook",
+        "Casino bonuses"
+      ]
+    },
+    {
+      "section": "Terms & Conditions Summary",
+      "word_count": "300-350",
+      "keywords": ["lunubet ireland"],
+      "requirements": [
+        "Age requirement (18+ in Ireland)",
+        "Licensing details",
+        "Account restrictions",
+        "Responsible gambling",
+        "Dispute resolution",
+        "Link to full T&Cs"
+      ]
+    },
+    {
+      "section": "Pros & Cons Summary",
+      "word_count": "200-250",
+      "keywords": ["lunubet review"],
+      "requirements": [
+        "3-5 detailed pros (30-50 words each)",
+        "3-5 detailed cons (30-50 words each)",
+        "Balanced analysis",
+        "Citations from Trustpilot/reviews"
+      ]
+    },
+    {
+      "section": "FAQ Section",
+      "word_count": "400-500",
+      "keywords": ["is lunubet legit", "lunubet ireland"],
+      "questions": [
+        "Is Lunubet legal and safe in Ireland?",
+        "What is Lunubet's welcome bonus?",
+        "What sports can I bet on at Lunubet?",
+        "How do I withdraw from Lunubet?",
+        "Is Lunubet available on mobile?",
+        "Does Lunubet accept Irish players?",
+        "How does Lunubet compare to Bet365?",
+        "What payment methods does Lunubet accept?"
+      ]
+    },
+    {
+      "section": "Final Recommendation",
+      "word_count": "100-150",
+      "keywords": ["lunubet review"],
+      "requirements": [
+        "Clear verdict",
+        "Who should use Lunubet",
+        "Who should consider alternatives",
+        "CTA with affiliate link"
+      ]
+    }
+  ],
+
+  "internal_links": [
+    {
+      "anchor": "best betting sites in Ireland",
+      "url": "/sport/betting/ireland/betting-hub.htm",
+      "context": "Comparison with other Irish bookmakers"
+    },
+    {
+      "anchor": "sports betting in Ireland",
+      "url": "/sport/betting/ireland/",
+      "context": "Irish betting market overview"
+    },
+    {
+      "anchor": "Bet365 Ireland review",
+      "url": "/sport/betting/ireland/bet365-review.htm",
+      "context": "Competitor comparison"
+    },
+    {
+      "anchor": "BoyleSports review",
+      "url": "/sport/betting/ireland/boylesports-review.htm",
+      "context": "Irish alternative comparison"
+    },
+    {
+      "anchor": "Paddy Power review",
+      "url": "/sport/betting/ireland/paddypower-review.htm",
+      "context": "Major Irish competitor"
+    },
+    {
+      "anchor": "betting odds explained",
+      "url": "/sport/betting/odds.htm",
+      "context": "Understanding odds section"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/calculators/parlay.htm",
+      "context": "Betting tools section"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/calculators/odds.htm",
+      "context": "Betting tools section"
+    },
+    {
+      "anchor": "responsible gambling Ireland",
+      "url": "/sport/betting/ireland/responsible-gambling.htm",
+      "context": "Responsible gambling section"
+    },
+    {
+      "anchor": "how to bet on GAA",
+      "url": "/sport/betting/ireland/gaa-betting.htm",
+      "context": "Ireland-specific sports"
+    },
+    {
+      "anchor": "rugby betting Ireland",
+      "url": "/sport/betting/ireland/rugby-betting.htm",
+      "context": "Popular Irish sport"
+    },
+    {
+      "anchor": "live betting guide",
+      "url": "/sport/betting/live-betting.htm",
+      "context": "Live betting features"
+    }
+  ],
+
+  "compliance_notes": {
+    "market": "Ireland",
+    "age_requirement": "18+",
+    "regulatory_body": "Gambling Regulatory Authority of Ireland",
+    "helpline": "Dunlewey Addiction Services: 1800 911 029",
+    "additional_resources": [
+      "Problem Gambling Ireland: www.problemgambling.ie",
+      "Gamblers Anonymous Ireland: www.gamblersanonymous.ie"
+    ],
+    "currency": "EUR",
+    "licensing_note": "Lunubet operates under Curacao license - Ireland legislation pending"
+  },
+
+  "strategic_direction": [
+    "Position as comprehensive Ireland-focused Lunubet review",
+    "Emphasize Ireland-specific features (GAA, rugby markets)",
+    "Compare favorably with established Irish bookmakers",
+    "Highlight mobile experience for Irish users",
+    "Address legitimacy concerns (Curacao license vs Irish operators)",
+    "Provide detailed bonus analysis in EUR currency",
+    "Include payment methods popular in Ireland",
+    "Focus on responsible gambling with Irish resources"
+  ],
+
+  "technical_requirements": [
+    "Last Updated badge with current date",
+    "Affiliate disclosure box (Ireland-compliant)",
+    "Rating summary card with visual stars",
+    "Pros/Cons comparison table",
+    "Bonus terms breakdown table",
+    "Payment methods comparison",
+    "FAQ schema markup",
+    "Breadcrumb schema",
+    "Article schema with Ireland locale",
+    "Mobile app download buttons (iOS/Android)",
+    "Responsible gambling footer section",
+    "Currency converter (if bonus in different currency)",
+    "Comparison table with Irish competitors"
+  ],
+
+  "research_sources": [
+    {
+      "type": "primary",
+      "source": "Lunubet.com official website",
+      "use": "Features, bonuses, terms verification"
+    },
+    {
+      "type": "primary",
+      "source": "Trustpilot Lunubet reviews",
+      "use": "User feedback, pros/cons"
+    },
+    {
+      "type": "primary",
+      "source": "App Store / Google Play (if available)",
+      "use": "Mobile app ratings and reviews"
+    },
+    {
+      "type": "secondary",
+      "source": "Problem Gambling Ireland",
+      "use": "Responsible gambling information"
+    },
+    {
+      "type": "secondary",
+      "source": "r/irishbetting subreddit",
+      "use": "User opinions and experiences"
+    },
+    {
+      "type": "verification",
+      "source": "Curacao Gaming Authority",
+      "use": "License verification"
+    }
+  ],
+
+  "notes": [
+    "Ireland market has different regulations than USA/UK",
+    "18+ age requirement (not 21+)",
+    "Currency in EUR throughout",
+    "Focus on GAA and rugby markets (Ireland-specific)",
+    "Lunubet is smaller operator - manage expectations",
+    "Curacao license (not Irish) - address in legitimacy section",
+    "Limited keyword volume - rely on broader Ireland betting terms",
+    "Compare with established Irish brands (Paddy Power, BoyleSports)"
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "page_name": "uk-free-bets",
+  "url": "https://www.topendsports.com/sport/betting/uk/free-bets.htm",
+  "writer": "Lewis Humphries",
+  "template": 2,
+  "word_count_target": 8000,
+  "h1": "Free Bets UK - Best No Deposit Offers & Welcome Bonuses",
+  "meta_title": "Free Bets UK 2025: Best No Deposit Offers & Welcome Bonuses",
+  "meta_description": "Discover the best free bets UK with our comprehensive comparison of no deposit offers, welcome bonuses, and free bet offers from 7 top bookmakers. Updated daily.",
+  "meta_keywords": "free bets uk, free bets no deposit, free bets today, best free bets, betting offers uk, matched betting uk, sign up offers betting, free bet offers uk, free bet no deposit uk, free betting offers uk, free spins betting, bookmaker free bets, betting bonus codes, betting company offers, best free bets uk, free betting sites uk",
+  "intro": {
+    "format": "Direct answer (40-50w) + Affiliate disclosure (50-75w)",
+    "word_count": "100-150",
+    "opening_sentence": "The best free bets UK are offered by Bet442, LuckyMate, and NRGbet, with welcome bonuses ranging from £10 to £50 and competitive wagering requirements verified through direct testing.",
+    "forbidden": ["Welcome to...", "Looking for...", "Rhetorical questions"]
+  },
+  "content_outline": [
+    {
+      "section": "H1",
+      "title": "Free Bets UK - Best No Deposit Offers & Welcome Bonuses",
+      "notes": "NO dated language in H1 - use Last Updated badge after H1"
+    },
+    {
+      "section": "Last Updated Badge",
+      "html": "<div style=\"background: #e8f5e9; padding: 0.75rem 1rem; border-left: 4px solid #2e7d32; margin: 1rem 0;\"><p style=\"margin: 0; font-size: 14px;\"><strong>Last Updated:</strong> December 15, 2025</p></div>",
+      "notes": "Place immediately after H1"
+    },
+    {
+      "section": "Introduction",
+      "word_count": "100-150",
+      "requirements": [
+        "Direct answer with top 3 brands",
+        "Authority statement",
+        "Affiliate disclosure (50-75 words)",
+        "Link to 'best betting sites UK' and 'betting apps UK'"
+      ]
+    },
+    {
+      "section": "Quick Answer Box",
+      "word_count": "75-100",
+      "content": "Summary of findings - top free bet offer, best no deposit bonus, best for matched betting"
+    },
+    {
+      "section": "Comparison Table",
+      "word_count": "300-400",
+      "columns": [
+        "Bookmaker",
+        "Free Bet Offer",
+        "No Deposit Bonus",
+        "Min Odds",
+        "Wagering Req",
+        "Expiry",
+        "Mobile App"
+      ],
+      "notes": "Include all 7 brands with sortable functionality"
+    },
+    {
+      "section": "H2",
+      "title": "Best Free Bets UK - Top Offers Compared",
+      "word_count": "400-500",
+      "keyword_target": "best free bets (700/mo)",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Free Bet Offers UK - How to Claim",
+          "word_count": "200-250",
+          "keyword_target": "free bet offers uk (300/mo)",
+          "content": "Step-by-step claiming process, verification requirements, timing"
+        },
+        {
+          "section": "H3",
+          "title": "Betting Company Offers - Established vs New",
+          "word_count": "150-200",
+          "keyword_target": "betting company offers (100/mo)",
+          "content": "Comparison of legacy bookmakers vs new entrants, offer quality differences"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Free Bets No Deposit UK - Best No Risk Offers",
+      "word_count": "500-600",
+      "keyword_target": "free bets no deposit (1000/mo)",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Free Bet No Deposit UK - Risk-Free Options",
+          "word_count": "200-250",
+          "keyword_target": "free bet no deposit uk (200/mo)",
+          "content": "Which bookmakers offer true no deposit bonuses, requirements, limitations"
+        },
+        {
+          "section": "H3",
+          "title": "Free Betting Offers UK - Terms Explained",
+          "word_count": "200-250",
+          "keyword_target": "free betting offers uk (200/mo)",
+          "content": "Wagering requirements breakdown, stake not returned rule, playthrough calculations"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Free Bets Today - Daily Updated Offers",
+      "word_count": "400-500",
+      "keyword_target": "free bets today (700/mo)",
+      "content": "Current active promotions, time-limited offers, daily refresh schedule",
+      "interactive_element": "Expiry Tracker with countdown for time-sensitive offers"
+    },
+    {
+      "section": "H2",
+      "title": "Betting Offers UK - Welcome Bonuses",
+      "word_count": "600-700",
+      "keyword_target": "betting offers uk (600/mo)",
+      "content": "Comprehensive comparison of welcome bonus structures across all 7 brands"
+    },
+    {
+      "section": "H2",
+      "title": "Sign Up Offers Betting - New Customer Deals",
+      "word_count": "500-600",
+      "keyword_target": "sign up offers betting (450/mo)",
+      "content": "New customer exclusive offers, first bet insurance, matched deposit bonuses",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Free Spins Betting - Casino Crossover Bonuses",
+          "word_count": "200-250",
+          "keyword_target": "free spins betting (200/mo)",
+          "content": "Bookmakers offering combined sports free bets + casino free spins"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Brand Reviews",
+      "notes": "7 brand sections, each 500-700 words",
+      "brands": [
+        {
+          "name": "Bet442",
+          "position": 1,
+          "word_count": "600-700",
+          "structure": [
+            "Overview (100-150w)",
+            "Free Bet Welcome Offer (150-200w)",
+            "Wagering Requirements (100-150w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ],
+          "internal_link": "Bet442 review"
+        },
+        {
+          "name": "LuckyMate",
+          "position": 2,
+          "word_count": "600-700",
+          "structure": [
+            "Overview (100-150w)",
+            "Free Bet Bonus Structure (150-200w)",
+            "Claim Process (100-150w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ],
+          "internal_link": "LuckyMate review"
+        },
+        {
+          "name": "NRGbet",
+          "position": 3,
+          "word_count": "500-600",
+          "structure": [
+            "Overview (75-100w)",
+            "No Deposit Free Bet (150-200w)",
+            "Daily Free Bet Offers (100-150w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ]
+        },
+        {
+          "name": "Myriadplay",
+          "position": 4,
+          "word_count": "500-600",
+          "structure": [
+            "Overview (75-100w)",
+            "Multi-Product Bonus (150-200w)",
+            "Free Spins + Free Bets Combo (100-150w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ]
+        },
+        {
+          "name": "7Bet",
+          "position": 5,
+          "word_count": "400-500",
+          "structure": [
+            "Overview (75-100w)",
+            "Matched Free Bet Offer (150-200w)",
+            "Low Odds Requirements (75-100w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ]
+        },
+        {
+          "name": "Mr Luck",
+          "position": 6,
+          "word_count": "400-500",
+          "structure": [
+            "Overview (75-100w)",
+            "No-Frills Free Bet (150-200w)",
+            "Instant Crediting (75-100w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ]
+        },
+        {
+          "name": "MogoBet",
+          "position": 7,
+          "word_count": "400-500",
+          "structure": [
+            "Overview (75-100w)",
+            "Welcome + Weekly Free Bets (150-200w)",
+            "Retention Bonus Program (75-100w)",
+            "Mobile Experience (100-150w)",
+            "Payment Methods (50-75w)",
+            "Pros & Cons (50-75w)"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Matched Betting UK - How to Maximize Free Bets",
+      "word_count": "500-600",
+      "keyword_target": "matched betting uk (600/mo)",
+      "content": "Matched betting strategy explained, risk-free profit from free bets, tools and calculators needed",
+      "internal_links": [
+        "matched betting guide",
+        "free bet calculator",
+        "odds calculator"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Free Bet Calculator & Tools",
+      "word_count": "400-500",
+      "content": "How to calculate real returns (stake not returned), wagering requirement calculators",
+      "interactive_elements": [
+        "Free Bet Calculator (embedded)",
+        "Wagering Requirement Calculator"
+      ],
+      "internal_links": [
+        "free bet calculator",
+        "odds calculator",
+        "accumulator calculator"
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Payment Methods for Free Bet Claims",
+      "word_count": "300-400",
+      "content": "UK-specific payment methods, credit card ban (April 2020), Faster Payments, Bacs, e-wallet exclusions from bonuses",
+      "table": "Payment method comparison showing which qualify for free bet offers"
+    },
+    {
+      "section": "H2",
+      "title": "Sport-Specific Free Bet Offers",
+      "word_count": "400-500",
+      "subsections": [
+        {
+          "section": "H3",
+          "title": "Football Free Bets",
+          "word_count": "150-175",
+          "content": "Premier League welcome offers, Champions League promotions",
+          "internal_link": "football betting UK"
+        },
+        {
+          "section": "H3",
+          "title": "Horse Racing Free Bets",
+          "word_count": "150-175",
+          "content": "Cheltenham, Grand National, Royal Ascot specific offers",
+          "internal_link": "horse racing betting"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "How We Test & Rank Free Bet Offers",
+      "word_count": "400-500",
+      "content": "Methodology: bonus amount (25%), wagering requirements (25%), minimum odds (20%), expiry time (15%), claim process (15%)",
+      "transparency": "Testing period, conflicts of interest disclosure, update frequency"
+    },
+    {
+      "section": "H2",
+      "title": "UK Free Bet Regulations",
+      "word_count": "300-400",
+      "content": [
+        "UKGC licensing requirements",
+        "Free bets cannot be withdrawn as cash (Gambling Act 2005)",
+        "Stake not returned with winnings",
+        "ASA compliance - no misleading advertising",
+        "Tax-free winnings for consumers"
+      ]
+    },
+    {
+      "section": "FAQs",
+      "word_count": "1200-1600",
+      "count": 10,
+      "questions": [
+        {
+          "question": "Which bookmakers offer the best free bets?",
+          "keyword_target": "bookmaker free bets (150/mo)",
+          "word_count": "150-200",
+          "answer_focus": "Bet442, LuckyMate, NRGbet comparison with specific offer amounts"
+        },
+        {
+          "question": "Do I need a betting bonus code?",
+          "keyword_target": "betting bonus codes (100/mo)",
+          "word_count": "150-200",
+          "answer_focus": "Which bookmakers require codes vs automatic activation, how to find codes"
+        },
+        {
+          "question": "What are the best free bets UK right now?",
+          "keyword_target": "best free bets uk (80/mo)",
+          "word_count": "150-200",
+          "answer_focus": "Current top 3 offers with amounts and requirements"
+        },
+        {
+          "question": "Are there completely free betting sites UK?",
+          "keyword_target": "free betting sites uk (30/mo)",
+          "word_count": "150-200",
+          "answer_focus": "True no deposit offers vs deposit-required bonuses, reality check"
+        },
+        {
+          "question": "How do free bet wagering requirements work?",
+          "keyword_target": "wagering requirements",
+          "word_count": "150-200",
+          "answer_focus": "1x vs 3x vs 5x rollover explained with examples"
+        },
+        {
+          "question": "Can I withdraw free bet winnings immediately?",
+          "keyword_target": "free bet withdrawal",
+          "word_count": "100-150",
+          "answer_focus": "Wagering completion required, stake not returned rule"
+        },
+        {
+          "question": "What are minimum odds requirements for free bets?",
+          "keyword_target": "minimum odds free bets",
+          "word_count": "100-150",
+          "answer_focus": "Evens (2.0) vs 1/2 (1.5) vs specific requirements by bookmaker"
+        },
+        {
+          "question": "How long do free bets last before expiring?",
+          "keyword_target": "free bet expiry",
+          "word_count": "100-150",
+          "answer_focus": "7-day standard, 14-day vs 30-day variations"
+        },
+        {
+          "question": "Can I use free bets on accumulators?",
+          "keyword_target": "accumulator free bets",
+          "word_count": "100-150",
+          "answer_focus": "Which bookmakers allow acca free bets, restrictions",
+          "internal_link": "accumulator calculator"
+        },
+        {
+          "question": "Are free bet winnings taxed in the UK?",
+          "keyword_target": "free bet tax uk",
+          "word_count": "100-150",
+          "answer_focus": "Tax-free for consumers, bookmakers pay tax"
+        }
+      ]
+    },
+    {
+      "section": "H2",
+      "title": "Responsible Gambling",
+      "word_count": "200-250",
+      "required_elements": [
+        "Age: 18+ (UK legal gambling age)",
+        "Helpline: National Gambling Helpline 0808 8020 133",
+        "GamStop link and explanation",
+        "GamCare link",
+        "BeGambleAware.org link",
+        "Self-exclusion options",
+        "Deposit limit tools"
+      ]
+    }
+  ],
+  "source_requirements": {
+    "tier_1_primary": [
+      "App Store ratings for mobile apps",
+      "Google Play ratings",
+      "Reddit UK betting communities (r/UKbetting, r/SoccerBetting)",
+      "Trustpilot reviews for UK bookmakers"
+    ],
+    "tier_2_verification": [
+      "Bookmaker official sites for T&Cs",
+      "UK Gambling Commission for licenses",
+      "ASA (Advertising Standards Authority) for compliance"
+    ],
+    "forbidden": [
+      "DO NOT cite affiliate sites for pros/cons",
+      "DO NOT use competitor sites as primary sources"
+    ]
+  },
+  "internal_links": [
+    {
+      "anchor": "best betting sites UK",
+      "url": "/sport/betting/uk/index.htm",
+      "context": "Introduction paragraph"
+    },
+    {
+      "anchor": "betting apps UK",
+      "url": "/sport/betting/uk/betting-apps.htm",
+      "context": "Mobile claim process in intro"
+    },
+    {
+      "anchor": "free bet calculator",
+      "url": "/sport/betting/calculators/free-bet-calculator.htm",
+      "context": "Calculator tools section"
+    },
+    {
+      "anchor": "odds calculator",
+      "url": "/sport/betting/calculators/odds-calculator.htm",
+      "context": "Minimum odds requirements explanation"
+    },
+    {
+      "anchor": "accumulator calculator",
+      "url": "/sport/betting/calculators/accumulator-calculator.htm",
+      "context": "Acca free bets FAQ"
+    },
+    {
+      "anchor": "matched betting",
+      "url": "/sport/betting/guides/matched-betting.htm",
+      "context": "Matched betting UK section"
+    },
+    {
+      "anchor": "Bet442 review",
+      "url": "/sport/betting/uk/bet442-review.htm",
+      "context": "Bet442 brand section"
+    },
+    {
+      "anchor": "LuckyMate review",
+      "url": "/sport/betting/uk/luckymate-review.htm",
+      "context": "LuckyMate brand section"
+    },
+    {
+      "anchor": "football betting UK",
+      "url": "/sport/betting/uk/football-betting.htm",
+      "context": "Football free bets subsection"
+    },
+    {
+      "anchor": "horse racing betting",
+      "url": "/sport/betting/uk/horse-racing-betting.htm",
+      "context": "Horse racing free bets subsection"
+    },
+    {
+      "anchor": "welcome bonuses UK",
+      "url": "/sport/betting/uk/welcome-bonuses.htm",
+      "context": "Related bonus types section"
+    },
+    {
+      "anchor": "no deposit bonuses",
+      "url": "/sport/betting/uk/no-deposit-bonuses.htm",
+      "context": "No deposit free bets section"
+    }
+  ],
+  "uk_compliance": {
+    "age": "18+",
+    "helpline": "National Gambling Helpline: 0808 8020 133",
+    "regulator": "UK Gambling Commission (UKGC)",
+    "responsible_gambling_links": [
+      "GamStop (self-exclusion)",
+      "GamCare",
+      "BeGambleAware.org"
+    ],
+    "payment_notes": "Credit card betting banned April 2020 - UK debit cards only",
+    "free_bet_law": "Free bets cannot be withdrawn as cash (Gambling Act 2005), stake not returned with winnings",
+    "taxation": "UK betting tax-free for consumers"
+  },
+  "interactive_elements": [
+    {
+      "type": "Free Bet Calculator",
+      "placement": "Free Bet Calculator & Tools section",
+      "functionality": "Calculate real returns (stake not returned)"
+    },
+    {
+      "type": "Wagering Requirement Calculator",
+      "placement": "Free Bet Calculator & Tools section",
+      "functionality": "Show true value after turnover requirements"
+    },
+    {
+      "type": "Comparison Table",
+      "placement": "After introduction",
+      "functionality": "Sortable by bonus amount, min odds, expiry, wagering"
+    },
+    {
+      "type": "Expiry Tracker",
+      "placement": "Free Bets Today section",
+      "functionality": "Visual countdown for time-limited offers"
+    }
+  ],
+  "mobile_experience_requirements": {
+    "per_brand": "100-150 words",
+    "required_elements": [
+      "App Store / Google Play ratings",
+      "Claim process on mobile",
+      "Free bet crediting speed",
+      "Wagering tracking on app",
+      "Push notifications for expiry warnings"
+    ]
+  },
+  "validation": {
+    "total_sections": 20,
+    "total_word_count": 8000,
+    "keyword_coverage": "15/15 secondary keywords mapped",
+    "faq_count": 10,
+    "internal_link_count": 12,
+    "brand_count": 7,
+    "mobile_sections": 7
+  }
+}
