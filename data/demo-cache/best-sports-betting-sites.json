@@ -1,0 +1,135 @@
+{
+  "url": "https://www.topendsports.com/sport/betting/index.htm",
+  "page_type": "comparison",
+  "primary_keyword": {
+    "keyword": "best sports betting sites",
+    "volume": 14800,
+    "difficulty": 78,
+    "cpc": 12.50,
+    "current_ranking": 15
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "best online sportsbooks",
+      "volume": 8100,
+      "difficulty": 72,
+      "placement": "H2"
+    },
+    {
+      "keyword": "legal sports betting sites",
+      "volume": 4400,
+      "difficulty": 65,
+      "placement": "H2"
+    },
+    {
+      "keyword": "best betting apps",
+      "volume": 6600,
+      "difficulty": 70,
+      "placement": "H2"
+    },
+    {
+      "keyword": "sports betting bonus",
+      "volume": 2900,
+      "difficulty": 55,
+      "placement": "H3"
+    },
+    {
+      "keyword": "best sportsbook promotions",
+      "volume": 1600,
+      "difficulty": 48,
+      "placement": "H3"
+    },
+    {
+      "keyword": "where to bet on sports online",
+      "volume": 880,
+      "difficulty": 42,
+      "placement": "H3"
+    },
+    {
+      "keyword": "best odds sportsbooks",
+      "volume": 720,
+      "difficulty": 45,
+      "placement": "H3"
+    },
+    {
+      "keyword": "fastest payout sportsbooks",
+      "volume": 590,
+      "difficulty": 38,
+      "placement": "H3"
+    },
+    {
+      "keyword": "sportsbook sign up bonus",
+      "volume": 1200,
+      "difficulty": 52,
+      "placement": "H3"
+    },
+    {
+      "keyword": "which sportsbook has the best odds",
+      "volume": 480,
+      "difficulty": 35,
+      "placement": "FAQ"
+    }
+  ],
+  "content_gap_keywords": [
+    {
+      "keyword": "sports betting welcome bonus",
+      "volume": 1900,
+      "difficulty": 50,
+      "top_competitor": "actionnetwork.com",
+      "competitor_position": 3
+    },
+    {
+      "keyword": "best parlay betting sites",
+      "volume": 1100,
+      "difficulty": 45,
+      "top_competitor": "covers.com",
+      "competitor_position": 5
+    },
+    {
+      "keyword": "same game parlay sportsbooks",
+      "volume": 890,
+      "difficulty": 40,
+      "top_competitor": "thelines.com",
+      "competitor_position": 4
+    }
+  ],
+  "faq_questions": [
+    "What is the best sports betting site?",
+    "Which sportsbook has the best odds?",
+    "Is online sports betting legal in my state?",
+    "How do I get a sports betting bonus?",
+    "What is the safest online sportsbook?",
+    "Which betting app pays out the fastest?"
+  ],
+  "competitors": [
+    {
+      "domain": "actionnetwork.com",
+      "url": "https://www.actionnetwork.com/betting/best-sports-betting-sites",
+      "position": 3,
+      "traffic": 125000,
+      "top_keyword": "best sports betting sites",
+      "keywords_in_common": 245
+    },
+    {
+      "domain": "covers.com",
+      "url": "https://www.covers.com/betting/sportsbooks",
+      "position": 5,
+      "traffic": 98000,
+      "top_keyword": "best online sportsbooks",
+      "keywords_in_common": 198
+    },
+    {
+      "domain": "thelines.com",
+      "url": "https://www.thelines.com/betting-sites/",
+      "position": 8,
+      "traffic": 45000,
+      "top_keyword": "sports betting sites",
+      "keywords_in_common": 156
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-02-06T12:00:00Z",
+    "demo_mode": true,
+    "notes": "Sample data for testing - not from live Ahrefs API"
+  }
+}

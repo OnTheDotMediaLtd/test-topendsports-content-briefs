@@ -1,0 +1,115 @@
+{
+  "url": "https://www.topendsports.com/sport/betting/best-apps.htm",
+  "page_type": "comparison",
+  "primary_keyword": {
+    "keyword": "best betting apps",
+    "volume": 6600,
+    "difficulty": 70,
+    "cpc": 8.75,
+    "current_ranking": 22
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "best sports betting apps",
+      "volume": 5400,
+      "difficulty": 68,
+      "placement": "H2"
+    },
+    {
+      "keyword": "top betting apps",
+      "volume": 2200,
+      "difficulty": 55,
+      "placement": "H2"
+    },
+    {
+      "keyword": "legal betting apps",
+      "volume": 1800,
+      "difficulty": 50,
+      "placement": "H3"
+    },
+    {
+      "keyword": "mobile sports betting",
+      "volume": 3200,
+      "difficulty": 62,
+      "placement": "H2"
+    },
+    {
+      "keyword": "betting app bonus",
+      "volume": 1100,
+      "difficulty": 45,
+      "placement": "H3"
+    },
+    {
+      "keyword": "easiest betting app to use",
+      "volume": 480,
+      "difficulty": 32,
+      "placement": "H3"
+    },
+    {
+      "keyword": "betting apps with best odds",
+      "volume": 390,
+      "difficulty": 38,
+      "placement": "H3"
+    },
+    {
+      "keyword": "live betting apps",
+      "volume": 720,
+      "difficulty": 42,
+      "placement": "H3"
+    }
+  ],
+  "content_gap_keywords": [
+    {
+      "keyword": "betting apps that accept paypal",
+      "volume": 880,
+      "difficulty": 35,
+      "top_competitor": "actionnetwork.com",
+      "competitor_position": 4
+    },
+    {
+      "keyword": "android betting apps",
+      "volume": 590,
+      "difficulty": 30,
+      "top_competitor": "covers.com",
+      "competitor_position": 6
+    }
+  ],
+  "faq_questions": [
+    "What is the best betting app?",
+    "Are betting apps legal?",
+    "Which betting app has the best bonuses?",
+    "How do I download a betting app?",
+    "Can I use multiple betting apps?"
+  ],
+  "competitors": [
+    {
+      "domain": "actionnetwork.com",
+      "url": "https://www.actionnetwork.com/betting/best-betting-apps",
+      "position": 4,
+      "traffic": 85000,
+      "top_keyword": "best betting apps",
+      "keywords_in_common": 178
+    },
+    {
+      "domain": "covers.com",
+      "url": "https://www.covers.com/betting/apps",
+      "position": 6,
+      "traffic": 62000,
+      "top_keyword": "betting apps",
+      "keywords_in_common": 145
+    },
+    {
+      "domain": "lineups.com",
+      "url": "https://www.lineups.com/betting/apps/",
+      "position": 9,
+      "traffic": 28000,
+      "top_keyword": "sports betting apps",
+      "keywords_in_common": 98
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-02-06T12:00:00Z",
+    "demo_mode": true,
+    "notes": "Sample data for testing - not from live Ahrefs API"
+  }
+}

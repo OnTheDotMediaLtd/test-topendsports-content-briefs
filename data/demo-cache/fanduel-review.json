@@ -1,0 +1,135 @@
+{
+  "url": "https://www.topendsports.com/sport/betting/fanduel-review.htm",
+  "page_type": "review",
+  "primary_keyword": {
+    "keyword": "fanduel sportsbook review",
+    "volume": 2400,
+    "difficulty": 58,
+    "cpc": 15.20,
+    "current_ranking": 18
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "fanduel review",
+      "volume": 4900,
+      "difficulty": 55,
+      "placement": "H2"
+    },
+    {
+      "keyword": "is fanduel legit",
+      "volume": 1600,
+      "difficulty": 35,
+      "placement": "H2"
+    },
+    {
+      "keyword": "fanduel promo code",
+      "volume": 18100,
+      "difficulty": 75,
+      "placement": "H2"
+    },
+    {
+      "keyword": "fanduel bonus",
+      "volume": 6600,
+      "difficulty": 65,
+      "placement": "H2"
+    },
+    {
+      "keyword": "fanduel app review",
+      "volume": 880,
+      "difficulty": 42,
+      "placement": "H3"
+    },
+    {
+      "keyword": "fanduel odds",
+      "volume": 1200,
+      "difficulty": 48,
+      "placement": "H3"
+    },
+    {
+      "keyword": "fanduel payout",
+      "volume": 720,
+      "difficulty": 38,
+      "placement": "H3"
+    },
+    {
+      "keyword": "fanduel customer service",
+      "volume": 590,
+      "difficulty": 30,
+      "placement": "H3"
+    },
+    {
+      "keyword": "fanduel vs draftkings",
+      "volume": 3600,
+      "difficulty": 52,
+      "placement": "H2"
+    },
+    {
+      "keyword": "fanduel same game parlay",
+      "volume": 1900,
+      "difficulty": 45,
+      "placement": "H3"
+    }
+  ],
+  "content_gap_keywords": [
+    {
+      "keyword": "fanduel withdrawal time",
+      "volume": 1100,
+      "difficulty": 35,
+      "top_competitor": "actionnetwork.com",
+      "competitor_position": 3
+    },
+    {
+      "keyword": "fanduel states",
+      "volume": 880,
+      "difficulty": 40,
+      "top_competitor": "covers.com",
+      "competitor_position": 5
+    },
+    {
+      "keyword": "fanduel deposit methods",
+      "volume": 480,
+      "difficulty": 28,
+      "top_competitor": "thelines.com",
+      "competitor_position": 7
+    }
+  ],
+  "faq_questions": [
+    "Is FanDuel a good sportsbook?",
+    "How long does FanDuel withdrawal take?",
+    "What states is FanDuel legal in?",
+    "Does FanDuel have good odds?",
+    "Is FanDuel better than DraftKings?",
+    "What is the FanDuel sign up bonus?"
+  ],
+  "competitors": [
+    {
+      "domain": "actionnetwork.com",
+      "url": "https://www.actionnetwork.com/betting/fanduel-sportsbook-review",
+      "position": 5,
+      "traffic": 42000,
+      "top_keyword": "fanduel sportsbook review",
+      "keywords_in_common": 125
+    },
+    {
+      "domain": "covers.com",
+      "url": "https://www.covers.com/betting/fanduel-review",
+      "position": 7,
+      "traffic": 35000,
+      "top_keyword": "fanduel review",
+      "keywords_in_common": 108
+    },
+    {
+      "domain": "rotowire.com",
+      "url": "https://www.rotowire.com/betting/fanduel-sportsbook-review/",
+      "position": 10,
+      "traffic": 18000,
+      "top_keyword": "fanduel promo",
+      "keywords_in_common": 76
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-02-06T12:00:00Z",
+    "demo_mode": true,
+    "notes": "Sample data for testing - not from live Ahrefs API"
+  }
+}
