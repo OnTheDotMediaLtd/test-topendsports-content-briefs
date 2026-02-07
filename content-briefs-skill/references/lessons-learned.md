@@ -384,3 +384,314 @@ For complete V3 requirements, see:
 - `references/phase2-writer.md` (Steps 6A-6E)
 - `references/quality-checklist.md` (V3 Mandatory Checks)
 - `references/hub-page-strategy.md` (Mobile Section Anti-Cannibalization)
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (8 occurrences): Repeated error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: test | Occurrences: 8*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (5 occurrences): Recurring API error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: test | Occurrences: 5*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (4 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: test_api | Occurrences: 4*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (31 occurrences): Error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: test | Occurrences: 31*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (30 occurrences): Recurring error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: recurring_source | Occurrences: 30*
+
+### Improve Process Reliability
+**Problem**: Process errors (15 occurrences): Critical system crash
+**Solution**: Add validation between phases. Implement better error recovery.
+*Category: process | Source: critical_source | Occurrences: 15*
+
+### Handle File Operations Safely
+**Problem**: File operation errors (5 occurrences): Single occurrence
+**Solution**: Check file existence before operations. Use absolute paths.
+*Category: file | Source: single | Occurrences: 5*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (14 occurrences): API error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: src1 | Occurrences: 14*
+
+### Handle File Operations Safely
+**Problem**: File operation errors (7 occurrences): File error
+**Solution**: Check file existence before operations. Use absolute paths.
+*Category: file | Source: src2 | Occurrences: 7*
+
+### Fix Recurring Test Failures
+**Problem**: Test failures (7 occurrences): Test error
+**Solution**: Review test expectations and fixtures. Consider edge cases.
+*Category: test | Source: src3 | Occurrences: 7*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (4 occurrences): Needs attention
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: test | Occurrences: 4*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (5 occurrences): For lessons
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: test | Occurrences: 5*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (20 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: test | Occurrences: 20*
+
+### Improve Input Validation
+**Problem**: Validation failures (20 occurrences): Missing field
+**Solution**: Add pre-validation checks before processing. Provide clearer error messages.
+*Category: validation | Source: test | Occurrences: 20*
+
+### Fix Recurring Test Failures
+**Problem**: Test failures (20 occurrences): Test assertion failed
+**Solution**: Review test expectations and fixtures. Consider edge cases.
+*Category: test | Source: test | Occurrences: 20*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Address Recurring test Error
+**Problem**: Repeated errors (4 occurrences): Error
+**Solution**: Investigate root cause and add appropriate handling.
+*Category: unknown | Source: test | Occurrences: 4*
+
+### Handle File Operations Safely
+**Problem**: File operation errors (5 occurrences): File not found error
+**Solution**: Check file existence before operations. Use absolute paths.
+*Category: file | Source: test | Occurrences: 5*
+
+### Improve Content Processing
+**Problem**: Content processing errors (5 occurrences): HTML parsing error
+**Solution**: Validate content structure before processing. Add format checks.
+*Category: content | Source: test | Occurrences: 5*
+
+### Improve Process Reliability
+**Problem**: Process errors (5 occurrences): Phase 2 generation error
+**Solution**: Add validation between phases. Implement better error recovery.
+*Category: process | Source: test | Occurrences: 5*
+
+### Address Recurring custom_source Error
+**Problem**: Repeated errors (5 occurrences): Unknown type error xyz
+**Solution**: Investigate root cause and add appropriate handling.
+*Category: unknown | Source: custom_source | Occurrences: 5*
+
+### Handle API Timeouts
+**Problem**: API calls timing out (5 occurrences)
+**Solution**: Implement retry with exponential backoff. Consider caching results.
+*Category: api | Source: test | Occurrences: 5*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (5 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: api_client | Occurrences: 5*
+
+### Improve Input Validation
+**Problem**: Validation failures (3 occurrences): Schema validation failed: missing field
+**Solution**: Add pre-validation checks before processing. Provide clearer error messages.
+*Category: validation | Source: validator | Occurrences: 3*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Address Recurring test Error
+**Problem**: Repeated errors (5 occurrences): Same error
+**Solution**: Investigate root cause and add appropriate handling.
+*Category: unknown | Source: test | Occurrences: 5*
+
+### Address Recurring test Error
+**Problem**: Repeated errors (30 occurrences): Repeated error
+**Solution**: Investigate root cause and add appropriate handling.
+*Category: unknown | Source: test | Occurrences: 30*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (5 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: test | Occurrences: 5*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Address Recurring test Error
+**Problem**: Repeated errors (10 occurrences): Recurring error
+**Solution**: Investigate root cause and add appropriate handling.
+*Category: unknown | Source: test | Occurrences: 10*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Address Recurring test Error
+**Problem**: Repeated errors (4 occurrences): Test error
+**Solution**: Investigate root cause and add appropriate handling.
+*Category: unknown | Source: test | Occurrences: 4*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (5 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: ahrefs_api | Occurrences: 5*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): API failure
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: ahrefs | Occurrences: 10*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (5 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: test_ahrefs | Occurrences: 5*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Timeouts
+**Problem**: API calls timing out (4 occurrences)
+**Solution**: Implement retry with exponential backoff. Consider caching results.
+*Category: api | Source: test | Occurrences: 4*
+
+### Handle File Operations Safely
+**Problem**: File operation errors (4 occurrences): File not found
+**Solution**: Check file existence before operations. Use absolute paths.
+*Category: file | Source: test | Occurrences: 4*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Improve Input Validation
+**Problem**: Validation failures (4 occurrences): Schema validation failed
+**Solution**: Add pre-validation checks before processing. Provide clearer error messages.
+*Category: validation | Source: test_validation | Occurrences: 4*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (4 occurrences): Persistent error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: test | Occurrences: 4*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (5 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: generate-brief | Occurrences: 5*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (4 occurrences): API error
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: ahrefs | Occurrences: 4*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Authentication Errors
+**Problem**: API calls failing with auth errors (5 occurrences)
+**Solution**: Use Python fallback (ahrefs-api.py) when MCP returns 403. Check API credentials and rate limits.
+*Category: api | Source: ahrefs_api | Occurrences: 5*
+
+### Handle File Operations Safely
+**Problem**: File operation errors (4 occurrences): File not found: template.docx
+**Solution**: Check file existence before operations. Use absolute paths.
+*Category: file | Source: docx_conversion | Occurrences: 4*
+
+### Improve Content Processing
+**Problem**: Content processing errors (4 occurrences): Invalid HTML structure
+**Solution**: Validate content structure before processing. Add format checks.
+*Category: content | Source: html_validation | Occurrences: 4*
+
+### Improve Input Validation
+**Problem**: Validation failures (3 occurrences): Missing required field: keywords
+**Solution**: Add pre-validation checks before processing. Provide clearer error messages.
+*Category: validation | Source: phase_validation | Occurrences: 3*
+
+
+## Auto-Generated Lessons (2026-02-07)
+*Generated from error pattern analysis*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): Error type 0
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_0 | Occurrences: 10*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): Error type 1
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_1 | Occurrences: 10*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): Error type 2
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_2 | Occurrences: 10*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): Error type 3
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_3 | Occurrences: 10*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): Error type 4
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_4 | Occurrences: 10*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (10 occurrences): Error type 0
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_5 | Occurrences: 10*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (9 occurrences): Error type 1
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_6 | Occurrences: 9*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (9 occurrences): Error type 2
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_7 | Occurrences: 9*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (9 occurrences): Error type 3
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_8 | Occurrences: 9*
+
+### Handle API Errors Gracefully
+**Problem**: API errors occurring (9 occurrences): Error type 4
+**Solution**: Add error handling and fallback mechanisms for API calls.
+*Category: api | Source: source_9 | Occurrences: 9*
