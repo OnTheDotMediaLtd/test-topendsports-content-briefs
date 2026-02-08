@@ -1,0 +1,201 @@
+{
+  "page_name": "hungary-index",
+  "url": "https://www.topendsports.com/sport/betting/hungary/index.htm",
+  "market": "Hungary",
+  "content_language": "Hungarian",
+  "page_title": "Legjobb Fogadoirodak Magyarorszagon",
+  "writer": "Andre Borg",
+  "priority": "Critical",
+  "template_type": 2,
+  "primary_keyword": {
+    "keyword": "legjobb fogadoirodak",
+    "volume": 150,
+    "difficulty": 27,
+    "traffic_potential": 800
+  },
+  "secondary_keywords": [
+    {
+      "keyword": "sportfogadas",
+      "volume": 18000,
+      "difficulty": 71,
+      "traffic_potential": 25000,
+      "placement": "H2: Sportfogadas Magyarorszagon - Teljes Utmutato"
+    },
+    {
+      "keyword": "tippmix",
+      "volume": 202000,
+      "difficulty": 10,
+      "traffic_potential": 280000,
+      "placement": "H2: Tippmix es Online Fogadas - Mit Valassz?"
+    },
+    {
+      "keyword": "tippmix online",
+      "volume": 1900,
+      "difficulty": 36,
+      "traffic_potential": 3500,
+      "placement": "H3: Tippmix Online vs Nemzetkozi Fogadoirodak"
+    },
+    {
+      "keyword": "online sportfogadas",
+      "volume": 1800,
+      "difficulty": 67,
+      "traffic_potential": 3200,
+      "placement": "H2: Online Sportfogadas - Legalis es Biztonsagos Lehetosegek"
+    },
+    {
+      "keyword": "online fogadas",
+      "volume": 1400,
+      "difficulty": 69,
+      "traffic_potential": 2800,
+      "placement": "H2: Online Fogadas Alapjai Kezdoknek"
+    },
+    {
+      "keyword": "sportfogadas tippek",
+      "volume": 600,
+      "difficulty": 68,
+      "traffic_potential": 1200,
+      "placement": "H3: Sportfogadasi Tippek es Strategiak"
+    },
+    {
+      "keyword": "elo fogadas",
+      "volume": 450,
+      "difficulty": 55,
+      "traffic_potential": 900,
+      "placement": "H2: Elo Fogadas - Valos Ideju Fogadasi Lehetosegek"
+    },
+    {
+      "keyword": "fogadasi oldalak",
+      "volume": 300,
+      "difficulty": 62,
+      "traffic_potential": 650,
+      "placement": "H2: Legjobb Fogadasi Oldalak Osszehasonlitasa"
+    },
+    {
+      "keyword": "foci fogadas",
+      "volume": 250,
+      "difficulty": 74,
+      "traffic_potential": 550,
+      "placement": "H3: Foci Fogadas - Bajnoksagok es Fogadasi Piacok"
+    },
+    {
+      "keyword": "tenisz fogadas",
+      "volume": 200,
+      "difficulty": 19,
+      "traffic_potential": 450,
+      "placement": "H3: Tenisz Fogadas - ATP es WTA Piacok"
+    },
+    {
+      "keyword": "legalis fogadoirodak",
+      "volume": 150,
+      "difficulty": 5,
+      "traffic_potential": 350,
+      "placement": "H2: Legalis Fogadoirodak Magyarorszagon"
+    },
+    {
+      "keyword": "legjobb fogadasi oldalak",
+      "volume": 40,
+      "difficulty": 52,
+      "traffic_potential": 120,
+      "placement": "FAQ: Melyek a legjobb fogadasi oldalak Magyarorszagon?"
+    }
+  ],
+  "total_keyword_volume": 227240,
+  "volume_increase_percentage": 151427,
+  "brands": [
+    {
+      "name": "DirectionBet",
+      "position": 1,
+      "review_url": "/sport/betting/hungary/directionbet-fogadoiroda.htm",
+      "rationale": "Position #1 - Strong European operator with excellent Hungarian language support and competitive odds. Modern platform with comprehensive sports coverage including Hungarian league football."
+    },
+    {
+      "name": "LegendPlay",
+      "position": 2,
+      "review_url": "/sport/betting/hungary/legendplay-fogadoiroda.htm",
+      "rationale": "Position #2 - Growing operator with attractive welcome bonuses and strong mobile experience. Popular with Hungarian bettors for live betting features."
+    },
+    {
+      "name": "Betalright",
+      "position": 3,
+      "review_url": "/sport/betting/hungary/betalright-fogadoiroda.htm",
+      "rationale": "Position #3 - Modern betting platform with excellent user interface. Good variety of payment methods including Hungarian-preferred options."
+    },
+    {
+      "name": "Festival Play",
+      "position": 4,
+      "review_url": "/sport/betting/hungary/festivalplay-fogadoiroda.htm",
+      "rationale": "Position #4 - Strong focus on football and European sports markets. Competitive odds on Hungarian NB I matches."
+    },
+    {
+      "name": "RoyalistPlay",
+      "position": 5,
+      "review_url": "/sport/betting/hungary/royalistplay-fogadoiroda.htm",
+      "rationale": "Position #5 - All-round operator with sportsbook and casino integration. Good customer support with Hungarian language options."
+    }
+  ],
+  "competitors_analyzed": [
+    {
+      "domain": "sportfogadas.org",
+      "position": 1,
+      "analysis": "Hungarian-language betting comparison site. Comprehensive coverage of international bookmakers accepting Hungarian players. Features detailed reviews, bonus comparisons, and sports-specific guides.",
+      "word_count_estimate": 6000,
+      "brand_count": 15,
+      "key_strengths": "Local language content, extensive bonus guides, sport-specific sections"
+    },
+    {
+      "domain": "fogadasok.guru",
+      "position": 2,
+      "analysis": "Hungarian betting tips and bookmaker reviews. Strong focus on football predictions and betting strategies. Active community engagement.",
+      "word_count_estimate": 5500,
+      "brand_count": 12,
+      "key_strengths": "Betting tips integration, football focus, user reviews"
+    },
+    {
+      "domain": "mightytips.bet/fogadoirodak/",
+      "position": 3,
+      "analysis": "International affiliate with Hungarian market section. Professional design with detailed bookmaker comparisons and current promotions.",
+      "word_count_estimate": 7000,
+      "brand_count": 20,
+      "key_strengths": "Professional design, comprehensive bonus tracking, multi-sport coverage"
+    }
+  ],
+  "content_gaps": [
+    "Interactive comparison table with real-time filtering by features (payment methods, sports offered, minimum deposit)",
+    "Hungarian football betting-specific section (NB I, Hungarian Cup, national team)",
+    "Payment methods deep-dive (Hungarian players prefer certain methods like bank transfer, Revolut)",
+    "Mobile app comparison with localized App Store ratings",
+    "Welcome bonus calculator tool in Hungarian",
+    "Handball betting focus (Hungary has strong handball tradition)",
+    "Water polo betting (Hungary is world power in water polo)",
+    "Live betting feature comparison with Hungarian commentary",
+    "Withdrawal speed comparison (critical for Hungarian players)",
+    "Customer support availability (Hungarian language support, local hours)",
+    "SZTFH regulatory information for player protection"
+  ],
+  "competitive_target": {
+    "word_count_minimum": 6500,
+    "word_count_target": 7500,
+    "brand_count": 5,
+    "rationale": "Match competitor depth with focused analysis on 5 quality brands. Provide comprehensive Hungarian-language content with localized payment and sports information."
+  },
+  "hungary_specific_considerations": {
+    "compliance_age": "18+ (Hungary legal gambling age)",
+    "regulatory_body": "SZTFH (Szerencsejatek Felugyelet - Hungarian Gambling Authority)",
+    "responsible_gambling_hotline": "Szerencsejatek Zrt. Segitovonal: 06-1-270-7990",
+    "key_sports": [
+      "Labdarugas/Foci (Football - NB I, Hungarian Cup, European competitions)",
+      "Kezilabda (Handball - Hungary is a handball powerhouse)",
+      "Vizilabda (Water Polo - Hungary is world champion)",
+      "Tenisz (Tennis - ATP/WTA)",
+      "Kosarlabda (Basketball)"
+    ],
+    "payment_preferences": [
+      "Bank Transfer (atutalas)",
+      "Credit/Debit Cards (Visa, Mastercard)",
+      "Revolut (very popular in Hungary)",
+      "Skrill/Neteller",
+      "Paysafecard"
+    ],
+    "tippmix_context": "Tippmix is the state-operated sports betting service by Szerencsejatek Zrt. International bookmakers offer alternative options with often better odds and more markets."
+  }
+}
