@@ -1,0 +1,19 @@
+{
+  "feedback_id": "auto-word_count-20260207-223016",
+  "timestamp": "2026-02-07T22:30:16.096061",
+  "source": "pattern_analyzer",
+  "category": "word_count",
+  "severity": "high",
+  "title": "Recurring Word_Count Violations",
+  "description": "[ALERT] Word Count Violations: 5 instances of articles below 800 words",
+  "root_cause": "Detected 5 occurrences in last 7 days",
+  "solution": "Review word count calculation. Ensure minimum 800 words before formatting. Add content if needed or flag for editorial review.",
+  "prevention": "\n## [!] COMMON MISTAKE: Word Count Violations\n\n**Issue:** Articles submitted with less than 800 words.\n\n**Prevention:**\n- ALWAYS calculate word count in Phase 1 BEFORE formatting\n- Add validation check: `if word_count < 800: flag_for_review`\n- Review content guidelines before each article\n- Use this checklist: \"Is word count >= 800?\"\n\n**Example Anti-Pattern:**\n[X] Formatting 650-word article without flagging\n[OK] Flagging short content for editorial expansion\n",
+  "examples": [
+    {
+      "file": "test.html",
+      "error": "word count low"
+    }
+  ],
+  "rationale": "Auto-generated from recurring validation failures"
+}

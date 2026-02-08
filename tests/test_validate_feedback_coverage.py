@@ -15,8 +15,16 @@ from io import StringIO
 from unittest.mock import patch, MagicMock, mock_open
 from dataclasses import asdict
 
-# Add scripts directory to path
-sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
+# Add scripts directory to path — insert at position 0 to override any same-name modules
+_scripts_dir = str(Path(__file__).parent.parent / "scripts")
+if _scripts_dir in sys.path:
+    sys.path.remove(_scripts_dir)
+sys.path.insert(0, _scripts_dir)
+
+# Force reimport from the correct scripts/ directory
+import importlib
+if 'validate_feedback' in sys.modules:
+    del sys.modules['validate_feedback']
 
 from validate_feedback import ValidationError, FeedbackValidator, main
 
