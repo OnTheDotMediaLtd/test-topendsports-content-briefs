@@ -1,5 +1,23 @@
 # TopEndSports Content Briefs - AI Instructions
 
+---
+
+## MANDATORY: Testing Rules (READ FIRST)
+
+**Before ANY code change, read `../TESTING-RULES.md` in the repos-test root.**
+
+Key rules:
+1. **Always update tests when you change code** - commit source + test changes together
+2. **Python 3.14 mocks**: Use `call.args[0]` NOT `call[0][0]` for mock.call_args_list
+3. **No emoji in Python**: Use `[OK]`/`[FAIL]` not unicode symbols (Windows cp1252)
+4. **Import everything**: Always `import os`, `import sys`, etc. in test files
+5. **Skip optional deps**: Use `@pytest.mark.skipif` for Playwright, etc.
+6. **Run tests before AND after**: `python -m pytest tests/ --tb=short -q`
+7. **Push after commit**: `git push origin <branch>` after every commit
+8. **Match actual API**: Read source files BEFORE writing/updating tests
+
+---
+
 **Last Updated:** December 16, 2025
 
 ## MANDATORY: READ BEFORE ANY BRIEF GENERATION
