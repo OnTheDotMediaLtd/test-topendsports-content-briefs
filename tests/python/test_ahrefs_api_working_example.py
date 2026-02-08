@@ -17,9 +17,9 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from ahrefs_api_working_example import (
     AhrefsAPI,
-    test_domain_rating,
-    test_metrics,
-    test_backlinks_stats,
+    test_domain_rating as _src_test_domain_rating,
+    test_metrics as _src_test_metrics,
+    test_backlinks_stats as _src_test_backlinks_stats,
     main,
     API_KEY,
     BASE_URL,
@@ -187,7 +187,7 @@ class TestDomainRatingHelper:
         mock_get.return_value = mock_data
 
         api = AhrefsAPI("test_key")
-        result = test_domain_rating(api, "example.com", "2025-01-01")
+        result = _src_test_domain_rating(api, "example.com", "2025-01-01")
 
         assert result == mock_data
         mock_get.assert_called_once_with('site-explorer/domain-rating', {
@@ -201,7 +201,7 @@ class TestDomainRatingHelper:
         mock_get.return_value = {"domain_rating": 85}
 
         api = AhrefsAPI("test_key")
-        test_domain_rating(api, "example.com", "2025-01-01")
+        _src_test_domain_rating(api, "example.com", "2025-01-01")
 
         captured = capsys.readouterr()
         assert "site-explorer/domain-rating" in captured.out
@@ -218,7 +218,7 @@ class TestMetricsHelper:
         mock_get.return_value = mock_data
 
         api = AhrefsAPI("test_key")
-        result = test_metrics(api, "example.com", "2025-01-01")
+        result = _src_test_metrics(api, "example.com", "2025-01-01")
 
         assert result == mock_data
         mock_get.assert_called_once_with('site-explorer/metrics', {
@@ -232,7 +232,7 @@ class TestMetricsHelper:
         mock_get.return_value = {"organic_traffic": 50000}
 
         api = AhrefsAPI("test_key")
-        test_metrics(api, "example.com", "2025-01-01")
+        _src_test_metrics(api, "example.com", "2025-01-01")
 
         captured = capsys.readouterr()
         assert "site-explorer/metrics" in captured.out
@@ -248,7 +248,7 @@ class TestBacklinksStatsHelper:
         mock_get.return_value = mock_data
 
         api = AhrefsAPI("test_key")
-        result = test_backlinks_stats(api, "example.com", "2025-01-01")
+        result = _src_test_backlinks_stats(api, "example.com", "2025-01-01")
 
         assert result == mock_data
         mock_get.assert_called_once_with('site-explorer/backlinks-stats', {
@@ -262,7 +262,7 @@ class TestBacklinksStatsHelper:
         mock_get.return_value = {"live_backlinks": 100000}
 
         api = AhrefsAPI("test_key")
-        test_backlinks_stats(api, "example.com", "2025-01-01")
+        _src_test_backlinks_stats(api, "example.com", "2025-01-01")
 
         captured = capsys.readouterr()
         assert "site-explorer/backlinks-stats" in captured.out
