@@ -128,24 +128,36 @@ When asked to "generate a brief" for ANY URL, you MUST:
 | Anti-Pattern | Why It's Wrong |
 |--------------|----------------|
 | Create only writer-brief.md | Missing Phase 1 research & Phase 3 technical |
-| Skip Ahrefs when MCP fails | Python workaround exists and WORKS |
-| Use estimated keyword data | Real data available via Python API |
+| Skip Ahrefs when both methods fail | Try MCP first, then Python fallback |
+| Use estimated keyword data | Real data available via MCP or Python API |
 | Skip Phase 3 AI Enhancement | Dev team needs HTML/code implementation |
 | Create 1 file instead of 6 | Brief is incomplete without all outputs |
 
 ---
 
-## 🔧 AHREFS FALLBACK PROTOCOL
+## 🔧 AHREFS RESEARCH PROTOCOL
 
-**When MCP returns 403/error:**
+**Two methods available. Try in order:**
 
-```bash
-# Use Python workaround - THIS WORKS
-python3 .claude/scripts/ahrefs-api.py keywords-explorer/overview \
-  '{"select":"keyword,volume,difficulty,traffic_potential","country":"us","keywords":"YOUR_KEYWORDS"}'
+### Method 1: MCP Tools (Preferred)
+```
+mcp__claude_ai_Ahrefs__keywords-explorer-overview
+  → select: "keyword,volume,difficulty,traffic_potential"
+  → country: "us"
+  → keywords: "YOUR_KEYWORDS"
 ```
 
-**NEVER skip keyword research. The Python fallback is always available.**
+### Method 2: Python Script (Fallback if MCP returns 403)
+```bash
+python .claude/scripts/ahrefs-api.py keywords-explorer/overview \
+  '{"select":"keyword,volume,difficulty,traffic_potential","country":"us","keywords":"YOUR_KEYWORDS"}'
+```
+Requires `AHREFS_API_KEY` env var (set as user env var or in `.env` file).
+
+### If BOTH fail with 403 "API units limit reached"
+The API key's per-key unit limit is exhausted. Ask user to increase limit at ahrefs.com > Account > API.
+
+**NEVER skip keyword research. At least one method should work.**
 
 ---
 
