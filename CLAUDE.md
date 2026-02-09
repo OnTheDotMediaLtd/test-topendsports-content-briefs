@@ -13,7 +13,7 @@ Key rules:
 4. **Import everything**: Always `import os`, `import sys`, etc. in test files
 5. **Skip optional deps**: Use `@pytest.mark.skipif` for Playwright, etc.
 6. **Run tests before AND after**: `python -m pytest tests/ --tb=short -q`
-7. **Push after commit**: `git push origin <branch>` after every commit
+7. **Push to default branch**: `git push origin main` — auto-merge workflow handles any branches
 8. **Match actual API**: Read source files BEFORE writing/updating tests
 
 ---
