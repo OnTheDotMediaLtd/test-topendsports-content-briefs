@@ -1,0 +1,22 @@
+{
+  // Configuration for markdownlint-cli2
+  "config": {
+    "extends": ".markdownlint.json"
+  },
+
+  // Glob patterns to ignore
+  "ignores": [
+    "**/node_modules/**",
+    "**/dist/**",
+    "**/build/**",
+    "**/coverage/**",
+    "**/.next/**",
+    "**/fixtures/**",
+    "**/test-fixtures/**"
+  ],
+
+  // Files to lint
+  "globs": [
+    "**/*.md"
+  ]
+}

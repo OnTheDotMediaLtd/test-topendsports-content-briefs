@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+
+# Coverage reports
+coverage/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Test fixtures (may have intentional lint issues)
+**/fixtures/
+**/test-fixtures/
+
+# Generated documentation
+docs/api/
+
+# Package manager locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
