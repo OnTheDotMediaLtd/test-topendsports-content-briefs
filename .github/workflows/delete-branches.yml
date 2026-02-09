@@ -1,0 +1,95 @@
+name: Auto-Merge and Delete Non-Main Branches
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  merge-and-delete:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Merge branch to main and delete
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const branchName = context.ref.replace('refs/heads/', '');
+            console.log(`Processing branch: ${branchName}`);
+
+            try {
+              const branchRef = await github.rest.git.getRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: `heads/${branchName}`
+              });
+              const branchSha = branchRef.data.object.sha;
+              console.log(`Branch SHA: ${branchSha}`);
+
+              const mainRef = await github.rest.git.getRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: 'heads/main'
+              });
+              const mainSha = mainRef.data.object.sha;
+              console.log(`Main SHA: ${mainSha}`);
+
+              try {
+                const merge = await github.rest.repos.merge({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  base: 'main',
+                  head: branchName,
+                  commit_message: `Auto-merge branch '${branchName}' into main\n\nThis branch was automatically merged to preserve work.\nOriginal branch has been deleted to maintain main-only workflow.`
+                });
+                console.log(`Merged ${branchName} into main: ${merge.data.sha}`);
+              } catch (mergeError) {
+                if (mergeError.status === 409) {
+                  console.log('Merge conflict detected - cannot auto-merge');
+                  await github.rest.issues.create({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    title: `⚠️ Merge conflict: ${branchName}`,
+                    body: `The branch \`${branchName}\` could not be automatically merged to main due to conflicts.\n\n**Manual action required:**\n1. Check out the branch locally\n2. Resolve conflicts\n3. Merge to main manually\n4. Delete the branch\n\nBranch SHA: \`${branchSha}\``,
+                    labels: ['automated', 'merge-conflict']
+                  });
+                  return;
+                } else if (mergeError.status === 204) {
+                  console.log('Branch is already up to date with main');
+                } else {
+                  throw mergeError;
+                }
+              }
+
+              await github.rest.git.deleteRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: `heads/${branchName}`
+              });
+              console.log(`Deleted branch: ${branchName}`);
+
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `✅ Branch merged and deleted: ${branchName}`,
+                body: `The branch \`${branchName}\` was automatically merged to main and then deleted.\n\n**This repository uses a main-only workflow.**\n\nAll work has been preserved on main. The branch was deleted to maintain a clean repository.`,
+                labels: ['automated', 'branch-merged']
+              });
+
+            } catch (error) {
+              console.log(`Error: ${error.message}`);
+              if (error.status !== 404) {
+                throw error;
+              }
+            }
