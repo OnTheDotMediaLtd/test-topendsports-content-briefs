@@ -1,0 +1,603 @@
+{
+  "page_info": {
+    "url": "/es/apuestas/futbol/mexico/index.htm",
+    "page_name": "mexico-matches",
+    "title": "Partidos de México - Calendario, Apuestas y Pronósticos",
+    "template": "Hub Page (National Team)",
+    "writer": "Gustavo Cantella",
+    "language": "Spanish",
+    "market": "USA Spanish speakers",
+    "word_count_target": 4500
+  },
+  "keyword_mapping": {
+    "primary": {
+      "keyword": "partidos de mexico",
+      "volume": 3000,
+      "placement": "H1",
+      "section_title": "Partidos de México - Calendario, Apuestas y Pronósticos"
+    },
+    "secondary_mapped": [
+      {
+        "keyword": "cuando juega mexico",
+        "volume": 29000,
+        "placement": "H2",
+        "section_title": "¿Cuándo Juega México? - Próximos Partidos"
+      },
+      {
+        "keyword": "mexico futbol",
+        "volume": 5000,
+        "placement": "H2",
+        "section_title": "México Fútbol - Competiciones Oficiales"
+      },
+      {
+        "keyword": "futbol mexico",
+        "volume": 4400,
+        "placement": "Natural",
+        "section_title": "Throughout content"
+      },
+      {
+        "keyword": "partido mexico hoy",
+        "volume": 2100,
+        "placement": "H2",
+        "section_title": "Partido de México Hoy - Información en Vivo"
+      },
+      {
+        "keyword": "mexico partidos",
+        "volume": 1900,
+        "placement": "H2",
+        "section_title": "Calendario de Partidos México 2026"
+      },
+      {
+        "keyword": "mexico copa oro",
+        "volume": 1500,
+        "placement": "H3",
+        "section_title": "México en Copa Oro"
+      },
+      {
+        "keyword": "mexico en vivo",
+        "volume": 500,
+        "placement": "H3",
+        "section_title": "Ver México en Vivo y Apostar"
+      },
+      {
+        "keyword": "mexico proximo partido",
+        "volume": 200,
+        "placement": "H3",
+        "section_title": "Próximo Partido de México"
+      },
+      {
+        "keyword": "calendario seleccion mexicana",
+        "volume": 150,
+        "placement": "H3",
+        "section_title": "Calendario Completo Selección Mexicana"
+      },
+      {
+        "keyword": "concacaf mexico",
+        "volume": 150,
+        "placement": "Natural",
+        "section_title": "Tournament sections"
+      },
+      {
+        "keyword": "apuestas mexico",
+        "volume": 150,
+        "placement": "H2",
+        "section_title": "Mejores Casas de Apuestas para México"
+      },
+      {
+        "keyword": "resultado mexico",
+        "volume": 100,
+        "placement": "FAQ",
+        "section_title": "¿Cuál fue el último resultado de México?"
+      },
+      {
+        "keyword": "seleccion mexicana partidos",
+        "volume": 90,
+        "placement": "Natural",
+        "section_title": "Introduction"
+      },
+      {
+        "keyword": "nations league mexico",
+        "volume": 90,
+        "placement": "H3",
+        "section_title": "México en Nations League CONCACAF"
+      },
+      {
+        "keyword": "marcador mexico",
+        "volume": 50,
+        "placement": "Natural",
+        "section_title": "Results section"
+      }
+    ],
+    "unmapped_keywords": "NONE",
+    "total_secondary_volume": 45280
+  },
+  "content_outline": {
+    "sections": [
+      {
+        "type": "H1",
+        "title": "Partidos de México - Calendario, Apuestas y Pronósticos",
+        "word_count": 0,
+        "target_keyword": "partidos de mexico"
+      },
+      {
+        "type": "badge",
+        "element": "Last Updated Badge",
+        "word_count": 0
+      },
+      {
+        "type": "intro",
+        "title": "Introduction",
+        "word_count_min": 100,
+        "word_count_max": 150,
+        "target_keywords": ["partidos de mexico", "seleccion mexicana partidos"],
+        "writer_must_cover": [
+          "Direct answer: Name top 3 sportsbooks for Mexico matches",
+          "Authority statement: Testing methodology mention",
+          "NO rhetorical questions",
+          "NO 'Welcome to...' or 'Looking for...'",
+          "Include link to México vs USA page in second paragraph"
+        ]
+      },
+      {
+        "type": "quick_answer",
+        "title": "Quick Answer Box",
+        "word_count_min": 75,
+        "word_count_max": 100,
+        "writer_must_cover": [
+          "Next scheduled match with date",
+          "Top sportsbook recommendation",
+          "Key betting tip for Mexico matches"
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "¿Cuándo Juega México? - Próximos Partidos",
+        "word_count_min": 350,
+        "word_count_max": 400,
+        "target_keyword": "cuando juega mexico",
+        "writer_must_cover": [
+          "Current competition Mexico is participating in",
+          "Next 3-5 scheduled matches with dates",
+          "How to find updated schedule information",
+          "Time zone consideration for US viewers"
+        ],
+        "subsections": [
+          {
+            "type": "H3",
+            "title": "Próximo Partido de México",
+            "word_count_min": 150,
+            "word_count_max": 200,
+            "target_keyword": "mexico proximo partido",
+            "writer_must_cover": [
+              "Specific date, time, and opponent",
+              "Where to watch (TV/streaming)",
+              "Current betting odds preview",
+              "Historical matchup record"
+            ]
+          },
+          {
+            "type": "H3",
+            "title": "Calendario Completo Selección Mexicana 2026",
+            "word_count_min": 200,
+            "word_count_max": 250,
+            "target_keyword": "calendario seleccion mexicana",
+            "writer_must_cover": [
+              "Full list of confirmed 2026 matches",
+              "Competition breakdown (friendlies, Nations League, qualifiers)",
+              "Note about schedule updates",
+              "Link to official federation calendar"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Partido de México Hoy - Información en Vivo",
+        "word_count_min": 250,
+        "word_count_max": 300,
+        "target_keyword": "partido mexico hoy",
+        "writer_must_cover": [
+          "How to check if Mexico plays today",
+          "Live betting options during matches",
+          "Real-time score tracking resources",
+          "Best sportsbooks for live Mexico betting"
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Mejores Casas de Apuestas para Partidos de México",
+        "word_count_min": 550,
+        "word_count_max": 600,
+        "target_keyword": "apuestas mexico",
+        "writer_must_cover": [
+          "Brief overview of each of 7 sportsbooks",
+          "Why each is good for Mexico/soccer betting",
+          "Current welcome bonus per sportsbook",
+          "Mobile app availability",
+          "Soccer market depth comparison"
+        ],
+        "brands": [
+          {
+            "position": 1,
+            "name": "FanDuel",
+            "word_count": 80,
+            "focus": "Best mobile app, excellent soccer markets"
+          },
+          {
+            "position": 2,
+            "name": "BetMGM",
+            "word_count": 80,
+            "focus": "Strong soccer coverage, MGM Rewards"
+          },
+          {
+            "position": 3,
+            "name": "DraftKings",
+            "word_count": 75,
+            "focus": "Best live betting for soccer"
+          },
+          {
+            "position": 4,
+            "name": "Caesars",
+            "word_count": 75,
+            "focus": "Strong soccer props, welcome bonus"
+          },
+          {
+            "position": 5,
+            "name": "bet365",
+            "word_count": 75,
+            "focus": "Global soccer expertise, live streaming"
+          },
+          {
+            "position": 6,
+            "name": "Fanatics",
+            "word_count": 70,
+            "focus": "FanCash rewards, growing soccer markets"
+          },
+          {
+            "position": 7,
+            "name": "BetRivers",
+            "word_count": 70,
+            "focus": "CONCACAF coverage, competitive odds"
+          }
+        ]
+      },
+      {
+        "type": "comparison_table",
+        "title": "Tabla Comparativa - Sportsbooks para México",
+        "brands": 7,
+        "columns": ["Sportsbook", "Mejor Para", "Bono Actual", "Calificación"]
+      },
+      {
+        "type": "H2",
+        "title": "México Fútbol - Competiciones Oficiales",
+        "word_count_min": 300,
+        "word_count_max": 350,
+        "target_keyword": "mexico futbol",
+        "writer_must_cover": [
+          "Overview of all competitions Mexico participates in",
+          "CONCACAF tournaments explanation",
+          "World Cup qualification process",
+          "Friendlies and their betting value"
+        ],
+        "subsections": [
+          {
+            "type": "H3",
+            "title": "México en Nations League CONCACAF",
+            "word_count_min": 150,
+            "word_count_max": 200,
+            "target_keyword": "nations league mexico",
+            "writer_must_cover": [
+              "Nations League format explanation",
+              "Mexico's current standing/group",
+              "Key matches to bet on",
+              "Historical performance in tournament"
+            ]
+          },
+          {
+            "type": "H3",
+            "title": "México en Copa Oro",
+            "word_count_min": 150,
+            "word_count_max": 200,
+            "target_keyword": "mexico copa oro",
+            "writer_must_cover": [
+              "Copa Oro format and schedule",
+              "Mexico's record (most titles won)",
+              "Next Copa Oro dates",
+              "Betting markets for Copa Oro"
+            ]
+          },
+          {
+            "type": "H3",
+            "title": "México Rumbo al Mundial 2026",
+            "word_count_min": 150,
+            "word_count_max": 200,
+            "target_keyword": "mexico mundial 2026",
+            "writer_must_cover": [
+              "Mexico as host nation status",
+              "Qualifying process (if applicable)",
+              "Key preparation matches",
+              "Futures betting for World Cup"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Cómo Apostar a los Partidos de México",
+        "word_count_min": 350,
+        "word_count_max": 400,
+        "target_keywords": ["apuestas mexico", "mexico partidos"],
+        "writer_must_cover": [
+          "Step-by-step guide to placing first bet",
+          "Account creation process",
+          "Deposit methods for US bettors",
+          "Understanding soccer odds (American format)"
+        ],
+        "subsections": [
+          {
+            "type": "H3",
+            "title": "Tipos de Apuestas para Partidos de México",
+            "word_count_min": 200,
+            "word_count_max": 250,
+            "writer_must_cover": [
+              "Moneyline (1X2) explanation",
+              "Spread/handicap betting",
+              "Over/under totals",
+              "Props (first goal scorer, cards, etc.)",
+              "Parlays/combinadas"
+            ]
+          },
+          {
+            "type": "H3",
+            "title": "Ver México en Vivo y Apostar",
+            "word_count_min": 150,
+            "word_count_max": 200,
+            "target_keyword": "mexico en vivo",
+            "writer_must_cover": [
+              "Sportsbooks with live streaming",
+              "In-play betting options",
+              "Live betting strategy tips",
+              "Best apps for live Mexico betting"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Herramientas para Apostar a México",
+        "word_count_min": 150,
+        "word_count_max": 200,
+        "writer_must_cover": [
+          "Link to parlay calculator",
+          "Link to odds converter",
+          "How these tools help with Mexico betting"
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Preguntas Frecuentes - Partidos de México",
+        "faq_count": 8,
+        "word_count_per_faq": 80,
+        "total_word_count_min": 560,
+        "total_word_count_max": 720
+      },
+      {
+        "type": "responsible_gambling",
+        "title": "Juega Responsablemente",
+        "word_count_min": 100,
+        "word_count_max": 150,
+        "writer_must_cover": [
+          "21+ age requirement",
+          "1-800-522-4700 hotline",
+          "Link to ncpgambling.org",
+          "Brief responsible gambling message"
+        ]
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "¿Cuándo es el próximo partido de México?",
+      "target_keyword": "cuando juega mexico",
+      "volume": 29000,
+      "answer_must_include": [
+        "Current scheduled match info",
+        "Where to check for updates",
+        "TV/streaming information"
+      ]
+    },
+    {
+      "question": "¿Dónde puedo apostar a los partidos de la Selección Mexicana?",
+      "target_keyword": "apuestas mexico",
+      "volume": 150,
+      "answer_must_include": [
+        "Top 3 recommended sportsbooks",
+        "State availability note",
+        "21+ requirement"
+      ]
+    },
+    {
+      "question": "¿Cuál fue el último resultado de México?",
+      "target_keyword": "resultado mexico",
+      "volume": 100,
+      "answer_must_include": [
+        "Most recent match result",
+        "Competition it was part of",
+        "Where to find historical results"
+      ]
+    },
+    {
+      "question": "¿Cómo ver los partidos de México en vivo?",
+      "target_keyword": "mexico en vivo",
+      "volume": 500,
+      "answer_must_include": [
+        "TV channels (Univision, TUDN, etc.)",
+        "Streaming options",
+        "Sportsbooks with live streaming"
+      ]
+    },
+    {
+      "question": "¿Cuál es el calendario completo de la Selección Mexicana?",
+      "target_keyword": "calendario seleccion mexicana",
+      "volume": 150,
+      "answer_must_include": [
+        "Where to find official calendar",
+        "Major upcoming tournaments",
+        "Note about schedule changes"
+      ]
+    },
+    {
+      "question": "¿Qué casas de apuestas tienen las mejores cuotas para México?",
+      "target_keyword": "apuestas mexico",
+      "volume": 150,
+      "answer_must_include": [
+        "Top 3 for soccer odds",
+        "Why odds vary between books",
+        "Line shopping recommendation"
+      ]
+    },
+    {
+      "question": "¿México está clasificado al Mundial 2026?",
+      "target_keyword": "mexico mundial 2026",
+      "volume": 150,
+      "answer_must_include": [
+        "Host nation automatic qualification",
+        "Co-hosts (USA, Canada)",
+        "Tournament dates"
+      ]
+    },
+    {
+      "question": "¿Cuáles son los tipos de apuestas disponibles para partidos de México?",
+      "target_keyword": "apuestas mexico futbol",
+      "volume": 50,
+      "answer_must_include": [
+        "Main bet types (moneyline, spread, totals)",
+        "Props available",
+        "Live betting mention"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "México vs Estados Unidos",
+      "url": "/es/apuestas/futbol/mexico/mexico-vs-usa.htm",
+      "placement": "Introduction (paragraph 2)",
+      "context": "Key rivalry page link"
+    },
+    {
+      "anchor": "apuestas Champions League",
+      "url": "/es/apuestas/futbol/champions-league.htm",
+      "placement": "Competiciones section",
+      "context": "Related tournament"
+    },
+    {
+      "anchor": "Nations League CONCACAF",
+      "url": "/es/apuestas/futbol/concacaf/nations-league.htm",
+      "placement": "Nations League H3 section",
+      "context": "Dedicated tournament page"
+    },
+    {
+      "anchor": "Copa Oro",
+      "url": "/es/apuestas/futbol/concacaf/gold-cup.htm",
+      "placement": "Copa Oro H3 section",
+      "context": "Dedicated tournament page"
+    },
+    {
+      "anchor": "apuestas Liga MX",
+      "url": "/es/apuestas/liga-mx/index.htm",
+      "placement": "Related content area",
+      "context": "Domestic league connection"
+    },
+    {
+      "anchor": "mejores apps de apuestas",
+      "url": "/es/apuestas/mejores-apps.htm",
+      "placement": "Sportsbooks section",
+      "context": "Apps comparison"
+    },
+    {
+      "anchor": "FanDuel reseña",
+      "url": "/es/apuestas/fanduel-resena.htm",
+      "placement": "FanDuel brand section",
+      "context": "Full review link"
+    },
+    {
+      "anchor": "BetMGM reseña",
+      "url": "/es/apuestas/betmgm-resena.htm",
+      "placement": "BetMGM brand section",
+      "context": "Full review link"
+    },
+    {
+      "anchor": "cómo apostar al fútbol",
+      "url": "/es/apuestas/futbol/index.htm",
+      "placement": "How to bet section",
+      "context": "General soccer betting guide"
+    },
+    {
+      "anchor": "apuestas en vivo",
+      "url": "/es/apuestas/apuestas-en-vivo.htm",
+      "placement": "Live betting H3 section",
+      "context": "Live betting guide"
+    },
+    {
+      "anchor": "calculadora parlay",
+      "url": "/es/apuestas/herramientas/calculadora-parlay.htm",
+      "placement": "Tools section",
+      "context": "Calculator tool"
+    },
+    {
+      "anchor": "conversor de momios",
+      "url": "/es/apuestas/herramientas/conversor-momios.htm",
+      "placement": "Tools section",
+      "context": "Odds converter tool"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_required": [
+      "App Store ratings for sportsbook apps",
+      "Google Play ratings for sportsbook apps",
+      "Reddit r/sportsbook threads on Mexico betting"
+    ],
+    "tier_2_verification": [
+      "Official sportsbook sites for bonus terms",
+      "Mexican Football Federation (FMF) for schedule",
+      "CONCACAF.com for tournament info"
+    ],
+    "tier_4_sparingly": [
+      "Competitor affiliate sites for research gaps ONLY",
+      "NEVER cite for pros/cons"
+    ]
+  },
+  "word_count_breakdown": {
+    "introduction": 150,
+    "quick_answer": 100,
+    "cuando_juega_mexico": 400,
+    "proximo_partido": 200,
+    "calendario": 250,
+    "partido_hoy": 300,
+    "sportsbooks": 600,
+    "competiciones": 350,
+    "nations_league": 200,
+    "copa_oro": 200,
+    "mundial_2026": 200,
+    "como_apostar": 400,
+    "tipos_apuestas": 250,
+    "mexico_en_vivo": 200,
+    "herramientas": 200,
+    "faqs": 640,
+    "responsible_gambling": 150,
+    "total": 4790
+  },
+  "compliance": {
+    "age_requirement": "21+",
+    "hotline": "1-800-522-4700",
+    "responsible_gambling_section": true,
+    "affiliate_disclosure": "Website sidebar (NOT in content)",
+    "no_dated_language_in_h1": true
+  },
+  "metadata": {
+    "created": "2026-01-27",
+    "phase": 2,
+    "version": "1.0",
+    "input_file": "mexico-matches-phase1.json"
+  }
+}

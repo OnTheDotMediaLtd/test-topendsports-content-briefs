@@ -1,0 +1,243 @@
+{
+  "page_info": {
+    "url": "/es/apuestas/futbol/concacaf/gold-cup-final.htm",
+    "page_name": "gold-cup-final",
+    "language": "es",
+    "target_market": "USA Hispanic",
+    "template": 2,
+    "template_name": "Comparison/Event",
+    "writer": "Gustavo Cantella",
+    "priority": "Critical",
+    "status": "SEASONAL",
+    "generated_date": "2026-01-26",
+    "data_source": "Ahrefs API (Python)"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "copa oro final",
+      "volume": 1300,
+      "difficulty": 60,
+      "traffic_potential": 6400,
+      "assigned_keyword": "final gold cup",
+      "assigned_volume": 2000,
+      "note": "Spanish primary keyword for /es/ page targeting US Hispanic audience. English variant 'gold cup final' (11,000/mo) included as secondary for bilingual searchers."
+    },
+    "secondary": [
+      {"keyword": "gold cup final", "volume": 11000, "difficulty": 53, "traffic_potential": 6400, "placement": "H2"},
+      {"keyword": "gold cup final 2025", "volume": 2600, "difficulty": 50, "traffic_potential": 3100, "placement": "H2"},
+      {"keyword": "concacaf gold cup final", "volume": 1100, "difficulty": 67, "traffic_potential": 3100, "placement": "H2"},
+      {"keyword": "gold cup odds", "volume": 700, "difficulty": 55, "traffic_potential": 350, "placement": "H2"},
+      {"keyword": "gold cup mexico", "volume": 500, "difficulty": 71, "traffic_potential": 78000, "placement": "H3"},
+      {"keyword": "copa de oro final", "volume": 250, "difficulty": 7, "traffic_potential": 450, "placement": "H3"},
+      {"keyword": "gold cup betting", "volume": 200, "difficulty": 55, "traffic_potential": 150, "placement": "H3"},
+      {"keyword": "gold cup usa", "volume": 200, "difficulty": 71, "traffic_potential": 68000, "placement": "H3"},
+      {"keyword": "gold cup championship", "volume": 150, "difficulty": 67, "traffic_potential": 66000, "placement": "H3"},
+      {"keyword": "gold cup mexico vs usa", "volume": 150, "difficulty": 71, "traffic_potential": 38000, "placement": "H3"},
+      {"keyword": "gold cup betting odds", "volume": 100, "difficulty": 65, "traffic_potential": 200, "placement": "FAQ"},
+      {"keyword": "final gold cup", "volume": 90, "difficulty": 64, "traffic_potential": 3200, "placement": "Natural"},
+      {"keyword": "gold cup finals history", "volume": 60, "difficulty": 33, "traffic_potential": 1800, "placement": "FAQ"},
+      {"keyword": "gold cup usa mexico", "volume": 50, "difficulty": null, "traffic_potential": null, "placement": "FAQ"},
+      {"keyword": "gold cup final odds", "volume": 40, "difficulty": null, "traffic_potential": null, "placement": "FAQ"},
+      {"keyword": "gold cup final predictions", "volume": 30, "difficulty": null, "traffic_potential": null, "placement": "FAQ"}
+    ],
+    "branded": [
+      {"keyword": "fanduel soccer", "volume": 500, "difficulty": 54, "traffic_potential": 8600, "brand": "FanDuel"},
+      {"keyword": "draftkings soccer", "volume": 350, "difficulty": 60, "traffic_potential": 5800, "brand": "DraftKings"},
+      {"keyword": "betmgm soccer", "volume": 20, "difficulty": 72, "traffic_potential": 600, "brand": "BetMGM"},
+      {"keyword": "bet365 soccer", "volume": 150, "difficulty": null, "traffic_potential": null, "brand": "bet365"},
+      {"keyword": "caesars soccer", "volume": 50, "difficulty": null, "traffic_potential": null, "brand": "Caesars"}
+    ],
+    "total_cluster_volume": 17520,
+    "volume_increase_percent": 1248
+  },
+  "competitor_analysis": {
+    "serp_overview": "SERP for 'copa oro final' shows limited Spanish-language betting content targeting US Hispanic audience. English 'gold cup final' (11K/mo) dominates but Spanish term 'copa oro final' (1.3K/mo) has lower competition. First-mover advantage for comprehensive Spanish Copa Oro final betting guide.",
+    "key_insights": [
+      "Spanish 'copa oro final' (1.3K/mo) has lower competition than English variant",
+      "Parent topic 'concacaf gold cup' has 148K monthly searches - massive traffic potential",
+      "Seasonal event with concentrated betting interest during tournament finals",
+      "USA vs Mexico matchups drive highest engagement for US Hispanic audience",
+      "Limited competition for Spanish-language Gold Cup betting content"
+    ],
+    "affiliate_competitors": [
+      {
+        "domain": "actionnetwork.com",
+        "focus": "Gold Cup betting odds and predictions",
+        "brands_covered": 5,
+        "estimated_word_count": 2000,
+        "key_sections": ["Odds comparison", "Expert picks", "Betting trends"],
+        "gap": "English-only, no Spanish content"
+      },
+      {
+        "domain": "covers.com",
+        "focus": "Soccer betting guides and odds",
+        "brands_covered": 4,
+        "estimated_word_count": 1800,
+        "key_sections": ["Moneyline odds", "Spread betting", "Totals"],
+        "gap": "Limited Spanish resources, generic soccer focus"
+      },
+      {
+        "domain": "thelines.com",
+        "focus": "Sportsbook odds comparison",
+        "brands_covered": 6,
+        "estimated_word_count": 1500,
+        "key_sections": ["Real-time odds", "Line movements"],
+        "gap": "No Spanish content, no event-specific guides"
+      },
+      {
+        "domain": "sportshandle.com",
+        "focus": "Sportsbook reviews",
+        "brands_covered": 8,
+        "estimated_word_count": 2500,
+        "key_sections": ["App reviews", "Bonus comparisons"],
+        "gap": "English-only, not soccer-focused"
+      }
+    ],
+    "content_gaps": [
+      "Spanish-language Gold Cup final betting guide for US market",
+      "Comprehensive sportsbook comparison for Gold Cup betting in Spanish",
+      "Historical Gold Cup final results and trends for betting context",
+      "Mexico vs USA rivalry betting analysis (key for US Hispanic audience)",
+      "Mobile betting experience comparison for live Gold Cup wagering",
+      "Payment methods and withdrawal times for major US sportsbooks"
+    ],
+    "competitive_advantage": "First comprehensive Spanish-language Gold Cup final betting guide targeting US Hispanic market with local sportsbooks. Unique focus on Mexico national team angle appealing to large Mexican-American audience."
+  },
+  "brand_selection": {
+    "total_brands": 7,
+    "rationale": "Spanish primary keyword 'copa oro final' (1,300/mo) with high-volume English secondary 'gold cup final' (11,000/mo) and seasonal critical status qualifies for 7 brands. Focus on major US operators with strong soccer/international markets and appeal to Hispanic bettors.",
+    "brands": [
+      {
+        "position": 1,
+        "brand": "FanDuel",
+        "badge": "FD",
+        "color": "#1493FF",
+        "status": "LOCKED",
+        "rationale": "Commercial deal. Best overall mobile app, 'fanduel soccer' (500/mo) shows strong soccer interest",
+        "usp": "Best user experience, extensive Gold Cup betting markets",
+        "welcome_offer": "Bet $5, Get $150 in Bonus Bets"
+      },
+      {
+        "position": 2,
+        "brand": "BetMGM",
+        "badge": "MGM",
+        "color": "#BFA36B",
+        "status": "LOCKED",
+        "rationale": "Commercial deal. Premium platform with strong soccer coverage, MGM Rewards",
+        "usp": "Vegas-style betting experience, excellent live betting",
+        "welcome_offer": "Up to $1,500 in Bonus Bets"
+      },
+      {
+        "position": 3,
+        "brand": "DraftKings",
+        "badge": "DK",
+        "color": "#53D337",
+        "status": "Research-driven",
+        "rationale": "'draftkings soccer' (350/mo), best props and SGP for soccer matches",
+        "usp": "Best for Gold Cup props and same-game parlays",
+        "welcome_offer": "Bet $5, Get $150 in Bonus Bets"
+      },
+      {
+        "position": 4,
+        "brand": "bet365",
+        "badge": "365",
+        "color": "#0E7B46",
+        "status": "Research-driven",
+        "rationale": "World's #1 soccer betting platform, excellent Gold Cup coverage and early odds",
+        "usp": "Best live streaming, early Gold Cup futures",
+        "welcome_offer": "Bet $1, Get $365 in Bonus Bets"
+      },
+      {
+        "position": 5,
+        "brand": "Caesars",
+        "badge": "CZR",
+        "color": "#0A2240",
+        "status": "Research-driven",
+        "rationale": "Caesars Rewards integration, strong promotions for major sporting events",
+        "usp": "Best rewards program, exclusive Gold Cup boosts",
+        "welcome_offer": "Up to $1,000 First Bet"
+      },
+      {
+        "position": 6,
+        "brand": "Fanatics",
+        "badge": "FAN",
+        "color": "#0050C8",
+        "status": "Research-driven",
+        "rationale": "Growing platform with FanCash rewards, appeal to sports merchandise buyers",
+        "usp": "Earn FanCash for soccer jerseys and team gear",
+        "welcome_offer": "Get up to $1,000 in Bonus Bets"
+      },
+      {
+        "position": 7,
+        "brand": "BetRivers",
+        "badge": "BR",
+        "color": "#FF6B00",
+        "status": "Research-driven",
+        "rationale": "Strong soccer market variety, competitive odds, iRush Rewards",
+        "usp": "Wide variety of soccer betting markets, fast payouts",
+        "welcome_offer": "2nd Chance Bet up to $500"
+      }
+    ]
+  },
+  "content_structure": {
+    "word_count_target": 3500,
+    "sections": [
+      {"type": "intro", "title": "Introduccion - Apuestas Copa Oro Final", "word_count": 150, "keywords": ["copa oro final", "gold cup final", "apuestas copa oro"]},
+      {"type": "comparison_table", "title": "Mejores Casas de Apuestas para la Final Copa Oro", "word_count": 100, "keywords": ["copa oro betting", "copa oro odds"]},
+      {"type": "quick_picks", "title": "Top 3 Casas de Apuestas - Respuesta Rapida", "word_count": 100},
+      {"type": "brand_reviews", "title": "Resenas de Casas de Apuestas para Gold Cup", "word_count": 1750, "notes": "250 words per brand x 7 brands (Key Features, Mobile Experience, Pros/Cons, Bonus)"},
+      {"type": "odds_analysis", "title": "Cuotas y Favoritos Final Gold Cup", "word_count": 300, "keywords": ["gold cup final odds", "gold cup odds", "gold cup final predictions"]},
+      {"type": "betting_guide", "title": "Como Apostar a la Final de la Gold Cup", "word_count": 250, "keywords": ["gold cup betting", "gold cup betting odds"]},
+      {"type": "history", "title": "Historia de Finales Gold Cup - Resultados y Tendencias", "word_count": 200, "keywords": ["gold cup finals history", "gold cup championship"]},
+      {"type": "mexico_usa", "title": "Mexico vs USA - El Clasico de CONCACAF", "word_count": 200, "keywords": ["gold cup mexico vs usa", "gold cup mexico", "gold cup usa"]},
+      {"type": "payment_methods", "title": "Metodos de Pago", "word_count": 150},
+      {"type": "faq", "title": "Preguntas Frecuentes", "word_count": 350, "notes": "7 FAQs targeting keywords"},
+      {"type": "responsible_gambling", "title": "Juego Responsable", "word_count": 150}
+    ]
+  },
+  "internal_links": [
+    {"anchor": "Apuestas Gold Cup", "url": "/es/apuestas/futbol/concacaf/gold-cup.htm", "context": "Main Gold Cup hub page"},
+    {"anchor": "Apuestas CONCACAF", "url": "/es/apuestas/futbol/concacaf/index.htm", "context": "CONCACAF tournament hub"},
+    {"anchor": "Apuestas Seleccion Mexicana", "url": "/es/apuestas/futbol/mexico/index.htm", "context": "Mexico national team betting"},
+    {"anchor": "Nations League CONCACAF", "url": "/es/apuestas/futbol/concacaf/nations-league.htm", "context": "Related CONCACAF tournament"},
+    {"anchor": "Apuestas Copa America", "url": "/es/apuestas/futbol/copa-america.htm", "context": "Related international tournament"},
+    {"anchor": "Mejores apps de apuestas", "url": "/es/apuestas/mejores-apps.htm", "context": "Sportsbook app comparison"},
+    {"anchor": "Casas de apuestas deportivas", "url": "/es/apuestas/index.htm", "context": "Main Spanish betting hub"},
+    {"anchor": "Calculadora de parlay", "url": "/es/apuestas/herramientas/calculadora-parlay.htm", "context": "Calculate Gold Cup parlays"},
+    {"anchor": "Conversor de momios", "url": "/es/apuestas/herramientas/conversor-momios.htm", "context": "Convert Gold Cup odds"},
+    {"anchor": "Resena FanDuel", "url": "/es/apuestas/fanduel-resena.htm", "context": "Full FanDuel review"},
+    {"anchor": "Resena DraftKings", "url": "/es/apuestas/draftkings-resena.htm", "context": "Full DraftKings review"},
+    {"anchor": "Como apostar en linea", "url": "/es/apuestas/guias/como-apostar.htm", "context": "Betting guide for beginners"}
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ en MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "affiliate_disclosure": true,
+    "responsible_gambling_section": true,
+    "language_rules": "ustedes form (NOT vosotros), USA Spanish speakers (NOT Spain)"
+  },
+  "technical_requirements": [
+    "Comparison table with all 7 brands (mobile-responsive)",
+    "Letter badges (FD, MGM, DK, 365, CZR, FAN, BR)",
+    "Last Updated badge after H1 (seasonal content - update before tournament)",
+    "FAQ accordion with expand/collapse",
+    "Gold Cup final odds table (update with live odds during event)",
+    "Historical results section with winners table",
+    "Mexico vs USA head-to-head record",
+    "Schema markup (Article, FAQ, Breadcrumb, SportsEvent)",
+    "Interactive elements with JavaScript",
+    "Mobile-first design for live betting during matches"
+  ],
+  "seasonal_notes": {
+    "tournament_schedule": "Gold Cup typically held in June-July (odd years)",
+    "content_update_timing": "Update 2 weeks before tournament, daily during knockout rounds",
+    "key_dates": "Final usually in early July",
+    "traffic_spike": "Highest traffic during semifinal and final matches"
+  },
+  "metadata": {
+    "created": "2026-01-26",
+    "phase": 1,
+    "version": "1.0",
+    "ahrefs_data_timestamp": "2026-01-26"
+  }
+}
