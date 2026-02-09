@@ -1,0 +1,70 @@
+name: Auto-Merge and Delete Non-Main Branches
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  merge-and-delete:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Merge branch to main and delete
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const branchName = context.ref.replace('refs/heads/', '');
+            console.log(`Processing branch: ${branchName}`);
+            try {
+              const branchRef = await github.rest.git.getRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: `heads/${branchName}`
+              });
+              const branchSha = branchRef.data.object.sha;
+              const mainRef = await github.rest.git.getRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: 'heads/main'
+              });
+              const mainSha = mainRef.data.object.sha;
+              try {
+                const merge = await github.rest.repos.merge({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  base: 'main',
+                  head: branchName,
+                  commit_message: `Auto-merge branch '${branchName}' into main\n\nAutomatic merge to maintain main-only workflow.`
+                });
+                console.log(`Merged ${branchName} into main: ${merge.data.sha}`);
+              } catch (mergeError) {
+                if (mergeError.status === 409) {
+                  await github.rest.issues.create({
+                    owner: context.repo.owner, repo: context.repo.repo,
+                    title: `Merge conflict: ${branchName}`,
+                    body: `Branch \`${branchName}\` could not be auto-merged due to conflicts. Manual resolution needed.\nBranch SHA: \`${branchSha}\``,
+                    labels: ['automated', 'merge-conflict']
+                  });
+                  return;
+                } else if (mergeError.status === 204) {
+                  console.log('Already up to date');
+                } else { throw mergeError; }
+              }
+              await github.rest.git.deleteRef({
+                owner: context.repo.owner, repo: context.repo.repo,
+                ref: `heads/${branchName}`
+              });
+              console.log(`Deleted branch: ${branchName}`);
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
