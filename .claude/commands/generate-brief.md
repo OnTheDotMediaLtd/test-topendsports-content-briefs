@@ -110,6 +110,28 @@ python3 .claude/scripts/ahrefs-api.py keywords-explorer/matching-terms \
   '{"select":"keyword,volume,difficulty","country":"us","terms":"[primary]","limit":20}'
 ```
 
+### Step 1.2b: SERP Composition Check (FREE — WebSearch)
+
+For the top 3 keyword candidates by volume, run a web search to check who ranks on page 1:
+- Classify each result: **affiliate** (gambling.com, casino.org, etc. or title matches "best casino", "top 10", "review"), **brand** (URL has /deposit/, /sign-up/), **editorial** (Wikipedia, Forbes), **government** (.gov), or **other**
+- Calculate `affiliate_ratio = affiliate_count / total_results`
+- If `affiliate_ratio < 0.3`: keyword is brand-dominated, try a longer-tail variant
+- Save results to `serp_composition` in phase1-research.json
+
+### Step 1.2c: Competitor Page Keywords (Ahrefs — MODERATE)
+
+From the SERP check, take the top 3 **affiliate** pages. Get their organic keywords:
+```
+mcp__claude_ai_Ahrefs__site-explorer-organic-keywords
+  target: "{competitor_page_url}"
+  country: "{country_code}"
+  date: "2026-02-01"
+  select: "keyword,volume,position,traffic"
+  limit: 20
+  mode: "prefix"
+```
+Save results to `competitor_pages` in phase1-research.json. These keywords will be injected as secondary keywords in the brief.
+
 ### Step 1.3: Competitor Analysis (MANDATORY)
 Analyze these 3 affiliate sites (NOT brand sites):
 1. actionnetwork.com
