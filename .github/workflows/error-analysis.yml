@@ -261,7 +261,7 @@ jobs:
 
       - name: Upload analysis artifacts
         if: always() && steps.check-errors.outputs.has_errors == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: error-analysis-report
           path: |
