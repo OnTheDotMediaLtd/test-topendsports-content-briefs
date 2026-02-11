@@ -193,6 +193,32 @@ Execute Phase 2 now and report back when complete.
 
 **Wait for Agent 2 to complete. Validate with: `bash scripts/validate-phase.sh 2 [page-name]`**
 
+### Step 3.5: MANDATORY Brand Validation Gate
+
+**CRITICAL:** After Phase 2 completes, MUST validate all brand names before proceeding to Phase 3.
+
+```bash
+python scripts/validate_brands_gate.py output/[page-name]-writer-brief.md
+```
+
+**This validation:**
+- ✅ Accepts verified sportsbook brands (FanDuel, BetMGM, DraftKings, etc.)
+- ❌ BLOCKS suspicious/fake brands (Treasure Spins, Royalistplay, etc.)
+- 💡 Suggests corrections for typos (Wyns → WynnBET)
+
+**Exit codes:**
+- 0 = Validation passed, proceed to Phase 3
+- 1 = BLOCKED - fake brands detected, FIX BEFORE PROCEEDING
+- 2 = Validation error (file missing, etc.)
+
+**If validation FAILS:**
+1. Review the unknown/suspicious brands listed in the output
+2. Edit `output/[page-name]-writer-brief.md` to replace with verified brands
+3. Re-run validation until it passes
+4. DO NOT proceed to Phase 3 until validation passes
+
+**Why this matters:** Prevents hallucinated brand names like "Treasure Spins Sport" from being delivered to production. This gate caught 3 fake brands in recent briefs that would have otherwise been published.
+
 ### Step 4: Spawn Phase 3 Sub-Agents (PARALLEL)
 
 **CRITICAL:** Spawn all 7 sub-agents in a SINGLE message with multiple Task tool calls.
@@ -292,6 +318,7 @@ After each agent completes:
 - ✅ Confirm keyword counts match requirements
 - ✅ Confirm brand count matches #1 competitor (8-10 for high-volume)
 - ✅ Run validation script: `bash scripts/validate-phase.sh [phase] [page-name]`
+- 🚨 **MANDATORY after Phase 2:** Run brand validation gate: `python scripts/validate_brands_gate.py output/[page-name]-writer-brief.md`
 
 ---
 
