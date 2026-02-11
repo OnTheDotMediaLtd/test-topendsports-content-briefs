@@ -62,16 +62,11 @@ page_name = url.split('/')[-1].replace('.htm', '')
 mcp__topendsports-briefs__get_page_info with url="$ARGUMENTS"
 ```
 
-### Step 0.3: Test Ahrefs Connectivity
-Try MCP first:
-```
-mcp__ahrefs__keywords-explorer-overview with:
-- select: "keyword,volume"
-- country: "us"
-- keywords: "[primary keyword from step 0.2]"
-```
+### Step 0.3: Ahrefs Connectivity
 
-**IF MCP RETURNS 403 OR ERROR:** Switch to Python immediately:
+**Desktop NEVER calls Ahrefs MCP tools directly** — they return 403 due to auth environment mismatch.
+Use WebSearch (FREE) first for SERP composition, then the Python script for keyword data:
+
 ```bash
 python3 .claude/scripts/ahrefs-api.py \
   keywords-explorer/overview \
