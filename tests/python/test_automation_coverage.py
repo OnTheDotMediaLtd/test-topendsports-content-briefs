@@ -153,3 +153,91 @@ class TestAutomationGenerateLessons:
                 with patch.object(Path, 'is_file', return_value=False):
                     result = auto.generate_lessons()
                     assert auto.results["lessons"]["status"] == "skipped"
+
+
+class TestValidateBrands:
+    """Tests for the validate_brands() brand validation gate."""
+
+    def test_validate_brands_gate_not_found(self, tmp_path):
+        """validate_brands skips when gate script does not exist."""
+        auto = ContentBriefAutomation(verbose=False)
+
+        # Point to a non-existent gate script by monkeypatching the method
+        with patch('builtins.print'):
+            # Patch run_command to not be called; gate check happens before it
+            # We simulate: gate script missing → skipped
+            with patch('automation.SCRIPT_DIR', tmp_path):
+                result = auto.validate_brands()
+                assert auto.results["brands"]["status"] == "skipped"
+
+    def test_validate_brands_no_brief_files(self, tmp_path):
+        """validate_brands skips gracefully when no brief files in output_dir."""
+        auto = ContentBriefAutomation(verbose=False)
+
+        # Create a real gate script placeholder in tmp_path
+        gate_script = tmp_path / "validate_brands_gate.py"
+        gate_script.write_text("# placeholder\n", encoding='utf-8')
+
+        # Patch both SCRIPT_DIR and PROJECT_ROOT so no standard output dirs exist
+        fake_root = tmp_path / "project"
+        fake_root.mkdir()
+
+        with patch('builtins.print'):
+            with patch('automation.SCRIPT_DIR', tmp_path):
+                with patch('automation.PROJECT_ROOT', fake_root):
+                    # output_dir is a separate empty tmp dir (no .md files)
+                    empty_dir = tmp_path / "empty_output"
+                    empty_dir.mkdir()
+                    result = auto.validate_brands(output_dir=empty_dir)
+                    assert auto.results["brands"]["status"] == "skipped"
+
+    def test_validate_brands_all_pass(self, tmp_path):
+        """validate_brands returns passed when all briefs are valid."""
+        auto = ContentBriefAutomation(verbose=False)
+
+        # Create gate script placeholder
+        gate_script = tmp_path / "validate_brands_gate.py"
+        gate_script.write_text("# placeholder\n", encoding='utf-8')
+
+        # Patch PROJECT_ROOT so no standard output dirs leak in
+        fake_root = tmp_path / "project"
+        fake_root.mkdir()
+
+        # Create brief files in a dedicated output dir
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+        brief = output_dir / "canada-writer-brief.md"
+        brief.write_text("# Canada Sports Betting\n\n### FanDuel\nFanDuel is great.\n", encoding='utf-8')
+
+        with patch('builtins.print'):
+            with patch('automation.SCRIPT_DIR', tmp_path):
+                with patch('automation.PROJECT_ROOT', fake_root):
+                    with patch.object(auto, 'run_command', return_value=(0, "All brands validated", "")):
+                        result = auto.validate_brands(output_dir=output_dir)
+                        assert auto.results["brands"]["status"] == "passed"
+                        assert auto.results["brands"]["files_checked"] == 1
+
+    def test_validate_brands_fake_brand_blocked(self, tmp_path):
+        """validate_brands returns failed when brief contains fake brands."""
+        auto = ContentBriefAutomation(verbose=False)
+
+        # Create gate script placeholder
+        gate_script = tmp_path / "validate_brands_gate.py"
+        gate_script.write_text("# placeholder\n", encoding='utf-8')
+
+        # Patch PROJECT_ROOT so no standard output dirs leak in
+        fake_root = tmp_path / "project"
+        fake_root.mkdir()
+
+        # Create brief file with suspicious brand
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+        brief = output_dir / "canada-writer-brief.md"
+        brief.write_text("# Canada Sports Betting\n\n### Treasure Spins\nFake brand.\n", encoding='utf-8')
+
+        with patch('builtins.print'):
+            with patch('automation.SCRIPT_DIR', tmp_path):
+                with patch('automation.PROJECT_ROOT', fake_root):
+                    with patch.object(auto, 'run_command', return_value=(1, "", "BLOCKED: Fake brands found")):
+                        result = auto.validate_brands(output_dir=output_dir)
+                        assert auto.results["brands"]["status"] == "failed"
