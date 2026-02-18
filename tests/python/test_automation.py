@@ -426,13 +426,15 @@ class TestAutomationRunnerGenerateReport:
         runner.results["tests"]["status"] = "passed"
         runner.results["brands"]["status"] = "passed"
         runner.results["errors"]["status"] = "completed"
+        runner.results["content_patterns"]["status"] = "completed"
         runner.results["feedback"]["status"] = "failed"
         runner.results["lessons"]["status"] = "skipped"
-        
+
         report = runner.generate_report()
-        
-        # Should show: 3 passed, 1 failed, 1 skipped
-        assert "3 passed" in report
+
+        # Should show: 4 passed, 1 failed, 1 skipped
+        # (tests + brands + errors + content_patterns = 4 completed/passed)
+        assert "4 passed" in report
         assert "1 failed" in report
         assert "1 skipped" in report
 

@@ -43,6 +43,7 @@ class AutomationRunner:
             "tests": {"status": "skipped", "details": {}},
             "brands": {"status": "skipped", "details": {}},
             "errors": {"status": "skipped", "details": {}},
+            "content_patterns": {"status": "skipped", "patterns_found": 0, "severe_patterns": 0},
             "feedback": {"status": "skipped", "details": {}},
             "lessons": {"status": "skipped", "details": {}},
         }
@@ -285,6 +286,67 @@ class AutomationRunner:
         self.log(f"Brand validation complete: {len(brief_files)} files checked", status)
         return self.results["brands"]
 
+    def analyze_content_patterns(self) -> Dict:
+        """Run PatternAnalyzer on output directory to detect recurring quality issues.
+
+        Directly imports PatternAnalyzer rather than subprocess call for reliability.
+        If severe patterns are found, triggers auto-feedback creation for the
+        unified-knowledge-base feedback loop.
+        """
+        self.log("Analyzing content quality patterns...")
+
+        try:
+            sys.path.insert(0, str(SCRIPT_DIR))
+            from pattern_analyzer import PatternAnalyzer
+
+            output_dir = str(PROJECT_ROOT / "output")
+            analyzer = PatternAnalyzer(output_dir=output_dir)
+
+            analysis = analyzer.analyze_all_patterns()
+            alerts = analyzer.generate_alerts()
+
+            patterns_found = analysis.get("total_patterns", 0)
+            severe_count = sum(1 for a in alerts if a.get("severity") in ("critical", "high"))
+
+            # Create auto-feedback if severe patterns exist (feeds UKB loop)
+            auto_feedback_files = []
+            if severe_count > 0:
+                try:
+                    auto_feedback_files = analyzer.create_auto_feedback()
+                    self.log(
+                        f"Auto-feedback created: {len(auto_feedback_files)} file(s) for UKB loop",
+                        "OK",
+                    )
+                except Exception as fb_err:
+                    self.log(f"Auto-feedback creation failed (non-blocking): {fb_err}", "WARN")
+
+            status = "completed"
+            self.log(
+                f"Pattern analysis complete: {patterns_found} patterns, "
+                f"{severe_count} severe, {len(alerts)} alert(s)",
+                "OK" if severe_count == 0 else "WARN",
+            )
+
+            self.results["content_patterns"] = {
+                "status": status,
+                "patterns_found": patterns_found,
+                "severe_patterns": severe_count,
+                "alerts": [
+                    {"category": a.get("category"), "severity": a.get("severity"), "message": a.get("message")}
+                    for a in alerts[:5]  # Cap at 5 for report brevity
+                ],
+                "auto_feedback_files": auto_feedback_files,
+            }
+
+        except ImportError as e:
+            self.log(f"PatternAnalyzer import failed (non-blocking): {e}", "WARN")
+            self.results["content_patterns"] = {"status": "skipped", "reason": str(e)}
+        except Exception as e:
+            self.log(f"Pattern analysis error (non-blocking): {e}", "WARN")
+            self.results["content_patterns"] = {"status": "error", "reason": str(e)}
+
+        return self.results.get("content_patterns", {})
+
     def generate_report(self) -> str:
         """Generate a combined automation report."""
         report = []
@@ -331,6 +393,9 @@ class AutomationRunner:
 
         # Step 3: Analyze error patterns
         self.analyze_errors()
+
+        # Step 3b: Analyze content quality patterns (PatternAnalyzer - non-blocking)
+        self.analyze_content_patterns()
 
         # Step 4: Process feedback
         self.process_feedback(update_lessons=update_lessons)
