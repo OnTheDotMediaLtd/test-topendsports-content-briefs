@@ -41,6 +41,7 @@ class AutomationRunner:
         self.verbose = verbose
         self.results = {
             "tests": {"status": "skipped", "details": {}},
+            "brands": {"status": "skipped", "details": {}},
             "errors": {"status": "skipped", "details": {}},
             "feedback": {"status": "skipped", "details": {}},
             "lessons": {"status": "skipped", "details": {}},
@@ -220,6 +221,70 @@ class AutomationRunner:
         self.log("Lesson generation complete", "OK" if code == 0 else "WARN")
         return self.results["lessons"]
 
+    def validate_brands(self, output_dir: Path = None) -> Dict:
+        """Run brand validation gate on any generated brief files."""
+        self.log("Running brand validation gate...")
+
+        gate_script = SCRIPT_DIR / "validate_brands_gate.py"
+        if not gate_script.exists() or not gate_script.is_file():
+            self.log("Brand validation gate not found", "WARN")
+            self.results["brands"] = {"status": "skipped", "details": {}}
+            return {}
+
+        # Find brief files to validate
+        search_dirs = []
+        if output_dir and output_dir.exists():
+            search_dirs.append(output_dir)
+
+        # Standard output locations
+        for candidate in [
+            PROJECT_ROOT / "content-briefs-skill" / "output",
+            PROJECT_ROOT / "content-briefs-v1" / "output",
+            PROJECT_ROOT / "output",
+        ]:
+            if candidate.exists():
+                search_dirs.append(candidate)
+
+        brief_files_set = set()
+        for d in search_dirs:
+            brief_files_set.update(d.glob("*writer-brief*.md"))
+            brief_files_set.update(d.glob("*brief*.md"))
+        brief_files = sorted(brief_files_set)
+
+        if not brief_files:
+            self.log("No brief files found to validate", "INFO")
+            self.results["brands"] = {"status": "skipped", "details": {"reason": "No brief files found"}}
+            return {}
+
+        all_valid = True
+        validation_results = {}
+
+        for brief_file in brief_files:
+            code, stdout, stderr = self.run_command([
+                "python", str(gate_script), str(brief_file)
+            ])
+            is_valid = code == 0
+            if not is_valid:
+                all_valid = False
+                self.log(f"BRAND VALIDATION FAILED: {brief_file.name}", "ERROR")
+            else:
+                self.log(f"Brand validation passed: {brief_file.name}", "OK")
+            validation_results[brief_file.name] = {
+                "valid": is_valid,
+                "output": stdout if stdout else "",
+                "errors": stderr if stderr else "",
+            }
+
+        self.results["brands"] = {
+            "status": "passed" if all_valid else "failed",
+            "files_checked": len(brief_files),
+            "details": validation_results,
+        }
+
+        status = "OK" if all_valid else "ERROR"
+        self.log(f"Brand validation complete: {len(brief_files)} files checked", status)
+        return self.results["brands"]
+
     def generate_report(self) -> str:
         """Generate a combined automation report."""
         report = []
@@ -258,13 +323,19 @@ class AutomationRunner:
         # Step 1: Run tests
         tests_passed = self.run_tests(with_tracking=True)
 
-        # Step 2: Analyze error patterns
+        # Step 2: Brand validation gate (BLOCKING - fake brands block delivery)
+        brand_result = self.validate_brands()
+        brands_valid = brand_result.get("status") in ("passed", "skipped")
+        if not brands_valid:
+            self.log("BLOCKING: Brand validation failed - briefs contain fake brands", "ERROR")
+
+        # Step 3: Analyze error patterns
         self.analyze_errors()
 
-        # Step 3: Process feedback
+        # Step 4: Process feedback
         self.process_feedback(update_lessons=update_lessons)
 
-        # Step 4: Generate lessons if requested
+        # Step 5: Generate lessons if requested
         if update_lessons:
             self.generate_lessons()
 
@@ -272,8 +343,8 @@ class AutomationRunner:
         report = self.generate_report()
         print(report)
 
-        # Return exit code based on test results
-        return 0 if tests_passed else 1
+        # Return exit code based on test results AND brand validation
+        return 0 if (tests_passed and brands_valid) else 1
 
 
 def main():

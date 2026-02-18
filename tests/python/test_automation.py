@@ -51,7 +51,7 @@ class TestAutomationRunnerInit:
         """Test initial results structure."""
         runner = AutomationRunner()
         
-        for key in ["tests", "errors", "feedback", "lessons"]:
+        for key in ["tests", "brands", "errors", "feedback", "lessons"]:
             assert runner.results[key]["status"] == "skipped"
             assert "details" in runner.results[key]
 
@@ -424,14 +424,15 @@ class TestAutomationRunnerGenerateReport:
         """Test that summary counts are correct."""
         runner = AutomationRunner()
         runner.results["tests"]["status"] = "passed"
+        runner.results["brands"]["status"] = "passed"
         runner.results["errors"]["status"] = "completed"
         runner.results["feedback"]["status"] = "failed"
         runner.results["lessons"]["status"] = "skipped"
         
         report = runner.generate_report()
         
-        # Should show: 2 passed, 1 failed, 1 skipped
-        assert "2 passed" in report
+        # Should show: 3 passed, 1 failed, 1 skipped
+        assert "3 passed" in report
         assert "1 failed" in report
         assert "1 skipped" in report
 
@@ -452,10 +453,12 @@ class TestAutomationRunnerFullCycle:
     @patch.object(AutomationRunner, 'generate_lessons')
     @patch.object(AutomationRunner, 'process_feedback')
     @patch.object(AutomationRunner, 'analyze_errors')
+    @patch.object(AutomationRunner, 'validate_brands')
     @patch.object(AutomationRunner, 'run_tests')
-    def test_full_cycle_all_pass(self, mock_tests, mock_errors, mock_feedback, mock_lessons, capsys):
+    def test_full_cycle_all_pass(self, mock_tests, mock_brands, mock_errors, mock_feedback, mock_lessons, capsys):
         """Test full cycle when all steps pass."""
         mock_tests.return_value = True
+        mock_brands.return_value = {"status": "passed"}
         mock_errors.return_value = {}
         mock_feedback.return_value = {}
         mock_lessons.return_value = {}
@@ -465,6 +468,7 @@ class TestAutomationRunnerFullCycle:
         
         assert exit_code == 0
         assert mock_tests.called
+        assert mock_brands.called
         assert mock_errors.called
         assert mock_feedback.called
 
