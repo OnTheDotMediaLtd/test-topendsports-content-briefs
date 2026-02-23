@@ -11,14 +11,20 @@ Tests feedback validation functionality including:
 
 import pytest
 import sys
+import importlib.util
 from pathlib import Path
 from unittest.mock import Mock, patch
 
-# Add scripts directory to path
+# Load validate_feedback from content-briefs-skill/scripts/ explicitly
+# to avoid collision with scripts/validate_feedback.py (different module)
 SCRIPT_DIR = Path(__file__).parent.parent.parent / "content-briefs-skill" / "scripts"
-sys.path.insert(0, str(SCRIPT_DIR))
-
-from validate_feedback import validate_feedback_file
+_spec = importlib.util.spec_from_file_location(
+    "cbs_validate_feedback",
+    SCRIPT_DIR / "validate_feedback.py"
+)
+_mod = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(_mod)
+validate_feedback_file = _mod.validate_feedback_file
 
 
 class TestValidateFeedbackFile:
