@@ -381,8 +381,10 @@ class TestMainCLI:
             validate_ai_patterns=False,
             validate_brands=False,
             validate_eeat=True,
+            validate_responsible_gambling=True,
             ai_pattern_strict=True,
             eeat_min_score=70.0,
+            rg_min_score=0.25,
         )
         assert exit_code == 0
 

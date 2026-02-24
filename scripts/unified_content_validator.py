@@ -6,6 +6,7 @@ Integrates validators from tes-shared-infrastructure:
 - AI Pattern Validator: Detects AI-generated content patterns
 - Brand Validator: Verifies sportsbook brand names are real
 - E-E-A-T Validator: Checks Experience, Expertise, Authority, Trust signals
+- Responsible Gambling Validator: Checks disclaimers, help resources, age verification
 
 Usage:
     # CLI Usage
@@ -66,6 +67,32 @@ except ImportError:
     else:
         VALIDATORS_AVAILABLE = False
 
+# Responsible Gambling validator - optional, graceful degradation
+RESPONSIBLE_GAMBLING_AVAILABLE = False
+try:
+    from tes_shared.validators.responsible_gambling import (
+        ResponsibleGamblingValidator,
+        ResponsibleGamblingResult,
+    )
+    RESPONSIBLE_GAMBLING_AVAILABLE = True
+except ImportError:
+    if VALIDATORS_AVAILABLE:
+        # Shared infra is on path but no responsible_gambling module
+        pass
+    else:
+        # Try relative path
+        try:
+            shared_infra_path2 = Path(__file__).parent.parent.parent / "TEST-tes-shared-infrastructure" / "src"
+            if shared_infra_path2.exists() and str(shared_infra_path2) not in sys.path:
+                sys.path.insert(0, str(shared_infra_path2))
+            from tes_shared.validators.responsible_gambling import (
+                ResponsibleGamblingValidator,
+                ResponsibleGamblingResult,
+            )
+            RESPONSIBLE_GAMBLING_AVAILABLE = True
+        except ImportError:
+            pass
+
 
 @dataclass
 class ValidationSummary:
@@ -87,6 +114,7 @@ class UnifiedValidationResult:
     ai_patterns: Optional[ValidationSummary] = None
     brand_validation: Optional[ValidationSummary] = None
     eeat_validation: Optional[ValidationSummary] = None
+    responsible_gambling: Optional[ValidationSummary] = None
     errors: List[str] = field(default_factory=list)
     
     @property
@@ -99,6 +127,8 @@ class UnifiedValidationResult:
             count += len(self.brand_validation.errors)
         if self.eeat_validation:
             count += len(self.eeat_validation.errors)
+        if self.responsible_gambling:
+            count += len(self.responsible_gambling.errors)
         return count
     
     @property
@@ -111,6 +141,8 @@ class UnifiedValidationResult:
             count += len(self.brand_validation.warnings)
         if self.eeat_validation:
             count += len(self.eeat_validation.warnings)
+        if self.responsible_gambling:
+            count += len(self.responsible_gambling.warnings)
         return count
     
     def to_dict(self) -> Dict:
@@ -123,6 +155,7 @@ class UnifiedValidationResult:
             'ai_patterns': self._summary_to_dict(self.ai_patterns) if self.ai_patterns else None,
             'brand_validation': self._summary_to_dict(self.brand_validation) if self.brand_validation else None,
             'eeat_validation': self._summary_to_dict(self.eeat_validation) if self.eeat_validation else None,
+            'responsible_gambling': self._summary_to_dict(self.responsible_gambling) if self.responsible_gambling else None,
             'errors': self.errors,
         }
     
@@ -163,6 +196,10 @@ class UnifiedValidationResult:
         # E-E-A-T Validation
         if self.eeat_validation:
             self._print_validator_section("E-E-A-T Validation", self.eeat_validation, verbose)
+        
+        # Responsible Gambling
+        if self.responsible_gambling:
+            self._print_validator_section("Responsible Gambling", self.responsible_gambling, verbose)
         
         # General errors
         if self.errors:
@@ -211,8 +248,10 @@ class UnifiedContentValidator:
         validate_ai_patterns: bool = True,
         validate_brands: bool = True,
         validate_eeat: bool = True,
+        validate_responsible_gambling: bool = True,
         ai_pattern_strict: bool = False,
         eeat_min_score: float = 50.0,
+        rg_min_score: float = 0.25,
     ):
         """
         Initialize the unified validator.
@@ -221,8 +260,10 @@ class UnifiedContentValidator:
             validate_ai_patterns: Enable AI pattern detection
             validate_brands: Enable brand name validation
             validate_eeat: Enable E-E-A-T validation
+            validate_responsible_gambling: Enable responsible gambling validation
             ai_pattern_strict: Fail on any AI pattern warnings (not just errors)
             eeat_min_score: Minimum E-E-A-T score to pass (0-100)
+            rg_min_score: Minimum responsible gambling score to pass (0.0-1.0)
         """
         if not VALIDATORS_AVAILABLE:
             raise ImportError(
@@ -233,13 +274,21 @@ class UnifiedContentValidator:
         self.validate_ai_patterns = validate_ai_patterns
         self.validate_brands = validate_brands
         self.validate_eeat = validate_eeat
+        self.validate_responsible_gambling = validate_responsible_gambling
         self.ai_pattern_strict = ai_pattern_strict
         self.eeat_min_score = eeat_min_score
+        self.rg_min_score = rg_min_score
         
         # Initialize validators
         self._ai_validator = AIPatternValidator() if validate_ai_patterns else None
         self._brand_validator = BrandValidator() if validate_brands else None
         self._eeat_validator = EEATValidator() if validate_eeat else None
+        self._rg_validator = None
+        if validate_responsible_gambling and RESPONSIBLE_GAMBLING_AVAILABLE:
+            self._rg_validator = ResponsibleGamblingValidator()
+        elif validate_responsible_gambling and not RESPONSIBLE_GAMBLING_AVAILABLE:
+            # Silently degrade - validator not available
+            self.validate_responsible_gambling = False
     
     def validate(
         self, 
@@ -286,6 +335,13 @@ class UnifiedContentValidator:
             eeat_result = self._run_eeat_validation(content)
             result.eeat_validation = eeat_result
             if not eeat_result.passed:
+                result.is_valid = False
+        
+        # Run Responsible Gambling validation
+        if self.validate_responsible_gambling and self._rg_validator:
+            rg_result = self._run_responsible_gambling(content)
+            result.responsible_gambling = rg_result
+            if not rg_result.passed:
                 result.is_valid = False
         
         return result
@@ -442,6 +498,65 @@ class UnifiedContentValidator:
                 errors=[f"Validator error: {str(e)}"],
             )
     
+    def _run_responsible_gambling(self, content: str) -> ValidationSummary:
+        """Run responsible gambling validation."""
+        try:
+            result = self._rg_validator.validate(content)
+            
+            # Handle ResponsibleGamblingResult dataclass
+            if hasattr(result, 'valid'):
+                passed = result.valid and result.score >= self.rg_min_score
+                score = result.score * 100  # Convert 0-1 to 0-100 for display
+                errors = result.errors if hasattr(result, 'errors') else []
+                warnings = result.warnings if hasattr(result, 'warnings') else []
+                missing = result.missing_elements if hasattr(result, 'missing_elements') else []
+                details = {
+                    'compliance_score': result.score,
+                    'missing_elements': missing,
+                    'found_count': len(result.found_elements) if hasattr(result, 'found_elements') else 0,
+                    'state_requirements': result.state_requirements_met if hasattr(result, 'state_requirements_met') else {},
+                }
+                # Add missing elements as warnings if not already in errors
+                for elem in missing:
+                    msg = f"Missing: {elem}"
+                    if msg not in warnings:
+                        warnings.append(msg)
+            else:
+                # Dict result
+                passed = result.get('valid', False)
+                score = result.get('score', 0) * 100
+                errors = result.get('errors', [])
+                warnings = result.get('warnings', [])
+                details = result
+            
+            grade = None
+            if score >= 80:
+                grade = 'A'
+            elif score >= 60:
+                grade = 'B'
+            elif score >= 40:
+                grade = 'C'
+            elif score >= 25:
+                grade = 'D'
+            else:
+                grade = 'F'
+            
+            return ValidationSummary(
+                validator_name="Responsible Gambling",
+                passed=passed,
+                score=score,
+                grade=grade,
+                errors=errors,
+                warnings=warnings,
+                details=details,
+            )
+        except Exception as e:
+            return ValidationSummary(
+                validator_name="Responsible Gambling",
+                passed=False,
+                errors=[f"Validator error: {str(e)}"],
+            )
+    
     def _markdown_to_html(self, markdown: str) -> str:
         """
         Convert markdown to basic HTML for validation.
@@ -485,7 +600,9 @@ def validate_content(
     validate_ai: bool = True,
     validate_brands: bool = True,
     validate_eeat: bool = True,
+    validate_rg: bool = True,
     eeat_min_score: float = 50.0,
+    rg_min_score: float = 0.25,
 ) -> UnifiedValidationResult:
     """
     Convenience function to validate content with default settings.
@@ -496,7 +613,9 @@ def validate_content(
         validate_ai: Enable AI pattern detection
         validate_brands: Enable brand validation
         validate_eeat: Enable E-E-A-T validation
+        validate_rg: Enable responsible gambling validation
         eeat_min_score: Minimum E-E-A-T score to pass
+        rg_min_score: Minimum responsible gambling score to pass (0.0-1.0)
         
     Returns:
         UnifiedValidationResult
@@ -505,7 +624,9 @@ def validate_content(
         validate_ai_patterns=validate_ai,
         validate_brands=validate_brands,
         validate_eeat=validate_eeat,
+        validate_responsible_gambling=validate_rg,
         eeat_min_score=eeat_min_score,
+        rg_min_score=rg_min_score,
     )
     return validator.validate(content, content_type)
 
@@ -581,10 +702,21 @@ Examples:
         help='Disable E-E-A-T validation'
     )
     parser.add_argument(
+        '--no-rg',
+        action='store_true',
+        help='Disable responsible gambling validation'
+    )
+    parser.add_argument(
         '--eeat-min',
         type=float,
         default=50.0,
         help='Minimum E-E-A-T score to pass (default: 50.0)'
+    )
+    parser.add_argument(
+        '--rg-min',
+        type=float,
+        default=0.25,
+        help='Minimum responsible gambling score to pass (default: 0.25, range 0.0-1.0)'
     )
     parser.add_argument(
         '--strict',
@@ -620,8 +752,10 @@ Examples:
             validate_ai_patterns=not args.no_ai,
             validate_brands=not args.no_brands,
             validate_eeat=not args.no_eeat,
+            validate_responsible_gambling=not args.no_rg,
             ai_pattern_strict=args.strict,
             eeat_min_score=args.eeat_min,
+            rg_min_score=args.rg_min,
         )
     except ImportError as e:
         print(f"ERROR: {e}", file=sys.stderr)
