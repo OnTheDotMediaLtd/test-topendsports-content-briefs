@@ -146,7 +146,7 @@ class UnifiedValidationResult:
         if self.content_file:
             print(f"File: {self.content_file}")
         
-        status = "✅ PASSED" if self.is_valid else "❌ FAILED"
+        status = "[PASS] PASSED" if self.is_valid else "[FAIL] FAILED"
         print(f"Overall Status: {status}")
         print(f"Total Errors: {self.total_errors}")
         print(f"Total Warnings: {self.total_warnings}")
@@ -166,7 +166,7 @@ class UnifiedValidationResult:
         
         # General errors
         if self.errors:
-            print("\n⚠️ GENERAL ERRORS:")
+            print("\n[WARN] GENERAL ERRORS:")
             for error in self.errors:
                 print(f"  - {error}")
         
@@ -174,7 +174,7 @@ class UnifiedValidationResult:
     
     def _print_validator_section(self, title: str, summary: ValidationSummary, verbose: bool) -> None:
         """Print a single validator section."""
-        status = "✅" if summary.passed else "❌"
+        status = "[PASS]" if summary.passed else "[FAIL]"
         print(f"\n{status} {title}")
         
         if summary.score is not None:
