@@ -183,7 +183,7 @@ jobs:
 
       - name: Download error data artifact
         if: needs.analyze-errors.result != 'skipped'
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: error-tracker-data
           path: logs/errors/
