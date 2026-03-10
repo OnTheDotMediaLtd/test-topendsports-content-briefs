@@ -1,0 +1,83 @@
+actions:
+- checks:
+  - keyword_placements
+  - heading_structure
+  - meta_completeness
+  - word_count_targets
+  target: content_brief
+  type: audit
+- rules:
+  - no_verify_tags
+  - meta_title_present
+  - primary_keyword_in_h1
+  - brief_format_compliant
+  type: validate
+- dimensions:
+  - completeness
+  - keyword_integration
+  - compliance
+  - format
+  min_score: 80
+  type: score
+- flag_unpublishable: true
+  format: brief_audit_report
+  type: report
+description: 'Validates generated content briefs for completeness, keyword placement,
+  and WordPress-readiness.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: brief_generation
+
+  - Frequency: 12 occurrences
+
+  - Confidence: 1.0
+
+  - Key Issues: brief_generation
+
+
+  This skill addresses recurring feedback about brief generation.'
+pattern_source:
+  confidence: 1.0
+  frequency: 12
+  pattern_id: brief_generation-12
+  pattern_type: brief_generation
+  type: pattern
+skill_id: skill_brief_generation_20260218_071415
+skill_name: Content Brief Quality Auditor
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - brief_generation
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+validation_rules:
+- auto_fix: false
+  description: Validate against brief_generation issues
+  rule_id: validate_brief_generation
+  severity: error

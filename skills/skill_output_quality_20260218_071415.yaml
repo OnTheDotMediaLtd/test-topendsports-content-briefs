@@ -1,0 +1,79 @@
+actions:
+- rubric:
+  - publishable_output
+  - completeness
+  - format_correctness
+  - compliance
+  target: generated_output
+  type: score
+- rules:
+  - no_empty_elements
+  - no_placeholder_content
+  - no_broken_links
+  - schema_valid
+  type: validate
+- against: last_recorded_score
+  fail_if: regression
+  type: compare
+- format: quality_scorecard
+  include_before_after: true
+  type: report
+description: 'Evaluates generated output quality against the scoring rubric and flags
+  content below acceptable thresholds.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: output_quality
+
+  - Frequency: 11 occurrences
+
+  - Confidence: 1.0
+
+  - Key Issues: output_quality
+
+
+  This skill addresses recurring feedback about output quality.'
+pattern_source:
+  confidence: 1.0
+  frequency: 11
+  pattern_id: output_quality-11
+  pattern_type: output_quality
+  type: pattern
+skill_id: skill_output_quality_20260218_071415
+skill_name: Output Quality Scorer
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - output_quality
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+validation_rules:
+- auto_fix: false
+  description: Validate against output_quality issues
+  rule_id: validate_output_quality
+  severity: error
