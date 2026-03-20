@@ -1,0 +1,94 @@
+actions:
+- identify_bottlenecks: true
+  target:
+  - ci_failures
+  - validation_rules
+  - false_positives
+  type: analyze
+- prioritize_by_impact: true
+  type: classify
+  validation_tiers:
+  - blocking
+  - advisory
+  - informational
+- improvements:
+  - tiered_validation
+  - semantic_checks
+  - automation_opportunities
+  type: suggest
+- metrics:
+  - false_positive_rate
+  - time_savings
+  - process_efficiency
+  type: report
+description: 'Analyzes CI/CD workflows, identifies bottlenecks, and suggests process
+  improvements.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: workflow
+
+  - Frequency: 14 occurrences
+
+  - Confidence: 1.0
+
+  - Key Issues: workflow
+
+
+  This skill addresses recurring feedback about workflow.'
+pattern_source:
+  confidence: 1.0
+  frequency: 14
+  pattern_id: workflow-14
+  pattern_type: workflow
+  type: pattern
+skill_id: skill_workflow_20260218_071415
+skill_name: Workflow & CI Optimizer
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - workflow
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+- check_false_positives: true
+  threshold: 0.2
+  type: ci_failure_rate
+validation_rules:
+- auto_fix: false
+  description: Validate against workflow issues
+  rule_id: validate_workflow
+  severity: error
+- auto_fix: false
+  description: Classify validation rules into blocking vs advisory
+  rule_id: classify_validation_tier
+  severity: warning
+- auto_fix: false
+  description: Monitor and flag high false positive rates
+  rule_id: check_false_positive_rate
+  severity: warning
+  threshold: 0.2

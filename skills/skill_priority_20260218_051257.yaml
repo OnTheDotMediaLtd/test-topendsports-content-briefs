@@ -1,0 +1,76 @@
+actions:
+- checks:
+  - priority_score
+  - relevance_threshold
+  - link_quality
+  target: internal_links
+  type: scan
+- rules:
+  - min_priority_7
+  - no_low_quality_anchors
+  - relevance_score_above_0.5
+  severity: critical
+  type: validate
+- format: priority_violations_summary
+  group_by: severity
+  include_suggestions: true
+  type: report
+description: 'Detects and reports internal links below the minimum priority threshold,
+  ensuring high-quality link plans.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: priority
+
+  - Frequency: 1467 occurrences
+
+  - Confidence: 1.0
+
+  - Key Issues: priority
+
+
+  This skill addresses recurring feedback about priority.'
+pattern_source:
+  confidence: 1.0
+  frequency: 1467
+  pattern_id: priority-1467
+  pattern_type: priority
+  type: pattern
+skill_id: skill_priority_20260218_051257
+skill_name: Internal Link Priority Enforcer
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - priority
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+validation_rules:
+- auto_fix: false
+  description: Validate against priority issues
+  rule_id: validate_priority
+  severity: error

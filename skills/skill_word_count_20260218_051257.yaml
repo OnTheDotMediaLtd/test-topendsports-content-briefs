@@ -1,0 +1,86 @@
+actions:
+- exclude:
+  - navigation
+  - sidebar
+  - footer
+  - schema
+  target: article_content
+  type: count
+- rules:
+  - min_800_words
+  - section_minimum_coverage
+  thresholds:
+    maximum: 3000
+    minimum: 800
+    target: 1200
+  type: validate
+- flag_for_review: true
+  improvements:
+  - expand_thin_sections
+  - add_faq
+  - deepen_analysis
+  type: suggest
+- metrics:
+  - word_count
+  - section_breakdown
+  - compliance_status
+  type: report
+description: 'Validates article word counts against minimum thresholds and flags content
+  below the 800-word standard.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: word_count
+
+  - Frequency: 503 occurrences
+
+  - Confidence: 1.0
+
+  - Key Issues: word_count
+
+
+  This skill addresses recurring feedback about word count.'
+pattern_source:
+  confidence: 1.0
+  frequency: 503
+  pattern_id: word_count-503
+  pattern_type: word_count
+  type: pattern
+skill_id: skill_word_count_20260218_051257
+skill_name: Word Count Compliance Checker
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - word_count
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+validation_rules:
+- auto_fix: false
+  description: Validate against word_count issues
+  rule_id: validate_word_count
+  severity: error

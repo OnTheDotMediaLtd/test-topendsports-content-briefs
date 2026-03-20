@@ -1,0 +1,77 @@
+actions:
+- checks:
+  - html_structure
+  - schema_markup
+  - compliance_rules
+  - brand_guidelines
+  target: generated_output
+  type: validate
+- fail_on:
+  - blocking
+  severity_levels:
+  - blocking
+  - advisory
+  - informational
+  type: classify
+- format: validation_report
+  include_fix_instructions: true
+  type: report
+description: 'Runs comprehensive validation checks on generated content and flags
+  issues before publishing.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: validation
+
+  - Frequency: 20 occurrences
+
+  - Confidence: 1.0
+
+  - Key Issues: validation
+
+
+  This skill addresses recurring feedback about validation.'
+pattern_source:
+  confidence: 1.0
+  frequency: 20
+  pattern_id: validation-20
+  pattern_type: validation
+  type: pattern
+skill_id: skill_validation_20260218_051257
+skill_name: Output Validation Gate
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - validation
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+validation_rules:
+- auto_fix: false
+  description: Validate against validation issues
+  rule_id: validate_validation
+  severity: error

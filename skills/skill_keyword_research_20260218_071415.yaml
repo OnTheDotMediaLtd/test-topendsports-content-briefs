@@ -1,0 +1,78 @@
+actions:
+- checks:
+  - primary_keyword
+  - secondary_keywords
+  - competitor_analysis
+  - serp_features
+  - paa_questions
+  - keyword_placements
+  target: research_data
+  type: validate
+- dimensions:
+  - protocol_completeness
+  - keyword_coverage
+  - competitor_gaps
+  min_score: 70
+  type: score
+- format: keyword_audit_report
+  include_missing_steps: true
+  type: report
+description: 'Validates keyword research completeness against the 6-step protocol
+  and flags missing placements or competitor analysis.
+
+
+
+  Generated from pattern analysis:
+
+  - Pattern Type: keyword_research
+
+  - Frequency: 8 occurrences
+
+  - Confidence: 0.8
+
+  - Key Issues: keyword_research
+
+
+  This skill addresses recurring feedback about keyword research.'
+pattern_source:
+  confidence: 0.8
+  frequency: 8
+  pattern_id: keyword_research-8
+  pattern_type: keyword_research
+  type: pattern
+skill_id: skill_keyword_research_20260218_071415
+skill_name: Keyword Research Protocol Validator
+skill_version: 1.0.0
+success_metrics:
+  auto_disable_if:
+    false_positive_rate_above: 0.2
+    success_rate_below: 0.75
+  measure:
+    false_positives:
+      description: Rate of incorrect detections
+      target: less_than_10_percent
+    feedback_reduction:
+      description: Measure reduction in related feedback
+      target: reduce_by_70_percent
+    pattern_recurrence:
+      description: Measure if pattern still occurs after skill deployment
+      target: reduce_by_80_percent
+    processing_time:
+      description: Time to validate/fix issue
+      target: less_than_5_seconds
+  review_period: 30_days
+  target_success_rate: 0.9
+trigger_conditions:
+- context: feedback_or_content
+  keywords:
+  - keyword_research
+  min_matches: 1
+  type: keyword_match
+- threshold: 10
+  timeframe: 30_days
+  type: pattern_frequency
+validation_rules:
+- auto_fix: false
+  description: Validate against keyword_research issues
+  rule_id: validate_keyword_research
+  severity: error
