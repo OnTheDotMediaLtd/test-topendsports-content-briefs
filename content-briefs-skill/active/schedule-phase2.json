@@ -1,0 +1,268 @@
+{
+  "page_info": {
+    "page_name": "schedule",
+    "url": "/sport/betting/soccer/world-cup-2026/schedule.htm",
+    "full_url": "https://www.topendsports.com/sport/betting/soccer/world-cup-2026/schedule.htm",
+    "language": "en",
+    "target_market": "USA",
+    "template": 2,
+    "template_name": "Informational/How-To Hybrid",
+    "writer": "Tom Goldsmith",
+    "word_count_target": "3500-4000",
+    "phase": 2,
+    "generated_date": "2026-04-01"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "world cup schedule",
+      "volume": 63000,
+      "difficulty": 78,
+      "traffic_potential": 227000,
+      "section": "H1",
+      "section_title": "World Cup Schedule | Complete 2026 FIFA Match Dates & Fixtures"
+    },
+    "secondary_total_volume": 91750,
+    "cluster_total_volume": 154750,
+    "volume_increase_percent": 146
+  },
+  "keyword_mapping": [
+    {"keyword": "world cup schedule", "volume": 63000, "section_type": "H1", "section_title": "World Cup Schedule | Complete 2026 FIFA Match Dates & Fixtures"},
+    {"keyword": "world cup 2026 schedule", "volume": 22000, "section_type": "H2", "section_title": "World Cup 2026 Schedule & Match Dates"},
+    {"keyword": "fifa world cup 2026 schedule", "volume": 14000, "section_type": "H2", "section_title": "World Cup 2026 Schedule & Match Dates"},
+    {"keyword": "fifa world cup schedule", "volume": 14000, "section_type": "Natural", "section_title": "Introduction and H2 sections"},
+    {"keyword": "world cup schedule 2026", "volume": 13000, "section_type": "Natural", "section_title": "Introduction"},
+    {"keyword": "2026 world cup schedule", "volume": 10000, "section_type": "Natural", "section_title": "Introduction"},
+    {"keyword": "world cup 2026 dates", "volume": 5500, "section_type": "H2", "section_title": "World Cup 2026 Dates & Key Information"},
+    {"keyword": "world cup fixtures", "volume": 4300, "section_type": "H2", "section_title": "World Cup 2026 Fixtures by Venue"},
+    {"keyword": "world cup host cities", "volume": 2200, "section_type": "H2", "section_title": "World Cup Host Cities & Venues"},
+    {"keyword": "world cup match schedule", "volume": 1800, "section_type": "Natural", "section_title": "Schedule H2"},
+    {"keyword": "world cup venues", "volume": 1700, "section_type": "H3", "section_title": "Mexico Venues"},
+    {"keyword": "world cup game schedule", "volume": 1000, "section_type": "Natural", "section_title": "Schedule H2"},
+    {"keyword": "world cup dates", "volume": 1000, "section_type": "Natural", "section_title": "Dates H2"},
+    {"keyword": "world cup fixtures 2026", "volume": 350, "section_type": "Natural", "section_title": "Fixtures H2"},
+    {"keyword": "world cup usa schedule", "volume": 300, "section_type": "H3", "section_title": "US Venues"},
+    {"keyword": "fifa world cup 2026 venues", "volume": 300, "section_type": "H3", "section_title": "FIFA World Cup 2026 Venues"},
+    {"keyword": "world cup tv schedule", "volume": 200, "section_type": "H3", "section_title": "World Cup TV Schedule & How to Watch"},
+    {"keyword": "world cup game times", "volume": 100, "section_type": "FAQ", "section_title": "What time do World Cup games kick off?"}
+  ],
+  "content_outline": {
+    "h1": {
+      "title": "World Cup Schedule | Complete 2026 FIFA Match Dates & Fixtures",
+      "keywords": ["world cup schedule"]
+    },
+    "sections": [
+      {
+        "type": "introduction",
+        "title": "Introduction",
+        "word_count": 150,
+        "keywords": ["world cup schedule", "world cup schedule 2026", "2026 world cup schedule", "fifa world cup schedule"],
+        "writer_must_cover": [
+          "Key dates: June 11 - July 19, 2026, hosted across USA, Mexico, and Canada",
+          "48-team format with 104 total matches across 16 venues",
+          "Direct answer: link to schedule sections below",
+          "Authority: Comprehensive match-by-match schedule with betting angles",
+          "NO affiliate disclosure"
+        ]
+      },
+      {
+        "type": "quick_answer",
+        "title": "Quick Answer - Key World Cup 2026 Dates",
+        "word_count": 100,
+        "writer_must_cover": [
+          "Opening match: June 11, 2026 (Mexico City, Estadio Azteca)",
+          "Group stage: June 11-28, 2026",
+          "Final: July 19, 2026 (MetLife Stadium, New York/New Jersey)",
+          "16 venues across 3 countries"
+        ]
+      },
+      {
+        "type": "comparison_table",
+        "title": "Best Sportsbooks for World Cup Match Betting",
+        "word_count": 100,
+        "brands": ["FanDuel", "BetMGM", "DraftKings", "bet365", "Caesars", "Fanatics", "theScore BET"]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup 2026 Schedule & Match Dates",
+        "word_count": 650,
+        "keywords": ["world cup 2026 schedule", "fifa world cup 2026 schedule"],
+        "subsections": [
+          {"type": "h3", "title": "Group Stage Schedule (June 11-28)", "word_count": 150, "writer_must_cover": ["48 teams in 12 groups of 4", "3 matchdays per group", "Key group stage matches to watch", "Time zones for US viewers"]},
+          {"type": "h3", "title": "Round of 32 (June 29 - July 2)", "word_count": 75, "writer_must_cover": ["New knockout round for 48-team format", "32 teams advance", "Match format and extra time rules"]},
+          {"type": "h3", "title": "Round of 16 (July 3-6)", "word_count": 75, "writer_must_cover": ["Traditional knockout stage begins", "Expected matchups based on group seedings"]},
+          {"type": "h3", "title": "Quarter-Finals (July 9-10)", "word_count": 75, "writer_must_cover": ["8 remaining teams", "Venue assignments"]},
+          {"type": "h3", "title": "Semi-Finals (July 14-15)", "word_count": 75, "writer_must_cover": ["Venues", "Historical semi-final patterns"]},
+          {"type": "h3", "title": "World Cup Final (July 19, 2026)", "word_count": 100, "writer_must_cover": ["MetLife Stadium, East Rutherford NJ", "Capacity 82,500", "Third-place match July 18"]}
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup 2026 Dates & Key Information",
+        "word_count": 400,
+        "keywords": ["world cup 2026 dates", "world cup dates"],
+        "writer_must_cover": [
+          "Complete tournament timeline: draw, group stage, knockouts, final",
+          "48-team format explanation (first time in history)",
+          "12 groups of 4 teams (top 2 + 8 best third-place advance)",
+          "104 total matches across 39 days",
+          "Ticket and travel information for US-based fans"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup 2026 Fixtures by Venue",
+        "word_count": 400,
+        "keywords": ["world cup fixtures", "world cup fixtures 2026"],
+        "writer_must_cover": [
+          "Match assignments per stadium (which rounds each venue hosts)",
+          "MetLife Stadium: Final + semi-final",
+          "SoFi Stadium, AT&T Stadium: Semi-finals + QFs",
+          "Number of matches per venue",
+          "Stadium capacities"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup Host Cities & Venues",
+        "word_count": 550,
+        "keywords": ["world cup host cities"],
+        "subsections": [
+          {"type": "h3", "title": "US Venues (11 Cities)", "word_count": 250, "keywords": ["world cup usa schedule"], "writer_must_cover": ["MetLife Stadium (NJ), SoFi Stadium (LA), AT&T Stadium (Dallas), Hard Rock Stadium (Miami), NRG Stadium (Houston), Mercedes-Benz Stadium (Atlanta), Lumen Field (Seattle), Levi's Stadium (SF), Gillette Stadium (Boston), Lincoln Financial Field (Philadelphia), BC Place (Vancouver belongs to Canada)", "Capacity and location for each"]},
+          {"type": "h3", "title": "Mexico Venues (3 Cities)", "word_count": 150, "keywords": ["world cup venues"], "writer_must_cover": ["Estadio Azteca (Mexico City) - opening match venue", "Estadio BBVA (Monterrey)", "Estadio Akron (Guadalajara)"]},
+          {"type": "h3", "title": "Canada Venues (2 Cities)", "word_count": 100, "keywords": ["fifa world cup 2026 venues"], "writer_must_cover": ["BC Place (Vancouver)", "BMO Field (Toronto)"]}
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup TV Schedule & How to Watch",
+        "word_count": 350,
+        "keywords": ["world cup tv schedule", "world cup game times"],
+        "writer_must_cover": [
+          "US broadcast rights: Fox Sports, Telemundo/Peacock",
+          "Kick-off times by US time zone (ET, CT, MT, PT)",
+          "Streaming options for cord-cutters",
+          "Match times advantage for US viewers (games in local time zones)",
+          "How to bet while watching (live betting links)"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "How to Bet on World Cup Matches",
+        "word_count": 400,
+        "keywords": ["world cup betting"],
+        "subsections": [
+          {"type": "h3", "title": "Match Betting by Round", "word_count": 125, "writer_must_cover": ["Group stage: 3-way (draw possible)", "Knockouts: 2-way or 3-way + extra time", "How odds change through tournament"]},
+          {"type": "h3", "title": "Live Betting During Games", "word_count": 125, "writer_must_cover": ["In-play markets available", "Best sportsbooks for live soccer betting (bet365, FanDuel)", "Next goal scorer, corners, cards"]},
+          {"type": "h3", "title": "Best Sportsbooks for Match Betting", "word_count": 150, "writer_must_cover": ["Per-brand match betting highlights for all 7 brands", "Link to how-to-bet page for detailed guide"]}
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Payment Methods Comparison",
+        "word_count": 150,
+        "writer_must_cover": ["Deposit/withdrawal methods across 7 brands", "Fastest methods", "Minimum deposits"]
+      },
+      {
+        "type": "h2",
+        "title": "Frequently Asked Questions",
+        "word_count": 500,
+        "notes": "10 FAQs targeting keywords"
+      },
+      {
+        "type": "calculator_tools",
+        "title": "Betting Tools",
+        "word_count": 75
+      },
+      {
+        "type": "responsible_gambling",
+        "title": "Responsible Gambling",
+        "word_count": 100
+      }
+    ]
+  },
+  "faqs": [
+    {"question": "When does the 2026 World Cup start?", "target_keyword": "world cup 2026 dates", "volume": 5500, "answer_points": ["June 11, 2026 with the opening match at Estadio Azteca in Mexico City", "Tournament runs through July 19, 2026 (final at MetLife Stadium)", "39 days of competition, 104 total matches"]},
+    {"question": "Where is the 2026 World Cup being held?", "target_keyword": "world cup host cities", "volume": 2200, "answer_points": ["USA (11 cities), Mexico (3 cities), and Canada (2 cities)", "16 venues total across 3 countries", "First tri-hosted World Cup in history"]},
+    {"question": "How many games are in the 2026 World Cup?", "target_keyword": "world cup fixtures", "volume": 4300, "answer_points": ["104 total matches (up from 64 in 2022)", "48 group stage matches, 16 round of 32, 8 round of 16, 4 QFs, 2 SFs, final + 3rd place", "Expanded from 32 to 48 teams"]},
+    {"question": "What channel is the World Cup on?", "target_keyword": "world cup tv schedule", "volume": 200, "answer_points": ["Fox Sports (English) and Telemundo (Spanish) in the USA", "Streaming on Peacock and Fox Sports app", "Most games during US daytime hours due to hosting"]},
+    {"question": "What time do World Cup games kick off?", "target_keyword": "world cup game times", "volume": 100, "answer_points": ["Expect kick-offs between 11am-9pm ET for US venues", "Mexico City games may start earlier", "Exact times released closer to tournament"]},
+    {"question": "Which US cities are hosting World Cup matches?", "target_keyword": "world cup usa schedule", "volume": 300, "answer_points": ["11 US cities: New York/NJ, Los Angeles, Dallas, Miami, Houston, Atlanta, Seattle, San Francisco, Boston, Philadelphia", "MetLife Stadium hosts the final"]},
+    {"question": "Can I bet on individual World Cup matches?", "target_keyword": "match betting", "answer_points": ["Yes, all major US sportsbooks offer match betting", "Markets include moneyline, spread, totals, props", "Live in-play betting available during matches"]},
+    {"question": "What are the key dates for the 2026 World Cup?", "target_keyword": "world cup 2026 schedule", "volume": 22000, "answer_points": ["Opening: June 11 (Mexico City)", "Group stage: June 11-28", "Knockouts: June 29 - July 18", "Final: July 19 (MetLife Stadium)"]},
+    {"question": "Where is the World Cup 2026 final?", "target_keyword": "fifa world cup 2026 venues", "volume": 300, "answer_points": ["MetLife Stadium, East Rutherford, New Jersey", "Capacity 82,500", "Also hosted 2014 Super Bowl"]},
+    {"question": "How does the 48-team World Cup format work?", "target_keyword": "world cup group stage", "answer_points": ["48 teams divided into 12 groups of 4", "Top 2 from each group advance plus 8 best third-place teams", "New Round of 32 before traditional Round of 16", "104 total matches compared to 64 in previous format"]}
+  ],
+  "internal_links": [
+    {"anchor": "World Cup 2026 betting sites", "url": "/sport/betting/soccer/world-cup-2026.htm", "placement": "Introduction (paragraph 1)"},
+    {"anchor": "how to bet on World Cup", "url": "/sport/betting/soccer/world-cup-2026/how-to-bet.htm", "placement": "How to Bet section"},
+    {"anchor": "World Cup futures betting", "url": "/sport/betting/soccer/world-cup-2026/futures.htm", "placement": "Introduction (paragraph 2)"},
+    {"anchor": "World Cup groups betting", "url": "/sport/betting/soccer/world-cup-2026/groups.htm", "placement": "Group Stage Schedule H3"},
+    {"anchor": "soccer betting", "url": "/sport/betting/soccer/index.htm", "placement": "How to Bet section"},
+    {"anchor": "parlay calculator", "url": "/sport/betting/tools/parlay-calculator.htm", "placement": "Calculator Tools"},
+    {"anchor": "odds converter", "url": "/sport/betting/tools/odds-converter.htm", "placement": "Calculator Tools"},
+    {"anchor": "FanDuel review", "url": "/sport/betting/sportsbook-reviews/fanduel/index.htm", "placement": "Best Sportsbooks section"},
+    {"anchor": "BetMGM review", "url": "/sport/betting/sportsbook-reviews/betmgm/index.htm", "placement": "Best Sportsbooks section"},
+    {"anchor": "DraftKings review", "url": "/sport/betting/sportsbook-reviews/draftkings/index.htm", "placement": "Best Sportsbooks section"},
+    {"anchor": "sports betting apps", "url": "/sport/betting/best-apps.htm", "placement": "TV Schedule section"},
+    {"anchor": "implied probability calculator", "url": "/sport/betting/tools/probability-calculator.htm", "placement": "Match Betting section"}
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      {"source": "FIFA.com", "usage": "Official schedule, venue assignments, tournament format"},
+      {"source": "App Store / Google Play", "usage": "Sportsbook app ratings"},
+      {"source": "Reddit r/sportsbook", "usage": "User experiences with match betting during tournaments"}
+    ],
+    "tier_2_verification": [
+      {"source": "Official sportsbook sites", "usage": "Live betting features, match markets"},
+      {"source": "Fox Sports / Telemundo", "usage": "Broadcast schedule, streaming info"},
+      {"source": "Stadium official sites", "usage": "Capacity, location, facilities"}
+    ],
+    "tier_4_sparingly": [
+      {"source": "Affiliate sites", "usage": "Research gaps ONLY", "warning": "NEVER cite for pros/cons"}
+    ]
+  },
+  "brands": [
+    {"position": 1, "brand": "FanDuel", "badge": "FD", "color": "#1493FF", "status": "LOCKED", "usp": "Best live in-game betting for World Cup matches", "welcome_offer": "Bet $5, Get $200 in Bonus Bets"},
+    {"position": 2, "brand": "BetMGM", "badge": "MGM", "color": "#BFA36B", "status": "LOCKED", "usp": "Strong match betting markets with MGM Rewards", "welcome_offer": "Up to $1,500 in Bonus Bets"},
+    {"position": 3, "brand": "DraftKings", "badge": "DK", "color": "#53D337", "usp": "Live betting + game props per match", "welcome_offer": "Bet $5, Get $200 in Bonus Bets"},
+    {"position": 4, "brand": "bet365", "badge": "365", "color": "#0E7B46", "usp": "Live streaming of World Cup matches", "welcome_offer": "Bet $1, Get $365 in Bonus Bets"},
+    {"position": 5, "brand": "Caesars", "badge": "CZR", "color": "#0A2240", "usp": "Match-specific promos and SGPs", "welcome_offer": "Up to $1,000 First Bet"},
+    {"position": 6, "brand": "Fanatics", "badge": "FAN", "color": "#0050C8", "usp": "FanCash per match bet", "welcome_offer": "Get up to $1,000 in Bonus Bets"},
+    {"position": 7, "brand": "theScore BET", "badge": "SCR", "color": "#6B2D5B", "usp": "Live match tracking + betting integration", "welcome_offer": "Second Chance Bet up to $500"}
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ in MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "affiliate_disclosure_in_content": false,
+    "responsible_gambling_section": true
+  },
+  "eeat_requirements": {
+    "author_name": "Tom Goldsmith",
+    "author_credentials": "Sports betting analyst covering international soccer tournaments and World Cup betting markets",
+    "author_bio_link": "/about/authors/tom-goldsmith.htm"
+  },
+  "word_count_by_section": {
+    "introduction": 150,
+    "quick_answer": 100,
+    "comparison_table": 100,
+    "schedule_match_dates": 650,
+    "dates_key_info": 400,
+    "fixtures_by_venue": 400,
+    "host_cities_venues": 550,
+    "tv_schedule": 350,
+    "how_to_bet": 400,
+    "payment_methods": 150,
+    "faqs": 500,
+    "calculator_tools": 75,
+    "responsible_gambling": 100,
+    "total": 3925
+  },
+  "validation": {
+    "keywords_mapped": 18,
+    "unmapped_keywords": "NONE",
+    "secondary_volume_total": 91750,
+    "faqs_count": 10,
+    "internal_links_count": 12,
+    "brands_count": 7
+  }
+}
