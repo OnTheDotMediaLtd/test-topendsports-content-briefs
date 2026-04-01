@@ -1,0 +1,213 @@
+{
+  "page_info": {
+    "url": "/sport/betting/soccer/world-cup-2026/groups.htm",
+    "full_url": "https://www.topendsports.com/sport/betting/soccer/world-cup-2026/groups.htm",
+    "page_name": "groups",
+    "language": "en",
+    "target_market": "USA",
+    "template": 2,
+    "template_name": "How-To/Comparison Hybrid",
+    "writer": "Tom Goldsmith",
+    "priority": "High",
+    "status": "SEASONAL",
+    "generated_date": "2026-04-01",
+    "data_source": "Ahrefs API"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "world cup groups betting",
+      "volume": 30,
+      "difficulty": null,
+      "traffic_potential": null,
+      "note": "Emerging keyword with 30/mo baseline. Will spike massively as FIFA World Cup 2026 approaches (June 2026). Massive informational keywords in cluster drive total volume."
+    },
+    "secondary": [
+      {"keyword": "world cup groups", "volume": 30000, "difficulty": 60, "traffic_potential": null, "placement": "H2"},
+      {"keyword": "world cup draw", "volume": 60000, "difficulty": 69, "traffic_potential": null, "placement": "H2"},
+      {"keyword": "world cup group stage", "volume": 2800, "difficulty": 73, "traffic_potential": null, "placement": "H2"},
+      {"keyword": "world cup group standings", "volume": 3400, "difficulty": 67, "traffic_potential": null, "placement": "H2"},
+      {"keyword": "2026 world cup groups", "volume": 1900, "difficulty": 73, "traffic_potential": null, "placement": "H2"},
+      {"keyword": "world cup group of death", "volume": 350, "difficulty": 10, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup group predictions", "volume": 100, "difficulty": 4, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup odds", "volume": 2300, "difficulty": 71, "traffic_potential": null, "placement": "Natural"},
+      {"keyword": "world cup betting", "volume": 800, "difficulty": 62, "traffic_potential": null, "placement": "Natural"},
+      {"keyword": "world cup group stage betting", "volume": 10, "difficulty": 4, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup group winner odds", "volume": 10, "difficulty": 35, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup group betting odds", "volume": 10, "difficulty": 40, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup group d odds", "volume": 10, "difficulty": 45, "traffic_potential": null, "placement": "FAQ"},
+      {"keyword": "world cup group results", "volume": 20, "difficulty": null, "traffic_potential": null, "placement": "Natural"}
+    ],
+    "branded": [
+      {"keyword": "fanduel soccer", "volume": 500, "difficulty": 54, "traffic_potential": 8600, "brand": "FanDuel"},
+      {"keyword": "betmgm soccer", "volume": 20, "difficulty": 72, "traffic_potential": 600, "brand": "BetMGM"},
+      {"keyword": "draftkings soccer", "volume": 350, "difficulty": 60, "traffic_potential": 5800, "brand": "DraftKings"},
+      {"keyword": "bet365 soccer", "volume": 150, "difficulty": null, "traffic_potential": null, "brand": "bet365"},
+      {"keyword": "caesars soccer", "volume": 50, "difficulty": null, "traffic_potential": null, "brand": "Caesars"}
+    ],
+    "total_cluster_volume": 101740,
+    "volume_increase_percent": 339133
+  },
+  "competitor_analysis": {
+    "serp_overview": "SERP for 'world cup groups betting' is underdeveloped as an emerging keyword pre-tournament. High-volume informational terms like 'world cup groups' (30K/mo) and 'world cup draw' (60K/mo) are dominated by FIFA.com, Wikipedia, and major sports news outlets. Betting-specific group stage content is sparse, creating a first-mover advantage for a comprehensive group-by-group betting guide.",
+    "key_insights": [
+      "Informational queries 'world cup groups' (30K) and 'world cup draw' (60K) dwarf betting-specific terms but drive massive related traffic",
+      "48-team expanded format for 2026 creates 12 groups instead of 8, increasing content depth opportunity",
+      "Three host nations (USA, Mexico, Canada) ensure sustained domestic search interest",
+      "Group of death narratives always generate high engagement and social sharing",
+      "Low KD on betting-specific terms (KD 4-40) means easy ranking opportunities before volume spikes"
+    ],
+    "affiliate_competitors": [
+      {
+        "domain": "actionnetwork.com",
+        "focus": "World Cup betting odds and predictions",
+        "brands_covered": 5,
+        "estimated_word_count": 2500,
+        "key_sections": ["Futures odds", "Group predictions", "Expert picks"],
+        "gap": "No per-group betting breakdown, limited group stage bet types coverage"
+      },
+      {
+        "domain": "covers.com",
+        "focus": "Soccer betting odds and matchup analysis",
+        "brands_covered": 4,
+        "estimated_word_count": 2000,
+        "key_sections": ["Odds comparison", "Match previews", "Betting trends"],
+        "gap": "Generic soccer focus, not World Cup group-specific"
+      },
+      {
+        "domain": "thelines.com",
+        "focus": "Real-time odds comparison",
+        "brands_covered": 6,
+        "estimated_word_count": 1500,
+        "key_sections": ["Live odds", "Line movements", "Sportsbook comparison"],
+        "gap": "No group stage analysis, lacks educational betting guide content"
+      }
+    ],
+    "content_gaps": [
+      "Complete 12-group listing with all 48 teams and betting odds per group",
+      "Group of death analysis with betting angle and value picks",
+      "Per-group winner odds comparison across sportsbooks",
+      "Group stage-specific bet type guide (group winner, advancement, match results)",
+      "Interactive group standings tracker with live updates",
+      "Strategy section for parlaying group stage outcomes"
+    ],
+    "competitive_advantage": "First comprehensive group-by-group World Cup 2026 betting guide combining complete group listings, per-group odds, group of death analysis, and sportsbook comparison. The expanded 48-team format with 12 groups is new territory, so no competitor has established content for this structure."
+  },
+  "brand_selection": {
+    "total_brands": 5,
+    "rationale": "Primary keyword 'world cup groups betting' at 30/mo (emerging, pre-spike) qualifies for 5 brands per the sub-1,000/mo rule. Selected brands with strongest soccer/international betting markets.",
+    "brands": [
+      {
+        "position": 1,
+        "brand": "FanDuel",
+        "badge": "FD",
+        "color": "#1493FF",
+        "status": "LOCKED",
+        "rationale": "Commercial deal. Best overall platform with strong World Cup group betting markets",
+        "usp": "Best user experience and most World Cup betting markets",
+        "welcome_offer": "Bet $5, Get $150 in Bonus Bets"
+      },
+      {
+        "position": 2,
+        "brand": "BetMGM",
+        "badge": "MGM",
+        "color": "#BFA36B",
+        "status": "LOCKED",
+        "rationale": "Commercial deal. Premium platform with group stage props and MGM Rewards",
+        "usp": "Vegas-style betting with excellent group stage prop markets",
+        "welcome_offer": "Up to $1,500 in Bonus Bets"
+      },
+      {
+        "position": 3,
+        "brand": "DraftKings",
+        "badge": "DK",
+        "color": "#53D337",
+        "status": "Research-driven",
+        "rationale": "Best group stage market variety, SGP builder for group matches",
+        "usp": "Deepest group stage market selection and same-game parlays",
+        "welcome_offer": "Bet $5, Get $150 in Bonus Bets"
+      },
+      {
+        "position": 4,
+        "brand": "bet365",
+        "badge": "365",
+        "color": "#0E7B46",
+        "status": "Research-driven",
+        "rationale": "World's leading soccer betting platform with early group stage futures and live streaming",
+        "usp": "Best international soccer coverage with live streaming and group specials",
+        "welcome_offer": "Bet $1, Get $365 in Bonus Bets"
+      },
+      {
+        "position": 5,
+        "brand": "Caesars",
+        "badge": "CZR",
+        "color": "#0A2240",
+        "status": "Research-driven",
+        "rationale": "Strong parlay builder for group combo bets, Caesars Rewards integration",
+        "usp": "Best for group stage parlay combos with Caesars Rewards",
+        "welcome_offer": "Up to $1,000 First Bet"
+      }
+    ]
+  },
+  "content_structure": {
+    "word_count_target": 3250,
+    "sections": [
+      {"type": "intro", "title": "Introduction - World Cup Groups Betting", "word_count": 125, "keywords": ["world cup groups betting", "world cup betting", "world cup odds"]},
+      {"type": "comparison_table", "title": "Best Sportsbooks for World Cup Group Betting", "word_count": 75, "keywords": ["world cup groups betting"]},
+      {"type": "quick_picks", "title": "Quick Answer Box - Top 3 Picks", "word_count": 75},
+      {"type": "h2", "title": "2026 World Cup Groups Overview", "word_count": 550, "keywords": ["2026 world cup groups", "world cup groups", "world cup draw"]},
+      {"type": "h2", "title": "World Cup Group Stage Betting Guide", "word_count": 450, "keywords": ["world cup group stage", "world cup group stage betting", "world cup group winner odds", "world cup group betting odds"]},
+      {"type": "h2", "title": "World Cup Group Predictions and Odds", "word_count": 450, "keywords": ["world cup group predictions", "world cup group of death", "world cup odds"]},
+      {"type": "h2", "title": "World Cup Group Standings Tracker", "word_count": 350, "keywords": ["world cup group standings", "world cup group results"]},
+      {"type": "h2", "title": "Best Sportsbooks for Group Stage Betting", "word_count": 450, "keywords": ["world cup betting"]},
+      {"type": "h2", "title": "Group Stage Betting Strategy", "word_count": 350, "keywords": ["world cup groups betting"]},
+      {"type": "faq", "title": "Frequently Asked Questions", "word_count": 400, "notes": "8 FAQs targeting specific keywords"},
+      {"type": "calculator_links", "title": "Betting Calculator Tools", "word_count": 75},
+      {"type": "responsible_gambling", "title": "Responsible Gambling", "word_count": 100}
+    ]
+  },
+  "internal_links": [
+    {"anchor": "World Cup 2026 betting sites", "url": "/sport/betting/soccer/world-cup-2026.htm", "context": "Main World Cup 2026 hub page"},
+    {"anchor": "how to bet on World Cup", "url": "/sport/betting/soccer/world-cup-2026/how-to-bet.htm", "context": "Beginner betting guide"},
+    {"anchor": "World Cup futures betting", "url": "/sport/betting/soccer/world-cup-2026/futures.htm", "context": "Tournament futures and outright winner odds"},
+    {"anchor": "World Cup 2026 schedule", "url": "/sport/betting/soccer/world-cup-2026/schedule.htm", "context": "Match schedule and dates"},
+    {"anchor": "soccer betting", "url": "/sport/betting/soccer/index.htm", "context": "Main soccer betting hub"},
+    {"anchor": "parlay calculator", "url": "/sport/betting/tools/parlay-calculator.htm", "context": "Calculate group stage parlay payouts"},
+    {"anchor": "odds converter", "url": "/sport/betting/tools/odds-converter.htm", "context": "Convert between American, decimal, and fractional odds"},
+    {"anchor": "FanDuel review", "url": "/sport/betting/sportsbook-reviews/fanduel/index.htm", "context": "Full FanDuel sportsbook review"},
+    {"anchor": "BetMGM review", "url": "/sport/betting/sportsbook-reviews/betmgm/index.htm", "context": "Full BetMGM sportsbook review"},
+    {"anchor": "DraftKings review", "url": "/sport/betting/sportsbook-reviews/draftkings/index.htm", "context": "Full DraftKings sportsbook review"},
+    {"anchor": "sports betting apps", "url": "/sport/betting/best-apps.htm", "context": "Best sportsbook app comparison"},
+    {"anchor": "implied probability calculator", "url": "/sport/betting/tools/probability-calculator.htm", "context": "Calculate implied probability from odds"}
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ in MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "affiliate_disclosure": false,
+    "affiliate_disclosure_note": "NO affiliate disclosure in content - it appears in website sidebar",
+    "responsible_gambling_section": true
+  },
+  "technical_requirements": [
+    "Comparison table with all 5 brands (mobile-responsive)",
+    "Letter badges (FD, MGM, DK, 365, CZR)",
+    "Last Updated badge after H1 (seasonal content)",
+    "FAQ accordion with expand/collapse",
+    "Complete 12-group listings table for 48-team format",
+    "Per-group odds comparison table",
+    "Group standings tracker (update during tournament)",
+    "Schema markup (Article, FAQ, Breadcrumb)",
+    "Interactive elements with JavaScript",
+    "Mobile-first design"
+  ],
+  "seasonal_notes": {
+    "tournament_schedule": "FIFA World Cup 2026 runs June 11 - July 19, 2026 (USA, Mexico, Canada)",
+    "content_update_timing": "Update after draw (December 2025), weekly as tournament approaches, daily during group stage",
+    "key_dates": "Group stage: June 11 - June 26, 2026",
+    "traffic_spike": "Massive spike expected from draw announcement through group stage completion"
+  },
+  "metadata": {
+    "created": "2026-04-01",
+    "phase": 1,
+    "version": "1.0",
+    "ahrefs_data_timestamp": "2026-04-01"
+  }
+}

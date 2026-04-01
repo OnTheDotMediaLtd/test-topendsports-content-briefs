@@ -1,0 +1,247 @@
+{
+  "page_info": {
+    "url": "/sport/betting/soccer/world-cup-2026/schedule.htm",
+    "full_url": "https://www.topendsports.com/sport/betting/soccer/world-cup-2026/schedule.htm",
+    "page_name": "schedule",
+    "language": "en",
+    "target_market": "USA",
+    "template": 2,
+    "template_name": "Informational/How-To Hybrid",
+    "writer": "Tom Goldsmith",
+    "priority": "High",
+    "status": "PRE-EVENT",
+    "generated_date": "2026-04-01",
+    "data_source": "Ahrefs API"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "world cup schedule",
+      "volume": 63000,
+      "difficulty": 78,
+      "traffic_potential": 227000,
+      "note": "Extremely high-volume informational keyword with massive traffic potential. Schedule-focused intent with strong betting crossover during live tournament."
+    },
+    "secondary": [
+      {"keyword": "world cup 2026 schedule", "volume": 22000, "difficulty": 80, "traffic_potential": 227000, "placement": "H2"},
+      {"keyword": "fifa world cup 2026 schedule", "volume": 14000, "difficulty": 81, "traffic_potential": 227000, "placement": "H2"},
+      {"keyword": "fifa world cup schedule", "volume": 14000, "difficulty": 77, "traffic_potential": 227000, "placement": "Natural"},
+      {"keyword": "world cup schedule 2026", "volume": 13000, "difficulty": 76, "traffic_potential": 227000, "placement": "Natural"},
+      {"keyword": "2026 world cup schedule", "volume": 10000, "difficulty": 81, "traffic_potential": 227000, "placement": "Natural"},
+      {"keyword": "world cup 2026 dates", "volume": 5500, "difficulty": 80, "traffic_potential": 227000, "placement": "H2"},
+      {"keyword": "world cup fixtures", "volume": 4300, "difficulty": 67, "traffic_potential": 227000, "placement": "H2"},
+      {"keyword": "world cup host cities", "volume": 2200, "difficulty": 75, "traffic_potential": 227000, "placement": "H2"},
+      {"keyword": "world cup match schedule", "volume": 1800, "difficulty": 67, "traffic_potential": 227000, "placement": "Natural"},
+      {"keyword": "world cup venues", "volume": 1700, "difficulty": 57, "traffic_potential": 227000, "placement": "H3"},
+      {"keyword": "world cup game schedule", "volume": 1000, "difficulty": 80, "traffic_potential": 227000, "placement": "Natural"},
+      {"keyword": "world cup dates", "volume": 1000, "difficulty": 79, "traffic_potential": 227000, "placement": "Natural"},
+      {"keyword": "world cup fixtures 2026", "volume": 350, "difficulty": null, "traffic_potential": null, "placement": "Natural"},
+      {"keyword": "world cup usa schedule", "volume": 300, "difficulty": 63, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "fifa world cup 2026 venues", "volume": 300, "difficulty": 73, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup tv schedule", "volume": 200, "difficulty": 42, "traffic_potential": null, "placement": "H3"},
+      {"keyword": "world cup game times", "volume": 100, "difficulty": 42, "traffic_potential": null, "placement": "FAQ"}
+    ],
+    "branded": [
+      {"keyword": "fanduel soccer betting", "volume": 500, "difficulty": 54, "traffic_potential": 8600, "brand": "FanDuel"},
+      {"keyword": "betmgm soccer", "volume": 200, "difficulty": 72, "traffic_potential": 600, "brand": "BetMGM"},
+      {"keyword": "draftkings soccer", "volume": 350, "difficulty": 60, "traffic_potential": 5800, "brand": "DraftKings"},
+      {"keyword": "bet365 soccer", "volume": 150, "difficulty": null, "traffic_potential": null, "brand": "bet365"},
+      {"keyword": "caesars soccer betting", "volume": 50, "difficulty": null, "traffic_potential": null, "brand": "Caesars"}
+    ],
+    "total_cluster_volume": 154750,
+    "volume_increase_percent": 146
+  },
+  "competitor_analysis": {
+    "serp_overview": "SERP for 'world cup schedule' is dominated by FIFA.com, ESPN, and major sports news outlets. Affiliate betting sites are underrepresented on this informational query, creating an opportunity to capture schedule-intent traffic and funnel it toward betting content. The 48-team expansion creates fresh content opportunities as most existing pages cover the old 32-team format.",
+    "key_insights": [
+      "Primary keyword 63K/mo with traffic potential of 227K - one of the highest-volume World Cup terms",
+      "48-team format is new for 2026, creating content freshness advantage over recycled 32-team guides",
+      "Three host countries (US/Mexico/Canada) adds unique venue and schedule complexity competitors struggle to cover comprehensively",
+      "Schedule content has strong live-event betting crossover - users checking schedules are primed for match betting",
+      "Low affiliate competition on this informational query means easier ranking for a well-structured page",
+      "Multiple keyword variants (schedule, dates, fixtures) all point to same search intent - one comprehensive page can capture all"
+    ],
+    "affiliate_competitors": [
+      {
+        "domain": "actionnetwork.com",
+        "focus": "World Cup betting odds and schedule coverage",
+        "brands_covered": 5,
+        "estimated_word_count": 2500,
+        "key_sections": ["Match odds", "Tournament bracket", "Schedule by round"],
+        "gap": "Betting-first approach lacks comprehensive schedule/venue detail"
+      },
+      {
+        "domain": "covers.com",
+        "focus": "World Cup betting guide with schedule reference",
+        "brands_covered": 4,
+        "estimated_word_count": 2000,
+        "key_sections": ["Odds comparison", "Tournament format", "Betting tips"],
+        "gap": "Schedule is secondary to betting content, no venue breakdown by country"
+      },
+      {
+        "domain": "thelines.com",
+        "focus": "World Cup odds and lines tracker",
+        "brands_covered": 6,
+        "estimated_word_count": 1800,
+        "key_sections": ["Live odds", "Line movements", "Match schedules"],
+        "gap": "No comprehensive host city or venue information, thin on fixture details"
+      },
+      {
+        "domain": "sportsbettingdime.com",
+        "focus": "World Cup betting guide with schedule section",
+        "brands_covered": 5,
+        "estimated_word_count": 2200,
+        "key_sections": ["How to bet", "Schedule overview", "Sportsbook reviews"],
+        "gap": "Generic schedule section without detailed round-by-round breakdown"
+      }
+    ],
+    "content_gaps": [
+      "Comprehensive round-by-round schedule breakdown with dates for all tournament phases",
+      "Detailed venue and host city guide across all three countries (US, Mexico, Canada)",
+      "TV schedule and kick-off times by time zone for US viewers",
+      "Integration of schedule information with match betting opportunities per round",
+      "48-team format explanation with group stage structure and progression rules",
+      "Mobile-friendly schedule reference that doubles as a betting companion during the tournament"
+    ],
+    "competitive_advantage": "First comprehensive World Cup 2026 schedule page that combines detailed fixture information across all three host countries with actionable betting guidance per match round. The informational-first approach captures high-volume schedule searches while naturally converting to betting engagement."
+  },
+  "brand_selection": {
+    "total_brands": 7,
+    "rationale": "Primary keyword at 63,000/mo with 227K traffic potential is among the highest-volume World Cup terms. Seven brands warranted for this traffic level. Focus on sportsbooks with strong live/in-game betting features since schedule pages attract users during live matches.",
+    "brands": [
+      {
+        "position": 1,
+        "brand": "FanDuel",
+        "badge": "FD",
+        "color": "#1493FF",
+        "status": "LOCKED",
+        "rationale": "Commercial deal. Best overall mobile app, strong live in-game betting for World Cup matches",
+        "usp": "Best live in-game betting experience for World Cup matches",
+        "welcome_offer": "Bet $5, Get $150 in Bonus Bets"
+      },
+      {
+        "position": 2,
+        "brand": "BetMGM",
+        "badge": "MGM",
+        "color": "#BFA36B",
+        "status": "LOCKED",
+        "rationale": "Commercial deal. Premium platform with strong match betting markets and live betting",
+        "usp": "Premium match betting markets with extensive World Cup coverage",
+        "welcome_offer": "Up to $1,500 in Bonus Bets"
+      },
+      {
+        "position": 3,
+        "brand": "DraftKings",
+        "badge": "DK",
+        "color": "#53D337",
+        "status": "Research-driven",
+        "rationale": "Best game props and SGP builder for individual World Cup matches",
+        "usp": "Best match props and same-game parlays for every World Cup game",
+        "welcome_offer": "Bet $5, Get $150 in Bonus Bets"
+      },
+      {
+        "position": 4,
+        "brand": "bet365",
+        "badge": "365",
+        "color": "#0E7B46",
+        "status": "Research-driven",
+        "rationale": "World's leading soccer betting platform with live streaming of World Cup matches",
+        "usp": "Live streaming of World Cup matches with in-play betting",
+        "welcome_offer": "Bet $1, Get $365 in Bonus Bets"
+      },
+      {
+        "position": 5,
+        "brand": "Caesars",
+        "badge": "CZR",
+        "color": "#0A2240",
+        "status": "Research-driven",
+        "rationale": "Match-specific promos and SGPs for World Cup games, Caesars Rewards integration",
+        "usp": "Match-specific promos and exclusive World Cup betting boosts",
+        "welcome_offer": "Up to $1,000 First Bet"
+      },
+      {
+        "position": 6,
+        "brand": "Fanatics",
+        "badge": "FAN",
+        "color": "#0050C8",
+        "status": "Research-driven",
+        "rationale": "Growing platform offering FanCash per match bet, appeals to merchandise buyers",
+        "usp": "Earn FanCash on every World Cup bet for jerseys and gear",
+        "welcome_offer": "Get up to $1,000 in Bonus Bets"
+      },
+      {
+        "position": 7,
+        "brand": "theScore BET",
+        "badge": "SCR",
+        "color": "#5C2D91",
+        "status": "Research-driven",
+        "rationale": "Live match tracking integrated with betting, strong real-time stats during games",
+        "usp": "Live match tracking with integrated real-time betting",
+        "welcome_offer": "Up to $1,000 in Bonus Bets"
+      }
+    ]
+  },
+  "content_structure": {
+    "word_count_target": 3750,
+    "sections": [
+      {"type": "intro", "title": "Introduction - World Cup 2026 Schedule Overview", "word_count": 125, "keywords": ["world cup schedule", "fifa world cup schedule"]},
+      {"type": "quick_answer", "title": "Quick Answer Box - Key Dates", "word_count": 75, "notes": "June 11 - July 19, 2026; 48 teams; 16 venues across US, Mexico, Canada"},
+      {"type": "comparison_table", "title": "Comparison Table - 7 Sportsbooks for World Cup Match Betting", "word_count": 100, "keywords": ["world cup match schedule"]},
+      {"type": "h2", "title": "World Cup 2026 Schedule & Match Dates", "word_count": 650, "keywords": ["world cup 2026 schedule", "fifa world cup 2026 schedule"]},
+      {"type": "h2", "title": "World Cup 2026 Dates & Key Information", "word_count": 450, "keywords": ["world cup 2026 dates", "world cup dates"]},
+      {"type": "h2", "title": "World Cup 2026 Fixtures by Venue", "word_count": 450, "keywords": ["world cup fixtures", "world cup fixtures 2026"]},
+      {"type": "h2", "title": "World Cup Host Cities & Venues", "word_count": 550, "keywords": ["world cup host cities", "world cup venues"]},
+      {"type": "h2", "title": "World Cup TV Schedule & How to Watch", "word_count": 350, "keywords": ["world cup tv schedule", "world cup game times"]},
+      {"type": "h2", "title": "How to Bet on World Cup Matches", "word_count": 450, "keywords": ["world cup match schedule", "world cup game schedule"]},
+      {"type": "brand_reviews", "title": "Sportsbook Match Betting Highlights", "word_count": 1575, "notes": "225 words per brand x 7 brands (Key Features, Mobile Experience, Pros/Cons)"},
+      {"type": "payment_methods", "title": "Payment Methods Comparison", "word_count": 150},
+      {"type": "faq", "title": "Frequently Asked Questions", "word_count": 500, "notes": "10 FAQs targeting keywords"},
+      {"type": "calculator_tools", "title": "Betting Calculator Tools", "word_count": 75},
+      {"type": "responsible_gambling", "title": "Responsible Gambling", "word_count": 100}
+    ]
+  },
+  "internal_links": [
+    {"anchor": "World Cup 2026 betting sites", "url": "/sport/betting/soccer/world-cup-2026.htm", "context": "Main World Cup 2026 hub page"},
+    {"anchor": "how to bet on World Cup", "url": "/sport/betting/soccer/world-cup-2026/how-to-bet.htm", "context": "World Cup betting guide"},
+    {"anchor": "World Cup futures betting", "url": "/sport/betting/soccer/world-cup-2026/futures.htm", "context": "Futures and outright markets"},
+    {"anchor": "World Cup groups betting", "url": "/sport/betting/soccer/world-cup-2026/groups.htm", "context": "Group stage betting guide"},
+    {"anchor": "soccer betting", "url": "/sport/betting/soccer/index.htm", "context": "Soccer betting hub"},
+    {"anchor": "parlay calculator", "url": "/sport/betting/tools/parlay-calculator.htm", "context": "Calculate multi-match parlays"},
+    {"anchor": "odds converter", "url": "/sport/betting/tools/odds-converter.htm", "context": "Convert American/decimal/fractional odds"},
+    {"anchor": "FanDuel review", "url": "/sport/betting/sportsbook-reviews/fanduel/index.htm", "context": "Full FanDuel sportsbook review"},
+    {"anchor": "BetMGM review", "url": "/sport/betting/sportsbook-reviews/betmgm/index.htm", "context": "Full BetMGM sportsbook review"},
+    {"anchor": "DraftKings review", "url": "/sport/betting/sportsbook-reviews/draftkings/index.htm", "context": "Full DraftKings sportsbook review"},
+    {"anchor": "sports betting apps", "url": "/sport/betting/best-apps.htm", "context": "Best sportsbook apps comparison"},
+    {"anchor": "implied probability calculator", "url": "/sport/betting/tools/probability-calculator.htm", "context": "Calculate implied probability from odds"}
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ in MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "affiliate_disclosure": false,
+    "affiliate_disclosure_note": "NO affiliate disclosure in content - it's in website sidebar",
+    "responsible_gambling_section": true
+  },
+  "technical_requirements": [
+    "Comparison table with all 7 brands (mobile-responsive)",
+    "Letter badges (FD, MGM, DK, 365, CZR, FAN, SCR)",
+    "Last Updated badge after H1",
+    "FAQ accordion with expand/collapse",
+    "Round-by-round schedule table (group stage through final)",
+    "Venue map or venue list organized by country",
+    "TV schedule table with time zones (ET, CT, MT, PT)",
+    "Schema markup (Article, FAQ, Breadcrumb, SportsEvent)",
+    "Interactive elements with JavaScript",
+    "Mobile-first design for checking schedule during tournament"
+  ],
+  "seasonal_notes": {
+    "tournament_schedule": "June 11 - July 19, 2026",
+    "content_update_timing": "Update with confirmed fixtures as draw results are announced; daily updates during tournament",
+    "key_dates": "Opening match June 11, Final July 19 at MetLife Stadium",
+    "traffic_spike": "Highest traffic during group stage (most matches per day) and knockout rounds"
+  },
+  "metadata": {
+    "created": "2026-04-01",
+    "phase": 1,
+    "version": "1.0",
+    "ahrefs_data_timestamp": "2026-04-01"
+  }
+}
