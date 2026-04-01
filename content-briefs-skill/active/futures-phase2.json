@@ -1,0 +1,686 @@
+{
+  "page_info": {
+    "page_name": "futures",
+    "url": "/sport/betting/soccer/world-cup-2026/futures.htm",
+    "language": "en",
+    "target_market": "USA",
+    "template": "2/3 mix",
+    "template_name": "Comparison/How-To Hybrid",
+    "writer": "Tom Goldsmith",
+    "word_count_target": "3000-3500",
+    "phase": 2,
+    "generated_date": "2026-04-01"
+  },
+  "keywords": {
+    "primary": {
+      "keyword": "world cup futures betting",
+      "volume": "emerging",
+      "section": "H1",
+      "section_title": "World Cup Futures Betting | Odds & Predictions for 2026"
+    },
+    "secondary_total_volume": 15310,
+    "cluster_total_volume": "15310+ (primary emerging)",
+    "volume_increase_note": "Massive increase; cluster dominated by high-volume informational terms expected to spike 10-50x as tournament approaches"
+  },
+  "keyword_mapping": [
+    {
+      "keyword": "world cup futures betting",
+      "volume": "emerging",
+      "section_type": "H1",
+      "section_title": "World Cup Futures Betting | Odds & Predictions for 2026"
+    },
+    {
+      "keyword": "world cup odds",
+      "volume": 2300,
+      "section_type": "H2",
+      "section_title": "World Cup 2026 Odds & Predictions"
+    },
+    {
+      "keyword": "world cup odds 2026",
+      "volume": 800,
+      "section_type": "H2",
+      "section_title": "World Cup 2026 Odds & Predictions"
+    },
+    {
+      "keyword": "world cup winner odds",
+      "volume": 600,
+      "section_type": "H3",
+      "section_title": "Current Favorites to Win"
+    },
+    {
+      "keyword": "2026 world cup odds",
+      "volume": 600,
+      "section_type": "H2",
+      "section_title": "World Cup Winner Odds Comparison"
+    },
+    {
+      "keyword": "fifa world cup odds",
+      "volume": 400,
+      "section_type": "H2",
+      "section_title": "FIFA World Cup 2026 Preview"
+    },
+    {
+      "keyword": "world cup predictions",
+      "volume": 5500,
+      "section_type": "H2",
+      "section_title": "World Cup 2026 Odds & Predictions"
+    },
+    {
+      "keyword": "2026 world cup winner",
+      "volume": 250,
+      "section_type": "H3",
+      "section_title": "Current Favorites to Win"
+    },
+    {
+      "keyword": "world cup futures",
+      "volume": 150,
+      "section_type": "Natural",
+      "section_title": "Introduction and Types of Futures Bets H2"
+    },
+    {
+      "keyword": "world cup golden boot odds",
+      "volume": 150,
+      "section_type": "H3",
+      "section_title": "Golden Boot (Top Scorer)"
+    },
+    {
+      "keyword": "world cup winner",
+      "volume": 3600,
+      "section_type": "H2",
+      "section_title": "World Cup Winner Odds Comparison"
+    },
+    {
+      "keyword": "world cup betting",
+      "volume": 800,
+      "section_type": "Natural",
+      "section_title": "Best Sportsbooks for World Cup Futures H2 and Introduction"
+    },
+    {
+      "keyword": "world cup top scorer odds",
+      "volume": 50,
+      "section_type": "H3",
+      "section_title": "Golden Boot (Top Scorer)"
+    },
+    {
+      "keyword": "world cup favorite",
+      "volume": 50,
+      "section_type": "FAQ",
+      "section_title": "Who is the favorite to win the 2026 World Cup?"
+    },
+    {
+      "keyword": "who will win world cup",
+      "volume": 30,
+      "section_type": "FAQ",
+      "section_title": "Who will win the 2026 World Cup?"
+    },
+    {
+      "keyword": "world cup champion odds",
+      "volume": 30,
+      "section_type": "Natural",
+      "section_title": "World Cup Winner Odds Comparison"
+    }
+  ],
+  "content_outline": {
+    "h1": {
+      "title": "World Cup Futures Betting | Odds & Predictions for 2026",
+      "keywords": ["world cup futures betting"],
+      "notes": "NO year in title as dated language - use Last Updated badge instead. The '2026' here refers to the specific tournament name, not a dated claim."
+    },
+    "sections": [
+      {
+        "type": "last_updated_badge",
+        "word_count": 0,
+        "notes": "Required after H1 for pre-event content"
+      },
+      {
+        "type": "introduction",
+        "title": "Introduction",
+        "word_count": 150,
+        "keywords": ["world cup futures betting", "world cup futures", "world cup betting"],
+        "writer_must_cover": [
+          "Direct answer: Name current favorites (Brazil, France, Argentina, England) and top 3 sportsbooks for futures (FanDuel, BetMGM, DraftKings)",
+          "Authority statement: Mention testing methodology (compared odds across 7 sportsbooks, evaluated futures market depth)",
+          "Briefly explain what futures bets are for readers unfamiliar",
+          "NO affiliate disclosure - it's in sidebar"
+        ]
+      },
+      {
+        "type": "comparison_table",
+        "title": "Best Sportsbooks for World Cup 2026 Futures",
+        "word_count": 100,
+        "brands": ["FanDuel", "BetMGM", "DraftKings", "Caesars", "bet365", "Fanatics", "theScore BET"],
+        "notes": "Phase 3 will implement HTML table. Focus on futures-specific features: market variety, early lines, cashout options."
+      },
+      {
+        "type": "quick_answer",
+        "title": "Quick Answer - Top 3 Sportsbooks for World Cup Futures",
+        "word_count": 75,
+        "writer_must_cover": [
+          "FanDuel: Best overall futures experience - clean interface for comparing odds across all markets",
+          "BetMGM: Best futures odds value - competitive lines with MGM Rewards on every bet",
+          "DraftKings: Widest futures selection - most market types including niche tournament props"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup 2026 Odds & Predictions",
+        "word_count": 550,
+        "keywords": ["world cup odds 2026", "world cup predictions", "world cup winner odds"],
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Current Favorites to Win",
+            "word_count": 250,
+            "keywords": ["world cup winner odds", "2026 world cup winner"],
+            "writer_must_cover": [
+              "Current outright winner odds for top 8-10 teams across sportsbooks",
+              "Brazil, France, Argentina, England as consensus favorites with specific odds",
+              "Host nation advantage analysis (USA, Mexico) and what history shows",
+              "Why odds may shift significantly before tournament (injuries, qualifying results)"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Dark Horse Picks",
+            "word_count": 200,
+            "writer_must_cover": [
+              "3-4 teams offering value at longer odds (Netherlands, Portugal, Germany, Spain)",
+              "Historical precedent for surprise World Cup winners",
+              "Why expanded 48-team format creates more upset potential",
+              "Specific odds ranges that represent value based on historical performance"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "World Cup Winner Odds Comparison",
+        "word_count": 450,
+        "keywords": ["world cup winner", "2026 world cup odds", "world cup champion odds"],
+        "writer_must_cover": [
+          "Complete odds comparison table showing outright winner odds from all 7 sportsbooks for top 10 teams",
+          "Which sportsbook consistently offers best outright winner odds (bet365 for soccer)",
+          "How to read and compare futures odds across books",
+          "Explanation of implied probability from odds - link to probability calculator",
+          "Note that odds will change significantly; encourage checking back regularly"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Types of World Cup Futures Bets",
+        "word_count": 450,
+        "keywords": ["world cup futures", "who will win world cup"],
+        "subsections": [
+          {
+            "type": "h3",
+            "title": "Outright Winner",
+            "word_count": 100,
+            "keywords": ["who will win world cup"],
+            "writer_must_cover": [
+              "Most popular futures bet - picking tournament champion before it starts",
+              "How outright winner odds work (moneyline format)",
+              "Typical payout ranges for favorites vs longshots",
+              "When outright winner markets open (months before tournament)"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Golden Boot (Top Scorer)",
+            "word_count": 125,
+            "keywords": ["world cup golden boot odds", "world cup top scorer odds"],
+            "writer_must_cover": [
+              "Bet on which player scores the most goals in the tournament",
+              "Current golden boot favorites with odds",
+              "Historical golden boot winners and goal totals from recent World Cups",
+              "Which sportsbooks offer golden boot markets (DraftKings widest selection)"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Group Winners",
+            "word_count": 100,
+            "writer_must_cover": [
+              "Bet on which team tops each group",
+              "Available once World Cup draw is complete",
+              "Value opportunities in groups with clear favorites",
+              "Link to World Cup groups betting page"
+            ]
+          },
+          {
+            "type": "h3",
+            "title": "Tournament Specials",
+            "word_count": 125,
+            "writer_must_cover": [
+              "Total tournament goals over/under",
+              "Total red/yellow cards in tournament",
+              "Which continent produces the winner",
+              "Will any host nation (USA, Mexico, Canada) win?",
+              "Highest scoring match over/under",
+              "Which sportsbooks offer these niche markets"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Best Sportsbooks for World Cup Futures",
+        "word_count": 450,
+        "keywords": ["world cup betting"],
+        "writer_must_cover": [
+          "Brief highlight for each of 7 brands focused on futures-specific strengths",
+          "FanDuel (75w): Best interface for comparing futures odds, clean market layout, Bet $5 Get $200",
+          "BetMGM (75w): Competitive futures odds, MGM Rewards integration, Up to $1,500 bonus",
+          "DraftKings (75w): Widest futures market selection, niche props, Bet $5 Get $200",
+          "Caesars (60w): Caesars Rewards, World Cup boosts, Up to $1,000",
+          "bet365 (60w): Earliest lines posted, deepest soccer coverage, Bet $1 Get $365",
+          "Fanatics (55w): FanCash for gear, growing platform, Up to $1,000",
+          "theScore BET (50w): Penn Play rewards, media integration, Up to $500"
+        ],
+        "mobile_experience_notes": "Include Mobile Experience paragraph (100-150w) per brand covering app rating, futures browsing experience, notification features for odds changes"
+      },
+      {
+        "type": "h2",
+        "title": "World Cup Futures Betting Strategy",
+        "word_count": 350,
+        "keywords": ["world cup betting odds"],
+        "writer_must_cover": [
+          "When to place futures bets (early for best odds vs waiting for information)",
+          "Hedging strategy: how to lock in profit if your futures bet is looking strong",
+          "Bankroll management for futures (these are long-term bets that tie up funds)",
+          "Shopping odds across sportsbooks (always compare before placing)",
+          "Historical ROI data on World Cup futures (favorites vs longshots)",
+          "The expanded 48-team format impact on futures value"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "FIFA World Cup 2026 Preview",
+        "word_count": 350,
+        "keywords": ["fifa world cup odds"],
+        "writer_must_cover": [
+          "Tournament dates: June 11 - July 19, 2026",
+          "Host countries: USA, Mexico, Canada (first tri-host World Cup, first in USA since 1994)",
+          "Expanded format: 48 teams (up from 32), 104 matches total",
+          "Key venues: MetLife Stadium (final), SoFi Stadium, AT&T Stadium, Hard Rock Stadium",
+          "What the expanded format means for betting (more games, more value opportunities)",
+          "How US hosting affects attendance, atmosphere, and home advantage",
+          "Link to World Cup 2026 schedule page"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Payment Methods",
+        "word_count": 150,
+        "writer_must_cover": [
+          "Comparison table: deposits/withdrawals by brand for all 7 sportsbooks",
+          "Fastest withdrawal methods (PayPal, Venmo)",
+          "Minimum deposit amounts per sportsbook",
+          "Note that futures bet winnings may not be available until tournament concludes"
+        ]
+      },
+      {
+        "type": "h2",
+        "title": "Frequently Asked Questions",
+        "word_count": 400,
+        "notes": "8 FAQs targeting specific keywords"
+      },
+      {
+        "type": "calculator_tools",
+        "title": "Betting Tools",
+        "word_count": 75,
+        "writer_must_cover": [
+          "Link to parlay calculator for combining multiple futures bets",
+          "Link to odds converter for comparing American/decimal/fractional formats",
+          "Link to implied probability calculator for understanding futures odds value"
+        ]
+      },
+      {
+        "type": "responsible_gambling",
+        "title": "Responsible Gambling",
+        "word_count": 100,
+        "writer_must_cover": [
+          "21+ age requirement (18+ in MT, NH, RI, WY, DC)",
+          "Hotline: 1-800-522-4700",
+          "Futures bets tie up bankroll for extended periods - set limits accordingly",
+          "Link to responsible gambling resources",
+          "NO affiliate disclosure - it's in sidebar"
+        ]
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What are World Cup futures bets?",
+      "target_keyword": "world cup futures",
+      "volume": 150,
+      "answer_points": [
+        "Futures bets are wagers placed on outcomes that will be decided in the future, before the event begins",
+        "For World Cup 2026, this includes picking the tournament winner, golden boot winner, group winners, and more",
+        "Futures odds change as the tournament approaches based on team form, injuries, and betting action",
+        "You can place futures bets months before the World Cup kicks off on June 11, 2026"
+      ]
+    },
+    {
+      "question": "Who is the favorite to win the 2026 World Cup?",
+      "target_keyword": "world cup favorite",
+      "volume": 50,
+      "answer_points": [
+        "Brazil, France, Argentina, and England are the consensus favorites across major sportsbooks",
+        "Brazil typically has the shortest odds due to their historic success (5 World Cup titles)",
+        "Argentina enters as defending champions after winning in Qatar 2022",
+        "Odds will shift significantly as the tournament approaches based on qualifying and form"
+      ]
+    },
+    {
+      "question": "When should I place World Cup futures bets?",
+      "target_keyword": "strategy",
+      "volume": null,
+      "answer_points": [
+        "Earlier futures bets typically offer better odds because sportsbooks price in more uncertainty",
+        "The tradeoff is less information about team form, injuries, and tactical setups",
+        "Many sharp bettors place early futures on heavy favorites when odds are longest",
+        "Consider splitting your futures bankroll between early bets and closer-to-tournament wagers"
+      ]
+    },
+    {
+      "question": "What are the current World Cup 2026 odds?",
+      "target_keyword": "world cup odds 2026",
+      "volume": 800,
+      "answer_points": [
+        "Current odds vary by sportsbook - see our comparison table above for latest lines",
+        "Brazil, France, Argentina, and England are typically priced between +400 and +700",
+        "Host nation USA is typically priced around +1200 to +1600",
+        "Dark horse picks like Netherlands, Portugal, and Germany offer value at +800 to +1500"
+      ]
+    },
+    {
+      "question": "Can I bet on the World Cup Golden Boot winner?",
+      "target_keyword": "world cup golden boot odds",
+      "volume": 150,
+      "answer_points": [
+        "Yes, most major US sportsbooks offer Golden Boot (top scorer) futures markets",
+        "DraftKings typically has the widest selection of Golden Boot odds",
+        "Recent World Cup Golden Boot winners include Mbappe (2022, 8 goals) and Kane (2018, 6 goals)",
+        "Golden Boot markets usually open 2-3 months before the tournament"
+      ]
+    },
+    {
+      "question": "Who will win the 2026 World Cup?",
+      "target_keyword": "who will win world cup",
+      "volume": 30,
+      "answer_points": [
+        "No one can predict with certainty, but oddsmakers favor Brazil, France, Argentina, and England",
+        "The expanded 48-team format adds unpredictability with more matches and potential upsets",
+        "Home advantage could benefit USA, Mexico, and Canada - historically hosts perform above expectations",
+        "Check our odds comparison table above for the latest consensus from 7 sportsbooks"
+      ]
+    },
+    {
+      "question": "Which sportsbook has the best World Cup futures odds?",
+      "target_keyword": "world cup betting",
+      "volume": 800,
+      "answer_points": [
+        "bet365 typically offers the earliest World Cup futures and competitive soccer odds",
+        "DraftKings has the widest selection of futures market types beyond just outright winner",
+        "FanDuel provides the best overall experience for browsing and comparing futures odds",
+        "Always compare odds across multiple sportsbooks before placing futures bets"
+      ]
+    },
+    {
+      "question": "How do World Cup winner odds work?",
+      "target_keyword": "world cup winner odds",
+      "volume": 600,
+      "answer_points": [
+        "World Cup winner odds are displayed in American format (e.g., Brazil +450 means a $100 bet wins $450)",
+        "Shorter odds (lower numbers) indicate favorites; longer odds (higher numbers) indicate underdogs",
+        "You can convert odds to implied probability to assess value - Brazil at +450 implies about 18% win probability",
+        "Futures odds change constantly based on betting volume, team news, and qualifying results"
+      ]
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "World Cup 2026 betting sites",
+      "url": "/sport/betting/soccer/world-cup-2026.htm",
+      "placement": "Introduction (paragraph 1)"
+    },
+    {
+      "anchor": "how to bet on World Cup",
+      "url": "/sport/betting/soccer/world-cup-2026/how-to-bet.htm",
+      "placement": "Introduction (paragraph 2)"
+    },
+    {
+      "anchor": "World Cup groups betting",
+      "url": "/sport/betting/soccer/world-cup-2026/groups.htm",
+      "placement": "Group Winners H3 subsection"
+    },
+    {
+      "anchor": "World Cup 2026 schedule",
+      "url": "/sport/betting/soccer/world-cup-2026/schedule.htm",
+      "placement": "FIFA World Cup 2026 Preview section"
+    },
+    {
+      "anchor": "soccer betting",
+      "url": "/sport/betting/soccer/index.htm",
+      "placement": "Strategy section"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/tools/parlay-calculator.htm",
+      "placement": "Betting Tools section"
+    },
+    {
+      "anchor": "odds converter",
+      "url": "/sport/betting/tools/odds-converter.htm",
+      "placement": "Betting Tools section"
+    },
+    {
+      "anchor": "FanDuel review",
+      "url": "/sport/betting/sportsbook-reviews/fanduel/index.htm",
+      "placement": "FanDuel brand highlight"
+    },
+    {
+      "anchor": "BetMGM review",
+      "url": "/sport/betting/sportsbook-reviews/betmgm/index.htm",
+      "placement": "BetMGM brand highlight"
+    },
+    {
+      "anchor": "DraftKings review",
+      "url": "/sport/betting/sportsbook-reviews/draftkings/index.htm",
+      "placement": "DraftKings brand highlight"
+    },
+    {
+      "anchor": "sports betting apps",
+      "url": "/sport/betting/best-apps.htm",
+      "placement": "Strategy section"
+    },
+    {
+      "anchor": "implied probability calculator",
+      "url": "/sport/betting/tools/probability-calculator.htm",
+      "placement": "World Cup Winner Odds Comparison section"
+    }
+  ],
+  "source_requirements": {
+    "tier_1_mandatory": [
+      {
+        "source": "App Store",
+        "usage": "Rating and review count for each sportsbook app",
+        "format": "X.X/5 (X.XM reviews)"
+      },
+      {
+        "source": "Google Play",
+        "usage": "Rating and review count for Android apps",
+        "format": "X.X/5 (XXK reviews)"
+      },
+      {
+        "source": "Reddit r/sportsbook",
+        "usage": "User experiences with World Cup futures betting, which books have best odds",
+        "format": "Reddit users report [finding] (X threads)"
+      }
+    ],
+    "tier_2_verification": [
+      {
+        "source": "Official sportsbook sites",
+        "usage": "Verify bonus terms, futures market availability, current odds"
+      },
+      {
+        "source": "FIFA.com",
+        "usage": "Tournament dates, format, venue information, qualified teams"
+      },
+      {
+        "source": "Historical World Cup data",
+        "usage": "Past winners, Golden Boot results, tournament statistics for predictions"
+      }
+    ],
+    "tier_4_sparingly": [
+      {
+        "source": "Affiliate sites (Action Network, Covers)",
+        "usage": "Research gaps ONLY",
+        "warning": "NEVER cite for pros/cons"
+      }
+    ]
+  },
+  "brands": [
+    {
+      "position": 1,
+      "brand": "FanDuel",
+      "badge": "FD",
+      "color": "#1493FF",
+      "status": "LOCKED",
+      "usp": "Best app for browsing and comparing World Cup futures odds across all market types",
+      "welcome_offer": "Bet $5, Get $200 in Bonus Bets",
+      "word_count": 75,
+      "mobile_experience_word_count": 100
+    },
+    {
+      "position": 2,
+      "brand": "BetMGM",
+      "badge": "MGM",
+      "color": "#BFA36B",
+      "status": "LOCKED",
+      "usp": "Competitive futures odds with MGM Rewards earned on every World Cup wager",
+      "welcome_offer": "Up to $1,500 in Bonus Bets",
+      "word_count": 75,
+      "mobile_experience_word_count": 100
+    },
+    {
+      "position": 3,
+      "brand": "DraftKings",
+      "badge": "DK",
+      "color": "#53D337",
+      "status": "Research-driven",
+      "usp": "Widest selection of World Cup futures markets including niche props and tournament specials",
+      "welcome_offer": "Bet $5, Get $200 in Bonus Bets",
+      "word_count": 75,
+      "mobile_experience_word_count": 100
+    },
+    {
+      "position": 4,
+      "brand": "Caesars",
+      "badge": "CZR",
+      "color": "#0A2240",
+      "status": "Research-driven",
+      "usp": "Caesars Rewards on futures bets plus exclusive World Cup odds boosts",
+      "welcome_offer": "Up to $1,000 First Bet",
+      "word_count": 60,
+      "mobile_experience_word_count": 100
+    },
+    {
+      "position": 5,
+      "brand": "bet365",
+      "badge": "365",
+      "color": "#0E7B46",
+      "status": "Research-driven",
+      "usp": "Earliest World Cup futures lines and deepest international soccer market coverage",
+      "welcome_offer": "Bet $1, Get $365 in Bonus Bets",
+      "word_count": 60,
+      "mobile_experience_word_count": 100
+    },
+    {
+      "position": 6,
+      "brand": "Fanatics",
+      "badge": "FAN",
+      "color": "#0050C8",
+      "status": "Research-driven",
+      "usp": "Earn FanCash on World Cup futures bets redeemable for team jerseys and gear",
+      "welcome_offer": "Get up to $1,000 in Bonus Bets",
+      "word_count": 55,
+      "mobile_experience_word_count": 100
+    },
+    {
+      "position": 7,
+      "brand": "theScore BET",
+      "badge": "SCR",
+      "color": "#8B2A8B",
+      "status": "Research-driven",
+      "usp": "Media-integrated betting with Penn Play rewards and live World Cup coverage",
+      "welcome_offer": "Second Chance Bet up to $500",
+      "word_count": 50,
+      "mobile_experience_word_count": 100
+    }
+  ],
+  "compliance": {
+    "age_requirement": "21+ (18+ in MT, NH, RI, WY, DC)",
+    "hotline": "1-800-522-4700",
+    "affiliate_disclosure_in_content": false,
+    "affiliate_disclosure_note": "NO affiliate disclosure in content - it's in website sidebar",
+    "responsible_gambling_section": true
+  },
+  "eeat_requirements": {
+    "author_name": "Tom Goldsmith",
+    "author_credentials": "Sports betting analyst with expertise in soccer futures markets and international tournament betting",
+    "author_bio_link": "/about/authors/tom-goldsmith.htm",
+    "reviewed_by": null,
+    "last_updated_required": true
+  },
+  "competitor_references": [
+    {
+      "domain": "actionnetwork.com",
+      "url": "https://www.actionnetwork.com/soccer/world-cup-odds",
+      "notes": "Odds presentation format, expert picks structure"
+    },
+    {
+      "domain": "covers.com",
+      "url": "https://www.covers.com/soccer/world-cup/odds",
+      "notes": "FAQ section approach, odds table format"
+    },
+    {
+      "domain": "thelines.com",
+      "url": "https://www.thelines.com/betting/soccer/world-cup/",
+      "notes": "Real-time odds comparison, sportsbook links format"
+    }
+  ],
+  "word_count_by_section": {
+    "introduction": 150,
+    "comparison_table": 100,
+    "quick_answer": 75,
+    "odds_predictions": 550,
+    "winner_odds_comparison": 450,
+    "types_of_futures": 450,
+    "best_sportsbooks": 450,
+    "betting_strategy": 350,
+    "tournament_preview": 350,
+    "payment_methods": 150,
+    "faqs": 400,
+    "calculator_tools": 75,
+    "responsible_gambling": 100,
+    "total": 3650
+  },
+  "validation": {
+    "keywords_mapped": 16,
+    "unmapped_keywords": "NONE",
+    "secondary_volume_total": 15310,
+    "faqs_count": 8,
+    "internal_links_count": 12,
+    "brands_count": 7,
+    "mobile_sections_per_brand": true,
+    "payment_methods_section": true,
+    "calculator_links": true
+  },
+  "metadata": {
+    "created": "2026-04-01",
+    "phase": 2,
+    "version": "1.0",
+    "input_file": "futures-phase1.json"
+  }
+}
