@@ -746,4 +746,446 @@ Place immediately after H1:
 
 ---
 
-END OF FIRST HALF - AI ENHANCEMENT BRIEF
+## SCHEMA MARKUP
+
+### Article Schema
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Bet on World Cup | Complete Betting Guide",
+  "author": {
+    "@type": "Person",
+    "name": "Tom Goldsmith",
+    "url": "https://www.topendsports.com/about/authors/tom-goldsmith.htm"
+  },
+  "datePublished": "2026-04-01",
+  "dateModified": "2026-04-01",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Topend Sports",
+    "url": "https://www.topendsports.com"
+  },
+  "description": "Learn how to bet on the 2026 FIFA World Cup. Compare 5 top sportsbooks, understand bet types, odds, and live betting strategies for soccer.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topendsports.com/sport/betting/soccer/world-cup-2026/how-to-bet.htm"
+  }
+}
+</script>
+```
+
+### FAQ Schema
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I bet on the FIFA World Cup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To bet on the FIFA World Cup, create an account at a licensed US sportsbook such as FanDuel, BetMGM, or DraftKings. You must be 21 or older and physically located in a legal sports betting state. After depositing funds, navigate to the soccer or World Cup section and choose from bet types including moneyline (match winner), goal spread, over/under totals, prop bets like first goal scorer, and parlays combining multiple matches. FanDuel offers the best soccer betting interface for World Cup wagering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best sportsbooks for World Cup betting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best sportsbooks for World Cup 2026 betting are FanDuel (best overall soccer interface and same-game parlays), BetMGM (widest World Cup market variety with MGM Rewards), DraftKings (excellent live in-play betting with real-time odds), Caesars (strongest parlay builder with up to 12-leg SGPs), and bet365 (live streaming of matches and deepest prop market selection). All five are licensed in multiple US states and offer dedicated World Cup betting sections during the tournament."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I bet on World Cup games live?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all major US sportsbooks offer live in-play betting during World Cup matches. FanDuel and bet365 provide the best live betting interfaces for soccer. Available live markets include next goal scorer, match result, corners, cards, total goals, and time of next goal. Odds update in real time based on match events. bet365 also offers live streaming of World Cup matches in select states, letting you watch and bet simultaneously from one app."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of bets can I place on the World Cup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World Cup bet types include moneyline (picking the match winner or draw), goal spread (handicap betting like -1.5 goals), over/under totals (total goals in a match), prop bets (first goal scorer, number of corners, cards issued), parlays (combining multiple match bets for higher payouts), and futures (tournament winner, Golden Boot, group winners). Same-game parlays let you combine multiple bets within a single World Cup match on FanDuel and DraftKings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do World Cup parlays work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World Cup parlays combine two or more bets into a single wager where all selections must win for the parlay to pay out. For example, you might combine Brazil to win, France to win, and over 2.5 goals in another match. The odds multiply together, creating significantly higher potential payouts than individual bets. Use our parlay calculator to see exact payouts. FanDuel and DraftKings offer same-game parlays for individual World Cup matches, letting you combine match result, goal scorers, and props."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the current World Cup 2026 odds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "World Cup 2026 odds are available at all major US sportsbooks. Brazil, France, Argentina, and England are consensus favorites with odds typically ranging from +400 to +700. Host nation USA is usually priced around +1200 to +1600. Odds vary between sportsbooks, so comparing across FanDuel, DraftKings, and bet365 is recommended. These odds will shift significantly as the June 2026 tournament approaches based on qualifying results, injuries, and friendly match performances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is World Cup spread betting available in the US?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, World Cup spread betting (also called goal handicap or Asian handicap) is available at all major US sportsbooks. A typical World Cup spread might be Brazil -1.5 goals against a weaker opponent, meaning Brazil must win by 2 or more goals for the spread bet to cash. Spreads are available for both group stage and knockout round matches. During group stage, 3-way spreads with draw options are common. In knockout rounds, spreads apply to regular time (90 minutes) or full time including extra time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What World Cup betting strategies should beginners use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginners should start with simple moneyline bets on group stage matches where favorites are clear. Set a bankroll and never wager more than 5% on a single game. Compare odds across at least three sportsbooks before placing bets since lines vary. Use our parlay calculator and odds converter tools to understand potential payouts. For group stage, consider draw probabilities as World Cup groups produce draws frequently. Avoid betting on every match and focus on games where you have strong conviction based on team form and matchup analysis."
+      }
+    }
+  ]
+}
+</script>
+```
+
+### Breadcrumb Schema
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.topendsports.com/"},
+    {"@type": "ListItem", "position": 2, "name": "Betting", "item": "https://www.topendsports.com/sport/betting/index.htm"},
+    {"@type": "ListItem", "position": 3, "name": "Soccer", "item": "https://www.topendsports.com/sport/betting/soccer/index.htm"},
+    {"@type": "ListItem", "position": 4, "name": "World Cup 2026", "item": "https://www.topendsports.com/sport/betting/soccer/world-cup-2026.htm"},
+    {"@type": "ListItem", "position": 5, "name": "How to Bet", "item": "https://www.topendsports.com/sport/betting/soccer/world-cup-2026/how-to-bet.htm"}
+  ]
+}
+</script>
+```
+
+---
+
+## INTERACTIVE ELEMENTS
+
+### Bet Type Calculator
+
+```html
+<div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #2e7d32;">
+  <h3 style="margin-top: 0; color: #2e7d32;">World Cup Bet Calculator</h3>
+  <div style="margin-bottom: 1rem;">
+    <label style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Bet Amount ($):</label>
+    <input type="number" id="calcBetAmount" value="10" min="1" style="padding: 0.5rem; width: 200px; border: 1px solid #ddd; border-radius: 4px;">
+  </div>
+  <div style="margin-bottom: 1rem;">
+    <label style="display: block; margin-bottom: 0.5rem; font-weight: 600;">American Odds:</label>
+    <input type="number" id="calcOdds" value="+150" style="padding: 0.5rem; width: 200px; border: 1px solid #ddd; border-radius: 4px;">
+  </div>
+  <button onclick="calculatePayout()" style="background: #2e7d32; color: white; padding: 0.75rem 1.5rem; border: none; border-radius: 4px; cursor: pointer; font-weight: 600;">Calculate Payout</button>
+  <div id="calcResult" style="margin-top: 1rem; padding: 1rem; background: #e8f5e9; border-radius: 4px; display: none;">
+    <p style="margin: 0;"><strong>Potential Payout:</strong> $<span id="calcPayout">0</span></p>
+    <p style="margin: 0.5rem 0 0; font-size: 14px; color: #666;"><strong>Profit:</strong> $<span id="calcProfit">0</span></p>
+  </div>
+  <p style="font-size: 13px; color: #666; margin-top: 1rem;">
+    Need help with parlays? Use our <a href="/sport/betting/tools/parlay-calculator.htm">parlay calculator</a> for multi-leg bets.
+  </p>
+</div>
+```
+
+### State Availability Checker
+
+```html
+<div style="background: #f8f9fa; padding: 2rem; border-radius: 8px; margin: 2rem 0; border-left: 4px solid #1976d2;">
+  <h3 style="margin-top: 0; color: #1976d2;">Check Sportsbook Availability in Your State</h3>
+  <div style="margin-bottom: 1rem;">
+    <select id="state-select" onchange="checkState()" style="padding: 0.75rem; width: 100%; border: 1px solid #ddd; border-radius: 4px; font-size: 16px;">
+      <option value="">-- Select Your State --</option>
+      <option value="AZ">Arizona</option>
+      <option value="CO">Colorado</option>
+      <option value="CT">Connecticut</option>
+      <option value="DC">Washington D.C.</option>
+      <option value="IL">Illinois</option>
+      <option value="IN">Indiana</option>
+      <option value="IA">Iowa</option>
+      <option value="KS">Kansas</option>
+      <option value="KY">Kentucky</option>
+      <option value="LA">Louisiana</option>
+      <option value="MA">Massachusetts</option>
+      <option value="MD">Maryland</option>
+      <option value="MI">Michigan</option>
+      <option value="NC">North Carolina</option>
+      <option value="NJ">New Jersey</option>
+      <option value="NY">New York</option>
+      <option value="OH">Ohio</option>
+      <option value="PA">Pennsylvania</option>
+      <option value="TN">Tennessee</option>
+      <option value="VA">Virginia</option>
+      <option value="VT">Vermont</option>
+      <option value="WV">West Virginia</option>
+      <option value="WY">Wyoming</option>
+    </select>
+  </div>
+  <div id="state-results" style="margin-top: 1rem;"></div>
+  <button id="clear-state-btn" onclick="clearStateFilter()" style="display: none; margin-top: 0.5rem; background: #666; color: white; padding: 0.5rem 1rem; border: none; border-radius: 4px; cursor: pointer;">Clear</button>
+</div>
+```
+
+### FAQ Accordion
+
+```html
+<div style="margin: 2rem 0;">
+  <h2 style="color: #2e7d32; margin-bottom: 1.5rem;">Frequently Asked Questions</h2>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>How do I bet on the FIFA World Cup?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Create an account at a licensed US sportsbook like FanDuel, BetMGM, or DraftKings. You must be 21+ and in a legal state. Deposit funds, navigate to the soccer/World Cup section, and choose from moneyline, spread, totals, props, and parlays. FanDuel offers the best soccer interface.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>What are the best sportsbooks for World Cup betting?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>FanDuel (best interface), BetMGM (widest markets), DraftKings (best live betting), Caesars (strongest parlays), and bet365 (live streaming and deepest props). All are licensed in multiple states and offer World Cup sections.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>Can I bet on World Cup games live?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Yes, all major sportsbooks offer live in-play World Cup betting. FanDuel and bet365 have the best live interfaces. Markets include next goal scorer, match result, corners, cards, and total goals with real-time odds updates.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>What types of bets can I place on the World Cup?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Moneyline (match winner/draw), goal spread (handicap), over/under totals, prop bets (first scorer, corners, cards), parlays (multi-match combos), and futures (tournament winner, Golden Boot). Same-game parlays available on FanDuel and DraftKings.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>How do World Cup parlays work?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Parlays combine 2+ bets into one wager. All legs must win for the parlay to pay out. Odds multiply for higher potential payouts. Use our <a href="/sport/betting/tools/parlay-calculator.htm">parlay calculator</a> for exact payouts. FanDuel and DraftKings offer same-game parlays for single matches.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>What are the current World Cup 2026 odds?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Brazil, France, Argentina, and England are favorites at +400 to +700. Host USA is priced at +1200 to +1600. Odds vary by sportsbook so compare FanDuel, DraftKings, and bet365. Odds will shift as the tournament approaches.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>Is World Cup spread betting available in the US?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Yes, all major sportsbooks offer goal spreads. A typical spread: Brazil -1.5 means they must win by 2+ goals. Available for group stage and knockouts. Three-way spreads with draws are common in group stage matches.</p>
+    </div>
+  </div>
+
+  <div class="faq-accordion">
+    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+      <span>What World Cup betting strategies should beginners use?</span>
+      <span class="faq-icon">&#9660;</span>
+    </div>
+    <div class="faq-answer">
+      <p>Start with moneyline bets on group stage favorites. Set a bankroll and never bet more than 5% per game. Compare odds across 3+ sportsbooks. Use our tools: <a href="/sport/betting/tools/parlay-calculator.htm">parlay calculator</a> and <a href="/sport/betting/tools/odds-converter.htm">odds converter</a>. Focus on matches where you have strong conviction.</p>
+    </div>
+  </div>
+</div>
+```
+
+---
+
+## RESPONSIBLE GAMBLING
+
+```html
+<div style="background: #fff3cd; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; border-left: 4px solid #ffc107;">
+  <h3 style="margin-top: 0; color: #856404;">Gamble Responsibly</h3>
+  <ul style="line-height: 1.8;">
+    <li><strong>National Hotline:</strong> 1-800-522-4700 (24/7)</li>
+    <li><strong>Chat:</strong> ncpgambling.org/chat</li>
+    <li><strong>Text:</strong> 1-800-522-4700</li>
+  </ul>
+  <p style="font-size: 14px; color: #666;">
+    Must be 21+ to bet (18+ in MT, NH, RI, WY, DC). Check local laws before wagering. Set deposit limits and take breaks when needed.
+  </p>
+</div>
+```
+
+---
+
+## COMPLETE CSS
+
+```css
+/* Letter Badge Styles */
+.letter-badge {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    flex-shrink: 0;
+}
+.badge-fd { background: #1493ff; }
+.badge-mgm { background: #bfa36b; }
+.badge-dk { background: #53d337; }
+.badge-czr { background: #0a2240; }
+.badge-365 { background: #0e7b46; }
+
+/* Comparison Table */
+.wc-comparison { background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 2rem 0; }
+.wc-comparison .table-header h2 { margin-top: 0; color: #2e7d32; }
+.wc-comparison .mobile-scroll-hint { display: none; background: #fff3cd; padding: 0.75rem; border-radius: 4px; text-align: center; margin-bottom: 1rem; font-size: 0.9rem; color: #856404; }
+.wc-comparison .table-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.wc-comparison table { width: 100%; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-collapse: collapse; }
+.wc-comparison th { background: #2e7d32; color: white; padding: 1rem; text-align: left; font-weight: 600; }
+.wc-comparison td { padding: 1rem 0.75rem; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+.sportsbook-cell { display: flex; align-items: center; gap: 0.75rem; }
+.book-logo { width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; border-radius: 8px; font-weight: bold; font-size: 0.9rem; color: white; flex-shrink: 0; }
+.book-name { font-weight: 700; font-size: 1.1rem; color: #333; }
+.bonus-amount { font-weight: 700; font-size: 1rem; color: #2e7d32; display: block; }
+.bonus-details { font-size: 0.85rem; color: #666; display: block; margin-bottom: 0.5rem; }
+.cta-button { display: inline-block; background: #2e7d32; color: white; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background 0.3s ease; }
+.cta-button:hover { background: #1b5e20; }
+.wc-highlight { display: block; font-weight: 700; color: #2e7d32; margin-bottom: 0.5rem; }
+.feature-tag { display: inline-block; background: #e8f5e9; color: #2e7d32; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.8rem; margin: 0.2rem; border: 1px solid #c8e6c9; }
+.terms-box { background: #fff3cd; padding: 0.75rem; border-radius: 6px; border-left: 4px solid #ffc107; font-size: 0.85rem; }
+.gambling-warning { margin-top: 0.75rem; padding-top: 0.75rem; border-top: 2px solid #ffc107; font-weight: 600; color: #d32f2f; }
+.table-disclaimer { font-size: 12px; color: #666; margin-top: 0.5rem; }
+
+/* FAQ Accordion */
+.faq-accordion { background: white; margin-bottom: 1rem; border-radius: 8px; border: 1px solid #dee2e6; overflow: hidden; }
+.faq-question { background: #f8f9fa; padding: 1.25rem 1.5rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.3s; font-weight: 600; }
+.faq-question:hover { background: #e9ecef; }
+.faq-icon { color: #2e7d32; font-size: 1rem; transition: transform 0.3s; }
+.faq-accordion.active .faq-icon { transform: rotate(180deg); }
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; padding: 0 1.5rem; }
+.faq-accordion.active .faq-answer { max-height: 500px; padding: 1.25rem 1.5rem; }
+
+/* Responsive */
+@media (max-width: 768px) {
+    .wc-comparison .mobile-scroll-hint { display: block; animation: pulse 2s infinite; }
+    .sportsbook-cell { flex-direction: column; text-align: center; }
+    .sticky-cta-content { flex-direction: column; text-align: center; }
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+```
+
+---
+
+## COMPLETE JAVASCRIPT
+
+```html
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('How to Bet - Interactive elements initialized');
+
+    /* State Checker Data */
+    var stateData = {
+        'AZ': { name: 'Arizona', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'CO': { name: 'Colorado', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'CT': { name: 'Connecticut', books: ['FanDuel', 'DraftKings'] },
+        'DC': { name: 'Washington D.C.', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'IL': { name: 'Illinois', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'IN': { name: 'Indiana', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'IA': { name: 'Iowa', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'KS': { name: 'Kansas', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'KY': { name: 'Kentucky', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'LA': { name: 'Louisiana', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'MA': { name: 'Massachusetts', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'MD': { name: 'Maryland', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'MI': { name: 'Michigan', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'NC': { name: 'North Carolina', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'NJ': { name: 'New Jersey', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'NY': { name: 'New York', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'OH': { name: 'Ohio', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'PA': { name: 'Pennsylvania', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'TN': { name: 'Tennessee', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'VA': { name: 'Virginia', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars', 'bet365'] },
+        'VT': { name: 'Vermont', books: ['FanDuel', 'DraftKings'] },
+        'WV': { name: 'West Virginia', books: ['FanDuel', 'BetMGM', 'DraftKings', 'Caesars'] },
+        'WY': { name: 'Wyoming', books: ['FanDuel', 'DraftKings'] }
+    };
+
+    window.checkState = function() {
+        var stateCode = document.getElementById('state-select').value;
+        var resultsDiv = document.getElementById('state-results');
+        var clearBtn = document.getElementById('clear-state-btn');
+        if (!stateCode) { resultsDiv.innerHTML = ''; clearBtn.style.display = 'none'; return; }
+        var info = stateData[stateCode];
+        if (info) {
+            var html = '<div style="background: #e8f5e9; padding: 1rem; border-radius: 6px;"><strong>Available in ' + info.name + ':</strong><br>';
+            info.books.forEach(function(book) {
+                html += '<span style="display: inline-block; background: #2e7d32; color: white; padding: 0.25rem 0.75rem; border-radius: 20px; margin: 0.25rem; font-size: 0.9rem;">' + book + '</span>';
+            });
+            html += '</div>';
+            resultsDiv.innerHTML = html;
+            clearBtn.style.display = 'inline-block';
+        }
+    };
+
+    window.clearStateFilter = function() {
+        document.getElementById('state-select').value = '';
+        document.getElementById('state-results').innerHTML = '';
+        document.getElementById('clear-state-btn').style.display = 'none';
+    };
+
+    window.calculatePayout = function() {
+        var amount = parseFloat(document.getElementById('calcBetAmount').value);
+        var odds = parseInt(document.getElementById('calcOdds').value);
+        if (isNaN(amount) || isNaN(odds) || amount <= 0) { return; }
+        var profit = 0;
+        if (odds > 0) { profit = amount * (odds / 100); }
+        else if (odds < 0) { profit = amount * (100 / Math.abs(odds)); }
+        var payout = amount + profit;
+        document.getElementById('calcPayout').textContent = payout.toFixed(2);
+        document.getElementById('calcProfit').textContent = profit.toFixed(2);
+        document.getElementById('calcResult').style.display = 'block';
+    };
+});
+</script>
+```
+
+---
+
+END OF AI ENHANCEMENT BRIEF
