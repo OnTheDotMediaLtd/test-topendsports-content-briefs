@@ -1,0 +1,396 @@
+{
+  "pageName": "how-to-bet",
+  "phase": 2,
+  "basedOn": "how-to-bet-phase1.json",
+  "contentOutline": {
+    "h1": {
+      "title": "How to Bet on the World Cup: Complete 2026 Betting Guide",
+      "primaryKeyword": "how to bet on world cup",
+      "wordCount": 0
+    },
+    "sections": [
+      {
+        "type": "intro",
+        "title": "Introduction",
+        "wordCount": "100-150",
+        "keywords": ["how to bet on world cup", "how to bet on the world cup", "world cup betting"]
+      },
+      {
+        "type": "comparison-table",
+        "title": "Top World Cup Betting Sites at a Glance",
+        "wordCount": "N/A",
+        "note": "Visual component built in Phase 3"
+      },
+      {
+        "type": "H2",
+        "title": "World Cup Betting Markets Explained",
+        "keyword": "world cup betting",
+        "volume": 800,
+        "wordCount": "300-350",
+        "h3s": [
+          {
+            "title": "World Cup Prop Bets and Specials",
+            "keyword": "world cup prop bets",
+            "volume": 90,
+            "wordCount": "150-200"
+          },
+          {
+            "title": "World Cup Winner Odds and Futures",
+            "keyword": "world cup winner odds",
+            "volume": 600,
+            "wordCount": "150-200"
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Step-by-Step Guide to Placing Your First World Cup Bet",
+        "keyword": "how to bet on the world cup",
+        "volume": 150,
+        "wordCount": "350-400",
+        "h3s": []
+      },
+      {
+        "type": "H2",
+        "title": "World Cup Odds and How to Read Them",
+        "keyword": "world cup odds",
+        "volume": 2300,
+        "wordCount": "250-300",
+        "h3s": [
+          {
+            "title": "World Cup 2026 Odds Overview",
+            "keyword": "world cup odds 2026",
+            "volume": 800,
+            "wordCount": "200-250"
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Live Betting During World Cup Matches",
+        "keyword": "world cup live betting",
+        "volume": 150,
+        "wordCount": "200-250",
+        "h3s": [
+          {
+            "title": "World Cup Betting Tips for Beginners",
+            "keyword": "world cup betting tips",
+            "volume": 100,
+            "wordCount": "150-200"
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Best World Cup Betting Sites",
+        "keyword": "world cup betting sites",
+        "volume": 200,
+        "wordCount": "250-300",
+        "h3s": [
+          {
+            "title": "FanDuel World Cup Betting",
+            "wordCount": "80-100"
+          },
+          {
+            "title": "BetMGM World Cup Betting",
+            "wordCount": "80-100"
+          },
+          {
+            "title": "DraftKings World Cup Betting",
+            "wordCount": "60-80"
+          },
+          {
+            "title": "Caesars World Cup Betting",
+            "wordCount": "60-80"
+          },
+          {
+            "title": "bet365 World Cup Betting",
+            "wordCount": "60-80"
+          }
+        ]
+      },
+      {
+        "type": "H2",
+        "title": "Payment Methods for World Cup Betting",
+        "wordCount": "150-200",
+        "h3s": []
+      },
+      {
+        "type": "H2",
+        "title": "Helpful Betting Tools",
+        "wordCount": "100-120",
+        "h3s": []
+      },
+      {
+        "type": "faqs",
+        "title": "World Cup Betting FAQs",
+        "wordCount": "640-800",
+        "questionCount": 8
+      },
+      {
+        "type": "responsible-gambling",
+        "title": "Responsible Gambling",
+        "wordCount": "150-200"
+      }
+    ]
+  },
+  "keywordMapping": [
+    {
+      "keyword": "how to bet on world cup",
+      "volume": 200,
+      "sectionType": "H1",
+      "exactSection": "How to Bet on the World Cup: Complete 2026 Betting Guide"
+    },
+    {
+      "keyword": "world cup betting",
+      "volume": 800,
+      "sectionType": "H2",
+      "exactSection": "World Cup Betting Markets Explained"
+    },
+    {
+      "keyword": "world cup odds",
+      "volume": 2300,
+      "sectionType": "H2",
+      "exactSection": "World Cup Odds and How to Read Them"
+    },
+    {
+      "keyword": "world cup betting sites",
+      "volume": 200,
+      "sectionType": "H2",
+      "exactSection": "Best World Cup Betting Sites"
+    },
+    {
+      "keyword": "how to bet on the world cup",
+      "volume": 150,
+      "sectionType": "H2",
+      "exactSection": "Step-by-Step Guide to Placing Your First World Cup Bet"
+    },
+    {
+      "keyword": "world cup live betting",
+      "volume": 150,
+      "sectionType": "H2",
+      "exactSection": "Live Betting During World Cup Matches"
+    },
+    {
+      "keyword": "world cup betting tips",
+      "volume": 100,
+      "sectionType": "H3",
+      "exactSection": "World Cup Betting Tips for Beginners"
+    },
+    {
+      "keyword": "world cup prop bets",
+      "volume": 90,
+      "sectionType": "H3",
+      "exactSection": "World Cup Prop Bets and Specials"
+    },
+    {
+      "keyword": "world cup parlay",
+      "volume": 60,
+      "sectionType": "FAQ",
+      "exactSection": "How Do World Cup Parlays Work?"
+    },
+    {
+      "keyword": "bet on world cup",
+      "volume": 50,
+      "sectionType": "Natural",
+      "exactSection": "Introduction and Step-by-Step Guide sections"
+    },
+    {
+      "keyword": "world cup odds 2026",
+      "volume": 800,
+      "sectionType": "H3",
+      "exactSection": "World Cup 2026 Odds Overview"
+    },
+    {
+      "keyword": "world cup winner odds",
+      "volume": 600,
+      "sectionType": "H3",
+      "exactSection": "World Cup Winner Odds and Futures"
+    },
+    {
+      "keyword": "world cup spread betting",
+      "volume": 20,
+      "sectionType": "FAQ",
+      "exactSection": "Is World Cup Spread Betting Available in the US?"
+    },
+    {
+      "keyword": "soccer betting world cup",
+      "volume": 20,
+      "sectionType": "Natural",
+      "exactSection": "World Cup Betting Markets Explained"
+    },
+    {
+      "keyword": "world cup betting strategy",
+      "volume": 0,
+      "sectionType": "FAQ",
+      "exactSection": "What World Cup Betting Strategies Should Beginners Use?"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I bet on the FIFA World Cup?",
+      "targetKeyword": "how to bet on world cup",
+      "answerGuidance": "Explain the process: choose a licensed US sportsbook (FanDuel, BetMGM, DraftKings), create an account, deposit funds, navigate to soccer/World Cup markets, select your bet type, enter stake, and confirm. Mention age requirement (21+) and that you must be in a legal state.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "What are the best sportsbooks for World Cup betting?",
+      "targetKeyword": "world cup betting sites",
+      "answerGuidance": "Recommend FanDuel for best soccer interface, BetMGM for competitive odds, DraftKings for live betting, Caesars for parlays, and bet365 for international soccer depth. Note all are licensed and regulated in the US.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "Can I bet on World Cup games live?",
+      "targetKeyword": "world cup live betting",
+      "answerGuidance": "Yes, all major US sportsbooks offer live in-play betting on World Cup matches. Cover available live markets (next goal, match result, totals), how odds shift during play, and which sportsbooks have the best live betting interfaces for soccer.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "What types of bets can I place on the World Cup?",
+      "targetKeyword": "world cup prop bets",
+      "answerGuidance": "Cover moneyline (match winner including draw), spread (goal handicap), totals (over/under goals), futures (tournament winner, group winners), and props (top scorer, number of cards, exact score). Mention same-game parlays combining multiple World Cup markets.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "How do World Cup parlays work?",
+      "targetKeyword": "world cup parlay",
+      "answerGuidance": "Explain combining multiple World Cup bets into one ticket for higher payouts. Cover same-game parlays (multiple bets within one match) and multi-match parlays (picks across different games). Note all selections must win. Link to parlay calculator for payout estimates.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "What are the current World Cup 2026 odds?",
+      "targetKeyword": "world cup odds 2026",
+      "answerGuidance": "Provide context on current futures odds landscape. Note that odds will shift as the tournament approaches. Mention favorites (typically Brazil, Argentina, France, England) and host nation value (USA). Direct readers to the World Cup 2026 odds page for live updates.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "Is World Cup spread betting available in the US?",
+      "targetKeyword": "world cup spread betting",
+      "answerGuidance": "Yes, US sportsbooks offer goal spreads (also called handicap betting) for World Cup matches. Explain how soccer spreads work with examples: Team A -1.5 goals means they must win by 2 or more. Cover alternate spreads and Asian handicaps where available.",
+      "wordCount": "80-100"
+    },
+    {
+      "question": "What World Cup betting strategies should beginners use?",
+      "targetKeyword": "world cup betting strategy",
+      "answerGuidance": "Cover bankroll management (bet 1-3% per wager), focus on group stage matches with more predictable outcomes, research team form and squad depth, consider draw odds in group stages (historically common), shop for best odds across multiple sportsbooks, and avoid emotional betting on home team.",
+      "wordCount": "80-100"
+    }
+  ],
+  "sourceRequirements": {
+    "tier1": [
+      "App Store ratings and reviews for each sportsbook (current data)",
+      "Google Play ratings and reviews for each sportsbook (current data)",
+      "Reddit r/sportsbook threads on World Cup betting experiences",
+      "Reddit r/soccer threads on World Cup 2026 format and schedule"
+    ],
+    "tier2": [
+      "FanDuel official World Cup betting markets page",
+      "BetMGM official soccer betting section",
+      "DraftKings official World Cup promotions",
+      "Caesars official World Cup betting page",
+      "bet365 official soccer betting section",
+      "FIFA official World Cup 2026 tournament format details"
+    ],
+    "tier4": [
+      "Competitor how-to guides for structural reference only (actionnetwork.com, covers.com, thelines.com)"
+    ]
+  },
+  "wordCountBySection": {
+    "introduction": "100-150",
+    "comparisonTable": "N/A (Phase 3 visual)",
+    "worldCupBettingMarketsExplained": "300-350",
+    "worldCupPropBets": "150-200",
+    "worldCupWinnerOdds": "150-200",
+    "stepByStepGuide": "350-400",
+    "worldCupOddsAndHowToRead": "250-300",
+    "worldCup2026OddsOverview": "200-250",
+    "liveBettingWorldCup": "200-250",
+    "worldCupBettingTips": "150-200",
+    "bestWorldCupBettingSites": "250-300",
+    "brandSubsections": "340-440 (5 brands combined)",
+    "paymentMethods": "150-200",
+    "calculatorTools": "100-120",
+    "faqs": "640-800 (8 at 80-100 each)",
+    "responsibleGambling": "150-200",
+    "total": "~2,500"
+  },
+  "internalLinks": [
+    {
+      "anchor": "World Cup 2026 betting sites",
+      "url": "/sport/betting/soccer/world-cup-2026.htm",
+      "placementSection": "Introduction (paragraph 2)"
+    },
+    {
+      "anchor": "World Cup futures betting",
+      "url": "/sport/betting/soccer/world-cup-2026/futures.htm",
+      "placementSection": "World Cup Winner Odds and Futures (H3)"
+    },
+    {
+      "anchor": "World Cup groups betting",
+      "url": "/sport/betting/soccer/world-cup-2026/groups.htm",
+      "placementSection": "World Cup Betting Markets Explained (H2)"
+    },
+    {
+      "anchor": "World Cup 2026 schedule",
+      "url": "/sport/betting/soccer/world-cup-2026/schedule.htm",
+      "placementSection": "Live Betting During World Cup Matches (H2)"
+    },
+    {
+      "anchor": "soccer betting",
+      "url": "/sport/betting/soccer/index.htm",
+      "placementSection": "Introduction (paragraph 1)"
+    },
+    {
+      "anchor": "parlay calculator",
+      "url": "/sport/betting/tools/parlay-calculator.htm",
+      "placementSection": "Helpful Betting Tools (H2)"
+    },
+    {
+      "anchor": "odds converter",
+      "url": "/sport/betting/tools/odds-converter.htm",
+      "placementSection": "Helpful Betting Tools (H2)"
+    },
+    {
+      "anchor": "FanDuel review",
+      "url": "/sport/betting/sportsbook-reviews/fanduel/index.htm",
+      "placementSection": "FanDuel World Cup Betting (H3)"
+    },
+    {
+      "anchor": "BetMGM review",
+      "url": "/sport/betting/sportsbook-reviews/betmgm/index.htm",
+      "placementSection": "BetMGM World Cup Betting (H3)"
+    },
+    {
+      "anchor": "DraftKings review",
+      "url": "/sport/betting/sportsbook-reviews/draftkings/index.htm",
+      "placementSection": "DraftKings World Cup Betting (H3)"
+    },
+    {
+      "anchor": "sports betting apps",
+      "url": "/sport/betting/best-apps.htm",
+      "placementSection": "Best World Cup Betting Sites (H2)"
+    },
+    {
+      "anchor": "implied probability calculator",
+      "url": "/sport/betting/tools/probability-calculator.htm",
+      "placementSection": "World Cup Odds and How to Read Them (H2)"
+    }
+  ],
+  "competitorReferences": [
+    {
+      "competitor": "Action Network",
+      "url": "https://www.actionnetwork.com/soccer/world-cup-betting",
+      "whatToNote": "H2 structure, step-by-step format, sportsbook integration points"
+    },
+    {
+      "competitor": "Covers",
+      "url": "https://www.covers.com/soccer/world-cup-betting",
+      "whatToNote": "FAQ depth, promotional content placement, bet type explanations"
+    },
+    {
+      "competitor": "The Lines",
+      "url": "https://www.thelines.com/betting/soccer/world-cup/",
+      "whatToNote": "Odds comparison format, data presentation, market coverage"
+    }
+  ]
+}
