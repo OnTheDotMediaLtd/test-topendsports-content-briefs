@@ -59,7 +59,7 @@ Use these pages as benchmarks for content depth and structure:
 
 | Keyword | Volume | Section Type | Exact Section Title |
 |---------|--------|--------------|---------------------|
-| world cup schedule | 63,000/mo | H1 | "World Cup Schedule | Complete 2026 FIFA Match Dates & Fixtures" |
+| world cup schedule | 63,000/mo | H1 | "World Cup Schedule - Complete 2026 FIFA Match Dates & Fixtures" |
 | world cup 2026 schedule | 22,000/mo | H2 | "World Cup 2026 Schedule & Match Dates" |
 | fifa world cup 2026 schedule | 14,000/mo | H2 | "World Cup 2026 Schedule & Match Dates" |
 | fifa world cup schedule | 14,000/mo | Natural | Introduction and H2 sections |
