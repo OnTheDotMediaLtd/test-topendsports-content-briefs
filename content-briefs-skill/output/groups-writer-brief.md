@@ -58,7 +58,7 @@ Use these pages as benchmarks for content depth and structure:
 
 | Keyword | Volume | Section Type | Exact Section Title |
 |---------|--------|--------------|---------------------|
-| world cup groups betting | 30/mo | H1 | "World Cup Groups Betting \| 2026 Group Stage Odds & Predictions" |
+| world cup groups betting | 30/mo | H1 | "World Cup Groups Betting - 2026 Group Stage Odds & Predictions" |
 | world cup groups | 30,000/mo | H2 | "2026 World Cup Groups Overview" |
 | world cup draw | 60,000/mo | H3 | "World Cup Draw Results" |
 | world cup group stage | 2,800/mo | H2 | "World Cup Group Stage Betting Guide" |
