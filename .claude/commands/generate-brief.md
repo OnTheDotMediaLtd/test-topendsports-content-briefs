@@ -434,6 +434,26 @@ You have FAILED if:
 
 ---
 
+## CRITICAL: Long-Form Output Method
+
+When generating output files (writer-brief.md, ai-enhancement.md, brief-control-sheet.md), use Bash heredoc, NOT the Write tool, to prevent timeout on large outputs.
+
+Split content into 500-1000 word sections:
+
+```bash
+# First section — creates the file
+cat > "content-briefs-skill/output/[page-name]-ai-enhancement.md" << 'SECTION_END'
+[first 500-1000 words of content]
+SECTION_END
+
+# Subsequent sections — append to the file
+cat >> "content-briefs-skill/output/[page-name]-ai-enhancement.md" << 'SECTION_END'
+[next 500-1000 words of content]
+SECTION_END
+```
+
+Use quoted delimiter (`<< 'SECTION_END'`) to preserve special characters and prevent variable expansion.
+
 ## NOW EXECUTE
 
 Start with Phase 0 (pre-flight). Execute EVERY step above in order. Report completion only after ALL validations pass.

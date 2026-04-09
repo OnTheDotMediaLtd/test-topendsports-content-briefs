@@ -132,6 +132,7 @@ When asked to "generate a brief" for ANY URL, you MUST:
 | Use estimated keyword data | Real data available via MCP or Python API |
 | Skip Phase 3 AI Enhancement | Dev team needs HTML/code implementation |
 | Create 1 file instead of 6 | Brief is incomplete without all outputs |
+| Use Write tool for 1000+ word output | Use Bash heredoc (`cat >> file << 'SECTION_END'`) in 500-1000 word chunks to prevent timeout |
 
 ---
 
